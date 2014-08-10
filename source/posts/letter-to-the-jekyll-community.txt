@@ -19,7 +19,7 @@ forks <http://github.com/tychoish/jekyll>`__ and work in relative
 isolation, I worry that there's limited space to have a conversation
 about how to best improve the platform. Here's a starting point:
 
--  **Performance** Jekyll, particularly for larger sites can take a
+- **Performance** Jekyll, particularly for larger sites can take a
 considerable time to run.
 
 I'm not familiar enough with ruby to be able to speak to any areas of
@@ -36,13 +36,13 @@ output files that require a lot of data to crunch (I'm thinking mostly
 of things like archives and of other long post loops.) Maybe developing
 some sort of internal index?
 
--  I'm (preliminarily) looking at using rpeg-markdown as a another
+- I'm (preliminarily) looking at using rpeg-markdown as a another
 markdown option, which should both allow the extended markdown syntax
 to work (woot!) and run much faster than maruku (and hopefully
 rdiscount). It seems difficult to install, but would generally be
 worthwhile.
 
--  *Increase usability* While jekyll *just works*, and the documentation
+- *Increase usability* While jekyll *just works*, and the documentation
 is reasonably effective given the audience; there isn't any automatic
 workflow for jekyll use. Having a few shell scripts and/or a "using
 jekyll" tutorial that explains day to day use would be quite helpful
@@ -55,13 +55,13 @@ hooks to generate the content automatically on commit/etc.
 It would be valuable to write up how to use rsync as that would likely
 make more sense in some situations. Same with running tasks in cron.
 
--  **Template Directory**: Most of the jekyll powered blogs that I've
+- **Template Directory**: Most of the jekyll powered blogs that I've
 seen have been pretty good about publishing the repositories for
 their sites. This is a good thing indeed, but given how the templates
 work, I think it would be good to collect various templates together
 for ease of access and educational proposes.
 
--  **Make Categories More Flexible**: While the current blog categories
+- **Make Categories More Flexible**: While the current blog categories
 support is great for adding "multiple blog" support, it makes it
 difficult to interact/loop posts that aren't in different categories.
 I'd like to have arbitrary ``site.key.value`` objects that work like

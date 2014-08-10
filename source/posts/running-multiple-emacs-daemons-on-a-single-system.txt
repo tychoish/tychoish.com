@@ -83,13 +83,13 @@ it for ten minutes before I can work" problem seem much less daunting.
 In conclusion I'd like to present one piece of unsolicited advice, and
 ask a question the assembled.
 
--  **Advice**: Even though it's possible to create a large number of
+- **Advice**: Even though it's possible to create a large number of
 emacs instances, and on modern systems the required RAM is pretty
 low, *avoid* this temptation. The more emacs instances you have to
 juggle the greater the chance that you'll forget what buffers are
 open in what instance. Undesirable.
 
--  **Question**: Is there a way to get the value of ``server-name`` in
+- **Question**: Is there a way to get the value of ``server-name`` in
 into emacs lisp so that I can ``if`` things against it? Haven't
 figured this one out yet, but it seems like it would be nice for
 conditionally loading buffers and things like org-mode agenda. Any

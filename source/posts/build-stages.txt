@@ -73,13 +73,13 @@ forcing users to specify the concurrency constraints of the tasks
 explicitly, rather than letting the concurrency emerge out of the
 dependency graph. Thoughts:
 
--  This depends on users being able to intuit the actual dependencies
+- This depends on users being able to intuit the actual dependencies
 abstractly, rather than rely on the emergence properties of Make.
 Arguably, Make also requires you to think abstractly about the
 potential concurrent modeling of the build, but allows you to avoid
 it in some situations.
 
--  If some large portion of the compilation process relies external
+- If some large portion of the compilation process relies external
 processes, the performance gains will probably be more modest.
 Process creation is still expensive, but it's probably marginally
 cheaper to use

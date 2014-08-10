@@ -21,23 +21,23 @@ all of these concerns. For me, the issue of "wearability," of a garment
 is often decided by features in a number of key locations. In list form
 they are:
 
--  **Sleeve length**: sleeves that are even a smudge too short irritate
+- **Sleeve length**: sleeves that are even a smudge too short irritate
 me. It's harder to make a sleeve too long than it to make it too
 short. As a corollary to this, it's also important that sleeves not
 be too narrow: a sleeve that can't comfortably accommodate a layer or
 two can be problematic.
--  **Collar**: I'll touch on this more in another issue, but I find that
+- **Collar**: I'll touch on this more in another issue, but I find that
 collars that are too tall or that fit too closely, make sweaters feel
 too warm, and/or itchy, and are thus to be avoided. In fact I
 "developed" an open collar or placated collar (I've seen them called
 "Henley necked" as well) style that helps alleviate this issue.
--  **Riding up in the back**: It's a little known fact that your back is
+- **Riding up in the back**: It's a little known fact that your back is
 slightly narrower and slightly longer than your front. It's one of
 those quirks of how we are shaped. To compensate, for this, when ever
 possible I think it's useful to make the back of a sweater slightly
 longer than the front. Typically I do this with short-rows, but there
 are other possible methods.
--  **Gussets**: These are little diamonds that you can insert in your
+- **Gussets**: These are little diamonds that you can insert in your
 sweater/knitting to create a little extra room to accommodate
 anatomical features. Most people know about gussets from knitting
 socks, where gussets are frequently added to help accommodate the
@@ -45,7 +45,7 @@ ankle/heel. Additionally, I find gussets greatly increase the
 wearability of a sweater when they're included at the base of the
 underarm. This increases the mobility of the sleeve, and can help
 prevent sweaters from being pulled up when you move your arms about.
--  **Cuffs**: This is, I suppose a corollary of *sleeve length*, but
+- **Cuffs**: This is, I suppose a corollary of *sleeve length*, but
 having a cuff that I'm comfortable with is generally pretty important
 to me. I'm not one for bell sleeve cuffs, so if you are you might
 want to ignore this matter of personal taste. I like it when cuffs
@@ -53,7 +53,7 @@ are noticeably tighter than the reset of the sleeve, and furthermore,
 I like it when the sleeve, doesn't need the cuff in order to be long
 enough. This can be over done, on both counts, but honest to god
 cuffs are important to me. Rant over.
--  **Vertical Lines**: A lot of knitting, the notable exception being
+- **Vertical Lines**: A lot of knitting, the notable exception being
 cable work/aran sweaters, tend towards strong horizontal lines. This
 follows from the fact that we tend to knit in rows or rounds that
 cross the sweater in horizontal rounds. If you change colors
@@ -69,7 +69,7 @@ stacking them (like cables). It's more or less true that some people
 look better than other people with horizontal lines, but I'd say its
 even more true that all people look better in garments that have
 vertical lines than in garments that have horizontal lines.
--  **Yarn Quality**:I often find myself falling into the trap wherein I
+- **Yarn Quality**:I often find myself falling into the trap wherein I
 say to myself "you knit because it's fun, not to produce things, and
 it doesn't matter what yarn you use, so buy something cheap because
 you're broke." And in truth, I am a college student, so I don't

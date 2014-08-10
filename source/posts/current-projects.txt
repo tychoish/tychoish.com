@@ -10,7 +10,7 @@ It's been a while since I've written about what I'm working on, so I
 wanted to write up a little post on the subject. Just to keep myself
 honest.
 
--  Last time I did this, I tried to promise myself that I'd get a draft
+- Last time I did this, I tried to promise myself that I'd get a draft
 **the novel** I'm working on done by the beginning of November in
 time for me to *not* do the NaNoWriMo project--as is my custom. That
 isn't going to happen.
@@ -28,7 +28,7 @@ least at the moment,) but I'm also keenly aware that I need to be done
 with it, and I need to move on, as it's been in progress for more than a
 year, and none of my reasons for not finishing it yet are very good.
 
--  I've been slowly working on a **knitting** project. A sweater knit at
+- I've been slowly working on a **knitting** project. A sweater knit at
 a fairly fine gauge, and incredibly plain. I'm happy with the project
 but I've pretty much given up entirely on Television watching, and as
 a result haven't found a lot of time to do knitting on a regular
@@ -37,7 +37,7 @@ during a couple of social interludes, but haven't really gotten into
 it. It's going well, and I've got about 9 inches done of the body. 7
 more till the armhole shaping begins.
 
--  I'm continuing to do the **contra dance** and **shape note** things.
+- I'm continuing to do the **contra dance** and **shape note** things.
 I think the shape note experience has been helpful for the way that I
 understand and participate in music, and that's a good thing indeed.
 I've picked up a few new contra dance things, though if a given week
@@ -47,7 +47,7 @@ before work, rather than in the evening, which is, I think better for
 my mind during the day at work, and also for getting work done on
 projects in the evening.
 
--  It seems like there's always something else in the project of
+- It seems like there's always something else in the project of
 "getting your technology to work the way it ought to," and as a
 result it seems like I always have something to **hack** upon. With
 my laptop running the right operating system, and doing so pretty

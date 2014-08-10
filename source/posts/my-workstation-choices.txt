@@ -12,35 +12,35 @@ ethos of my existing hardware setup, but I think, it's probably the
 right time to interject and clarify some of the choices and
 base-assumptions that I've made during this process.
 
--  My current systems (hardware):
+- My current systems (hardware):
 
--  A moderately powered dual-monitor workstation (ubuntu-from-Dell,
+- A moderately powered dual-monitor workstation (ubuntu-from-Dell,
 circa October 2008) that's running Ubuntu for the moment (probably
 move to arch or Debian in the next few months.) This was my work
 computer during the freelance period.
 
--  A thinkpad x41t (vintage 2005); 1.4 GHZ pentium M (?); 1.5 gigs of
+- A thinkpad x41t (vintage 2005); 1.4 GHZ pentium M (?); 1.5 gigs of
 ram; 60gb hard drive, running ubuntu with the lenny kernel. This is
 my main personal computer at the moment, as I haven't gotten the
 desktop setup yet. It's a great machine, but I do feel a bit cramped
 on it for heavy day-to-day useage, it's great for distraction free
 writing, and portability.
 
--  (The work computer) A contemporary vintage iMac running OS X 10.5
+- (The work computer) A contemporary vintage iMac running OS X 10.5
 latest, and also running Arch Linux in Sun's VirtualBox system.
 
--  (The infrastructure) Debian based virtual server(s), to provide my
+- (The infrastructure) Debian based virtual server(s), to provide my
 own personal cloud (web hosting, git hosting, file syncing, remote
 shell access, email).
 
--  My current systems (software; but application centered):
+- My current systems (software; but application centered):
 
--  **Window Mangement:** `awesome <http://awesome.naquadah.org>`__. I
+- **Window Mangement:** `awesome <http://awesome.naquadah.org>`__. I
 run `slim <http://slim.berlios.de/>`__ as a display manager on the
 laptop, and just use startx/xinit on the desktop/virtual box
 sessions.
 
--  **Email:** I use `mutt <http://www.mutt.org/>`__ for reading email,
+- **Email:** I use `mutt <http://www.mutt.org/>`__ for reading email,
 compose emails in emacs, sort email using
 `procmail <http://www.mutt.org/>`__, download email using
 `fetchmail <http://www.mutt.org/>`__ (if neccessary), but mostly keep
@@ -50,33 +50,33 @@ For sending email and smtp connectivity I use
 `msmtp <http://www.tychoish.com/2008/10/git-mail-3/>`__, and I
 suppose I'm using postfix on the server as well.
 
--  **Text Editing:** I use emacs23 (still the CVS/development/snapshot
+- **Text Editing:** I use emacs23 (still the CVS/development/snapshot
 branch) of emacs (stable is v22). I use 23 because I like the
 `emacs-daemon <http://emacs-fu.blogspot.com/2009/02/emacs-daemon.html>`__
 functionality, and it's pretty damn stable. I have aquamacs installed
 under OS X for the moment, but I'll probably install 23 soon, because
 it's quirky.
 
--  **Personal Organization:** `org-mode <http://www.orgmode.org>`__,
+- **Personal Organization:** `org-mode <http://www.orgmode.org>`__,
 which is technically included in emacs (and I use whatever the stock
 version in 23 is, these days.) I use org-mode for managing my todo
 lists, shopping lists, project planning and appointments.
 
--  **Shell/Terminal:** bash and
+- **Shell/Terminal:** bash and
 `urxvt(cd) <http://software.schmorp.de/pkg/rxvt-unicode.html>`__
 under linux, and terminal.app on Leopard. And GNU Screen. I live in
 `screen <http://www.gnu.org/software/screen/>`__.
 
--  **Web Browsing:** I use firefox with hit-a-hint, and
+- **Web Browsing:** I use firefox with hit-a-hint, and
 emacs-key-bindings (firemacs) on linux systems, as I wait for the day
 when good functional web-kit based browsers begin to become a
 possibility.
 
--  **IM/IRC/Chat:** `mcabber <http://www.gnu.org/software/screen/>`__
+- **IM/IRC/Chat:** `mcabber <http://www.gnu.org/software/screen/>`__
 for IM (running ejabberd on my server with the pyaimt transport), and
 irssi for IRC.
 
--  **Linux Distribution:** `Debian <http://debian.org>`__ stable on
+- **Linux Distribution:** `Debian <http://debian.org>`__ stable on
 servers; Ubuntu-mostly on desktops with a desire to move to
 `ArchLinux <http://archlinux.org>`__ for desktop use. I love debian,
 but I think for my desktop-use purposes I cant find a setup that I'm

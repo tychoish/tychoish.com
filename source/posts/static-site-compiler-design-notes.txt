@@ -67,10 +67,10 @@ grow.
 
 The current state of the art isn't great:
 
--  My current blogging solution, `ikiwiki <http://ikiwiki.info>`__ does
+- My current blogging solution, `ikiwiki <http://ikiwiki.info>`__ does
 incremental rebuilds but doesn't rebuild in parallel.
 
--  `Sphinx <http://sphinx-doc.org/>`__ does incremental rebuilds, though
+- `Sphinx <http://sphinx-doc.org/>`__ does incremental rebuilds, though
 it's spotty in cases, and for the\ *write phase only* works in
 parallel (latest version only). The
 `tinkerer <http://tinkerer.me/>`__ blog tool is built on top of

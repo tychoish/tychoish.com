@@ -12,9 +12,9 @@ read regularly, and that I'm interested in expending time reading.
 
 Seems to me that the crux of this argument boils down to:
 
--  read the a-list and professional publications because this is the way
+- read the a-list and professional publications because this is the way
 to "stay on top of the news," in a quick and efficient sort of way.
--  avoid reading a list blogs and sites because you're more likely to
+- avoid reading a list blogs and sites because you're more likely to
 find new/interesting/unique reading, (and more of it) if you're not
 busy keeping up to date with BoingBoing and slashdot, say.
 

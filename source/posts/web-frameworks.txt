@@ -20,10 +20,10 @@ web applications.
 In any case I've been reading through the following recently, and I
 (unsurprisingly have a few thoughts:)
 
--  `The Trouble with
+- `The Trouble with
 Frameworks <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
 
--  `The Web.py Tutiorial <http://webpy.org/tutorial3.en>`__
+- `The Web.py Tutiorial <http://webpy.org/tutorial3.en>`__
 
 The Trouble With Frameworks
 ---------------------------

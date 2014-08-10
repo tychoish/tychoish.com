@@ -11,12 +11,12 @@ This is a rough sketch of some things that I've learned about the
 should probably spend some time to collect what I've learned in a more
 coherent and durable format, but this will have to do for now:
 
--  If you describe a type in parameter documentation it will
+- If you describe a type in parameter documentation it will
 automatically link to the Python documentation for that type when
 using the Python Domain and if you have intersphinx connected. That's
 pretty cool.
 
--  Sphinx let's you define a scope for a file in some cases. If you're
+- Sphinx let's you define a scope for a file in some cases. If you're
 documenting command-line options to a program. (i.e. with the
 "program" with subsidiary "option" directives,) or if you're
 documenting Python objects and callables within the context of a
@@ -29,7 +29,7 @@ white-space, [1]_ which produces some very confusing markup effects.
 
 The "default-domain" directive is similarly... odd.
 
--  Sphinx cannot take advantage of multiple cores to render a single
+- Sphinx cannot take advantage of multiple cores to render a single
 project, except when building multiple outputs (i.e. PDF/LaTeX, HTML
 with and/or directories.) *if* with a weird caveat that only one
 builder can touch the ``doctree`` directory at once. (So you either
@@ -47,14 +47,14 @@ generate reStructuredText *or* that munge the output in some way. The
 ``include`` directive in reStructuredText and milking the hell out of
 ``make`` are good places to started.
 
--  Be careful when instantiating objects in Sphinx's ``conf.py`` file:
+- Be careful when instantiating objects in Sphinx's ``conf.py`` file:
 since Sphinx stores the pickle (serialization) of ``conf.py`` and
 compares that stored pickle with the current file to ensure that
 configuration hasn't changed (changed configuration files necessitate
 a full rebuild of the project.) Creating objects in this file will
 trigger full (and often unneeded) rebuilds.
 
--  Delightfully, Sphinx produces ``.po`` file that you can use to power
+- Delightfully, Sphinx produces ``.po`` file that you can use to power
 translated output, using the ``gettext`` sphinx builder. Specify a
 different doctree directory for this output to prevent some issues
 with overlapping builds. This is really cool.

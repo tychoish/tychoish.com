@@ -51,9 +51,9 @@ of the awkwardness worked out.
 It's still dev, and I'll be getting documentation, a readme, and some
 examples nailed out in the next few weeks. In the meantime:
 
--  `rstcloth on pypi <https://pypi.python.org/pypi/rstcloth>`__
+- `rstcloth on pypi <https://pypi.python.org/pypi/rstcloth>`__
 
--  `rstcloth on github <https://github.com/cyborginstitute/rstcloth>`__
+- `rstcloth on github <https://github.com/cyborginstitute/rstcloth>`__
 
 tumblr -- m.tycho.co
 --------------------
@@ -66,14 +66,14 @@ content at `tychoish.com/micro <http://tychoish.com/micro/>`__.
 
 I'm going to try to avoid over thinking this, but:
 
--  While I've had some struggles with the emacs integration, it's
+- While I've had some struggles with the emacs integration, it's
 generally really idiomatic.
 
--  I really like that you can queue posts. This is the feature that I
+- I really like that you can queue posts. This is the feature that I
 miss the most about systems that I've used in the past to host
 tychoish.
 
--  I like that there are some community features, and that the tagging
+- I like that there are some community features, and that the tagging
 isn't worthless in light of being able to use tags to jump to
 relevant posts from other people.
 
@@ -81,7 +81,7 @@ While I like self-hosted websites, and am kind of freaked out by the
 whole "my blog is a service," I think that the connection to a
 community/audience is useful and powerful, and is not to be overrated.
 
--  I like that tumblr does automatic integration with facebook and
+- I like that tumblr does automatic integration with facebook and
 twitter. You can sort of do this manually, but baking things in leads
 to a better experience.
 

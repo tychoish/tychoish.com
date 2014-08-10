@@ -44,7 +44,7 @@ strength of org mode.
 reorganize my org files. What follows are a list of "things I've
 been doing wrong" and "things I hope to improve."
 
--  I don't think I had enough org-files. There are lots of approaches to
+- I don't think I had enough org-files. There are lots of approaches to
 organizing information in org: one giant file, lots of small files
 for individual projects, a few mid to large files for each "sphere"
 of your life.
@@ -62,7 +62,7 @@ think the point where you know you've gone too far is when the first
 level headings start to replicate organization that might better be
 handled by the file-system.
 
--  Use the scheduling and deadline functions to filter the todo list
+- Use the scheduling and deadline functions to filter the todo list
 into something that is workable. It's easy to just look at the task
 list and say "oh no, I don't want to work on this task right now
 because it depends on too many things that aren't done, and there are
@@ -71,7 +71,7 @@ setting a deadline, forces me (at least) to think practically about
 the scope of a given project, what kind of time I'll have to work on
 it, and what other tasks depend upon it.
 
--  When you're using org to manage huge blocks of text--or any system,
+- When you're using org to manage huge blocks of text--or any system,
 really--it can be difficult if you have multiple hierarchies and
 depths of greater than two or three. It just gets hard to manage and
 keep track of things and figure out where things are, particularly
@@ -82,13 +82,13 @@ one that I find myself imposing upon myself doesn't really work terribly
 well, and leads to files that might actually be more difficult to read
 and to work out of.
 
--  I started using the "org-archive-subree" function for archiving
+- I started using the "org-archive-subree" function for archiving
 content when I was through with parts of the outline, This sends the
 archive to a separate file and while it works, I find it... less than
 useful. I've since discovered "org-archive-to-archive-sibling" which
 is a great deal of awesome, and I recommend using it exclusively.
 
--  Write content in org mode when possible. Though some people (hi
+- Write content in org mode when possible. Though some people (hi
 Matt!) are keen on using org as a publication system, I'm not sure if
 this is the right answer, but I do think that its good during very
 creative phases of projects to do the work in org, mostly as I think

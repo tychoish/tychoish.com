@@ -45,7 +45,7 @@ And these phenomena matter, both in and for themselves, but also as they
 impact and connect with other questions and phenomena in the world. For
 instance:
 
--  I think that the decision making process in free software projects is
+- I think that the decision making process in free software projects is
 instructive for thinking about how all sorts of communities can reach
 a "decision making fork" resolve it somehow and then continue with
 their work. Some open source projects have formal structures, and
@@ -54,7 +54,7 @@ decisions in an informal way, and that decision making process is
 potentially novel, I'd argue. In what other context do people have to
 construct projects outside of work.
 
--  While leaders in the open source community are rarely elected (aside
+- While leaders in the open source community are rarely elected (aside
 from a number of notable examples; the Debian Project Leader springs
 instantly to mind) most projects are *very* democratic. But this
 requires that we keep in mind a fairly broad definition of democracy.
@@ -64,14 +64,14 @@ look democratic. But everything is volunteer based, and leaders I
 think have a sense of responsibilities to their constituencies, which
 is meaningful.
 
--  The tools that open source developers use are, unsurprisingly open
+- The tools that open source developers use are, unsurprisingly open
 source, and are often picked up and used by teams that aren't making
 free software. I'm interested in thinking about how "ways of
 working," proliferate out of open source and into other spheres. Is
 non-open source developed differently if the developers are familiar
 with and use open source tools?
 
--  Similarly, I think I'm interested in thinking about how the
+- Similarly, I think I'm interested in thinking about how the
 architecture of Linux and Unix give rise to a thought about APIs and
 open standards in a way that doesn't necessarily happen on closed
 platforms. After a certain point, I think I'm forced to ask: is

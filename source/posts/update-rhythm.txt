@@ -76,9 +76,9 @@ This is probably not news to anyone, but from `John
 Wiegley <http://www.emacswiki.org/emacs/JohnWiegley>`__ I learned about
 the following two emacs gems that merit mention:
 
--  `paredit <http://www.emacswiki.org/emacs/ParEdit>`__ which makes
+- `paredit <http://www.emacswiki.org/emacs/ParEdit>`__ which makes
 handling all of the parentheses in Lisp coding much easier.
--  `redshank <http://www.foldr.org/~michaelw/emacs/redshank/>`__, which
+- `redshank <http://www.foldr.org/~michaelw/emacs/redshank/>`__, which
 basically adds a number of tempting systems and associated tools for
 
 And in another direction, I've been playing with

@@ -48,23 +48,23 @@ it, I'm thinking that the display will be Chris' province.
 
 Now here's what we have to do:
 
--  Make the Archives Page More organized, probably using periodical
+- Make the Archives Page More organized, probably using periodical
 (monthly) archives, drop down lists and the like. Right now the
 archive page is just a modified main index page, set to show all the
 entries.
 
--  Fix the categories page somehow.
+- Fix the categories page somehow.
 
--  Find some way to merge the linkage and main page log into one line of
+- Find some way to merge the linkage and main page log into one line of
 data. This will probably require some hacking to do properly.
 
--  Implement Trackbacks. This one is for Chris' amusement only. The
+- Implement Trackbacks. This one is for Chris' amusement only. The
 database has a trackback table, but the support hasn't been written
 into the file.
 
--  Update the Entry page, and get commenting to work properly.
+- Update the Entry page, and get commenting to work properly.
 
--  Get (more…) links to work so that extended entry text doesn't get
+- Get (more…) links to work so that extended entry text doesn't get
 shown on the main page.
 
 That list will be updated as we find new things to do, and hopefully as

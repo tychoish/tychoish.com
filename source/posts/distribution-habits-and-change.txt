@@ -66,16 +66,16 @@ functional differences between one "flavor" of GNU/Linux and another are
 pretty minimal, it's interesting to see how different the systems can
 "feel," in practice. Here's a brief list of what I've noticed:
 
--  I find the fact that the flags that control operations with pacman to
+- I find the fact that the flags that control operations with pacman to
 be non-intuitive, and frankly I'm a bit annoyed that they're case
 sensitive so that: ``pacman -S`` is different from ``pacman -s``
 which leads to a lot of typos.
 
--  I've yet to set up a machine in Arch that uses wireless. I'm just
+- I've yet to set up a machine in Arch that uses wireless. I'm just
 wary, mostly, of having to set up the network stuff "by hand" in
 Arch, given how finicky these things can be in general.
 
--  The ABS (arch build system, for installing packages that aren't in
+- The ABS (arch build system, for installing packages that aren't in
 the main arch repositories,) took some getting used to, I think this
 is more about learning how to use a new program/tool and the fact
 that the commands are a bit weird.
@@ -84,7 +84,7 @@ Having said that, I really like the way the package building scripts
 just work and pull from upstream sources, and even, say, use git to
 download the source.
 
--  I'm impressed with how complete the system is. Debian advertises a
+- I'm impressed with how complete the system is. Debian advertises a
 huge number of packages and prides itself on its completeness (and it
 is, I'm not quibbling,) but I run into programs where I have a hard
 time getting the right version, or the software plain old isn't in
@@ -104,7 +104,7 @@ it's more edited and they can choose the 80% of stuff that satisfies 94%
 of need, rather than having 90% of the stuff that satisfies 98% of need.
 Diminishing returns and all that.
 
--  It's lightweight and smooth. While the hardware of my work computer
+- It's lightweight and smooth. While the hardware of my work computer
 is indeed impressive, particularly by my own standards, the hardware
 of the "virtual machine" isn't particularly impressive. And it's
 still incredibly peppy. Lightweight for the win.

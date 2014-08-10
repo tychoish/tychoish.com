@@ -8,12 +8,12 @@ Futures <http://criticalfutures.com>`__ blog post for a few days, so
 you'll probably see this again at some point. Still, I wanted to pose a
 couple of questions that have been nagging at me for a while:
 
--  Does the fact that we think of content as something that is becoming
+- Does the fact that we think of content as something that is becoming
 increasingly user generated, or generated outside of traditional
 professional structures, affect writers' ability to survive from an
 economic perspective?
 
--  Does this "crowd sourcing" (if you'll indulge me,) mean that everyone
+- Does this "crowd sourcing" (if you'll indulge me,) mean that everyone
 will think of themselves as writers henceforth? While that's
 potentially inspiring from the perspective of democracy, it feels
 hard to maintain from a literary/textual culture perspective. If
@@ -22,7 +22,7 @@ writing (fiction, critical, or non-fiction) separate from writers? If
 not, is there enough audience amongst fellow writers to support the
 project writing? (Answer: doubtful.)
 
--  I'm totally willing to accept that the publishing industry as we've
+- I'm totally willing to accept that the publishing industry as we've
 come to know it is (and will continue) to undergo great change. At
 the same time, "great change," means (I think) that some practices
 will need to change in a fundamental sort of way. It is not enough to
@@ -34,12 +34,12 @@ fast.
 These strategies delay the inevitable, but don't address several
 fundamental problems:
 
--  The group of readers (e.g. audience) is significantly smaller than
+- The group of readers (e.g. audience) is significantly smaller than
 the public at large. If we want to grow audiences for our books,
 blogs, wikis, and other (hyper?)textual products we need to enlarge
 the group of people who read.
 
--  Most people who fail read any given text on any given day, fail to do
+- Most people who fail read any given text on any given day, fail to do
 so because they didn't know it existed, and probably because they
 felt like they didn't have time to do so.
 

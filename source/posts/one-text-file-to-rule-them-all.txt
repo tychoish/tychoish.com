@@ -41,11 +41,11 @@ should I need to.
 
 The result? I like it. The lessons, in summary:
 
--  Don't over organize, it can get in your way.
--  Work with your brain, not against it. Chances are, you're pretty
+- Don't over organize, it can get in your way.
+- Work with your brain, not against it. Chances are, you're pretty
 organized as it is, even if you don't think you are. Don't fight
 this, as it can make your life more difficult.
--  Use good search tools to do your work for you. This includes
+- Use good search tools to do your work for you. This includes
 spotlight in OS X (and similar technologies in other operating
 systems,) but mostly your text editors "find" or "search" options, as
 well as tools like `grep <http://www.gnu.org/software/grep/>`__,

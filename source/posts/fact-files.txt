@@ -50,16 +50,16 @@ still didn't seem to qualify as a "fact file entry."
 
 So now there are three templates:
 
--  First, annotations of published work, all cross referenced against
+- First, annotations of published work, all cross referenced against
 cite-keys in the bibtex database.
 
--  Second, web clippings, this is where I put blog posts, and other
+- Second, web clippings, this is where I put blog posts, and other
 articles which I think will be interesting to revisit and important
 to archive independently for offline/later reading. Often if I
 respond to a blogpost on this blog, the chances are that post has
 made it into this section of the file.
 
--  Third, miscellaneous facts, these are just quotes, in general.
+- Third, miscellaneous facts, these are just quotes, in general.
 Interesting facts that I pull from wikipedia/wherever, but nothing
 teleological, particularly. It's good to have a place to collect
 unstructured information, and I've found the collection of
@@ -67,16 +67,16 @@ information in this section of the file to be quite useful.
 
 General features:
 
--  Whatever text I select (and therefore add to the X11 clipboard) is
+- Whatever text I select (and therefore add to the X11 clipboard) is
 automatically inserted into the remember buffer (with the ``%?`` tag)
 
--  I make copious use of tags and tag compleation which makes it easier
+- I make copious use of tags and tag compleation which makes it easier
 to use the "sparse tree by tag" functionality in org-mode to just
 display heading which are tagged in a certain way.) So that I can see
 related content easily. Tags include both subject and project-related
 information for super-cool filtering.
 
--  All "entires" exist on the second level of the file. I'm often
+- All "entires" exist on the second level of the file. I'm often
 sensative to using too much hierarchy, at the expense of clarity or
 ease of searching. This seems to be particularly the case in
 org-mode, given the power of sparse trees for filtering content.

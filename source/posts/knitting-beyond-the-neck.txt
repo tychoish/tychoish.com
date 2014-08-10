@@ -63,18 +63,18 @@ These are fairly straightforward I suspect, because I think collars are
 such a crucial part of a sweater, here are my general concerns regarding
 collars:
 
--  I always err a little bit on the side of a little too big, rather
+- I always err a little bit on the side of a little too big, rather
 than a little too small. Indeed this is a good rule of thumb for
 sweater knitting in general.
--  Shorter is better than taller, and this can often be the difference
+- Shorter is better than taller, and this can often be the difference
 between a sweater that's just right, and a sweater that's too
 itchy/warm/uncomforatable.
--  Consider what kind of shirt you plan on wearing under a sweater when
+- Consider what kind of shirt you plan on wearing under a sweater when
 you're knitting the collar. It matters.
--  Make sure the collar is stretchy enough so that your head can fit,
+- Make sure the collar is stretchy enough so that your head can fit,
 but the last thing you want is probably flaring.
--  Exercise extreme caution when sewing down hemmed collars.
--  Always make sure the collar is centered.
+- Exercise extreme caution when sewing down hemmed collars.
+- Always make sure the collar is centered.
 
 I'm, of course, welcome to additional collar related tips and tricks.
 

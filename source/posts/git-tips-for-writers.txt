@@ -9,15 +9,15 @@ Git Tips for Writers
 The Context
 -----------
 
--  `git writing on wikish </wikish/git-writing/>`__.
+- `git writing on wikish </wikish/git-writing/>`__.
 
--  `haikus in
+- `haikus in
 git <http://www.snell-pym.org.uk/archives/2010/02/01/haikus-in-git/>`__
 
--  `writing like a
+- `writing like a
 programer <http://tychoish.com/rhizome/writing-like-a-programmer/>`__
 
--  `git thoughts <http://tychoish.com/rhizome/git-thinking/>`__
+- `git thoughts <http://tychoish.com/rhizome/git-thinking/>`__
 
 `git <http://git-scm.com/>`__ is this version control system that's
 designed to be used in a distributed manner, and supports a very divers
@@ -45,19 +45,19 @@ where I do drafting for the blog, and start writing projects that I'd
 like to version, but are too small *yet* for their own project
 repositories. The brief overview:
 
--  **garen** is like my home directory within my home directory, and it
+- **garen** is like my home directory within my home directory, and it
 has config files, scripts. and other daily essentials.
 
--  **org** stores my `org-mode <http://www.orgmode.org>`__ files.
+- **org** stores my `org-mode <http://www.orgmode.org>`__ files.
 
--  **fiction projects**: I have five repositories in ``~/`` that store
+- **fiction projects**: I have five repositories in ``~/`` that store
 fiction projects, that I'm theoretically working on in some capacity,
 though I haven't touched most of them regularly.
 
--  **writing** holds blog drafting, and a couple of not-exactly-fiction,
+- **writing** holds blog drafting, and a couple of not-exactly-fiction,
 projects that I'm not quite ready to admit exist.
 
--  **website content**: `wikish </wikish/>`__,
+- **website content**: `wikish </wikish/>`__,
 `tychoish.com <http://tychoish.com/>`__,
 `cyborginstitute.com <http://www.cyborginstitute.com>`__, the `cyborg
 institute wiki <http://wiki.cyborginstitute.com/>`__ and a few other

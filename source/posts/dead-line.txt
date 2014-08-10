@@ -39,9 +39,9 @@ ultra small laptop is for real. Called the "air."
 I'm not yet sure how I feel about this. Questions that remain in my
 mind:
 
--  Is it going to run real OS X and not some sort of embedded flavor
+- Is it going to run real OS X and not some sort of embedded flavor
 (likely to be the real thing, but it's a question.)
--  Are we going all the way to flash hard drive and no optical drive, or
+- Are we going all the way to flash hard drive and no optical drive, or
 is this really just a reinvention of the 12 inch ibook/powerbook?
 (I'm voting on the later; I think there's a production
 capacity/supply issue with flash memory, and the small laptop is

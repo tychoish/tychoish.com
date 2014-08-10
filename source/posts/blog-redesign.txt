@@ -19,11 +19,11 @@ I want to have a home page that's more dynamic. I think the fact that
 the landing page looks the same as *every other page on the site* is a
 sore spot for me. I want to go for a site that has:
 
--  A list of recent essays
--  The most recent essay
--  Excerpts from a couple (2) other recent entries
--  Links to other Blogs
--  Several (3-5) recent coda posts.
+- A list of recent essays
+- The most recent essay
+- Excerpts from a couple (2) other recent entries
+- Links to other Blogs
+- Several (3-5) recent coda posts.
 
 In general, I think that the landing page should provide a good gateway
 to what's happening on the site, it should be dynamic and simple. It

@@ -40,28 +40,28 @@ kinds of text, so I'm not a great judge of this.
 So while I'm on this subject, let me make a list of the *kinds* of text
 files that I edit. Because it's my blog, and I can:
 
--  Markdown Documents: I use markdown formating a lot (with longlines
+- Markdown Documents: I use markdown formating a lot (with longlines
 and flyspell minor modes in emacs). These documents tend to range
 from about 1,200 to 4,000 words, and I write them for work
 (technicalish documents) and also my fiction is all written in these
 kinds of files.
--  Blog posts. Also in markdown these are shorter, but in TextMate at
+- Blog posts. Also in markdown these are shorter, but in TextMate at
 least these have email style headers that interface with the
 blog-posting client. In emacs, I've been using these headers (as I
 don't like the blogging mode very much.
--  Screen Plays. There's a great mode in emacs for screenplays that
+- Screen Plays. There's a great mode in emacs for screenplays that
 doesn't have some of the nifty completions that the TextMate
 counterpart has, but I think overall the interface is better.
--  Occasional PHP/css/html files. I do websites, this is a necessary
+- Occasional PHP/css/html files. I do websites, this is a necessary
 thing, and this is the most "programer" thing that I do. Even really
 sucky text editors do this pretty well. I might also from time to
 time edit shell scripts and hopefully do some python stuff in the
 future, but again, not a big issue.
--  Outlining/Journaling. I'm not a big "one giant text file" kind of
+- Outlining/Journaling. I'm not a big "one giant text file" kind of
 guy, but doing some kind of structured document outside of basic
 markdown formated text is nice. I've been using a "journal" bundle
 for TextMate for this, and there are a few others.
--  Editing LaTeX documents. I haven't done a lot of this recently, but
+- Editing LaTeX documents. I haven't done a lot of this recently, but
 one of my "things" is using LaTeX to do all of my "production"
 document editing. For most things I tend to write in markdown and
 then translate to LaTeX for production, but I have a couple of LaTeX

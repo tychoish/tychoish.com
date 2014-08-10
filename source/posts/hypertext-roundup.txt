@@ -25,17 +25,17 @@ these issues, and I hope that you have too. This is just a roundup post,
 a sort of directory of the hypertext posts on Tealart for your
 referencing pleasures.
 
--  `Wiki
+- `Wiki
 Hyper(digital)text <http://tychoish.com/rhizome/wiki-hyperdigitaltext/>`__
--  `Hyper(digital)book
+- `Hyper(digital)book
 Futures <http://tychoish.com/rhizome/hyperdigitalbook-futures/>`__
--  `Publishing
+- `Publishing
 Hyper(digital)text <http://tychoish.com/rhizome/publishing-hyperdigitaltext/>`__
--  `Writing and Producing
+- `Writing and Producing
 Hyper(digital)text <http://tychoish.com/rhizome/writing-and-producing-hyperdigitaltext/>`__
--  `Reading And Consuming
+- `Reading And Consuming
 Hyper(digital)text <http://tychoish.com/rhizome/reading-and-consuming-hyperdigitaltext/>`__
--  `Intro to
+- `Intro to
 HyperText <http://tychoish.com/rhizome/intro-to-hypertext/>`__
 
 I'll be back next week with the introduction to the next Friday series!

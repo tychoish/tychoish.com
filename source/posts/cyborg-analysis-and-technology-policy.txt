@@ -47,12 +47,12 @@ larger IT world, particularly with thorny issues that require lots of
 code, may be better addressed with more human-centric solutions. Current
 thoughts revolve around:
 
--  The practice and method of software design.
+- The practice and method of software design.
 
--  The development and use of software developed for "internal use,"
+- The development and use of software developed for "internal use,"
 rather than as a software product.
 
--  Refraining the discussion about digital security to address it from a
+- Refraining the discussion about digital security to address it from a
 human angle rather than from a purely technological angle.
 
 As always, I'd like to invite [[discussion\|discourse]]. For the series,

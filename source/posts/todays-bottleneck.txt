@@ -38,7 +38,7 @@ While disks got faster over this period, they didn't get *much* faster
 during this period, and so for a long time disks were *the* bottle neck
 in computing speed. To address this problem, a number of things changed:
 
--  We designed systems for asynchronous operation.
+- We designed systems for asynchronous operation.
 
 Basically, folks spilled a lot of blood and energy to make sure that
 systems could continue to do work while waiting for the disk to reading
@@ -50,10 +50,10 @@ we have to be smarter about some aspects of software design and
 deployment. This doesn't fix the *tons* of legacy sitting around, or the
 fact that a lot of tools and programmers are struggling to keep up.
 
--  We started to build more distributed systems so that any individual
+- We started to build more distributed systems so that any individual
 spinning disk is responsible for writing/reading less data.
 
--  We hacked disks themselves to get better performance.
+- We hacked disks themselves to get better performance.
 
 There are some ways you can eek out a bit of extra performance from
 spinning disks: namely RAID-10, hardware RAID controllers, and using
@@ -66,7 +66,7 @@ Now, with affordable solid state disks (SSDs,) all of these disk related
 speed problems are basically moot. So what are the next bottlenecks for
 computers and performance:
 
--  Processors. It might be the case that processors are going to be the
+- Processors. It might be the case that processors are going to be the
 slow to develop bottleneck. There are a lot of expectations on
 processors these days: high speed, low power consumption, low
 temperature, high amount of parallelism (cores and hyperthreading.)
@@ -80,7 +80,7 @@ processor.
 Also, no matter how fast you make the processor, it's irrelevant unless
 the software is capable of taking advantage of the feature.
 
--  Software.
+- Software.
 
 We're still not *great* at building software with asynchronous
 components. "Non-blocking" systems do make it easier to have systems
@@ -90,14 +90,14 @@ so it's possible to get some operations that are slow and will remain
 slow because a single threaded process *must* grind through a long task
 and can't share it.
 
--  Network overhead.
+- Network overhead.
 
 While I think better software is a huge problem, network throughput
 could be a huge issue. The internet endpoints (your connection) has
 gotten much faster in the past few years. That's a good thing, indeed,
 but there are a number of problems:
 
--  Transfer speeds aren't keeping up with data growth or data storage,
+- Transfer speeds aren't keeping up with data growth or data storage,
 and if that trend continues, we're going to end up with a lot of data
 that only exists in one physical location, which leads to
 catastrophic data loss.
@@ -105,7 +105,7 @@ catastrophic data loss.
 I think we'll get back to a point where moving physical media around
 will begin to make sense. Again.
 
--  Wireless data speeds and architectures (particularly 802.11x, but
+- Wireless data speeds and architectures (particularly 802.11x, but
 also wide area wireless,) have become ubiquitous, but aren't really
 sufficient for serious use. The fact that our homes, public places,
 and even offices (in some cases) aren't wired correctly to be able to

@@ -8,7 +8,7 @@ Links on Post-Publishing, Gender, and Post-Humanism
 
 For your consideration:
 
--  `Paul Grahm on the Future of
+- `Paul Grahm on the Future of
 Publishing <http://www.paulgraham.com/publishing.html>`__, which is
 of corse pretty darn spot on. Follow up, I guess to `this link from
 the last link dump
@@ -18,7 +18,7 @@ is here, as most writers/content producers--or the young and
 successful ones at any rate--are already working in post-publishing
 business models.
 
--  `SF Signal Mind-Meld about Short Fiction
+- `SF Signal Mind-Meld about Short Fiction
 Anthologies <http://www.sfsignal.com/archives/2009/09/mind-meld-behind-the-sceneshow-the-hottest-short-fiction-anthologies-are-created-part-1/>`__.
 In a lot of ways I think short fiction "anthologies" are a great
 thing and answer a lot of needs in publishing. It's a sustainable way
@@ -29,20 +29,20 @@ And they're typically great fun to read. The aforelinked article does
 a great job of showing the thought process of the editors and
 anthologists that make these collections possible.
 
--  `Organic Memory Transfer and
+- `Organic Memory Transfer and
 neurotechology <http://www.hplusmagazine.com/articles/neuro/will-we-eventually-upload-our-minds>`__,
 I'm more interested in the limitations of input/output than in the
 "brute power" problems that Katz raises in this article, but its
 interesting.
 
--  `The Professionalization of
+- `The Professionalization of
 blogging <http://www.theatlantic.com/doc/200909u/professional-bloggers>`__
 As an independent blogger myself, this article seems to mostly be
 true, though I'm not particularly happy about it, I must say. I'm
 interested in how the rise of the "big professional blog" integrates
 with the ongoing collapse of the media industry.
 
--  `Rough Type - Questioning
+- `Rough Type - Questioning
 Accidentalism <http://www.roughtype.com/archives/2009/09/accidentally_on.php>`__
 I seem to be on a "posting links about the media today." This one, is
 pretty historiographical, which is an approach to this "evolution of
@@ -50,7 +50,7 @@ media" topics that I approve of with great vigor. I just wish there
 were a way to sort of say to the world, "lets do something
 *different* this time." Alas.
 
--  `Gender in the Free Software
+- `Gender in the Free Software
 World <http://gabriellacoleman.org/blog/?p=1768>`__ no matter how far
 away from Women's Studies and "gender stuff," it seems to follow me.
 That said, this article, which comments on `some gender-related

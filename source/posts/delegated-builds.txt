@@ -12,14 +12,14 @@ I cooked up something at work that I think is going to be awesome for
 building the project that I work on a day to day basis. Here's the basic
 problem, in a different post, I'll expand on these in more depth:
 
--  we do continuous deployment.
+- we do continuous deployment.
 
--  we maintain and publish multiple branches.
+- we maintain and publish multiple branches.
 
--  our builds take a non-trivial amount of time (4-6 minutes depending
+- our builds take a non-trivial amount of time (4-6 minutes depending
 on hardware,) and will continue to get longer.
 
--  our documentation toolkit, `Sphinx <http://sphinx-doc.org>`__, lacks
+- our documentation toolkit, `Sphinx <http://sphinx-doc.org>`__, lacks
 concurrency for some steps, which means builds take too long and
 leave most of a contemporary computer idle. Furthermore, given our
 use of topic-branches it can be hard to get work done during a build.
@@ -27,11 +27,11 @@ use of topic-branches it can be hard to get work done during a build.
 So there are a couple of notable hacks that I've come up with, over the
 past few months that help:
 
--  duplicate some of the initial work so that different output formats
+- duplicate some of the initial work so that different output formats
 can build in parallel (using Make's job control) at the expense of
 disk some space.
 
--  using a source proxy, (i.e. copying the source content into the build
+- using a source proxy, (i.e. copying the source content into the build
 directory and building from this copy so that the *actual* source
 files can change during the build.)
 
@@ -39,7 +39,7 @@ These changes are simple and amount to some really minor changes to
 commands and Make files. This next fix required a non-trivial amount of
 code, but is really awesome:
 
--  building content, if it's already committed, from a local checkout in
+- building content, if it's already committed, from a local checkout in
 the build directory. This way you can build (and publish!) from a
 different branch without doing anything to your current working
 directory.
@@ -50,19 +50,19 @@ The Code
 See the [[code page\|/code/delegated-builds]] for a basic overview, and
 keep your eyes on the repositories:
 
--  `cyborg institute delegated-build
+- `cyborg institute delegated-build
 repository <http://git.cyborginstitute.net/?p=delegated-builds.git>`__
--  `github.com/tychoish/delegated-build/ <http://github.com/tychoish/delegated-build/>`__
+- `github.com/tychoish/delegated-build/ <http://github.com/tychoish/delegated-build/>`__
 
 Some implementation notes:
 
--  it needs a bit more clean up and configuration with regards to a few
+- it needs a bit more clean up and configuration with regards to a few
 hard-coded directory names, and assumptions about projects.
 
--  in practice it should work fine with Python 2.7 and 3.0. If you have
+- in practice it should work fine with Python 2.7 and 3.0. If you have
 the backported argparse module for 2.6, that should work too.
 
--  this plugs in *really* nicely with some existing infrastructure:
+- this plugs in *really* nicely with some existing infrastructure:
 becasuse we generate most of our Makefiles, it's trivial to make
 *this* script smart and only permit sane things with regards to
 branch creation/management, and build targets.
@@ -71,17 +71,17 @@ Building on this, I've written up a separate script to generate makefile
 targets to invoke these commands, which allows the script to fit more
 nicely into the existing idiom. That's not included here, yet.
 
--  this, so far, has been the best introduction I've gotten to the
+- this, so far, has been the best introduction I've gotten to the
 `subprocess
 module <http://docs.python.org/2/library/subprocess.html>`__, so
 perhaps this will be useful to you.
 
--  there's no good way to queue builds in make, except to use the
+- there's no good way to queue builds in make, except to use the
 blocking mode and use a bunch of make calls, which is reasonably
 inefficient. To get better at this, we'll need to make some
 underlying build changes, but the gains could be pretty significant.
 
--  finally, this is the first bit of Python I've written since I had the
+- finally, this is the first bit of Python I've written since I had the
 breakthrough where I finally understood classes of a moderate amount
 of complexity *without* classes. No harm, and it's not like there's
 any internal state; at the same time, a bit of encapsulation around

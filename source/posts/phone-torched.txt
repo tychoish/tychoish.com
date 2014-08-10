@@ -52,18 +52,18 @@ Lest you think I'm all sunshine and optimism, I think there are some
 definite short comings with contemporary cell phone technology. In
 brief:
 
--  There are things I'd like to be able to do with my phone that I
+- There are things I'd like to be able to do with my phone that I
 really can't do effectively, notably seamlessly sync files and notes
 between my phone and my desktop computer/server. There aren't even
 really passable note taking applications.
 
--  There are a class of really fundamental computer functionality that
+- There are a class of really fundamental computer functionality that
 *could* theoretically work on the phone, but don't because the
 software doesn't exist or is of particularly poor quality. I'm
 thinking of SSH, of note taking, but also of things like non-Gmail
 Jabber/XMPP functionality.
 
--  Some functionality which really ought to be more mature than it is
+- Some functionality which really ought to be more mature than it is
 (e.g. music playing) is still really awkward on phones, and better
 suited to dedicated devices (e.g. iPods) or to regular computers.
 

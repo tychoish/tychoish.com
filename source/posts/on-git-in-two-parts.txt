@@ -75,7 +75,7 @@ server <http://tychoish.com/rhizome/adventures-in-systems-administration>`__
 it took a thousand things that might have been huge headaches and made
 them non-issues. Here's what this repo looks like:
 
--  **emacs/** This is where my emacs-lisp files all live. I have a
+- **emacs/** This is where my emacs-lisp files all live. I have a
 'init.el' file which is basically the standard .emacs file, and a
 'gui-init.el' file for code that I only want to run if I'm running
 desktop where I'll be running non-console emacs frames. As a result
@@ -87,11 +87,11 @@ on my machines my .emacs file looks like this:
 With the first line commented out if needed. End result, emacs loads the
 same everywhere, no thinking.
 
--  **scripts/** I add this to my path, so that any little bit of bash
+- **scripts/** I add this to my path, so that any little bit of bash
 script that I want to be able to use is accessable and the same on
 all my machines.
 
--  **configs/** Generally my format is to have
+- **configs/** Generally my format is to have
 config\_file.machine\_name, for example: bashrc.leibniz. In the case
 of the bashrc, I have a ".common" file that has everything that all
 my machines need, while the machine specific files have everything

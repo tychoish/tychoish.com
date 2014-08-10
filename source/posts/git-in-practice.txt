@@ -34,38 +34,38 @@ and see if there is a way to make the process a bit more streamlined.
 
 Here's my list:
 
--  Reorder all commits since x commit.
+- Reorder all commits since x commit.
 
 This is basically: find the commit before the earliest one that you want
 to change, run "``git rebase -i <commit hash>``\ " reorder the commits
 even though git sorts the commits in the order that I find most
 un-intuitive.
 
--  Create local branches to track remote branches or repositories.
+- Create local branches to track remote branches or repositories.
 
 Setup the remotes, if necessary, and then run:
 "``git branch --track   <local-branch-name> <remote>/<branch-name>``\ "
 and "``git config   branch.{name}.push {local-branch}:master``\ ".
 
--  Stash all local changes and switch branches.
+- Stash all local changes and switch branches.
 
 It would also be nice if you could figure out way for git (or a helper)
 to see any open files in your text editor and save/close them if needed.
 
--  Pull a commit from the history of one branch into another branch
+- Pull a commit from the history of one branch into another branch
 without pulling anything else.
 
 I think this is chery-pick? It might also be nice to pull a series of
 commits from one branch, rebase them into one commit in the destination
 branch, and then commit *that.*
 
--  Pretty much every time I've tried to use the merge command to get
+- Pretty much every time I've tried to use the merge command to get
 something other than what I would have expected to happen by using
 "pull," it ends tragically.
 
 Reader suggestions:
 
--  *Put your process/procedural frustrations with git here*.
+- *Put your process/procedural frustrations with git here*.
 
 How about we work on figuring out how to solve these problems on the
 "[[comments page\|discourse]]" page.

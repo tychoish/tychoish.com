@@ -23,7 +23,7 @@ makes it easier--or even possible--for people to use git.
 
 Caveats:
 
--  there are problems with using centralized repository services
+- there are problems with using centralized repository services
 controlled by third parties, particularly for open source/free
 software projects.
 
@@ -31,7 +31,7 @@ There are ways that GitHub succeeds an fails in this regard. but this
 dynamic is too complex to fully investigate within the scope of this
 post.
 
--  If you use GitHub as designed, and the way that most projects use
+- If you use GitHub as designed, and the way that most projects use
 GitHub, then you have a very specific and particular view of how Git
 works.
 

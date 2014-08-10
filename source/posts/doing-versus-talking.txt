@@ -57,15 +57,15 @@ something that doing something. (Which might just prove the point?)
 The Take Away
 -------------
 
--  Don't blog about something until it exists, and is in a form that
+- Don't blog about something until it exists, and is in a form that
 you'd be willing to share and discuss.
 
 *Corollary:* code names are probably the same as real names.
 
--  Strive for balance between "project work," and meta-work. The ideal
+- Strive for balance between "project work," and meta-work. The ideal
 proportions are unclear.
 
--  Avoid anti-intellectualism when possible.
+- Avoid anti-intellectualism when possible.
 
 
 

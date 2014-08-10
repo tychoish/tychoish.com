@@ -23,10 +23,10 @@ someone to Pyramid easily without putting blinders on them for
 Pyramid's flexibility? I almost feel like there need to 2 new kinds
 of docs:
 
--  easy to follow beginner docs for whatever the most common full
+- easy to follow beginner docs for whatever the most common full
 stack scaffold is turning out to be (no idea what this is!)
 
--  some mile high docs on how you can lay out pyramid apps
+- some mile high docs on how you can lay out pyramid apps
 differently and why you want to be able to do that. For example,
 I feel like hardly anyone coming to Pyramid from the new docs
 groks why the zca under the hood is so powerful and how you can
@@ -52,10 +52,10 @@ The impulse to have "beginner documentation," and "functional
 documentation," is a very common solution for many products and reflects
 two main user needs:
 
--  to understand how to use something. In other words, "getting
+- to understand how to use something. In other words, "getting
 started," documentation and tutorials.
 
--  to understand how something works. In other words the "real"
+- to understand how something works. In other words the "real"
 documentation.
 
 I think it's feasible to do both kinds of documentation within a single

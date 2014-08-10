@@ -21,13 +21,13 @@ So let's clarify things a bit. SSH is *great* as an end user protocol,
 and great for dealing with the realities of our distributed computing
 environment in an exigent manner, SSH lets us:
 
--  connect securely to remote systems.
+- connect securely to remote systems.
 
--  quickly establish tunnels through remote machines.
+- quickly establish tunnels through remote machines.
 
--  admister remote systems securely.
+- admister remote systems securely.
 
--  provide end-users with key-based authentication.
+- provide end-users with key-based authentication.
 
 SSH is *great* for providing end users with a secure way of interacting
 with computer systems in networked environment. It's not, however, the

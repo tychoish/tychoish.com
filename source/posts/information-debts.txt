@@ -17,43 +17,43 @@ tools, and processes in place to maintain and create high quality
 information resources. A number of unfortunate and expensive things
 result:
 
--  People spend time recreating documents, pages, and research that
+- People spend time recreating documents, pages, and research that
 already exists. This is incredibly innefficent and leads to:
 
--  Inaccurate information propagates throughout the organization and to
+- Inaccurate information propagates throughout the organization and to
 the public.
 
--  Information and style "drifts," when information and facts exist in
+- Information and style "drifts," when information and facts exist in
 many places.
 
--  Organizations spend more money on infrastructure and tools as a
+- Organizations spend more money on infrastructure and tools as a
 band-aid when data is poorly organized.
 
--  People lose confidence in information resources and stop relying on
+- People lose confidence in information resources and stop relying on
 them, preferring to ask other people for information. This increases
 the communication overhead, noise level, and takes longer for
 everyone, than using a good resource.
 
 To help resolve information debt:
 
--  Dedicate resources to paying back information debts. It takes time to
+- Dedicate resources to paying back information debts. It takes time to
 build really good resources, to collect and consolidate information,
 and to keep them up to date. But given the costs of the debt, it's
 often worth it.
 
--  Documents must be "living," usefully versioned, and there must be a
+- Documents must be "living," usefully versioned, and there must be a
 process for updating documents. Furthermore, while it doesn't make
 sense to actually limit editing privileges, it's important that
 responsibility for editing and maintaining documents isn't diffused
 and thus neglected.
 
--  Information resources, must have an "owner" within an organization or
+- Information resources, must have an "owner" within an organization or
 group who is responsible for keeping it up to date, and making sure
 that people know it exists. You can have the best repository for
 facts, if no one uses it and the documents are not up to date, it's
 worthless.
 
--  Minimize the number of information resources. While it doesn't always
+- Minimize the number of information resources. While it doesn't always
 make sense to keep all information in the same resource or system,
 the more "silos" where a piece of information or document *might
 live* the less likely a reader/user will find it.

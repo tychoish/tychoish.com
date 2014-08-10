@@ -41,16 +41,16 @@ interests and "powers" that sponsor, support, and have instigated some
 of the largest free software projects around. The key issues and
 questions include:
 
--  How do new software projects of consequence begin in an era when most
+- How do new software projects of consequence begin in an era when most
 projects of any notable size have significant corporate backing?
 
--  What happens to communities when the corporations that sponsor free
+- What happens to communities when the corporations that sponsor free
 software are sold or change directions?
 
--  Do people contribute to free software outside of their jobs?
+- Do people contribute to free software outside of their jobs?
 Particularly for big "enterprise" applications like Nagios or Jboss?
 
--  Is the "hobbyist hacker" a relevant and/or useful arch-type? Can we
+- Is the "hobbyist hacker" a relevant and/or useful arch-type? Can we
 intuit which projects attract hobbyists and which projects survive
 because businesses sponsor their development, rather than because
 hobbyists contribute energy to them. For example: desktop stuff,
@@ -59,20 +59,20 @@ of hobbyists and we might expect stuff like hardware drivers,
 application frameworks, and database engines might be the kind of
 thing where development is mostly sponsored by corporations.
 
--  Is free software (or, Open Source may be the more apropos terminology
+- Is free software (or, Open Source may be the more apropos terminology
 at the moment) just the contemporary form of industry group
 cooperation? Is open source how we standardize our nuts and bolts in
 the 21st century?
 
--  How does "not invented here syndrome" play out in light of the
+- How does "not invented here syndrome" play out in light of the
 genesis of open source?
 
--  In a similar vein, how do free software projects get started in
+- In a similar vein, how do free software projects get started in
 today's world. Can someone say "I want to do *this thing*" and people
 will follow? Do you need a business and some initial capital to get
 started? Must the niche be clear and undeveloped?
 
--  I'm sort of surprised that there haven't been any Lucid-style forks
+- I'm sort of surprised that there haven't been any Lucid-style forks
 of free software projects since, well, Lucid Emacs. While I'm not
 exactly arguing that the Lucid Emacs Fork was a good thing, it's
 surprising that similar sorts of splits don't happen any more.

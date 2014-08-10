@@ -20,28 +20,28 @@ programming.) So far so good.
 Recent Posts Around Here
 ------------------------
 
--  [[/rhizome/erstwhile-programmer]]
--  [[/rhizome/ikiwiki-tasklist-update]]
--  [[/rhizome/representation-and-race-futurism]]
--  [[/rhizome/the-future-of-file-organization-and-security]]
--  [[/rhizome/multiaudience-documentation]]
--  [[knitting/knitting-in-three-dimensions]]
--  [[/rhizome/intellectual-audience]]
--  [[/rhizome/minimalism-versus-simplicity]]
--  [[/rhizome/back-to-basics-tasklist-and-organization]]
--  [[/rhizome/cyberpunk-sunset]]
--  [[/rhizome/writing-software-for-android-and-tablets]]
--  [[/rhizome/xen-and-kvm-failing-differently-together]]
--  [[/rhizome/technical-writing-fiction]]
--  [[/rhizome/whiteness-and-diversity]]
--  [[/rhizome/longer-forms]]
+- [[/rhizome/erstwhile-programmer]]
+- [[/rhizome/ikiwiki-tasklist-update]]
+- [[/rhizome/representation-and-race-futurism]]
+- [[/rhizome/the-future-of-file-organization-and-security]]
+- [[/rhizome/multiaudience-documentation]]
+- [[knitting/knitting-in-three-dimensions]]
+- [[/rhizome/intellectual-audience]]
+- [[/rhizome/minimalism-versus-simplicity]]
+- [[/rhizome/back-to-basics-tasklist-and-organization]]
+- [[/rhizome/cyberpunk-sunset]]
+- [[/rhizome/writing-software-for-android-and-tablets]]
+- [[/rhizome/xen-and-kvm-failing-differently-together]]
+- [[/rhizome/technical-writing-fiction]]
+- [[/rhizome/whiteness-and-diversity]]
+- [[/rhizome/longer-forms]]
 
 Other Cool Things on the Internet
 ---------------------------------
 
--  `Sales Cycle
+- `Sales Cycle
 Theater <http://blogs.nuxeo.com/cmckinnon/2010/04/sales-cycle-theatre-time-to-call-a-charade-a-charade.html>`__
--  `Why Programmers Work at
+- `Why Programmers Work at
 Night <http://swizec.com/blog/why-programmers-work-at-night/swizec/3198>`__
 
 

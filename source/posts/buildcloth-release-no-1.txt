@@ -21,14 +21,14 @@ starting point.
 The initial idea was basically that while Make syntax can be really
 powerful, in a number of situations:
 
--  to specify conditional elements,
+- to specify conditional elements,
 
--  to generate build targets and procedures based on system
+- to generate build targets and procedures based on system
 configuration or project state,
 
--  for large numbers similar of targets, and
+- for large numbers similar of targets, and
 
--  for build with where single targets have a group of related rules,
+- for build with where single targets have a group of related rules,
 
 defining build systems programatically ends up producing a much more
 reliable and maintainable build system. The wins are pretty big in terms
@@ -44,8 +44,8 @@ More Information
 
 Check it out:
 
--  `buildcloth on Pypi <https://pypi.python.org/pypi/buildcloth/>`__
--  `buildcloth github repo <https://github.com/tychoish/buildcloth>`__
+- `buildcloth on Pypi <https://pypi.python.org/pypi/buildcloth/>`__
+- `buildcloth github repo <https://github.com/tychoish/buildcloth>`__
 
 `Bugs go
 here <https://issues.cyborginstitute.net/buglist.cgi?cmdtype=runnamed&namedcmd=buildcloth>`__,
@@ -54,20 +54,20 @@ and patches/pull requests are always welcome.
 Cool Improvements:
 ------------------
 
--  full documentation.
+- full documentation.
 
--  support for specifying targets/dependencies as a list.
+- support for specifying targets/dependencies as a list.
 
--  a build-rule abstraction called RuleCloth.
+- a build-rule abstraction called RuleCloth.
 
--  improved ninja support.
+- improved ninja support.
 
 The Roadmap
 -----------
 
--  making the tutorial and high level documentation better.
--  improving the "RuleCloth."
--  adding some preliminary tools for managing data interactions.
--  pypy support (why not?)
+- making the tutorial and high level documentation better.
+- improving the "RuleCloth."
+- adding some preliminary tools for managing data interactions.
+- pypy support (why not?)
 
 

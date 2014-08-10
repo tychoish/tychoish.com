@@ -23,12 +23,12 @@ writer-types, that the system really didn't work that well for. So I
 did some musing, that I'm sure you can all read or not. The links
 are below.
 
--  Part 1: Getting Other Things Done
--  Part 2: Rethinking GTD: My System
--  Part 3: Rethinking GTD: Production Times and "the Zone"
--  Part 4: Rethinking GTD: Review (and A Little Rant About
+- Part 1: Getting Other Things Done
+- Part 2: Rethinking GTD: My System
+- Part 3: Rethinking GTD: Production Times and "the Zone"
+- Part 4: Rethinking GTD: Review (and A Little Rant About
 Footnotes)
--  Part 5: Getting What Done? (An Explanation of “in the generous
+- Part 5: Getting What Done? (An Explanation of “in the generous
 sense”)
 
 Just because this is TealArt, and I have a hard time *not* being

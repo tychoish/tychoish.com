@@ -12,22 +12,22 @@ thoughts. This post is generally in my series of posts of
 "Extrapolations from Systems Administration." Inspirations and origins
 of these ideas come from, in part:
 
--  My `Tumblr Killed the Tumblelog
+- My `Tumblr Killed the Tumblelog
 Star <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__
 post.
 
--  My Google reader unread count.
+- My Google reader unread count.
 
--  `Savage Minds Post on Social Enterpernurship and
+- `Savage Minds Post on Social Enterpernurship and
 Anthropology <http://savageminds.org/2010/02/11/from-anthropology-to-social-entrepreneurship/>`__
 post.
 
--  All the television I **don't** watch.
+- All the television I **don't** watch.
 
--  `The nginx HTTP Proxy
+- `The nginx HTTP Proxy
 module <http://wiki.nginx.org/NginxHttpProxyModule>`__.
 
--  `Seeing the Forest for the
+- `Seeing the Forest for the
 Brand <http://redmonk.com/sogrady/2010/02/10/analyst-branding/>`__
 
 The internet is a big place, you don't need me to tell you this, but I

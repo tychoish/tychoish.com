@@ -152,10 +152,10 @@ and inserting little templates into files as I'm working. There's not a
 lot of example code that I can share with you, as it just works, but I
 do have a couple of notes/complaints:
 
--  I have to use C-i to expand snippets. The "tab" key doesn't seem to
+- I have to use C-i to expand snippets. The "tab" key doesn't seem to
 work to expand snippets ever.
 
--  The organization of the snippets directory is absurd. I understand
+- The organization of the snippets directory is absurd. I understand
 how the structure of the hierarchy mirros the way modes are derived
 from one another, and having the expansion triggers as file names
 also makes sense, but it's really hard to organize things. Do people
@@ -164,7 +164,7 @@ should be a "global" directory in the snippets folder (next to
 ``text-mode``) where all of the files in any number of folders
 beneath "global" are available in all modes.
 
--  It's amazing useful, and there are some things that I need to create
+- It's amazing useful, and there are some things that I need to create
 snippets for that I haven't. This is on my list of things to do.
 
 w3m

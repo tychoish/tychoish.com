@@ -23,19 +23,19 @@ be absolutely perfect, and I've never been able to settle on a way of
 organizing wiki pages that I am truly happy with. The goals of a good
 wiki "information architecture" (if I may be so bold) are as follows:
 
--  **Clarity:** It should be immediately clear to the readers and
+- **Clarity:** It should be immediately clear to the readers and
 writers of a wiki where a page should be located in the wiki. If
 there's hierarchy, it needs to fit your subject area *perfectly* and
 require minimal effort to grok. Because you want people to focus on
 the content rather than the organization, and we don't tend to focus
 on organizational systems when they're clear.
 
--  **Simplicity:** Wikis have a great number of internal links and can
+- **Simplicity:** Wikis have a great number of internal links and can
 (and are) indexed manually as needed, so as the proprietor of a wiki
 you probably need to do a lot less "infrastructural work" than you
 think you need to. Less is probably more in this situation.
 
--  **Intuitive:** Flowing from the above, wikis ought to strive to be
+- **Intuitive:** Flowing from the above, wikis ought to strive to be
 intuitive in their organization. Pages should answer questions that
 people have, and then provide additional information out from there.
 One shouldn't have to dig in a wiki for pages, if there are
@@ -44,38 +44,38 @@ overlap at the tips of various trees.
 
 Strategies that flow from this are:
 
--  In general, write content on a very small number of pages, and expand
+- In general, write content on a very small number of pages, and expand
 outward as you have content for those pages (by chopping up existing
 pages as it makes sense and using this content to spur the creation
 of new pages.
 
--  Use one style of links/hierarchy (`wikish </wikish>`__ and
+- Use one style of links/hierarchy (`wikish </wikish>`__ and
 `ciwiki <http://wiki.cyborginstitute.com>`__ fail at this.) You don't
 want people to think: Should this be a camel case link? Should this
 be a regular one word link? Should this be a multiple word link with
 dash separated words or underscore separated words? One convention to
 rule them all.
 
--  Realize that separate hierarchies of content within a single wiki
+- Realize that separate hierarchies of content within a single wiki
 effectively create separate wikis and sites within a single wiki, and
 that depending on your software, it can be non-intuitive to link
 between different hierarchies.
 
--  As a result: use as little hierarchy and structure as possible.
+- As a result: use as little hierarchy and structure as possible.
 hierarchy creates possibilities where things can go wrong and where
 confusion can happen. At some point you'll probably need
 infrastructure to help make the navigation among pages more
 intuitive, but that point is *always* later than you think it's going
 to be.
 
--  Avoid reflexivity. This is probably generalizable to the entire
+- Avoid reflexivity. This is probably generalizable to the entire
 Internet, but in general people aren't very interested in how things
 work and the way you're thinking about your content organization.
 They're visiting your wiki to learn something or share some
 information, not to think through the meta *crap* with you. Focus on
 that.
 
--  Have content on all pages, and have relatively few pages which only
+- Have content on all pages, and have relatively few pages which only
 serve to point visitors at other pages. Your main index page is
 probably well suited as a traffic intersection without additional
 content, but in most cases you probably only need a very small number

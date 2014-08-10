@@ -110,14 +110,14 @@ read and heard objects to git on the basis that it allows developers to
 destructive operations on the history of a repository. The answer to
 this is twofold:
 
--  Git, and version control isn't necessarily supposed to provide an
+- Git, and version control isn't necessarily supposed to provide an
 consistently reliable history of a projects code. It's supposed to
 manage the code, and provide useful tools to managing and using the
 history of a project. Because of the way the staging area works,
 sometimes commits are made out of order or a "logical history object"
 is split into two actual objects. Rebasing makes these non-issues.
 
--  Features like rebasing are really intended to happen *before* commits
+- Features like rebasing are really intended to happen *before* commits
 are published, in most cases. Developers will make a series of
 commits and then, while still working locally, rebase the repository
 to build a useful history and *then* publish those changes to his

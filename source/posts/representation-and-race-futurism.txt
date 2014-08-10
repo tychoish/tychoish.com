@@ -38,11 +38,11 @@ its not finished and that there are parts of the execution that I think
 need a lot work. But this part, I quite like. For this story (and I
 think in general,) I've drawn the following conclusion:
 
--  Race is temporally constrained. We understand racial difference and
+- Race is temporally constrained. We understand racial difference and
 our own racial experiences in terms of our current reality. This
 changes.
 
--  The aspects of race which are the result of lineage (skin color, bone
+- The aspects of race which are the result of lineage (skin color, bone
 structure,) are likely to change over time as lineages continue. We
 can assume that these kinds of changes will be pronounced in smaller
 populations over longer periods of time.

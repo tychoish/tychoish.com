@@ -25,13 +25,13 @@ the coming years.
 
 Nevertheless... Shall we begin? I think so:
 
--  The expansion of university in the last 60 years, or so, has been
+- The expansion of university in the last 60 years, or so, has been
 fueled by the GI-Bill and the expansion of the student-loan industry.
 With the "population bubble" changing, and the credit market
 changing, universities will have to change. How they change is of
 course up in the air.
 
--  There aren't many alternatives to "liberal arts/general education"
+- There aren't many alternatives to "liberal arts/general education"
 post-secondary education for people who don't want, need, or have the
 preparation for that kind of education at age 18. While I'm a big
 proponent (and product of) a liberal arts education, there are many
@@ -39,25 +39,25 @@ paths to becoming a well rounded and well educated adult, and they
 don't all lead through traditional-four-year college educations (or
 equivalents, particularly at age 18.)
 
--  Technology is changing higher education and scholarship, already,
+- Technology is changing higher education and scholarship, already,
 with all likelihood faster than technology has been and is changing
 other aspects of our culture (publishing, media production, civic
 engagement, etc.). Like all of these developments of culture,
 however, the changes in higher education are probably not as
 revolutionary as the article suggests.
 
--  There will probably always be a way in which degree granting
+- There will probably always be a way in which degree granting
 institutions will be a "useful" part of our society, but I think "The
 College," will probably change significantly, but I think forthcoming
 changes probably have less to do with education and the classroom,
 and more to do with the evolving role of the faculty.
 
--  As part of the decline of tenure-systems, I expect that eventually
+- As part of the decline of tenure-systems, I expect that eventually
 we'll see a greater separation (but not total disconnect) between the
 institutions which employ and sponsor scholarship, and the
 institutions that educate students.
 
--  It strikes me that most of the systems that universities use to
+- It strikes me that most of the systems that universities use to
 convey education online (Blackboard, moodle, etc.,) are hopelessly
 flawed. Either by virtue of being difficult and "gawky" to use, or
 because they're proprietary systems, or that they're not designed for
@@ -65,14 +65,14 @@ the task at hand, all of the systems that I'm aware of are as much
 roadblocks to the adoption of new technology in education as anything
 else.
 
--  Although quality information (effectively presented, even) is
+- Although quality information (effectively presented, even) is
 increasingly available online for free, what makes this information
 valuable in the university setting, including interactivity, feedback
 on progress, individual attention, validation and certification of
 mastery, are all of the things that universities (particularly
 "research"-grade institutions) perform least successfully at.
 
--  We've been seeing research and popular press stuff on the phenomena
+- We've been seeing research and popular press stuff on the phenomena
 of "prolonged adolescence," where young people tend to have a period
 of several years post-graduation where they have to figure out "what
 next," sometimes there's graduate school, sometimes there's odd jobs.

@@ -35,13 +35,13 @@ of scheduling tasks breaks. Solution, at the end of your work day (or
 evening,) spend a moment or two going though the remains of the day's
 tasks and figuring out:
 
--  If you couldn't get to a task was it because you simply didn't have
+- If you couldn't get to a task was it because you simply didn't have
 time, or because there was an unforeseen dependency.
 
--  Which tasks can be rescheduled for another day (and what days would
+- Which tasks can be rescheduled for another day (and what days would
 be best for this.)
 
--  What no longer needs to be done?
+- What no longer needs to be done?
 
 At the end of the process there should be nothing left on your todo
 list. Now you may be tempted to engage in a little "productivity

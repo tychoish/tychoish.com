@@ -32,25 +32,25 @@ use task lists. I just want to enumerate them, here for now. I might
 move them out to another page, and you should feel free to edit the page
 (it's a wiki!) if you think I've missed anything!
 
--  **Collaboration Facilitation**: Teams need systems to keep track of
+- **Collaboration Facilitation**: Teams need systems to keep track of
 and work on shared issue queues. These are "bug trackers," and are
 totally essential when items or "issues:" take a significant time to
 complete, require the effort/input/awareness of multiple people, and
 need to be created or added by a number of people.
 
--  **Memory Enhancement**: People create todo lists when they're working
+- **Memory Enhancement**: People create todo lists when they're working
 more things than they can comfortably remember at any one time. The
 lists tend to be ephemeral, the items can be quickly resolved, but we
 make these lists so we don't have to remember a long list of things
 while working. Think post-it notes.
 
--  **Obligation Management**: These lists bring us close to calendars,
+- **Obligation Management**: These lists bring us close to calendars,
 but we keep them to make sure we remember to do required tasks. Often
 these lists are helpful in helping people make sure that they're
 "caught up," so that they can enjoy and use free time without
 interruption or nagging.
 
--  **Task Prioritization**: When time is limited, a list of tasks is
+- **Task Prioritization**: When time is limited, a list of tasks is
 useful in organizing an order, and making use of available time, so
 that it's possible to keep track of all open tasks, while also being
 able to allocate effort and time to tasks in a smart way that
@@ -58,7 +58,7 @@ accounts for available time, importance, and deadlines. The goal is
 to get the most crucial things done while also never wondering what
 one could be doing with a few free moments.
 
--  **Progress Tracking**: These lists are less to track things *todo*
+- **Progress Tracking**: These lists are less to track things *todo*
 and more to track *have done*. When working on a number of long term
 and short term projects, a list of what's open, what's been finished,
 along with a status of where things are is useful to avoid loosing
@@ -68,10 +68,10 @@ Based on this, I think we can distill a number of overriding qualities
 of task lists from these five archetypal use cases. That working list
 is:
 
--  item granularity,
--  project-level organization,
--  scheduling and deadlines, and
--  use of priority markers. ## Personal Case Studies
+- item granularity,
+- project-level organization,
+- scheduling and deadlines, and
+- use of priority markers. ## Personal Case Studies
 
 When I had an epic commute my issue was that while I had free time, it
 was all in 20 or 40 minute segments on trains. The challenge was to be

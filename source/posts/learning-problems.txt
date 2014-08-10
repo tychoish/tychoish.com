@@ -66,7 +66,7 @@ For most of the past year I've been pretty heads-down on the "learning
 to program" project, and I've had a number of interesting problems that
 I've used to help explore the topic:
 
--  *generalized `Sphinx <http://sphinx-doc.org>`__ publishing toolkit*.
+- *generalized `Sphinx <http://sphinx-doc.org>`__ publishing toolkit*.
 
 This is both `a work project <http://github.com/mongod/docs-tools/>`__
 and `a personal
@@ -82,7 +82,7 @@ address.
 While this project requires ongoing development and improvement, it's
 basically feature complete, and it's given
 
--  I've had a couple of personal side projects that I've used to explore
+- I've had a couple of personal side projects that I've used to explore
 different kinds of programming problems, with greater and lesser
 success.
 
@@ -98,7 +98,7 @@ most cases.
 idea, but I've not had time to really implement and exercise the program
 and I fear that the core code quality isn't great.
 
--  More recently I've begun working on a *dependency analytics package*
+- More recently I've begun working on a *dependency analytics package*
 with a co-worker/friend to help him and his teammates understand and
 untangle a larger C++ project.
 

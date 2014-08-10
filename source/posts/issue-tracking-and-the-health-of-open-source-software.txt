@@ -23,14 +23,14 @@ tolerate more investigation.
 
 As a starting point, I'd like to offer two conjectures:
 
--  First, that transparent issue tracking is a reasonably effective
+- First, that transparent issue tracking is a reasonably effective
 means of "customer service," or user support. If the bug tracking
 contains answers to questions that people encounter during use, and
 provide a way to resolve issues with the software that's productive
 and helps with support self-service. Obviously some users and groups
 of users are better at this than others.
 
--  Second, issue tracking is perhaps the best way to do bottom-up
+- Second, issue tracking is perhaps the best way to do bottom-up
 project/product management and planning in the open, particularly
 since these kinds or projects lack formal procedures and designated
 roles to do this kind of organizational work.
@@ -43,15 +43,15 @@ single project through the development process. Thus, issue tracking
 systems have requirements that are either much less important in
 personal systems or actively counter-intuitive for other uses. They are:
 
--  Task assignment, so that specific issues can be assigned different
+- Task assignment, so that specific issues can be assigned different
 team members. Ideally this gets a specific developer can "own" a
 specific portion of the project and actually be able to work and
 coordinate efforts on the project.
 
--  Task prioritization, so that less important or crucial issues get
+- Task prioritization, so that less important or crucial issues get
 attention before "nice to have," items are addressed.
 
--  Issue comments and additional attached information, to track progress
+- Issue comments and additional attached information, to track progress
 and support information sharing among teams, particularly over long
 periods of time with asynchronous elements.
 

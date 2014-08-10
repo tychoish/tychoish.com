@@ -92,17 +92,17 @@ tendencies are reflected in the packages provided by the system:**
 
 Allow me to justify this with a few anecdotes:
 
--  Arch includes a "snapshot package" from emacs-23 in the main
+- Arch includes a "snapshot package" from emacs-23 in the main
 repository (you have to add another debian repository to get this in
 debian).
 
--  There is a great cross over between Awesome--my window manager of
+- There is a great cross over between Awesome--my window manager of
 choice--and Arch, so there are good up to date packages of Awesome.
 
--  Uzbl, (eg. useable) a super minimalistic, web-kit based browser is
+- Uzbl, (eg. useable) a super minimalistic, web-kit based browser is
 developed on/for Arch.
 
--  As I was getting my first virtual machine setup, I did a bit of
+- As I was getting my first virtual machine setup, I did a bit of
 distro hopping to see what would work best. I decided to use
 virtualbox (because it's nearly free software, and reasonably full
 featured) and I had a hell of a time getting other OSs to work right

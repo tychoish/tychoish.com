@@ -47,13 +47,13 @@ Requirements
 
 A distributed bug tracking system would need:
 
--  A good way to provide short, unique identifiers for individual issues
+- A good way to provide short, unique identifiers for individual issues
 and comments so that users can discuss issues canonically.
 
--  An interface contained in a single application, script, or binary,
+- An interface contained in a single application, script, or binary,
 that you could distribute with the application.
 
--  A simple/lightweight web-based interface so that users can (at least)
+- A simple/lightweight web-based interface so that users can (at least)
 review, search, and reference issues from a web browser.
 
 Write access would also be good, but is less critical. Also, it might be
@@ -63,18 +63,18 @@ developers/administrators would then formally import into the project.
 This formalizes a certain type of triage approach that many projects may
 find useful.
 
--  To be separable from the source code history, either by using a
+- To be separable from the source code history, either by using a
 branch, or by using pre-commit hooks to ensure that you never commit
 changes to code/content *and* the bugs at the same time.
 
--  To be editable, and to interact with commonly accessible tools that
+- To be editable, and to interact with commonly accessible tools that
 users already use. Email, command line tools, the version control
 systems, potentially documentation systems, build systems, testing
 frameworks and so forth.
 
--  Built on reliable tools. [2]_
+- Built on reliable tools. [2]_
 
--  To provide an easy way to customize your "views" on bugs for a
+- To provide an easy way to customize your "views" on bugs for a
 particular team or project. In other words, each team can freely
 decide which extra fields get attached to their bugs, along with
 which fields are visible by default, which are required, and so on --
@@ -86,15 +86,15 @@ The Future of the Art
 1. We (all) need to work on building new and better tools to help solve
 the distributed issue tracking problem. This will involve:
 
--  learning from the existing attempts,
+- learning from the existing attempts,
 
--  continuing to develop and solidify the above requirements,
+- continuing to develop and solidify the above requirements,
 
--  (potentially) test and develop a standard (yaml/json?) based data
+- (potentially) test and develop a standard (yaml/json?) based data
 storage format that is easy to parse, and easily merged that multiple
 tools can use.
 
--  Develop some simple prototype tools, potentially as a suite of
+- Develop some simple prototype tools, potentially as a suite of
 related utilities (a la early versions of git.) that facilitate
 interaction with the git database. With an eye towards flexibility
 and extensible.
@@ -107,14 +107,14 @@ I think the primary reason to pursue distributed bug tracking has
 more to do with productivity and better engineering practices, and
 less with the policy. In summary:
 
--  Bug database systems that run locally and are *fast*\  [3]_ and
+- Bug database systems that run locally and are *fast*\  [3]_ and
 always available.
 
--  Tools that permit offline interaction with issue database.
+- Tools that permit offline interaction with issue database.
 
--  Tools that allow users to connect issues to branches.
+- Tools that allow users to connect issues to branches.
 
--  Tools that make it possible to component-ize bug databases in
+- Tools that make it possible to component-ize bug databases in
 parallel with software
 
 Resources
@@ -122,13 +122,13 @@ Resources
 
 (*With commentary,*)
 
--  `dist-bugs mailing
+- `dist-bugs mailing
 list <http://kitenet.net/cgi-bin/mailman/listinfo/dist-bugs>`__
 
 This is the canonical source for discussion around distributed bug
 tracking.
 
--  `Bugs Everywhere <http://bugseverywhere.org/>`__
+- `Bugs Everywhere <http://bugseverywhere.org/>`__
 
 This is among the most well developed solution speaking holistically.
 "be" is written in Python, can generate output for the web. It uses its
@@ -136,7 +136,7 @@ own data format, and has a pretty good command line tool. The HTML
 output generate is probably not very fast at scale (none are,) but I
 have not tested it.
 
--  `Ditz <http://ditz.rubyforge.org/>`__
+- `Ditz <http://ditz.rubyforge.org/>`__
 
 Ditz is a very well developed solution. Ditz: implemented in Ruby, has a
 web interface, has a command line tool, uses a basic YAML data format,
@@ -145,7 +145,7 @@ and running is non-trivial, and my sense is that there isn't a very
 active community of contributors. There are reasons for this, likely but
 they are beyond the scope of this overview.
 
--  `pitz <http://pitz.tplus1.com/>`__
+- `pitz <http://pitz.tplus1.com/>`__
 
 Pitz is a Python re-implementation of Ditz, and while the developer(s?)
 have produced a "release," the "interface" is a Python shell, and to
@@ -154,7 +154,7 @@ Python syntax. From a data perspective, however, Pitz, like Ditz is
 quite developed. Pitz while it stores data in-tree, I think it's
 important source of ideas/examples/scaffolding.
 
--  `Artemis <http://www.mrzv.org/software/artemis/>`__
+- `Artemis <http://www.mrzv.org/software/artemis/>`__
 
 This is a really clever solution that uses Maildirs to store issues. As
 a result you can interact with and integrate Artimis issues with your
@@ -164,7 +164,7 @@ email, without any complicated email and list server setups.
 The huge caveat is that it's implemented as a plugin for Mercurial, and
 so can't be used with git projects. Also, all data resides in the tree.
 
--  `git-issues <https://github.com/jwiegley/git-issues>`__
+- `git-issues <https://github.com/jwiegley/git-issues>`__
 
 In most ways, git-issues is my favorite: it's two Python files, 1700
 lines of code, stores issues outside of the source branch, and has a
@@ -173,7 +173,7 @@ shouldn't matter, but I think probably does, at least in terms of
 attracting developers,) and doesn't have a web-based interface. It's
 also currently un-maintained.
 
--  `Prophet <http://syncwith.us/>`__/`sd <http://syncwith.us/sd/>`__
+- `Prophet <http://syncwith.us/>`__/`sd <http://syncwith.us/sd/>`__
 
 SD, which is based on a distributed database named Prophet, is a great
 solution. The primary issue is that it's currently unmentioned and is

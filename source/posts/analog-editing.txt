@@ -21,36 +21,36 @@ my pro/con list:
 Pros:
 -----
 
--  It might be nice to have a different "editing context," to help me
+- It might be nice to have a different "editing context," to help me
 keep focus on the project without the distractions of the internet
 and current writing projects.
 
--  Having marked-up pages gives me an actual marker of progress, rather
+- Having marked-up pages gives me an actual marker of progress, rather
 than a list of commits or diffs.
 
--  It might be nice to get some practice writing longhand again. It's
+- It might be nice to get some practice writing longhand again. It's
 embarrassing when someone hands me a pen and I've basically forgotten
 how to use it.
 
--  It gives me a start to a collection of paper ephemera that I can
+- It gives me a start to a collection of paper ephemera that I can
 burden some archivist with at some point.
 
 Cons:
 -----
 
--  Context switching, from a computer, to paper, to a tablet, or
+- Context switching, from a computer, to paper, to a tablet, or
 whatever is annoying and eats time/focus.
 
--  Paper would force a more linear editing process, which may get me to
+- Paper would force a more linear editing process, which may get me to
 focus on the story and characters more closely at the possible
 expense of seeing "broken sentences," and other things that may be
 distracting to the next readers/editors/etc.
 
--  If I edit on paper, I have to go through and apply those changes to
+- If I edit on paper, I have to go through and apply those changes to
 the actual text. Which adds a step, and probably a number of
 additional weeks to the editing process.
 
--  I'm awful writing things out long hand and I pretty much haven't
+- I'm awful writing things out long hand and I pretty much haven't
 written anything long hand in 4 or 5 years.
 
 Reflections
@@ -69,18 +69,18 @@ someone else to the reading (I have neither the time, technical skills,
 nor the real ability to do the reading.) Which leaves me without a plan,
 and the following thoughts about the publication of this text:
 
--  I feel like my writing career [1]_ is in good (enough) shape that my
+- I feel like my writing career [1]_ is in good (enough) shape that my
 identity as a writer depends on publishing this novel in a particular
 way.
 
--  On the other hand, getting the novel (or parts of it published) would
+- On the other hand, getting the novel (or parts of it published) would
 be a great thing, and validates all this time/energy/interest that I
 have in writing science fiction.
 
--  I'm not opposed to self publishing, except that it means more work
+- I'm not opposed to self publishing, except that it means more work
 for me for what is probably less impact (i.e. readers.)
 
--  It took me embarrassingly long to write this novel. And knowing how
+- It took me embarrassingly long to write this novel. And knowing how
 much better my writing has gotten in the last three or four years,
 means that I'm pretty worried that this is really a cold pile of
 shit. I recognize that this is probably *more* reason to get the
@@ -95,7 +95,7 @@ things printed, which I'd like to record here and share with you:
 
 (*Given a 325-350 page manuscript*)
 
--  I don't own a printer, and have no particular interest in owning one,
+- I don't own a printer, and have no particular interest in owning one,
 but a good color laser (in the 300-400 USD) or a good black and white
 (200-300 USD) becomes much more economical if analog editing becomes
 *a thing*.
@@ -104,12 +104,12 @@ The downside of printing things yourself is that you still need some way
 to bind things. And there are maintenance and supply costs not factored
 into the above.
 
--  The price to get printing/binding done at Staples is in the 35-40
+- The price to get printing/binding done at Staples is in the 35-40
 range. Chances are that these copies are likely to be the highest
 quality, quickest turn around, and the web interface--though
 annoying--is probably the most straight forward.
 
--  You can use `Lulu.com <http://lulu.com>`__ to order prints. The same
+- You can use `Lulu.com <http://lulu.com>`__ to order prints. The same
 book costs 15 bucks. It's also spiral bound (which seems preferable
 to perfect binding for writing.) I'm not sure what "lulu standard"
 paper is like quality wise, but I suspect it will be ok. If you're ok

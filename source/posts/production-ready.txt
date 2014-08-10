@@ -60,18 +60,18 @@ Having said that I think we're probably still a few years away from
 seeing an Ubuntu/Linux Mint that's ready for the general public. There
 are a few things that need to happen before that, such as:
 
--  Hardware makers need to continue to make and build computers with
+- Hardware makers need to continue to make and build computers with
 Linixes pre-installed. Ubuntu's installer isn't more painful than
 windows' or OS X's, and convincing average users to switch for
 ideological reasons after they've just bought a new computer is
 difficult. Also, given hardware compatibility issues, having
 companies like Dell and HP make sure that there's support in the OS
 for the hardware is a great service.
--  The interface needs to get a lot better. This is "just wait and see"
+- The interface needs to get a lot better. This is "just wait and see"
 issue mostly, but `I think GNOME needs
 work <http://tychoish.com/rhizome/window-management/>`__, and without
 a really good and fun UI, Linux is sunk.
--  X11, the primary graphics/interaction layer for all (?)
+- X11, the primary graphics/interaction layer for all (?)
 unix/unix-like operating system GUIs (other than OS X) needs some
 work. Dual monitor support is lackluster, support for laptop displays
 is tenuous, and while I don't think we should throw all of X way, a
@@ -81,7 +81,7 @@ this is a pretty low level concern, making X better will make the
 whole experience better. And that's what counts. I may be able to get
 really impressive system up-times, but unless I can get impressive
 up-times for X, the former isn't worth much.
--  End User distributions (Ubuntu, etc) and bare-bones distributions
+- End User distributions (Ubuntu, etc) and bare-bones distributions
 (Arch, Gentoo, etc.) need to become even more distinct. Ubuntu should
 probably attempt to use a more "rolling release" approach to package
 inclusion and should attempt to cover up command line access the same

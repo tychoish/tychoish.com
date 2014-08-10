@@ -49,7 +49,7 @@ I think it's probably the case that we need a few different kinds of
 tools and patterns to help support the authorship of useful and
 maintainable shell scripts and build systems.
 
--  a good, usable, non-procedural way manage argument parsing.
+- a good, usable, non-procedural way manage argument parsing.
 
 In python, I like ``argprase`` and think it works really well, so I'm
 not saying we need some set of tools to actually parse the arguments
@@ -59,7 +59,7 @@ hundred lines of declarative code, and you still have to connect this up
 with the actual code, which leads to maintenance headaches and all sorts
 of dumb errors.
 
--  a good framework for expressing multi-stage tasks and their
+- a good framework for expressing multi-stage tasks and their
 dependencies and relationships.
 
 This may basically be `waf <https://code.google.com/p/waf/>`__, but I

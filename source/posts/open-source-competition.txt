@@ -92,13 +92,13 @@ enterprise as being "cash cows" particularly in the long run.
 
 So in summary:
 
--  Create value, real enduring value. Not ephemeral profitability, or
+- Create value, real enduring value. Not ephemeral profitability, or
 in-the-moment utility.
 
--  Be honest about what your business/endeavor *really* centers on, and
+- Be honest about what your business/endeavor *really* centers on, and
 do *that* as best you can.
 
--  Understand the social dynamics of open source, not simply the
+- Understand the social dynamics of open source, not simply the
 technological constrains of the user experience.
 
 And.... done.

@@ -11,7 +11,7 @@ posts\|rhizome/update-rhythm]]. Sometimes just looking through an
 activity log is all you need to remember that you're actually doing
 something. Here's what I've been working on:
 
--  **[[critical-futures/isd]]**" is a developing page of material for my
+- **[[critical-futures/isd]]**" is a developing page of material for my
 ongoing [[story project\|critical-futures]]. I've written it in my
 "[[Wiki Fiction\|rhizome/wiki-fiction]]" post. This particular page
 is basically sysadminning-punk, if I may be so bold. The story as a
@@ -24,50 +24,50 @@ trans-planetary TCP (in any form) unworkable. I've got an outline and
 I'm slowly working to fill in the blanks. Editing, ideas, and any
 amount of text are all welcome.
 
--  I added a page to the [[technical-writing]] section on "[[Why the
+- I added a page to the [[technical-writing]] section on "[[Why the
 Documentation Sucks\|technical-writing/documentation-sucks]]," and
 I've done some additional editing and revising of this section of the
 wiki. The [[technical-writing/documentation-sucks]] page has also
 served as the foundation of my post about [[documentation publishing
 systems\|rhizome/publishing-system-requirements]].
 
--  I've added a number of new posts that I hope won't be forgotten too
+- I've added a number of new posts that I hope won't be forgotten too
 quickly. They are:
 
--  [[Is Android the Future of
+- [[Is Android the Future of
 Linux\|rhizome/is-android-the-future-of-linux]]
--  [[Advice for Blogging
+- [[Advice for Blogging
 Successfully\|rhizome/advice-for-blogging-successfully]]
--  [[Issue Tracking and the Health of Open Source
+- [[Issue Tracking and the Health of Open Source
 Software\|rhizome/issue-tracking-and-the-health-of-open-source-software]]
--  [[Tablet Interfaces and
+- [[Tablet Interfaces and
 Intuition\|rhizome/tablet-interfaces-and-intuition]]
--  [[Org Mode and Mobile Writing\|rhizome/org-mode-and-mobile-writing]]
--  [[Publishing System
+- [[Org Mode and Mobile Writing\|rhizome/org-mode-and-mobile-writing]]
+- [[Publishing System
 Requirements\|rhizome/publishing-system-requirements]]
--  [[Android Tablets and the Workstations of the
+- [[Android Tablets and the Workstations of the
 Future\|rhizome/android-tablets-and-the-workstations-of-the-future]]
 
--  There has also been some discussions of new and old rhizomes on the
+- There has also been some discussions of new and old rhizomes on the
 discourse pages. These are:
 
--  [[Discussion of Android and the Future of
+- [[Discussion of Android and the Future of
 Linux\|rhizome/is-android-the-future-of-linux/discourse]]
--  [[Git Mail Discussion\|rhizome/git-mail/discourse]]
--  [[Tablet
+- [[Git Mail Discussion\|rhizome/git-mail/discourse]]
+- [[Tablet
 Discussion\|rhizome/and-then-i-broke-down-and-got-a-tablet/discourse]]
--  [[Create Better Task
+- [[Create Better Task
 Items\|rhizome/create-better-task-items/discourse]]
--  [[Writing Software Requiremens
+- [[Writing Software Requiremens
 Discussions\|rhizome/writing-software-beyond-emacs/discourse]]
 
--  A few weeks ago I posted a few new scripts in the [[code]] section.
+- A few weeks ago I posted a few new scripts in the [[code]] section.
 Tell me what you think: ::
 
--  [[code/ikiwiki-tasklist]]
--  [[code/download-mail]]
+- [[code/ikiwiki-tasklist]]
+- [[code/download-mail]]
 
--  My post, [[9 Awesome SSH Tricks\|rhizome/9-awesome-ssh-tricks]] from
+- My post, [[9 Awesome SSH Tricks\|rhizome/9-awesome-ssh-tricks]] from
 March 2011, spent a number of hours on the front page of hacker new.
 You can read `the comments over
 there <http://news.ycombinator.com/item?id=3011947>`__, and probably

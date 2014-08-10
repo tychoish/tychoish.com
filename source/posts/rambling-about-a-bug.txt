@@ -70,14 +70,14 @@ sometimes."
 As I think about it, I've observed intermittent deadlocks from time to
 time, but they've gotten much worse recently:
 
--  We weren't doing automated building for a few weeks, for an unrelated
+- We weren't doing automated building for a few weeks, for an unrelated
 reason and the problem shows up more frequently in automated builds.
 
--  We moved the execution of the Sphinx process to thread pools from
+- We moved the execution of the Sphinx process to thread pools from
 process pools: they were already running in yielding operations, no
 need to double the overhead.
 
--  A few more operations moved to threads as well, again, mostly
+- A few more operations moved to threads as well, again, mostly
 operations with lots of yielding, to reduce the overhead of processes
 and in one situation when a task was incompatible with processes
 (i.e. not pickelable.)
@@ -85,12 +85,12 @@ and in one situation when a task was incompatible with processes
 Attempts
 --------
 
--  Make sure that the output of the sphinx build isn't filling the
+- Make sure that the output of the sphinx build isn't filling the
 output buffering that subprocess is doing. Write output to a
 temporary file rather than using the buffer. (see
 `tempfile <http://docs.python.org/2/library/tempfile.html>`__)
 
--  Use
+- Use
 `Popen.poll() <http://docs.python.org/2/library/subprocess.html#subprocess.Popen.poll>`__
 to figure out when an operation is done rather than using a blocking
 call which might prevent the thread from ever waking up.

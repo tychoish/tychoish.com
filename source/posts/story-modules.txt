@@ -35,20 +35,20 @@ scenes linked into the supporting documents and to the encyclopedic
 "articles." I don't have any notion of how to name these things. Here
 are my concerns:
 
--  If I associate them with characters, how do I decide that X scene
+- If I associate them with characters, how do I decide that X scene
 with 2 or 3 characters is associated with a particular character?
 *Particularly, in a way that will make sense to me in 6 weeks and 6
 years.*
 
--  If this is the case, how do I distinguish in the namespace between
+- If this is the case, how do I distinguish in the namespace between
 supporting documents and fictionalized narratives?
 
--  How do I give short meaningful names that are distinct and thus
+- How do I give short meaningful names that are distinct and thus
 identify scenes but that have some sort of systematic scheme.
 Furthermore how maintain some sort of order without forcing them into
 a sequential order. Again, using the namespace. So we can't have
 scene001, scene002, and so forth.
--  While I don't need the pages to be strictly ordered to reflect the
+- While I don't need the pages to be strictly ordered to reflect the
 linear story lines, there needs to be some way to organize/grep
 through the page titles. I'm thinking using the location titles as a
 way to organize that and then use hidden dotfiles to keep track of

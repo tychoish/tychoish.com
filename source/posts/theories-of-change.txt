@@ -30,17 +30,17 @@ change and adaption on the scale of the population on the whole.
 There are a few things that more casual applications of the theory seem
 to forget that I think are key:
 
--  Evolution values adaptability and diversity over just about
+- Evolution values adaptability and diversity over just about
 everything else, adaptable individuals and diverse populations are
 more resilient to shorter term changes in the environment, so
 evolutionary analysis that's grounded in survivability in a
 particular situation are relatively week.
--  Evolution takes a long time. Many generations. Many many generations.
+- Evolution takes a long time. Many generations. Many many generations.
 So many that it's really hard to think about evolution "happening"
 given the way that we think about time. In many ways, its easier to
 think about continents moving around than it is to think about the
 way populations evolve.
--  There's little good evidence that evolution occurs in non-biological
+- There's little good evidence that evolution occurs in non-biological
 systems. We use evolution as an analogy for many change-processes,
 but as a mechanism, outside of biology its limited.
 

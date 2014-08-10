@@ -46,15 +46,15 @@ document, rather than specifics about naming schemes or the rationale
 behind a classification system. I guess, if I had to break this question
 down further I'd be interested in:
 
--  What kind of metadata (categories, tags) do you use?
--  How hierarchical is your document. Too much hierarchy and pages get
+- What kind of metadata (categories, tags) do you use?
+- How hierarchical is your document. Too much hierarchy and pages get
 lost at the end of trees, not enough and you have a mess of files and
 no way to tell them apart.
--  Do you use natural phrase WikiWord titles for pages, or do you have a
+- Do you use natural phrase WikiWord titles for pages, or do you have a
 less natural naming scheme?
--  How much do you use talk/discussion/commentary pages?
--  CamelCase Wiki words or not?
--  What kind of search tools do you use? Does this help?
+- How much do you use talk/discussion/commentary pages?
+- CamelCase Wiki words or not?
+- What kind of search tools do you use? Does this help?
 
 Your thoughts are much appreciated.
 

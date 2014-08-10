@@ -16,16 +16,16 @@ git <http://www.boingboing.net/2009/02/13/flashbake-free-versi.html>`__.
 tools like and derived from this) is really cool, and a train of thought
 that I think we'd really benefit from enjoying. Here are some thoughts:
 
--  What if, in combination with text converter tools, we had a tool that
+- What if, in combination with text converter tools, we had a tool that
 could: Take a text file written in markdown, and convert it to HTML
 and LaTeX and insert the output along side the source file in the
 repo.
 
--  What if the LaTeX or HTML template was customizable
+- What if the LaTeX or HTML template was customizable
 
--  What if it could also generate PDFs.
+- What if it could also generate PDFs.
 
--  What if it could do all this compilation from a GUI or a text-editor
+- What if it could do all this compilation from a GUI or a text-editor
 plug-in as well as (or in addition to the current cron-like
 interface).
 
@@ -54,13 +54,13 @@ think there's clearly some research that's needed on the topic, but
 something is changing as a result of this site. Thoughts, in no
 particular order:
 
--  There are, I think, legitimate, concerns about the openness of github
+- There are, I think, legitimate, concerns about the openness of github
 itself. Why are we trusting our open source projects to hosting that
 isn't open? At the same time, the openness of git itself mitigates
 this slightly, as well as the fact that github's business model is
 one of hosting-services rather than one of data lock-in.
 
--  The fact that there isn't a bug-tracker built in means that people
+- The fact that there isn't a bug-tracker built in means that people
 with a problem are, I think more likely to look for the bugs in the
 code and hack on problems them-self rather than simply provide bug
 reports and feature requests. Not that bug tracking systems are
@@ -68,7 +68,7 @@ problematic, but I think presenting users with code and the
 opportunity to easily publish their own branches without needing
 permission, increases involvement and connectedness to the code.
 
--  I saw `mojombo <http://www.twitter.com/mojombo>`__ post a link to a
+- I saw `mojombo <http://www.twitter.com/mojombo>`__ post a link to a
 specific revision of the change-log to a (really awesome) ruby-based
 git library. Really awesome. But the cool thing, I guess, was that
 the link to the code was similar to the way that people post links to
@@ -76,7 +76,7 @@ their latest blog posts. This isn't revolutionary, I suppose, but I
 think that git promotes a different sort of publishing style for
 code, that I think is pretty cool/interesting/important.
 
--  I suspect, though I don't have data to verify this, that github
+- I suspect, though I don't have data to verify this, that github
 promotes people to publish things that would have previously been too
 trivial to publish. Flashbake, as above, people are posting
 repositories of their config files, of the odds and ends scripts that

@@ -45,12 +45,12 @@ out some rough ideas on the subject that are still up at the `knitting
 section <http://tychoish.com/knitting/>`__ of TealArt, for starters. The
 kinds of framework that I'm up in the air about are:
 
--  how do we categorize and sort patterns so that they make sense to
+- how do we categorize and sort patterns so that they make sense to
 both the contributors and to the people who might be using the
 repository?
--  what format do we write patterns in? What kind of stylistic standards
+- what format do we write patterns in? What kind of stylistic standards
 do we establish?
--  when is a pattern completed, and when is a pattern considered still
+- when is a pattern completed, and when is a pattern considered still
 in progress?
 
 Thankfully there are plenty of really powerful community tools that

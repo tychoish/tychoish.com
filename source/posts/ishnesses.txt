@@ -22,43 +22,43 @@ Enjoy!
 LaTeX/Geek Things:
 ------------------
 
--  LaTeX Beamer Class - http://latex-beamer.sourceforge.net/
+- LaTeX Beamer Class - http://latex-beamer.sourceforge.net/
 
--  bsag LaTeX drawing -
+- bsag LaTeX drawing -
 http://www.rousette.org.uk/blog/archives/on-the-lure-of-the-user-manual-for-a-geek/
 
--  http://dopointoh.com/ - todo list web2.0 goodness
+- http://dopointoh.com/ - todo list web2.0 goodness
 
--  http://monkeybreadsoftware.de/Freeware/CombinePDFs.shtml - PDF
+- http://monkeybreadsoftware.de/Freeware/CombinePDFs.shtml - PDF
 management tool for OS X
 
--  http://www.yepthat.com/ - a pottentially better PDF
+- http://www.yepthat.com/ - a pottentially better PDF
 reading/management program. Maybe the "iTunes for PDF"?
 
--  http://www.scifihifi.com/podworks/ - a new/better ipod ripping
+- http://www.scifihifi.com/podworks/ - a new/better ipod ripping
 program. just `read about it
 here <http://www.gusmueller.com/blog/archives/2007/07/podworks_2.9_is_out.html>`__,
 haven't actually followed the link.
 
--  http://areasofmyexpertise.blogspot.com/2007/07/if-you-are-interested-in-websites-that.html
+- http://areasofmyexpertise.blogspot.com/2007/07/if-you-are-interested-in-websites-that.html
 opened the link, no clue. check on it later, tycho
 
 Podcast Culture/Geek:
 ---------------------
 
--  `This Day in Alternmeate History <https://www.lulu.tv/>`__
+- `This Day in Alternmeate History <https://www.lulu.tv/>`__
 
--  `Voice's Anthology by Mur
+- `Voice's Anthology by Mur
 Laferty <http://www.podiobooks.com/title/voices-new-media-fiction>`__
 
--  Shannon Oakley's Knitting Podcast.
+- Shannon Oakley's Knitting Podcast.
 
 Hypertexts
 ----------
 
--  http://iam.upsideclown.com/
+- http://iam.upsideclown.com/
 
--  http://masochuticon.com/
+- http://masochuticon.com/
 
 .. [1]
 It's funny that this is such a noteworthy sort of event. I routinely

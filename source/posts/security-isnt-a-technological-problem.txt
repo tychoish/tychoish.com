@@ -46,16 +46,16 @@ interesting to take this model and apply it to the "security problem."
 With luck, teaching more people to think about security processes will
 mean that users will generally understand:
 
--  how encryption works, and be more amenable to managing their own
+- how encryption works, and be more amenable to managing their own
 cryptography identities and infrastructure. (PGP and SSH)
 
--  how networking works on a basic level to be able to configure, set,
+- how networking works on a basic level to be able to configure, set,
 and review network security. (LAN Administration, NetFilter)
 
--  how passwords are stored and used, and what makes strong passwords
+- how passwords are stored and used, and what makes strong passwords
 that are easy to remember and difficult to break.
 
--  how to control and consolidate identity systems to minimize social
+- how to control and consolidate identity systems to minimize social
 engineering vulnerabilities. (OpenID, OAuth, etc.)
 
 There's a lot of pretty basic knowledge that I think most people don't

@@ -19,19 +19,19 @@ here <http://blog.linode.com/2009/06/16/linode-turns-6-welcomes-new-hires/>`__.
 
 This is really awesome because:
 
--  It's a job. Writing. About Linux, and Web Servers, and Free
+- It's a job. Writing. About Linux, and Web Servers, and Free
 Software/Open Source.
 
--  Linode rocks. I applied for the job somewhat before I bought a
+- Linode rocks. I applied for the job somewhat before I bought a
 linode, and I've been nothing but pleased with the service which has
 worked flawlessly for me so far. The best part, is I think that
 Linode's approach to technology, to using and developing technology,
 really fits in with the kinds of values and approaches that I hold.
 
--  Did I mention it's a writing job where I get to work with Linux and
+- Did I mention it's a writing job where I get to work with Linux and
 free software?
 
--  It puts me on the east coast, near Philadelphia, where the largest
+- It puts me on the east coast, near Philadelphia, where the largest
 concentration of my non-College friends are located, which has me
 unbelievably excited. I'll be able to gossip and dance with M.N. more
 than once a year; I'll be able to hang out and with my
@@ -39,20 +39,20 @@ emergency-backup-big-sister (H.C.) more often; it'll be feasible to
 hang out with `Chris <http://www.cgkreality.com/>`__ you know *ever*
 and more. I'm so psyched.
 
--  Did I mention it's a writing job where I get to work with Linux and
+- Did I mention it's a writing job where I get to work with Linux and
 free software?
 
 The astute among you will thus, notice that:
 
--  New job elsewhere means relocation. Which means.
+- New job elsewhere means relocation. Which means.
 
--  I've been busy doing all of the relocation things: packing, doing
+- I've been busy doing all of the relocation things: packing, doing
 this and that's, more packing, getting paperwork in order, even more
 packing, and so forth that I've not been really good at keeping on
 top of the blog. I have a couple of entries stashed, but my rhythm is
 all off kilter.
 
--  The job announcement has my real name in it. I have an abandoned a
+- The job announcement has my real name in it. I have an abandoned a
 post or two about the whole tycho/sam thing. I should perhaps restart
 it. I think what I really need is this highly mythologized `about
 page <http://tychoish.com/about/>`__ that talks about tycho and sam
@@ -63,7 +63,7 @@ garen" these days is the same as it was 2.5 or 3 years ago, but I really
 like what I've done with the whole tycho thing, and I can't really
 imagine not using it.
 
--  In a lot of ways, I think, writing this blog for so long is a lot of
+- In a lot of ways, I think, writing this blog for so long is a lot of
 the reason why I was able to get this job, both because through the
 experience of writing about technology for the blog gave me the
 confidence/knowledge/skills that make this tech-writing thing I do

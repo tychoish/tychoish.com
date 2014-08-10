@@ -10,23 +10,23 @@ At one time or another, I suspect that most programmers and technical
 writers have attempted to "fix" technical writing in one way or another.
 It's a big problem space:
 
--  Everything, or at least many things, need to be documented, because
+- Everything, or at least many things, need to be documented, because
 undocumented features and behaviors cause problems that \*one really
 ought not need to review the source code and understand the
 engineering to fix (potentially) trivial problems, every time the
 occur.
 
--  The people who write code are both not suited to the task of writing
+- The people who write code are both not suited to the task of writing
 documentation because writing code and writing documentation are in
 fact different skills. Also, I think the division of labor makes some
 sense here.
 
--  Documentation, like code, requires maintenance, review, and ongoing
+- Documentation, like code, requires maintenance, review, and ongoing
 quality control, as the technology and practice change. That's a lot
 of work and particularly for large projects, that can be a rather
 intensive task.
 
--  Lots of different kinds of documentation are needed, and depending on
+- Lots of different kinds of documentation are needed, and depending on
 the specific needs of the user, a basic "unit of documentation," may
 need to be presented in a number of different ways. There are a
 number of ways to implement these various versions and iterations,
@@ -67,7 +67,7 @@ the apparent problem.
 Which brings us to the present, where, if you want to write and publish
 documentation, your choices are:
 
--  Use a wiki, which `isn't
+- Use a wiki, which `isn't
 documentation <http://criticalfutures.com/2010/09/wikis-are-not-documentation/>`__
 but the software generally does a good job of publishing content, and
 wiki engines mostly don't have arcane structures of their own that
@@ -76,20 +76,20 @@ tool for the job and it forces writers and editors to maintain style
 themselves across an entire corpus, which is difficult and eventually
 counterproductive.
 
--  Use some other existing content management system. Typically these
+- Use some other existing content management system. Typically these
 aren't meant for documentation, they have difficult to use
 interfaces, because they're meant to power websites and blogs, and
 they almost impose some sort of structure (like a blog,) which isn't
 ideal for conveying documentation.
 
--  Use an XML-based documentation tool-set. This is probably the best
+- Use an XML-based documentation tool-set. This is probably the best
 option around, at the moment, as these tools were built for the
 purpose of creating documentation. The main problems are: they're not
 particularly well suited for generating content for the web (which I
 think is essential these days) and as near as I can tell they make
 humans edit XML by hand which I think is *always* a bad idea.
 
--  Build your own system from the ground up. Remember text is easy to
+- Build your own system from the ground up. Remember text is easy to
 munge and most of the other options are undesirable. **Downside:**
 homegrown projects take a lot of time, they're always a bit more
 complex than anyone (except the technical writers?) expect, and it's

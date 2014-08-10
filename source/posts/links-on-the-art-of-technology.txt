@@ -14,11 +14,11 @@ worth sharing. In three parts:
 Computer Programming and Hacking
 --------------------------------
 
--  `Art of Computer
+- `Art of Computer
 Programing <http://www.developerdotstar.com/mag/articles/art_computer_programming.html>`__
--  `Software
+- `Software
 Artisans <http://designbygravity.wordpress.com/2009/10/03/dont-be-a-coder-engineer-or-developer-be-a-software-artisan/>`__
--  `Unit testing and
+- `Unit testing and
 Agile <http://www.gigamonkeys.com/blog/2009/10/05/coders-unit-testing.html>`__
 
 There's a long tradition of computer scientists and eminent developers
@@ -37,9 +37,9 @@ overview and with such a small sample, the insights about the ways that
 programmers approach problems is pretty useful. Makes me want to get
 `the book <http://www.codersatwork.com/>`__.
 
--  `On Functional
+- `On Functional
 Programing <http://www.linuxjournal.com/article/8850>`__
--  `How John Wiegley uses
+- `How John Wiegley uses
 git <http://www.newartisans.com/2009/10/branch-policies-with-git.html>`__
 
 I may not be a programmer in the conventional sense (or even any of the
@@ -63,7 +63,7 @@ Sure there are "vendor branches" for release maintenance, but branches
 in git tend to be much more *ad hoc* from what I've seen. Anyway, good
 one for the file.
 
--  `The Trouble With
+- `The Trouble With
 Frameworks <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
 
 I've been looking over `weppy <http://webpy.org/>`__ for the past few
@@ -81,9 +81,9 @@ the time, but when it does *oh boy, does it*.
 Academia, Anthropology, Literature
 ----------------------------------
 
--  `The Past Future Literary
+- `The Past Future Literary
 Magazines <http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/article6864371.ece>`__
--  `The Future of
+- `The Future of
 Books <http://www.futureofthebook.org/blog/archives/2009/09/a_clean_well-lighted_place_for.html>`__
 
 I `wrote a series of articles on the future of
@@ -99,9 +99,9 @@ force (particularly the second) us to think about the economics of
 booksellers, including branding, brick and mortar shops, which I think
 is incredibly important.
 
--  `Aaron Swartz on Disciplinary
+- `Aaron Swartz on Disciplinary
 Bubbles <http://www.aaronsw.com/weblog/disciplinarybubbles>`__
--  `Cyborg Anthropology and the
+- `Cyborg Anthropology and the
 Singularity <http://caseorganic.posterous.com/the-singularity-in-a-basket>`__
 
 In the piece on Cyborg Anthropology, Amber Case discusses looks at the

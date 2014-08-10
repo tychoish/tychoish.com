@@ -28,7 +28,7 @@ Anyway, back to why I like the book, why I think it's important to read
 a 30 (!) year old book of, what was surely in its day, trendy
 philosophy.
 
--  I think it's difficult to say "reality is socially constructed,"
+- I think it's difficult to say "reality is socially constructed,"
 without having a framework. Judith Butler is a good start (did'ya
 know that she opens her oft-reprinted essay "Imitation and Gender
 Insubordination" with a Delueze quote?) but I think it's important to
@@ -37,7 +37,7 @@ truth is that those arguments aren't tactically a good place to start
 for the kinds of questions and arguments I'm interested in building
 on.
 
--  I enjoy the possibility and opportunity to look at psychoanalysis and
+- I enjoy the possibility and opportunity to look at psychoanalysis and
 say "rubbish!" outside of empiricism, and still say "you know these
 ideas are still useful." It's not apologizing for Freud, I mean I
 think even when you extract the 19th century from Freud, it's not all
@@ -49,10 +49,10 @@ that "interpolation" (Althusar) is pretty nifty. I'm still throwing
 out ideas by the bale , but at some point that just has to happen, I
 suppose.
 
--  It's a book about psychoanalysis that is unabashedly materialist, and
+- It's a book about psychoanalysis that is unabashedly materialist, and
 that's an incredibly helpful position to have a grasp of.
 
--  It's funny. I tried reading Derrida about a year ago. Dear g-d. I
+- It's funny. I tried reading Derrida about a year ago. Dear g-d. I
 think Derrida gets taken a little more seriously than Deleuze and
 Guatteri, but it's harder to read, and I think less broadly
 applicable.
@@ -61,12 +61,12 @@ And then the background. Now lets remember, I'm no specialist in this
 stuff, so what I've been able to piece together is just that: a
 mishmash.
 
--  *AO* is a synthetic project. Like a lot of so called radical
+- *AO* is a synthetic project. Like a lot of so called radical
 philosophy (usually french, usually from the late 60s and 70s), it's
 a melding of Freud and Marx. I've heard also (and agree) that it uses
 Nietzsche synthesizes Freud and Marx.
 
--  Deleuze and Guatteri are, at least as I read them,
+- Deleuze and Guatteri are, at least as I read them,
 post-structuralists, which is basically an epistemological position.
 That to understand our culture/society, one need to under stand the
 underlying systems and "structures" [1]_. Structuralists assume that
@@ -74,7 +74,7 @@ structures are basically transcendent/ahistorical/etc.
 Post-structuralists, say no, that they're
 contextually/historically/culturally constructed.
 
--  I've often thought, though I don't have a lot of textual evidence to
+- I've often thought, though I don't have a lot of textual evidence to
 back this up on (but hey, blog) that post-structualism pivots on
 linguistics/semiotics, in the tradition of
 `Saussure <http://en.wikipedia.org/wiki/Ferdinand_de_Saussure>`__.

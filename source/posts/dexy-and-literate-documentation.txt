@@ -58,7 +58,7 @@ concerning `technical
 writing <http://tychoish.com/technical-writing/>`__ in some state of
 existence.*)
 
--  `Atomic
+- `Atomic
 Documentation <http://tychoish.com/technical-writing/atomicity>`__.
 Dexy reinforces the idea that documentation should be written in very
 small units that are self sufficient, and address very small and
@@ -68,7 +68,7 @@ these "atomic" units or stitch more complete documentation together
 from these units. This makes documentation easier to maintain, and
 arguably makes documentation more valuable for users.
 
--  `Compiled
+- `Compiled
 Documentation <http://tychoish.com/technical-writing/compilation>`__.
 The "end-product" Documentation should be statically compiled, unlike
 (most) web-based content that is dynamically generated. This allows
@@ -78,7 +78,7 @@ quality control tests. Documentation is particularly suited to this
 kind of display generation because it changes very irregularly (no
 more than a few times a day, and often much much less often.)
 
--  `Pipes and
+- `Pipes and
 Filters <http://tychoish.com/technical-writing/filters/>`__. the
 process of publication can--like code--is basically passing text (and
 examples) through various levels of processing until the arriving at

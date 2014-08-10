@@ -12,7 +12,7 @@ companies in our economy, the role of competition, and what open source
 business models look like. This is a huge mess of thoughts and trains
 but I have to start somewhere.
 
--  `The Hacking Business
+- `The Hacking Business
 Model <http://askmonty.org/wiki/index.php/The_hacking_business_model>`__
 isn't so much a business model, as it is an operations model for
 hacker-run business. In that light it's a quite useful document, and
@@ -24,12 +24,12 @@ doesn't quite work pragmatically.)
 I'm interested in seeing where this kind of thing goes, particularly in
 the following directions:
 
--  Where does capital come from in these systems? For start-up costs?
+- Where does capital come from in these systems? For start-up costs?
 
--  Where and how do non-technical (administrative, management, support,
+- Where and how do non-technical (administrative, management, support,
 business development) staff/projects fit into these sorts of systems?
 
--  The conventional wisdom in proprietary software (and to a lesser
+- The conventional wisdom in proprietary software (and to a lesser
 extent in free software) is that in order to develop new technology
 and improve existing technology code-bases need to compete with each
 other, and I don't really think that this is the case in open
@@ -53,7 +53,7 @@ supported and encouraged,) the competition can happen among a team or
 with one's own history. We pitting code bases against each other seems
 to not make a great deal of economic sense.
 
--  I wish I had access to demographic data, but I suspect that there are
+- I wish I had access to demographic data, but I suspect that there are
 few if any open source projects with development communities that are
 bigger than ~100-150 ([dunbar's
 number](http://en.wikipedia.org/wiki/Dunbar's\_number)), and the

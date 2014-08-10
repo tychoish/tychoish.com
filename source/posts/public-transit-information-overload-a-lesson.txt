@@ -20,21 +20,21 @@ you're a transit geek, but after every stop--\ **including outlying
 stops**--the train tells you what line you're on, and which stops it
 makes or skips. The problems:
 
--  At most outlying stations, you can tell by the station you're at,
+- At most outlying stations, you can tell by the station you're at,
 which line you're on. It's sometimes useful to know where the train
 you're on is headed, but the trains only tell you that on the
 *outside* of the train, until you get downtown, when the
 announcements change from "where you've been," to "where you're
 going."
 
--  The "this is the train you're on," announcements don't change as you
+- The "this is the train you're on," announcements don't change as you
 pass stops, so you hear where the train's been at every stop *after*
 even you passed the relevant stops. The announcements make sense, as
 there are 5 or six "main line" stops that some trains stop on, and
 others don't, so as you're heading *towards* doubtful stops, it's
 useful information, when you're passed them: less so.
 
--  All announcements are displayed on screens in written form and read
+- All announcements are displayed on screens in written form and read
 by a speech synthesizer. I understand the accessibility concerns, but
 there are still conductors and I'm not sure that the information is
 presented in a way that is usable by people who don't already have a
@@ -46,17 +46,17 @@ Given this background, as a technical writer, and someone who geeks out
 on information presentation, I felt that there are a number of things
 that can be learned from this case:
 
--  More information is sometimes confusing, and can make concepts harder
+- More information is sometimes confusing, and can make concepts harder
 to grasp.
 
--  Figuring out what people need to know in any given situation is more
+- Figuring out what people need to know in any given situation is more
 important (and more difficult) than figuring out what is true or
 correct.
 
--  Sometimes multi-modal presentation may not actually add value in
+- Sometimes multi-modal presentation may not actually add value in
 proportion with the amount of annoyance it generates.
 
--  Presentation matters. The speech synthesizer does not sound very good
+- Presentation matters. The speech synthesizer does not sound very good
 *and* it's inefficient.
 
 

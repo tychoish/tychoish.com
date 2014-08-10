@@ -44,11 +44,11 @@ to me over the past ~10 years, I feel like I've hit a wall: I've written
 ~830,000 words on tychoish.com, and am frustrated that there's not a lot
 to show for it:
 
--  readership is steady, even increasing, but not inspiring,
+- readership is steady, even increasing, but not inspiring,
 
--  I don't actually want to work as a blogger, and
+- I don't actually want to work as a blogger, and
 
--  most importantly the work I've done here doesn't really build to
+- most importantly the work I've done here doesn't really build to
 anything more than a half-dozen or so blog posts.
 
 While there are themes throughout all of the posts, the work isn't very
@@ -61,12 +61,12 @@ other people to improve and benefit fromm, and writing fiction (that I
 may try and publish conventionally, but I may end up self-publishing
 using a similar proccess.) The goal is to:
 
--  Write things with more rigor, including better citations and
+- Write things with more rigor, including better citations and
 research.
 
--  Work on projects that address topics more comprehensively.
+- Work on projects that address topics more comprehensively.
 
--  Produce, document, and maintain scripts and other programs that I
+- Produce, document, and maintain scripts and other programs that I
 write rather than endlessly critique existing tools and approaches.
 In short, less talking about stuff and more *making stuff*.
 

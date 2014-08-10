@@ -25,12 +25,12 @@ interface is a common strategy. `Legit <http://www.git-legit.org/>`__ is
 a great example of this, but I don't think it's enough, because the
 problem is really one of bad and unclear defaults. For instance:
 
--  The "master" branch, in larger distributed systems is *highly*
+- The "master" branch, in larger distributed systems is *highly*
 confusing. If you have multiple remotes (*which is common*), every
 remote has its own master branch, which all (necessarily) refer to
 different possible points in a repository's history.
 
--  The names of a local branch do not necessarily refer to the names of
+- The names of a local branch do not necessarily refer to the names of
 the remote branch in any specific repository. The decoupling of local
 and remote branches, makes sense from a design perspective, but it's
 difficult to retain this mapping in your head, and it's also
@@ -44,26 +44,26 @@ current day git with a few basic tweaks described in later options,
 and a contributors mode, that is designed with makes the following
 assumptions:
 
--  The "mainline" of the project's development will occur in a branch to
+- The "mainline" of the project's development will occur in a branch to
 which this user only has read-only access.
 
--  Most of this user's work will happen in isolated topic branches.
+- Most of this user's work will happen in isolated topic branches.
 
 2. Branch naming enforcement:
 
--  All branches will be uniquely named, relative to a username and/or
+- All branches will be uniquely named, relative to a username and/or
 hostname. This will be transparent (largely) to the history, but will
 make all conversations about branches less awkward. This is basically
 how branches work now, with ``[remote]/[branch]``, except that all
 local branches need ``self/[branch]``, and the software should make
 this more transparent.
 
--  Remote branches will implicitly have local tracking branches with
+- Remote branches will implicitly have local tracking branches with
 identical names. You could commit to any of the local tracking
 branches, and ``pull`` will have the ability to convert your changes
 to a ``self/[branch]`` if needed.
 
--  All local branches, if published, will map to a single remote branch.
+- All local branches, if published, will map to a single remote branch.
 One remote, will be the user's default "publication target," for
 branches.
 
@@ -78,31 +78,31 @@ work," and would be configured separately.
 
 4. Minor tweaks.
 
--  Map local branches directly to remote branches.
+- Map local branches directly to remote branches.
 
--  Be able to specify a remote branch as a "mirror" of another branch.
+- Be able to specify a remote branch as a "mirror" of another branch.
 
--  Make cherry-picked commits identifiable by their original commit-id
+- Make cherry-picked commits identifiable by their original commit-id
 internally. The goal is to push people to cherry-pick commits as much
 as possible to construct histories without needing to rebase. [1]_
 
--  Have sub-module support automatically configured, without fussing.
+- Have sub-module support automatically configured, without fussing.
 
--  Have better functions to cleaning up branch cruft. Particularly on
+- Have better functions to cleaning up branch cruft. Particularly on
 remotes.
 
--  Have some sort of configurable "published pointer," that users can
+- Have some sort of configurable "published pointer," that users can
 use as a safe block against rebases before a given point.
 
 The goals here are to:
 
--  Make working with git all about branches and iteration rather than a
+- Make working with git all about branches and iteration rather than a
 sequence of commits.
 
--  Provide good tools to prevent people from rebasing commits, which is
+- Provide good tools to prevent people from rebasing commits, which is
 always confusing and rarely actually required.
 
--  Make branch names as canonical as possible. The fact that there can
+- Make branch names as canonical as possible. The fact that there can
 be many possible names for the same thing is awful.
 
 Who's with me? We can [[sort out the details, if you want\|discourse]].

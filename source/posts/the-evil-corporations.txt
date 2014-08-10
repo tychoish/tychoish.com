@@ -56,18 +56,18 @@ fiction.
 The following list is rough, and incomplete, and I encourage you all to
 help me out in comments!
 
--  Corporations have a few overriding drives: to grow, to make profit
+- Corporations have a few overriding drives: to grow, to make profit
 (both by minimizing expenses and by increasing revenue), and to
 continue to exist. All actions and strategies undertaken by
 corporations should make sense in context of one or more of these
 drives.
 
--  Corporate cultures are largely self selecting, so "radicals" in
+- Corporate cultures are largely self selecting, so "radicals" in
 corporate settings are really unlikely, either because they're likely
 to leave or because their self-interest eventually falls in line with
 the company's interest.
 
--  Corporations employ huge numbers of people, but we can assume that
+- Corporations employ huge numbers of people, but we can assume that
 the number of people at any given company doing things that support
 the main mission of a company but that aren't "the thing the company
 does." Phyisical Plant "things," clerical tasks, human resources,
@@ -75,20 +75,20 @@ does." Phyisical Plant "things," clerical tasks, human resources,
 and so forth. Probably as much as a quarter or a third of the staff
 probably falls into one of these categories.
 
--  Corporations are rarely unilateral. Ever. They have many operations,
+- Corporations are rarely unilateral. Ever. They have many operations,
 many projects, many divisions, and thus can be resilient to things
 changing "around them." This also means that coorporations are less
 likely to take umbrage at potentially threatening individuals and
 companies, than a single individual would in a similar situation.
 
--  Career advancement, in companies or elsewhere, generally happens to
+- Career advancement, in companies or elsewhere, generally happens to
 some greater or lesser extent by moving horizontally between
 companies rather than "through the ranks."
 
--  The bigger the corporation the more specialized the roles of the
+- The bigger the corporation the more specialized the roles of the
 workforce would tend to be.
 
--  For the most part, I think it safe to assume that most corporations
+- For the most part, I think it safe to assume that most corporations
 don't have a great deal of "classified" information, or information
 that's heavily embargoed. This comes as a great blow to conspiracy
 theorists, but secrets are hard to keep with regards to projects that

@@ -39,18 +39,18 @@ for a couple of reasons, mostly related to my xmpp server/provider, but
 I have used it exclusively for a number of days and the experience is
 pretty good. Reasons I like it:
 
--  Everything lives in one window, and chat windows have equal footing,
+- Everything lives in one window, and chat windows have equal footing,
 like buffers in emacs, say. That's really nifty.
 
--  The key shortcuts are really simple, and quite intuitive. Thats key
+- The key shortcuts are really simple, and quite intuitive. Thats key
 in a terminal application
 
--  I can run it in screen, and pull the screen over ssh to my laptop
+- I can run it in screen, and pull the screen over ssh to my laptop
 when I'm not in front of my computer. Though xmpp is generally really
 great about multiple connections, sometimes it's best to not have to
 deal with that fussing.
 
--  I like that it supports PGP encryption, though I don't have anyone
+- I like that it supports PGP encryption, though I don't have anyone
 with whom I can encrypt conversations with, but that always seems to
 be a minor detail.
 
@@ -58,28 +58,28 @@ Though, this isn't to say that it's all good. There are some problems
 that I've had. Though to be fair, my complaints here are much fewer than
 with most other XMPP clients, so that's a good thing, right? Complaints:
 
--  No support for service discovery. Which means you have to install
+- No support for service discovery. Which means you have to install
 psi--basically--if you're serious about getting the most out of XMPP.
 This is... unfortunate.
 
--  It takes a lot of work to get configured and get key bindings set up.
+- It takes a lot of work to get configured and get key bindings set up.
 I'm mostly of the opinion that it's always best to give users a set
 of key bindings to start with and then let them customize as needed,
 and the default screen layout isn't particularly useful or economical
 (put the status window at the top, and make it smaller, for
 starters).
 
--  It doesn't support multiple connections/user-ids. This is a biggie,
+- It doesn't support multiple connections/user-ids. This is a biggie,
 and while I don't (really) object to the fact that it doesn't support
 other protocols, I think the reality is that most users probably have
 and need to use more than one identity at once, so that's a
 noticeable hole.
 
--  I'd also like an *easy* interface for producing system notifications
+- I'd also like an *easy* interface for producing system notifications
 give me a setting option to pile messages (username, excerpt of x
 characters, time) to a pipe (\|) and I'd be very happy indeed.
 
--  I couldn't decide if the fact that there was only one "text entry
+- I couldn't decide if the fact that there was only one "text entry
 field" (mini-buffer) for all outgoing message buffers. Which meant
 that, particularly with scroll back, that it was easy to cross
 contexts unintentionally.

@@ -45,10 +45,10 @@ these convinces don't in and of themselves
 Control over technology and autonomy in the networked context ultimately
 means that we as users have to:
 
--  Administer networked servers that provide us with the services that
+- Administer networked servers that provide us with the services that
 we want and need to do whatever it is that we do.
 
--  Participate in some exchange for networked services (i.e. pay for
+- Participate in some exchange for networked services (i.e. pay for
 service, either in cash or by way of access to data.)
 
 **That's hard! Computers should get easier to use not harder, right?**
@@ -108,30 +108,30 @@ I'm not sure. There's clearly a common set tasks that we currently use
 in the networked context. I'm not sure what the application is, exactly,
 but here's a beginning of what this "application stack" looks like.
 
--  An XMPP Server like Prosody.im, with PyAIMt and other convectional IM
+- An XMPP Server like Prosody.im, with PyAIMt and other convectional IM
 network transports.
 
--  Some sort of Email Service: Citadel springs instantly to mind as an
+- Some sort of Email Service: Citadel springs instantly to mind as an
 "all in one solution," but some
 postfix+procmail+fetchmail+horde/squirrelmail seems to make some
 sense
 
--  A web server, either for hosting personal websites, or with some sort
+- A web server, either for hosting personal websites, or with some sort
 of authentication scheme (digest?) for sharing files with yourself.
 The truth is that web servers, are pretty darn lightweight and it
 doesn't make sense to *not* install one. Having said that, people see
 "web hosting," and probably often think "Well, I don't really need
 *web* hosting," when that's almost beside the point.
 
--  SSH and some system for FUSE (or FUSE-like) mount points, so that
+- SSH and some system for FUSE (or FUSE-like) mount points, so that
 they can use and store remote files.
 
--  There's probably a host of web-based applications that would need to
+- There's probably a host of web-based applications that would need to
 be installed as a matter of course: some sort of web-based RSS
 reader, wiki-like note taking. Bookmarking. Some sort of notification
 service, Etc.
 
--  [your suggestion here.]
+- [your suggestion here.]
 
 
 

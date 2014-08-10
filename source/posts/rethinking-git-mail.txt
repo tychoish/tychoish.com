@@ -63,14 +63,14 @@ to\ ``~/domain.com/git/mail.git/``
 
 Basically the idea is:
 
--  Always pull from the bare/"root"/centralized repository, commit any
+- Always pull from the bare/"root"/centralized repository, commit any
 local changes and then push to the local repository.
--  Even though this system, like most git systems, in truth, have a
+- Even though this system, like most git systems, in truth, have a
 centralized repository, all of the "children" repositories are
 equivelent, even though one repository is special because it's where
 new data enters the system. This, as my previous attempt has shown,
 isn't strictly speaking, necessary, but it does make things better.
--  Given all this, if I needed to start using fetchmail locally for some
+- Given all this, if I needed to start using fetchmail locally for some
 reason to check a pop account, I could without needing to worry about
 syncing problems. It makes sense for mail to "enter" on the
 server/centralized for semi-obvious reasons, but it's not a

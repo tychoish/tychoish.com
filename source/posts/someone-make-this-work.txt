@@ -14,9 +14,9 @@ html, etc.). for the purposes of example, lets say that these files
 are in the format of /FileName.txt
 2. When you go to /FileName.php (or whatever) the program:
 
--  adds the content of a designated header.php and footer.php file to
+- adds the content of a designated header.php and footer.php file to
 the begining and end of the file.
--  runs the file through some sort of text filter
+- runs the file through some sort of text filter
 
 That's it. Maybe you'd want to figure out how to get an auto-generated
 page list, but that's not necessary. Now I figure to make the whole

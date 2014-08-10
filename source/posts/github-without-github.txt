@@ -21,8 +21,8 @@ recommend!
 Permissions Control
 -------------------
 
--  `Gitosis <http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way>`__
--  `Gitolite <https://github.com/sitaramc/gitolite>`__
+- `Gitosis <http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way>`__
+- `Gitolite <https://github.com/sitaramc/gitolite>`__
 
 Wiki / Pages
 ------------
@@ -43,12 +43,12 @@ the github website is that there's a lot of other integrated
 functionality (bug tracking, merge request queues, automatic
 forking/branching/etc.
 
--  `gitorious <https://gitorious.org/gitorious>`__ - functional but
+- `gitorious <https://gitorious.org/gitorious>`__ - functional but
 inelegant.
 
--  `gitlab <http://gitlabhq.com/>`__ - promising but untested.
+- `gitlab <http://gitlabhq.com/>`__ - promising but untested.
 
--  `repo.or.cz <http://repo.or.cz/>`__ - functional but not practical
+- `repo.or.cz <http://repo.or.cz/>`__ - functional but not practical
 for casual administration.
 
 Web hooks

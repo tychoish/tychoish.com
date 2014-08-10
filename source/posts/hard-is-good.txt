@@ -22,10 +22,10 @@ Furthermore, doing the hard work of adding infrastructure to a project
 is what allows software to grow in awesome ways. When you do the hard
 work, you make it possible to:
 
--  add functionality and utility without needing to rewrite large
+- add functionality and utility without needing to rewrite large
 amounts of code.
 
--  add options and globules to expose features and behaviors in response
+- add options and globules to expose features and behaviors in response
 to users needs.
 
 Basically infrastructure begets agility.

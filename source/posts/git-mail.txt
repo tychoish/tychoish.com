@@ -82,7 +82,7 @@ to reflect the changes.
 daemon to do this automatically every, say 15 minutes, and then
 you get the illusion of having "push" email.
 
--  If you get `growl <http://growl.info/>`__ to notify you of the
+- If you get `growl <http://growl.info/>`__ to notify you of the
 results of the pull (end of step 2) you'll be able to see
 whether there's new mail or not.
 
@@ -93,31 +93,31 @@ than you sync.
 
 So why would I (and you?) want to do this? Easy:
 
--  It's quick. Git is fast, by design, and since email files have a lot
+- It's quick. Git is fast, by design, and since email files have a lot
 of redundancy in the headers and what not, git can save a lot of
 space in the "tube" and speed up your email downloads.
--  It's robust and flexible. If my server stooped working for some
+- It's robust and flexible. If my server stooped working for some
 reason, I could set up another, or simply start using fetch-mail
 again. If the server went back up, I just push the changes up, and
 I'm back in business.
--  Git handles renames implicitly, and this is a really cool feature
+- Git handles renames implicitly, and this is a really cool feature
 that I don't think gets quite *enough* mention. Basically if I move
 or rename a file, and add the new file to git, (``git add *`` does
 this) git realizes that I've moved the file. so as files move and get
 named other things, git realizes that it's happened, deals with it
 and moves on.
 
--  Understandably, if you delete a file locally git *won't* delete it
+- Understandably, if you delete a file locally git *won't* delete it
 from the repository "head" unless you tell it to. This bash script
 takes care of that: ``for i in``\ git status \| grep deleted \|
 awk '{print :math:`3}'`; do git rm --quiet   `\ i; done\`
 
--  It's secure, or at least is if you do it right. All the email gets
+- It's secure, or at least is if you do it right. All the email gets
 downloaded over SSH, so no clear text passwords (if you're using
 public key authentication) and encrypted data transmission.
--  Oh yeah, and it's not flakey like IMAP. Totally worthwhile.
+- Oh yeah, and it's not flakey like IMAP. Totally worthwhile.
 
--  If there is some sort of syncing problem, you know where it is, as
+- If there is some sort of syncing problem, you know where it is, as
 opposed to IMAP making an executive decision without telling you
 and un-sorting all your email.
 

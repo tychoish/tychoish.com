@@ -22,7 +22,7 @@ Lets see, there have been a lot of little projects that have taken up a
 lot of my time and brain power. I'll outline them to show what I've been
 working on and to see if anyone has suggestions:
 
--  I've been working on switching to a different terminal emulator
+- I've been working on switching to a different terminal emulator
 (urxvt from gnome-terminal) and I have yet to get the colors *right*,
 which is a barrier. A terminal with hard to read colors is totally
 useful. Also, I haven't quite figured out how to get copying and
@@ -34,7 +34,7 @@ one or two instances, that'd be fine, but I need to have at least 4
 instances (mail, irc, IM, actual terminal things) and sometimes that
 grows to even larger numbers. So lightweightness is desirable.
 
--  I'm starting to switch to using jabber/XMPP for all of my IM needs.
+- I'm starting to switch to using jabber/XMPP for all of my IM needs.
 The good news is that this attempt works *way* better than my
 previous attempts. The AIM transport (which seems to be the de facto
 IM standard in my network) works like a charm most of the time. I'm
@@ -50,7 +50,7 @@ I'll probably switch to running my own XMPP server (when I move off
 of dreamhost) but in the mean time it would be nice to have this
 fixed.
 
--  I'm thinking of switching away from Wordpress to a blogging platform
+- I'm thinking of switching away from Wordpress to a blogging platform
 called `Jekyll <http://github.com/mojombo/jekyll/tree/master>`__.
 This tool would conform more to my workflow (easier posting), it
 would be fun to have a blogging platform that I could conceptually
@@ -64,7 +64,7 @@ ideal. I'll need to blog about this a bit more before. And the
 conversion process promises to be somewhat complex. There's always
 something interesting going on.
 
--  I'm thinking of using bootcamp and installing Linux on my macbook,
+- I'm thinking of using bootcamp and installing Linux on my macbook,
 and going back to using that hardware more full time. It's good
 hardware, I already have it, and it might be fun to use another
 installation opportunity to play with Arch Linux (though I'll

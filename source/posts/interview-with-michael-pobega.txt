@@ -6,7 +6,7 @@ Interview with Michael Pobega
    :author: tychoish and Michael Pobega
    :tags: interview
 
--  **Who are you? What do you?**
+- **Who are you? What do you?**
 
 I'm a 19 year old Perl hacker slash college student. I'm a Computer
 Science major at SUNYIT in Utica. To be truthful, I'm not a very good
@@ -26,14 +26,14 @@ at work. For example, I just spent the last two days working on a daemon
 that uses Net::DBus to automatically log a user out when a preset idle
 time is reached.
 
--  **Smaller Computers, More Powerful Computers, or Cheaper Computers?**
+- **Smaller Computers, More Powerful Computers, or Cheaper Computers?**
 
 Smaller, generally. I like saving money, and I love netbooks. As I
 always say, the speed of the computer is up to the knowledge of the user
 installing the software on it. My EeePC 901 running Debian GNU/Linux
 runs as fast as most "modern" computers running Windows Vista.
 
--  **Lets talk about technology: What kind of technology do you use, and
+- **Lets talk about technology: What kind of technology do you use, and
 what's the coolest thing that technology enables for you? What about
 your technology do you find frustrating?**
 
@@ -49,7 +49,7 @@ into. The reason I spent so long on my Net::DBus script is because the
 docs I was using were outdated. Thankfully buu on #perl pointed me to
 Net::DBus::Dumper, and I figured everything out myself.
 
--  **Favorite Linux/UNIX Command (whatever, as long as it fits on one
+- **Favorite Linux/UNIX Command (whatever, as long as it fits on one
 line.)?**
 
 vi, of course :]
@@ -58,16 +58,16 @@ Or if you mean a singular shell command, it's probably between perl, sed
 and awk. Those three programs have saved me countless hours of file
 editing.
 
--  **The single scariest thing about the future?**
+- **The single scariest thing about the future?**
 
 Google SkyNet(tm)
 
--  **Favorite Website?**
+- **Favorite Website?**
 
 Hmm ... Considering I don't browse the web too much, I'd have to go with
 http://latfh.com/. The laughs never stop coming.
 
--  **What do you think is going to be the most important event of the
+- **What do you think is going to be the most important event of the
 next 10 years?**
 
 This one's hard to say. I think it can be one of three things;
@@ -79,28 +79,28 @@ smell, etc)
 
 3. Apple publicly announcing that their computers are overpriced
 
--  **One thing that you wish you could learn?**
+- **One thing that you wish you could learn?**
 
 French. For some reason I can't seem to wrap my brain around spoken
 language.
 
--  **Emacs vs. Vi**
+- **Emacs vs. Vi**
 
 vi, of course :]
 
 I mean, don't get me wrong; Emacs is a great operating system, but it's
 lacking a good text editor.
 
--  Where can we find more about you/your projects?
+- Where can we find more about you/your projects?
 
 Currently I don't have a site setup, but when I do it will be at any of
 these locations:
 
--  http://web.cs.sunyit.edu/~pobegam/
+- http://web.cs.sunyit.edu/~pobegam/
 
--  http://fuzzydev.org/
+- http://fuzzydev.org/
 
--  http://fuzzydev.org/~pobega
+- http://fuzzydev.org/~pobega
 
 Or you can just follow me on [Identica,
 @pobega](http://www.identi.ca/pobega/)

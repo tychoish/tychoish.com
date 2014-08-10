@@ -18,12 +18,12 @@ too distant, and will only be recognizable in retrospect.
 
 From reading Vinge's comments, I've come to several realizations:
 
--  Vinge's concept of the singularity is pretty narrow, and relates to
+- Vinge's concept of the singularity is pretty narrow, and relates to
 effect of creating human-grade information technology. Right now,
 there are a lot of things that humans can do that machines *can't*,
 The singularity then, is the point where that changes.
 
--  I liked how--and I find this to be the case with most "science
+- I liked how--and I find this to be the case with most "science
 theory," but the scientists often have very narrow theories and the
 popular press often forces a much more broad interpretation. I think
 we get too caught up with thinking about the singularity as this cool
@@ -32,7 +32,7 @@ forget that the singularity would really mark the end of society and
 culture as we know it now. That it's a rather frightening
 proposition.
 
--  Vinge's comparison of the singularity to the development of the
+- Vinge's comparison of the singularity to the development of the
 printing press is productive. He argues that the printing press was
 conceivable before Gutenberg (they had books, the effects, however
 were unimaginable, admittedly), in a way that the singularity isn't

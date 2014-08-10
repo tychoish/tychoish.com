@@ -20,18 +20,18 @@ it would take to write a script would both save a lot of time later
 
 So I have this script that:
 
--  Copies the source files into the publication directory.
+- Copies the source files into the publication directory.
 
--  Generates: full html files for every chapter, plain text files for
+- Generates: full html files for every chapter, plain text files for
 every chapter, a full html edition of the complete text, a plain text
 edition of the complete text, a minimally styled html edition of the
 complete text.
 
--  Keeps these editions synchronized.
+- Keeps these editions synchronized.
 
--  Keep the original source files synchronized.
+- Keep the original source files synchronized.
 
--  Ideally provide a tool that would prove useful in the future.
+- Ideally provide a tool that would prove useful in the future.
 
 I've included the code of what I came up with in this wiki, at
 **[[code/build-novel]]**, and you can find the full source of

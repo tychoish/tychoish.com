@@ -15,7 +15,7 @@ Zoe which I cary around with me almost all the time.
 
 1.  `NetNewsWire <http://www.newsgator.com/Individuals/NetNewsWire/>`__
 
--  This is the worlds best
+- This is the worlds best
 `RSS <http://en.wikipedia.org/wiki/RSS_(file_format)>`__/feed/news
 reader and I'm quite pleased with it generally. Because of NNW
 most of my reading of the internet these days is via RSS, and NNW
@@ -33,7 +33,7 @@ Good stuff.
 
 2.  `DevonTHINK <http://www.devon-technologies.com/>`__
 
--  This is totally the mother of all applications. It's a persona
+- This is totally the mother of all applications. It's a persona
 database tool, and any description of the program really doesn't
 do it justice, and there are so many different ways to use the
 program which further complicates it. I use the program,
@@ -49,7 +49,7 @@ know that it'll grow with me.
 
 3.  `WriteRoom <http://www.hogbaysoftware.com/product/writeroom>`__
 
--  This program has become a key part of my workflow. I tend to
+- This program has become a key part of my workflow. I tend to
 write many of my drafts (like for this very article) in WR and
 then save it elsewhere. It's just a plain text editor, but it
 works full screen, so I have it set up to print fairly big green
@@ -61,7 +61,7 @@ writing productivity.
 
 4.  `Quicksilver <http://quiksilver.blacktree.com/>`__
 
--  This is *the* killer app, and I think that I've written
+- This is *the* killer app, and I think that I've written
 `enough <http://tychoish.com/rhizome/whining-about-command-lines/>`__
 about it here already. I use QS to do everything from updating my
 `twitter <http://www.twitter.com/tychoish/>`__, to organizing my
@@ -72,7 +72,7 @@ everything together and it's awesome.
 
 5.  `TextMate <http://macromates.com/>`__
 
--  This is sort of the power-editor program. I use it more for
+- This is sort of the power-editor program. I use it more for
 editing than for drafting, but it's a very powerful program
 without being bloated and overdone. It has "packages" for
 Markdown, Multi-Markdown, Blogging, HTML, PHP, and just about any
@@ -87,7 +87,7 @@ bunch of text files, it's good stuff.
 
 6.  `Adium <http://www.adiumx.com/>`__/`Colloquy <http://colloquy.info/>`__
 
--  These are the basic chat programs. I don't kid when I say that
+- These are the basic chat programs. I don't kid when I say that
 AIM is basically my cell phone. It's how I keep in touch and
 contact folk. It's almost always open, and having Adium lets me
 maintain connections to all the major (and some minor) networks,
@@ -99,7 +99,7 @@ I'm a big fan.
 
 7.  Mail.app
 
--  Most of my email these days is handled through
+- Most of my email these days is handled through
 `Gmail <http://gmail.google.com/>`__ anyway, but since I always
 have my computer with me, and I'm more likely to have my
 computer, but not have internet access, than I am to have my
@@ -107,7 +107,7 @@ computer but not have internet access.
 
 8.  `Camino <http://www.caminobrowser.org/>`__
 
--  This has become my web-browser of choice. I like having a browser
+- This has become my web-browser of choice. I like having a browser
 that works with the OS X service Menu and other OS specific
 features (`firefox <http://www.mozilla.com/en-US/firefox/>`__
 doesn't), but I've always felt that Safari was a bit *off*, and
@@ -118,14 +118,14 @@ hence the browser choice.
 
 9.  `VLC <http://www.videolan.org/vlc/>`__
 
--  It's the video player that plays anything and everything. It's
+- It's the video player that plays anything and everything. It's
 reliable, and on top of that, it has the best software
 amplification of any app. This is a must-have free APP, and it
 really does play anything.
 
 10. `Pukka <http://codesorcery.net/pukka>`__
 
--  Pukka is just a little app that makes it easy to post to
+- Pukka is just a little app that makes it easy to post to
 `del.icio.us <http://del.icio.us/>`__, which I don't do nearly
 enough. I tried using another open source app to do the same
 thing, but I've found that Pukka is just a hair faster and it has
@@ -134,7 +134,7 @@ weeks of bookmarks a few times, and I haven't forgiven it yet.
 
 11. Think
 
--  This is a new program that I think I will be using more in the
+- This is a new program that I think I will be using more in the
 future, although it won't replace WriteRoom. Basically this
 program puts a screen behind the program that you're currently
 using and all your other open windows to make it easier to
@@ -145,7 +145,7 @@ little so you don't feel "out of touch"
 
 12. `Growl <http://growl.info/>`__
 
--  This is the master of all program distraction. Growl is a unified
+- This is the master of all program distraction. Growl is a unified
 system notification pathway that all sorts of applications can
 pass messages to that float on top what ever you're doing to let
 you know whats going on. You can change the style duration and

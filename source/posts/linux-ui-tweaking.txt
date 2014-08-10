@@ -26,7 +26,7 @@ equipt to suggest.) If you're new to gnome, and geeling a little offput
 by it's "clunkyness," here are some suggestions to make things a little
 less painful (espically if you're the Awesome type).
 
--  Tweak and change the system fonts. As near as I can tell sub-pixel
+- Tweak and change the system fonts. As near as I can tell sub-pixel
 rendering is turnned off in GNOME by default (it's on in KDE), which
 is what makes fonts look smooth and pretty. Turning this on, and
 making the fonts smaller, made a world of difference for me. Adding
@@ -36,7 +36,7 @@ experience. I think it's easy to forget how much a really good,
 really readable font can affect the way we interact with a computer.
 First order of business.
 
--  Do something about the GNOME panel. The GNOME pannel (that would be
+- Do something about the GNOME panel. The GNOME pannel (that would be
 all the status bars and such) by default takes a huge amount of
 screen space (particularly on smaller screens). For starters, I turn
 off "auto-expand" and move the top panel into the right or left
@@ -52,7 +52,7 @@ job of focusing the UI on "content" inside the window, rather than
 the UI of the window/system itself. GNOME can do this too, but it
 doesn't automatically.
 
--  This is an elaboration of the earlier too points, but tweak the theme
+- This is an elaboration of the earlier too points, but tweak the theme
 settings, which--at least in Ubunut--are cartoonish by default. I've
 found that the "Mist" interface buttons tend to take up a little less
 room, but try your hand at desiging something new. My M.O. of late

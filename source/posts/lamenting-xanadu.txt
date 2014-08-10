@@ -33,12 +33,12 @@ It had features that contemporary hypertext systems sill lack. I think
 everyone has their own list of "things from xanadu that I want now," but
 for me the big sells were:
 
--  Links went both ways: If you clicked on a link, you could reverse
+- Links went both ways: If you clicked on a link, you could reverse
 directions and see what documents and pages had links to the current
 page. This means that links *couldn't* break, or point to the wrong
 page, among other things
 
--  Dynamic transclusions. Beyond simply being able to quote text
+- Dynamic transclusions. Beyond simply being able to quote text
 statically, Xanadu would have been able to include a piece of text
 from another page that dynamically represent the most current
 revision of the included page. For example, I include paragraph 13 on
@@ -47,7 +47,7 @@ typo, and the change is reflected in page B. I think links could also
 reference specific versions of a page/paragraph (but then users could
 from page B, access new and older dimensions of A.13).
 
--  Micropayments. The system would have had (built in) a system for
+- Micropayments. The system would have had (built in) a system for
 compensating "content creators/originators" via a system to collect
 very small amounts of money from lots of people.
 
@@ -57,17 +57,17 @@ in the eighties--because of computing requirements, and the very
 monolithic nature of the system. Instead we have a hypertext system
 that:
 
--  Is built around a (real or virtual) system of files, rather than
+- Is built around a (real or virtual) system of files, rather than
 documents.
 
--  Has no unified structural system.
+- Has no unified structural system.
 
--  Must rely on distributed organizational systems (tagging, search
+- Must rely on distributed organizational systems (tagging, search
 engine indexes.)
 
--  Is not version-aware, and it's pages are not self-correcting.
+- Is not version-aware, and it's pages are not self-correcting.
 
--  Relies on out-modded business models.
+- Relies on out-modded business models.
 
 To be fair, much of the conceptual work on the system was done before
 the Internet was *anything like it is today,* and indeed many of these

@@ -20,12 +20,12 @@ issues that get confused in the project of increasing usability. While
 "usable" is a subjective thing in the end, there are a lot of factors
 that make software more or less useable, they include:
 
--  greater or lesser functional complexity,
--  more or less visual clarity (of control interface and data
+- greater or lesser functional complexity,
+- more or less visual clarity (of control interface and data
 visualization,)
--  functional and/or visual minimalism,
--  thoroughness of documentation and support materials, and
--  the learning curve.
+- functional and/or visual minimalism,
+- thoroughness of documentation and support materials, and
+- the learning curve.
 
 One of the most powerful effects of free and open source software is the
 way that it encourages users to learn more about the software and

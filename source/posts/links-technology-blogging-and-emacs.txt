@@ -8,7 +8,7 @@ Links on Technology, Blogging, and Emacs
 
 A mostly technology-centric collection of links:
 
--  **Emacs starter configuration scripts.** I can't, for the life of me,
+- **Emacs starter configuration scripts.** I can't, for the life of me,
 recall why I went looking for this, but last week I ended up with a
 whole host of basic configuration files that people have published.
 I've thought about doing this for my own files, but I've not had it
@@ -28,7 +28,7 @@ it), `jmhodges <http://github.com/jmhodges/emacs-starter-kit>`__,
 to collect more of these, so maybe comments or `the cyborg
 wiki <http;//www.cyborg%20institute.com/wiki/>`__.
 
--  **Adjunct to that, a few more cool emacs and related links and
+- **Adjunct to that, a few more cool emacs and related links and
 points:** First, `paraedit which is a little tool which makes editing
 lisp
 easier <http://trey-jackson.blogspot.com/2009/09/emacs-tip-33-paredit.html>`__,
@@ -43,7 +43,7 @@ much more than that. I, on the other hand `will have more to say
 about this in the coming few
 weeks <http://www.nongnu.org/stumpwm/>`__.
 
--  `My **friend Chris Fletcher discusses his experience with
+- `My **friend Chris Fletcher discusses his experience with
 contemporary blogging services** in this
 post <http://mbranesf.livejournal.com/10392.html>`__. I'm not sure.
 Right? I mean blogging is so different today than it was when I got
@@ -66,7 +66,7 @@ networking before we said that. It was subculture/niche before that
 became the thing. If I had more time in my life I'd figure out some way
 to study and capture that history.
 
--  For all of you **OS X Desktop User Interaction Geeks**, `there's this
+- For all of you **OS X Desktop User Interaction Geeks**, `there's this
 thing that lets you hide unused
 windows <http://db.tidbits.com/article/10624>`__ baked into the
 window manager. I think. I have access to OS X, but I don't really
@@ -74,7 +74,7 @@ use it enough to give this a try. GNU Screen and lots (and lots) of
 Emacs buffers make it possible to keep a lot of irons on the fire
 without getting distracted.
 
--  `A **good example of a zshrc**
+- `A **good example of a zshrc**
 file <http://blog.edwards-research.com/2009/10/my-zshrc/>`__ if
 that's your thing. I think it's my thing. Alas. I'll write more about
 this once I get more used to it and figure some things out. Mostly,

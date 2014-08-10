@@ -83,19 +83,19 @@ Steps you can take to optimizing builds:
 (*Note: I'm by no means an expert in this, so feel free to add or edit
 these suggestions.*)
 
--  A large number of smaller jobs that can complete independently of
+- A large number of smaller jobs that can complete independently of
 other tools, are easy to run in parallel. If the jobs that create a
 product take longer and are more difficult to split into components,
 then the build will be slower, particularly on more powerful
 hardware.
 
--  Incremental builds are a huge win, particularly for larger processes.
+- Incremental builds are a huge win, particularly for larger processes.
 Most of the reasons why you want "fast builds," only require fast
 *rebuilds* and partial builds, not necessarily the full "clean
 builds." While fast initial builds are not unimportant, they account
 for a small percentage of use.
 
--  Manage complexity.
+- Manage complexity.
 
 There are a lot of things you can do to make builds *smarter*, which
 should theoretically make builds faster.

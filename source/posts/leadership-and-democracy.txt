@@ -53,9 +53,9 @@ room (and time.)
 
 I think the major ideas that are running through my head are:
 
--  the difference between power and leadership
--  how democracies scale up and scale down to different group sizes.
--  the symbols associated with democracy, and the power of those symbols
+- the difference between power and leadership
+- how democracies scale up and scale down to different group sizes.
+- the symbols associated with democracy, and the power of those symbols
 (maybe this could develop into a post for `the theory
 blog <http://www.theorysmucks.com/>`__, nu?)
 

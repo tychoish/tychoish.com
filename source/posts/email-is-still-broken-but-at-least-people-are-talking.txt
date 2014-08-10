@@ -48,15 +48,15 @@ problem, and see what's left.
 Here's a list of the things what I think we use email for today, to
 which it is unsuited, followed by a couple of examples?
 
--  **Notifications.** There's been a reply to a comment on your blog,
+- **Notifications.** There's been a reply to a comment on your blog,
 someone has commented on your face-book status update, it's time to
 renew your domain name, your payment has been processed. Etc.
 
--  **File Transfer.** Look at my resume. Here's the paper I owe you. I
+- **File Transfer.** Look at my resume. Here's the paper I owe you. I
 was looking for your article and wondered if you might have a copy
 you could share? Here's this funny picture my uncle sent me. Etc.
 
--  **Content Review.** Could you take a look at this essay or bug
+- **Content Review.** Could you take a look at this essay or bug
 report? I mentioned this in an IM but didn't want to send it in that
 format.
 

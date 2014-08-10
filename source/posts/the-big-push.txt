@@ -53,7 +53,7 @@ technology it has a profound impact on the communities that we form on
 the internet and how we use technology on "web applications." Here are a
 few of examples:
 
--  "Critical mass" for online communities that are push-based (twitter,
+- "Critical mass" for online communities that are push-based (twitter,
 IRC channels, listservs) are much smaller than for pull-based
 communities (web forums, blogs). An IRC channel seems active if there
 are 25 people in the room and 5 people *really* active. A listserv
@@ -61,12 +61,12 @@ with 200 subscribers is lively and bustling. A blog needs thousands
 of regular readers before comment threads start to seem lively, and
 most "successful" websites have tens of thousands of regular
 visitors.
--  Pull based applications must be both "useful" and "compelling," and I
+- Pull based applications must be both "useful" and "compelling," and I
 often find that the later interferes with the former. This is mostly
 a personal preference issue, but I think it's important, and I'd like
 to think that my concerns are rooted in efficiency rather than
 curmudgeonliness.
--  Data that we have to go out and look for means that we spend our time
+- Data that we have to go out and look for means that we spend our time
 on the computer looking for new data rather than consuming data. I,
 begrudgingly, spend a lot of my internet time for instance reloading
 my LiveJournal friends page, because there's no way for me get that

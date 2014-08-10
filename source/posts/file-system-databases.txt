@@ -19,47 +19,47 @@ this issue explicitly. Lets first do a little bit of recapping:
 
 1. Reasons Why I don't like databases:
 
--  Inflexible for many kinds of data, and require users to adapt to
+- Inflexible for many kinds of data, and require users to adapt to
 structure, rather than the other way around.
 
--  Databases require too much overhead, both during operation and
+- Databases require too much overhead, both during operation and
 programming to be totally worthwhile except in some large-scale edge
 cases.
 
--  Databases abstract control over data from the owner/user of the data
+- Databases abstract control over data from the owner/user of the data
 to systems administrators and programmers, rather than leaving data
 in a form that everyone can access and manage
 
 2. Reasons why I like text files:
 
--  Everyone and every machine can read text files. They're a
+- Everyone and every machine can read text files. They're a
 lingua-franca.
 
--  We have many highly sophisticated options for editing and munging
+- We have many highly sophisticated options for editing and munging
 data in plain text files.
 
--  Plain text files are infinitely flexible, both in structure, and in
+- Plain text files are infinitely flexible, both in structure, and in
 the kinds of data they can store.
 
 3. Caveats
 
--  There are some kinds of data that are best stored in database
+- There are some kinds of data that are best stored in database
 systems.
 
--  Structure in plain text files is dependent upon the self control and
+- Structure in plain text files is dependent upon the self control and
 education of the users, which may be a risky situation.
 
 4. Reason why I like Haven:
 
--  It combines numerous features that I think are really powerful and
+- It combines numerous features that I think are really powerful and
 key to the development of how we use computers: cryptographic
 security, flexibly structured data; distributed computing/data
 storage; versioned data stores; collaborative systems;
 non-hierarchical organization of data; etc.
 
--  Joe is awesome.
+- Joe is awesome.
 
--  It expands and improves on the Project Xanadu idea.
+- It expands and improves on the Project Xanadu idea.
 
 My response to Joe's question: how does plain text coexist with haven,
 in your mind.

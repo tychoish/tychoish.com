@@ -30,7 +30,7 @@ itself. As I've been thinking about the utility and value of technical
 writing, a professional hazard, I've come up with a brief taxonomy of
 approaches to technical writing:
 
--  First, there's the **document everything** approach. Starting with a
+- First, there's the **document everything** approach. Starting with a
 full list of features (or even an application's source) the goal here
 is to make sure that there's no corner unturned. We might think of
 this as the "manual" approach, as the goal is to produce a
@@ -41,7 +41,7 @@ all the answers to a users questions (e.g. "RTFM.") I suspect that
 the people who write this kind of documentation either work closely
 with developers or are themselves developers.
 
--  Second, there's what I think of as the **systems or solutions
+- Second, there's what I think of as the **systems or solutions
 document**, which gives up comprehensiveness, and perhaps even
 isolation to a single tool or application, and documents outcomes and
 processes. They aren't as detailed, and so might not answer
@@ -55,7 +55,7 @@ a function-based documentation approach. I strongly suspect that the
 producers of this kind of documentation are *very rarely* the people
 who develop the application itself.
 
--  In contrast to the above, I think documentation written for
+- In contrast to the above, I think documentation written for
 **education and training** purposes, may appear to be look either a
 "manual" or a "white paper," but have a fundamentally different
 organization and set of requirements. Documentation that supports
@@ -65,7 +65,7 @@ of how a system works (like the content of a manual,) but doesn't
 need to be comprehensive, and needs mirror the general narrative and
 goals of the training program.
 
--  **Process documentation** finally, is most like solution
+- **Process documentation** finally, is most like solution
 documentation, but rather than capture unrealized technological
 possibilities or describe potentially hypothetical goals, these kinds
 of documents capture largely institutional knowledge to more

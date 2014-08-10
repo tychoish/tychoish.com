@@ -35,23 +35,23 @@ productivity\|rhizome/mobile-productivity-challenges]] software will
 help as well. Eventually, I think Android and similar platforms will
 have a shot at the desktop market for most usage because:
 
--  IT departments will get a lot more control over intra-organization
+- IT departments will get a lot more control over intra-organization
 information flow, which could save a lot of money for various IT
 categories: administration, support, and data protection costs.
 
--  Behind the firewall dropbox-like services, and creating some sort of
+- Behind the firewall dropbox-like services, and creating some sort of
 centralized workstation configuration management (which makes sense
 for a flash based device,) means backups can happen automatically,
 and if devices need to be re-imaged or are lost or damaged, it only
 takes a few minutes to get someone back to work after a technology
 failure.
 
--  Limited multi-tasking ability will probably increase productivity.
+- Limited multi-tasking ability will probably increase productivity.
 
--  Disconnecting keyboards from the screen will probably lead to better
+- Disconnecting keyboards from the screen will probably lead to better
 ergonomic possibilities.
 
--  Eventually, it will be easier to integrate Android-like devices with
+- Eventually, it will be easier to integrate Android-like devices with
 various workflow management/content management systems.
 
 The technology needs to mature and workers and IT departments need to
@@ -59,24 +59,24 @@ become more comfortable with tablets, without question. Also, there are
 some fundamental developments in the technology that need to transpire
 before "desktop tablets" happen, including:
 
--  More [[power user-type interface
+- More [[power user-type interface
 features\|rhizome/tablet-interfaces-and-intuition]].
 
--  Split screen operation. There are enough "common tasks" that require
+- Split screen operation. There are enough "common tasks" that require
 looking at two different pieces of information at the same time that
 I think tablets will eventually have to give up "full screen
 everywhere," operation. Conventional windowing is unnecessary, and I
 don't think anyone would go for that, but displaying two different
 and distinct pieces of information at once is essential.
 
--  Better "Office" software for spreadsheets, presentations and document
+- Better "Office" software for spreadsheets, presentations and document
 preparation. A necessary evil.
 
--  Behind the firewall (preferably open source) solutions to replace
+- Behind the firewall (preferably open source) solutions to replace
 services like Dropbox/Box.net and whatever other services emerge as
 essential parts of the "tablet/smartphone" stack.
 
--  VPN clients and shared file system clients that are de ad simple to
+- VPN clients and shared file system clients that are de ad simple to
 use. I think these are features for operating system vendors to
 develop.
 

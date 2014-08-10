@@ -13,20 +13,20 @@ some moving (more tomorrow.) I got a little bit of writing in and then
 there's a dinner party and probably some knitting, and then bed. Sweater
 class tomorrow.
 
--  I didn't sleep enough last night; I was too wired from the drive, I
+- I didn't sleep enough last night; I was too wired from the drive, I
 had that low level awareness that you need for drives, but I was
 bodily exhausted. So sleeping was hard.
--  I decided on my trip, as I mentioned last night, that I have a new
+- I decided on my trip, as I mentioned last night, that I have a new
 vision for *Breakout,* I have a Kludgey solution that will make this
 technically possible, and I'm looking forward to it.
 
--  Basically I'm going to do Breakout as a hypertext *thingy*. I
+- Basically I'm going to do Breakout as a hypertext *thingy*. I
 guess in a way this means that there will never be a Breakout
 novel. Which is ok. It frees some energies up because I think I
 want to play with shorter forms for a while. I think I'd like to
 write another novella/novelette, and this will give me the chance
 to do that.
--  The hypertext will let me write this story without having to fight
+- The hypertext will let me write this story without having to fight
 it. I think a lot of fiction writing, in the traditional mode, is
 all about making *that thing in your head* get to other people in
 a common format. To use a computer metaphor, the Novel is like
@@ -34,7 +34,7 @@ being restricted to communicate the content of your mind via the
 WiFi standard: you have to transmit your radio signal in a very
 precise sort of way. This hypertext, I hope, will be more like
 speaking, in contrast.
--  My coding/programing thing, was just to make sure that I could
+- My coding/programing thing, was just to make sure that I could
 script the deployment of this system in a way that I was
 comfortable scaling as the project grew from a few thousand words
 to several tens of thousands of words, and from a couple of dozen
@@ -42,16 +42,16 @@ pages to many dozens of pages. Someday, I'll write about that,
 because I think getting the content to work the way I want it, is
 probably actually pretty easy, and it might be good for other
 people to have this information.
--  I'm not going to have any sort of release for a long time, I
+- I'm not going to have any sort of release for a long time, I
 should disclaim, but I'm working on it in a new way.
 
--  I haven't done any work on the new TealArt site. And Breakout would
+- I haven't done any work on the new TealArt site. And Breakout would
 probably be out at both TealArt and tychoish, in the end.
--  I haven't knit anything. I made a mistake, as I might have mentioned
+- I haven't knit anything. I made a mistake, as I might have mentioned
 the other day, and haven't brought myself to deal with it yet. My
 sock bag is still in the car, so I don't really have anything else to
 work on, so with luck I'll have fixed it by the end of the evening.
--  Randal Schwartz, one of the hosts behind the open source podcast
+- Randal Schwartz, one of the hosts behind the open source podcast
 (FLOSS "Weekly") I `mentioned
 yesterday <http://tychoish.com/rhizome/drive-brain/>`__, saw the
 google juice and commented (woot! auto-notifiers, I suppose; not

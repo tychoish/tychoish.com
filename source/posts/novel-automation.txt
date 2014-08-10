@@ -41,7 +41,7 @@ Buildbot has its merits and frustrations, but this post isn't really
 about buildbot. Rather, the experience of doing buildbot work has taught
 me something about programming and about "building things," including:
 
--  When you set up buildbot, it generates a python configuration file
+- When you set up buildbot, it generates a python configuration file
 where all buildbot configuration and "programming" goes.
 
 As a bit of a sidebar, I've been using a base configuration derived from
@@ -58,16 +58,16 @@ system that produces a good starting template. I'm not sure what this
 does for overall maintainability in the long term, but it makes getting
 started and using the software in a meaningful way, much more possible.
 
--  Using organizing my buildbot configuration as I have, modeled on the
+- Using organizing my buildbot configuration as I have, modeled on the
 "metabuildbot," has nicely illustrated the idea software is just a
 collection of modules that interact with each other in a defined way.
 Nothing more, nothing less.
 
--  Distributed systems are incredibly difficult to get people to
+- Distributed systems are incredibly difficult to get people to
 conceptualize properly, for anyone, and I think most of the
 frustration with buildbot stems from this.
 
--  Buildbot provides an immediate object lesson on the trade-offs
+- Buildbot provides an immediate object lesson on the trade-offs
 between simplicity and terseness on the one hand and maintainability
 and complexity on the other.
 
@@ -79,7 +79,7 @@ actually need is something else entirely.
 This doesn't mean that there aren't nightmarish Buildbot configs, and
 there are, but the lesson is quite valuable.
 
--  There's something interesting and instructive in the way that
+- There's something interesting and instructive in the way that
 Buildbot's user experience lies somewhere between "an application,"
 that you install and use, and a program that you write using a
 toolkit.

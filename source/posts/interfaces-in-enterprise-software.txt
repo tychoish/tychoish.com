@@ -34,10 +34,10 @@ I'm pretty sure that these theories hold up pretty well, and are
 reasonably logical. The following conclusions are, I think, particularly
 interesting:
 
--  People, even non-technical users, adjust to really horrible user
+- People, even non-technical users, adjust to really horrible user
 interfaces that are non-intuitive all the time.
 
--  We think that graphical user interfaces are required for
+- We think that graphical user interfaces are required for
 technological intelligibility, while the people who design software
 use GUIs as minimally as possible, and for the vast majority of
 software the user interface is the weakest point.

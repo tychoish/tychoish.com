@@ -22,12 +22,12 @@ installed awesome, removed the sid repository. Breathed a huge sigh of
 relief, and then got to getting things setup again. I have the following
 responses to the new awesome:
 
--  I really like the fact that if you change something in your config
+- I really like the fact that if you change something in your config
 file and it doesn't parse, awesome loads the default config (at
 /etc/xdg/awesome/rc.lua) so that you don't have to kill X11 manually
 and fix your config file from a virtual terminal.
 
--  If you're considering awesome, and all this talk of unstable
+- If you're considering awesome, and all this talk of unstable
 repositories scares you, the truth is that awesome is--at this
 point--not exactly adding new features to the core code base. There
 are some new features and reorganizations of the code, but the
@@ -37,20 +37,20 @@ that it's pretty stable and usable, it makes sense to "buy in" with
 the most current version of the configuration so you'll have less
 tweaking in general.
 
--  The new (default) config file is so much better than the old ones. I
+- The new (default) config file is so much better than the old ones. I
 basically reimplemented my old config into the new default config and
 have been really happy with that. It's short(er) and just yummy.
 
--  I did have some sort of perverse problems with xmodmap which I can't
+- I did have some sort of perverse problems with xmodmap which I can't
 really explain but they're solved.
 
--  If you're use a display manager (like gdm) to manage your x sessions,
+- If you're use a display manager (like gdm) to manage your x sessions,
 I know you *can* just choose awesome from the default sessions list,
 but I'd still recommend triggering awesome from an .xinit/.Xsessions
 file so that you can load network managers and xmodmap before awesome
 loads. Which seems to work best for me.
 
--  I'd never used naughty, which is a
+- I'd never used naughty, which is a
 `growl <http://www.growl.info>`__-like notification system before,
 and now that it's included by default I am using it, and I quite
 adore it.

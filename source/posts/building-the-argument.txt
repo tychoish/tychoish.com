@@ -22,7 +22,7 @@ incredibly interesting features of each other when considered as a
 whole. There is "something building" here. To recap, so that we're on
 the same page, the nexus of subjects that I've been milling over are:
 
--  **Free Software and Open Source Software Development.**
+- **Free Software and Open Source Software Development.**
 
 I'm interested in how communities form around these projects, how *work*
 is accomplished, both technically, and organizationally. I'm interested
@@ -37,7 +37,7 @@ trying to address at the moment. I think that I'm going to be making a
 larger point of addressing open source methodologies in the coming weeks
 and months as part of an attempt to pull things back together. I think.
 
--  **The Information Technology Industry.**
+- **The Information Technology Industry.**
 `link <http://tychoish.com/archive/technology/>`__
 
 I started writing about the IT industry because I found it really
@@ -57,7 +57,7 @@ These are unhelpful lenses, as Free Software and Open Source are
 once you get past the initial "what do you mean there's no cost or
 company behind this thing."
 
--  **The Cyborg "Moment," or the way people actually use computers and
+- **The Cyborg "Moment," or the way people actually use computers and
 technology, and the ways that people *might* use technology in the
 future.** `link <http://www.cyborginstitute.com/wiki/>`__
 
@@ -75,7 +75,7 @@ Institute <http://www.cyborginstitute.com>`__, the "cyborg" moment can
 really be seen as the framing domain, but that doesn't strike me a
 distinction that is particularly worth making.
 
--  **Corporate Law and Structure and Cooperative Economics.**
+- **Corporate Law and Structure and Cooperative Economics.**
 `link <http://tychoish.com/archive/cooperatives/>`__
 
 Interestingly, my discussion of cooperatives and corporate organization
@@ -95,7 +95,7 @@ clearly I have opinions, and I'm not a consummate economic social
 scientist, I do think that thinking about the economics of a situation
 is incredibly important.
 
--  **New Media and the Publishing Industry.**
+- **New Media and the Publishing Industry.**
 `link <http://tychoish.com/archive/new-media/>`__
 
 I've been blogging for a long time. And I'm a

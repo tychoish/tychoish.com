@@ -17,7 +17,7 @@ encountered in this search. This is hyperbolic, but it's pretty close to
 the truth. Teaching people how to program is hard and the materials are
 either written by people who:
 
--  don't really remember how they learned to program.
+- don't really remember how they learned to program.
 
 Many programming tutorials were written by these kinds of programmers,
 and the resulting materials tend to be decent in and of themselves, but
@@ -33,7 +33,7 @@ These kinds of materials will teach the novice programmer a lot about
 programming languages and fundamental computer science topics, but not
 anything that you really need to learn how to write code.
 
--  people who don't really know how to program.
+- people who don't really know how to program.
 
 People who don't know how to program tend to assume that you can teach
 by example, using guided tutorials. You can't really. Examples are good

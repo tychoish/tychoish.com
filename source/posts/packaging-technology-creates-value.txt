@@ -13,19 +13,19 @@ traditionally built businesses around open free and open source
 software. There are pros and cons to every business model, but to review
 the basic ideas are:
 
--  Using open source software as a core and building a thin layer of
+- Using open source software as a core and building a thin layer of
 proprietary technology on top of the open source core. Sometimes this
 works well enough (e.g. SugarCRM, OS X,) and sometimes this doesn't
 seem to work as well (e.g. MySQL, etc.)
 
--  Selling services around open source software. This includes support
+- Selling services around open source software. This includes support
 contracts, training services, and infrastructure provisioning.
 Enterprises and other organizations and projects need expertise to
 make technology work, and the fact that open source doesn't bundle
 licensing fees with support contracts doesn't make the support (and
 other services) less useful or needed for open source.
 
--  Custom development services. Often open source projects provide a
+- Custom development services. Often open source projects provide a
 pretty framework for a technology, but require some level of
 customization to fit the needs and requirements of the "business
 case." The work can be a bit uneven, as with all consulting, but the

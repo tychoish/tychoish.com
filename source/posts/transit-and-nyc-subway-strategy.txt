@@ -15,43 +15,43 @@ transit rider strategies, perhaps from a game theory perspective?
 I've been living in NYC for almost a year, with frequent visits for
 about 6 months before that and I've learned things like:
 
--  The physical layouts of a number of station complexes and transfer
+- The physical layouts of a number of station complexes and transfer
 points, to facilitate quick/easy transfers.
 
--  A faltering sense of when to take an express and when to take a
+- A faltering sense of when to take an express and when to take a
 local, and when it makes sense to switch.
 
--  A decent sense of which route will be more direct/quicker in a given
+- A decent sense of which route will be more direct/quicker in a given
 situation.
 
--  An acceptable sense of which part of the train you need to be on.
+- An acceptable sense of which part of the train you need to be on.
 
 I'm interested in knowing if there is any work aimed at a general
 audience that addresses any of these questions, in particular:
 
--  The express/local decision making logic, particularly given
+- The express/local decision making logic, particularly given
 situations like:
 
--  When does it make sense to walk ~5-10 blocks to an express stop
+- When does it make sense to walk ~5-10 blocks to an express stop
 (possibly in the wrong direction,) rather than walk a shorter
 distance to a local stop that would require a transfer. (If your
 destination is an express stop?)
 
--  At what point in a journey does it make the most sense to transfer
+- At what point in a journey does it make the most sense to transfer
 between trains?
 
--  How does time-of-day affect the logic.
+- How does time-of-day affect the logic.
 
--  Specific differences (if any) for navigating subway lines with
+- Specific differences (if any) for navigating subway lines with
 multiple converging services. (e.g. the "M" with regards to the F and
 E, as well as the R with regards to the N in Manhattan.)
 
--  Logic for transferring between non-parallel train services that
+- Logic for transferring between non-parallel train services that
 intersect at multiple points in a given journey (e.g. in Brooklyn,
 vs. Manhattan, if needed for inter-borough trips; E/M; 4,5,6 vs N,
 R.)
 
--  Logic for transferring between services that run on the same track
+- Logic for transferring between services that run on the same track
 (e.g. in NYC: N/R, E/C, F/M, etc.) with respect to how your journey
 overlays the route divergence and convergences.
 

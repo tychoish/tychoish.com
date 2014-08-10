@@ -32,7 +32,7 @@ I guess the question of "what cloud" would seem trite at this point, but
 I think clarifying "which cloud" is crucial at this point, particularly
 with regards to openness. There seem to be several:
 
--  Cloud infrastructure. Web servers, hosting, email servers.
+- Cloud infrastructure. Web servers, hosting, email servers.
 Traditionally these are things an institution ran their own servers
 for, these days that same institution might run their servers on some
 sort of virtualized hardware for which there are many providers.
@@ -47,7 +47,7 @@ to non-open source OSes. And much of the server infrastructure
 In point of fact, this cloud is more or less the way it's always been
 and is, I'd argue, open-source's "home turf."
 
--  Cloud applications: consumer. This would be stuff like Gmail, flickr,
+- Cloud applications: consumer. This would be stuff like Gmail, flickr,
 wikipedia, twitter, facebok, ubuntuONE, googe docs, google wave, and
 other "application services" targeted at non-commercial/enterprise
 consumers and very small groups of people. This cloud consists of
@@ -59,7 +59,7 @@ computing world looked in the mid-90s. Very proprietary, very closed,
 the alternatives are pretty primitive, and have a hard time doing
 anything but throwing rocks at the feet of the giant (google.)
 
--  Cloud applications: enterprise. This would be things like SalesForce
+- Cloud applications: enterprise. This would be things like SalesForce
 (a software-as-a-service CRM tool.) and other SaaS application. I
 suppose google-apps-for-domains falls under this category, as does
 pretty much anything that uses the term SaaS.
@@ -70,7 +70,7 @@ over the source code. At the same time, in most sectors there are viable
 open source projects that are competing with the proprietary options:
 SugarCRM, Horde, Squirrel Mail, etc.
 
--  Cloud services: enterprise. This is what act one covered or eluded
+- Cloud services: enterprise. This is what act one covered or eluded
 to, but generally this covers things like PBX systems, all the stuff
 that runs corporate intranets, groupware applications (some of which
 are open source), collaboration tools, internal issue tracking

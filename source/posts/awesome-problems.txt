@@ -62,13 +62,13 @@ something exists.
 Things I haven't figured out yet:
 ---------------------------------
 
--  I want to be able to assign firefox to only open in (multiple)
+- I want to be able to assign firefox to only open in (multiple)
 selected tags, but not in others, and I'm not sure how to make this
 work.
--  Some sort of menu of currently running applications that would let
+- Some sort of menu of currently running applications that would let
 users select a running application/client and jump to the appropriate
 tag. That would be *awesome.*
--  Using
+- Using
 `this <http://git.glacicle.com/other/configs.git/.config/awesome/rc_30.lua>`__
 configuration file, I can't get the pidgin (or any other) system tray
 icons to pop up. Weird.

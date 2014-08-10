@@ -50,7 +50,7 @@ number of objects, and connect this pattern with specific resources.
 
 Conceptual deficiencies:
 
--  There's a volume problem. Access control data represents a
+- There's a volume problem. Access control data represents a
 many-to-many-to-many relationship. There are many different users and
 (nested) groups, many different kinds of access controls that systems
 can grant, and many different (nested) resources. This would be
@@ -59,13 +59,13 @@ means that the relationships between resources and between groups and
 users are also important. With the possibility for nesting access
 control is impossible.
 
--  ACLs and group-based access control don't account for the fact that
+- ACLs and group-based access control don't account for the fact that
 access must be constantly evolving, and current systems don't contain
 support for ongoing maintenance. (we need background threads that go
 through and validate access control consistency.) Also all access
 control grants must have some capacity for automatic expiration.
 
--  Access control requirements and possibilities shift as data becomes
+- Access control requirements and possibilities shift as data becomes
 more or less structured, and as data use patterns change. The same
 conceptual framework that works well for access control in the
 context of a the data stored in a relational database, doesn't work
@@ -77,7 +77,7 @@ the access control system can be. While this seems self evident, it also
 means that access control systems are difficult to test in the really
 large complex systems in which they're used.
 
--  Group-based access control systems, in effect, normalize data about
+- Group-based access control systems, in effect, normalize data about
 access control, in an effort to speed up data access times. While
 this performance is welcome, in most cases granting access via groups
 leads to an overly liberal distribution of access control rights. At
@@ -97,10 +97,10 @@ This is totally counter to the state of the art. In most ways,
 normalized access control data, with role/group-based access control,
 and complex inheritance are the gold standard. Why would it work?
 
--  If you have a piece of data, you will always be able to determine who
+- If you have a piece of data, you will always be able to determine who
 has access to data, without needing to do another look-up.
 
--  If you can deactivate credentials, then a background process can go
+- If you can deactivate credentials, then a background process can go
 through and remove access without causing a large security problem.
 (For partial removes, you would freeze an account, let the background
 process modify access control and then unfreeze the account.)
@@ -115,7 +115,7 @@ wouldn't require any sort of shared state or lock, which means many such
 operation could run in parallel, and they could stop and restart at
 will.
 
--  The inheritance option should be fuzzy. Some sort of "bucket-based"
+- The inheritance option should be fuzzy. Some sort of "bucket-based"
 access control should be possible, if there's a lot of data with the
 same access control rules and users.
 
@@ -124,19 +124,19 @@ use granular controls everywhere.
 
 Problems/Conclusion:
 
--  Denormalization might fix the problems with ACLs and permissions
+- Denormalization might fix the problems with ACLs and permissions
 systems, but it doesn't fix the problems with distributed identity
 management.
 
 As a counterpoint, this seems like a cryptography management problem.
 
--  Storing access control information *with* data means that it's
+- Storing access control information *with* data means that it's
 difficult to take a user and return a list of what these credentials
 have access to.
 
 In truth, centralized ACL systems are subject to this flaw as well.
 
--  A huge part of the problem with centralized ACL derives from nesting,
+- A huge part of the problem with centralized ACL derives from nesting,
 and the fact that we tend to model/organize data in tree-like
 structures, that often run counter to the organization of access
 control rights. As a result access control tools must be arbitrary.

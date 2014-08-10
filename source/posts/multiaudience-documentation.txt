@@ -44,7 +44,7 @@ The second class of solutions revolves around taking a more
 [[atomic\|technical-writing/atrocity]] approach to writing
 documentation. In my own work this manifests in two ways:
 
--  **Setting yourself up for success:** understanding how software is
+- **Setting yourself up for success:** understanding how software is
 going to be updated, or how use is likely to change over time allows
 you to construct documents that are organized in a way that makes
 them easy to update. For example: Separate processes from reference
@@ -56,7 +56,7 @@ project and the different use patterns before you have the background
 needed to predict what the best structure of the documentation ought to
 be.
 
--  **Separate structure from content:** This is a [[publishing system
+- **Separate structure from content:** This is a [[publishing system
 requirement\|rhizome/publishing-system-requirements]], at the core,
 but using this kind of functionality must be part of the writer's
 approach. Writers need to build documentation so that the

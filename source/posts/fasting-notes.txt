@@ -11,20 +11,20 @@ fast <http://tychoish.com/rhizome/glitch-and-web-experiments/>`__ that
 I'm undertaking. And because this is the internet and this is my blog...
 Well here goes:
 
--  I had initially suspected that the cause of my ailment was the
+- I had initially suspected that the cause of my ailment was the
 special thinkpad-track point driver that deals with scrolling didn't
 get updated when I `upgraded to
 jaunty <http://tychoish.com/rhizome/jaunty-upgrade/>`__. This turns
 out to not be the case, as I had a freeze (again in firefox) just
 moving around with the arrow keys. That theory gone.
 
--  `C.K. <http://www.cgkreality.com/>`__ and I determined that--counter
+- `C.K. <http://www.cgkreality.com/>`__ and I determined that--counter
 to my supposition--the slight/occasional clunking noise is probably
 the drive head parking itself, and doesn't seems to correspond with
 the problem. So replacing the drive is both awkward (weird form
 factor) and not likely to fix the problem
 
--  I installed emacs-w3m on both computers. It's not entirely intuitive.
+- I installed emacs-w3m on both computers. It's not entirely intuitive.
 There are debian/ubuntu packages, but if you install the
 `emacs-snapshot <http://emacs.orebokech.com/>`__ package, then the
 sequence is upgrade to the latest emacs-snapshot, install w3m-el,
@@ -38,12 +38,12 @@ figured out yet). I always thought that emacs web-browsing was way too
 dweab-y for me, but learning that it's actually really cool is a good
 thing indeed.
 
--  This isn't a real fast, as I am still using firefox a little bit bit,
+- This isn't a real fast, as I am still using firefox a little bit bit,
 and I suspect that I'll always need to have it installed, but I think
 it's generally good to not have firefox be the default environment
 for *everything* that isn't emacs or the terminal.
 
--  I've basically been avoiding my RSS reader during the course of this
+- I've basically been avoiding my RSS reader during the course of this
 experiment. Which I need to spend some time tending to, at least so
 that I can start using some other reader. This has been an issue
 since I switched to Linux, and I've failed to come to anything that I
@@ -51,7 +51,7 @@ really like. I'm tempted to use the gnus news reader to read the RSS,
 but I fear this might be incredibly awkward/complciated for a very
 small amount of pay off.
 
--  By moving web browsing, insofar as it needs to occur, into emacs, the
+- By moving web browsing, insofar as it needs to occur, into emacs, the
 windows I see are: stuff inside of emacs (mostly org-mode and
 writing); and stuff inside of terminals (mutt, Micawber, bash, etc.).
 As a result, I get the feeling that *all of my windows look the

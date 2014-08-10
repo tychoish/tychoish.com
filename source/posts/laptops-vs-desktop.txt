@@ -13,11 +13,11 @@ I have a laptop (powerbook 15 g4) and it's a great computer, and
 despite it's age (2 years) it basically does everything I need it
 to. And 90% of what I'm doing is:
 
--  editing text files
--  reading rss
--  email/websurfing
--  reading pdf files
--  command line things
+- editing text files
+- reading rss
+- email/websurfing
+- reading pdf files
+- command line things
 
 The portability is really helpful, but, frankly, I often feel like
 I'm pulling around *too* much, and would like the computer that I

@@ -45,28 +45,28 @@ things between them. This is subject to change.
 
 Here's the rundown:
 
--  Other advances made recently:
+- Other advances made recently:
 
--  I have figured out a cool way to implement multiple mail profiles
+- I have figured out a cool way to implement multiple mail profiles
 using mutt. I have a lot of different email addresses/identities
 that I need to send email from (real life contacts, professional
 contacts, work contacts, etc.) and being able to automatically
 switch? A divine thing.
 
--  Advances yet to be made:
+- Advances yet to be made:
 
--  I need to figure out/use a news reader on the new computer. This
+- I need to figure out/use a news reader on the new computer. This
 requires segmenting my current OPML file into "laptop reading" and
 "desktop reading."
--  I need to figure out some web-browsing solution, that really
+- I need to figure out some web-browsing solution, that really
 works. `Vimperator <http://vimperator.mozdev.org/>`__ seems to be
 the `Awesome <http://awesome.naquadah.org>`__ default, and while
 it's the best Firefox around it's still firefox, and FF doesn't
 impress me on a personal level. (I use a browser incidentally, and
 mostly for viewing static pages, not as an application platform.)
--  Still don't have my calendars in a place where I can start
+- Still don't have my calendars in a place where I can start
 accessing them on linux.
--  I'm still using the laptop to serve my personal wiki/notebook(s),
+- I'm still using the laptop to serve my personal wiki/notebook(s),
 though I have a clone of the repository on the linux machine,
 which is really the inverse of how it should work.
 

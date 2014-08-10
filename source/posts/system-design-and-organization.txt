@@ -18,15 +18,15 @@ Which is pretty much everyone, right?
 
 Right. In brief:
 
--  Automate everything that can be automated.
+- Automate everything that can be automated.
 
--  Closely followed by don't automate something that doesn't need
+- Closely followed by don't automate something that doesn't need
 automation.
 
--  Prefer simplicity over complexity, and prefer systems that require
+- Prefer simplicity over complexity, and prefer systems that require
 you to remember fewer things.
 
--  Design systems to make it possible for others to easily understand
+- Design systems to make it possible for others to easily understand
 what you've done.
 
 To elaborate:

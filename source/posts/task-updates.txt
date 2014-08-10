@@ -24,26 +24,26 @@ documentation, and smart people [1]_ working on cool projects. If that's
 ever going to happen, I need to get something together myself. The first
 release will contain:
 
--  A book-like object, that provides an introduction to the basic
+- A book-like object, that provides an introduction to the basic
 principals of Systems Administration for developers, "web people,"
 and other people who find themselves in charge of systems, without
 any real introduction to systems administration. (*Status:* 70%
 finished, with a couple more sections to draft and some editing
 left.)
 
--  A Makefile based tasklist aggregator, inspired by
+- A Makefile based tasklist aggregator, inspired by
 `org-mode <http://orgmode.org/>`__ but largely tool agnostic.
 (*Status:* 95% finished, with documentation editing and some final
 testing remaining.)
 
--  A logging system for writers. I use it daily, and I think it's a vast
+- A logging system for writers. I use it daily, and I think it's a vast
 improvement over some previous attempts at script writing, and I did
 a pretty good job of documenting it, but it's virtually impossible to
 manage/maintain. Having said that, I always wanted to rewrite it in
 Python (as a learning exercise,) so that might be a cool next step
 (*Status:* Finished save editing and an eventual rewrite.)
 
--  Emacs and StumpWM config files, packaged as "starter-kits" for new
+- Emacs and StumpWM config files, packaged as "starter-kits" for new
 users. I have good build processes for both of these. I don't think
 that I need to document them fully, but I need to write some READMEs.
 Since there's a lot of redistribution of others code, I need to
@@ -56,13 +56,13 @@ editing everything else. I might make the release a *thing*, we'll see.
 
 Other than that, I:
 
--  Updated [[/technical-writing/compilation]].
+- Updated [[/technical-writing/compilation]].
 
--  Finished the first draft of this novel. Editing will commence in
+- Finished the first draft of this novel. Editing will commence in
 June. I've also started planning a fiction project, for a draft to
 begin in the fall?
 
--  Wrote a few paragraphs on the [[critical-futures/isd]] page, but I'm
+- Wrote a few paragraphs on the [[critical-futures/isd]] page, but I'm
 starting to think that as my time becomes more limited, that the
 [[critical-futures]] wiki project, as such, will probably be the
 first thing to fall on the floor, unless someone else is really

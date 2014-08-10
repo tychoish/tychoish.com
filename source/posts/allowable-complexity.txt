@@ -32,15 +32,15 @@ for code, it seems like this is part of the same problem.
 Rather than prattle on about various approaches, I'm just going to close
 out this post with a few open questions/thoughts:
 
--  What's the process for determining requirements that accounts for
+- What's the process for determining requirements that accounts for
 actual required complexity?
 
--  How do things that had previously been complex, become less complex?
+- How do things that had previously been complex, become less complex?
 
 *Perhaps someone just has write the code in C or C++ and let it mature
 for a few years before administrators accept it as stable*?
 
--  Is there an corresponding level of complexity threshold in software
+- Is there an corresponding level of complexity threshold in software
 development and within software itself? (Likely yes,) and is it
 related to something intrinsic to particular design patterns, or to
 tooling (i.e. programming language implementations, compilers, and so
@@ -51,7 +51,7 @@ dynamic languages (perhaps?)
 
 Reader submitted questions:
 
--  *Your questions here.*
+- *Your questions here.*
 
 Answers, or attempts thereat [[on the discussion page\|discourse]].
 

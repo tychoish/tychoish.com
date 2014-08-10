@@ -52,26 +52,26 @@ perhaps.
 
 The enduring questions in my mind:
 
--  Is the data that we're throwing into databases by way of iPhone apps
+- Is the data that we're throwing into databases by way of iPhone apps
 and web applications going to continue to be useful in the future?
 This gets at the "open data" question as much if not more than the
 "open source" aspect of applications. What's the realistic utility of
 our data in the long form?
 
--  Does this shift mark a move away from a certain kind of "paper-based
+- Does this shift mark a move away from a certain kind of "paper-based
 logic," to a more digital way of organizing or data and digital
 experiences?
 
--  Is this just the process of bringing the kinds of "business
+- Is this just the process of bringing the kinds of "business
 applications," that enterprises have developed and used for decades
 into the consumer sphere?
 
--  How do the concepts of software freedom and data ownership transfer
+- How do the concepts of software freedom and data ownership transfer
 to this mode of using technology. While it's easy to say "data ought
 to be free," and "source code still matter" (both of which are true,)
 I think practically it's a bit more difficult.
 
--  What do these applications look like on the Desktop? Is the future
+- What do these applications look like on the Desktop? Is the future
 JavaFX, Flex, Silverlight, and Apple Desktop Widgets? Is the desktop
 going to be stuck in the browser? Are there other options?
 

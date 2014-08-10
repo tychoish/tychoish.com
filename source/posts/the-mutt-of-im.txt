@@ -66,30 +66,30 @@ And it does. I save hours every week using mutt, and I'm no where near a
 power user (yet.) So the question on my mind is, "where's the mutt of IM
 clients?" Here's what I think it would look like:
 
--  It would need to connect to AIM, Yahoo and Jabber. This is my
+- It would need to connect to AIM, Yahoo and Jabber. This is my
 personal prefrence. MSN is pretty irrelevant to me, an ICQ these days
 *is* AIM. Multiple connections would be good.
 
--  I think the interface should draw on the mutt with sidebar model. IMs
+- I think the interface should draw on the mutt with sidebar model. IMs
 needn't fill a whole window, and the sidebar works really well.
 
--  It needs to have some understanding of a tabbed interface. While I
+- It needs to have some understanding of a tabbed interface. While I
 understand that many people (and to some degree, myself included)
 don't actively particpate in more than one chat at a time, I often
 have more than one window open at a time. Conversations go dormant,
 people step out, you have to ask a quick question, there bots on the
 IM network feeding you (useless) information. Tabs are necessary.
 
--  It'd be better if the program was able to consistently manage and
+- It'd be better if the program was able to consistently manage and
 sync the contact/buddy list, and handle meta-contacts, than be able
 to do file transfers, or mutli-user chats.
 
--  Granular access controls. The networks I believe, allow you to set
+- Granular access controls. The networks I believe, allow you to set
 yourself invisible to certian people, and it would be really great to
 be able to write rules about which buddies got what kind of
 status/visibility settings.
 
--  The key to "the mutt of" anything is the ability to take whatever you
+- The key to "the mutt of" anything is the ability to take whatever you
 do, and bind it to a particular key command. So I'd like to be able
 to have "IM `Chris <http://www.cgkreality.com/>`__" bound to
 something, or be able to set various screen names visible or

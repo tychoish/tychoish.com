@@ -101,26 +101,26 @@ editor I wouldn't want "massive UNIX chops" to be a required skill.
 
 So here's a list of things that I need to do:
 
--  Do some editing of the categories on my current wordpress directory
+- Do some editing of the categories on my current wordpress directory
 
--  Start using disqus comments with the current tychoish.com wordpress
+- Start using disqus comments with the current tychoish.com wordpress
 site, as that's what I'd be using in the new site.
 
--  Explore Jekyll's wordpress importing feature, and potentially write
+- Explore Jekyll's wordpress importing feature, and potentially write
 my own wordpress theme to handle the export (with ``wget``). Because
 I need some way to maintain the category data. Conversely, figure out
 how to get an RSS import into jekyll. Just have to see what's easies.
 
--  Design a new landing page and hack around with CSS, because I'm my
+- Design a new landing page and hack around with CSS, because I'm my
 own design team.
 
--  Cobble together something reliable that can aggregate RSS feeds from
+- Cobble together something reliable that can aggregate RSS feeds from
 various parts of the site. Such a tool certainly exists, I just have
 to find it and get used to it.
 
--  Possibly move to a different webhost. Long story.
+- Possibly move to a different webhost. Long story.
 
--  Implement the new landing page. I'm inclined to use PHP to pull
+- Implement the new landing page. I'm inclined to use PHP to pull
 together content (includes and what not), because that should be
 peppy enough without needing a database, and even though the backend
 would be ruby, PHP seems uniquely suited to handling the

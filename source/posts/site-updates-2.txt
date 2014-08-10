@@ -7,18 +7,18 @@ Site Updates
 
 ***Agenda:***
 
--  New Skins (Rainbow Pride, Boy Looking, Blue Robot 3, and Stolen
+- New Skins (Rainbow Pride, Boy Looking, Blue Robot 3, and Stolen
 Skins)
 
--  New Contributor
+- New Contributor
 
--  Notify List
+- Notify List
 
--  New Site
+- New Site
 
--  New Profiles
+- New Profiles
 
--  Site Stats
+- Site Stats
 
 ***New Skins*** I have a lot of new skin news. I reciently made up this
 new database powered skin engine that makes the whole skinning process a
@@ -63,10 +63,10 @@ Text wonder pieces, the rainbow skin is fun, and the last two are both
 pretty good in a melodramatic boggy sort of way, so enjoy them if you
 want, but enjoy them for the novelty that they are.
 
--  The Rainbow Pride Skin
--  Blue Robot Three
--  British Museum
--  The River
+- The Rainbow Pride Skin
+- Blue Robot Three
+- British Museum
+- The River
 
 ***Notify List***
 

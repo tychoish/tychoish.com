@@ -21,7 +21,7 @@ project of total honesty, I'll not edit that out. I will, however, write
 a few notes that I've been thinking about and pondering this week.
 Because really, bulleted list blogging is really awesome.
 
--  I'm doing the radio show on Sunday morning from 10 am to Noon on
+- I'm doing the radio show on Sunday morning from 10 am to Noon on
 `KDHX <http://www.kdhx.org>`__ FM 88.1 in St. Louis. I had hoped to
 play an episode of one of my favorite fiction pod-casts, but I
 haven't heard back from him. Luckily I have the next three weeks, so
@@ -31,7 +31,7 @@ Brick <http://www.amazon.com/Thick-As-Brick-Jethro-Tull/dp/B00000AOUD>`__.
 Because I can, damnit. You should listen, it streams and is archived
 on line if you misss it.
 
--  I think part of the reason why I'm feeling so fried, is that thanks
+- I think part of the reason why I'm feeling so fried, is that thanks
 to an eager undergrad, I was able to start working on different
 projects at work. This meant that I could listen to podcasts again.
 The downside, I did a lot of thinking, and apparently that's a
@@ -39,7 +39,7 @@ semi-finite resource. Note to self. Listen to more music. Also, while
 I find many podcasts to be refreshing and inspiring, I **cannot**
 listen to people talking and write or even plan things to write.
 
--  My moleskine, which I've been toting along with myself for some
+- My moleskine, which I've been toting along with myself for some
 months, is almost full, but not quite, but the spine is starting to
 fall apart. I want to finish out to book before I start the new one,
 but at the same time, I don't want it to fall apart, because I'd like
@@ -48,7 +48,7 @@ of excited that my new book, that I've had in store is a reporter
 notebook (so bound like a steno pad) and doesn't have lines. The
 left-handed guy in me really likes this prospect.)
 
--  I listened to one of Cory Doctorow's podcasts, which was his posting
+- I listened to one of Cory Doctorow's podcasts, which was his posting
 of an interview that "`Oort
 Cloud <http://www.oort-cloud.org/?q=node/310>`__\ " did with him, and
 I quite enjoyed it. There are a few topics that I think I'll probably
@@ -58,14 +58,14 @@ delightful. Also he talked about habitualizing writing as opposed to
 ritualizing it, and although his argument is pretty sound, I think
 the example he gives isn't quite right, particularly in my case.
 
--  Also Cory talked about his method of podcasting, which is to use it
+- Also Cory talked about his method of podcasting, which is to use it
 as a motivation to finish writing stories in a very barebones,
 low-editing sort of way, which I think is still really good. Anyway,
 this lit the podcasting bug under my ass, and while I don't quite
 have the computer power to start at the moment, [1]_ at some point
 I'll get my ass (and computer) into gear and get started.
 
--  I have a personal/theoretical piece planned out about how "gender" as
+- I have a personal/theoretical piece planned out about how "gender" as
 a location for analysis, for the kind of social science that I'm
 interested in, doesn't quite work. While as I'm trying to explain
 this argument, I've realized some interesting ways of approaching
@@ -74,7 +74,7 @@ explore why I (and probably some of my cohort) came into college with
 an interest in gender studies, but have left college with projects
 that are related, clearly, but quite distinct.
 
--  I'm teaching a knitting class this Saturday. You probably don't care
+- I'm teaching a knitting class this Saturday. You probably don't care
 much, but it meant that I had to write a rather extensive
 pattern/instruction handout. While I quite enjoyed this writing, and
 I think it will be a useful piece to have in reserve for future

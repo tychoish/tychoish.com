@@ -28,19 +28,19 @@ tychoish.com and as a blogger. This is boring for all of you, but I'll
 give some higher level stuff here and we can follow up on the
 [[discourse]] page:
 
--  Blogging is fun, and even though I've not been posting regularly, I'm
+- Blogging is fun, and even though I've not been posting regularly, I'm
 always writing blog posts. Sometimes I find myself writing posts in
 emails to friends, but I'm never really going to stop writing blog
 posts.
 
--  The general explosion of blog publishing that we saw a few years ago
+- The general explosion of blog publishing that we saw a few years ago
 has declined. Audience fragmentation happened, readership got
 entrenched. I feel like I weathered the storm pretty well and I'm
 really happy with the site and readers I have, but I'm also pretty
 confident that blogging isn't going to be the means by which I "level
 up." [1]_
 
--  eBooks have finally happened. For the last decade most people have
+- eBooks have finally happened. For the last decade most people have
 been saying that ebooks are great for reference material (given
 search-ability,) and for providing an introduction to a text that
 people will eventually buy in a paper edition. That may be true, but
@@ -49,7 +49,7 @@ smart-phones, I think eBooks have effectively won, such as it is.
 
 In another ten years, perhaps, we'll just call them books.
 
--  I'm pretty clear that keeping a blog, and perhaps most of the writing
+- I'm pretty clear that keeping a blog, and perhaps most of the writing
 I do in my spare time is **for my own enjoyment and betterment** and
 helps to develop a personal portfolio and account of my work. I have
 no (real) interest in using my writing on tychoish.com or any other

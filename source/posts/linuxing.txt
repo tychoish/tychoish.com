@@ -27,12 +27,12 @@ text editors. Though it doesn't seem like it very much. Particularly
 when you write a crap ton. Let me review the kinds of things that I've
 been working on, and what I have left to do:
 
--  I'm using the `vimperator <http://vimperator.mozdev.org/>`__ plugin
+- I'm using the `vimperator <http://vimperator.mozdev.org/>`__ plugin
 for Firefox, which makes the browser behave a lot more like vim.
 Which makes sense in a browser, somehow. It basically means that I
 don't have to use the mouse very much, except when I want to, and
 that's a good thing, given how awesome works.
--  Awesome works great with both monitors as I expected. In a way, it's
+- Awesome works great with both monitors as I expected. In a way, it's
 not so much that I got a new computer, as it is that I got **two**
 new computers. And they're "both" really peppy. It does mean that my
 desk is way too small for everything I need to do with it. The linux,
@@ -40,18 +40,18 @@ the Mac. I got a stack of *paper* to read yesterday, and I tried to
 set it on the corner of my desk and it was commical how little
 flexabile room I have on my desk. I'm anticipating a move pretty
 soon, so I don't want to get new furnature quite yet.
--  I've been using the
+- I've been using the
 "`terminator <http://www.tenshu.net/terminator/>`__\ " program for
 terminal emulation, and it's delightfully simple. Wheras with most
 terminals I think "wow this sucks," with terminator, I'm only a
 little grumpy that the copy and past commands are bound to
 non-standard key combinations.
--  I still think pidigin stucks, and I've been over this before, but the
+- I still think pidigin stucks, and I've been over this before, but the
 more I use it, the more I can recognize flaws with Adium, so it's
 very much a "you can't go home again," situation. Pidgin is an
 instant messaging client, and Adium is based on the same core
 software, but packaged for OS X.
--  It took me way too long to figure out how to turn on the font
+- It took me way too long to figure out how to turn on the font
 smoothing so that everything doesn't look like crap. Which it did,
 but it meant some config file editing, because all of the
 gnome-settings functionality won't work because it doesn't like the

@@ -26,12 +26,12 @@ system.
 So knowing that drawing every name from the same pool is probably the
 wrong thing to do, here's the list of my little collection.
 
--  Leibniz: the desktop
--  Spinoza: cellphone/blackberry
--  Hegel: the ThinkPad
--  Levi-Strauss: the wireless access point.
--  Deleuze: the linux partition of the macbook
--  Guatteri: the OS X partition of the macbook
+- Leibniz: the desktop
+- Spinoza: cellphone/blackberry
+- Hegel: the ThinkPad
+- Levi-Strauss: the wireless access point.
+- Deleuze: the linux partition of the macbook
+- Guatteri: the OS X partition of the macbook
 
 My knowledge of modern and 19th century philosophy is way more limited
 and touch and go than my knowledge of 20th century. You could of course
@@ -42,13 +42,13 @@ could have made had laptops be German philosophers, and desktop be
 French philosophers; or I could have divided it up by centuries. Anyway,
 it's fun, and here's a list of possible names for future gear:
 
--  Gertz
--  Derrida
--  Spivak
--  Marx/Engels
--  Ricoeur
--  Foucault
--  Kierkegaard
+- Gertz
+- Derrida
+- Spivak
+- Marx/Engels
+- Ricoeur
+- Foucault
+- Kierkegaard
 
 You'll notice that I didn't include Nietzsche on the list. I think it's
 poor planning to name a computer (or anything) after someone whose known

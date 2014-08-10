@@ -67,17 +67,17 @@ eighties and nineties, than what seems to prevail at the moment.
 
 So to summarize the questions:
 
--  What, as a company, does it mean to say that the software you develop
+- What, as a company, does it mean to say that the software you develop
 (and likely own all the rights to,) is "open source," and "supported
 by a community?"
 
--  What does it mean to participate in and contribute to a community
+- What does it mean to participate in and contribute to a community
 around a commercial product that you don't have *any* real stake in?
 
--  How does the free software community, which is largely technical and
+- How does the free software community, which is largely technical and
 hacker centered, transcend to deal with and serve end users?
 
--  How do we legitimize projects that aren't funded with venture capital
+- How do we legitimize projects that aren't funded with venture capital
 money?
 
 Onward and Upward!

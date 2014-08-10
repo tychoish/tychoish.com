@@ -15,43 +15,43 @@ right, and is a good development for technology. Some thoughts:
 Reasons the Kindle is a Failure
 -------------------------------
 
--  DRM. If you're not allowing people full access to their files in open
+- DRM. If you're not allowing people full access to their files in open
 formats your not really selling the books. Period. This is a hugely
 ideological complaint, but here the impact: the prices are too high
 given that they're not *really* selling you the book.
--  Given the above, I think 5 dollars (half of what they charge you now)
+- Given the above, I think 5 dollars (half of what they charge you now)
 is probably the most they could reasonably charge for a book and
 likely something within a dollar of $2 USD is probably ideal. Mass
 Market paperbacks are 7 bucks, which is lower than the ten that an
 ebook. More on pricing.
--  The device is overpriced *and* they nickel and dime you to death for
+- The device is overpriced *and* they nickel and dime you to death for
 service. Getting books/texts converted cost 10 cents. Certain RSS
 feeds cost recurring fees. I think either they have to subsidize the
 price of the device and then have a service contract (that includes
 credits for a given number of books, possibly tied to amazon prime?)
 or keep the price of the device high and really give the service away
 for free.
--  The obligatory complaints about the objects design and interface.
+- The obligatory complaints about the objects design and interface.
 
 Reasons the (right) next "Kindle" could be amazing.
 ---------------------------------------------------
 
--  If they fix the price/DRM/etc. problem, sales go up, total revenue
+- If they fix the price/DRM/etc. problem, sales go up, total revenue
 goes up, it's more successful.
--  Given the always on internet, people buy a kindle book for different
+- Given the always on internet, people buy a kindle book for different
 reasons then they buy a regular book: You buy a kindle book because
 you have time, you've read the first couple of sample chapters and
 you want to read more. You buy a dead tree book because you see it on
 the shelf and you think you might enjoy reading it later on. I have
 lots of print books in my collection that I've not read. I think
 you're probably less likely to collect digital books in the same way.
--  Digital distribution does away with overstock, and most distribution
+- Digital distribution does away with overstock, and most distribution
 costs, which means the reasonable limitations on publication becomes
 editorial/production staff time, and available good
 manuscripts. [2]_. This doesn't mean that there won't be codices
 anymore, they just won't be produced in the same way, and they won't
 be bought and sold in the same way.
--  If this or some sort of digital reading device becomes more
+- If this or some sort of digital reading device becomes more
 ubiquitous (and cheaper and therefore more accessible to a greater
 segment of the population,) such a device could be the main way that
 we we do a lot of our reading of text, and I think it isn't hard to

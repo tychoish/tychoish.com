@@ -29,19 +29,19 @@ In some cases, they even start or point to projects like
 cool ideas, but I think that effectively equating the ability to write
 code with technical literacy is fraught:
 
--  There are many different kinds of technical literacy and writing code
+- There are many different kinds of technical literacy and writing code
 is really such a small part. Sure code gives us a reasonable way to
 talk about things like design and architecture, but actually writing
 code is such a small part of developing technology.
 
--  Writing code isn't that important, really. In a lot of ways, code is
+- Writing code isn't that important, really. In a lot of ways, code is
 just an implementation detail. Important as a way of describing some
 concepts pretty quickly, important because it's impossible to iterate
 on ideas without something concrete to point to, but the
 implementation isn't nearly as important as the behavior or the
 interface.
 
--  For the last ~40 years, code has been the way that people design
+- For the last ~40 years, code has been the way that people design
 behavior and specify interfaces for software. While there are a lot
 of reasons why this predominantly takes the form of code, there's not
 particular reason that we can't express logic and describe interfaces
@@ -71,23 +71,23 @@ wiki page.*)
 Most of the way that programming books and courses teach programming are
 frustrating and somewhat dire, for a few reasons:
 
--  Most examples in programming books are dumb.
+- Most examples in programming books are dumb.
 
--  Basic computer science/engineering knowledge is fundamental to the
+- Basic computer science/engineering knowledge is fundamental to the
 way that accomplished programmers think about programming but aren't
 always required to teach people how to program.
 
--  Syntax isn't that important, but you can't ignore it either.
+- Syntax isn't that important, but you can't ignore it either.
 
--  Slow reveals are really frustrating.
+- Slow reveals are really frustrating.
 
--  The kinds of code that you write when learning to programming bear
+- The kinds of code that you write when learning to programming bear
 little resemblance to the actual work that programmers do.
 
 The solutions to these problems are complex and there are many possible
 solutions. As a starting point:
 
--  Separate the way you present core concepts (i.e. data structures,
+- Separate the way you present core concepts (i.e. data structures,
 typing, functions, classes, etc.) from actual code examples and from
 actual explanations of the syntax.
 
@@ -96,7 +96,7 @@ to answer their own questions they'll learn what they actually need to
 know, and you can then do a better job of explaining the syntax, basic
 concepts, and practical examples.
 
--  Provide longer examples that aren't contrived.
+- Provide longer examples that aren't contrived.
 
 Examples don't need to start from first principals, and don't need to be
 entirely self contained. Programming work rarely starts from first

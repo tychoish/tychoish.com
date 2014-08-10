@@ -35,15 +35,15 @@ writing. The hard part is, and the part that I had gotten stuck in was,
 figuring out what's worth writing. Here are some interesting lessons
 about writing for your consideration:
 
--  Sometimes the most productive thing you can do as a writer is to not
+- Sometimes the most productive thing you can do as a writer is to not
 write and spend time figure out what *doesn't* need to be said. It
 doesn't make your writing longer, but it does make your writing more
 clear and more useful as a result.
 
--  As a corallary, sometimes the most important thing you can do to a
+- As a corallary, sometimes the most important thing you can do to a
 text is remove stuff that is distracting.
 
--  Although having too many "open projects" on your plate can make you
+- Although having too many "open projects" on your plate can make you
 feel like you're spread too thin, it's true that having a lot of
 things in the air increases your chance of getting thigns done,
 because having multiple projects in different stages lets you get

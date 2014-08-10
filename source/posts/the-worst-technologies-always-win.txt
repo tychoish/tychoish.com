@@ -25,7 +25,7 @@ and a physically less durable media) and HD-DVD; and so forth.
 
 The factors are (of course) multiple:
 
--  Marketing.
+- Marketing.
 
 People have to know about technologies at some stage in their
 development if the technology is to take off. I'm not sure what that
@@ -34,7 +34,7 @@ don't understand, but I don't *really* think *anyone* understands.
 Having said that, I think it's clear that technologies don't compete
 simply on their technical merits, and this is in recognition of that.
 
--  Timing.
+- Timing.
 
 Technologies that appear at the right time, with regards to availability
 of alternatives and the needs/interests in the market on those
@@ -45,7 +45,7 @@ bit earlier. Linux "won" market share over BSD, because BSD wasn't quite
 fully free/open source (or available) in 1990-1992 when Linux was taking
 off.
 
--  Momentum.
+- Momentum.
 
 A project that doesn't look like it has energy and a large team behind
 it is probably doomed to fail on some level, not because it's a bad

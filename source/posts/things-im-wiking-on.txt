@@ -6,24 +6,24 @@ Things I'm Wiking On
    :author: tychoish
    :tags: wiki
 
--  `The Contra Purity Test </wikish/contra-purity/>`__: A couple friends
+- `The Contra Purity Test </wikish/contra-purity/>`__: A couple friends
 and thought it might be cool to work on a "purity test" for contra
 dancing/dancers. Mostly for jokes, I said "I'll make a wiki page,"
 and then I did. It is, I'd say 70% done.
 
--  Some writing and thinking about `TumbleManager, tumblelog
+- Some writing and thinking about `TumbleManager, tumblelog
 engine <http://wiki.cyborginstitute.net/tumblemanager/>`__ in
 response to `this
 post <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__.
 I'm writing this as a design document/spec sheet because I'm a writer
 and my brain works like this.
 
--  The `Lessons from System Administration </wikish/archives/>`__ is the
+- The `Lessons from System Administration </wikish/archives/>`__ is the
 beginning of an `archive <http://tychoish.com/archive/>`__ of posts
 that I've written recently drawing lessons learned in system
 administration into other more generally useful contexts.
 
--  `Sygn Networking <http://wiki.cyborginstitute.net/sygn/>`__ - I've
+- `Sygn Networking <http://wiki.cyborginstitute.net/sygn/>`__ - I've
 done some editing recently on this older project with an attempt to
 move it forward. Reorganization, cleaning up of text, adding new
 points in where they make sense. Of particular interest is, I think
@@ -32,7 +32,7 @@ examples <http://wiki.cyborginstitute.com/sygn/dataexamples/>`__ of
 what sygn profiles might look like. I hope this all helps illuminate
 the project a bit.
 
--  Although this only barely counts: I did some very wiki-like editing
+- Although this only barely counts: I did some very wiki-like editing
 to the `tubmlelog
 post <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__,
 which I think cleaned up the text a bit. I'm, as you're aware, not a
@@ -40,7 +40,7 @@ very polished sort of writer. But I think I'm pretty good at cleaning
 things up after a fashion, and once I have the right distance. Or
 something. It's a bit clearer now, at any rate.
 
--  Also not wiki related specifically, but I've been doing some rolling
+- Also not wiki related specifically, but I've been doing some rolling
 revisions on the `Cyborg Institute <http://cyborginstitute.net>`__
 website recently. I don't want the CI project to die, but I want it
 to be more realistic, and useful to other people as a platform for

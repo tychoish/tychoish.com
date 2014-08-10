@@ -26,13 +26,13 @@ Here's the setup: I have an iMac of contemporary vintage for a
 workstation, which is of course running OS X 10.5 Leopard, by default.
 Here are the challenges I found myself facing:
 
--  OS X is a great operating system, but I'm not a mac guy anymore, much
+- OS X is a great operating system, but I'm not a mac guy anymore, much
 to my surprise. I installed quicksilver pretty early on, but the
 truth is that my head isn't shaped that way any more. The mouse
 frustrates me, and all the things that make OS X great I don't really
 use.
 
--  All my other machines and working environments for the past while
+- All my other machines and working environments for the past while
 have been linux based, and I've basically come to the conclusion that
 having *one* environment that's shared between a large number of
 boxes is preferable to having different and unique operating

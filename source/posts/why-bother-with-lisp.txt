@@ -27,43 +27,43 @@ Let us start by asking "**Should You Study Common Lisp?**\ "
 
 Yes! There are a number of great reasons to use Common Lisp:
 
--  There are a number of good open source implementations of the common
+- There are a number of good open source implementations of the common
 lisp language including a couple of very interesting and viable
 options. They're also stable: SBCL which is among the more recent
 entrants to this field is more than a decade old.
 
--  There are sophisticated development tools, notably SLIME (for emacs)
+- There are sophisticated development tools, notably SLIME (for emacs)
 which connects and integrates emacs with the lisp process, as well as
 advanced REPLs (i.e. interactive mode). So getting started isn't
 difficult.
 
--  Common Lisp supports many different approaches to programming.
+- Common Lisp supports many different approaches to programming.
 Indeed, contemporary "advanced" languages like Ruby and Python borrow
 a lot from Lisp. So it's not an "archaic" language by any means.
 Dynamic typing, garbage collection, macros, and so forth.
 
--  CL is capable of very high performance, so the chance of saying
+- CL is capable of very high performance, so the chance of saying
 "damn, I wish I wrote this in a faster language," down the road isn't
 terribly likely. Most implementations run on most platforms of any
 consequence, which is nice.
 
--  You're probably tired of hearing that "Learning Lisp will make your a
+- You're probably tired of hearing that "Learning Lisp will make your a
 better programmer in any language," but it's probably true on some
 level.
 
 The reasons to not learn Lisp or to avoid using it are also multiple:
 
--  "Compiled" Lisp binaries are large compared to similarly functional
+- "Compiled" Lisp binaries are large compared to similarly functional
 programs in other languages. While most CL implementations will
 compile native binaries, they also have to compile in most of
 themselves.
 
--  Lisp is totally a small niche language, and we'd be dumb to assume
+- Lisp is totally a small niche language, and we'd be dumb to assume
 that it's ever going to take off. It's "real" by most measurements,
 but it's never really going to be popular or widely deployed in the
 way that other contemporary languages are.
 
--  Other programmers will think you're weird.
+- Other programmers will think you're weird.
 
 Having said that all of I think we should still start projects in CL,
 and expand the amount of software that's written in the language. Here's
@@ -71,16 +71,16 @@ why `my next programing
 project <http://wiki.cyborginstitute.com/tumblemanager/>`__ is going to
 be written in lisp:
 
--  I enjoy it. I suspect this project like many projects you may be
+- I enjoy it. I suspect this project like many projects you may be
 considering is something of an undertaking. Given that I don't want
 to have to work in an environment that I don't enjoy, simply because
 it's popular or ubiquitous.
 
--  Although Lisp isn't very popular, it's popular enough that all of the
+- Although Lisp isn't very popular, it's popular enough that all of the
 things that you might want to do in your project have library
 support. So it's not exactly a wasteland.
 
--  The Common Lisp community is small, but it's dedicated and fairly
+- The Common Lisp community is small, but it's dedicated and fairly
 close knit. Which means you may be able to get some exposure for your
 application in the CL community, simply because your app is written
 in CL. This is a question of scale, but it's easier to stand out in a
@@ -89,20 +89,20 @@ smaller niche.
 Of course there are some advantages to "sticking with the crowd" and
 choosing a different platform to develop your application in:
 
--  If you want other people to contribute to your project, it's probably
+- If you want other people to contribute to your project, it's probably
 best to pick a language that the people who might be contributing to
 your application already know.
 
--  While there are libraries for most common things that you might want
+- While there are libraries for most common things that you might want
 to do with Common Lisp, there might not be libraries for very new or
 very esoteric tasks or interfaces. Which isn't always a problem, but
 can be depending on your domain.
 
--  The binary size problem will be an issue if you plan to deploy in
+- The binary size problem will be an issue if you plan to deploy in
 limited conditions (we're talking like a 15 meg base size for SBCL,
 which is a non issue in most cases, but might become an issue.)
 
--  If you run into a problem, you might have a hard time finding an
+- If you run into a problem, you might have a hard time finding an
 answer. This is often *not* the case, but it's a risk.
 
 Onward and Upward!

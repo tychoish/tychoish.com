@@ -34,7 +34,7 @@ is that the more official `gvim <http://www.vim.org/>`__ package is
 written in an outdated environment for OS X, but is generally acceptable
 for windows and linux, so it's fine. Anyway. onto the resource.
 
--  `dotfiles <http://www.dotfiles.org>`__ - Dotfiles is a collection of
+- `dotfiles <http://www.dotfiles.org>`__ - Dotfiles is a collection of
 users' unix preferences and setting files. It's really useful if
 you're getting into seriously using the shell
 (.bashrc/.bash\_profile, .zshrc, etc.) or other unix-ish tools like
@@ -42,19 +42,19 @@ Mutt and vim to see what most people are doing to customize the
 program. Most of these programs seem painfully difficult only because
 everyone who uses them has customized them to within an inch of their
 lives.
--  `vim tips <http://vim.wikia.com/wiki/>`__ - A great wikia wiki (the
+- `vim tips <http://vim.wikia.com/wiki/>`__ - A great wikia wiki (the
 private/for profit wiki hosting project by the people who do
 wikipedia.) It collects little bits of nagging "how on earth do you
 do x" and usually there's an answer.
--  `vi editor 101 <http://www.marchansen.com/tn101/>`__ - This is the
+- `vi editor 101 <http://www.marchansen.com/tn101/>`__ - This is the
 website guide that has all of the vim answers. All of them. It's not
 cleverly or usefully organized so you have to grep through it, but
 other wise it's quite useful.
--  `Editing in vim <http://jmcpherson.org/editing.html>`__ - This is the
+- `Editing in vim <http://jmcpherson.org/editing.html>`__ - This is the
 cheat sheet/guide that I find myself turning to more than any other
 when I forget how to do something that I should know reflexively. And
 the page is well designed and well laid out.
--  `vim for textmate
+- `vim for textmate
 fans <http://alexyoung.org/articles/show/12/vim_for_textmate_fans>`__
 - If you, like me, have experience with the amazing
 `TextMate <http://macromates.com/>`__ editor, and want some help

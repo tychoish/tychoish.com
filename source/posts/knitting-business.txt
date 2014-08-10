@@ -64,13 +64,13 @@ me seem like an obnoxious capitalist?
 Some thoughts about knitting patterns in contrast to other
 electronic text solutions:
 
--  The digital copies can sufficiently/completely replace the
+- The digital copies can sufficiently/completely replace the
 physical/paper copies (They're short, so it's feasible to print
 them).
--  Digital copies are preferable. Many knitters photo copy patterns
+- Digital copies are preferable. Many knitters photo copy patterns
 from traditionally issued books because it is easier to cary
 around a few sheets in a page protector than a whole books.
--  If you can get all the patterns that you want from a book,
+- If you can get all the patterns that you want from a book,
 there's little incentive to buy the book, for many. Many knitters
 will only buy a book if X number of patterns seem like things
 they would want to knit.

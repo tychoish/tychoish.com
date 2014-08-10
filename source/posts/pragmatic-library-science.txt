@@ -29,7 +29,7 @@ archives with difficult collections, that no one teaches you in those
 decimal classification systems" lessons you get in grade school/college.
 The highlights?
 
--  **Physical and Intellectual Organization** While Archives keep track
+- **Physical and Intellectual Organization** While Archives keep track
 of, and organize all sorts of information about their collections,
 the organization of this material "on the shelf" doesn't always
 reflect this.
@@ -40,7 +40,7 @@ way that will take up the least amount of space physically. Store
 photographs, separately from oversized maps, separately from file boxes,
 separately from video cassettes, separately from CDs (and so forth.)
 
--  "Series" and intellectual cataloging - This took me a long time to
+- "Series" and intellectual cataloging - This took me a long time to
 get my head around, but Archivists have a really great way of taking
 a step back and looking at the largest possible whole, and then
 creating an ad-hoc organization and categorization of this whole, so
@@ -48,7 +48,7 @@ as to describe in maximum detail, and make finding particular things
 easier. Letters from a specific time period. Pictures from another
 era.
 
--  An acceptance that perfection can't be had. Perhaps this is a symptom
+- An acceptance that perfection can't be had. Perhaps this is a symptom
 of working with a collection that had only been archived for several
 years, or working with a collection that had been established with
 one large gift, rather than as a depository for a working collection.

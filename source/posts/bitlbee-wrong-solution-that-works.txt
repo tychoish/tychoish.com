@@ -19,11 +19,11 @@ instant messaging, twitter, xmpp, etc.) Previously, I'd been using an
 XMPP-only client and running jabber-to-IM transports on the server,
 which I think is more of a *right* solution. Why then did I switch?
 
--  I wanted to use `irssi <http://www.irssi.org>`__, which I think `one
+- I wanted to use `irssi <http://www.irssi.org>`__, which I think `one
 of the most cleverly designed and useful pieces of
 software </2010/07/in-favor-of-simple-software>`__ out there.
 
--  Transports that allow XMPP to interact with other services are an
+- Transports that allow XMPP to interact with other services are an
 ideal solution and I think the inclusion of transports in the design
 of the XMPP protocol is a major selling point for the XMPP
 technology. At the same time the most stable transports aren't
@@ -35,14 +35,14 @@ had a habit of dying without cause once or twice a week, and it used a
 lot of system resources for something that could (should?) have been
 much simpler.
 
--  The truth is that while XMPP is a nifty technology, and I really
+- The truth is that while XMPP is a nifty technology, and I really
 enjoy using it, I'm starting to think that it's not ideal to expect
 that XMPP replace IRC, as both accomplish different things for their
 users. So while I always saw bitlbee as "giving into IRC" it's really
 just an interface. And frankly IRC clients do IM better than IM
 clients do IRC.
 
--  Bitlbee works really well as a client for Facebook chat (which is a
+- Bitlbee works really well as a client for Facebook chat (which is a
 weird XMPP flavor) and is a functional twitter client. With the
 delight of using irssi, I'm able to really interact on these networks
 without having to spend too much brain power sifting through crud.

@@ -31,19 +31,19 @@ for documentation, particularly the kind that I've been spending time on
 recently is about making documentation easier to maintain, and easier to
 improve *at scale.* For example:
 
--  tools to make common textual chunks easier to reuse.
--  tools that enforce common structures.
--  tools that detect common patterns of weak constructions.
--  tools that that analyize text for common readability conventions.
+- tools to make common textual chunks easier to reuse.
+- tools that enforce common structures.
+- tools that detect common patterns of weak constructions.
+- tools that that analyize text for common readability conventions.
 
 I was going to write this up as a blog post, but I think it makes sense
 as a collection of wiki pages:
 
--  [[Inclusion Management
+- [[Inclusion Management
 Tools\|/technical-writing/inclusion-management]]
--  [[Structured Content
+- [[Structured Content
 Generation\|/technical-writing/structured-content-generation]]
--  [[Static Analysis of Text\|/technical-writing/static-analysis]]
+- [[Static Analysis of Text\|/technical-writing/static-analysis]]
 
 Onward and Upward!
 

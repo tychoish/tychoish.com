@@ -60,13 +60,13 @@ system then the chances are, you've already got rsync installed. Pulling
 together something to keep your files synced between more than one
 machine just requires a few pieces:
 
--  something that runs on your computer in the background that keeps
+- something that runs on your computer in the background that keeps
 track of when files change so that it can send the changes to the
 server. Conversely this component can also just run on a timer and
 send changes ever x amount of time (five minutes? if the computer
 isn't idle.)
 
--  something that runs on the server that can send changes to other
+- something that runs on the server that can send changes to other
 computers when the other computers say ("Has anything changed?").
 
 Done. I'm no programmer--as I'm quick to attest--but I think that I
@@ -136,16 +136,16 @@ freedom <http://tychoish.com/rhizome/coops-competition-openness/>`__ for
 weeks now, but I swear it all fell into my lap here. Some basic
 thoughts, as conclusion for this already too lengthy essay:
 
--  The UbuntuOne service, like most free network service, is at it's
+- The UbuntuOne service, like most free network service, is at it's
 core providing a systems administration service rather than some sort
 of software product. The software, is relatively trivial compared to
 making sure the servers are running/accessible/secure
 
--  The way to offer users' autonomy is to develop easy/free systems
+- The way to offer users' autonomy is to develop easy/free systems
 administration tools, and to educate them on how to run these
 systems.
 
--  Corporations, while important contributors to the free software
+- Corporations, while important contributors to the free software
 community, also inevitably serve their own interests, while it's
 disappointing to see Canonical go down the proprietary track, it's
 neither surprising nor a betrayal. Canonical has put on a good show
@@ -154,7 +154,7 @@ number of things that they could have done differently from *way
 back* that would have changed the current situation. (eg. Worked
 within the Debian Project, developed a tighter business model, etc.)
 
--  Free software, is very pro-business, but it's not very
+- Free software, is very pro-business, but it's not very
 pro-big-business, as "native free software business models" are built
 on personal reputations rather than tangible products. It translates
 to making an honest living pretty well, but it doesn't convert very

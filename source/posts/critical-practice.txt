@@ -27,7 +27,7 @@ criticism, and theoretical practice, I'd like to provide two theses that
 define good critical practice, and provide some starting points for
 "getting it right:"
 
--  Criticism is comparative. If you analyze a single thing in isolation,
+- Criticism is comparative. If you analyze a single thing in isolation,
 this analysis is not criticism. By contrast, one of the best ways to
 make poor criticism more powerful is to include more information
 (data) to strengthen the comparison. Comparison should highlight or
@@ -35,7 +35,7 @@ help explain the phenomena or objects you are critiquing, but should
 always serve agenda and goals of the criticism to avoid overloading
 readers with too much information.
 
--  Criticism ought to have its own agenda. It is impossible to avoid
+- Criticism ought to have its own agenda. It is impossible to avoid
 bias entirely, and from this impossibility springs criticism's
 greatest strength: the power to productively examine and contribute
 to cultural discourses. While critical essays are perhaps the most

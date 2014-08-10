@@ -34,20 +34,20 @@ Really flexible and powerful [[taxonomic\|technical-writing/taxonomy]]
 systems, like tagging systems have a number of problems when applied to
 large information resources:
 
--  the relationship between the "scope" of the tag, and the specificity
+- the relationship between the "scope" of the tag, and the specificity
 of the tag matters a lot. Too much. Problems arise when:
 
--  tags are really specific, pages include a number of pieces of
+- tags are really specific, pages include a number of pieces of
 information, and tags can only map to pages.
 
--  tags are general and the resources all address similar or related
+- tags are general and the resources all address similar or related
 topics.
 
--  the size of the tag "buckets" matters as well. If there are too many
+- the size of the tag "buckets" matters as well. If there are too many
 items with a tag, users will find not the tag for answering their
 questions.
 
--  if your users or applications have added additional functionality
+- if your users or applications have added additional functionality
 using tags, tags begin to break as a useful taxonomic system. For
 example, if your system attaches actions to specific tags (i.e. send
 email alerts when content with a specific tag,) or if you use a
@@ -57,20 +57,20 @@ or to trigger the system.
 
 The resulting organization isn't useful from a textual perspective.
 
--  If you have to have multiple tagging systems or namespaces.
+- If you have to have multiple tagging systems or namespaces.
 
 Using namespaces is powerful, and helps prevent collisions. At the same
 time, if your taxonomic system has collisions, this points to a larger
 problem.
 
--  If the taxonomy ever has more than one term for a conceptual facet,
+- If the taxonomy ever has more than one term for a conceptual facet,
 then the tagging system is broken.
 
 These problems tend to exacerbate as:
 
--  the resource ages.
+- the resource ages.
 
--  the number of contributors grow.
+- the number of contributors grow.
 
 There's this core paradox in tagging systems: *To tag content
 effectively, you need a fix list of potential tags before you begin

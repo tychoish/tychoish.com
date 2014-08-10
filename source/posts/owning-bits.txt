@@ -9,22 +9,22 @@ Owning Bits
 Some First Principals:
 ----------------------
 
--  It is difficult, and likely impossible to technologically restrict
+- It is difficult, and likely impossible to technologically restrict
 the duplication and redistribution of digital resources. In
 other-words, *digitally accessible resources will never be scarce*.
 
--  Creators of content (music, literature, software) should be
+- Creators of content (music, literature, software) should be
 reimbursed for their work, and there should be business models that
 support these kinds of pursuits. In other words *people should be
 compensated for the creation of content in a viable and sustainable
 manner*.
 
--  Information probably does want to be free. Creators of information,
+- Information probably does want to be free. Creators of information,
 should want their information to be "free" because the information
 that has the most power and influence is that which is most
 accessible.
 
--  The conveyance of physical objects (books, etc.) is a source of
+- The conveyance of physical objects (books, etc.) is a source of
 concrete value. Physicality is not the only basis for economic
 exchange, of course, but it's a good place to start.
 
@@ -33,7 +33,7 @@ exchange, of course, but it's a good place to start.
 Questions and Answers:
 ~~~~~~~~~~~~~~~~~~~~~~
 
--  **What is the "content problem?"**
+- **What is the "content problem?"**
 
 I suppose the core of the problem with content these days is that we
 don't have a good set of business models that can support the creation
@@ -57,7 +57,7 @@ support the creation of content. Because what we have now doesn't seem
 to fit the bill. And whats on the horizon, doesn't seem to be much
 better.
 
--  **Isn't content a horrible word for this?**
+- **Isn't content a horrible word for this?**
 
 I confess that the word "content" makes me a bit sick from time to time.
 Not only is it awkward to lump the concerns of musicians, academics,
@@ -77,7 +77,7 @@ about content and the future of content: the experience of consumption;
 the process of generation; and the business models which support the
 creation and consumption of content.
 
--  **Owning Bits? What do you mean?**
+- **Owning Bits? What do you mean?**
 
 I said, a few weeks ago of the whole DRM issue, that I thought "we
 needed to get away from the whole 'owning bits' metaphor for content
@@ -94,7 +94,7 @@ it mean, socially and politically, if we don't own information? What is
 reasonable and sustainable pricing? What kinds of distribution schemes
 make sense?
 
--  **Besides the general "fear of copying" that has heretofore plagued
+- **Besides the general "fear of copying" that has heretofore plagued
 the content industry, what new technological challenges might the
 content industry face in the mid-to-short term future?**
 
@@ -110,7 +110,7 @@ mutability issue is obviously a mixed bag, but I think the most useful
 information and the most free information will have some sort of
 versioning information.
 
--  **What are the business models that will support content in the in
+- **What are the business models that will support content in the in
 the future?**
 
 The one downfall of `Project Xanadu <http://www.xanadu.com/>`__ is that
@@ -135,7 +135,7 @@ offset the cost of content creation. We see this both for authors who
 tour to support books as well as the musicians for whom I've named the
 model. It works, it focuses the transaction of physical objects.
 
--  **You seem to like subscription models. What are the implications of
+- **You seem to like subscription models. What are the implications of
 a shift toward subscription models in terms of the way people relate
 to the information (music, writing, etc.) that they consume?**
 

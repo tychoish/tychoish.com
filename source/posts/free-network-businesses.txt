@@ -59,7 +59,7 @@ lot of folks in the FNS space are working to build pillars of free
 network technologies, I think some theoretical work on the economics are
 in order. So here I am. Here are the ideas:
 
--  The primary "business" opportunity for free network service is in
+- The primary "business" opportunity for free network service is in
 systems administration, and related kinds of tasks. If the software
 is (mostly) open source and design and implementation can't possibly
 generate enough income, then keeping the servers running, the
@@ -67,7 +67,7 @@ software up-to date, and providing support to users is something that
 provides and generates *real value* and is a concrete cost that users
 of software can identify with and justify.
 
--  Subscription fees are the new advertising. In a lot of ways what a
+- Subscription fees are the new advertising. In a lot of ways what a
 particular service provides (in addition to server resources) is a
 particular niche community. While federation changes this dynamic
 somewhat, I think often people are going to be willing to pay some
@@ -76,20 +76,20 @@ fees (like meta-filter) and subscription fees (like flickr) you
 should be able to generate a pretty good hourly rate for the work
 required.
 
--  Enterprise Services. We could probably support free network services
+- Enterprise Services. We could probably support free network services
 (and the people behind them) by using those networks as
 advertisements for enterprise services. See a service on the
 Internet, and have a company deploy it for internal use on their
 intranet, and have the developers behind it sell support contracts.
 
--  Leach money from telecoms. This is my perpetual suggestion, but while
+- Leach money from telecoms. This is my perpetual suggestion, but while
 most of us Internet folks and network service developers may or may
 not be making money from our efforts in cyberspace, the telecoms
 **are** making money in cyberspace hand over fist, largely on the
 merits of *our* work. It's not really possible to bully Ma' Bell, but
 I think it's a part of the equation that we should be focusing on.
 
--  *Your Suggestion Here.* The idea behind business in the free network
+- *Your Suggestion Here.* The idea behind business in the free network
 service space, is that providers are paid for *concrete value* that
 they provide, rather than speculation on their *abstract value*, and
 as a result we can all think about business models without harming

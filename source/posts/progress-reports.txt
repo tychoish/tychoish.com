@@ -21,7 +21,7 @@ suggestions\|discourse]] on this topic would be most appreciated.
 
 So what have I been up to? Well...
 
--  I got back into writing fiction this week after several weeks away. I
+- I got back into writing fiction this week after several weeks away. I
 was in a difficult part of the story and life got very... full... and
 I stopped writing regularly. These things happen, but it's good to be
 back at least some.
@@ -38,27 +38,27 @@ some time cleaning it up and making it an awesome text, but also being
 able to work on making other things I've written better, and to *be able
 to write new things*, with my undivided attention.
 
--  I've updated the [[essay/anti-rodentia]] and the associated
+- I've updated the [[essay/anti-rodentia]] and the associated
 [[essay/anti-rodentia/discourse]] page with some changes that I think
 make the system work much better.
 
--  I've upgraded to Firefox 4, which I really like a lot: it's much
+- I've upgraded to Firefox 4, which I really like a lot: it's much
 faster, it's much more minimal (visually) which is great. Also all of
 my plugins and extensions work without issue. Good job!
 
--  I went through a blast from my past when I pulled together the
+- I went through a blast from my past when I pulled together the
 [[queer-theories]] page, which does some--at this point utterly
 redundant--definitional work about what it means to be queer, and
 potential limitations on queer identity/politics in the era of a
 broadly defined queer.
 
--  I've started adding recurring tasks to keep me on track with writing
+- I've started adding recurring tasks to keep me on track with writing
 and posting entries to this post. This means I don't end up posting
 things *months* after I write them. As was the case with [[Mutt Sucks
 Less\|essay/mutt-sucks-less]], a post I wrote many months ago and
 posted with some revisions last week.
 
--  I made a [[folk]] page for frequent comm enter and discourse
+- I made a [[folk]] page for frequent comm enter and discourse
 participant [[matt\|madalu]] that includes a snippet which makes a
 list (and RSS feed!) of all pages that link to "madalu" or are tagged
 with "madalu" (his handle). You can see this by editing the page, and

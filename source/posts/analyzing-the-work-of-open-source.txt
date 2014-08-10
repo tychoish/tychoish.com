@@ -10,10 +10,10 @@ This post covers the role and purpose (and utility!) of analysts and
 spectators in the software development world. Particularly in the open
 source subset of that. My inspirations and for this post come from:
 
--  `Why is there no Anthropology
+- `Why is there no Anthropology
 Journalism <http://savageminds.org/2010/01/26/3145/>`__?
 
--  `This Video Featuring an interview with Michael Coté of Red
+- `This Video Featuring an interview with Michael Coté of Red
 Monk <http://vimeo.com/9196617>`__
 
 --------------

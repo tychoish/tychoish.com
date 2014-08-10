@@ -22,7 +22,7 @@ occurring in the space.
 
 My thoughts are pretty simple:
 
--  This is old news. People have been pronouncing cyberpunk dead since
+- This is old news. People have been pronouncing cyberpunk dead since
 1992 or thereabouts. And they've largely been right. Cyberpunk died,
 because the technological horizon 1980s (e.g. BBSs) developed in a
 particular way. In someways the cyberpunks got it right (there is a
@@ -45,14 +45,14 @@ was accepted and quite transformative for the genre.
 At the same time, the "hackers," and "cyberpunks," grew out of academia
 (e.g. Free Software) and not the punk movement.
 
--  The cyberpunks, even when (white) men were the front men for the
+- The cyberpunks, even when (white) men were the front men for the
 (sub)genre, have always been outsiders. In the 80s were the "Young
 Turks" of the science fiction world. Samuel Delany's *Nova* is often
 cited a key cyberpunk-precursor, and there are some pretty important
 precursors in *Stars in My Pocket*, *Dhalgren*, and *The Einstein
 Intervention*.
 
--  I want to be sure to not forget about Melissa Scott while we're at
+- I want to be sure to not forget about Melissa Scott while we're at
 it. *Trouble and her Friends* is a great example of using cyberpunk
 to explore subcultures and experiences of people (queers, PoC, etc.)
 on the margins. While *Trouble* is almost on the late end for
@@ -61,7 +61,7 @@ that only queers and PoC and others have only recently taken up
 cyberpunk, and that seems particularly shortsighted, and not
 particularly true.
 
--  One of the most troubling aspects of the argument is the assumption
+- One of the most troubling aspects of the argument is the assumption
 that if "cyberpunk" is over than no one can write cyberpunk anymore
 and that to declare such would be to silence all of the would be
 \*punks.

@@ -24,13 +24,13 @@ the utility and quality of these features/functions depends on a number
 of subjective/individual factors. That said, with regards to mutt, my
 list is as follows:
 
--  Mutt is agnostic on the editor question. I suspect the fact that I
+- Mutt is agnostic on the editor question. I suspect the fact that I
 could use any text editor I wanted to write email was probably my
 original reason for switching to mutt in the first place. It's
 amazing what a sane editing experience can do for the overall
 experience of writing emails.
 
--  Support for PGP/GPG encryption. Signing and encrypting emails with
+- Support for PGP/GPG encryption. Signing and encrypting emails with
 PGP is probably only a minor advantage, and of limited actual
 utility, but I think it's important and valuable to have this
 capability in your email client. After all, the success of PGP
@@ -38,7 +38,7 @@ depends on a crowd effect: if it's easy, sign all your email and hope
 that others will join you. Mutt makes this easy, which is a good
 thing indeed.
 
--  Mutt operates independently of mail transmission protocols, which are
+- Mutt operates independently of mail transmission protocols, which are
 universally flawed. In many ways, by not including support for mail
 transmission, mutt is more useful and more flexible than it would be
 if it was designed to handle mail transmission. Having said that,
@@ -46,14 +46,14 @@ recent versions of mutt have internal support for IMAP/POP/SMUT. Not
 that I'd use it or recommend that you do use it and I suspect most
 mutt users don't either.
 
--  Mutt operates independently of mail storage format: you can maintain
+- Mutt operates independently of mail storage format: you can maintain
 complete control over your mail data, and store email pretty much
 however you like. While this may be a burden to some, I'm somewhat
 controlling when it comes to data storage and preservation, and I
 think email archives are incredibly important. And I'm a `weirdo
 about email storage </essay/git-mail-3/>`__.
 
--  Mutt's "sidebar patch" isn't even a part of the core of the software,
+- Mutt's "sidebar patch" isn't even a part of the core of the software,
 but it's absolutely crucial to my experience of the software.
 Basically it gives you a heads-up-display of your mailboxes and tells
 you at a glance: if there are new messages and how many messages
@@ -61,7 +61,7 @@ you at a glance: if there are new messages and how many messages
 screen real estate, it's generally unused screen space and it's more
 than worth the expenditure of pixels.
 
--  Mutt runs on console and can be compiled on pretty much any
+- Mutt runs on console and can be compiled on pretty much any
 contemporary UNIX-like system. Chances are there are packages for
 most operating system. So I feel pretty confident that I'll pretty
 much be able to use mutt no matter what kind of system I end up

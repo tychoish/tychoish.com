@@ -5,20 +5,20 @@ tealart TODO
 .. post:: 2007-08-30
    :author: tychoish
 
--  work on the podcasting thing
+- work on the podcasting thing
 
--  get microphones working
--  figure out how to use skype
--  get a crew together
+- get microphones working
+- figure out how to use skype
+- get a crew together
 
--  chris
--  dave
--  sk people
--  others?
+- chris
+- dave
+- sk people
+- others?
 
--  weekly "other awesome blogs that you could be reading" features.
+- weekly "other awesome blogs that you could be reading" features.
 
--  pictures in posts.
+- pictures in posts.
 
 
 

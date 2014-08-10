@@ -35,7 +35,7 @@ were a couple of major problems for me.
 
 1. The administrative interface was complicated and non-intuitive.
 
--  To be fair, I really don't like to interact with programs through
+- To be fair, I really don't like to interact with programs through
 a web browser, and it seems to me that all I was doing with drupal
 was clicking through page after page to try and find the one bit
 that I needed to flip, but I'm hypersensative to these things. The
@@ -47,7 +47,7 @@ admins need different things.
 
 2. Drupal sites reek of drupal.
 
--  Most web programing frameworks reek of themesleves, so this
+- Most web programing frameworks reek of themesleves, so this
 doesn't set Drupal apart, but I think it's particularly bad in the
 case of Drupal. What do I mean like reek? Well, it's that feeling
 of "oh they're running drupal/rails/etc," here that you get 7
@@ -60,7 +60,7 @@ experience.
 
 3. The level of programing know-how needed for setup is non-trivial
 
--  While I think `Wordpress <http://wordpress.org/>`__, which I use a
+- While I think `Wordpress <http://wordpress.org/>`__, which I use a
 lot and rather like, has gone too far in the other direction, [1]_
 the fact that it's so much more complicated to get drupal from the
 box to production, means that people who want to start a site
@@ -74,14 +74,14 @@ To be fair, I've not used the 6.x series of Drupal, but I think there's
 a few broader lessons about creating a product/content and audience,
 that comes from that nagging dread that drupal seems to create:
 
--  It's not clear that drupal knows weather it wants to be a web
+- It's not clear that drupal knows weather it wants to be a web
 framework or a CMS. *Know what you're trying to do, and be clear
 about it.*
--  Different tools for different jobs, rather than one swiss-army knife.
+- Different tools for different jobs, rather than one swiss-army knife.
 *It's good to have related project that are integrated, of course but
 that doesn't mean that you need to only have one program for
 everything in your project.*\  [2]_
--  Create low barriers to entry. I didn't stay with drupal because after
+- Create low barriers to entry. I didn't stay with drupal because after
 a weeks of tinkering with it, I still didn't like what I was seeing,
 so *First impressions count.*
 

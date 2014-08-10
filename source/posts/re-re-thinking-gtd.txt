@@ -23,7 +23,7 @@ one-size-fits-all miricle cure for umproductive and overwhelmed folk; it
 promotes (to my mind) a number of goals that I think are quite
 admirable:
 
--  Have a single system, that integrates across all aspects of your
+- Have a single system, that integrates across all aspects of your
 life. One place where systems can fail is if you're using different
 "databases" (in the non-technical sense) to store information and
 tasks, and you have a piece of information that might fit in either
@@ -32,18 +32,18 @@ it later) the chance of you missing the task because it's on the
 wrong list is much higher if you have more than one place where lists
 might be.
 
--  Think about tasks and projects being broken into "actionable items,"
+- Think about tasks and projects being broken into "actionable items,"
 and have actions be the unit of currency in your system. As you
 assimilate information be sure to record anything that needs doing
 and keep it in your system
 
--  Attach two pieces of metadata to your action: project (what larger
+- Attach two pieces of metadata to your action: project (what larger
 goal does the action help you acomplish; you'll likely have a list of
 these projects), and "contexts" (where do you have to be in order to
 do the action, things like "phone" "office" "erands") are helpful for
 focusing and making it easier to move your projects forward.
 
--  Do regular reviews of the information on your todolists, and spend
+- Do regular reviews of the information on your todolists, and spend
 (an hour?) once a week making sure you're not foregetting things and
 that you've checked off all the actions that you've actually done and
 so forth.
@@ -84,18 +84,18 @@ its largely unintentional.
 I'm interested in hearing where your own systems are, and how you feel
 about GTD these days:
 
--  Do you use GTD or GTD based methodologies for your personal
+- Do you use GTD or GTD based methodologies for your personal
 organization?
 
--  If you only use some which, and why?
+- If you only use some which, and why?
 
--  If you don't use GTD, what system if any do you use?
+- If you don't use GTD, what system if any do you use?
 
--  If you once used GTD but stopped, or have considered using GTD and
+- If you once used GTD but stopped, or have considered using GTD and
 then didn't, I'm particularly interested to learn why you came to
 these conclusions?
 
--  What current factors influence the way that you organize your work?
+- What current factors influence the way that you organize your work?
 
 I hope that covers everyone. I'm particularly interested by how creative
 folks work, but i think in the right light that covers most of us. I

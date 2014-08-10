@@ -28,19 +28,19 @@ it be updatable in a meaningful sort of way. I also want to get a
 number of project that I've been sitting on for a while together and
 published there. Those are:
 
--  The `ikiwiki <http://ikiwiki.info>`__ templates and configuration for
+- The `ikiwiki <http://ikiwiki.info>`__ templates and configuration for
 tychoish.com.
 
--  A general purpose emacs "starter configuration," based on my
+- A general purpose emacs "starter configuration," based on my
 configuration. It would be fairly simple to generate, but I want to
 write a build script so that I can keep it updated as I tweak my own
 configuration. I would also need to write some documentation.
 
--  Similarly, I would like to produce a basic configuration for
+- Similarly, I would like to produce a basic configuration for
 `StumpWM <http://www.nongnu.org/stumpwm/>`__ that would make it
 easier to use Stump.
 
--  A couple of other specifications along the lines of the
+- A couple of other specifications along the lines of the
 `Sygn <http://wiki.cyborginstitute.com/sygn/>`__.
 
 4.  I would like to start dancing regularly with a Morris Dance team.

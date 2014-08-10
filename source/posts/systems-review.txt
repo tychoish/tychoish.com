@@ -48,7 +48,7 @@ Don't do it regularly, even if you know that something isn't working.
 Think of this as something that you do only about twice as often as
 you get a new computer. As part of this major review process:
 
--  Keep a regular journal when you aren't in the process of updating
+- Keep a regular journal when you aren't in the process of updating
 procedures. Track about what works and what doesn't. Often I've found
 that I have ideas about how things should change, but the changes
 aren't the kind of thing that I could reasonably change during normal

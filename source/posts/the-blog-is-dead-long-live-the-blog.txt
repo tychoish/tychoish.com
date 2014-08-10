@@ -25,17 +25,17 @@ even larger impact on the forum.
 I'm not sure, exactly, what the state of things are, but the following
 are the questions I'm asking myself.
 
--  Are blogs simply the default way of publishing serialized/periodical
+- Are blogs simply the default way of publishing serialized/periodical
 content and updates to websites?
 
--  Blogging, at least in my mind, grew out of online-journal
+- Blogging, at least in my mind, grew out of online-journal
 communities, and while there's a lot of division between "bloggers"
 and "journalers" there's a lot of connection. Blogs can be
 self-referential, and first-person, and they can drift between
 multiple threads of the author(s) life. What's the state of
 blogging/journaling?
 
--  Are blogs things that people grow, develop, and build over a long
+- Are blogs things that people grow, develop, and build over a long
 time, or are blogs commodities that serve a specific purpose attached
 to some other purpose. In other words, do people say, I want to
 create a blog, and they have a blog which meanders and continues for
@@ -43,7 +43,7 @@ years, or have blogs become something that people start on a whim in
 response to communities or current events, and then discard when the
 mood passes?
 
--  Do people read blogs? I have a good excuse for being more than a
+- Do people read blogs? I have a good excuse for being more than a
 thousand post behind on my feed reader (moving across the country,
 starting a new job) but I'm pretty sure that blog reading isn't
 exactly flourishing. There are some really well read blogs, of

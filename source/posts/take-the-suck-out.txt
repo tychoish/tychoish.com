@@ -26,7 +26,7 @@ class.
 
 -
 
--  \*
+- \*
 
 .. raw:: html
 
@@ -44,7 +44,7 @@ Women's Studies going to my head.
 
 -
 
--  \*
+- \*
 
 .. raw:: html
 
@@ -61,7 +61,7 @@ values non scientifically obtained knowledge."
 
 -
 
--  \*
+- \*
 
 .. raw:: html
 

@@ -10,7 +10,7 @@ I have an absurd number of tabs open, and I'd like to present some
 interesting reading that I've had on my plate for a while. Nothing
 incredibly current, but all of it's good stuff. For your consideration:
 
--  `Interlaced Knitting
+- `Interlaced Knitting
 Chart <http://www.string-or-nothing.com/content/binary/Interlace.jpg>`__
 from `Kim Salazar <http://www.string-or-nothing.com/>`__ who is a
 master knitter/crafter. I've enjoyed her blog for years, and I keep
@@ -18,7 +18,7 @@ coming back to this pattern and I'm interested in figuring out how to
 integrate it best into the project I'm thinking of working on
 next/soon.
 
--  `This Thread about Package Management in
+- `This Thread about Package Management in
 Emacs <http://lists.gnu.org/archive/html/emacs-devel/2009-09/msg00319.html>`__,
 which is an incredibly essoteric subject, but I think it's a useful
 conversation, and I think something that will--if its
@@ -27,7 +27,7 @@ off specialized instances of "emacs distributions," which I think
 will help emacs be more helpful to more people. I'd like
 multi-threaded support though.
 
--  I've had this article about `Open Source Business
+- I've had this article about `Open Source Business
 Models <http://stephesblog.blogs.com/my_weblog/2009/09/open-source-business-models-redux.html>`__
 open in my browser for weeks, and my mind boggles at it. I tend to
 think that Free Software and Open Source have pretty much the same
@@ -40,7 +40,7 @@ enabled by open source software (i.e. every Internet company, but
 Amazon is a great example of this.) So I'm not really sure how to
 respond to this. But it's there, and now I'm closing that tab.
 
--  `Open Source: The War is
+- `Open Source: The War is
 Over <http://havemacwillblog.com/2009/09/18/open-source-the-war-is-over>`__
 or so one blogger thinks. I actually think there's some truth to the
 idea that proprietary software is mostly a failed project, and most
@@ -51,9 +51,9 @@ are two different things. Furthermore, I'm not sure I'm comfortable
 equating "enterprise adoption of open source," as the singular marker
 of success for Open Source (let alone Free Software).
 
--  `Michael Berube on Cultural Studies in the
+- `Michael Berube on Cultural Studies in the
 Chronicle <http://chronicle.com/article/Whats-the-Matter-With/48334/>`__
--  I guess it's hard to really take me out of the academy. I'm a huge
+- I guess it's hard to really take me out of the academy. I'm a huge
 geek for this kind of stuff still. I guess my thoughts are:
 
 1. Michael Berube might be a great blogger, and I think the thigns he's
@@ -70,12 +70,12 @@ it's pretty unbalanced (English+Sociology) and I think a bit more
 economics and anthropology would be helpful. Berube is on the right
 side of this argument but I think he's too kind to CS on this point.
 
--  `Gina Trapani's Smarterware got a new
+- `Gina Trapani's Smarterware got a new
 look <http://smarterware.org/3226/smarterwares-new-logo-and-design-now-live>`__
 and it's both amazing and I think points out the importance of
 leaving design to the professionals. Good stuff.
 
--  `Against Micropayments and the Media
+- `Against Micropayments and the Media
 Industry <http://www.niemanlab.org/2009/09/micropayments-for-news-the-holy-grail-or-just-a-dangerous-delusion/>`__
 Interesting post, that gets it right. The future of media and
 publishing of all forms is something that I think about more than a

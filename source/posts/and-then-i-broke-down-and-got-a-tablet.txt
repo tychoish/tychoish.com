@@ -13,18 +13,18 @@ I opted for the Motorola Xoom. It's an Android device, I appreciate the
 Motarola build quality, and I'm very pleased with my choice. First
 impressions first:
 
--  Reading on the tablet is great. I have a Kindle, and while I respect
+- Reading on the tablet is great. I have a Kindle, and while I respect
 how lightweight the Kindle is itself. Despite the extra weight, the
 slightly larger screen and the back light is very very nice and very
 welcome.
 
--  I don't expect that I'll be doing a *lot* of writing on the tablet, a
+- I don't expect that I'll be doing a *lot* of writing on the tablet, a
 laptop is never really going to be that far away, but I'm really
 surprised by how easy it is to (*almost*) touch type on the tablet. A
 number of very simple and probably straightforward innovations to the
 keyboard could make things so much better.
 
--  I think all devices need some sort of "don't auto rotate" hardware
+- I think all devices need some sort of "don't auto rotate" hardware
 switch. In fact, I think apple's whole "lets get rid of hardware
 buttons," movement to be really annoying. Buttons should be
 overloaded, sure, but I hate having to hunt through menus to modify
@@ -32,21 +32,21 @@ basic behavior. Having said that, the "software control bar" at the
 bottom of Android 3.0 is brilliant and a good move (given screen
 rotation.)
 
--  I lament not having a Google voice widget for the tablet. Makes sense
+- I lament not having a Google voice widget for the tablet. Makes sense
 that they wouldn't want this for tablets that had data plans, but I
 just have a wifi tablet.
 
--  The Kindle app doesn't let you bookmark your place in periodicals.
+- The Kindle app doesn't let you bookmark your place in periodicals.
 Which might make sense if you were reading the Times, but doesn't
 make a lot of sense when reading fiction magazines with articles in
 the rage of 10k words.
 
--  I'm in love with the calendar application, except for the "full month
+- I'm in love with the calendar application, except for the "full month
 view," in which you scroll by weeks, not by months. Even with this
 glitch, I'm curious as to why there aren't (stand alone) calendar
 applications of this quality for desktops.
 
--  I've tended to use the tablet for situations where I want to have a
+- I've tended to use the tablet for situations where I want to have a
 distraction free experience (usually for reading,) or where I want to
 do "computer things" in a situation where I might need to interact
 with other people. Having a tablet in your lap is more social than a

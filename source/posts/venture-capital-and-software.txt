@@ -25,7 +25,7 @@ I guess I should back up and list the problems *I* have with the VC
 model. And by VC model I mean private investment firms that invest large
 sums of money in "start up" companies. Those issues are:
 
--  Breaking even, even in--say--five years, is exceptionally difficult
+- Breaking even, even in--say--five years, is exceptionally difficult
 from a numbers perspective, let alone turning a profit of any note.
 This is largely because VC funding provides huge sums of money (it is
 after all really hard to give away 20 billion a year in 60-120k a
@@ -33,18 +33,18 @@ year tops.) and so seed sums are larger than they need to be, and
 this has a cascade effect on the way the business and technology
 develops, particularly in unsustainable ways.
 
--  VC-funded start-ups favor proprietary software/technologies, because
+- VC-funded start-ups favor proprietary software/technologies, because
 the payoff is bigger up front, which is often the case. It's hard to
 make the argument that you need seed money for a larger, more slow
 moving product... Small and quick seem to work better.
 
--  The VC-cycle of boom and bust (which is sort of part and parcel with
+- The VC-cycle of boom and bust (which is sort of part and parcel with
 plain-old-capitalism) means that technology development booms and
 busts: so that a lot of projects tank when the market crashes, and
 that the projects that get funded during the booms are (probably
 mostly) not selected for their technological merit.
 
--  VC firms tend to be very responsive to fads and similar trends in the
+- VC firms tend to be very responsive to fads and similar trends in the
 market. (e.g. dot-com bubble, web 2.0, Linux in the mid nineties,
 biotech stuff, etc.) which means that VC firms generate a great deal
 of artificial competition in these markets, which disperses efforts

@@ -24,15 +24,15 @@ Great! Here goes.
 
 You need:
 
--  A repository on your server where your email will "land." This should
+- A repository on your server where your email will "land." This should
 be a git repository that's origin is:
--  A `bare
+- A `bare
 repository <http://www.kernel.org/pub/software/scm/git/docs/git-clone.html>`__
 that is also on your server. These directories should not be web
 accessible, and indeed, technically need not be on the same server
 even, though they need to be always-on servers at static locations,
 so that you can clone repositories on:
--  A repository on your personal computer(s).
+- A repository on your personal computer(s).
 
 Inside of the repository is a great place to keep your scripts (and
 indeed all `settings for mail-related

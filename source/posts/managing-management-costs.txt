@@ -25,16 +25,16 @@ than an approach to design or organization. And the basic premise is:
 "*no matter how complex your organizational problem is, you can probably
 accomplish what you need to by doing less.*\ "
 
--  Feel like you spend too much time reading email, or have too many
+- Feel like you spend too much time reading email, or have too many
 email inboxes to check (personal email, work email, special project
 email, listserv email, facebook email, etc.)? Forward your email into
 one box and filter the hell out of it so that you only read what you
 really have to and it's manageable.
 
--  Feel like you have too many todo lists? Compile them into a single
+- Feel like you have too many todo lists? Compile them into a single
 list and use some sort of tag system to organize it.
 
--  Feel like your notes and documents are scared in too many places?
+- Feel like your notes and documents are scared in too many places?
 Combine them and use some sort of search tool to find things when you
 need them.
 

@@ -19,10 +19,10 @@ get to that point in time, and there's plenty to talk about.
 
 At the moment the features of org-mode that I use the most are:
 
--  org-agenda-mode
--  checkboxes
--  org-remember-mode
--  and org-mode outlines
+- org-agenda-mode
+- checkboxes
+- org-remember-mode
+- and org-mode outlines
 
 I also store org-mode files in a git repository that lives in my home
 folder of all machines that I use with any regularity. I'm running

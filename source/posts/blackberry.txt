@@ -37,17 +37,17 @@ made an iPhone an even less attractive option, and so here I am with a
 blackberry. My response: incredibly positive. Let me go over (in list
 format) what I've done, and how my "system" works:
 
--  I'm using a lot of these web 2.0 apps in a way that I hadn't
+- I'm using a lot of these web 2.0 apps in a way that I hadn't
 previously. Google Calendar [1]_ and Gmail-contacts sync with my
 phone via the `Google BlackBerry
 Sync <http://www.google.com/mobile/sync/>`__, which works great.
--  My email arrives on the BlackBerry via one of two means: someone
+- My email arrives on the BlackBerry via one of two means: someone
 sends something to my work email (which Blackberry accesses via IMAP)
 or someone sends me a message through one of my personal addresses
 and said message passes through a rather complex gmail-filter. I'm
 still tweaking the gmail filter every now and then, but it's it
 works.
--  The blackberry got me really using `Remember the
+- The blackberry got me really using `Remember the
 Milk <http://www.rememberthemilk.com/>`__, in concert with
 `BBrtm <http://bbrtm.org/>`__ and
 `Tasque <http://live.gnome.org/Tasque>`__ on the desktop (which is in
@@ -56,18 +56,18 @@ hear the official blackberry app is less functional, and you have to
 pay for pro-service (25 bucks a year) which I'm not opposed to, but
 I'll need to think about it. Having the offline apps make this a
 really great service, and I'm a huge fan now.
--  I of course, have AIM and Gtalk, set up though I haven't used it
+- I of course, have AIM and Gtalk, set up though I haven't used it
 much. And I have various SMS and MMS-based services set up (you tube
 uploading, twitter, identi.ca) set up, though I haven't turned on the
 "getting messages" part of that yet.
--  I have the opera mini web browser installed and like it a great deal,
+- I have the opera mini web browser installed and like it a great deal,
 but I haven't done a lot of browsing yet, but that's not surprising:
 I don't browse the internet much on my desktop.
--  I have various other things that seem logical to get installed:
+- I have various other things that seem logical to get installed:
 google maps, the facebook app, flickr upload tool, the google search
 tool, the gmail app, but haven't dug into that very much. But I
 suspect these things will be nice to have.
--  For writing and note taking in the wild I have a secret email address
+- For writing and note taking in the wild I have a secret email address
 that routes itself into a "notes" folder (I've used it before with
 `Jott <http://jott.com>`__ and I'm just sending myself emails and
 that seems to work just fine.
@@ -75,21 +75,21 @@ that seems to work just fine.
 Everything else seems a bit borring. Left on my list of phone-related
 things that I'd like to see happen or have left to do:
 
--  Come to some peace about my RSS reading habits, so I can catch up on
+- Come to some peace about my RSS reading habits, so I can catch up on
 things on the phone.
--  Some sort of e-text reading software would be great. Particularly if
+- Some sort of e-text reading software would be great. Particularly if
 there were a good way to get PDFs to appear right on the device. The
 screen's is very readable, and it just makes sense.
--  Even though one of my reasons for getting this and not and iphone was
+- Even though one of my reasons for getting this and not and iphone was
 that I already had an iPod that I liked a lot, I have the perverse
 desire to listen to podcasts and maybe music on this thing. But I
 need to declare bankruptcy on podcast listening first and find some
 way to clean up the pieces there. In that direction, I think the
 Jabra bluetooth headset/controler looks like something worthwhile. As
 would a buttload of MicroSD storage space.
--  I'm using the stock leather holster at the moment for a case, and
+- I'm using the stock leather holster at the moment for a case, and
 it's quite good, but I imagine that something else might be good.
--  I need to spend some time getting, making, and customizing ring
+- I need to spend some time getting, making, and customizing ring
 tones, which is something that I've never done before, but I feel
 needs to be accomplished.
 

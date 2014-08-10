@@ -88,7 +88,7 @@ is something that I'm comfortable with and that has severed me quite
 well, there are a number of inspirations for my switch. Some of them
 have to do with Awesome itself, but most of them have to do with me:
 
--  I want to learn Common Lisp. While I know that emacs' lisp, and
+- I want to learn Common Lisp. While I know that emacs' lisp, and
 Common Lisp aren't the same there are similarities, and Lua was
 something that I've put up with and avoided a lot while using
 Awesome. Its not that Lua is hard, quite the opposite, it's just that
@@ -103,21 +103,21 @@ be used for production-grade types of things, and it's a standard, it's
 not explained from a math-centric [1]_ perspective, and like I said
 reading lisp code makes sense to me. Go figure.
 
--  There are several of quirks with Awesome which get to me:
+- There are several of quirks with Awesome which get to me:
 
--  If you change your configuration, you have to restart the window
+- If you change your configuration, you have to restart the window
 manager. Which wouldn't be a big problem except...
 
--  When you restart, if you have a window that appears in more than one
+- When you restart, if you have a window that appears in more than one
 tag, the window only appears on one tag.
 
--  The commands for awesome are by default pretty "vimmy," and while my
+- The commands for awesome are by default pretty "vimmy," and while my
 current config has been properly "emacsified," you have to do a lot
 of ugliness to get emacs-style chords (e.g. "C-x C-r o a f" or
 Control-x, Control-R, followed by o, a, and f.) which I kind of
 like.)
 
--  Because one of my primary environments is running a virtual machine
+- Because one of my primary environments is running a virtual machine
 (in Virtual Box) on an OS X host, I've run into some problems around
 using the Command/Windows/Mod4 key, and there's no really good way to
 get around this in awesome.

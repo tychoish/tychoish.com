@@ -52,19 +52,19 @@ just a typical call to the ``ssh`` program.
 
 Things to remember:
 
--  If you need to create a tunnel on a local port with numbered lower
+- If you need to create a tunnel on a local port with numbered lower
 than *1000*, you'll need to run the ``autossh`` command as root.
 
--  SSH port forwarding only forwards traffic from a local port to a
+- SSH port forwarding only forwards traffic from a local port to a
 remote port, through an SSH connection. All traffic is transmitted
 over the wire on port 22. Unless you establish multiple tunnels, only
 traffic sent to the specific *local* port will be forwarded.
 
--  Perhaps it's obvious, but there has to be some service listening on
+- Perhaps it's obvious, but there has to be some service listening on
 the specified remote end of the tunnel, or else the tunnel won't do
 anything.
 
--  In a lot of ways, depending on your use case ``autossh``, can obviate
+- In a lot of ways, depending on your use case ``autossh``, can obviate
 the need for much more complex VPN setups for a lot of deployments.
 Put an autossh command in an ``@reboot`` cronjob, with an account
 that has ssh keys generated, and just forget about it for encrypting

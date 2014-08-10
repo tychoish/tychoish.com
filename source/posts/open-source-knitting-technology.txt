@@ -18,17 +18,17 @@ addresses the last of these goals, the "Technological methods of
 attending to such a(n open knitting) project." The total list of goals
 is:
 
--  Is there a layer of information that goes into knitting design
+- Is there a layer of information that goes into knitting design
 and documentation that isn't typically exposed in
 "closed"/conventional publications? (that would be equivalent in
 role to source code)?
 
--  The role of editors and communities and the sometimes very
+- The role of editors and communities and the sometimes very
 "conventional" development models that "open" projects use.
 
--  The way GPL/GFDL knitting projects can be used commercially.
+- The way GPL/GFDL knitting projects can be used commercially.
 
--  Technological methods of attending to such a project.
+- Technological methods of attending to such a project.
 
 One of the biggest challenges that I think faces new collaborative
 projects, is that when you're planning it out you say "we need to end up
@@ -68,7 +68,7 @@ difficult to maintain energy and keep things all together.
 So lets try and import these ideas into a discussion of what an (but
 clearly, not the only,) open source knitting project would look like:
 
--  *A single OSK project shouldn't try and collect* everything *about
+- *A single OSK project shouldn't try and collect* everything *about
 knitting,* for starters this pushes us back to an encyclopedia model,
 and I don't think that's what we need. Particularly in knitting,
 there's too much variation and you'd spend as much time deciding on
@@ -76,7 +76,7 @@ there's too much variation and you'd spend as much time deciding on
 Furthermore, I think there are probably too many different kinds that
 it could work as a single coherent project.
 
--  *Avoid talking about techniques too much:* While most knitters mostly
+- *Avoid talking about techniques too much:* While most knitters mostly
 knit the same way, there's a lot of difference of opinion in terms of
 how to accomplish various kinds of knitting operations. While there
 probably is a need for a collection of these kinds of techniques, and
@@ -100,7 +100,7 @@ better *gestalt.* A technique handbook, in contrast might benefit
 from many perspectives, but probably wouldn't benefit from any sort
 of group process.
 
--  *An OSK project should track version development:* In the software
+- *An OSK project should track version development:* In the software
 world version tracking systems are used to make sure that changes in
 code are tracked as the project progresses, so that changes can
 always be reversed if the "old way" works better than the new way.
@@ -115,7 +115,7 @@ differences (diffs), and work to keep track of and organize the most
 recent version of every file, even if more than one person is editing
 it.
 
--  *An OSK project should create and foster community development:* This
+- *An OSK project should create and foster community development:* This
 is perhaps a bit too obvious; however, I think it should also be said
 that community needs to have a space that's separate from the project
 (make it possible for people to talk, outside of the actual project
@@ -125,7 +125,7 @@ wikipedia's community happens on IRC channels. While its not "a part"
 of wikipedia in the conventional way, I'm sure that wikipedia depends
 on those IRC channels to keep the community functioning.
 
--  *Separate workspace with display space:* I think this point is part
+- *Separate workspace with display space:* I think this point is part
 of my larger objection to using an idealized wiki model for
 development, where the entire website that the "public" (casual user)
 sees is the same as what the "core" (developers) are working on. This

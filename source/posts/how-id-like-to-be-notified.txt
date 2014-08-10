@@ -48,35 +48,35 @@ sort of filtering pipe intweent "messages received" and
 
 **Thoughts on Implementation:**
 
--  XMPP seems like an obvious tool for implementing the backbone of
+- XMPP seems like an obvious tool for implementing the backbone of
 this. From my perspective of a slightly-more-than-casual observer,
 getting one machine to know if a notification has been seen by
 machines is a bit thorny at best.
 
--  Notifications need to tie into the window manager and desktop
+- Notifications need to tie into the window manager and desktop
 experiences. in some sort of unobtrusive way, but also in a way that
 is consistent with that window manager normally works.
 
--  While many notifications will probably be created by sending a simple
+- While many notifications will probably be created by sending a simple
 string to a command, some notifications will probably be generated
 from RSS or JSON feeds, and the best systems would provide some baked
 in support for pulling events from these kinds of data.
 
--  You can get `irssi to send xmpp
+- You can get `irssi to send xmpp
 notifications <http://blogs.osuosl.org/kreneskyp/2009/06/02/irssi-notifications-via-xmpp/>`__,
 which is both incredibly ironic, and kind of awesome, as a building
 block. Also, `this emacs-fu for using lib-notify from emacs might be
 another good starting
 point <http://emacs-fu.blogspot.com/2009/11/showing-pop-ups.html>`__.
 
--  Dumping a firehose of notifications in an XMPP window, might be a
+- Dumping a firehose of notifications in an XMPP window, might be a
 good start, but I think once a notification has been sent (and logged
 and dismissed?), notifications need to disappear forever. Also--and
 this is the point of the filtering--raw events take processing in
 order to be *useful*. The firehose, of anything when exposed to the
 user, isn't particularly useful.
 
--  [insert your thoughts here]
+- [insert your thoughts here]
 
 I will, of course let you know how this goes.
 

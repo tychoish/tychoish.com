@@ -19,19 +19,19 @@ I'm still working on figuring out what this means, and I'm sorry that I
 haven't developed my thinking sufficiently to be more clear on this. In
 light of that here are a collection of my thoughts on representation:
 
--  Whiteness is multiple and I think it's possible (and important) to
+- Whiteness is multiple and I think it's possible (and important) to
 *depict whiteness and white characters critically and without
 recapitulating normalization*. At the same time, it's important to
 avoid falling victim to a lot of the normalization to which
 uncritical representations of racial diversity often fall pray.
 
--  The theory around race and representation must deal with issues
+- The theory around race and representation must deal with issues
 around assimilation. More diversity is useful, but to move forward on
 issues of representation, the field needs to better understand the
 process of assimilation. *I want to see stories that help us unpack
 assimilation.*
 
--  Whiteness is complex and a major problem with stories that "don't do
+- Whiteness is complex and a major problem with stories that "don't do
 race well," is not just that the characters aren't explicitly of
 color, but that whiteness isn't portrayed very well. This is part of
 the struggle of privilege, but *not only does science fiction need to

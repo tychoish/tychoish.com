@@ -16,10 +16,10 @@ been using the same programs for a couple of months now, and I'm
 probably at a record low for complaints and frustrations with this set
 up. So go figure. Here's what I'm using these days.
 
--  **Mail.app** for email. It's clearly not perfect, but I can't imagine
+- **Mail.app** for email. It's clearly not perfect, but I can't imagine
 anything better, and frankly the organization of my incoming email is
 such a tower of cards, that I'm reluctant to change anything.
--  **`DevonThinkPRO <http://www.devon-technologies.com/>`__** for
+- **`DevonThinkPRO <http://www.devon-technologies.com/>`__** for
 database/content management. This is an incredibly powerful program,
 and I continue to use it to store a lot of stuff, though I haven't
 been using it as much recently because I'm not in school and I,
@@ -27,32 +27,32 @@ unfortunately, haven't been doing enough to get to a place where I
 need to use it. For the DTP geeks out there, I'm keeping everything
 in one database that's 1.56 GBs big, with about 1mg of synched text
 and RTF files.
--  **`NetNewsWire <http://www.newsgator.com/Individuals/NetNewsWire/>`__**
+- **`NetNewsWire <http://www.newsgator.com/Individuals/NetNewsWire/>`__**
 and **`Camino <http://www.caminobrowser.org/>`__** for web browsing
 and feed reading. It's how I consume the internet. I suppose I still
 wish that NNW would let me read f-locked LiveJournal entries (which
 some of the other programs do), but other than that, no complaints
 here.
--  **`AdiumX <http://www.adiumx.com/>`__** for chatting. I've been using
+- **`AdiumX <http://www.adiumx.com/>`__** for chatting. I've been using
 Adium since I switched to mac, and it's great, and I think that the
 program has gotten even better, particularly recently, so check it
 out.
--  `**MarsEdit** <http://ranchero.com/marsedit/>`__ Great program for
+- `**MarsEdit** <http://ranchero.com/marsedit/>`__ Great program for
 offline editing. I find that I've taken to doing a lot of my editing
 in web-interfaces these days, and at least theoretically TextMate
 could prevent some of this, but a lot of my postings are time
 delayed, so that's not really a problem. And I'm checking stats on
 the web-pannel's anyway, so again, not a big deal. It's still great
 software.
--  `**Pukka** <http://codesorcery.net/pukka>`__ for del.icio.us posting.
+- `**Pukka** <http://codesorcery.net/pukka>`__ for del.icio.us posting.
 It's small and it works great. Can't argue with that. I don't post to
 `my del.icio.us <http://del.icio.us/tychoish/>`__ enough, but that's
 another problem.
--  `**VLC** <http://www.videolan.org/vlc/>`__ for playing videos. All
+- `**VLC** <http://www.videolan.org/vlc/>`__ for playing videos. All
 videos, without complaining. Great stuff.
--  **Preview.app** for reading PDFs, because I just don't like the other
+- **Preview.app** for reading PDFs, because I just don't like the other
 programs enough, and I figure, it's best to leave well enough alone.
--  **Terminal.app** for `bash
+- **Terminal.app** for `bash
 shell <http://en.wikipedia.org/wiki/bash>`__ goodness. It's sort of
 surprising how much shell stuff I've gotten into in the past couple
 of months. It's been nice to be able to figure out how to do some
@@ -62,16 +62,16 @@ I were a bit more hardcore about it, but I'm learning slowly.
 A couple of programs that I like and keep, but don't find myself using
 very much this summer. I expect that I'll get back into some of them.
 
--  **`WriteRoom <http://www.hogbaysoftware.com/projects/writeroom>`__**
+- **`WriteRoom <http://www.hogbaysoftware.com/projects/writeroom>`__**
 for distraction free writing. It's basically a big black screen with
 big green lettering that auto scrolls. It's simple, yes, but I really
 like how this software can allow me to be productive at odd times. I
 have to say that
--  **`Quicksliver <http://quicksilver.blacktree.com>`__** I haven't been
+- **`Quicksliver <http://quicksilver.blacktree.com>`__** I haven't been
 using QS as much recently, I'm not sure why. I think that a lot of
 the things I have been using QS for in the past, I do with the shell
 anyway. Go figure.
--  **`Growl <http://growl.info/>`__** for system wide notifications. I
+- **`Growl <http://growl.info/>`__** for system wide notifications. I
 sometimes turn it off and forget to turn it back on. It's great to
 get notifications of what's going on on your computer so that you're
 aware of what's happening, and then can keep on working on what
@@ -80,7 +80,7 @@ or Emails or download compilations, and so forth.
 
 And saving the biggest and best for last:
 
--  **[TextMate](http://macromates.com/ "TextMate ‚Ä" The Missing Editor
+- **[TextMate](http://macromates.com/ "TextMate ‚Ä" The Missing Editor
 for Mac OS X")** I use this program constantly, and it's great. I've
 changed a lot of things in response to this program, and I rather
 like it a lot. It's nice to have all this power in such an intuitive

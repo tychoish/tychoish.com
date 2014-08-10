@@ -14,10 +14,10 @@ Maybe I've read too much by `Red Monk <http://redmonk.com/>`__ folks,
 but they tend take a very productive approach to these kinds of things.
 For reference, my posts on the subject are:
 
--  `Caring about
+- `Caring about
 Java <http://criticalfutures.com/2011/02/caring-about-java/>`__ and
 
--  `Where is Java
+- `Where is Java
 Today <http://criticalfutures.com/2010/03/where-is-java-today/>`__
 
 Most "end-users" don't really care much about things like Java except

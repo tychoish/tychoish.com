@@ -79,13 +79,13 @@ esoteric list of links to the theory/philosphy blogs that are in my news
 reader and that I've been reading, at least cursorily for the past few
 months:
 
--  `Larval Subjects <http://larvalsubjects.wordpress.com/>`__
--  `RoughTheory <http://www.roughtheory.org>`__
--  `Foucault is Dead <http://foucaultisdead.wordpress.com/>`__
--  `Differences and Repetitions <http://striphas.blogspot.com/>`__
--  `Read Thread(s) <http://redthreads.blogspot.com/>`__
--  `The Diff√©rance Engine <http://thedifferanceengine.typepad.com/>`__
--  `schizzes and flows <http://schizzesandflows.typepad.com/>`__
+- `Larval Subjects <http://larvalsubjects.wordpress.com/>`__
+- `RoughTheory <http://www.roughtheory.org>`__
+- `Foucault is Dead <http://foucaultisdead.wordpress.com/>`__
+- `Differences and Repetitions <http://striphas.blogspot.com/>`__
+- `Read Thread(s) <http://redthreads.blogspot.com/>`__
+- `The Diff√©rance Engine <http://thedifferanceengine.typepad.com/>`__
+- `schizzes and flows <http://schizzesandflows.typepad.com/>`__
 
 Enjoy, and I'll be back in a week with something more substantive!
 

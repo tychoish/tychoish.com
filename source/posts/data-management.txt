@@ -42,22 +42,22 @@ In any case here are a list of features that I consider important for
 such a program and the task that I hope to accomplish with said
 features:
 
--  *Web Cliping* when I run across something on the internet that is
+- *Web Cliping* when I run across something on the internet that is
 important to a project I'm working on, I want to be able to capture
 it to the database for later reference. The clip should capture key
 bibliographic data (URL, time, title, etc.) and keep this exposed to
 me so I can easily incorporate the information into what I'm working
 on without needing to either have a connection to the internet or
 trace down the source for a second time.
--  Mange *multiple formats*, including PDF, HTML, and plain text.
--  Needs to *rely on external editing/viewing programs*. I really like
+- Mange *multiple formats*, including PDF, HTML, and plain text.
+- Needs to *rely on external editing/viewing programs*. I really like
 the programs I use to edit files, and don't really want to use some
 special wrapper on top of TextEdit.
--  Needs to keep the *data/files exposed* to the directory structure,
+- Needs to keep the *data/files exposed* to the directory structure,
 and keep synchronized with this. If I change a file name/title in the
 database it needs to propagate down the line. DTP will *almost* do
 this, if you index files, but it means keeping a finder open window.
--  *Something not Kludgey.* As I've been writing this, I managed to hack
+- *Something not Kludgey.* As I've been writing this, I managed to hack
 together a shell script that does like eighty percent of what I need
 (in concert with `ikiwiki <http://ikiwiki.info/>`__, which I already
 use), but it's ugly, and doesn't do a very good job of capturing the

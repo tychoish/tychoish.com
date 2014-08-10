@@ -48,13 +48,13 @@ Regardless, while madalu is probably right, I don't think it matters.
 Android is largely orthogonal to the adoption of Linux. The bigger
 questions are:
 
--  Does Microsoft have a tablet strategy? Really? The last time Linux
+- Does Microsoft have a tablet strategy? Really? The last time Linux
 made headway into users' hands (i.e. netbooks,) Microsoft changed
 strategies, and not only pushed Linux-based systems out of the
 market, but they also basically killed the device class. Netbooks
 really aren't a thing anymore.
 
--  How close are we to tablet-like (or tablet-derived) devices from
+- How close are we to tablet-like (or tablet-derived) devices from
 replacing general purpose computers for some classes of day to day
 activity. I suspect corporate machines will be the first to fall
 (more constrained/specific use cases; tablet systems give IT

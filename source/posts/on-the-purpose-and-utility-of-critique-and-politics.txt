@@ -36,14 +36,14 @@ what I think the critical mode is.
 Feel free (and encouraged) to disagree, but lets do a little bit of
 brainstorming on what makes good critique or bad critique:
 
--  *Critique is synthetic.* Critique really needs to draw together
+- *Critique is synthetic.* Critique really needs to draw together
 multiple perspectives and sources. You can't critique something
 without consulting previous critical literature (this is why theory
 is necessary, without it, we are contextually adrift), without
 consulting similar and dissimilar works. Critique is the mode through
 which all of these perspectives come together.
 
--  *Critique is often positive.* It's very easy to assume that the
+- *Critique is often positive.* It's very easy to assume that the
 purpose of critique is to go through some abominable text [2]_ and
 tear it to shreds, and often this is enjoyable, but it is not
 productive. "Bad" and otherwise objectionable content will either
@@ -54,12 +54,12 @@ instructive to consumers and producers of content. This doesn't mean
 that critique has to be unequivocally positive--far from it--but if
 there isn't a substantial positive outlook, the critique suffers.
 
--  *Critique doesn't pass judgement;* critique that passes judgment is
+- *Critique doesn't pass judgement;* critique that passes judgment is
 called "review" and I think "review" has a different role and mold.
 It's unfortunate that people who produce in both modes are called
 "critics."
 
--  *Critique is contextual:* This is sort of an adjunct statement to the
+- *Critique is contextual:* This is sort of an adjunct statement to the
 first, but I think it's important to realize that critique that
 doesn't contextualize both the works in question, and the moment of
 critique is useless. This is also, potentially controversial, but I
@@ -67,18 +67,18 @@ don't suspect we have very many New Critics in the audience. Texts
 and critics don't exist in a vacuum, and criticism can't either. From
 this principal springs a couple of subsidiary values:
 
--  Paradoxically, readers of criticism need not be familiar with the
+- Paradoxically, readers of criticism need not be familiar with the
 texts your addressing, though they are likely familiar with the
 larger body of work that the texts belong to.
 
--  Critics can't hold individual works accountable for "their times,"
+- Critics can't hold individual works accountable for "their times,"
 nor can critics rise above the constraints of *their times* in
 criticism. Attempts to violate these rules are almost always tragic.
 
--  *Critique has an agenda:* People don't create texts or critique those
+- *Critique has an agenda:* People don't create texts or critique those
 texts without an agenda. Period.
 
--  *Critique has data,* that is to say "texts." One cannot critique
+- *Critique has data,* that is to say "texts." One cannot critique
 abstract objects, or at least I doubt that it could do that very
 well. Particularly when specific texts are at the *heart* the
 critics' work. For instance you can't critique victorian gender
@@ -88,11 +88,11 @@ period. You can't critique a political campaign, but you can critique
 the marketing strategy vis a vis the advertising of various
 candidates.
 
--  Often the more specific the data is the better.
--  Often it's hard to get all the data surrounding contemporary texts
+- Often the more specific the data is the better.
+- Often it's hard to get all the data surrounding contemporary texts
 and phenomena. This requires special considerations.
 
--  *Critique is a pathway to understanding:* Looking for and elucidating
+- *Critique is a pathway to understanding:* Looking for and elucidating
 mechanisms behind particular literary/artistic/cultural phenomena is
 one of the most powerful and important goals of critique.
 

@@ -39,14 +39,14 @@ think there's more.
 So this "type" fabrication is mostly in jest, but it has brought up a
 number of more serious concerns:
 
--  Craft, largely because of it's association with women, is devalued,
+- Craft, largely because of it's association with women, is devalued,
 and crafters as a result. Also the latest commercial revival hasn't
 helped: Stitch and Bitch, and the Discovery Channel daytime
 programing all reinscribe craft on women-ness and while this is sells
 product, recruits new knitters, and is empowering and feels great,
 I'm not sure that it's the best thing to elevate the craft.
 
--  More knitter's doesn't equal more power/respect for the craft of
+- More knitter's doesn't equal more power/respect for the craft of
 knitting. Arguably, a smaller proportion of the population knits
 today than did 40 or 80 years ago, so I don't think making
 knitting "bigger" is the same as getting power/respect. Not that
@@ -54,7 +54,7 @@ it's a bad thing that new people knit and that the craft grows,
 but that if you want to talk about changing the craft in any
 meaningful way, you have to do more.
 
--  I do a lot of things that others consider to be creative: I write, I
+- I do a lot of things that others consider to be creative: I write, I
 knit and spin, I dance, etc. People sometimes, particularly in
 knitting contexts, ask if I'm (was, trying to be) in graduate school
 for art, right after they're awed by the creativity of my sweaters,

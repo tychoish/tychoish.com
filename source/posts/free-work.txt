@@ -12,29 +12,29 @@ tweaking some of the issues raised in [[site-improvements]], and trying
 to rock *getting things done*. In the mean time I have a few links to
 share.
 
--  `The Everyday Lives Of Video Game
+- `The Everyday Lives Of Video Game
 Developers <http://journal.transformativeworks.org/index.php/twc/article/viewArticle/73/76>`__
 
--  `The Price of
+- `The Price of
 Free <http://www.socialtextjournal.org/periscope/2009/11/the-price-of-free-1.php>`__
 - This article, and the one before, are both open on my "things to
 read list. Imagine that's what I'm doing this afternoon.
 
--  `Branchable <http://www.branchable.com/>`__ - ikiwiki (like the wiki
+- `Branchable <http://www.branchable.com/>`__ - ikiwiki (like the wiki
 that powers this site) hosting service, based on publicly available
 tools. I kinda want to set up a branchable instance.
 
--  `Pybtex <http://pybtex.sourceforge.net/>`__ - a python/yaml drop in
+- `Pybtex <http://pybtex.sourceforge.net/>`__ - a python/yaml drop in
 replacement for BibTeX, which is really cool, and I suspect that this
 will probably be my next citation management tool. I've been looking
 for one for a long time.
 
--  `Kindle Feeder <http://kindlefeeder.com/>`__ - a tool to crawl your
+- `Kindle Feeder <http://kindlefeeder.com/>`__ - a tool to crawl your
 feeds and move them to your kindle. I'm currently sifting through my
 feeds and seeing what might make sense to read on the kindle. Might
 as well, and the automatic delivery makes a lot of sense.
 
--  I played with
+- I played with
 `ehsell <http://www.emacswiki.org/emacs/CategoryEshell>`__ for the
 first time today in response to `this
 post <http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/>`__,

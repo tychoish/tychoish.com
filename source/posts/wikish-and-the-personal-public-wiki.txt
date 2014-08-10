@@ -22,7 +22,7 @@ relevantly, I also used a wiki--much like this one and the others I am
 responsible for--as the system I used for storing everything in my
 brain. From these experiences I've come to the following conclusion:
 
--  In any given wiki, most of the "work," particular at the beginning,
+- In any given wiki, most of the "work," particular at the beginning,
 is accomplished by a very small number of contributors. Potentially
 only one contributor.
 
@@ -31,25 +31,25 @@ start a wiki and you want it to succeed, you have to be ready to do all
 of the work of getting it to critical mass, which could take a long
 time. Fair warning.
 
--  Wikis are incredibly unstructured. It's easy to impose structure on a
+- Wikis are incredibly unstructured. It's easy to impose structure on a
 new wiki, in cases where structure will actually hinder growth and
 development rather than promote development. Particularly if the kind
 of content you hope to develop is wiki like. For personal
 organization tasks, wikis are often *not the right answer*, even if
 they appear to work for a long time.
 
--  Creating a page in a wiki is often better and more effective than
+- Creating a page in a wiki is often better and more effective than
 writing an email of some length (say, more than 250 words),
 particularly when more than two people are involved in the
 correspondence.
 
--  I need another wiki like I need a hole in the head. *But*, I like
+- I need another wiki like I need a hole in the head. *But*, I like
 that wikish is both public--you all can watch and contribute to what
 I'm working on--and focused on what I'm working on. The personal
 wiki, the one that was just for internal use suffered from lack of
 audience even an imagined audience.
 
--  I think putting the novella that I wrote in late 2007 into a wiki and
+- I think putting the novella that I wrote in late 2007 into a wiki and
 working on revisions and tweaks in that context makes a great deal of
 sense, and I think wikish feels like the "right place" to put that
 work.

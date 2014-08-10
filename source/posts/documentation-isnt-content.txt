@@ -27,12 +27,12 @@ on line.
 Consider the following assumptions that we can make about most forms of
 content on the web:
 
--  The basic unit of content is pretty short. 1000-1500 tops is the
+- The basic unit of content is pretty short. 1000-1500 tops is the
 upper boundary for most blog posts and articles, and while some kinds
 of content can sneak by with slightly longer units--particularly in
 well structured contexts--these are exceptions.
 
--  Most content on the web is time-sensitive. While everything gets
+- Most content on the web is time-sensitive. While everything gets
 archived, the focus of publication is often on volume, which
 increases the chance of producing something that "goes viral" and
 gets a lot of attention. All other things being equal, the most
@@ -41,7 +41,7 @@ publication processes and the most regular publication cadences.
 After a short period of time, what's in the site archives is probably
 largely irrelevant.
 
--  Given the way that some content competes with other content, success
+- Given the way that some content competes with other content, success
 is often determined by specialization, and the tightness of focus.
 It's easier to be the loudest voice in a very small room than it is
 to be the loudest voice in a large room or a lot of small rooms.
@@ -50,13 +50,13 @@ interests.
 
 in contrast:
 
--  Documentation texts tend to be pretty long, and while there are some
+- Documentation texts tend to be pretty long, and while there are some
 "quick reference"-scoped texts, and some very complete texts that are
 quite long, on average documentation is substantially longer than
 "content." This means it needs to be produced differently, and we can
 expect different usage patterns.
 
--  In general people don't read documentation. This isn't just that
+- In general people don't read documentation. This isn't just that
 people don't "rtfm," but that if generally people's interaction with
 a piece of documentation begins with a specific question or problem.
 They don't say "oh, that manual for ``$xvz`` product looks
@@ -69,7 +69,7 @@ documentation exist and be complete, but we should have no illusions
 that people read *any* documentation from beginning to end as "clean
 slates."
 
--  Documentation is always already very tightly focused, unlike content.
+- Documentation is always already very tightly focused, unlike content.
 While some technical publishers may publish "second hand
 documentation," and thus be able to focus on documenting different
 aspects of the user experience, most documentation producers must aim

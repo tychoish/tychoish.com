@@ -95,7 +95,7 @@ without value.
 
 5. Maintain a list of what packages you want to install on your system:
 
--  X11 Dependencies
+- X11 Dependencies
 
 Lets not talk about how long it's taken for me to remember to install
 the X11 keyboard and mouse drivers:
@@ -104,14 +104,14 @@ the X11 keyboard and mouse drivers:
 
 xf86-input-keyboard xf86-input-mouse
 
--  Additional package management tools
+- Additional package management tools
 
 The ``abs`` tool provides a BSD-ports like interface for building
 packages, while the
 'yaourt``tool makes it easy to make and build  packages from the [Arch User Repository][aur] (AUR.) Typically I use  [yaourt][] to download a package and then build it in the``\ abs\ ``directory. Make sure you've installed``\ base-devel\`
 as well, because you'll want to eventually.
 
--  Music Applications
+- Music Applications
 
 I use the `music player
 daemon <http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki>`__ and a
@@ -122,7 +122,7 @@ packages as a matter of course.
 
 mpd mpc gmpc alsa-utils jack-audio-connection-kit
 
--  The tychoish Tool Chain
+- The tychoish Tool Chain
 
 Your specific list of "tools that you must have in order to function
 properly," probably varies a bit. Here's mine (some packages are from
@@ -142,7 +142,7 @@ urxvt-daemon (``urxvtc``) if there's a daemon already running, and
 starts a daemon and opens a window if there isn't. ``htop`` is a
 system process monitor.
 
--  Email Tool Chain
+- Email Tool Chain
 
 I use the following packages to manage my email:
 
@@ -160,7 +160,7 @@ lbdb mutt-sidebar
 build <http://aur.archlinux.org/packages.php?ID=7168&detail=1>`__ to
 get the best mail-reading client in the world.
 
--  Window Management
+- Window Management
 
 Arch is great for having pretty good support and inclusion of
 up-to-date packages for esoteric window managers. The sequence for
@@ -193,7 +193,7 @@ Put the following code in your ``~/.sbcl`` file:
 And you should be good. Configure your ``.xinitrc`` to your liking,
 and make sure your have a ``.stumpwmrc``.
 
--  Networking Tools
+- Networking Tools
 
 To manage my own connections and connect to the OpenVPN I use
 `netcfg <http://netcfg.sourceforge.net/k>`__ and OpenVPN. This
@@ -224,7 +224,7 @@ SSH connections.
 
 sshd: ALL
 
--  Spelling Correction
+- Spelling Correction
 
 This always frustrates me, though I understand the logic. Install the
 following three packages to get spelling support thought the system:

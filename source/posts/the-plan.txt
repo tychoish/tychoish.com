@@ -19,7 +19,7 @@ At the same time, I *probably* won't have the time to do my usual
 writing cram over the weekend to make sure that there are fun and
 interesting posts for you during the week. So here's the deal:
 
--  There'll be new `critical futures <http://criticalfutures.com/>`__
+- There'll be new `critical futures <http://criticalfutures.com/>`__
 stories posted every weekday for the next two weeks. *This won't
 change*, fear not. - I'll post new things here, through the weekend.
 - I'll probably take a brief tychoish vacation for a couple of days
@@ -32,9 +32,9 @@ Because I doubt that administrivia is what you all came here to read, I
 think I'll pass along some links and thoughts and questions that you
 might enjoy.
 
--  The cats are still nibbling toes. This remains *not cute,* though
+- The cats are still nibbling toes. This remains *not cute,* though
 they haven't gotten this memo yet.
--  Though I'm only really interested in talking about electoral politics
+- Though I'm only really interested in talking about electoral politics
 in the `historical
 sense <http://tychoish.com/rhizome/johnson-or-bush/>`__, or as a
 venue for placing friendly bets, [1]_ but I'm not going to lie `this
@@ -43,18 +43,18 @@ funny <http://seantevis.com/kansas/3000/running-for-office-xkcd-style/>`__.
 "*This is the **internet**!*\ " heh. Actually I'm more worried that
 someone has cracked `Randall's <http://xkcd.com/about/>`__ secret
 sauce
--  A `git-wiki <http://atonie.org/2008/02/git-wiki>`__ that really
+- A `git-wiki <http://atonie.org/2008/02/git-wiki>`__ that really
 rocks. It's still early on development, and it's lacking some
 features that would make it useable *for me* at the moment, but I can
 totally see a place for such a thing for some future projects.
 
--  The ruby guys are totally awesome, and I like a lot of ruby
+- The ruby guys are totally awesome, and I like a lot of ruby
 projects, and I think that in some ways ruby is going to be the
 "next php," even I have a soft spot in my heart [2]_ for Python,
 but I said to `chris <http://www.cgkreality.com/>`__ the other day
 that "ruby is the visual basic of our generation."
 
--  I'm thinking of starting to hard wrap columns in my text files,
+- I'm thinking of starting to hard wrap columns in my text files,
 because it would make running diffs and file histories easier,
 grepping is easier, it makes the text more spatially consistent, it
 would make using vim easier, and so forth but I seem to *really*
@@ -63,7 +63,7 @@ enjoy changing the window size a lot, and
 is probably right, there's *very little* practical value, and hitting
 ^Q for a vestige seems ill advised. That doesn't mean I won't try it,
 you read my post about my email after all.
--  I just finished reading "`Star Surgeon
+- I just finished reading "`Star Surgeon
 podiobooks <http://www.podiobooks.com/title/star-surgeon>`__," a
 delightfully quirky public domain science fiction novel by Alan E.
 Norse, and read by my friend `Scott

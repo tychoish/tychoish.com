@@ -8,14 +8,14 @@ Micro Events
 I've been enjoying blogging over on the `micro tychoish
 site <http://tychoish.com/>`__ and thought I'd catalog these posts here.
 
--  `A Day in the
+- `A Day in the
 Life <http://m.tycho.co/post/54351036192/a-day-in-the-life>`__
 
--  `Software Packaging <http://m.tycho.co/post/53765447068>`__
+- `Software Packaging <http://m.tycho.co/post/53765447068>`__
 
--  `Personal Software Change <http://m.tycho.co/post/53365946424>`__
+- `Personal Software Change <http://m.tycho.co/post/53365946424>`__
 
--  `Small Data <http://m.tycho.co/post/53365946424>`__
+- `Small Data <http://m.tycho.co/post/53365946424>`__
 
 More to come!
 

@@ -17,7 +17,7 @@ think every documentation publishing system [1]_ should have.
 Requirements
 ------------
 
--  **Tag System**. You have to be able to identify and link different
+- **Tag System**. You have to be able to identify and link different
 pieces of content together in unique and potentially dynamic ways
 across a number of dimensions. Tagging systems, particularly those
 that can access and create lists of "other posts with similar tags,"
@@ -27,7 +27,7 @@ way of supporting multiple tag namespaces. Also operations affecting
 tags need to be really efficient, from the users and software's
 perspective, or else it won't work at realistic scales.
 
--  **Static Generation**. Content needs to be statically generated.
+- **Static Generation**. Content needs to be statically generated.
 There are so many good reasons to have static repositories. It allows
 you to plan releases (which is good if you need to coordinate
 documentation releases with software releases) most documentation
@@ -35,7 +35,7 @@ changes infrequently. The truth is this feature alone isn't *so*
 important, but static generation makes the next several features
 possible or easier.
 
--  **Development Builds**. As you work on documentation, it's important
+- **Development Builds**. As you work on documentation, it's important
 to be able to see what the entire resource will look like when
 published. This is a mass-preview mode, if you will. The issue here,
 is that unlike some kinds of web-based publications, documentation
@@ -45,7 +45,7 @@ peculiar ways. These test builds need to be possible locally, so that
 work isn't dependent on a network connection, or shared
 infrastructure.
 
--  **Verification and Testing**. While building "self-testing"
+- **Verification and Testing**. While building "self-testing"
 documentation is really quite difficult (see also
 [[technical-writing/dexy]],) I think publication systems should be
 able to do "run tests" against documents and provide reports, even if
@@ -55,7 +55,7 @@ idea to be able to verify that certain conventions are followed in
 terms of formatting: trailing white space, optional link formats,
 tagging conventions, required metadata, and so forth.
 
--  **Iteration Support**. Documents need to be released and revised on
+- **Iteration Support**. Documents need to be released and revised on
 various schedules as new versions and products are developed.
 Compounding this problem, old documentation (sometimes,) needs to
 hang around for backwards compatibility and legacy support. Document
@@ -64,27 +64,27 @@ or establish pointers that say "the new version of this document is
 located *here*." It's possible to build this off of the tag system,
 but it's probably better for it to be a separate piece of data.
 
--  **Version Control**. These systems are great for storing content,
+- **Version Control**. These systems are great for storing content,
 facilitating easy collaboration, and supporting parallel work. Diffs
 are a great way to provide feedback for writers, and having history
 is useful for being able to recreate and trace your past thinking
 when you have to revisit a document or decision weeks and months
 later.
 
--  **Lightweight Markup**. It's dumb to make people write pure XML in
+- **Lightweight Markup**. It's dumb to make people write pure XML in
 pretty much every case. With
 `rst <http://docutils.sourceforge.net/rst.html>`__,
 `markdown <http://daringfireball.net/projects/markdown/>`__, and
 `pandoc <http://johnmacfarlane.net/pandoc/>`__ the like there's no
 reason to write XML. Ever. of story End.
 
--  **Renaming and Reorganization**. As document repositories grow and
+- **Renaming and Reorganization**. As document repositories grow and
 develop, it seems inevitable that the initial sketch of the
 organization for the body of work change. Documents will need to be
 moved, URLs will need to be redirected or rewritten, and links will
 need to be updated. The software needs to support this directly.
 
--  **Workflow Support**. Documentation systems need to be able to
+- **Workflow Support**. Documentation systems need to be able to
 facilitate editorial workflows and reviews. This should grow out of
 some combination of a private tag name space and a reporting feature
 for contributions, which can generate lists of pages to help groups

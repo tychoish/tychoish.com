@@ -8,7 +8,7 @@ Interview with Judy Stein
 
 Here's another interview for the interview series file. Enjoy!
 
--  **Who are you? What do you?**
+- **Who are you? What do you?**
 
 I've had lots of jobs, but at the moment I only have three: running a
 folk club, host= ing a radio show, and teaching ballad-singing at the
@@ -39,11 +39,11 @@ pragmatism even stronger, and too much nitpicky defining and speculation
 becomes boring to= me fairly quickly. Also there is a heavy-handedness
 that goes with too muc= h categorizing; I like exceptions to rules.
 
--  **Jet Packs or Hovercars?**
+- **Jet Packs or Hovercars?**
 
 They both sound like fun!
 
--  **Lets talk about technology: What kind of technology do you use, and
+- **Lets talk about technology: What kind of technology do you use, and
 what's the coolest thing that technology enables for you? What about
 your technology do you find frustrating?**
 
@@ -55,7 +55,7 @@ disappointing: they don't move fast enough. Cellphones are a mixed
 blessing too: they always need charging, and people expect you to HAVE
 one.
 
--  **Favorite song at the moment? Tune? Who are the runners up?**
+- **Favorite song at the moment? Tune? Who are the runners up?**
 
 Song, at the moment: Dick Gaughan singing "Fair Flooer of
 Northumberland" or Louis Killen singing "April Morning." or Peter
@@ -70,30 +70,30 @@ sometimes. There is no why; there usually isn't, with what I like. I
 could come up with one if I tried, but I am not by na= ture very
 introspective.
 
--  **Favorite Website?**
+- **Favorite Website?**
 
 Wikipedia, for one. YouTube. Gutenberg Press. Sky and Telescope. Amazon.
 
--  **What do you think was the most important event of the last 15
+- **What do you think was the most important event of the last 15
 years?**
 
 The ongoing growth of the Internet--a new Wild West. :D
 
--  **One thing that you're most looking forward to in the next year?**
+- **One thing that you're most looking forward to in the next year?**
 
 Reclaiming a few lost skills (see the first question)
 
--  **One thing that you wish you could learn?**
+- **One thing that you wish you could learn?**
 
 Gardening. Actually, I'm not sure "wish" is the correct word: if I want
 to know something I can get a fair start on doing it. But I do intend to
 try my hand at making a proper garden next spring.
 
--  **Doctor Who v. Red Dwarf?**
+- **Doctor Who v. Red Dwarf?**
 
 Dr. Who: mostly because I've never seen Red Dwarf but maybe once...
 
--  **Where can we find more about you/your projects?**
+- **Where can we find more about you/your projects?**
 
 `The Focal Point <http://www.thefocalpoint.org>`__; `The
 LiveJournal <http://metallumai.livejournal.com>`__; `Folk

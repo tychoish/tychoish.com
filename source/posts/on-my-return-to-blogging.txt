@@ -19,13 +19,13 @@ relationship to this blog has grown and changed a lot in that time and I
 don't think it's useful to really think about all the turns *too* much,
 but the recent developments are novel:
 
--  I write for a living, and have pretty consistently for the last 4-ish
+- I write for a living, and have pretty consistently for the last 4-ish
 years (holy crap!) It's not exactly that I'm burnt out on writing,
 but it does mean that I write differently now, which is a good thing,
 but I don't always have the same ability to sit down after work and
 want to write more, for fun.
 
--  I noticed that blogging rigorously meant that I didn't really have
+- I noticed that blogging rigorously meant that I didn't really have
 time to work on "research" projects, which is to say, I was putting a
 lot of energy into writing about ideas and theories but not too much
 time into actually doing things.
@@ -38,7 +38,7 @@ I think I can stand by what I said, but I think my understanding and
 knowledge of documentation has grown a lot for the experience of working
 on it.
 
--  To continue on this theme, the programming projects I've been working
+- To continue on this theme, the programming projects I've been working
 on, which I haven't blogged about too much here, have been helpful in
 teaching me a lot about software development, (which I've long been
 fascinated by,) which improves the documentation I write and the way

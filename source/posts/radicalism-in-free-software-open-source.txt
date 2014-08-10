@@ -8,13 +8,13 @@ Radicalism in Free Software, Open Source
 
 The background:
 
--  `zonker on Selling vs.
+- `zonker on Selling vs.
 Shaming <http://www.dissociatedpress.net/2009/10/10/selling-vs-shaming/>`__
 
--  `bkuhn on Denouncing vs. Advocating: In Defense of the Occasional
+- `bkuhn on Denouncing vs. Advocating: In Defense of the Occasional
 Denouncement <http://www.ebb.org/bkuhn/blog/2009/10/11/denouncing-v-advocating.html>`__
 
--  Various other conversations on `identi.ca <http://www.identi.ca/>`__
+- Various other conversations on `identi.ca <http://www.identi.ca/>`__
 over the past few weeks.
 
 --------------

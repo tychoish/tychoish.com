@@ -12,9 +12,9 @@ if you will. Some of these pieces I have thoughts about and i'll include
 notes regarding this, but for the most part I just have some resources
 that I found helpful and/or interesting. Enjoy!
 
--  `Steam Punk Magazine <http://www.steampunkmagazine.com/>`__
+- `Steam Punk Magazine <http://www.steampunkmagazine.com/>`__
 
--  This, ironically, is what started the series. I really like what
+- This, ironically, is what started the series. I really like what
 SPM has done, and their publication is really quite good looking.
 It's all PDF and not "digital" except under the strictest of
 technicalities. This isn't a bad thing, but when reading it I
@@ -23,33 +23,33 @@ and it's not really digital, what does this say about the
 possibility for digital production?" And I continue to think that
 this is an important question to ask.
 
--  `Cory Doctorow Writes About digital
+- `Cory Doctorow Writes About digital
 Reading <http://www.locusmag.com/Features/2007/03/cory-doctorow-you-do-like-reading-off.html>`__
 
--  Cory Doctorow, is I think working from the very front of a lot of
+- Cory Doctorow, is I think working from the very front of a lot of
 the questions about digital media consumption and production. Most
 of his work, at least what he is known for, is all about digital
 intellectual property, but this article about reading from
 computer screens is quite good.
 
--  `Persistent.info <http://blog.persistent.info/>`__
+- `Persistent.info <http://blog.persistent.info/>`__
 
--  This is just another blog, written by a Google employee, and I
+- This is just another blog, written by a Google employee, and I
 include it here because I like the way that the blog posts arrange
 themselves in columns if the window width gets to be too big. The
 CSS wouldn't work if the text were much longer than it is in the
 posts for this site, but it's a nifty idea, none the less.
 
--  `Textual Instruments <http://turbulence.org/Works/twotxt/>`__
+- `Textual Instruments <http://turbulence.org/Works/twotxt/>`__
 
--  A site that has a couple of nifty looking hypertexts, worth
+- A site that has a couple of nifty looking hypertexts, worth
 checking out. I haven't *actually* had time to read them yet,
 unfortunately.
 
--  `Fiction Markup
+- `Fiction Markup
 Language <http://www.banapana.com/fiction-markup-language/>`__
 
--  This is an example of an XML-based langauge for fiction writing,
+- This is an example of an XML-based langauge for fiction writing,
 and it has classes and items for characters, settings, as well as
 book/chapter level organization. While I really like the idea
 here, I fear that it could be really constraining in terms of
@@ -59,29 +59,29 @@ knows. It might be a good format option for editing software like
 `Scrivener <http://www.literatureandlatte.com/scrivener.html>`__
 or other software intended for fiction-like writing.
 
--  `Hypertext Community <http://users.cs.dal.ca/~jamie/hypertext/>`__
--  `Swooter, books via twitter <http://www.booktwo.org/swotter/>`__
+- `Hypertext Community <http://users.cs.dal.ca/~jamie/hypertext/>`__
+- `Swooter, books via twitter <http://www.booktwo.org/swotter/>`__
 
--  Swooter is a script that will regularly serialize, via
+- Swooter is a script that will regularly serialize, via
 `twitter <http://twitter.com/>`__, any plain text file. Someone's
 using it to serialize James Joyce, but the implications and
 possibilities here are pretty nifty. It's like the "read classics
 via email" project, but I think the aspiring hypertext author
 could do some rather nifty things with this tool.
 
--  `institute for the future of the book
+- `institute for the future of the book
 blog <http://www.futureofthebook.org/blog/>`__
 
--  if:book is a project out of the Annenberg Center that explores and
+- if:book is a project out of the Annenberg Center that explores and
 works on the future of the book (I love good naming schemes), and
 their blog is really top notch.
 
--  `Company Therapist
+- `Company Therapist
 Hypertext <http://www.thetherapist.com/Introduction.html>`__
--  `Academic Hack Open
+- `Academic Hack Open
 Access <http://academhack.outsidethetext.com/home/?p=120>`__
 
--  Academic Hack talks about open access, which I think could frame
+- Academic Hack talks about open access, which I think could frame
 the academic discussion regarding academic publishing in a
 productive way. In a lot of ways, I've come to believe that
 however the academic publishing "problem" resolves itself will
@@ -90,10 +90,10 @@ in the future, and I'm pretty cofident that academic publishing
 will see reform before the mainstream. But you can argue that, if
 you want.
 
--  `Savage Minds: Open Access your
+- `Savage Minds: Open Access your
 Diss <http://feeds.feedburner.com/~r/savageminds/~3/45741381/>`__
 
--  I think the idea of making dissertations open access is a
+- I think the idea of making dissertations open access is a
 wonderful idea. There is so much research that gets done as part
 of people's doctoral programs that never sees the light of day.
 While I think a lot of people would cringe at the thought (and
@@ -105,10 +105,10 @@ down on the diss text; but having said that I think having
 dissertations available might make it easier for people to more
 productivly move beyond that text, and that could be a good thing.
 
--  `Making
+- `Making
 MediaCommons <http://www.plannedobsolescence.net/index.php?/weblog/more_on_making_mediacommons/>`__
 
--  Kathleen Fitzpatrick, one of the creators and driving force behind
+- Kathleen Fitzpatrick, one of the creators and driving force behind
 `MediaCommons <http://www.futureofthebook.org/mediacommons/>`__,
 an interesting and very forward thinking model for academic
 publishing. At the present time, it's a Media Studies project,
@@ -116,10 +116,10 @@ which makes a great deal of sense, but the model can and likely
 will be ported to other disciplines, and I look forward to that
 with great anticipation.
 
--  `Word Processors: Stupid and
+- `Word Processors: Stupid and
 Inefficient <http://ricardo.ecn.wfu.edu/~cottrell/wp.html>`__
 
--  Allin Cottrell explains/explores the ways that the word-processor
+- Allin Cottrell explains/explores the ways that the word-processor
 model is ineffective for constructing text in digital
 communication, and I think that a lot of these general themes can
 be extrapolated to a discussion of writing.

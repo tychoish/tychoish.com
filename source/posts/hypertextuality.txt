@@ -23,9 +23,9 @@ digital mediums. Or, at least a brief commentary on same.
 The tools that I use to write technical materials do all sorts of cool
 things, like:
 
--  provide instant cross referencing,
--  generate great indexes, and
--  automatically generate and link glossaries.
+- provide instant cross referencing,
+- generate great indexes, and
+- automatically generate and link glossaries.
 
 This is not particularly unusual, and in fact
 `Sphinx <http://sphinx.pocoo.org/>`__ is somewhat under-featured

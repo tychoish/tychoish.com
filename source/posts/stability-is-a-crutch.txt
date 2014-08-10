@@ -33,10 +33,10 @@ numbers for the costs of either approach. I'm not sure that there are
 deployments of significant size that actually deploy on anything that
 isn't reasonably stable. Other factors:
 
--  automated updating and system management.
--  testing infrastructure.
--  size of deployment.
--  number and variety of deployment configurations.
+- automated updating and system management.
+- testing infrastructure.
+- size of deployment.
+- number and variety of deployment configurations.
 
 .. [1]
 Reliably updated and patched regularly for several years of

@@ -36,9 +36,9 @@ as an edit.
 
 So in short:
 
--  Simple text-based file format.
--  Easy, non-editor specific posting commands.
--  Multiple Blog support (again the TM bundle does this.)
+- Simple text-based file format.
+- Easy, non-editor specific posting commands.
+- Multiple Blog support (again the TM bundle does this.)
 
 Yeah, that's about it. Thoughts?
 

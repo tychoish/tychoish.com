@@ -38,7 +38,7 @@ work on the Internet.
 
 My gripe with encyclopedias is largely epistemological:
 
--  I think the project of collecting **all** knowledge in a single
+- I think the project of collecting **all** knowledge in a single
 text--no matter how large--is impossible, and misunderstands the fact
 that the biggest problem in the area of "knowing" in the contemporary
 world isn't simply finding information, or even finding trusted
@@ -52,7 +52,7 @@ convey trust in the specific sense.) At the same time, teaching
 people to take information and *do something awesome with it* is
 incredibly difficult.
 
--  Knowledge is multiple and comes from multiple perspectives, and is
+- Knowledge is multiple and comes from multiple perspectives, and is
 contextually dependent on history, on cultural contexts, on sources,
 and on ideological concerns, so the project of collecting all
 knowledge in a value-neutral way from an objective perspective
@@ -60,7 +60,7 @@ provides a disservice to the knowledge project. This is the weak spot
 in all encyclopedias regardless of their editorial process or medium.
 *Encyclopedias are, by definition, imperialist projects.*
 
--  The Internet is inherently decentralized. That's how it's designed,
+- The Internet is inherently decentralized. That's how it's designed,
 and all though this rounds counter to conventional thought in
 information management, information on the Internet works best when
 we don't try to artificially centralize it, and arguably, that's what
@@ -75,11 +75,11 @@ it.
 
 So I guess the obvious questions here are:
 
--  What's next?
+- What's next?
 
--  What does the post-wikipedia world look like?
+- What does the post-wikipedia world look like?
 
--  How do we provide usable indexes for information that let people find
+- How do we provide usable indexes for information that let people find
 content of value in a decentralized format, and preferably in a
 federated way that doesn't rely on Google Search?
 

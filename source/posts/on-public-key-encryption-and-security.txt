@@ -17,7 +17,7 @@ dabble in this stuff. Having said that...
 "Security" online and in a digital context covers two pretty distinct
 aspects:
 
--  *Identity.* In real life we can show our drivers license or passport,
+- *Identity.* In real life we can show our drivers license or passport,
 we can say "I'm [insert name here]," and in many situations another
 person is probably not too far away to be able to say, "I know them,
 they're [insert name here]." Online? Well identity is less easily and
@@ -26,7 +26,7 @@ organizations') identity and for things that people (and
 organizations) produce/own: emails, documents, web pages, software,
 and so forth.
 
--  *Encryption.* Basically we encrypt data so that we can be relatively
+- *Encryption.* Basically we encrypt data so that we can be relatively
 certain that no one gains access to our data unless, by listening
 into our network connection, or gaining access to physical media.
 From encryption we get *privacy*, and as long as the encryption
@@ -80,18 +80,18 @@ encryption and identity verification technology in secure and reliable
 ways is pretty advanced (in the big picture), we still have to send
 passwords. Here are my thoughts on passwords:
 
--  The best passwords are the hardest to remember. The best passwords
+- The best passwords are the hardest to remember. The best passwords
 don't contain words, and contain numbers, letters, and punctuation.
 But these passwords are difficult to remember, and I think many
 people avoid picking truly secure passwords because of the
 difficulty.
 
--  Passwords aren't bad, and they're--I suspect--most useful as a casual
+- Passwords aren't bad, and they're--I suspect--most useful as a casual
 deterrent and a reminder to users of the potential gravity of the
 situation; but they're not exactly a reliable fingerprinting
 mechanism.
 
--  Some sort of cryptographic handshake would be many magnitudes more
+- Some sort of cryptographic handshake would be many magnitudes more
 secure, and much less painless for users.
 
 I have this theory, that security for banks (and other similar

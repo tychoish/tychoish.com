@@ -36,16 +36,16 @@ content. reStructuredText has an
 `include <http://docutils.sourceforge.net/docs/ref/rst/directives.html#include>`__
 directive for this purpose. In general, the best strategy is:
 
--  maintain a directory of included content that's distinct from the
+- maintain a directory of included content that's distinct from the
 other directories that hold content. In our projects we use
 ``source/includes``, where ``source/`` is holds all content.
 
--  Use a different extension for the included text than you use for your
+- Use a different extension for the included text than you use for your
 content files. For example if all of your Sphinx processed rst files
 use ``.rst`` extensions, include files should have ``.txt``
 extensions.
 
--  Smaller, more restricted resources are more effective, typically.
+- Smaller, more restricted resources are more effective, typically.
 Longer bits of text are more difficult to slipstream into the text.
 If your include snippet requires a section heading its *probably* too
 big.
@@ -57,11 +57,11 @@ sections when possible.
 To make this really awesome you might want to add tooling for
 yourself/writers so that you can:
 
--  see where a file is included in the larger text.
+- see where a file is included in the larger text.
 
--  see if any include files are *not being used*.
+- see if any include files are *not being used*.
 
--  detect if any two redirects are substantially similar.
+- detect if any two redirects are substantially similar.
 
 Pre-process and Generate Content
 --------------------------------
@@ -115,7 +115,7 @@ Documentation <http://sphinx-doc.org/templating.html>`__ so you know
 what's possible. When developing a template for Sphinx (or in general,)
 remember the following:
 
--  minimize the amount of runtime logic required to render each
+- minimize the amount of runtime logic required to render each
 template. While some template logic is unavoidable, and for some
 projects the performance hit may not be noticable.
 
@@ -124,7 +124,7 @@ template.) makes the data handled by the template as a compile-time
 rather than run-time cost (plus or minus the memory costs of larger
 template memory.)
 
--  use template inheritance.
+- use template inheritance.
 
 Basically, Jinja makes it possible to describe a complete template
 composed of "blocks." The blocks don't have any impact on the output;

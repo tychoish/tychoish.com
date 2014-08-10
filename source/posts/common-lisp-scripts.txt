@@ -12,12 +12,12 @@ This is a total rip off of `this blog
 post <http://tkpapp.blogspot.com/2014/01/simple-scripting-in-common-lisp.html>`__,
 with a few minor changes:
 
--  I hacked some ``makefile`` goodness so that it will automatically
+- I hacked some ``makefile`` goodness so that it will automatically
 create binaries for all ``.lisp`` files, and means that you can drop
 a script in the directory and not have to edit the makefile to get
 the magic to happen.
 
--  I switched to using `buildapp <http://www.xach.com/lisp/buildapp/>`__
+- I switched to using `buildapp <http://www.xach.com/lisp/buildapp/>`__
 to rather than `cl-launch <http://cliki.net/cl-launch>`__. Buildapp
 feels a bit more maintained, and I wanted practice using it.
 Otherwise, I don't think it matters.
@@ -56,19 +56,19 @@ package <https://aur.archlinux.org/packages/buildapp/>`__.
 
 Pros:
 
--  Common lisp scripts.
+- Common lisp scripts.
 
--  The ability to integrate writing lisp into your existing Linux/Unix
+- The ability to integrate writing lisp into your existing Linux/Unix
 workflow and processes.
 
--  Not having to think about packaging or build architecture for trivial
+- Not having to think about packaging or build architecture for trivial
 operations.
 
 Cons:
 
--  ~40+ meg executable.
+- ~40+ meg executable.
 
--  Only one source file per script.
+- Only one source file per script.
 
 
 

@@ -23,43 +23,43 @@ let people access (some) of the content running on this web server. I
 don't want it to be automatic, or open my entire machine to the world
 (though... I could secure it, I suppose.) The options I've considered.
 
--  I set up a VPN that I can connect to the public server (that hosts
+- I set up a VPN that I can connect to the public server (that hosts
 this website) from the laptop, and I have a virtual host (or set of
 virtual hosts) that proxy requests to the laptop. Wherever I am, it
 works. I'm not worried about the bandwidth or the strain on the
 server given the usage pattern I'm expecting.
 
--  Pros: Simple, Secure, works even if I'm on a weird local network.
+- Pros: Simple, Secure, works even if I'm on a weird local network.
 Potentially useful for other kinds of nifty hacking including
 tunneling all traffic through the VPN on insecure connections.
 
--  Cons: Way complex, and I'm not sure if it will work. I'll need to set
+- Cons: Way complex, and I'm not sure if it will work. I'll need to set
 up VPN software. And it's total overkill.
 
--  Some sort of scripted dynamic DNS solution, probably involving
+- Some sort of scripted dynamic DNS solution, probably involving
 running my own DNS server.
 
--  Pros: less proxy madness. Pretty simple.
+- Pros: less proxy madness. Pretty simple.
 
--  Cons: running a DNS server. Won't work on some (most) local networks.
+- Cons: running a DNS server. Won't work on some (most) local networks.
 
--  There has to be some sort of alternate approach using a minimalist
+- There has to be some sort of alternate approach using a minimalist
 tunneling solution. There are a few of them, I think they're nifty,
 and it would probably be *perfect*. I'm just not sure what it is.
 
 ... and then half the night later, I finished deploying the VPN. I have
 to say that I'm really pleased with it:
 
--  It can (and has) replaced my ssh tunnels for sending email. That's
+- It can (and has) replaced my ssh tunnels for sending email. That's
 pretty great.
 
--  The web server stuff works, though I don't have anything really up
+- The web server stuff works, though I don't have anything really up
 there yet. I feel like I need some sort of access restriction method,
 but I don't really like any of the options. HTTP Auth is annoying
 rather than protective, SSL is terribly imperfect and fussy, host
 based control isn't very tight.
 
--  I think I will be able to *finally* sacrifice a laptop to the
+- I think I will be able to *finally* sacrifice a laptop to the
 "homeserver" because aside from dis/re-enabling the "sleep on laptop
 close" function. If needed it'll be dead simple to convert a sever
 laptop to a mobile laptop.

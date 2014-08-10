@@ -33,16 +33,16 @@ compiles.)
 
 So what's the benefit to this? Here's what I've come up with:
 
--  It makes it easier to write software that works with your data.
+- It makes it easier to write software that works with your data.
 Editing text is easy, particularly when that text is created either
 by you or by a program in a regular and expected way.
--  Compiler modeled systems are less taxing generally on the system.
+- Compiler modeled systems are less taxing generally on the system.
 Most of the time, what you're doing with the computer is just editing
 a text file. That's low power. Then when it comes time to compile it
 just has to crunch through some data. And then it's done. In WYSIWYG
 and live editing, the computer has to be working constantly to get
 from you to what you see.
--  Any repetitive task can be automated or template, and the chances are
+- Any repetitive task can be automated or template, and the chances are
 that there are a very limited repertoire of *kinds* of documents that
 you're making. I write academic papers in APA format, (or did),
 formal letters, and full page knitting patterns. That's about it. I
@@ -50,7 +50,7 @@ have templates on hand that mean that I can push the same block of
 text into a template and get a perfectly formated document. I can
 push the same block of text between the wiki and the blog and it'll
 compile (basically) the same way.
--  It makes it more feasible to work in smaller files. I wrote a book in
+- It makes it more feasible to work in smaller files. I wrote a book in
 Word, and while I started writing the chapters in separate files, it
 quickly became apparent (and I think this holds true). If you're
 using a program like Word, the best bet is to make really long files,

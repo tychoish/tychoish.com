@@ -43,17 +43,17 @@ filtering scheme is *that* broken, so I'm a bad example.
 The questions that this raises, which I don't have a particularly good
 answers for, are as follows:
 
--  Are there good tools for the "don't organize when you can search
+- Are there good tools for the "don't organize when you can search
 crew," for non-email data? And I'm not just talking about search
 engines themselves (as there are a couple: xapian, namazu), or
 ungainly desktop GUIs (which aren't without utility,) but the proper
 command-line tools, emacs interfaces, and web based interfaces?
 
--  Are conventional search tools the most expressive way of specifying
+- Are conventional search tools the most expressive way of specifying
 what we want to find when filtering or looking for data? Are there
 effective improvements that can be made?
 
--  I think there's intellectual value created by organizing and
+- I think there's intellectual value created by organizing and
 cataloging information "manually," and "punting to search" seems like
 it removes the opportunity to develop good and productive information
 architectures (if we may be so bold.) Is there a solution that

@@ -22,12 +22,12 @@ tools or offer enhancements.
 
 Let me outline the pieces of the puzzle, first:
 
--  OS X/UNIX shell. [1]_ Having access to all of these great unix tools
+- OS X/UNIX shell. [1]_ Having access to all of these great unix tools
 makes it reasonably easy to write scripts to automate the key parts
 of this workflow. Also, as most of my system reilies on Apache (which
 comes installed on OS X) and web servers, having this kind of low
 level access to the system is great.
--  `ikiwiki <http://www.ikiwiki.info/>`__. So this is a great little
+- `ikiwiki <http://www.ikiwiki.info/>`__. So this is a great little
 program that takes a directory of text files, and turns them into a
 wiki/website via a `markdown <http://daringfireball.com/markdown/>`__
 interpreter. It also connects and automates through subversion, an
@@ -36,10 +36,10 @@ if that's more your speed.) This part of the project is probably *the
 geekiest* and most difficult part to get working, particularly if you
 don't have access a good package installer. But it's possible and
 totally worth it.
--  Several bash/shell scripts that I have written to insert data and
+- Several bash/shell scripts that I have written to insert data and
 clips into the wiki.
 
--  One script that, with a command in the form of,
+- One script that, with a command in the form of,
 ``clip [FileName] [Space delinated tags]`` will create a page in a
 research clipping section of the wiki with the contents of the
 clipboard, and the proper notation for tag organization and the
@@ -48,7 +48,7 @@ editor. I wish it could capture, more automatically the citation
 information (author/url) but I think this would require the
 browser to expose more information than it currently does. But
 it's pretty good.
--  One script that create new "tag indexes," which makes it easier to
+- One script that create new "tag indexes," which makes it easier to
 see all the pages tagged with specific labels. If I were more
 clever I could probably tie the scripts together so that whenever
 I added a new tag that didn't already exist that it would generate
@@ -57,11 +57,11 @@ new tag pages, so it's ok to have separate tag pages. This also
 helps control "tag sprawl," and prevent metadata from getting out
 of control.
 
--  A set very quick functions that let me append text any text file, as
+- A set very quick functions that let me append text any text file, as
 well as a quick command to append lines to the end of a general
 "inbox" or "codex.txt" file for quick thoughts, notes, todos, and
 tasks. This is outside of the wiki and not a new tool, but it works.
--  `Fluid <http://www.fluidapp.com>`__ - This is a really nifty program
+- `Fluid <http://www.fluidapp.com>`__ - This is a really nifty program
 that uses OS X tools to build "programs" built around single, site
 specific websites. Basically this is the ideal bridge between "web
 apps" and "desktop apps," particularly once `Google

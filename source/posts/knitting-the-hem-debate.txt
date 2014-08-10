@@ -19,38 +19,38 @@ The options are actually pretty slim (these instructions are basic, they
 may vary a bit in actual practice). I've also included a pro-con
 analysis.
 
--  *Knitted-in hem*: knit the hem facing on smaller needles, purl a
+- *Knitted-in hem*: knit the hem facing on smaller needles, purl a
 row/round, knit the pattern. Sew down the hem facing when you're
 done.
 
--  **Pro**: the pattern starts at the bottom of the sweater, the
+- **Pro**: the pattern starts at the bottom of the sweater, the
 sweater's edge doesn't normally pull in unflatteringly.
--  **Con**: Hems can flair or gather really easily, and can be a
+- **Con**: Hems can flair or gather really easily, and can be a
 bother to work.
 
--  *Knitted Ribbings:* alternate consistant numbers of knitted and purl
+- *Knitted Ribbings:* alternate consistant numbers of knitted and purl
 stitches.
 
--  **Pro**: Looks good, often helps shaping when you want a tappered
+- **Pro**: Looks good, often helps shaping when you want a tappered
 edge. Ribbings are highly elastic.
--  **Con**: Can pull in too much, doe not work as well for stranded
+- **Con**: Can pull in too much, doe not work as well for stranded
 work,
 
--  *Double Sided stitches:* A number of stitches look the same on the
+- *Double Sided stitches:* A number of stitches look the same on the
 front and back, like garter and moss stitches, and won't curl.
 
--  **Pro**: easier to work than a hem and should produce the same
+- **Pro**: easier to work than a hem and should produce the same
 result.
--  **Con**: I've never been able to mange one of these without an
+- **Con**: I've never been able to mange one of these without an
 undesirable welt or flare. Sometimes the designs can be too much
 for a plain sweater.
 
--  *Lace:* This isn't technically a solution, because you'd probably
+- *Lace:* This isn't technically a solution, because you'd probably
 still do a few rows of garter stitch, but generally open work
 stitches will block flat without rolling.
 
--  **Pro**: Might work, and could look nifty.
--  **Con**: It's lace, also not particularly suited as a cuff.
+- **Pro**: Might work, and could look nifty.
+- **Con**: It's lace, also not particularly suited as a cuff.
 
 My standards operation procedure is to knit 1x1 ribbings on plain
 sweaters and 2x2 corrugated ribbing on stranded sweaters, and 2x2

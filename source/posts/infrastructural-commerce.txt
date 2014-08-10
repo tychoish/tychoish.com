@@ -43,10 +43,10 @@ not like the Microsoft-consumer model doesn't still exist.
 So when we look at "infrastructural technology" it sure looks like there
 are some kinds of businesses that will continue to flourish:
 
--  The people making mainframes/servers and the high level computing
+- The people making mainframes/servers and the high level computing
 systems that provide the infrastructure.
 
--  The people who provide the tools that make low level tools successful
+- The people who provide the tools that make low level tools successful
 and useful to users. (eg. What UbuntuOne provides on top of SSH and
 rsync; What gmail provides on top of IMAP; What MobileMe provides
 ontop of WebDAV/CalDAV/IMAP).
@@ -54,13 +54,13 @@ ontop of WebDAV/CalDAV/IMAP).
 These strike me as rather conventional business models, given the
 history. Does infrastructural computing also:
 
--  further the development of subscription-based businesses?
+- further the development of subscription-based businesses?
 
--  create a new kind of challenge in customizing solutions for
+- create a new kind of challenge in customizing solutions for
 organizations and groups that translate raw resources into "finished
 output?" Is this too much like IMAP --> Gmail?
 
--  [other possibilities created by you, here]
+- [other possibilities created by you, here]
 
 I'm trying to approach this by asking myself "what creates value in this
 market," rather than "where's the money." It strikes me that value

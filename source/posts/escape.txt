@@ -5,16 +5,16 @@ Escape
 .. post:: 2008-02-28
    :author: tychoish
 
--  My comptuer was anoying all morning. On the upside I now have a new
+- My comptuer was anoying all morning. On the upside I now have a new
 torchwood episode to watch.
 
--  Dose anyone else know if
+- Dose anyone else know if
 `XTorrent <http://www.xtorrentp2p.com/>`__ is particularly
 unstable on PowerPCs? Because it's comically bad on my computer. I
 know there are other programs that I could use, my logic in using
 this one isn't good admittedly. Just wondering.
 
--  I did some playing around with `R <http://www.r-project.org/>`__ last
+- I did some playing around with `R <http://www.r-project.org/>`__ last
 night. I like it. I'm not sure if my failure to
 `grok <http://en.wikipedia.org/wiki/Grok>`__ properly is the result
 of having a pretty elementary understanding of statistics, or the
@@ -23,23 +23,23 @@ the fact that, by all accounts the documentation seeems to be written
 by a non-native speaker, which might be complicating problems 1 and
 2. But it's very cool, and I sort of get it.
 
--  I'm thinking of running some sort of basic study this
+- I'm thinking of running some sort of basic study this
 spring/summer on my own using some publicly available content as
 data. Like newsgroup postings or some such. With the hopes of
 being able to understand these tools in time for next year, and
 hopefully I'll get something good out of it.
 
--  My turn to looking at these statistics programs and what not, I've
+- My turn to looking at these statistics programs and what not, I've
 gotten back to reading about object oriented programing and
 `smalltalk <http://www.smalltalk.org/>`__, as it's at least a little
 relevant, which I enjoy because it inspires a way of logical thinking
 which I don't get to spend very much time in. And that's inspiring in
 it's own way.
--  Not much knitting or writing news, alas. Still haven't written the
+- Not much knitting or writing news, alas. Still haven't written the
 sleeve, and I had work and dancing last night and I have something
 this morning before work, so not much opportunity there, and I've
 spent what time I have writing this note to you. ;)
--  No grad school news.
+- No grad school news.
 
 Onward and Upward!
 

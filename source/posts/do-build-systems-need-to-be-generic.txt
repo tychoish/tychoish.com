@@ -13,11 +13,11 @@ code.
 
 The logic in the previous system was:
 
--  Make is everywhere, stable, and consistent. In the spirit of making
+- Make is everywhere, stable, and consistent. In the spirit of making
 the project as compatible and accessible to everyone it made sense to
 use common tools and restrict dependencies.
 
--  Concurrency and parallelism are both *super hard*, and Make provided
+- Concurrency and parallelism are both *super hard*, and Make provided
 a way to model the build in a knowable way, and the parallels the
 build as much as possible. Before starting this project, I'd spent
 two years being a write working with a build system that was not
@@ -26,7 +26,7 @@ problem.
 
 It turns out:
 
--  If you write Makefiles by hand they're the inverse of portable. In
+- If you write Makefiles by hand they're the inverse of portable. In
 the same way that "Portable Bash Script" is a thing that can lead
 only to insanity.
 
@@ -38,7 +38,7 @@ the Makefiles programatically, using some sort of meta-build tool.
 
 Complexity abounds.
 
--  Forcing you to model your build process as a graph, is actually not a
+- Forcing you to model your build process as a graph, is actually not a
 bad thing, and frankly is the strongest selling point. Make doesn't
 enforce graphs (and how could you really?) but if you pay attention
 to the ordering and build performance it's not hard to keep things

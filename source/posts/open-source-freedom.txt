@@ -75,18 +75,18 @@ this is a good thing? Because it sounds that this kind of open source
 just makes things more complex? Right. Here's why I think the ecosystem
 is the way to go:
 
--  It's easier to build programs that only do one thing. A program
+- It's easier to build programs that only do one thing. A program
 either is really good at downloading your email or it isn't, and it's
 pretty easy to tell if that's the case. More complex programs, can't
 be as reliable as consistent.
 
--  This system is more responsive to technological development. If
+- This system is more responsive to technological development. If
 there's a new revolution in email downloading, it's easy enough to
 take fetchmail out of the picture and put some other widget in place
 that works better. Non-modular systems put you at the whim of someone
 else.
 
--  Your data is (more likely) to be accessible and open. The real reason
+- Your data is (more likely) to be accessible and open. The real reason
 that open source hackers are interested in open standards and formats
 is, if we rely on an ecosystem of widgets our data has to be readable
 by all of the different widgets. The only way to ensure that this is
@@ -94,7 +94,7 @@ the case is to use open and standard data formats. This is good for
 the user and good for the programer as a `creative
 constraint <http://tychoish.com/rhizome/constrained-creativity/>`__.
 
--  This model more closely reflects *the way we actually think*. Our
+- This model more closely reflects *the way we actually think*. Our
 minds are made up of a bunch of smaller abilities. The ability to
 recognize written words, the ability to parse those words for sounds
 and meaning, the ability to take what we read and relate it to things

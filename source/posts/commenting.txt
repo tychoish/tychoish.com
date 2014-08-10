@@ -24,17 +24,17 @@ comments, and my sense is that a significant percentage of comments
 these days are in the "me too" vein, rather than productive themselves
 (because threads are difficult to read). Here are a few questions:
 
--  Do features (threading? email notification? persistent identities?)
+- Do features (threading? email notification? persistent identities?)
 make commenting "work better" or flow more productively?
 
--  Are conversations about content moving away from comments into more
+- Are conversations about content moving away from comments into more
 centralized media like twitter, email lists, and discussion forums?
 
--  Are we more likely to respond to a blog post we read in our own blog,
+- Are we more likely to respond to a blog post we read in our own blog,
 rather than in a comments thread? Has the blogging community reached
 a saturation point?
 
--  Dose a vibrant community of comment-posers indicate a marker of
+- Dose a vibrant community of comment-posers indicate a marker of
 blog-success, these days? Did it ever? What might replace comments?
 
 I'm pretty convinced that comments are dying, but I'd love to get your

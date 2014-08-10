@@ -54,13 +54,13 @@ result is simply lower quality software.
 
 So with the above rattling around in my head, I've been asking:
 
--  Are web applications, which are deployed centrally and often only on
+- Are web applications, which are deployed centrally and often only on
 one machine (or a small cluster of machines), the beginning of a
 return to single use applications? Particularly since the specific
 economic goals of the sponsoring organization/company is often quite
 tightly coupled with the code itself?
 
--  One of the leading reasons that people give for avoiding open source
+- One of the leading reasons that people give for avoiding open source
 release is embarrassment at the code base. While many would argue
 that this is avoidance of one sort or another, and it might be, I
 think it's probably also true more often than not. I'm interested in
@@ -68,7 +68,7 @@ thinking about what the impact of the open source movement's focus on
 *source code* has had on the development of single use code versus
 multi use code in the larger scope.
 
--  What do we see people doing with web application frameworks in terms
+- What do we see people doing with web application frameworks in terms
 of code reuse? For starters, the frameworks themselves are all about
 code reuse and bout providing some basic tools to prevent developers
 from recreating the wheel over and over again. But then, the

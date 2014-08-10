@@ -6,7 +6,7 @@ Interview with Ted Jackson
    :author: tychoish
    :tags: interview, academia
 
--  **Who are you? What do you?**
+- **Who are you? What do you?**
 
 I'm a grad student at Washington University until the end of this school
 year when I will have hopefully finished and defended my dissertation on
@@ -28,11 +28,11 @@ or 7 from my great aunt, had a long hiatus, and started again in about
 2004 with a pair of really loose socks. I also have a bin of worms in my
 apartment that compost food for me. Oh, and I love my cat, Dot.
 
--  **Merino vs. Blue-faced Leicester?**
+- **Merino vs. Blue-faced Leicester?**
 
 Blue-faced!
 
--  **Lets talk about technology: What kind of technology do you use, and
+- **Lets talk about technology: What kind of technology do you use, and
 what's the coolest thing that technology enables for you? What about
 your technology do you find frustrating?**
 
@@ -50,7 +50,7 @@ phone. Then there are those folks who write drivel constantly, but I
 can't unfollow them because I'm afraid they'd be offended. The worst,
 though, is that people think it's an acceptable form of news reporting.
 
--  **Favorite book you've read in the last year? Runners up?**
+- **Favorite book you've read in the last year? Runners up?**
 
 My favorite book for the last couple years has been Donna Tartt's *The
 Secret History*. I'm thinking about reading it again, that's how much I
@@ -58,13 +58,13 @@ liked it! I tried and got through 3/4ths of *Crime and Punishment* this
 summer, but have since abandoned it. Right now I'm reading *Smilla's
 Sense of Snow*.
 
--  **Favorite Website?**
+- **Favorite Website?**
 
 `icanhazchezburgur <http://icanhascheezburger.com/>`__ although my
 browser says that I visit `Ravelry <http://www.ravelry.com>`__ more
 often!
 
--  **What do you think was the most important event of the last 15
+- **What do you think was the most important event of the last 15
 years?**
 
 It's really hard to even begin to answer this question, but I suppose I
@@ -78,7 +78,7 @@ college, email attachments were problematic: I also wouldn't have
 imagined me writing my dissertation in a city five hours away from my
 advisor.
 
--  **The next 10?**
+- **The next 10?**
 
 This will be us as a society learning to deal with this technology,
 especially for the type of people not used to teaching themselves to use
@@ -95,12 +95,12 @@ paper phone books still show up on my building's doorstep, but my
 grandparents would have no idea of how to find a phone number, even if
 they had a computer.
 
--  **One thing that you're most looking forward to in the next year?**
+- **One thing that you're most looking forward to in the next year?**
 
 I'm very excited about finishing my dissertation and to finally become
 what my family refers to as "Dr. Ted".
 
--  **One thing that you wish you could learn?**
+- **One thing that you wish you could learn?**
 
 I would really like to be good at yoga, enough to give me exercise in
 the winter time and relaxation in the summer. I always feel like I will
@@ -108,17 +108,17 @@ have to spend a fortune on lessons or classes. I've tried watching
 tapes, but I need someone to bend my legs and put my feet where they are
 supposed to go.
 
--  **Hegel vs. Heidegger?**
+- **Hegel vs. Heidegger?**
 
 Hegel wins in my book because I use his dialectic *all* the time. Sadly,
 I don't know much about Heidegger at all.
 
--  **Where can we find more about you/your projects?**
+- **Where can we find more about you/your projects?**
 
--  `I'm Stricken <http://twitter.com/stricken>`__ on twitter,
--  On Ravelry, I'm tedberlin,
--  `There's the Personal blog <http://tedberlin.wordpress.com>`__, and
--  `Professional website <http://theodorejackson.net>`__
+- `I'm Stricken <http://twitter.com/stricken>`__ on twitter,
+- On Ravelry, I'm tedberlin,
+- `There's the Personal blog <http://tedberlin.wordpress.com>`__, and
+- `Professional website <http://theodorejackson.net>`__
 
 
 

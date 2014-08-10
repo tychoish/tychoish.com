@@ -5,7 +5,7 @@ Observations for 30 October 2007
 .. post:: 2007-10-30
    :author: tychoish
 
--  If I don't know what to name a file I name it {something}.codex.txt.
+- If I don't know what to name a file I name it {something}.codex.txt.
 All my projects have codex files that are just big markdown
 collections of stuff. My todo list is called codex.tasks. Also all
 the spheres of my life have a two character prefix that I use to
@@ -14,7 +14,7 @@ identify their files. AC for school (ACademic), MR for the novel
 sense, SK for station keeping, BR, for the new novel project
 (BReakout), and so forth. Lots of codex files. Sigh.
 
--  I have, by my count, about 16 more rounds remaining in the red
+- I have, by my count, about 16 more rounds remaining in the red
 sweater of doom. It's all I can do to work on other projects. It'll
 be nice to get this done and be able to focus on the Joyce sweater
 I'm making. I think that I'm going to knit on it for a couple of
@@ -27,22 +27,22 @@ think about this.) I've broken 3 and cut the cord on another
 (steeking incident, lets not discuss.) But then, it's probably better
 that I don't divide my time too much.
 
--  I'm having the desire to knit hats. Expect hats in my future.
+- I'm having the desire to knit hats. Expect hats in my future.
 
--  Sorry that there has been so much blathering about computer stuff and
+- Sorry that there has been so much blathering about computer stuff and
 what not lately. New knitting content would be really boring, and
 it's been busy.
 
--  My computer speakers have the tendency to pick up errant radio ways
+- My computer speakers have the tendency to pick up errant radio ways
 which is really annoying, but I'm too cheap to buy new ones despite
 the fact that these were the speakers I bought for 20 dollars when I
 built a PC box in high school. So I'm sitting in an empty house
 listening to my ipod on noise isolating headphones.
 
--  I start working a crapton lot on Thursday. I'm pretty psyched about
+- I start working a crapton lot on Thursday. I'm pretty psyched about
 it.
 
--  I had the pleasure of talking to
+- I had the pleasure of talking to
 `ComposerScott <http://composerscott.livejournal.com>`__ last night.
 He posted an entry on his LJ about a cute
 `BSG <http://www.scifi.com/battlestar/>`__ cast member. And despite
@@ -56,7 +56,7 @@ to begin to get caught up. I just don't drive distances or do menial
 office work enough any more. Anyway, it's nice to find new internet
 friends.
 
--  My friend R. and I had a conversation a few months back about how
+- My friend R. and I had a conversation a few months back about how
 most of our closest friends were people that we knew at a point about
 6 years previous. It was worry some, because these people
 disappeared, or changed in ways that made being friends with them
@@ -64,13 +64,13 @@ difficult (or we changed...) But I'm starting to realize that many of
 my friends are more recent acquaintances, and I think though
 difficult in many ways, is a move in the right direction.
 
--  I'm really bad about commenting on people's blogs and journals,
+- I'm really bad about commenting on people's blogs and journals,
 despite the fact that I read a great number of them. I just never
 feel like I have the right thing to say, even though as someone who
 delights in every comment that gets left on my site, that you don't
 have to write poetry in the comment box.
 
--  Would it be idiotic to build a linux server that had a drive that was
+- Would it be idiotic to build a linux server that had a drive that was
 dedicated to my iTunes library that I could mount over the network
 and then synch my ipod to over the network, or is that crazy? Also,
 while I'm living in fantasy land, what are the state of

@@ -19,7 +19,7 @@ imagination.
 I guess it would first be useful to outline a number of core values that
 seems to guide my taste in technologies:
 
--  **Understandable**
+- **Understandable**
 
 Though I'm not *really* a programmer, so in a lot of ways it's not
 feasible to expect that I'd be able to expand or enhance the tools I
@@ -29,7 +29,7 @@ not sure if this creates value in the practical sense, however, I tend
 to think that I'm able to make better use of technologies that I
 understand the fundamental underpinnings of how they work.
 
--  **Openness and Standard**
+- **Openness and Standard**
 
 I think open and standardized technologies are more useful, in a way
 that flows from "understandable," I find open source and standardized
@@ -41,14 +41,14 @@ that I find important. And of course, knowing that my data and work is
 stored in a format that isn't locked into a specific vendor, allows me
 to relax a bit about the technology.
 
--  **Simple**
+- **Simple**
 
 Simpler technologies are easier to understand and easier--for someone
 with my skill set--to customize and adopt. This is a good thing.
 Fundamentally most of what I do with a computer is pretty simple, so
 there's not a lot of reason to use overly complicated tools.
 
--  **Task Oriented**
+- **Task Oriented**
 
 I'm a writer. I spend a lot of time on the computer, but nearly
 everything I do with the computer is related to writing. Taking notes,
@@ -74,12 +74,12 @@ that's more complex, and the unpopular technologies shrivel up.
 
 What to do about it?
 
--  Learn more about the technologies you use. Even, and epically if
+- Learn more about the technologies you use. Even, and epically if
 you're not a programmer.
 
--  Develop simple tools and share them with your friends.
+- Develop simple tools and share them with your friends.
 
--  Work toward task oriented computing, and away from feature
+- Work toward task oriented computing, and away from feature
 orientation.
 
 

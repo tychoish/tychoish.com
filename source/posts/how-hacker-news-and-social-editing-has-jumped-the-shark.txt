@@ -30,7 +30,7 @@ focused content of the early, gives way to a more loose, less
 specialized, and more self-interested content submissions and
 selections. The factors that I think lead to this are:
 
--  There's too much content. Such sites should be "filters," and their
+- There's too much content. Such sites should be "filters," and their
 fundamental service is to take the whole internet and tell readers
 "you should be reading this because we think it's
 interesting/important." As communities of editors grow, as the
@@ -38,14 +38,14 @@ marketing power of filter sites increases, and if the "cost" of
 submitting a link remains constant, then the use of the filter breaks
 down and everyone gets overwhelmed.
 
--  There's not enough focus/responsibility on the part of the editors.
+- There's not enough focus/responsibility on the part of the editors.
 When you have a few dedicated and professional editors, you begin to
 see consistency and perspective and approach in the content that is
 curated. When this function is distributed among a large group of
 community members: amazing things can happen but that's not a
 guarantee.
 
--  Community edited sites tend to become incredibly self interested
+- Community edited sites tend to become incredibly self interested
 after a certain point. There's a certain kind of story either about
 the community itself or that strikes submitters as being "about the
 kind of people that participate in the community, or "the kind of
