@@ -2,6 +2,8 @@
 Writing about Technical Writing
 ===============================
 
+.. post:: 2012-08-10
+   :author: tychoish
 
 I posted something new to Critical Futures today. It's a piece about
 technical writing, as part of the latest installment in which has become

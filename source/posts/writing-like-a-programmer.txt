@@ -55,16 +55,16 @@ representation of the changes between any two objects:
 
 ::
 
-git diff  6150726..956BC46
+   git diff  6150726..956BC46
 
 If you have colors turned on in git (to colorize output; only the first
 line affects diffs, but I find the others are nice too):
 
 ::
 
-git config --global color.diff auto
-git config --global color.status auto
-git config --global color.branch auto
+   git config --global color.diff auto
+   git config --global color.status auto
+   git config --global color.branch auto
 
 This generates a nice colorized output and of all the changes between
 the two revisions, or points in history as specified. The diff, is just

@@ -63,7 +63,6 @@ Stay tuned and be in touch.
 
 Cheers, Sam
 
-.. [1]
-We'll ignore for a moment, the fact that I tend to write said entries
-on Sunday night.
+.. [1] We'll ignore for a moment, the fact that I tend to write said entries
+   on Sunday night.
 

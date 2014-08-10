@@ -16,19 +16,19 @@ better than nearly all of my early entries.) What no one really dared to
 tell me, are probably the most important things I've learned as a
 writer:
 
--  First, that editors are not only essential to the writing process,
-but that there's something fundamentally wrong if something leaves
-the original author and is handed to final readers without passing
-through at least one editor, and often more.
+- First, that editors are not only essential to the writing process,
+  but that there's something fundamentally wrong if something leaves
+  the original author and is handed to final readers without passing
+  through at least one editor, and often more.
 
--  Second, the skill of writing isn't necessarily being able to write
-artful sentences, or being able to perfectly apply all of the rules
-of grammar (which, aren't detrimental to the craft of writing). No,
-writing is about being able to get things written. Writing is pobably
-about being able to do research while keeping in mind the parameters
-of the project and ending up with a few paragraphs on a given topic
-that make sense and enlighten more than they confuse. *That* is
-considerably more rare.
+- Second, the skill of writing isn't necessarily being able to write
+  artful sentences, or being able to perfectly apply all of the rules
+  of grammar (which, aren't detrimental to the craft of writing). No,
+  writing is about being able to get things written. Writing is pobably
+  about being able to do research while keeping in mind the parameters
+  of the project and ending up with a few paragraphs on a given topic
+  that make sense and enlighten more than they confuse. *That* is
+  considerably more rare.
 
 The problem, and I wish I had a solution for this, is that there is no
 real way to teach people to write and to love writing. Exposing people
@@ -60,10 +60,9 @@ stunning breakthroughs, dashed hopes, and tactical successes.
 
 Onward and Upward!
 
-.. [1]
-Readerly feedback often comes in the form of thinking that large
-swaths of text need to be rewritten, when the addition of a single
-sentence clarifies the required point. Similarly, I think readers
-aren't as prone to thinking about texts and paragraphs as things that
-can be reordered above the level of the word.
+.. [1] Readerly feedback often comes in the form of thinking that large
+   swaths of text need to be rewritten, when the addition of a single
+   sentence clarifies the required point. Similarly, I think readers
+   aren't as prone to thinking about texts and paragraphs as things that
+   can be reordered above the level of the word.
 

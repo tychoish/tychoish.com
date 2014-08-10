@@ -29,7 +29,6 @@ information.
 
 Cheers, tycho
 
-.. [1]
-This is of course my fault, given that I created the pattern using
-Excel and my own head. I suppose.
+.. [1] This is of course my fault, given that I created the pattern using
+   Excel and my own head. I suppose.
 

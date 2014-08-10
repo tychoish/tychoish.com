@@ -79,31 +79,28 @@ of creators are always making this decision based on all the facts, but
 I think it's paramount that when people use Creative Commons and other
 free licences that they think about all of the ramifications.
 
-.. [1]
-So lets take television shows. The business model for TV is get
-revenue from advertisements during original airing, to sell DVDs, and
-to sell syndication rights eventually. Though technically illegal fan
-fiction, as a derivative work, people writing fic doesn't really
-intersect with the TV business. This is the kind of situation that
-begs for some sort of CC-like licensing scheme. Same thing goes for
-people who design knitting stitch patterns. They make their money
-selling swatches to design houses, and compendiums of stitches.
-Allowing individuals to design sweaters using their stitches wouldn't
-hurt their business at all. This is a situation that begs for
-something less restrictive. I'm sure we can imagine many more such
-examples if we put our heads together.
+.. [1] So lets take television shows. The business model for TV is get
+   revenue from advertisements during original airing, to sell DVDs, and
+   to sell syndication rights eventually. Though technically illegal fan
+   fiction, as a derivative work, people writing fic doesn't really
+   intersect with the TV business. This is the kind of situation that
+   begs for some sort of CC-like licensing scheme. Same thing goes for
+   people who design knitting stitch patterns. They make their money
+   selling swatches to design houses, and compendiums of stitches.
+   Allowing individuals to design sweaters using their stitches wouldn't
+   hurt their business at all. This is a situation that begs for
+   something less restrictive. I'm sure we can imagine many more such
+   examples if we put our heads together.
 
-.. [2]
-So I think people who don't write software--not that I do, but I can
-see the argument so bear with me--often scowl at the notion of
-allowing commercial use. After all, the instinct to say "I don't want
-other people to make money off of my hard work [*particularly if I'm
-not because I'm giving it away for free*\ ]," is really strong. To
-this I would answer: if you're working on something where the
-copyright is held by a group, or shared by a number of different
-people, in situations where a sole creator could license the work
-commercially, a fragmented collective creator can't change liscenced
-with any ease (if at all.) So in these group situations if you don't
-allow commercial use, you're stuck with a work that *cannot ever*
-generate income.
-
+.. [2] So I think people who don't write software--not that I do, but I can
+   see the argument so bear with me--often scowl at the notion of
+   allowing commercial use. After all, the instinct to say "I don't want
+   other people to make money off of my hard work [*particularly if I'm
+   not because I'm giving it away for free*\ ]," is really strong. To
+   this I would answer: if you're working on something where the
+   copyright is held by a group, or shared by a number of different
+   people, in situations where a sole creator could license the work
+   commercially, a fragmented collective creator can't change liscenced
+   with any ease (if at all.) So in these group situations if you don't
+   allow commercial use, you're stuck with a work that *cannot ever*
+   generate income.

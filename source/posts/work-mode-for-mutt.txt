@@ -63,17 +63,17 @@ And in a file named .muttrc\_work
 
 ::
 
-# All the good Mutt settings
-source /path/to/.muttrc_core
-# which mailboxeses to list in the sidebar
-source /path/to/.mailboxes_work
+   # All the good Mutt settings
+   source /path/to/.muttrc_core
+   # which mailboxeses to list in the sidebar
+   source /path/to/.mailboxes_work
 
 Now, the trickery, open up your .bash\_profile or .bashrc (which ever
 you use...)
 
 ::
 
-alias muttw='mutt -F /path/to/.muttrc_work'
+   alias muttw='mutt -F /path/to/.muttrc_work'
 
 And you're done. Now you have to intentionally open up your work email,
 so you don't feel like you're always on call, but you get the

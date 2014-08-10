@@ -27,24 +27,24 @@ Consider the following configuration example:
 
 ::
 
-Host example.com *.example.net
-User root
-Host dev.example.net dev.example.net
-User shared
-Port 220
-Host test.example.com
-User root
-UserKnownHostsFile /dev/null
-StrictHostKeyChecking no
-Host t
-HostName test.example.org
-Host *
-Compression yes
-CompressionLevel 7
-Cipher blowfish
-ServerAliveInterval 600
-ControlMaster auto
-ControlPath /tmp/ssh-%r@%h:%p
+   Host example.com *.example.net
+   User root
+   Host dev.example.net dev.example.net
+   User shared
+   Port 220
+   Host test.example.com
+   User root
+   UserKnownHostsFile /dev/null
+   StrictHostKeyChecking no
+   Host t
+   HostName test.example.org
+   Host *
+   Compression yes
+   CompressionLevel 7
+   Cipher blowfish
+   ServerAliveInterval 600
+   ControlMaster auto
+   ControlPath /tmp/ssh-%r@%h:%p
 
 I'll cover some of the settings in the "``Host *``\ " block, which apply
 to all outgoing ssh connections, in other items in this post, but
@@ -209,8 +209,8 @@ verify an unknown host:
 
 ::
 
-UserKnownHostsFile /dev/null
-StrictHostKeyChecking no
+   UserKnownHostsFile /dev/null
+   StrictHostKeyChecking no
 
 This probably saves me a little annoyance and minute or two every day or
 more, but it's totally worth it. Don't set these values for hosts that

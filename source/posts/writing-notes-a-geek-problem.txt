@@ -51,19 +51,17 @@ this mean? Time to set up additional blogs to take care of these needs,
 because clearly thats what by brain seems to need/want. Maybe some of it
 will be interesting to you, but somehow I doubt this.
 
-.. [1]
-I must admit that I haven't been using DThink as much recently as I
-might like to, because I have a slight organizational crisis now that
-I'm (seasonally) not in school any more. My database is perhaps not
-laid out optimally, but I still really like it. If
-`EagleFiler <http://c-command.com/eaglefiler/>`__ were just a little
-bit better, I think that I could have a mash-up that would be ideal,
-while I wait for DT 2.0, which is perhaps the real reason that I'm
-not reorganizing my database. There's a reason that I have these
-footnotes. To talk to myself. *Sigh*
+.. [1] I must admit that I haven't been using DThink as much recently as I
+   might like to, because I have a slight organizational crisis now that
+   I'm (seasonally) not in school any more. My database is perhaps not
+   laid out optimally, but I still really like it. If
+   `EagleFiler <http://c-command.com/eaglefiler/>`__ were just a little
+   bit better, I think that I could have a mash-up that would be ideal,
+   while I wait for DT 2.0, which is perhaps the real reason that I'm
+   not reorganizing my database. There's a reason that I have these
+   footnotes. To talk to myself. *Sigh*
 
-.. [2]
-Is it true that academics are the only ones that call them "weblogs"
-any more? Is it a sign of my not getting it or a sign of my
-old-timmer cred? I don't really want to know.
+.. [2] Is it true that academics are the only ones that call them "weblogs"
+   any more? Is it a sign of my not getting it or a sign of my
+   old-timmer cred? I don't really want to know.
 

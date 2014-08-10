@@ -36,15 +36,13 @@ would be an incredibly welcome development.
 In the end there's much work to be done, and the tools are good enough
 to get started.
 
-.. [1]
-I want to be clear to say equivalent and not replacement, because
-while I'd like to be able to use emacs and have that kind of
-slipstream writing experience on an embeded device, what I really
-want is something that is flexible and can be customized and lets me
-do all the work that I need to do, without hopping between programs,
-without breaking focus, that makes inputting and manipulating text a
-joy. And an application that we can trust (i.e. open source, by a
-reputable developer,) in a format we can trust (i.e. plain text.)
-Doesn't need to be emacs and doesn't need lisp, but I wouldn't
-complain about the lisp.
-
+.. [1] I want to be clear to say equivalent and not replacement, because
+   while I'd like to be able to use emacs and have that kind of
+   slipstream writing experience on an embeded device, what I really
+   want is something that is flexible and can be customized and lets me
+   do all the work that I need to do, without hopping between programs,
+   without breaking focus, that makes inputting and manipulating text a
+   joy. And an application that we can trust (i.e. open source, by a
+   reputable developer,) in a format we can trust (i.e. plain text.)
+   Doesn't need to be emacs and doesn't need lisp, but I wouldn't
+   complain about the lisp.

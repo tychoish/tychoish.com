@@ -15,24 +15,24 @@ it's not, strictly speaking required. Here's a first stab at the list of
 requirements. Feel free to edit this page in the wiki or or
 [[discuss\|discourse]]:
 
--  Simple, primarily full screen editing.
--  The ability edit very large files, 100kbs should present no issue.
--  Some sort of syntax highlight during the editing process, preferably
-support for LaTeX, Markdown, and org-mode.
--  Word count generation for the entire files and for current
-selections.
--  Auto-save as crash protection.
--  Undo/Redo last typing action.
+- Simple, primarily full screen editing.
+- The ability edit very large files, 100kbs should present no issue.
+- Some sort of syntax highlight during the editing process, preferably
+  support for LaTeX, Markdown, and org-mode.
+- Word count generation for the entire files and for current
+  selections.
+- Auto-save as crash protection.
+- Undo/Redo last typing action.
 
 Nice to have (but not crucial) features:
 
--  The ability to edit one file and reference another (or potentially
-edit) at the same time. Bonus points for being able to switch between
-to parts of a single file at once.
--  The ability to hide or collapse some sections of a file.
--  Optional spell checking.
--  Parenthetical and double-quote matching.
--  Soft and hard line/word wrapping.
+- The ability to edit one file and reference another (or potentially
+  edit) at the same time. Bonus points for being able to switch between
+  to parts of a single file at once.
+- The ability to hide or collapse some sections of a file.
+- Optional spell checking.
+- Parenthetical and double-quote matching.
+- Soft and hard line/word wrapping.
 
 Other than that I don't think there's anything that I *really* need to
 have to get writing done 90% of the time. How about you?

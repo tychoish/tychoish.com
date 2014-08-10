@@ -9,11 +9,8 @@ I recognize that this isn't very interesting, but deal with it.
 
 .. raw:: html
 
-<object width="425" height="350">
-
-.. raw:: html
-
-<embed src="http://www.youtube.com/v/JAeQF2Lej_I" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
+   <object width="425" height="350">
+   <embed src="http://www.youtube.com/v/JAeQF2Lej_I" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
 
 A real post is forthcoming.
 

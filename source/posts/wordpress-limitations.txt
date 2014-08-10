@@ -57,10 +57,9 @@ the task at hand, it's the ideal solution. In other situations? Less so.
 
 Onward and Upward!
 
-.. [1]
-Interestingly, this whole "static site compiling" is making a come
-back, because it turns out that dynamic page generation doesn't scale
-as well as we thought it would five or six years ago. So we have
-static site compilers and complex caching tools. What comes around,
-goes around I guess.
+.. [1] Interestingly, this whole "static site compiling" is making a come
+   back, because it turns out that dynamic page generation doesn't scale
+   as well as we thought it would five or six years ago. So we have
+   static site compilers and complex caching tools. What comes around,
+   goes around I guess.
 

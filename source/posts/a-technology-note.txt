@@ -52,11 +52,10 @@ before I upgrade for real.
 
 Anyway, there's a weekend brain dump. I'll see you later, and around.
 
-.. [1]
-Particularly as I tend to be a more multi-box computer user, it's
-beginning to make the most sense for me to have all of "my digital
-stuff" somewhere "out there" in internet land, and then connect to
-this from, what amounts to dumb terminals throughout my day. We'll
-see. And in cases like that, the computer that I use to log into this
-is largely irrelevant.
+.. [1] Particularly as I tend to be a more multi-box computer user, it's
+   beginning to make the most sense for me to have all of "my digital
+   stuff" somewhere "out there" in internet land, and then connect to
+   this from, what amounts to dumb terminals throughout my day. We'll
+   see. And in cases like that, the computer that I use to log into this
+   is largely irrelevant.
 

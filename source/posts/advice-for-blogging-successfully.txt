@@ -22,16 +22,16 @@ but writers must write with readers in mind.
 I'll skip the meandering analysis and get to a couple of key questions
 that I think remain open, even 4 years after this video was posted:
 
--  What about non-newsreel blogs? Blogs that are more analysis and less
-regurgitation's of boingboing/metafilter/slashdot?
+- What about non-newsreel blogs? Blogs that are more analysis and less
+  regurgitation's of boingboing/metafilter/slashdot?
 
--  What about non-blog content? Are books and articles, subject to the
-same overload (yes?) but are the solutions always "write easy to
-process, easy to skip," content? (Maybe?)
+- What about non-blog content? Are books and articles, subject to the
+  same overload (yes?) but are the solutions always "write easy to
+  process, easy to skip," content? (Maybe?)
 
--  The connection between the "attention" economy, evolving search
-engine use patterns, and mobile technology change the way that we
-interact with and compensate for overload?
+- The connection between the "attention" economy, evolving search
+  engine use patterns, and mobile technology change the way that we
+  interact with and compensate for overload?
 
-[[Discuss\|discourse]]!
+Discuss!
 

@@ -24,11 +24,10 @@ Here's what I came up with
 
 ::
 
-for i in `ls -t`;
-do
-echo -e "$i" >> ~/org/legacy_notes.org &&
-cat "$i" >> ~/org/legacy_notes.org ;
-done
+   for i in `ls -t`;  do
+      echo -e "$i" >> ~/org/legacy_notes.org &&
+      cat "$i" >> ~/org/legacy_notes.org ;
+   done
 
 It works as a one liner, but it works. I think previous attempts have
 left out crucial semi-colons or the ``do`` and ``done`` statements. No

@@ -48,12 +48,12 @@ from being filled with spam.
 What's more, people don't really comment that much. At least for most
 blogs.
 
--  better comment systems, better discussions.
+- better comment systems, better discussions.
 
--  catering to people who want to write a lot. in comments.
+- catering to people who want to write a lot. in comments.
 
--  allowing the conversation to grow from comments, in productive rather
-than purely discursive ways.
+- allowing the conversation to grow from comments, in productive rather
+  than purely discursive ways.
 
 And once you've moved comments into a wiki, why not move the rest of the
 blog as well? My preferred engine,
