@@ -11,7 +11,7 @@ import datetime
 import logging
 
 from giza.config.runtime import RuntimeStateConfig
-from giza.config.helper import fetch_config, get_versions, get_manual_path, get_path
+from giza.config.helper import fetch_config, get_versions
 from giza.strings import dot_concat
 
 logging.basicConfig(level=logging.INFO)
@@ -27,7 +27,7 @@ needs_sphinx = '1.0'
 extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.todo',
-    'mongodb',
+    'ablog',
     'directives',
     'intermanual',
 ]
@@ -104,7 +104,7 @@ languages = [
 # -- Options for HTML output ---------------------------------------------------
 
 html_theme = sconf.theme.name
-html_theme_path = [ os.path.join(conf.paths.buildsystem, 'themes') ]
+html_theme_path = [ os.path.join(conf.paths.output, 'institute-tools', 'themes') ]
 html_title = conf.project.title
 htmlhelp_basename = 'MongoDB'
 
@@ -120,29 +120,21 @@ html_show_sourcelink = False
 html_show_sphinx = True
 html_show_copyright = True
 
-manual_edition_path = '/.'.join([conf.project.url,
-                                 conf.git.branches.current,
-                                 sconf.theme.book_path_base])
-
 html_theme_options = {
-    'branch': conf.git.branches.current,
-    'pdfpath': dot_concat(manual_edition_path, 'pdf'),
-    'epubpath': dot_concat(manual_edition_path, 'epub'),
-    'manual_path': get_manual_path(conf),
-    'translations': languages,
-    'language': language,
-    'repo_name': sconf.theme.repo,
-    'jira_project': sconf.theme.jira,
-    'google_analytics': sconf.theme.google_analytics,
+    # 'google_analytics': sconf.theme.google_analytics,
     'project': sconf.theme.project,
-    'version': version,
-    'version_selector': get_versions(conf),
-    'stable': conf.version.stable,
-    'sitename': sconf.theme.sitename,
-    'nav_excluded': sconf.theme.nav_excluded,
 }
 
 html_sidebars = sconf.sidebars
+
+# -- Options for Blogging --------------------------------------------------
+
+blog_authors = {
+    'tychoish': ('tychoish', 'http://tychoish.net'),
+    'Sam Kleinman': ('Sam Kleinman', 'http://tychoish.net'),
+}
+
+post_date_format = "%Y-%m-%d"
 
 # -- Options for LaTeX output --------------------------------------------------
 
