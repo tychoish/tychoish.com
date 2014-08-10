@@ -1,0 +1,98 @@
+==================
+Intro to HyperText
+==================
+
+.. post:: 2007-03-16
+   :author: tychoish
+
+*Hypertext? Why talk about hypertext? No one's thought very much about
+hypertext in years, let alone written a series of blog posts about
+hypertext, who cares?*
+
+Well I do, and since I foot the bill around here, I'm going to. *So
+there.*
+
+Actually, as I was writing the productivity series, I realized that one
+of my personal productivity goals of the past year or so has been to be
+as compleatly paperless as I can mange. The less paper I have, the less
+there is to move, and this means that (theoretically) I can be better
+organized. The truth is that as a result of this drive to remove paper
+from my "workflow" I've collected a sizeable number of PDF files (a
+gigabyte or so). Though I'm a huge proponent of PDF (I suppose there
+will be more on this in the future), PDF files are effectivly "digital
+paper," and while more useful, they behave and function just like paper.
+Thus I've come to believe that this isn't a digital revolution, but
+really moving from one bad system to one that is only marginally more
+usefull.
+
+I don't think it takes a lot of faith to belive that computer generated
+text present a lot of very clear benefits over its typeset counterparts.
+It's easily reproduceable, it's small, it's portable, there are
+virtually no production or distrobution costs, it's searchable, it's
+dynamic, and it's enviromental. I'm sure you could come up with a few
+more on your own as well.And while people do a lot of reading on
+computer screens (the success of blogs, which revolve primarily around
+text, are a testiment to this), yet eBooks have not yet proven
+themselves successful. In this series I want to explore this qunadry a
+little bit more. What seperates paper from pixels in practice? in terms
+of production *and* consumption?
+
+While I will gladly accept that eBook technology is not yet fully
+developed--and `Cory Doctrow <http://www.craphound.com/bio.php>`__ is
+compleatly right that
+`DRM <http://en.wikipedia.org/wiki/Digital_Rights_Management>`__
+presents a major road block to this development--there is another piece
+of the "electronic literature" puzzel missing. In an effort to explore
+what this piece(s) is/are, I think a renewed conversation about
+hypertext/hypermedia is worthwhile.
+
+In addition to being digital, hypertext is characterized by `Theodor
+Holm Nelson <http://en.wikipedia.org/wiki/Ted_Nelson>`__ as having a
+non-linear structure created by "links," much like the links that we see
+throughout this website and by inclusions or transclusions, where in
+(potentially dynamic) blocks of text are pushed through into other
+refering pages. We see some of this on the internet these days, thanks
+to the fairly standard use of dynamic markup lanauges like
+`PHP <http://www.php.net/>`__. I don't mean to suggest that this series
+will be a study of hypertext on the internet, because my attempt here is
+to discuss the form and structure of digital text, rather than the
+network and cultural aspects of the World Wide Web (when was the last
+time someone called it that?), but clearly there will be some overlap.
+Nelson (1987) is clearly a large influence on these writing--and in
+fairness I should note that I'm not anywhere near done with his book,
+hell I'm not even sure I'm reading *Literary Machines* correctly--but I
+think that it goes without saying that the internet itself has changed,
+and simultaniously changed the way that we operate computers and
+interact with hypertext(s).
+
+Now that we're on the same page...
+
+This series, I hope will allow us both to explore the practicalities and
+implications of consuming and producing hypertext. While I am by no
+means a communications studies expert, or a skilled literary artist, I
+do read a great deal of digital text, and write a lot of content that
+never makes it on to paper. And I think about this a fair amount. With
+luck this will mean something. In addtion to thinking about how
+hypertext affects reading and writing, I think that we'll aslo tuch upon
+the impacts on publication and the distrobution of text. This means
+broaching the DRM subject, and I should say now, that I'm not nearly
+enough of an expert on this as perhaps I should be, but I think that at
+least some consideration of the topic is worthwhile and necessary.
+
+I also hope to consider some "emerging" media forms including XML,
+Wikis, the blog, RSS, Pod/Net/Vid-casts, as they fit into the basic
+questions of reading and writing text. And I would also be remiss as a
+blogger if I didn't mention the influence of the discussions in academe
+regaruding "`Open
+Access <http://www.earlham.edu/~peters/fos/overview.htm>`__\ " to
+scholorly publications, as I've been thinking about this series and the
+articles contained within.
+
+With that, I think that we're sufficently introduced, and I hope that
+we're all on the same page regarding Hypertext. If you have any
+interests related to an aspect of Hypertext that I straight out forgot
+to mention, or have any thoughts, please be in touch. I'll see you all
+next week with more on this.
+
+Cheers, tycho
+

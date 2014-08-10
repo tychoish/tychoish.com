@@ -1,0 +1,35 @@
+===============================
+Writing about Technical Writing
+===============================
+
+
+I posted something new to Critical Futures today. It's a piece about
+technical writing, as part of the latest installment in which has become
+something of a `series on technical
+writing <http://criticalfutures.com/archive/technical-writing/>`__.
+
+I've been playing, and watching this new tool, called
+`dexy <http://dexy.it>`__, which is really cool in its own right, but is
+also really cool insofar as it says: technical writing, documentation,
+is important and deserves *great* documentation tooling.
+
+For those of you who don't write documentation and who aren't very
+involved in the mechanics of publishing lots of text to websites
+probably don't find this very exciting. But it is.
+
+In any case, in recognition of the fact that this is now a *theme* in my
+blogging and writing, I've created a manually generated archive for this
+"series" of posts. See: Posts about `technical writing at Critical
+Futures <http://criticalfutres.com/archive/technical-writing/>`__.
+
+There are some other modifications that I've made, and am making to
+Critical Futures. Namely: the `archives <http://criticalfutures.com/>`__
+page now displays a full list of all the content on the site. Hopefully
+this will help Google find older posts, and make them more accessible.
+Despite how I feel about these old posts, I think it's good to prevent
+them from falling into oblivion too soon.
+
+More changes to come soon, of course. Also real content? Hopefully!
+
+Now: off to sing sacred harp and eat dinner with friends!
+

@@ -1,0 +1,82 @@
+================
+Awesome Thoughts
+================
+
+.. post:: 2008-10-21
+   :author: tychoish
+
+I've been meaning to write a post about
+`awesome <http://awesome.naquadah.org>`__ for some time now, but I
+always seem to have a problem figuring out how to approach awesome. In
+part because I feel like an utter newbie, and in part because it
+presents such a radically different way of thinking about computer
+interaction that I don't really have a good way of explaining it or my
+issue. Not only does this make it difficult for me to figure out what I
+need to do, but it' makes it difficult to contribute to the project by
+working on the wiki (which I think needs to be done.) So I'm going to
+just start at the beginning. Expect that this will be an ongoing series.
+
+What is Awesome
+---------------
+
+Awesome is a piece of software for operating systems running the X11
+window server (Unix/BSD/Linux) [1]_ that controls and determines how
+different clients (windows in the parlance of most systems) are
+displayed and allowed to interact. Unlike most other window mangers,
+Awesome tiles windows, so that the entire screen is used. No space is
+wasted.
+
+Why is Tiling Good?
+-------------------
+
+Using all available space with tiling seems like a good idea--or at
+least not objectionable--until you realize that if all windows are
+"tiled" until all space is taken up, you'll probably realize that,
+depending on your monitor size, as soon you hit 4 or five open windows,
+everything gets too squished for words. And you can't "minimize windows"
+in the conventional sense using awesome, so what gives? **Tags.**
+
+Tags equate, roughly, with virtual desktops, as provided with `OS X's
+"Spaces" <http://www.apple.com/macosx/features/spaces.html>`__ or the
+virtual desktops that `KDE <http://www.kde.org/>`__ or
+`GNOME <http://www.gnome.org/>`__ have. Virtual desktops/tags
+"multiplex" the desktop enviroment so that rather than having to cram
+all your windows into one "screen" you can cycle between different
+virtual "slates" of windows. Go to an Apple store and get someone to
+show you a demonstration of "Spaces" if you're still confused (or find a
+video of it on you tube.) It might be the kind of thing that you have to
+see to understand.
+
+In any case, awesome allows for a really large number of tags. And each
+screen has it's own set of tags. Typically you have 9 tags per screen,
+but it'd be possible to have more. And there are all sorts of things you
+can do to tags, like assign certain applications to only open on certain
+tags, assign certain window tiling patterns to certain tags.
+
+So that's all?
+--------------
+
+I hinted to this in the last section but the environment and interaction
+in awesome is entirely scripted in Lua. While Lua presents *yet another
+scripting language* that I don't know, it's clear even to me that
+there's a lot of flexibility in this approach. While you sacrifice
+something by not being able to dynamically adjust the settings, the
+extra control over shaping your interactions between the window manager
+is really cool.
+
+What makes this *even more cool,* however, is the fact that any action,
+can be bound to a key command or group of key commands. Any window
+management task. Which means that the only need for a mouse are for very
+clearly "mouse related" application specific tasks. Which means that you
+don't need to use the mouse for very much. Less mouse use means better
+ergonomics and better user efficiency. Also, awesome is very
+"lightweight," and runs very fast because from a computing perspective
+it's very minimal. This is a good thing.
+
+Ok, that's all I have for now. There's more, so stay tuned.
+
+.. [1]
+There is a package in `MacPorts <http://www.macports.org/>`__, but I
+can't get it to install, and since OS X doesn't really use X, I'm not
+sure how it would work, but I'm sure it would work with GUN-Darwin.
+

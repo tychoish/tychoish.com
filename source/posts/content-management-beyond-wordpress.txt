@@ -1,0 +1,67 @@
+===================================
+Content Management Beyond Wordpress
+===================================
+
+.. post:: 2010-04-07
+   :author: Sam Kleinman
+
+As a follow up to my, surprisingly popular post on the `Limitations of
+Wordpress <http://tychoish.com/rhizome/wordpress-limitations/>`__, and
+also I suppose my post on `the current status of
+tumblelogs <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__,
+I wanted to ruminate on "where Wordpress" is as a piece of software (and
+a platform,) and what the whole content management *space* looks like
+today.
+
+In a lot of ways Wordpress won. Wordpress does what it does very well.
+And the thing it does, powering blogs, is in point of fact what most
+people need. The wordpress plug-in and theme ecosystems are *vibrant*
+and powerful and add a great deal of value to the system. Concerns about
+performance are largely solved by `Wordpress Super
+Cache <http://wordpress.org/extend/plugins/wp-super-cache/>`__, and even
+though I'm squidgy about MySQL and PHP as a platform, for the job at
+hand *it works*.
+
+The limitations that I spoke to a year ago are--I think--largely still
+relevant: exceedingly few (and fewer) innovative websites and blogs will
+be started that use Wordpress. This is, I think mostly because the
+prescribed form ("blog" as seen by Wordpress,) has become very cemented
+in our minds, and it becomes harder and harder to break from that form.
+In a lot of ways the largest limitation of Wordpress is not the software
+itself but the habits we have developed as users of Wordpress.
+
+Indeed this is the general problem behind *most* content management
+systems: all sites that use ``X``-platform tend to look very much like
+all other sites that use ``X``-platform. Content management systems that
+purport to be web development frameworks (Rails/Django) are a bit better
+in this regard, but the problem remains. But this post is about the
+future, not about the histories or even the stale-present.
+
+Some predictions and forward looking trends are thus in order:
+
+-  Content management systems will increasingly manage work-flow rather
+than content presentation. Every site needs to be built and
+constructed, and in a lot of ways building a site and creating
+content are fixed costs no matter what system you use. The work flow
+that you use to maintain content is highly variable and can be
+pragmatically managed in more effective ways. Stay tuned for this.
+
+-  The "built-in" feature set, or default configuration of a content
+management system will become less important than the possibilities
+of the platform. While I don't think frameworks and CMS's will merge
+in the next few years, they'll get closer.
+
+-  Smart static generation is still the future. Most things don't need
+fully dynamic content, and the intense caching that we have to do to
+offset the dynamic overhead of contemporary systems isn't the real
+solution to this problem.
+
+-  Content management systems are, at the moment, at the center of a web
+site stack/deployment, and thus are huge all encompassing programs. I
+think increasingly content management systems can be designed to be
+much smaller applications, and only manage content and content
+work-flows rather than entire websites. We might call this the
+API-ization or the Unix-ification of web development.
+
+Anything else? Am I totally off my rocker? Onward and Upward!
+

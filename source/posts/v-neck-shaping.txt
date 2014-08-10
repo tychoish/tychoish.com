@@ -1,0 +1,74 @@
+==============
+V-Neck Shaping
+==============
+
+.. post:: 2008-08-18
+   :author: tychoish
+
+In my `last
+post <http://tychoish.com/rhizome/latvain-dreaming-body-and-gussets/>`__
+about the `latvian dreaming
+project <http://tychoish.com/tag/latvian-dreaming/>`__
+(`rav-link <http://www.ravelry.com/projects/tychoish/latvian-dreaming>`__),
+I explained how to get from the cast on, to the gussets. Given that I've
+*finally* gotten past this, I have another post in this series for you.
+
+If you're doing this shoulders the way I am (dropped), with square
+armholes with underarm gussets, do what I'm doing. If you're interested
+in doing something with shaped armholes or a yoke, I can write something
+up along those lines (and probably will,) but some prodding on your part
+might be in order. Anyway, here's how I'm knitting this:
+
+Once your gusset measures three inches, and your sweater is long enough,
+place all the gusset stitches on a thread/holder of some kind. and cast
+on 11 stitches for the steak in the following sequence. **D** L **D** L
+*L* **D** *L* L **D** L **D**. You'll keep the dark/background stitches
+(**D**) at the begining and end as well as the center 3 stitches in the
+same color. Alternate the other six stitches in sucessive rows so that
+the steek looks like:
+
+::
+
+DL D L LDL L D LD
+DD L D LDL D L DD
+DL D L LDL L D LD
+DD L D LDL D L DD
+DL D L LDL L D LD
+DD L D LDL D L DD
+
+When you're done the dark/background stitches on the side will be the
+stitches that you pick up, and the center dark stitch will be the stitch
+that you cut. I've never had one of these steeks ravel, but if you have
+a prefered steek, do that, by all means.
+
+Knit for three inches, or to wherever you want the apex of the V neck to
+start. I knit three inches, but I like deep yokes and high v-necks, so
+it's up to you.
+
+Put the center front stitch on a thread/safety pin. Cast on another
+steek as above. Decrease on either side of the steek on the next and
+every alternating row until...
+
+Well that's the question, isn't it? All the instructions that I've seen
+suggest that v-necks should be 20% of K or 64 stitches around, That
+works out to 34 stitches across the front, or 16 pairs of decreases.
+
+To check your numbers, know that neck openings should almost always be
+between 14-16 inches, or 7-8 inches across the front. Do the percentage
+system, see what it comes out to, and then check, and then get as close
+to one of those numbers as you can.
+
+Once you decrease your chosen number of stitches (because even *I* am
+not bold enough to say, "the right number"), stop decreasing, and knit
+until the armhole is deep enough. (Armholes should be, I think around
+9-10 inches, but check).
+
+I have a few more tricks up my sleeve (ha!) regarding the collar (a
+weird place for them I know.) Including shoulder straps and round/crew
+necks. Anyone interested?
+
+If you have questions please do ask! I'll be in touch, and I'll get
+pictures of my progress up... soonish.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

@@ -1,0 +1,68 @@
+=========
+New Geeks
+=========
+
+.. post:: 2008-12-19
+   :author: tychoish
+
+I've for some number of months started to recognize a division between
+what I've been thinking of as "new" and "old" guard geeks in the open
+source world. The old guard have been the linux and hardware hacker-type
+people who are prone to say "GNU/Linux" and "free software" or
+conversely be interested in BSD. These are people who care about plain
+text files and get really invested text editors and data formats and
+stuff like that. Think sys-admin. The new guard, by contrast, are web
+programmer types. The Rails and Drupal folks, the web 2.0 crowd. More
+jokingly, I might call this the "Perl versus PHP" dynamic, but that's
+not a particularly productive comparison or breakdown.
+
+Like all false dichotomies this one has limited descriptive power as
+everyone, even the old school geeks use the Internet. Linux exists today
+because of the way that Internet supported its development. None the
+less I think that thinking about these new and old world geeks (as it
+were) as having different interests is productive insofar as it allows
+us to better understand the way that the open source is changing in the
+coming years.
+
+Part of me thinks that this has something to do with the effects of
+"open source" versus "free software" debate. I've noticed that Drupal
+developers almost never say "free software," even though it's a GPLv2/3
+project. I say open source rather than free software, even though I'm
+generally a proponent of copyleft. `I've outlined my thoughts on the
+subject before in an essay on software
+freedom <http://tychoish.com/rhizome/open-source-freedom/>`__, but I'm
+pretty sure that people have different reasons for this. In any case,
+judging by the prevalence of Apple laptops, it seems like the whole "we
+need an open source/free software stack from top to bottom," impulse
+isn't as strong that underlies a lot of the free software argument.
+
+Another part of this shift might be the fact that proprietary operating
+systems are *much better* today than they were twenty years ago. OS X is
+really stable (thanks to open source) and works great (of course) with
+Apple hardware, [1]_ and despite the vast unpopularity of Windows Vista
+and my general disdain of the OS, technologically the NT kernel OSes
+starting with version 5 (so windows 2000 and XP and even Vista) have
+probably been pretty good. Or good enough at any rate.
+
+And there's, of course, the whole web 2.0 'thing. In a lot of ways the
+operating system question becomes less relevant as everything becomes
+cloud-based anyway, and "freedom" or "openness" is always difficult to
+judge in terms of network-based services and applications. There's the
+`AGPL <http://www.fsf.org/licensing/licenses/agpl-3.0.html>`__, but that
+not withstanding I'm not sure there's a good one size fits all (hell,
+I'd even take 2-3 sizes fits all) solution to software freedom, user
+rights, and privacy and security for network services.
+
+Like I said at the beginning, I don't think the new geek/old geek
+(particularly with regard to open source) is totally productive, but
+it's a useful starting place for a conversation that I'm very interested
+in. If you have feedback, of course...
+
+Onward and Upward!
+
+.. [1]
+This might seem obvious, but I think one of the reasons that Apple's
+laptops are so successful is that by controlling the hardware as they
+can, they can get *great* battery performance and the best sleep/wake
+functionality around.
+

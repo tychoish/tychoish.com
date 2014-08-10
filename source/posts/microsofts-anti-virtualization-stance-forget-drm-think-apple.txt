@@ -1,0 +1,34 @@
+===============================================================
+Microsoft's anti-virtualization stance: forget DRM, think Apple
+===============================================================
+
+.. post:: 2007-06-28
+   :author: tychoish
+
+`Microsoft's anti-virtualization stance: forget DRM, think
+Apple <http://arstechnica.com/news.ars/post/20070624-microsofts-anti-virtualization-stance-forget-drm-think-apple.html>`__:
+
+Microsoft and its advocates have been able to say: "with a PC, you
+get the most choice of software and peripherals." Now a case could
+be made that the most choice is to be found on a Mac or Linux box
+virtualizing Windows on the side. The big impediment to this world
+is the cost of Windows, but an OEM price on the low-end of Windows
+could eliminate that impediment quickly.
+
+Until Steve Jobs allows the virtualization of the Mac OS, which will
+happen precisely never, Microsoft's commodity cash cow could find
+itself virtualized into the corner.
+
+(from `Ars Technica <http://arstechnica.com/>`__.)
+
+While there are always a few programs that one might want from the
+platform you don't have, I've found that the number of PC programs that
+I wish I could run but can't has waned in the past three years (since i
+made the switch). So yeah, I think its fair that MS has something to be
+afraid of.
+
+Having said that, when I go up to an intel mac, I can't really see
+wanting to run windows in VM, ubuntu maybe (but all of the cool linux-y
+goodness is something that you more or less get in OS X anyway, so
+whatever).
+

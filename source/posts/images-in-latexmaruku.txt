@@ -1,0 +1,14 @@
+======================
+images in LaTeX/maruku
+======================
+
+.. post:: 2007-07-13
+   :author: tychoish
+
+If I wanted to, you know, lay something out, using LaTeX but it had to
+have images.... not just figures, but honest to god pictures. how would
+you swing that?
+
+would an html2latex tool take care of it, or... what? can I just do
+markdown/html image tags and use maruku?
+

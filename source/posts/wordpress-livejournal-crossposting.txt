@@ -1,0 +1,31 @@
+=====================================
+WordPress -> LiveJournal Crossposting
+=====================================
+
+.. post:: 2007-10-02
+   :author: tychoish
+
+While I'd seen the `LJ
+crossposter <http://ebroder.net/livejournal-crossposter/>`__ before, for
+some reason I'd never really installed it. Now I have. This post should
+be the first crosspost between this site
+`tychoish <http://tychoish.com>`__ and the `tychoish
+livejournal <http://tychoish.livejournal.com/>`__.
+
+I was in the `MarsEdit <http://www.red-sweater.com/marsedit/>`__ support
+room--mostly because I like to be supportive of programs I like--and I
+thought, you know there has to be a good way to automate the
+Wordpress-LJ mess. I can't get rid of LJ, and I don't want to have LJ be
+my only blog-output.
+
+So cross posting, is probably the best idea. In the past (and still, I
+suppose) I've used `LJs feed importer
+option <http://syndicated.livejournal.com/tealart/profile>`__ for
+`TealArt <http://tychoish.com/>`__,
+
+In truth I'll probably need to tweak the settings a bit, and while I
+initially thought that it would be cool to take care of this on my end,
+this seems like the kind of thing that might actually be best done on
+the server. I mean when in doubt use a supercomputer to do something
+rather than my trusty little powerbook g4.
+

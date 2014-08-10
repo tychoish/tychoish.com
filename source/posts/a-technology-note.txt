@@ -1,0 +1,62 @@
+=================
+A Technology Note
+=================
+
+.. post:: 2008-05-31
+   :author: tychoish
+
+I had, until a few moments ago, recently been very keen on trying to
+make my computer last as long as possible. It does what I need to to, I
+can't really complain, and new computers are a lot of money,
+particularly when apple is on the cusp of new models.
+
+And then my "r" key and the "tab" key flew off my keyboard.
+
+I take this as a sign from the gods. I'm going to wait till I find a job
+and/or there are good new laptops from apple, because while I'm more
+partial to getting a linux laptop than I have been in the past, I think
+I'd be much more pleased by either: getting something like the Asus EEE
+PC (rumor has that there's going to be a new faster one in a few weeks)
+and/or something in the cloud that I could SSH into [1]_
+
+Anyway. I looked at the Apple website for the first time in months and I
+realized something: The MacBook Pros, are *finally* worth the extra
+price again. If you assume that the difference between a 2.4, 2.5 and
+2.6 ghz Core 2 Duo processor is basically academic (which I think it
+likely), for about 500 dollars you get: a much nicer screen (quality), a
+bigger screen, more powerful graphics, a firewire 800 port. I mean,
+these are the historic differences between the models, but usually the
+difference in price is more like 1000 dollars.
+
+But this post is supposed to be about what I'm thinking of doing. I
+recognize that you can get replacement keys for about 9 bucks a pop, but
+upgrading is pretty inevitable, and desirable at this point.
+
+Given this, my upgrade scheme/options are:
+
+1. Wait till after the next major revision of the macbook (con:
+white/black) or the macbook pro and get it. And then continue as I
+have for the past few years to use it as my main/sole computer. Not a
+bad option. I'd probably lean toward the pro, if this were the case.
+2. Get an iMac and either a MacBook con or an Assus EEE pc. This puts
+the focus on my *at home* computing, and while I'd still be mobile, I
+wouldn't be as *at the drop of the hat* mobile.
+3. Get a macbook pro and figure out some way to organize for some sort
+of server-type at-home computer that could grind through the stuff
+that isn't laptop suitable: media center stuff and the like.
+
+Two is a radical departure from my established usage patterns, and thus
+sort of unlikely. And even though my keys are beginning to strike
+wholesale, I'm probably still going to wait until august or november
+before I upgrade for real.
+
+Anyway, there's a weekend brain dump. I'll see you later, and around.
+
+.. [1]
+Particularly as I tend to be a more multi-box computer user, it's
+beginning to make the most sense for me to have all of "my digital
+stuff" somewhere "out there" in internet land, and then connect to
+this from, what amounts to dumb terminals throughout my day. We'll
+see. And in cases like that, the computer that I use to log into this
+is largely irrelevant.
+

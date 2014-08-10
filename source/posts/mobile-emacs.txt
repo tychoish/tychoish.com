@@ -1,0 +1,21 @@
+============
+Mobile Emacs
+============
+
+.. post:: 2009-04-10
+   :author: tychoish
+   :tags: emacs, org-mode, cyborg, productivity
+
+I have a confession. I last week (briefly) considered getting a Nokia
+N810 so that I could sync and use `org-mode <http://www.orgmode.org>`__
+when I was away from my computer/laptop. The N800/810 is a small tablet
+that runs a Debian based operating system, which means it could run
+emacs, and I could write little clickable scripts that could do all of
+the syncing and awesomeness that I've grown accustomed to.
+
+Then I realized how absurd this is, and cast it aside. My laptop is
+really mobile, and if I needed it to be lighter *or* more mobile, I
+could buy a new battery for it. And it has a full sized keyboard.
+
+This is a sickness right?
+

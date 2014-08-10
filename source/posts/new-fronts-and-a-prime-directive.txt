@@ -1,0 +1,32 @@
+================================
+New Fronts and a Prime Directive
+================================
+
+.. post:: 2002-12-21
+   :author: tychoish
+   :tags: update, tealart
+
+As of 11 am Thursday, 19 December 2002 I was finished with the work and
+all the exams for this semester are completed. Thank God. Also it's
+really nice that I don't have to go back to school until the 6th of
+January. I need the time to rest, recuperate, and recharge, and also to
+do some of the things that I haven't been able to do for the past few
+months. Writing, reading, computer coding, and staying up and going to
+bed really late are all fairly high on my list.
+
+I've also been working with Amy to get TealArt converted to the new
+Quarto CMS. It's going really well, and I have two files that I need to
+create, one that needs to be fixed and two functions that aren't working
+the way they should. The file that doesn't work is a related problem to
+the functions that aren't working, I think; but my knowledge of such
+things is somewhat limited as anyone who's ever helped me with PHP will
+attest to. In a few days we'll get there.
+
+One of the things that Amy said in her weblog at one point that I'll
+probably talk about more latter is that she "saves the present and
+future for herself and writes about the past for her site" (a rough
+paraphrase, I'll get the entry at some point.) This really struck me,
+and I think its something that might separate a good weblog from a lousy
+one (the term is used loosely). This should be the prime directive of
+blogging. *Go Forth, he said, and Write only about the Past.* So there.
+

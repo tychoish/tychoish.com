@@ -1,0 +1,92 @@
+==================================
+Where Innovation Happens, Part One
+==================================
+
+.. post:: 2008-12-18
+   :author: tychoish
+
+Two of the most interesting/innovating/exciting open source projects
+that I've watched in the last little while are "git," the distributed
+source control management tool, and "Awesome," a very... niche window
+management program for Linux. When most people think about open source
+they probably think about something like the GNOME, or Firefox, or to a
+lesser extent Pidgin. These second group of programs are the big
+projects that lots of people pat attention to, projects that are
+targeted at non-developer users.
+
+They also kind of suck.
+
+I mean, I use parts of all of these programs, and I don't mean to
+diminish what exceptional accomplishments these projects represent, but
+they're all boring and stale, and I don't think that they're
+particularly innovative. `Read the bottom post on this
+page <http://www.gnome.org/~seth/>`__ for more on this. Has GNOME *ever*
+developed a feature that Apple and Microsoft has rushed to catch up
+with? Has Firefox, (since tabbed browsing) done anything other than play
+catch-up with Opera and WebKit/Safari/Chrome? And Pidgin is designed to
+be a copycat.
+
+When I said, "they suck" I guess what I meant is that they're not
+particularly innovative, they're great pieces of software, but they're
+not game changing. Now before anyone says, "ha! that's the downfall of
+open source, lets dig a little deeper into Awesome and git," which I
+think are different.
+
+While I'd used SCMs before git, and was already a pretty big open source
+advocate, when I learned about git, and started to really "grok" the
+program, I said to myself, "this is something that's really
+revolutionary." Git is a program which stores changes ("revisions") of a
+group of files (a directory "tree"); the revolutionary part is that it
+makes merging different and divergent "change histories" almost trivial.
+With merging histories easy, it becomes easy to have many different
+development branches. This makes it easy to have people working in
+parallel on a project, and for developers to experiment without fear of
+ruining things. Because you can always revert to a previous revision. It
+also helps that the system is designed to allow people to work offline,
+and give everyone a full history of the revision. Also it's *fast* so
+all of these operations, which can be rather complex, are blindingly
+fast.
+
+Maybe there's nothing stunningly original in git, but pragmatically git
+can and has made a huge impact on work-flows, and I think could really
+impact the way people work--not just programmers but anyone whose doing
+something in a plain-text format. It's already change the way I write
+and work, and I'm just using a fraction of what it can do.
+
+And awesome? Again, the idea of a tiling window manager isn't
+particularly new, there are even a number of different *contemporary*
+options, but I can't help but think that given some recent trends among
+so called "power users" (hot key usage, a renewed interest in command
+line interfaces,) that there's something sort of innovative and
+different about Awesome.
+
+What strikes me a innovative about these two programs is that unlike the
+first group they're all written explicitly for other programmers and
+ubergeeks, whereas GNOME and Firefox and Pidgin are written for
+"entry-level users." I'm not discouraging the production of open source
+software targeted at less technical users, but I think that heretofore
+no one has been really clear about what "usability" really means. What
+we've gotten has been software that's designed to operate "as expected,"
+which while often sufficient for usable, is never sufficient for
+innovative.
+
+So where does innovation happen? In projects that people do for fun and
+for themselves, because if you write a program, like Awesome, mostly for
+yourself and if you're friends you don't have to worry about having a UI
+or configuration interface that's "easy to understand," you're more free
+to develop innovative features. Also I think innovation can also happen
+in projects where developers have a budget to be able to afford a close
+working relationship with usability labs so that the developers and
+designers can innovate and still end up with an easy/intuitive
+interface.
+
+Also, I think the web provides the option for some innovation as
+web-based software is easier to develop rapidly than desktop software,
+so interface and feature changes are "less expensive" comparatively.
+
+In any case, I think it's important to think about where innovation
+happens and what in open source serves to encourage or discourage
+innovation. Thoughts are, as always, very welcome.
+
+Onward and Upward!
+

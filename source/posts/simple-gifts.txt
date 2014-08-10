@@ -1,0 +1,82 @@
+============
+Simple Gifts
+============
+
+.. post:: 2010-02-17
+   :author: tychoish
+   :tags: writing
+
+I suppose I should apologize for the awful relationship between the
+title and what I'm about to write about. Titles, particularly for blog
+posts should be functional and descriptive: google won't enjoy or take
+pleasure in your puns. Nevertheless...
+
+I've been working on something of binge of blog posts to prevent
+`this <http://tychoish.com/rhizome/status-update>`__ from happening
+again any time soon, and I've noticed something: my posts aren't nearly
+as epic as they used to be. Nothing that I have in my drafts folder is
+longer than 750 words, and most of the posts are under 650.
+
+This probably calls for some sort of celebration.
+
+I'm notoriously long-winded, and although I've been a really bad
+practitioner of "keep your blog posts short, concise, and clear," I
+really do think that there's a sweet spot for website-based content
+around around 600 words that's really easy to read and comprehend on a
+computer screen. Even if most of my posts are a bit over this mark.
+
+So what gives? why have I finally been able to figure out how to say
+what I want to say in fewer words? Here are the current theories:
+
+-  The writing I do for the day job is teaching me (slowly) to be a bit
+more concise.
+
+-  My self imposed schedule is forcing me to be a bit more granular in
+the topics I choose to attack in a single blog post.
+
+-  I'm getting to the point quicker. I don't feel like I'm spending as
+much time running around my arguments attempting to explain the
+premise.
+
+-  I've become more of a textual stylist than I ever used to be before.
+While I don't think I'm a stunning prose stylist, I'm much more aware
+of how my paragraphs come together these days, and I think that leads
+to more clear prose.
+
+-  I'm getting better at using unordered lists to organize information
+rather than as a rhetorical crutch. (Most reflexive bullet point
+**ever.**)
+
+--------------
+
+I've written about this before. I had a class in college, where the
+professor assigned these short (250 words,) "journal" entries that were
+due on a weekly basis. They didn't have a topic, and most people
+reflected on the readings. I reflected on my other classes and how they
+related to the topic of the class I was taking. Half way through my
+roomate (who was also in the class,) commented that I hadn't actually
+written about the readings for the class.
+
+"The journal entries don't have topics. And I'm writing about the core
+material of the class," I said.
+
+"You have to admit that it's a bit absurd," she said. [1]_ She was
+right.
+
+I wrote the professor who was apparently fine with my eclectic
+interpretation of the assignment. The pieces were mostly technical
+exercises in being clear and concise, and she thought my entries were
+fine, if a bit esoteric. (I think the exact words were something along
+the lines of "delightful and widely synthetic.") And so I kept writing
+those kinds of pieces.
+
+A year later I started really getting into blogging. The rest is
+history. When I first started at this, I enjoyed the freedom being able
+to write about whatever I wanted. Now I cherish the structure more than
+anything.
+
+Its funny how things change, sometimes.
+
+.. [1]
+Apologies to H.S. for the liberties I've taken with her words.
+

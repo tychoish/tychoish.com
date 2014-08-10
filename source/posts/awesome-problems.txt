@@ -1,0 +1,87 @@
+================
+Awesome Problems
+================
+
+.. post:: 2008-10-23
+   :author: tychoish
+
+This is a continuation of my earlier post on `the awesome window
+manager <>`__ read there for the background. I'm going to focus on some
+of the challenges that I've had trying to use the `awesome window
+manager <http://awesome.naquadah.org>`__
+
+Applications made for Awesome
+-----------------------------
+
+The truth is that most (linux) applications work pretty well with
+awesome, so linux users won't need to find new programs. GNOME and KDE
+apps all work fine. Having said that there are some applications which
+are more suited to the "Awesome" environment. Generally anything that
+runs in the terminal is fair game. That means `mutt for
+email <http://www.mutt.org/>`__, `vimperator for
+firefox <http://vimperator.mozdev.org/>`__, `mcabber for
+jabber <http://www.lilotux.net/~mikael/mcabber/>`__ (but there are `some
+issues here <http://tychoish.com/rhizome/the-mutt-of-im/>`__).
+`Terminator <http://www.ubuntugeek.com/terminator-multiple-gnome-terminals-in-one-window.html>`__
+is my favorite terminal/console program.
+`Irssi <http://www.irssi.org/>`__ for IRC. `Vim <http://www.vim.org/>`__
+as a texteditor.
+
+That's a good place to start as any, but I'm sure that there are other
+apps out there that I'm missing. Your thoughts and suggestions of cool
+command line apps is always appreciated. Non-Awesome apps that I find
+myself using with awesome include
+`Cream <http://cream.sourceforge.net/>`__, and
+`Pidgin <http://www.pidgin.im/>`__.
+
+The Scripting is Hard.
+----------------------
+
+This is mostly a whine, and something that I can get over. Ideally once
+I get this to work, I can save this Lua file and make awesome work
+wherever I need to in no time flat, but it's a lot to get the brain
+around. I think it might help if there were more examples of `Awesome
+configuration
+files <http://awesome.naquadah.org/wiki/index.php?title=Main_Page>`__ to
+ease the tradition. Furthermore, I think it might also be helpful if
+there was a structure for multiple config files, or an allowance for
+"sourced" files (a la mutt/vim/bash). Basically I think it'd be cool to
+have a "widgets" file and a "tag file" and a key-binding file. Or at
+least have the option of such. This would make tweaking the config file
+much easier, and give some structure to a chaotic system.
+
+Notifications
+-------------
+
+I'm a big fan of growl, the notification framework for OS X. which makes
+it easy to get notifications if you have a lot of windows open, have
+things running in the background, or need to track things running in the
+background. I haven't found an equivalent solution, though I'm sure
+something exists.
+
+Things I haven't figured out yet:
+---------------------------------
+
+-  I want to be able to assign firefox to only open in (multiple)
+selected tags, but not in others, and I'm not sure how to make this
+work.
+-  Some sort of menu of currently running applications that would let
+users select a running application/client and jump to the appropriate
+tag. That would be *awesome.*
+-  Using
+`this <http://git.glacicle.com/other/configs.git/.config/awesome/rc_30.lua>`__
+configuration file, I can't get the pidgin (or any other) system tray
+icons to pop up. Weird.
+
+--------------
+
+The truth is that Awesome pretty much does what you want it to do, and
+there aren't any real serious bugs or oversights. Part of this is
+Awesome's success at having a very clear and limited scope, and part of
+this is the fact that just about everything that Awesome doesn't do, you
+can use the existing tools from GNOME or KDE (the more typical open
+source desktop environments.) But I think it's useful to at least make
+note of the frustrations, if nothing else so that people newer to
+awesome than I don't feel so lost. It's normal, and I think (hope?)
+it'll get better.
+

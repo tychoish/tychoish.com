@@ -1,0 +1,78 @@
+=========================
+Managing Management Costs
+=========================
+
+.. post:: 2010-02-16
+   :author: tychoish
+   :tags: labor, organization
+
+Every `system </2010/02/system-design-and-organization/>`__ that
+requires your attention and responsibility comes with some sort of
+"management cost," this includes servers that run websites and email, as
+well as the notes you take and--in my case--the novels you avoid
+writing.
+
+This post, and really the `last one as
+well </2010/02/system-design-and-organization/>`__, grows out of my
+interest and desire to stay organized, to work effectively without
+spending too much time and energy thinking about organization. Except of
+course that I write a bunch about this sort of thing on the blog, so
+maybe I'm a bad example of success. At the end of the day we're all just
+folk', I guess.
+
+The argument at the present moment revolves around consolidation rather
+than an approach to design or organization. And the basic premise is:
+"*no matter how complex your organizational problem is, you can probably
+accomplish what you need to by doing less.*\ "
+
+-  Feel like you spend too much time reading email, or have too many
+email inboxes to check (personal email, work email, special project
+email, listserv email, facebook email, etc.)? Forward your email into
+one box and filter the hell out of it so that you only read what you
+really have to and it's manageable.
+
+-  Feel like you have too many todo lists? Compile them into a single
+list and use some sort of tag system to organize it.
+
+-  Feel like your notes and documents are scared in too many places?
+Combine them and use some sort of search tool to find things when you
+need them.
+
+And so forth. In the analog information world (i.e. with papers,
+notebooks, and books) we often take the approach of sorting things into
+distinct piles of similar sorts of things, and arranging things
+physically in our worlds to reflect this basic sorting. For instance,
+"*the science fiction books will be on the first three shelves, the 20Th
+century philosophy on the next three, college textbooks on the next, and
+[...]*\ " These habits, combined with unfortunate conventions like
+referring to hierarchical organizational units of a file system (e.g.
+directories) "folders," encourages us to translate these real-world
+conventions to our digital existences. This is undoubtedly a bad idea.
+
+The more data you pile together in one place, even dissimilar data, the
+more powerful it becomes. Say you have a PDF collection of articles on
+the anthropology of death and dying, post-colonial literature, and
+linguistics hanging out in different directories of your file system,
+and you begin to do research for a story you want to write set in the
+1930s in India, where do you look? What if there are relevant articles
+in all three folders. What if you have a dozen or two dozen folders?
+What if you have a number of hierarchical organizational trees, and you
+store your notes, the actual text of what you're working on, and your
+reference materials separately with parallel hierarchies? [1]_ Quite
+suddenly you're over-organized and disorganized all at the same time,
+
+The more "system" you have the more difficult it is to manage. The key
+to success, or part of it at any rate, is being minimalist about your
+organization. Recognize that adding responsibilities, projects,
+directories, lists, email accounts, and so forth all come with a cost.
+And sometimes, being a little less organized means that you're able to
+get more done, if that makes sense.
+
+If your experiences reflect this (or run contrary to this logic,) I'd be
+very interested in hearing about how you have solved, and have continued
+to solve the issue.
+
+.. [1]
+This kind of system actually makes a lot of sense in the paper world,
+but is borderline absurd in the digital systems.
+

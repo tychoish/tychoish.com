@@ -1,0 +1,66 @@
+==========================
+glitch and web experiments
+==========================
+
+.. post:: 2009-05-15
+   :author: tychoish
+   :tags: internet, cyborg
+
+So, my laptop (where I seem to be doing most of my writing these days)
+seems to have developed a wee-glitch. It seems, that (somewhat randomly)
+the system just freezes irrevocably whilst, get this, scrolling on
+twitter.com. No really. I'll be minding my own business, and suddenly
+firefox freezes, I can't interact with the window manager, I can't kill
+the window server and start over, I can't switch to another virtual
+terminal to fix things, nada. Hold down the power button and restart.
+Interestingly throughout all of this the mouse still works, as if to
+taunt me.
+
+I've not been able to produce the freezing in any other application, and
+I'm concerned that it might be hardware related (disk access has been
+sort of weird lately, it's an older computer,) it could also be related
+to some of the dependencies in Awesome 3.3. I'm waiting for things to
+sort of even out on a number of fronts before I assign blame. (And
+switch distributions of GNU/Linux.)
+
+My response, of late, has been to just avoid the web entirely. This
+isn't a huge problem, as I try and avoid the web as much as possible. I
+mean, I lead a very networked/digitally connected life, but it turns out
+that most of it isn't web-based on a day-to-day working sort of way.
+
+The experiment, then is to see just how far in my avoidance of the web.
+The "information fast" isn't a startlingly new idea, and I'm sort of
+interested in seeing how this affects my computer usage on the whole.
+Information fasts work, by forcing/allowing you to take a cold turkey
+break from the information that you consume and then re-evaluating your
+information consumption habits and seeing what's worth sticking with and
+what's not. So basically I'm using this as an exercise to see: What
+changes, if I say "ok now web-browser," what tools and workflows do I
+develop, and is this a better way to work?
+
+Hints and suggestions would be helpful. There are some practices that I
+need to get set up with, and using more effectively. Twitter and
+identi.ca via IM (check). Offline, multi-computer RSS reading. Offline
+access/browsing to common resources (eg
+`WikipediaFS <http://wikipediafs.sourceforge.net/>`__ and other fuse
+resources; `YaOddMuseMode <http://www.emacswiki.org/emacs/Yaoddmuse>`__
+for the `EmacsWiki <http://www.emacswiki.org>`__, some way of reading
+`c2 wiki <http://www.c2.com/wiki/>`__ and so forth.)
+
+We'll see where that leads me. Do people have suggestions for tools in
+this (and other directions)? Has anyone done this before? Would anyone
+else be interested in doing the fast with me?
+
+I look forward to hearing from you!
+
+**Update:** I had a non-twitter related crash. I was browsing, loading a
+new page and scrolling on the existing page. Bam! I have, in response:
+upgraded the think-pad touch-point (or whatever) drivers to their jaunty
+versions as the sources were disabled during the upgrade.
+
+I've also, in this vein, installed and have a fairly effective copy of
+w3m, an emacs-accessible browser, running. While I don't think this is
+*the way forward* forcing myself to use an editor-based browser, might
+allow me to focus more effectively and rely on the Web more for
+information than for entertainment. *As it should be!*
+

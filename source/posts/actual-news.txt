@@ -1,0 +1,75 @@
+============
+Actual News!
+============
+
+.. post:: 2007-06-25
+   :author: tychoish
+
+Ok, maybe not, but it made for a good title, and I don't want to be here
+in two years thinking "yes, but *which* 'this week on tealart' is that?"
+when I'm looking through the archives.
+
+There will be a *Station Keeping* update tomorrow, and I'm quite excited
+by it, it's one of my favorites, we introduced to more new characters,
+but I think we get to see interesting sides of both characters, and it
+was a joy to write.
+
+Also tomorrow, I start a job working in an academic library/archive. I'm
+excited about that, and I think the work will be really interesting,
+this means that my time will probably be a bit short from here on out,
+but that's how these things go. I think I have enough time to keep up
+all the projects that I'm currently working on. The goal, is of course
+to get to a place where I can write effectively for TealArt (and other
+avocational projects) in a way that is efficient skillful. Or something.
+
+I also admit that I've started a new blog
+`tealart.com/tychosh <http://tychoish.com/tychoish>`__, but I'm just
+calling it tychoish. Anyway the idea is that by focusing some of my
+nattering tendencies elsewhere, TealArt can fit the blog-magazine format
+that it *keeps trying to be* better, and I can have fun elsewhere. I'm
+not really using the LJs any more, I'm not getting rid of them, but I
+much rather doing it on my own, and I'm quite pleased with the way it
+works. I've used, as you might know, `tumblr <http://www.tumblr.com/>`__
+and I feel like the new site does all that I would want in a non-tealart
+site. And so while you think, "*ah, he's dividing his energy, that can't
+end well*\ " I think in a lot of ways, I'm really consolidating. That's
+my story and I'm sticking to it.
+
+The other news of last week, is that I got (all) my wisdom teeth out
+last Thursday. It kind of sucked, but I'm almost feeling normal by now.
+Thankfully it was quick, and I'm feeling better now. I'm glad that I
+forwent general anesthetic, and kind of sad (but not) that the narcotics
+made me *more* sick. Aside from some lingering pain and obvious
+tenderness, about all I have to show is a bruise on my cheek, [1]_ and a
+few days of lost productivity. I think that's why I spent so much time
+futzing with /tychoish--it was the main thing I had spare time for.
+
+With luck we'll get a geek-related post from Chris this week, but I have
+my own in store: I wrote a post about note-taking and computer usage
+which I think is relevant to the kind of geek that I am, and I have
+recently come into a PC laptop which I'm faced with the problem of
+rescuing some files and then getting a working operating system
+installed on. I'm going to give `Ubuntu <http://www.ubuntu.com/>`__ a
+try (after, of course, I use `Knoppix <http://www.knoppix.org/>`__ to
+rescue the files), but I think it might be interesting to document this
+process a bit more. This is probably not on the table for this week, but
+in the future...
+
+There's always more Deleuze to get through, and I'll have a good one for
+you this Friday. I think I need to at some point--perhaps not
+immediately--do something to ground it a little better for the casual
+reader. I'm not sure what yet. I also finished reading a science-fiction
+book last week, and I think something of a book report is in order.
+Also, I know that the pictures of the knitting were popular, and I'd
+like to do some more of that soon.
+
+Anyway, I hope you have a good week, enjoy what you read here. Tell your
+friends about this little corner of the internet. It can't hurt!
+
+cheers, tycho
+
+.. [1]
+Frankly, I'm amazed that I have a bruise on the outside of my mouth,
+effectively from getting punched on the inside. Bodies are weird,
+don't let anyone tell you otherwise.
+

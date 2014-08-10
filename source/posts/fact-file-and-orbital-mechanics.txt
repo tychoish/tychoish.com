@@ -1,0 +1,111 @@
+===============================
+Fact File and Orbital Mechanics
+===============================
+
+.. post:: 2009-03-17
+   :author: tychoish
+   :tags: org-mode, cyborg, emacs
+
+I mentioned `the other day that I was looking to build a fact
+file <http://tychoish.com/rhizome/todo-list-bloat>`__, but that I wanted
+to follow up on this in a bit more length. As you know and/or have
+probably guessed, I'm a writer, and I consume a lot of information in
+the pursuit of this practice. That's par for the course. The problem is
+figuring out a way to store collected information so that it's useful
+later. Here's a story:
+
+I have a story that imagines a future where there are colonies and
+outposts throughout our solar system (among other things). I found
+myself a few days ago plotting out some details and I realized that I
+might be imagining a future with not only far flug outposts but also a
+substantially different system of orbital mechanics. I know about
+`Hohmann
+transfers <http://en.wikipedia.org/wiki/Hohmann_transfer_orbit>`__ and
+enough about gravity assists, that getting between planets in the solar
+system is complex. My hope is that by knowing a bit about these things,
+I can avoid rank absurdity. In any case, I found myself looking up the
+length orbits of Jupiter and Saturn around the sun (:sub:`11 `\ 29.5
+Earth-years respectively).
+
+Now mostly this was just to get a sense of the distance, because unless
+I *also* posit free, lightweight, super-powerful propulsion systems, a
+trip between Jupiter and Saturn is going to take a number of years (say,
+5-15; and even with posted amazing-drive, we're probably still talking
+several years,) and no matter how fast/what kind of propulsion system
+you use, there are going to be a very limited "windows" for transport.
+If you miss the buss from Jupiter to Saturn, it could be 10 or 20 years
+before you could get off world. Not to mention the *huge* impact this
+would have on the course of cultural development on these colonies.
+
+But having said that, this detail about the orbital lengths (though
+burned into my memory at this point), isn't the kind of thing that I
+track very well, and what about the next time I have a question like
+this? Or what about a news story that I come across, or the abstract of
+a scientific paper that catches my interest? This detail about orbits of
+the outer planets was really just the straw that broke the camels back.
+
+It was clear that I needed a *system* for storing information, facts,
+notes for later retrieval. I wasn't sure what that system would look
+like, or what I would need from it, but I was sure that something was
+better than the "read and hope" method I've been using.
+
+I did some brainstorming and came up with some basic requirements. I
+needed something pretty unstructured so that "records," which were just
+links and a few words would be just as complete as records that had
+lengthy notes. I needed built in meta-data functionality to store
+categories, tags, and citation information (links, date, identifiers).
+Easy capture and editing is a must, and while I was, and am, willing to
+consider functionality outside of emacs, but emacs is preferred, and it
+would take a lot for me to want something that couldn't be stored in
+plain text files.
+
+When other people (individuals) come to me with similar problems I
+almost always recommend private instances of
+`Wordpress <http://www.wordpress.org/>`__ where people can post notes.
+This often is just the right thing. Conceptually it works like a
+notebook or journal in the physical world, but it has good meta-data
+support (categories, tags, dates), you can use it from anywhere (the
+web, the API), and it's a mature system. This works great for a lot of
+people, but I'm not incredibly happy with the web-interface, and I'd
+need to rely on search more than I think I'd like.
+
+I put out a call on `identi.ca <http://www.identi.ca/tychoish/>`__ for
+help on this problem. There were suggestions of
+`PlannerMode <http://www.emacswiki.org/emacs/PlannerMode>`__ and various
+systems based on `org-mode <http://www.orgmode.org>`__ (which is what
+I'm inclined to use at this point.) I then had `this "moment"
+issue <http://tychoish.com/rhizome/todo-list-bloat/>`__ about not
+wanting my "fact file" to be built on some sort of to-do list. Todo
+lists are great, I love todo-lists (perhaps too much?) Having my
+information management software be built around "tasks" and "projects"
+provides too much of the wrong kind of structure.
+
+I was frustrated, as you might imagine. After all I just wanted some
+sort of index-able note-card system, that I could use to store some
+basic information without fuss. I've settled down a bit and I'm using a
+format using a skeleton/org-remember template to store my fact file in
+an org-mode text file (``data.org``). The entries look something like
+this:
+
+::
+
+* The title                    :a:list:of:tags:
+:PROPERTIES:
+:date: <2009-03-14 Sat>
+:cite-key: a-u/uid
+:link: http://tychoish.com
+:END:
+
+And then finally some notes text
+
+And the input is just an prompt-tab interface. I can also add more
+details to the properties, section. If that makes sense at a later date.
+So the creation of these records is pretty quick. I'll get come code up
+when I have something a bit more clear. In the mean time, I'd like to
+continue to have a bit of a discussion about this information management
+problem. It's a domain that is clearly very suited to technological
+enhancement, but at the same time there aren't a lot of solutions on the
+ground. I suppose that's where I come in, but feedback is most
+appreciated on interface questions, on alternate use cases and
+applications. I look forward to hearing from you...
+

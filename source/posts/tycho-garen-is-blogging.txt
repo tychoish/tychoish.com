@@ -1,0 +1,53 @@
+=========================
+\ttycho garen is blogging
+=========================
+
+.. post:: 2007-11-27
+   :author: tychoish
+
+So, this is what I get for writing entries ahead of time. That was a
+TealArt practice that I need to let go of, I guess.
+
+The `last entry <http://tychoish.com/rhizome/tycho-garen-blogger/>`__,
+which I posted just after midnight, was, stale before it even went live.
+I wrote it yesterday to describe my thoughts regarding the status of
+TealArt and tychoish, which as you can tell from the previous entry,
+I've felt for a while now, are at some sort of a crossroads. Something
+needed to change, and TealArt just wasn't fun for me anymore, and wasn't
+what I needed to be spending any time and energy on.
+
+So so last night, I imported all my old archives from TealArt (chris'
+went to `chris' new site <http://www.cgkreality.com/>`__) and basically
+everything is the way I want it.
+
+There was a slight snafu that some of you are probably painfully aware
+of: I forgot to turn off my `crossposting
+scripts <http://tychoish.com/rhizome/wordpress-livejournal-crossposting/>`__
+so, most embarrassingly I sent out 300+
+`tweets <http://www.twitter.com/tychoish/>`__ in the span of about 10
+minutes. The saddest thing is that I I couldn't get it to stop for
+another ten (and I still had to revert to a backup and try it again
+anyway). Sorry for the confusion. Also, all of my tealart posts are now
+backlogged on live-journal, and will likely stay there henceforth. Some
+are probably double posted, but such is life, and I don't really seem to
+care enough to go back and edit these things.
+
+After all that, I did realize that, even though I'm really keen on
+keeping the archives online, I really don't want anyone to actually
+*read* these posts.
+
+As for TealArt, moving forward, I've found a new CMS that I think will
+be perfect for the small, mostly static site that I hope to turn TealArt
+into in the next few weeks. I have a couple of projects--station
+keeping, some knitting patterns, maybe a podcast, maybe a science
+fiction collection, and so forth--that I think would be perfect for
+TealArt, but I think the structure of a blog, is something that won't
+really fit the kind of projects that I would hope to work on here. So
+this new CMS, is a good move, I think. I'm not trying to be coy about my
+plans, I mostly don't have any yet.
+
+Anyway, now that that's out of the way, I think we're ready to return to
+regularly scheduled programing around here.
+
+Onward and Upward!
+

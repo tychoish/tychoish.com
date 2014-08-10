@@ -1,0 +1,79 @@
+==================
+git Collaboration 
+==================
+
+.. post:: 2009-01-22
+   :author: tychoish
+
+I've been sort of coy about the details (because I don't want to jinx
+anything and there aren't many details out there), but I've decided that
+the novel I'm working on will probably appear as a podcast sometime late
+in the year. `Scott Farquhar <http://www.scottfarquhar.com/>`__ will do
+the reading and it'll be over on `Critical
+Futures <http://criticalfutures.com>`__ (and other places?) I'm excited
+about this, as I think it means a higher profile for my work, I've
+wanted to do a podcast for a long time, and it gives me something to
+"work towards" for this project, which had heretofore been a "so I'm
+writing another novel for myself because that's what I do," and that
+purpose is *really good* for my process.
+
+This post, however, is a writing-meets-technology post. I store all of
+my projects in `git <http://www.git-scm.com>`__ repositories. This is
+good, because it lets me track changes and revisions, back up and
+synchronize files between machines, and because I thought it might be
+fun to use git to collaborate with editors/provide history/source for
+the novel once it's more "done," or at least, as a fairly linear writer,
+I've gotten to a point where its clear that I *have* an intended shape
+for the story.
+
+While I'm an avid git proponent, and fascinated by the prospects
+contained in the software on a conceptual level, I don't do a lot of
+"distributed workflow," stuff myself on a day to day basis. Yet. So
+stuff about publishing branches, and even having more than one developer
+working at the same time in the system is a bit foreign to me because I
+haven't had to use it ever.
+
+So it's taken some getting used to, and I was tempted through the whole
+process to cave and get a git-hub account (with private collaborators)
+because I think the web-based interface for forking repositories is
+basically what I'm trying to do inside of one repository with (semi)
+public branches. Here's the setup:
+
+I have a bare repository on the server that I use as a centralized
+dumping ground for a lot stuff. While strictly speaking this isn't
+required it's nice to have a backup, a single place to collect data, and
+I have git-web setup on the server so I can git a birds-eye view of the
+repository if I get confused. I do all of my work in the master branch.
+I tag important commits if there's something unique that I delete out of
+later commits. And basically that's about all I've done in the fiction
+projects.
+
+Now, what I want to do is let Scott clone my repository *and* have a
+branch where he can edit, create files, leave notes, and so forth
+without affecting what I'm working on. Because I'm still writing pretty
+intensely, this also lets Scott (and potentially others,) get my changes
+as I push them onto the server, rather than having to exchange emails
+and all of that. Then when I'm ready to edit, I make my own editing
+branch based the latest from "master" merge/review Scott's edits, and
+then go through and edit myself once, and then when it's golden, I merge
+my editing branch back into master, and hopefully there's a book.
+There's also, something cool and performance about publishing not only
+the text of the book, but the development of that text.
+
+I can understand not wanting to let "previous and unfinished drafts" out
+into the wild, but there's something about the way that distributed
+version control systems don't just produce "previous drafts," but *all*
+previous drafts, which can as a group convey a certain kind of story
+onto themselves. I mean, I'm not particularly likely to go read through
+a total revision history, but I think knowing its there is pretty
+interesting, and being able to see key moments, drafts, and the editing
+process at work, is something that has a lot of merit.
+
+I'm not sure that I'll do this exactly the same way again in the future
+(paying for git hub seems like its worthwhile now that I know how to do
+it myself), but we'll see how it goes and I'll be sure to post a review
+of how the process goes, and at some point, you'll be able to see for
+yourself.
+
+Onward and Upward!
+

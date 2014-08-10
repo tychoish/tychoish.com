@@ -1,0 +1,75 @@
+=========
+BrowserOS
+=========
+
+.. post:: 2007-10-30
+   :author: tychoish
+
+My recent foray into web2.0 living, when I left my power cord at home
+yesterday, was an interesting experience, and has left me thinking a
+good deal about computer usage in the future.
+
+Before I get started lets just assume that by web 2.0 I mean, the move
+towards using tools like AJAX and Ruby-On-Rails to build quick and
+sturdy applications run server-side, and usually, centrally located as
+services. Google is like *the* web 2.0 company, but I mentioned
+`Meebo <http://www.meebo.com/>`__, and
+`37Signals <http://www.37signals.com/>`__ are great examples of the
+kinds of applications that are pushing these models.
+
+For example, ideally what GoogleDocs has over traditional office
+software is that it's platform, and even machine independent, and it
+uses high quality file formats. Also, there's a whole level of stuff
+that Google takes care of (updating the software, maintaining the
+servers, and so forth,) that traditional software users have to pay
+attention to.
+
+The side effect is that you have to "live" your computing life entirely
+in a web browser, which many of you may already be doing (I was watching
+theBoy do something on his computer, and I was sort of amazed at how
+much time he spent in a web browser and want not: I apparently live in a
+different world.) But I don't think this is the way to go: web browsers
+aren't very standard or consistent, and for the past 10 years, every
+browser I've ever used has consistently been the among the biggest and
+slowest applications I use regularly. (Clearly Photoshop wins this, no
+contest, and MS Office products are close, but I don't use the former
+very much and the latter at all any more.)
+
+As people start to use more than one computer, internet connectivity
+becomes more ubiquitous, and as large swaths of the computing (and
+developing) public starts to use non-Windows OSes [1]_ it makes sense
+that the smart thing to do from a development perspective is to write
+Web-based programs: everyone can use them regardless of platform, they
+work everywhere there's a connection, and in a lot of cases they're as
+easy if not easier to write than their desktop equivalents. [2]_
+
+Also, being Web-based is good for business: it means that you're
+charging people, not for the rights to the intellectual property that is
+your software, but for the use of that software running on their server.
+I'm all in favor of business models that "use" IP rather than "sell" IP.
+There aren't effective ways to sell IP, but there are lots of effective
+ways to generate services.
+
+But despite this, it's all incredibly unsatisfying. Web browsers make
+really bad application interfaces/layers, and writing new programs isn't
+always the best way to get better and more open file formats. I don't
+know, I think someday most of our computing won't happen on the devices
+we're holding in our hands, but I'm not sure that the way to acomplish
+this is through a web-browser.
+
+Just saying
+
+.. [1]
+So MS has most of total market, that's pretty much fact, but I figure
+that in certain markets, apple has a much larger share. College
+students, Designers, Hipsters, Ruby-on-Rails developers and so forth
+are all disproportionately Mac users, I'd figure. Adding this to the
+fact that Ubuntu is, I think doing well, and Vista continues to
+suck...
+
+.. [2]
+If you're administering a web-server that people are going to run
+your programs on, then you can write the program and know that it's
+going to run on a box with the right version of Ruby, or Python, or
+SQLite3 and so forth.
+

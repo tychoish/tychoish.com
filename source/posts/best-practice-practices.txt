@@ -1,0 +1,32 @@
+=======================
+Best Practice Practices
+=======================
+
+.. post:: 2014-05-10
+   :author: tychoish
+
+At work people often ask for more "best practices" guides. In some ways
+this is sign of success: they're no longer begging for fundamental
+reference material and descriptions of basic use. Nevertheless I almost
+always wince:
+
+1. "Best practices" carries an implicit sense of guarantee along the
+lines of "if you adhere to the best practices, then you won't run
+into problems," which is sort of difficult to assert with confidence,
+and is really a product design issue, not a documentation issue.
+
+2. It is really hard to make one-size-fits-all recommendations.
+
+3. Best practice-guides don't address actual needs of users, or actual
+solutions to real problems, because they generalize problems and
+solutions beyond the point of re-usability.
+
+This isn't to say that it's difficult or impossible to give
+recommendations, and indeed documentation *is* the best way that the
+purveyors of software have to to shape practices. However, the
+documentation should guide users towards better practices *everywhere*
+and isolating recommendations into certain types of documents is
+probably counter productive.
+
+Onward and Upward!
+

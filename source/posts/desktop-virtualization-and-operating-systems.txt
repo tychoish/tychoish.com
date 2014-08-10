@@ -1,0 +1,112 @@
+============================================
+Desktop Virtualization and Operating Systems
+============================================
+
+.. post:: 2009-10-21
+   :author: tychoish
+   :tags: cyborg, technology
+
+So what's the answer to `all this operating system and hardware driver
+angst <http://tychoish.com/rhizome/operating-systems-and-the-driver-issue/>`__?
+
+I'm going to make the argument that the answer, insofar as there is one
+is probably virtualization.
+
+**But wait, tycho, this virtualization stuff all about servers. Right?**
+
+Heretofore, virtualization technology--the stuff that lets us take a
+single very powerful piece of hardware, and run multiple instances of an
+operating system that, in most ways "think of themselves" as being an
+actual physical computer--has been used in the server way, as a way of
+"consolidating" and utilizing the potential of given hardware. This is
+largely because hardware has become so powerful that it's hard to write
+software that really leverages this effectively, and there are some
+other benefits that make managing physical servers "virtually" a
+generally *good thing*, and there aren't a lot of people who would be
+skeptical of this assertion I think.
+
+But on desktops? On servers where users access the computer over a
+network connection, it makes sense to put a number of "logical machines"
+on a physical machine. On a desktop machine this doesn't make a lot of
+sense, after all, we generally interact with the physicality of the
+machine; so having multiple, concurrently running, operating systems on
+your desk (or in your lap!) doesn't seem to provide a great benefit. I'd
+suggest the following two possibilities:
+
+-  Hypervisors (i.e. the technology that talks to the hardware and the
+operating system instances running on the hardware,) abstract away
+the driver problem. The hypervisors real job is to talk to the actual
+hardware, and provide a hardware-like-interface to the "guest
+operating systems." Turns out this technology is 80-90% of where it
+needs to be for desktop usage. This makes the driver problem a little
+easier to solve.
+
+-  Application specific operating systems. One of the problems with
+desktop usability in recent years is that we've been building
+interfaces that have needed to do *everything*, as people use
+computers for *everything.* This makes operating systems and stacks
+difficult to design and support, and there is all sorts of unforeseen
+interactions between all of the different things that we do, which
+doesn't help things. So desktop virtualization might allow us to
+develop *very slim* operating systems that are exceedingly reliable
+and portable, but also very limited in what they can accomplish.
+Which is ok, because we could have any number of them on a given
+computer.
+
+**I only need one instance of an operating system on my computer, why do
+you want me to have more?**
+
+See above for a couple of "ways desktop hypervisors may promote the
+growth of technology." But there are a number of other features that
+desktop virtualization would convey to users, but it mostly boils down
+to "Easier management and backup."
+
+If the "machine" is running in a container on top of a hypervisor, its
+relatively easy to move it to a different machine (the worst thing that
+could happen is the virtual machine would have to be rebooted, and even
+then, not always.) It's easy to snapshot known working states. It's easy
+to redeploy a base image of an operating system in moments. These are
+all things that are, when we live "on the metal," quite difficult at the
+moment.
+
+For the record, I don't think anyone is ever really going have more than
+five (or so) instances running on their machine, but it seems like
+there's a lot of room for some useful applications around five machines.
+
+And lets face it, TCP/IPA is *the* mode of inter-process communication
+these days, so I don't think application architectures would likely
+change all that much.
+
+**Won't desktop hypervisors have the same sorts of problems that
+"conventional operating systems," have today. You're just moving the
+problem around.**
+
+If you're talking about the drivers problem discussed earlier, then in a
+manner of speaking, yes. Hypervisors would need to be able to support
+all kinds of hardware that (in many cases) they don't already support.
+The argument for "giving this" to hypervisor developers is that largely,
+they're already working very closely with the "metal" (a great deal of
+hardware today has some support for virtualization baked in,) and
+hypervisors are in total much simpler projects.
+
+Its true that I'm mostly suggesting that we move things around a bit,
+and that isn't something that's guaranteed to fix a specific problem,
+but I think there's some benefit in rearranging our efforts in this
+space. As it were
+
+**Don't some of the leading hypervisors, like KVM and others, use the
+parts or all of the Linux Kernel, so wouldn't this just recreate all of
+the problems of contemporary Linux anew?**
+
+I'll confess that I'm a huge fan of the Xen hypervisor which takes a
+much more "thin" approach to the hypervisor problem, because I'm worried
+about this very problem. And I think Xen is more parsimonious. KVM might
+be able to offer some slight edge in some contexts in the next few
+years, like the ability to more intelligently operate inside of the
+guest operating system, but that's a ways down the road and subject to
+the same problems that Linux has today.
+
+--------------
+
+So there you have it. Thoughts?
+

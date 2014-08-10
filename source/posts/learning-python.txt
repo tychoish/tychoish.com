@@ -1,0 +1,48 @@
+===============
+Learning Python
+===============
+
+
+I'm not a programmer. I find myself saying this with great frequency.
+Which is weird, because I end up writing a fair amount of content that
+looks like (and probably is) code. Almost always this takes the forms of
+little shell scripts that do the things that I would other wise have to
+do by hand.
+
+Very early on in my development as a programmer and Linux user,
+`bear <http://code-bear.com/>`__ told me that the greatest thing about
+the shell was that once you figured something out, you could save it and
+reuse it whenever you needed it, and you never had to figure out *that
+thing* again. That's sort of the basis of how I live my life with
+computers these days.
+
+And it works great, and it means that I'm pretty comfortable with a lot
+of really powerful shell tools. I'm personally amazed by everything that
+I can make ``sed`` do. The problem is that there are limitations to what
+one can do with shell programing (nothing for the web, and no way to
+edge yourself into object orientation) or other more advanced
+programming techniques. Though certainly there are a lot of things that
+I could do using the shell, I sort of know enough to know the bounds of
+what's possible and what's absurd.
+
+So I've been trying to teach myself Python. Because it seems like a good
+option. Though I'm not a coder by any stretch, I read a bunch of code,
+and know enough about all of the various languages to appreciated Python
+and it's possibilities. Seems like a good neutral option and I'm pretty
+sure it can do everything I want or need it to for a while, and the
+worst case scenario is that the skills will be transferable if I need to
+change later.
+
+My first "project," I think is to rewrite [[code/build-novel]] to
+Python. I get what needs to happen, and it mostly just mangles some text
+files into a number of other files to keep source and publication
+versions of `Knowing Mars <http://tychogaren.com/mars>`__ in step with
+each other. The hope being that the script will be a bit more resilient,
+and also be more easily generalized to publishing other projects as I
+have them to publish.
+
+I've gotten the hang of mangling variables and reading settings from
+configuration (YAML rocks, and is killer easy to use.) Next up, learning
+more about creating, writing, and copying files, with a likely side
+course in regular expressions for Python. I'll keep you posted.
+

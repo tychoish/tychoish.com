@@ -1,0 +1,110 @@
+====================
+on git: in two parts
+====================
+
+.. post:: 2009-06-25
+   :author: tychoish
+   :tags: git, technology, cyborg
+
+A post about the distributed version control system
+"`git <http://www.git-scm.com>`__\ " in two parts.
+
+Part One: Git Puns
+------------------
+
+My identi.ca buddy `madalu <http://identi.ca/madalu>`__ and frequent
+commenter here posted a few weeks ago the `following
+notice <http://identi.ca/notice/4289351>`__:
+
+#ubuntu-one... No thanks! I'll stick with my home-brewed git +
+server + usb drive solution. My git repos breed like rabbits!
+
+Which basically sums up `my opinion on
+ubuntuone <http://tychoish.com/rhizome/freedom-and-ubuntu-one/>`__. But
+I thought that the "my git repos breed like rabbits" was both accurate
+(git repositories are designed to be replicated in their entirety), and
+a sort of funny way to put it. And being the kind of person that I am, I
+decided to see what other (potentially dirty) puns I could make about
+git. Here's what I came up with:
+
+what did one git repo say to another git repo? pull my diff
+
+what did mama git say when she found her remote in his room making
+new branches? octopus merge this instant!
+
+what did one git remote say to entice another remote to branch? it's
+ok we can just tell them we were cherry picking later.
+
+what did dr. git say when a repo complained of bloating? ``git gc``
+
+I should point out that these four puns all demonstrate a factual
+feature of git, though the "pull my diff" isn't exactly what happens.
+
+"Octopus Merge" is the method that git uses when there are a lot of
+divergent branches (more than three) that need to be merged together.
+Similarly "cherry picking" is a way to manually select what changes get
+merged together if you're not ready to do full merges, and ``git gc`` is
+the cleanup script that goes through and re-compresses and prunes the
+database so that your repo works faster and with less disk space.
+
+Anyway, I'm out of puns, you all are welcome to join in.
+
+Part Two: Atypical uses of Git.
+-------------------------------
+
+I'm sure I've written a bunch here about how I'm not *really* a
+programmer, and while this is true I do use git a lot. In part I think
+this is because git is really mostly an ad-hoc file system and also
+given how I write, the kind of writing I do isn't *that* different from
+programming.
+
+So aside from storing my writing projects, and my
+`orgmode <http://www.orgmode.org>`__, `I do things like store all of my
+mail directories in git. Which you might think is kind of
+weird <http://tychoish.com/rhizome/git-mail-3/>`__, but the truth is
+that it makes keeping lots of computers in sync a rather simple
+proposition, and its damn fast.
+
+I also have a directory I call "garen" (but used to call "main") that is
+basically my home directory. It has all my emacs lisp files, most of my
+non-mail related scripts, various configuration files. and so forth. It
+started out as a backup and workspace for smaller projects, but it's
+since morphed into "that one thing I need to have of my computer in
+order to actually work." When I was `setting up the
+server <http://tychoish.com/rhizome/adventures-in-systems-administration>`__
+it took a thousand things that might have been huge headaches and made
+them non-issues. Here's what this repo looks like:
+
+-  **emacs/** This is where my emacs-lisp files all live. I have a
+'init.el' file which is basically the standard .emacs file, and a
+'gui-init.el' file for code that I only want to run if I'm running
+desktop where I'll be running non-console emacs frames. As a result
+on my machines my .emacs file looks like this:
+
+``(load "~/garen/emacs/gui-init.el")``
+``(load "~/garen/emacs/init.el")``
+
+With the first line commented out if needed. End result, emacs loads the
+same everywhere, no thinking.
+
+-  **scripts/** I add this to my path, so that any little bit of bash
+script that I want to be able to use is accessable and the same on
+all my machines.
+
+-  **configs/** Generally my format is to have
+config\_file.machine\_name, for example: bashrc.leibniz. In the case
+of the bashrc, I have a ".common" file that has everything that all
+my machines need, while the machine specific files have everything
+that's... well specific, and a source statement for the common file.
+So my "real" .bashrc looks like this:
+
+``source /home/tychoish/garen/configs/bashrc.leibniz``
+
+And everything stays in sync between the machines. How cool is that.
+
+That's sort of the most important thing. The great thing is that this
+makes setting up a new user account on a server, or a box itself a piece
+of cake.
+
+Food for thought!
+

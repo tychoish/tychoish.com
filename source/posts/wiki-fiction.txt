@@ -1,0 +1,77 @@
+=================================
+Wiki Fiction and Critical Futures
+=================================
+
+.. post:: 2011-08-29
+   :author: tychoish
+   :tags: writing, critical-futures, science-fiction, publishing
+
+I'm starting preliminary development on a wiki fiction project that will
+eventually take over the criticalfutures.com domain, but is at
+[[critical-futures]] in this wiki for an incubation period. This post is
+a discussion of that history, my idea, and what I hope to accomplish.
+
+My friend `Julia <http://mutive.livejournal.com/>`__ and I have been
+corresponding on topics related to the future of publishing and genre
+fiction for a few weeks. When the topic turned to wikis, I spouted off
+the things I usually say about bootstrapping wiki participation (it's
+hard and pretty lonely,) then I had an idea.
+
+I read wikis, mostly wikipeida, a *lot*. For fun. I'm sure a lot of
+people do this, as "getting lost in wikipedia," is a thing that happens.
+You say, "I'm interested in public transit in Iran," and you get lost
+clicking through various pages related to rapid transit systems in the
+middle east, and then an hour or two is past and you really ought to
+finish that blog post. The same thing happens on the `c2
+wiki <http://c2.com/wiki/>`__ for me.
+
+While I wish I were less compulsive about it, reading wikis is a
+pleasurable reading experience, and since the format seems the web, why
+not run with it? The question becomes: why are we spending so much time
+figuring out the most ideal way to publish novels and short
+stories--forms that developed *with* the physicality of the book--in the
+digital age?
+
+To be fair, I think there's a place for digital distribution of
+paper-centric forms (periodicals and monographs,) but I doubt that in 50
+years "digital fiction," will mean eBook editions of novels. People have
+been making a similar point for some time about video games for a while.
+Interactive fiction is definitely a part of digital fiction, but I don't
+think it's the full story.
+
+*Meanwhile back at the point...*
+
+Here's the idea. We use wiki software to construct a website that is
+written as a light-hearted encyclopedia. In the vein of `TV
+Tropes <http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage>`__ meets
+Wikipedia except with fictional content. But there needs to be more than
+just page after page of exposition and condensed blather: my current
+plan is to have a "dialogue" section, which will be bits of dialogue and
+scenes published with some contextual metadata (when it happened, who
+was present, where it happened.) The dialogues can then be linked to as
+quasi-citations in the more conventional expository wiki pages.
+
+So basically I'm proposing a couple of things here. First, I want to
+splitting up all content into small self contained pages. This makes it
+better for multiple people to edit, because editing and writing can
+happen in a more parallel manner, and you don't need to agree to an
+outline, or write things in any sort of sequence. Second, shorter pages
+with more segmented content is easier to read for the attention limited.
+
+Having said that, I'm not sure that collaborative, [[for-all-that-will]]
+editing is really the way to go. The truth is that so few people edit
+wikis relative to the number of people who *could* edit wikis, that you
+might be better off having some sort of more select editorial community,
+just in terms of establishing buy-in from contributors and avoiding
+diffusion of responsibility. I'm undecided.
+
+Along a similar line of thought, I'm considering releasing release
+updates and new content on a regular basis (e.g. bi-weekly or monthly?)
+rather than every time an edit is made. This will require some sort of
+closed-development process. At the same time new wiki projects often
+fail because there's little incentive to return to a wiki to "see what's
+changed. Blogs, contrast are good at securing return visits.
+
+Thoughts? Anyone interested in being on the editorial board?
+([[discourse]])
+

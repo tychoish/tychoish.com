@@ -1,0 +1,48 @@
+========================
+Buildcloth v0.3 Planning
+========================
+
+.. post:: 2013-11-24
+   :author: tychoish
+
+I spent a lot of time at the end of the summer working on finishing out
+the basic
+`buildcloth <http://cyborginstitute.org/projects/buildcloth/>`__
+functionality, and haven't really gotten the chance to use it properly.
+There were some flaws:
+
+-  a dumb oversight means that the hash-based dependency checking
+doesn't work.
+
+-  Buildcloth is a bit complicated and designed for a general purpose.
+In practical terms, I made buildcloth to perform a task that I've
+been able to accomplish with 10% or less of the code.
+
+-  There's no good separation between "the management of a build system"
+and "the build system data" in the system as it currently exists.
+
+Buildcloth is a nifty idea, and one that I'd like to expand upon. Also
+since the project is still pre-1.0, it seems reasonable to take these
+lessons and work on building a more usable implementation.
+
+This post is a collection of thoughts on what I'd like to accomplish for
+0.3:
+
+-  pull out the job queue/running system from the build data
+organization.
+
+-  collect more state in the dependency checking system/infrastructure.
+
+-  separate data ingestion from build system organization.
+
+-  remove ingestion and processing logic from the command line tool.
+
+-  impose sub-module structure to make the interfaces for all of the
+different aspects of the program.
+
+No clue about time frame. Feel free (and encouraged) to leave comments
+if you're interested in helping or have a feature that you'd really like
+to see.
+
+Onward and Upward!
+

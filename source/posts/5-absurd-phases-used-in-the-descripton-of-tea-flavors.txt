@@ -1,0 +1,14 @@
+======================================================
+5 absurd phases used in the descripton of tea flavors.
+======================================================
+
+.. post:: 2007-12-06
+   :author: tychoish
+
+1. Woody and firm
+2. Strong and Robust
+3. Meaty and full
+4. Fruity and delicate
+5. Sharp and satisfying
+
+

@@ -1,0 +1,105 @@
+=============
+I Am a Writer
+=============
+
+.. post:: 2009-11-23
+   :author: tychoish
+   :tags: writing
+
+It's a weird thing, this "being a writer" stuff. I'm sure I've written
+about this here to some extent. As a kid, I think--at least I tell
+myself now--that I wanted to be a writer. There was something about
+writing that mystified me and challenged me and had me totally
+entranced. I had a hell of a time with writing in high school, enough
+that I really shied away from formal training as a writer in college in
+almost entirely. I took two English classes in college, sort of (they
+were cross listed as something else), and I knew for sure that I wasn't
+going to be a writer.
+
+Right.
+
+And then I got out of school, and something clicked. Actually, the
+revival of my blogging efforts that stuck hit during my final semester
+of college. And one thing lead to another and, here I am. I write this
+blog, that's you know... *fairly prolific*. I have job where I *write
+things* day in and day out. I write fiction a fair piece, though not as
+much as I might like.
+
+One might think--I certainly did--that getting a job *as a writer* would
+put to bed all of my insecurities and doubts about being a writer. But
+it doesn't. I'm not complaining, mind you, but it's still weird.
+
+Fundamentally, **writers have a peculiar way of being in the world that
+is always a bit unsettling and alienating**. Certainly we're all
+different, and the experience of being a poet is different than the
+experience of being a technical writer is different from being a science
+fiction, but I'm convinced that there are some common features.
+
+Writing, at least for me, is sort of about turning experiences into
+words. This isn't some wishy washy practices of translating the feeling
+of moments into words; but rather a pretty simple observation about
+practices. No matter if I'm writing science fiction stories or systems
+administration documentation, my ability to write is always dependent
+upon doing things in the world and gathering experience. Without this, I
+run out of stored experiences, of "mojo" and my writing becomes flat and
+painful, if I can manage to write anything at all.
+
+Now the writing part, after a while becomes pretty straightforward: Sit
+down. Figure out where you need to go in a given text and about how long
+you have to get there plus a few other variables, like voice and
+audience. And then you just sort of let the "experience," part flow out
+onto the page [1]_ as you sort of mold the thoughts into the path you
+need to follow.
+
+And this leaves the walking through the world part. It's reflexive and
+feels normal, until you realize that you are instinctively collecting
+images, snippets of speech, moments, situations, little stories, and
+other bits of miscellany, in some master database in your head. Every
+conversation becomes an experiment in expressing an idea or a theory.
+It's not so overt that it makes "living" difficult, or conversations
+awkward (though it does sometimes), but I sometimes have to remind
+myself that what's going on in my head isn't what's going on in
+everyone's head. No really.
+
+Another problem with being a writer is that, *everyone* writes, or knows
+how to, at least in the abstract. Some folks don't like it, and some
+folks aren't particularly "skilled written communicators," but we all
+know how to do it. This isn't the case for a lot of professions,
+disciplines, or even hobbies. Not everyone can write a computer program,
+not everyone can knit a sweater, or cook a meal, or analyze great
+amounts of data, engineer more advanced agricultural technologies and
+crops, and so forth.
+
+This creates some tension: since so many people know how to write, and
+yet most people *don't* as a matter of course, there is some
+mystification around what writing requires. "What are you doing this
+weekend," they'll ask. "I was thinking of staying home and writing, and
+maybe going for a walk or two," I say gleefully. "That sounds dull, and
+don't you " they say. "Well, yes, but it sounds amazing. I wonder if I
+have enough food to get me through the weekend," I say. Welcome to my
+life.
+
+Despite all this I nearly always feel like a cheat and a fake. My
+fiction is totally unpublished, and I'm not sure I'm writing in the
+correct direction, or doing the right things to be able to really have
+an active fiction writing career in the next 7-10 years. I'm constantly
+unsure about the success of the blog: it's self published, sometimes it
+feels like I don't have any reviewers outside of friends and
+readers-who-have-become-friends. And while I'm quite pleased and proud
+of what I've been able to accomplish at work, and I think that We/I've
+been able to be pretty successful, I'm really part of a team and what I
+write is so terribly niche.
+
+I think that's the other part of being a writer that's so strange. No
+matter how much of it you do, no matter how much of your income is the
+direct result of the way you commit words to paper (or emacs buffer):
+you're still *just another hacker*.
+
+But maybe this is true for everyone. I can accept that. I hope you all
+have a good day.
+
+.. [1]
+Wow, I used a dead-tree metaphor. Have no fear, when I say "page" I
+really mean `emacs
+buffer <http://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html#Buffers>`__.
+

@@ -1,0 +1,61 @@
+========================
+Creating Useful Archives
+========================
+
+.. post:: 2010-07-22
+   :author: tychoish
+   :tags: information-management, new-media
+
+I've done a little tweaking to the `archives for dialectical
+futurism <http://criticalfutures.com/archives/>`__ recently, including
+creating a new archive for `science fiction and
+writing <http://criticalfutures.com/archive/science-fiction>`__ and
+being who I am this has inspired a little of thought regarding the state
+and use of archives of blogs.
+
+The latest iteration of this blog has avoided the now common practice of
+having large endless lists of posts organized by publication month or by
+haphazardly assigned category and tag systems. While these succeed at
+providing a complete archive of every post written, they don't add any
+real value to a blog or website. I'm convinced that one feature of
+successful blogs moving forward will be archives that are curated and
+convey additional value beyond the content of the site.
+
+Perhaps blogs as containers for a number of posts will end up being to
+ephemeral than I'm inclined to think about them, and will therefore not
+require very much in the way of archives, Perhaps, Google's index will
+be sufficient for most people's uses. Maybe. I remain unconvinced.
+
+Heretofore, I have made archives for tychoish as quasi-boutique pieces:
+collections of the best posts that address a given topic. This is great
+from the perspective of thinking about blog posts as a collection of
+essays, but I've started to think that this may be less less useful if
+we think of blogs as a collection of resources that people might want to
+have access to beyond it's initial ephemeral form.
+
+Right now my archives say "see stuff from the past few months, and
+several choice topics on which I wrote vaguely connected sequences of
+posts." The problem with the list of posts from the last few months is
+that beyond date, there's not a lot of useful information beyond the
+title and the date. The problem with the topical archives is that
+they're not up to date, their not comprehensive even for recent posts,
+and there's little "preview" of a given post beyond it's title. In the
+end I think the possibility of visiting a topical archive looking for a
+specific post and *not* finding it is pretty large.
+
+In addition to editorial collecting, I think archives, guides, or
+indexes of a given body of information ought to, provide some sort of
+comprehensive method for accessing information. There has to be some
+middle ground.
+
+I think the solution involves a lot of hand mangling of content,
+templates, and posts. I'm fairly certain that `my current publication
+system <http://wiki.github.com/mojombo/jekyll/>`__ is probably not up
+for the task without a fair amount of mangling and beating. As much as I
+want to think that this is an problem in search of the right kind of
+automation, I'm not sure that's really the case. I'm not opposed to
+editing things by hand, but it would increase the amount of work in
+making any given post significantly.
+
+There is, I suspect, no easy solution here.
+

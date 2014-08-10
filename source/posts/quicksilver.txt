@@ -1,0 +1,39 @@
+===========
+quicksilver
+===========
+
+.. post:: 2007-09-07
+   :author: tychoish
+
+.. raw:: html
+
+<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=8493378861634507068&hl=en" flashvars="> </embed>
+
+A video of Alcor (identity revealed, news at 10) Talking about
+quicksilver, how it's constructed, history, the future, and some stuff
+about UI stuff that I think is really cool, mostly because I'm a geek,
+but you knew that.
+
+Also, he's cute, but you probably knew I would say that because I'm just
+that predictable.
+
+I have to say, that I think quicksilver is probably the marker of the
+"real" mac geek. We might not all use it all the time, but most of us
+have it and know about it.
+
+I have to admit that I've been using it less of late, though that's
+started to change. There are a lot of things that I've found are just
+easier to manage in other ways. For instance, I have two "append to
+specific files" shell scripts that are aliased in my shell for appending
+to my todo lists and my "collection notebook" which I find is a lot
+easier than using quicksilver, and I've gotten into a place where I'm
+only using a very small number of programs: Adium, MarsEdit, TextMate,
+and Mail for most things, with NetNewsWire, Camino, and Preview
+reading/displaying content. I don't really use iTunes on a day to day
+basis, which was one of those things that quicksilver controls really
+well.
+
+Anyway.
+
+Cheers!
+

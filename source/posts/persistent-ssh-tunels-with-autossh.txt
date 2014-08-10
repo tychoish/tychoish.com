@@ -1,0 +1,74 @@
+==================================
+Persistent SSH Tunels with AutoSSH
+==================================
+
+.. post:: 2010-11-09
+   :author: Sam Kleinman
+   :tags: software, technology, linux
+
+Rather than authenticate to a SMTP server to send email, which is
+fraught with potential security issues and hassles, I use a SSH tunnel
+to the machine running my mail server. This is automatic, easy to
+configure both for the mail server and mail client, and incredibly
+secure. It's good stuff.
+
+The downside, if there is one, is that the tunnel has to be active to be
+able to send email messages, and SSH tunnels sometimes disconnect a bit
+too silently particularly on unstable (wireless) connections. I (and
+others, I suspect) have had some success with integrating the tunnel
+connection with pre- and post- connection hooks, so that the network
+manager automatically creates a tunnel after connecting to the network.
+but this is a flawed solution that produces uneven results.
+
+Recently I've discovered this program called
+"`AutoSSH <http://www.harding.motd.ca/autossh/>`__," which creates an
+SSH tunnel and tests it regularly to ensure that the tunnel is
+functional. If it isn't, AutoSSH recreates the tunnel. Great!
+
+First start off by getting a copy of the program. It's not part of the
+OpenSSh package, so you'll need to download it separately. It's in every
+pacakge management repository that I've tried to get it from. So
+installation, will probably involve one of the following commands at
+your system's command line:
+
+::
+
+apt-get install autossh
+pacman -S autossh
+yum install autossh
+port install autossh
+
+When that's done, you'll issue a command that resembles the following
+
+::
+
+autossh -M 25 -f tychoish@foucault.cyborginstitute.net -L 25:127.0.0.1:25
+
+Really, the important part here is the "``autossh -M 25``\ " part of the
+command. This tells ``autossh`` to watch ("monitor") port number 25 on
+the local system for a tunnel. The rest of the command (e.g.
+"``-f -L 127.0.0.1:25:127.0.0.1:25 mailserver@tychoish.com -N``\ ") is
+just a typical call to the ``ssh`` program.
+
+Things to remember:
+
+-  If you need to create a tunnel on a local port with numbered lower
+than *1000*, you'll need to run the ``autossh`` command as root.
+
+-  SSH port forwarding only forwards traffic from a local port to a
+remote port, through an SSH connection. All traffic is transmitted
+over the wire on port 22. Unless you establish multiple tunnels, only
+traffic sent to the specific *local* port will be forwarded.
+
+-  Perhaps it's obvious, but there has to be some service listening on
+the specified remote end of the tunnel, or else the tunnel won't do
+anything.
+
+-  In a lot of ways, depending on your use case ``autossh``, can obviate
+the need for much more complex VPN setups for a lot of deployments.
+Put an autossh command in an ``@reboot`` cronjob, with an account
+that has ssh keys generated, and just forget about it for encrypting
+things like database traffic and the like.
+
+Onward and Upward!
+

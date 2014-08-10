@@ -1,0 +1,71 @@
+=============
+Anti-Rodentia
+=============
+
+.. post:: 2011-03-29
+   :author: tychoish
+   :tags: productivity, cyborg
+
+I hate computer mice. A lot.
+
+The closest I've gotten to liking a pointing device is an acquiescence
+to the TrackPoint on the laptops I use. That's the little red dot in the
+middle of the ThinkPad keyboards. My problem with computer mice is the
+context switch between "typing-mode" and "mousing-mode." Moving between
+the modes is jarring and inefficient. I've been using
+`StumpWM <http://www.nongnu.org/stumpwm>`__ and other similar window
+managers for years now and as my need for the mouse decreases my
+irritation with needing to use a mouse increases.
+
+I've been struggling for a few months with a bit of a problem: Several
+months ago I got a new bigger ThinkPad, a T510, while it has my beloved
+TrackPoint there is also a TouchPad. After years of only using laptops
+with the red dot, this was very disconcerting. How did I keep from
+triggering the touchpad with my wrists? Couldn't I just turn the damn
+thing off?
+
+I did, and everyone who tried to use the computer after that was
+dismayed, and I didn't care. Except, I found out that, apparently,
+disabling the touchpad also disables all non-TrackPoint pointers. So
+when I plugged the laptop into the docking station, the external mouse
+didn't work.
+
+Blast.
+
+The solution to disabling and enabling the mouse on the fly, that
+follows isn't as pretty as I'd like, but it works.
+
+**UPDATE**: Turns out that my original procedure only *appears* to work.
+I've made the following modification to the ``toggle-mouse`` script,
+*using a stock xorg.conf* file.
+
+**File:** */usr/bin/toggle-mouse*
+
+::
+
+#!/bin/sh
+
+TOUCHPAD=`xinput list | egrep "TouchPad" | sed -r 's/.*id=([0-9]*).*$/\1/'`
+
+if [ `xinput list-props "$TOUCHPAD" | egrep -o "[0-9]$" | head -n1` -eq 0 ]; then
+xinput set-prop "$TOUCHPAD" "Device Enabled" 1
+elif [ `xinput list-props "$TOUCHPAD" | egrep -o "[0-9]$" | head -n1` -eq 1 ]; then
+xinput set-prop "$TOUCHPAD" "Device Enabled" 0
+else
+xmpp-notify "Your mouse is probably screwed up somehow"
+fi
+
+Test the output of
+"``xinput list | egrep "TouchPad" | sed -r 's/.*id=([0-9]*).*$/\1/'``\ ",
+and inspect "``xinput list``\ " to make sure that the value of
+``$TOUCHPAD`` is the xorg ``id`` of the touchpad (or other device) that
+you want to disable.
+
+I'd actually recommend *not* putting this in ``/usr/bin/``, but just so
+long as it's in the path. Then run ``toggle-mouse`` at the command line.
+You may need to run this as root-suid, for your system system is
+configured. Tweak the ``TOUCHPAD`` variable as needed.
+
+[[If you have a better solution, I would be terribly interested in
+hearing about it\|discourse]].
+

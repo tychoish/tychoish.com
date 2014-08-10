@@ -1,0 +1,47 @@
+=================
+Critical Practice
+=================
+
+.. post:: 2011-07-07
+   :author: tychoish
+   :tags: theory, academia
+
+Being a critic is not simply looking for the points of failure,
+shortcomings, and breaking points in cultural artifacts (e.g. music,
+art, literature, software, technology, and so forth.) Criticism is a
+practice of comparison and rich analysis and a way of understanding
+cultural production. One might even call criticism a methodology, though
+"methodologizing" criticism does not give us anything particularly
+useful, nor does it make any practices or skills more concrete.
+
+Criticism is really the only way that we can understand culture and
+cultural products. In short, criticism renders culture meaningful.
+
+I wrote the above in response to this "`On Being a
+Critic <http://bytebaker.com/2011/06/16/on-being-a-critic/>`__\ " post
+that a long time reader of this site wrote a while ago. Most of the
+differences between our approaches to criticism derives from technical
+versus non-technical understandings of critical practice. With that in
+mind, and in an effort to consolidate some thoughts about methodology,
+criticism, and theoretical practice, I'd like to provide two theses that
+define good critical practice, and provide some starting points for
+"getting it right:"
+
+-  Criticism is comparative. If you analyze a single thing in isolation,
+this analysis is not criticism. By contrast, one of the best ways to
+make poor criticism more powerful is to include more information
+(data) to strengthen the comparison. Comparison should highlight or
+help explain the phenomena or objects you are critiquing, but should
+always serve agenda and goals of the criticism to avoid overloading
+readers with too much information.
+
+-  Criticism ought to have its own agenda. It is impossible to avoid
+bias entirely, and from this impossibility springs criticism's
+greatest strength: the power to productively examine and contribute
+to cultural discourses. While critical essays are perhaps the most
+identifiable form of criticism, there are others: novels, lectures,
+films, art, and perhaps even technology itself, can all be (and often
+are) critical practices in themselves.
+
+Everything else is up for grabs. [[Discuss\|discourse]]?
+

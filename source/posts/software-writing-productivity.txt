@@ -1,0 +1,122 @@
+===============================
+Software, Writing, Productivity
+===============================
+
+.. post:: 2006-12-06
+   :author: tychoish
+
+So this just decided to be a TealArt entry when I wasn't looking.
+
+I've been reading 43 Folders for a month or so at this point, and I find
+it kind of delightful. For those of you who don't know the site, done by
+Merlin Man, is all about productivity from a geek/mac user perspective.
+This is terribly cool, and has allowed me to crystalize a lot of
+thoughts I've had about my own digital (and really life) organization.
+The following are some of these thoughts.
+
+.. raw:: html
+
+<h5>
+
+Productivity
+
+.. raw:: html
+
+</h5>
+
+One thing that Merlin goes on about is David Allen's Getting Things Done
+approach. Frankly the corporate productivity slant is kind of a put off,
+but there are a number of tenants that reading 43f and associated
+materials regarding GTD that are helpful, and summarize a number of
+things that I think I noticed. For instance, I really like the emphasis
+on collecting data so that your organizational system isn't in your
+head. I've generally been pretty good about keeping track of things in
+my head, but it requires a lot of attention to make sure that you're on
+top of things, and if you can get it off your mind, you free up
+attention from meta-tasks, to actual tasks. In a similar vein the "GTD"
+methodology suggests that you separate meta data from project/relevant
+data, and then only have one "system" whatever it is for organizing this
+data (I suppose technically two, one for meta and one for project, but
+whatever), so that your brain isn't preoccupied with keeping the
+organization systems in synch. GTD also recommends that you organize
+your tasks into projects (a collection of tasks that combine to equal a
+gestalt [1]_) the tasks which make up the project, and then output this
+data by context (where the task needs to get done, or what resources are
+necessary).
+
+This entry, as initially envisioned was mostly to be about the "not
+splitting your/my attention between multiple systems for managing
+project data," so I'll get on with writing that entry, but I just wanted
+to provide that little summary. I have some interesting commentaries on
+the "GTD Community," and what not that I think might be interesting to
+share at some point, so just keep that in the back of your mind.
+Anyway...
+
+.. raw:: html
+
+<h5>
+
+Software
+
+.. raw:: html
+
+</h5>
+
+I just discovered a GREAT novel/long project writing program. I'll putz
+around with it after break, but it seems to have a lot of great
+features. Don't get me wrong, I really love my wiki program for all
+sorts of day to day editing and drafting, but for any sustained piece of
+writing over, say 2,500 words, it doesn't do so well. In addition to
+being awesome in terms of editing/output formating, it has a lot of meta
+features (like a database, marginal notes, and a note pad) that makes
+the writing long projects super good. If there was one thing that I wish
+this program had that it doesn't is footnotes.
+
+VoodooPad, the wiki program, is basically a wiki-ified TextEdit (Word
+Pad for the PC users out there), and while it does a great job of
+editing RTF type files, and I like a lot of the features, I find it best
+for planning, and note taking type applications. Having said that, this
+semester, it has basically been the *only* application that I've used
+for text editing of any kind, and while I fully expect to continue to
+use it into the future, I've been feeling the limits of the program.
+
+I think this is an issue that I'll take up in another post, but I think
+Wiki's generally, (and this is perhaps due to wikipedia's influence in
+particular), encourage "pages" to take on the structural role of
+paragraphs, in the conceptual process. This is all fine and dandy, but
+I've always been a long form kind of guy, and I'm not sure scholarly and
+the kind of creative writing I might be prone to doing, is ready for the
+kind of nonliearity that this kind of organization might produce. This
+linearity/nonlinearity, is definitely something that I go back and forth
+on a bunch. But as a *system*, I think the Wiki organization works best,
+so I don't know. In any case this new editor might answer the problem
+with long form and presentation work, without disrupting the system
+overly much.
+
+.. raw:: html
+
+<h5>
+
+Writing
+
+.. raw:: html
+
+</h5>
+
+As I've ruminated for a while on this site, and to a few of you, I kind
+of regret that I wasn't either particpating in NaNoWriMo, or in the
+process of writing something creative this November. In response, I also
+have a great screen writing program that I have a lot of love for. My
+goal next semester is to get back into writing for real, I think. I
+tried to outline something this summer which fell flat, a little, but I
+might be able to run with it. I'm also tossing around an idea for an
+academic paper next semester which I think would get me to read
+(hopefully) a number of cool science fiction books (Tripree, LeGuin,
+Delany) which I think would be inspiring. Or something.
+
+Cheers, tycho
+
+.. [1]
+ok, so maybe that's my term... by the way, weblogs need (better)
+footnote settings.
+

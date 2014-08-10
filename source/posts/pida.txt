@@ -1,0 +1,49 @@
+====
+PIDA
+====
+
+.. post:: 2009-02-27
+   :author: tychoish
+   :tags: programming, software, cyborg, technology
+
+A few weeks ago, `a friend <http://identi.ca/pobega>`__ told me about
+this IDE (integrated development environment) called
+`PIDA <http://pida.co.uk/>`__, and while I'm nothing more than a casual
+programmer, my interest was immediately piqued.
+
+We'll call it part of my interest in how programmers work. The truth is,
+as a text-editor junkie, my impulse is to say "meh, IDEs are passe," but
+I think that's probably unfair, and in my `writing IDE
+post <http://tychoish.com/rhizome/writing-ide/>`__ I think I
+recognized--by analogy--their worth. In any-case there's something sort
+of nifty about PIDA: rather than recreate tools, it just makes use of
+what's already there: the editor is emacs (or vim), the version control
+system is whatever you want (and already use). PIDA just brings all
+these things together in a nifty little package.
+
+On the one hand, it's not a really big deal. Cobbling together working
+software from a bunch of different existing tools isn't particularly
+new. This is sort of the basis of unix-like computing, and further more
+it tracks the ways most people/geeks actually use computers: by finding
+the best tools for all of the jobs they have to do and then using them.
+This way of interacting seems to hold true for command-line and
+graphical users, I think. So rather than recreate the wheel, PIDA just
+uses all the existing wheels. The saddest part is that we don't see more
+things like this in the graphical application world.
+
+The end result of this mode of application development is that we're
+given/build powerful tools that function in familiar ways *and* that are
+more powerful as a result of their integrations.
+
+And that's about it.
+
+I initially thought that this was going to be a really long and really
+blathering post about integrated tools, and the power of open
+source/free software to allow tools to be combined rather than be forced
+to compete. While these are indeed important issues, they're pretty self
+explanatory, and IDEs like PIDA provide a great example of how this can
+be the case, so much so that I find myself saying "why aren't there more
+programs like this?"
+
+Why not indeed?
+

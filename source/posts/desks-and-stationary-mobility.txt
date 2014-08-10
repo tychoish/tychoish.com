@@ -1,0 +1,57 @@
+=============================
+Desks and Stationary Mobility
+=============================
+
+.. post:: 2011-04-04
+   :author: tychoish
+   :tags: productivity, cyborg
+
+This is a post about mobile technology in an unconventional sense. I
+think I'm probably an extreme "mobile" technology user: I ride *a lot*
+commuter rail and use my laptop extensively on the train. Then, I work
+on a laptop all day. In the evening, I often do at least a little
+additional work, again on the same laptop. There is, after all, always
+writing (like this post!) to fill any remaining free time.
+
+I'm not a terribly typical mobile user. My main "mobile device" is a
+little ThinkPad (and sometimes a larger ThinkPad,) running Linux and a
+lot of Lisp (emacs and otherwise.) It's not ideal for every situation:
+there are times when I just can't bare to open the laptop again or it's
+unfeasible (and there's always the Kindle for times like those.) Most of
+the time it works well.
+
+It's hard to omit discussion of the "tablet" and the iPad. For me, the
+fact that tablets are not general purpose computers is a huge deterrent.
+This is probably not the case for everyone, though there are lots of
+shades to this debate. I think the more interesting question is not "do
+people need general purpose tablets?" and more "how will more ubiquitous
+embeded-type systems effect the way people will approach 'general
+purpose' computing environments" from here on out? Honestly, this in
+computing practice has already happened, but I think it will continue to
+pose important questions for users and developers as it continues.
+
+The struggle, for me, revolves less around the question "how do I work
+remotely?" and more around "how do I *also* work when I'm at a desk?"
+The adjustment can be hard: For a while, I was so used to working on the
+train, and in random chairs, that I had a hard time focusing if the
+computer wasn't actually on my lap. Bad ergonomics is only the start of
+this.
+
+The current solution is to set up desks and workstations that use the
+same laptops and systems so that I'm not perpetually switching between
+fixed computers and mobile computers. I'm also keen for these desks to
+have their own appeal: bigger monitors, nice keyboards, and easy to
+attach power cords. I've also attempted to tie together all of the "I'd
+like to switch between laptop-mode and desk-mode," functions (e.g.
+network connection, monitor attachment, window layout) into easy to
+trigger operations, so I can get started more quickly. Nice. Seamless.
+Efficient.
+
+The lessons: There are many ways to maintain technical (cyborg)
+coherence despite/during geographical movement and sometimes that
+technology isn't particularly cutting edge. Sometimes the best way to
+break yourself of a habit you don't like is to play a game with yourself
+where you establish a more attractive option. Finally, a very small
+change or automation can be enough to take something difficult and make
+it much easier or something unpleasantly and make it workable.
+

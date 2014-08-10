@@ -1,0 +1,102 @@
+=============================
+Publishing Hyper(digital)text
+=============================
+
+.. post:: 2007-04-13
+   :author: tychoish
+
+How do you publish hypertext? Get a website and an FTP client. Simple
+questions beget simple answers after all.
+
+While I think that simplicity should rule supperme I've been looking
+through a bunch of hypertext fiction projects on the internet (for an
+upcoming list for the series) and I can see why this media hasn't taken
+off in the way that we might have expected: most hypertext fiction looks
+dated from a design perspective, and although I think the writing is
+often quite good it's too gimmicky, which impedes the reading
+experience. At some point we'll have to make room for a rant about
+genre's and literary experimentalism, but for now I'll stick to two
+themes that are really important to the way I might think about
+hypertext publishing. The first is a separation of form and content (a
+la css and xml), and the second has to do with the way that the
+publishing model works in a digital age.
+
+Form and Content
+~~~~~~~~~~~~~~~~
+
+One of the biggest problems with early web ventures, let call it Web .5
+(before blogs) and Web 1.0 (after blogs but until lets say, the advent
+of gmail; my demarkations are my own and fairly arbitrary), was the way
+that designs were hard coded into the same pages that held the content.
+While arguments can be made regarding authorial control, the problem
+with design/content merging is standardization. It's hard to update a
+website/hypertext product's presentation (or content) when you have to
+sift through a lot of irrelevant content, in every page in the document
+for every edit. With the advent of dynamic content (SSI/shtml
+theoretically, but really PHP), and CSS (style sheets,) this process is
+much simplified and centralized. Basically style sheets allow you to, in
+a single place, define a color for XYZ objects rather than defining the
+color of every XYZ object as red, every time. Dynamic page generation
+requires the server to do a little work, but basically allow the user to
+rather than quote something, reference another file (what, I think
+Theodor Holm Nelson refers to as *transculsuion*). Again these
+techniques allow us to produce hypertext that easier to edit, adapt to
+new settings, and manage.
+
+These tools much more standard these days than they were even 4 years
+ago, and make it posssible, I hope to allow hypertext products to endure
+longer-term, and make it possible for these texts to develop and change,
+with out subjecting their authors to incredible daunting revamping
+processes. Why does this matter for publishers? It seems that hypertext
+displays are hindered by unclear design standards or convention. We know
+how to read books, we don't have the same sort of intitutive backgrounds
+for hypertext, and this is something that needs to be addressed in some
+sort of meaningful way. Also, some sort of standardized design, would, I
+hope allow a hypertext to be published not just on *your* website, but
+in a number of different hypertext environments, like portable devices,
+kiosk/console setups, multiple websites, and as offline bundles, which
+would be roughly analogous to paperback, hardback, (and etc.) editions
+in the dead tree world.
+
+Publishers without Presses
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In a lot of ways I don't think that drawing analogies between new and
+old media is the most productive method in the world. For instance,
+while blogs are a lot like news paper columns (particularly at TealArt),
+there's a way in which a blog is nothing like a newspaper column. The
+same with pod-casts and radio. Similar in some basic fundamental ways
+(audio, format), but compleatly different in terms of other features
+like distribution, monitization models, and production frameworks. So
+having said that, I'd like to think about the role of the "publisher" in
+the hypertext context.
+
+Publishers, by my eye perform a number of important roles: they
+undertake some of the (financial) risk of publication, they organize
+editorial production (copy editing, technical editing,
+layout/typsetting, etc.), they organize the promotion and advertising,
+and they help grant legitimacy.
+
+These are all things that an aspiring creator/writer can of course do,
+and we've seen all sorts of levels of self-publishing from Thomas Paine,
+to Edgar Rice Burrows, to the hordes of 'Zine makers, to god only knows.
+The problem with this is that there are only so many hours in the day
+and you can spend your time publishing your books or writing them. Also,
+its incredibly difficult to grant yourself legitimacy (though some
+self-published authors can pull it off, they generally have a name for
+themselves through other means) and promotion is hard to maintain on the
+same level.
+
+So while self-publishing has become much easier, particularly in
+digital/hypertext formats, some sort of publisher model, might still be
+really beneficial. I might tend toward a more self-publishing co-op
+model, but it's along the same lines.
+
+In order for hypertext to be successful, it needs to both be readable,
+and read, and while authors/creators have some measure over the latter,
+doing something to replace/fill the publishers role, in this "new"
+media, is something that I think would probably help promote consumption
+and consumability.
+
+'till next time, tycho
+

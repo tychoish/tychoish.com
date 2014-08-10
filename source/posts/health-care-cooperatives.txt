@@ -1,0 +1,59 @@
+=========================
+health care co-operatives
+=========================
+
+.. post:: 2009-08-28
+   :author: tychoish
+   :tags: economics, politics
+
+This is I think part of a "phase two" of a series of articles I wrote a
+few months ago about political economies, about corporate structures,
+about "hacker centric" business models. In that vein of thought, I
+suppose this post was inevitable.
+
+My argument, in "phase one" was that big "corporations" were poorly
+constituted to develop sustainable business models, to act in the public
+interest, and to further the best interests of their employees and
+customers. I made the argument that we needed structures in corporate
+law (and in culture at large) to recognize "co-operative" (coops)
+organizations that promoted organic self-organization, and more nimble
+institutions that could participate in "authentic economic exchange."
+
+I've been having a lot of conversations in the past few weeks that have
+revolved around the current progress of the health-care "reform" process
+in America, and I find that I keep coming to the same conclusion:
+
+*The rising costs of health care in the United States, is largely due to
+the overhead imposed by the insurance industry. Both in the increased
+bureaucracy that service providers have to endure (so service providers
+raise their fees to cover this cost,) and secondly in the form of the
+insurance companies' own profit margin.*
+
+As a result, I've become convinced that the problem with rising health
+care costs is *the insurance companies themselves* and that any scheme
+that sees legitimacy in attempting to address "the health care problem"
+by taking the interests of the insurance companies as being integral to
+the solution, rather than the root of the problem has already failed to
+address the problem at hand.
+
+What I've been saying, is we need to work backwards through this
+problem. The prevailing logic seems to be to figure out how much
+procedures cost, how much we as "clients" need to pay, and how much our
+employer/the government can afford based on those projections, and then
+how much we have to pony up to cover the gap. I think it makes much more
+sense to figure out how much people (doctors, nurses, technicians,
+clinical providers, etc.) need, how much supplies cost (lab work,
+supplies, chemicals, physical plant things,) include some fringe
+expenses (e.g. educational expenses, preventative outlay, technological
+infrastructure), and then figure out how to pay for these costs:
+co-pays, tax funding, health care trusts. That's at least a viable
+solution.
+
+With the base expenses taken care of, providers are more free to
+organize in complementary groups, in co-operatives that provide various
+kinds of general purpose and centralized services. Alliances can be
+formed to distribute clerical and management responsibility, on smaller
+scales. Makes sense.
+
+Good luck in seeing that happen.
+

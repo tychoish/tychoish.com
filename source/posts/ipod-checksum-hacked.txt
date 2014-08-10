@@ -1,0 +1,23 @@
+====================
+iPod Checksum Hacked
+====================
+
+.. post:: 2007-09-17
+   :author: tychoish
+
+I wish I kept bette records of the entries that I commented in the blog
+world. My memory is that it was a boing boing post, probably by Cory
+Doctorow. Anyway...
+
+There was some moaning about the fact that apple put a cryptographic
+check in the new ipods to prevent them from synching with anything but
+iTunes.
+
+Well `it's been
+cracked <http://hardware.slashdot.org/article.pl?sid=07/09/17/135205&from=rss>`__,
+predictably I think.
+
+I mean this is always an issue, but I never really think it's worth
+getting ones' undies in a bunch. There are enough good things to get
+one's underwear entangled over, anyway.
+

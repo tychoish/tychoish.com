@@ -1,0 +1,48 @@
+=============
+Computer Woes
+=============
+
+.. post:: 2004-06-15
+   :author: tychoish
+
+I got my iBook almost a day ago, and I feel confidant saying that I'm
+satisfied with the way it's set up. I've got all the applications that I
+know I'll never use out of my way, and I've downloaded all of the little
+must haves. I'm almost giddy to take it to a hotspot to try out the
+AirPort. I've gotten some other work done today too, and that's mainly
+the focus of this post, you'll be hearing about this new computer for a
+little while, but to some it up in a quick phrase: I'm really happy with
+this, and it just works. It just works!
+
+One of the things on my to-do list was to fix my old computer. I'm sure
+regular readers are quite familiar with this tale, and I won't bore you
+with the details. In an unrelated purchase, with my iBook we got a new
+processor/heat sink for the computer. This would have to fix the
+computer, there was no way it didn't.
+
+Guess what the next line of this post is. Wait for it. Wait for it.
+
+It didn't work.
+
+Gotcha! In my furry, I swapped the motherboard back, and lo and behold
+we have a symptom. Now, it turns on for fifteen seconds and then shuts
+itself off. Bam. Nothing at all other than that. I haven't so much as
+seen the bios of this computer in six months. So my current theory is to
+replace the motherboard, on the grounds that it couldn't be anything
+else. It's not the hard drive, because the hard drive's aren't relevant
+in the early stage of the boot process, it can't be the processor
+(unless the old one died, and the new one was DOA, which seems
+unlikely), it's not the ram, that all checks out, it's not the
+motherboard unless the old one died and then the new one was DOA), it's
+not the video card, cause it doesn't get to the video card stage. See
+where I'm left. There's no other vital system that it could be.
+
+On the other hand, if it is the power supply, I'm going to be really
+mad, and it'll be pretty easy to build a second computer, given that all
+the components I have would then be good. If it is the power supply,
+this would have to officially go down in history as the oddest power
+supply malfunction in the history of the world ever. Ever.
+
+Cheers, best of luck (to everyone, but I'm needing it, so I figure a
+karmatic adjustment is in order), and I'll post again soon. Promise.
+

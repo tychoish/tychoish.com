@@ -1,0 +1,94 @@
+================================
+Industry, Community, Open Source
+================================
+
+.. post:: 2009-11-09
+   :author: tychoish
+   :tags: cyborg, open-source
+
+In "`Radicalism in Free Software, Open
+Source <http://tychoish.com/rhizome/radicalism-in-free-software-open-source/>`__\ "
+I contemplated the discourse of and around radicalism in and about Free
+Software and Open Source software. I think this post is a loose sequel
+to that post, and I want to use it to think about the role.
+
+I suppose the ongoing `merger of Sun Microsystems and Oracle,
+particularly with regards to the MySQL database engine weights heavy on
+many of our
+minds <http://redmonk.com/sogrady/2009/10/23/oracle-mysql-and-the-eu-the-qa/>`__.
+
+There are a number of companies, fairly large companies, who have taken
+a fairly significant leadership role in open source and free software.
+Red Hat. Sun Microsystems. IBM. Nov ell. And so forth. While I'm
+certainly not arguing against the adoption of open source methodologies
+in the enterprise/corporate space, I don't think that we can totally
+ignore the impact that these companies have on the open source
+community.
+
+A lot of people--mistakenly, I think--fear that Free Software works
+against commercialism [1]_ in the software industry. People wonder: "How
+can we make money off of software if we give it away for free?" [2]_ Now
+it is true that free software (and its adherents) prefer business that
+look different from proprietary software businesses. They're smaller,
+more sustainable, and tend to focus on much more custom deployments for
+specific users and groups. This is in stark contrast to the "general
+releases" for large audiences, that a lot of proprietary audiences
+strive for.
+
+In any case, there is a whole nexus of issues related to free software
+projects and their communities that are affected by the commercial
+interests and "powers" that sponsor, support, and have instigated some
+of the largest free software projects around. The key issues and
+questions include:
+
+-  How do new software projects of consequence begin in an era when most
+projects of any notable size have significant corporate backing?
+
+-  What happens to communities when the corporations that sponsor free
+software are sold or change directions?
+
+-  Do people contribute to free software outside of their jobs?
+Particularly for big "enterprise" applications like Nagios or Jboss?
+
+-  Is the "hobbyist hacker" a relevant and/or useful arch-type? Can we
+intuit which projects attract hobbyists and which projects survive
+because businesses sponsor their development, rather than because
+hobbyists contribute energy to them. For example: desktop stuff,
+niche window managers, games, etc. are more likely to be the province
+of hobbyists and we might expect stuff like hardware drivers,
+application frameworks, and database engines might be the kind of
+thing where development is mostly sponsored by corporations.
+
+-  Is free software (or, Open Source may be the more apropos terminology
+at the moment) just the contemporary form of industry group
+cooperation? Is open source how we standardize our nuts and bolts in
+the 21st century?
+
+-  How does "not invented here syndrome" play out in light of the
+genesis of open source?
+
+-  In a similar vein, how do free software projects get started in
+today's world. Can someone say "I want to do *this thing*" and people
+will follow? Do you need a business and some initial capital to get
+started? Must the niche be clear and undeveloped?
+
+-  I'm sort of surprised that there haven't been any Lucid-style forks
+of free software projects since, well, Lucid Emacs. While I'm not
+exactly arguing that the Lucid Emacs Fork was a good thing, it's
+surprising that similar sorts of splits don't happen any more.
+
+That's the train of thought. I'd be more than happy to start to hash out
+any of these ideas with you. Onward and Upward!
+
+.. [1]
+People actually say things like "free software is too communist for
+me" which is sort of comically absurd, and displays a fundamental
+misunderstanding of both communism/capitalism and the radical
+elements of the Free Software movement. So lets avoid this, shall we?
+
+.. [2]
+To be totally honest I don't have a lot of sympathy for capitalists
+who say "you're doing something that makes it hard for me to make
+money in the way that I've grown used to making money." Capitalist'
+lack of creativity is not a flaw in the Free Software movement.
+

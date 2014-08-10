@@ -1,0 +1,138 @@
+============
+Mini Entries
+============
+
+.. post:: 2006-12-03
+   :author: tychoish
+
+I'm in a place in my work with my projects where I need to keep up a
+momentum, so despite my rambling about not writing, here I am writing
+for TealArt. Go figure. Also, if you're reading the RSS feeds, check out
+the totally cool new graphics I made for TealArt.com and the knitting
+savant(s).
+
+So I have two completely desperate entire ideas that aren't nearly
+fleshed out enough (and probably won't be). One's about geek stuff and
+the other is about Freudianism. So here they are.
+
+.. raw:: html
+
+<hr width="20%" />
+
+**Early Adopting** Once upon a time, I fancied myself something of a
+power geek, and I knew a lot about a great deal of technical this and
+that. I used PCs that I built myself, and I flirted with linux. I worked
+on the PHP/mySQL code that made TealArt. You get the idea.
+
+Then I went to college, declared a psychology major, and switched to
+Mac. My computer geek interests these days are all about usability and
+ease of use. (I'm sort of kicking myself for not taking the psych
+ergonomics class these days). I used to say this more, but I think it's
+even more true now: I'm interested in getting the computer to do exactly
+what I want it to do without having to fuss at it, or having it fuss at
+me. I use streamlined editors when at all possible. I try and keep all
+my data local and information in efficient programs that keep the data
+organized. While I get a lot from the internet, lets think of it as the
+DVR approach to web-surfing.
+
+But this can be frustrating because there are a number of programing
+things that I wish I were more able to do. For instance, I can think of
+a number of AppleScript type things that I would love to be able to add
+to VoodooPad. There are also programs that I know are going to be
+amazing, but they need more development time, and there's really nothing
+much that I can do except wait for the programers to get where I want to
+be. And its frustrating. *angst*
+
+.. raw:: html
+
+<hr width="20%" />
+
+**Freudianism** This is more instep with the kind of entries I'm best at
+writing...
+
+Anyway, like most people, I've been pretty recalcitrant with regards to
+psychoanalytic theory. All the usual complains: it's not grounded, it
+dehistoricizes and universalizes too much, and largely irrelevant most
+of the time.
+
+A professor said to me last semester, after I made those complaints,
+something along the lines of: Marxism isn't *that* much more grounded,
+but people don't dismiss it so easily. I huffed and puffed, and then I
+realized that she there was probably something there. Now granted, I'd
+argue that most Marxist theory avoids a lot of the cultural/social
+messy-ness by being more specific, but aside from that...
+
+Anyway, so I've been trying to keep an open mind about
+psychoanalytic-derived theories. Classical psychoanalysis is clearly
+flawed, and Freud is dated, [1]_ but psychoanalysis isn't all bad. For
+instance:
+
+.. raw:: html
+
+<ul>
+<li>
+
+it allows the possibility to theorize the mind in a philosophical
+tradition
+
+.. raw:: html
+
+</li>
+<li>
+
+it allows us to consider mental functioning outside of our awareness
+
+.. raw:: html
+
+</li>
+<li>
+
+it allows us to think about formative experiences as, well, formative in
+the development of the individual
+
+.. raw:: html
+
+</li>
+<li>
+
+it allows individuals to be considered as individuals, rather than as
+simply constitutant parts
+
+.. raw:: html
+
+</li>
+<li>
+
+it integrates theories of normal personality with theories of abnormal
+personality
+
+.. raw:: html
+
+</li>
+<li>
+
+the discourse on psychonanalyical theory exists, for better or for
+worse, outside of typical academic institutional structures
+
+.. raw:: html
+
+</li>
+<li>
+
+it allows a place for subjective interpretation in the
+practice/theorizing of psychology and/or the social sciences.
+
+.. raw:: html
+
+</li>
+</ul>
+
+So yeah, that's what I've been thinking about. Not exhaustive, or
+substantiated, but worthwhile, I guess.
+
+Cheers, tycho(ish)
+
+.. [1]
+though a friend recently pointed out, quite deftly, that Freud and
+other early psychoanalysts were incredibly radical for their times.
+

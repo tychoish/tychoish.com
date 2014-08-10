@@ -1,0 +1,74 @@
+==========================
+Computing Literacy Project
+==========================
+
+.. post:: 2012-05-31
+   :author: tychoish
+   :tags: cyborg, writing
+
+I'm working on the final touches of a treatise on Systems Administration
+that I've mentioned in passing here before. I hope to have this project
+up on a web-server near you (near me?) in a few months. Because I've had
+a lot of fun working on this project, I decided that it would be cool to
+do a similar project on another topic dear to my technical interest:
+Computing Literacy.
+
+**Computing literacy? Isn't that a little *early nineties* for you and
+or everyone?**
+
+Well yes, I suppose, but don't think that the improvements that have
+aided the adoption of technology in the last 20 years have necessarily
+raised the amount of computing literacy. In fact, it would not surprise
+me if all of the abstraction and friendly user interfaces make it more
+difficult for users to understand how their computers actually work.
+
+Because their computers play such an important role in *everyone's* life
+and work, I suspect that there are a lot of folks who don't know *how
+these things work* but want to learn. And the truth is that there aren't
+a lot of resources around for people who aren't already tinkerers and
+hackers.
+
+This is where I fit in: I can write a book-like object that provides
+useful information in an easy to understand way that technical people
+can provide their friends and family say things like "what's a
+database?" or "what do you mean compiled?" or "what's a server?" or
+"what is this file system thing?"
+
+**Are you so arrogant as to think that you can add something new to this
+subject?**
+
+I'm not going to *develop* new technology here, or suddenly make things
+easier to understand, but I think there's a niche for computer users
+between people like me, *who download putty on other people's computers
+to ssh into their VPS server which hosts a VPN that their laptops are
+connected to, to ssh into their laptops to kill misbehaving X11
+sessions* (no really, I just did that,)\* and most people who just know
+how to open MS word and send emails, and browse the web.
+
+And I think that giving folks who are technically creative, intuitive,
+and curious a way to learn about their computers and technology would be
+great. Particularly in a way that doesn't assume too much prior
+knowledge, or an interest in complicated math.
+
+**Ok, so you're convinced that it's a good idea, what's going to be
+special about this?**
+
+First, while the material will not be so complicated or so novel, I
+think the presentation may be. Additionally, I envision this document as
+a useful reference for describing and defining basic computing concepts,
+to support more technical blog posts and articles.
+
+Finally , I think it would be fun to do this book-like object in a more
+iterative style, relative to the Systems Administration book: I'll
+sketch out the basics, put a disclaimer at the top about links breaking
+and then publish it, and publish changes and make the whole thing
+accessible by git..
+
+Sound cool to anyone?
+
+--------------
+
+So there you have it.
+
+Expect to hear more in the late summer or fall...
+

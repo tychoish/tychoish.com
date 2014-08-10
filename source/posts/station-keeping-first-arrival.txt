@@ -1,0 +1,166 @@
+==============================
+Station Keeping: First Arrival
+==============================
+
+.. post:: 2007-06-12
+   :author: tychoish
+
+*Welcome to* Station Keeping *this is the second installment in our
+first "season" of this project. It's fiction, collaboratively written
+and planned: set in the distant future, station keeping tells the story
+of the residents and visitors to a space station called "Hanm Centre"
+far away from the populated core worlds. As you will read, this episode
+introduces a number of important characters in this story, on the eve of
+their arrival on the station. I hope you enjoy, and if you are
+interested in contributing to this project we are interested in hearing
+from you. Your feedback is always welcome and is most appreciated.*
+
+Office Space
+------------
+
+"Damnit!" Taila exclaimed throwing her notes on the desk. She had sent a
+message to Joshua Sian on *Hanm Centre*, without attaching the crew
+rotation that she had promised. Normally such an error wouldn't have
+caused much of a problem, but the time delay between her ship and the
+station for messages was still too long for comfort. She had to wait for
+the response before she could go off duty, so Talia's shift just got a
+little bit longer: "it's not like there's anything worth doing, cooped
+up on the ship like this anyway," she reasoned, closing her eyes and
+leaning back in the chair.
+
+The doors opened to the skipper's office with out warning and Talia sat
+up with a start.
+
+"Skippers' office, eh?" Eli Banner said, attempting to appear as if he
+was expecting to find Talia in his office.
+
+"Sorry, sir," Talia gathered her things slowly, but when the skipper sat
+down in one of the other chairs, she relaxed and stayed in the chair. "I
+was just coordinating our arrival with Joshua Sian on the station, and
+wanted some quiet to write the messages--because we're still text-only.
+Besides, the comptuer and crew don't need me to watch over them while
+they slow down... so slowly" she reported, still somewhat uncomfortable
+sitting on this side of the desk.
+
+"It's fine, don't worry about it, it's just a room," Eli said. Had there
+been actual business for the day, he might have been more interested in
+reclaiming his office, but it was just as well: the entire crew was
+enguaged of tedious game of appearing busy while trying to hide the fact
+that they were all bored out of their minds. "What did Sian have to say
+for himself? Keeping the station in one piece I trust?"
+
+"It's not fin--" Talia began, but of course the commander knew that
+already. "More or less, I suppose: I have to resend some data to the
+station before I can go off duty, but I think we've made all the
+necessary arrangements for docking," she said, offering a printout
+report of the docking plan.
+
+"The other ships aren't going to be happy about having to wait so long
+to disembark." He commented and handed the paper back.
+
+"It happens, they'll deal."
+
+Eli chuckled, "We'll make a station governor of you yet." Talia didn't
+quite manage to stifle a glare. Eli continued "relax, get some sleep: I
+don't have anything scheduled for this shift so I can I'll send the
+message."
+
+"It's alright, really, my mistake." Talia paused, but before Eli could
+agree "I can't decide what's worse, the thought of staying on this ship
+for another instant, or the thought of spending the next several years
+of my life on a station in orbit of Hanm."
+
+"Easy; this ship is worse than the station. Now give me that paper,
+before I put a mark on your record for sitting in my chair," he joked.
+They stood and he grew serious for a moment "It all different, it always
+is, but you'll do fine." He punctuated his sentence with a smile, as he
+took her stack of files.
+
+"You're probably right. Good shift, sir," she said, before turning to
+leave the office. "*Lets avoid doing that again, shall we?*\ " she
+thought after the door shut.
+
+.. raw:: html
+
+<!--more-->
+
+Docking
+-------
+
+David Conrad and Marc Perrin stepped off the shuttle they owned onto the
+docking ramp to find the entire cavernous bay devoid of people. They
+stood on the other side of their air lock in silence, waiting for
+something to happen.
+
+Marc rubbed his eyes, which had begun to tear from exhaustian: "Aren't
+we supposed to have a landing party, here? or something?" Marc
+whispered, leaning slightly toward David.
+
+"I guess not, we're just normal folk now, I guess."
+
+"Speak for yourself, I actually have a job here," Marc said, pinching
+his shirt where the rank pin would have been, had he been wearing a
+uniform. Actually, given that he was in civvies he almost hoped that
+there *wouldn't* be a welcoming party.
+
+David chuckled. A uniformed figure trotting briskly across on the far
+side of the docking bay caught his attention, and he waved. "I guess
+that's your welcoming party," he commented as they began to walk down
+the ramp.
+
+"Sirs, sorry. We're still a bit short staffed: the *real* crew doesn't
+get here till the begining of the week after next." Joshua was still a
+bit out of breath from his heroic run down from the command center. "I'm
+Joshua Sian, Lieutenant. I've been keeping the lights on, and organizing
+the last construction details before the crew gets here. Is there
+anything I can do to help you move in? A tour?"
+
+"It's David," David responded looking distracted by the wall behind
+Sian.
+
+"Sir?" Sian asked, looking quickly over his shoulder.
+
+"It's just David these days, none of this sir stuff."
+
+"Oh, right, sir--Daivd." Sian corrected himself, and suppressed a
+squirm. There was silence.
+
+"We have some crates that should probably be unloaded before we move the
+shuttle out of this bay, if you could arrange for that it would be
+great." Marc said, taking charge of the conversation. "The deceleration
+was a bit longer than we expected and I for one am a bit too tired for a
+tour right now. Can we schedule one for tomorrow?"
+
+"Sure, that would be great." Sian turned his attention away from David
+who seemed far more interested in gazing around the bay, "Are the crates
+marked?"
+
+"Should be." Marc confirmed, before swallowing a yawn.
+
+"I'll get someone down here to take care of that right away." Sian made
+a note on a micro-tablet that he seemed to produce from thin air. "Can I
+show you to your quarters now?" He offered.
+
+"That would be great," Marc said. When Sian turned around, Marc glared
+at David and mouthed silently "*Way to be the strange kid, fix it would
+you*."
+
+David looked quizzically at Marc, and then getting a clue stepped up
+next to Joshua; "What's the construction schedule looking like at this
+point?" he asked.
+
+"We're doing pretty good, but nothing is really fast enough." Sian was
+caught off guard, but he quickly relaxed as they began to talk about
+station operations and construction.
+
+Marc smiled, and yawned again, as he watched the two men talk, but he
+had no interest in keeping up with the discussion. He could hardly think
+about anything except the amount of time between the present and the
+soonest opportunity to sleep.
+
+*"First Arrival" was written by,
+`tycho <http://tychoish.com/tychoish>`__, the creator of
+`TealArt <http://tychoish.com>`__ and [Station
+Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
+and a science fiction writer by night.*
+

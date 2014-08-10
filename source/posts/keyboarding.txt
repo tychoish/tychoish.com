@@ -1,0 +1,64 @@
+===========
+Keyboarding
+===========
+
+.. post:: 2008-01-29
+   :author: tychoish
+
+Good Morning Friends.
+
+I'd like to be able to say that I got a lot of things done yesterday,
+and while I think I had, on the whole, a really good day, I do think
+that it was not nearly as productive as I might have liked. Alas. But
+things need to get done, and they don't do themselves.
+
+I did, yesterday, finally get a real keyboard for use at my desk. My
+hands like this new set up a lot, its nice when the keys go down all the
+way. It has lead to a number of quick realizations: - The arrow keys are
+too far away. I finally understand the vim convention to use "h-j-k-l"
+keys as directional keys in command mode. - I use command enter as a
+personal command trigger, and it makes little sense on "real" keybaords.
+- Always, but particularly now, If I'm going to learn and use vim I need
+to find a good way to map the escape key to something closer. I was
+think F3 or F4, mostly because my caps-lock key is already "control."
+Sigh. I'm a dweeb. - Actually I think I rarely use the right-shift key,
+I wonder if that could become escape? Key re-mapers, be in touch with
+me.
+
+I finished the first new scene for *Breakout* and did some more
+structural work. I have a system established for the missing part, and
+it's going better. My task for the moment is to work on editing and
+going through what I've already written and try to integrate it into the
+hypertext. While I feel uncomfortable writing short works that stand on
+their own, I like writing the small bits. So progress here is good.
+
+I think that at some point in the next couple of weeks, I'll begin
+posting little bits, here and there, of what I'm working on for
+*Breakout.* Just because I can.
+
+I've been giving some thought to the development of my Internet
+projects. While I really like drupal, and I **do** want to do something
+new with TealArt, and I think that I've made some important progress,
+it's going pretty slowly, and I'm starting to realize (finally) that
+there's too much recreation of the wheel.
+
+The other thing that I realized in the past few days is that, since I
+started tychoish.com in June I've been averaging about 20,000 words a
+month. I don't know, I think that's rather a lot of words. While I
+really like writing these entries, and I think there's something that
+I'm doing differently this time around, I think it wouldn't be the worst
+thing in the world if I spent my 20k of blogging words a month writing
+things that were less drivel-y. Still blogging about the same, but if I
+blogged actual fiction or something...
+
+So I'm actually leaning towards ditching the drupal project and cooking
+something up using wordpress and the instance tychoish.com as the "home"
+of my sites. I'll need to stew on that for a whilew, but I think it
+might be able to resolve the conflict of these last three paragraphs
+with one solution, but we'll see, of course.
+
+Ok, I think I've blathered enough here. Have a great day, and I'll catch
+you on the flip-side.
+
+Onward and Upward!
+

@@ -1,0 +1,87 @@
+==============
+Web Frameworks
+==============
+
+.. post:: 2009-12-23
+   :author: tychoish
+   :tags: internet, cyborg
+
+I'm not a web developer. I write the content for (a couple) of websites,
+and I'm a fairly competent systems administrator. Every once and a while
+someone will need a website, or I'll need my site to do something *new*
+that I haven't needed to do before and I'll hack something together, but
+for the most part, I try and keep my head out of web development.
+Indeed, I often think that designing applications to run in the web
+browser is *the wrong* solution to most technological problems.
+Nevertheless, my work (and play) involves a lot of tinkering and work
+with web-applications, and I do begrudgingly concede the relevance of
+web applications.
+
+In any case I've been reading through the following recently, and I
+(unsurprisingly have a few thoughts:)
+
+-  `The Trouble with
+Frameworks <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
+
+-  `The Web.py Tutiorial <http://webpy.org/tutorial3.en>`__
+
+The Trouble With Frameworks
+---------------------------
+
+I really enjoyed how this post located "web frameworks" in terms of the
+larger context: what they're good for, what they're not good for, and
+why they're so popular. I often feel like I see a lot of writing about
+why FrameworkA is better or worse than FrameworkB, which doesn't really
+answer a useful question. While I wouldn't blame my gripe with web-based
+applications entirely on the shoulders of frameworks, it's interesting
+to think of "the framework problem" as being a problem with the
+framework (and the limitations therein) rather than a problem with the
+web itself.
+
+This isn't to say that frameworks are inherently bad. Indeed, there is a
+great deal of work that websites require in-order to function: HTML is a
+pain to write "by hand," consistent URLs are desirable, but it's
+undesirable to have to mange that by hand. If you need content that's
+dynamic, particularly content that is database-backed, there is all
+sorts of groundwork that needs to be done that's basic and repetitive
+even for the most basic functionality. Eliminating this "grunt work" is
+the strength of the framework, and in this they provide a great utility.
+
+However, from an operations (rather than development) perspective,
+frameworks suck. By producing tools that are broadly useful to a large
+audience, the frameworks are by nature *not* tuned for high performance
+operations, and they don't always enforce the most efficient operations
+(with regards to the databases). Thankfully this is the kind of issue
+that can be safely delegated to future selves, as premature optimization
+remains a challenge.
+
+Thoughts on Web.py
+------------------
+
+Though I'm not much of a Python person, I have a great deal of respect
+for Python tools. I swear if I were going to learn a language of this
+type it would almost certainly be Python. Having said that, the tool
+looks really interesting: it's minimal and stays out of the way for the
+most part. It does the really "dumb" things that you don't want to have
+to fuss with, but doesn't do a lot of other stuff. And that's a great
+thing.
+
+I'm not sure how accurate this is, but one of the things that initially
+intrigued me about web.py is that it sort of felt like it allows for a
+more "UNIX-y" approach to web applications. Most frameworks and systems
+for publishing content to the web work really well as long as you don't
+try and use anything *but* the application or framework. Drupal,
+Wordpress, and Rails seem to work best this way. Web.py seems to mostly
+be a few hooks around common web-programing tasks for Python developers,
+so that they can build their apps in whatever way they need to. The the
+monolithic content management approach doesn't feel very UNIXy by
+contrast. I think this is something that I need to explore in greater
+deal.
+
+Having said that, I'm not terribly sure if there are problems that I see
+in the world that need to be addressed in this manner. So while I can
+sort of figure out how to make it work, I don't find myself thinking
+"wow, the next time I want to do [this], I'll definitely use web.py."
+
+But then I'm just a dude who writes stuff.
+

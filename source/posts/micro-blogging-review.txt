@@ -1,0 +1,107 @@
+=====================
+Micro Blogging Review
+=====================
+
+.. post:: 2008-10-15
+   :author: tychoish
+   :tags: new-media, cyborg, cyberculture
+
+Most of the time when something new happens on the internet, I'm
+hopelessly behind the curve. I only *really* figured out wikis a few
+months ago, and I was a bit too young to get blogging out of the gate.
+And I was late to live journal and even then it took me years to figure
+out why that was so cool.
+
+But microblogging? I was totally *there,* I mean I wasn't there at the
+very beginning, but from the moment that there was any amount of steam
+behind twitter, I got it. Which is really cool, at least I think it is.
+Basically micro-blogging is a short, 140 character, "blog/messaging
+service" which combines the best parts of group chat and
+
+And as you might know from your own experience or from my
+`previous <http://tychoish.com/rhizome/sadiavt-microblogging/>`__
+`posts <http://tychoish.com/rhizome/micro-jabbering/>`__, I've tried a
+lot of services and have a few opinions about what makes a service
+better or worse. I can hear you saying, "What tycho opinionated?" but
+suspend your shock, and hang with me.
+
+Twitter
+-------
+
+`Twitter <http://twitter.com/>`__'s "killer feature" is the fact that
+there are so many users, and that it focuses on ease of usability, so
+people "get it" pretty quickly. There's a lot of power in the size of
+the community, and the fact that the crowd is no longer "just geeks."
+The cons are that they don't have IM access (which isn't good) and that
+it's all "too simple" so that it can be hard to track conversations and
+ideas and/or to have enough granular control over conversations.
+
+Jiaku
+-----
+
+`Jaiku <http://www.jaiku.com/>`__ started in Finland, and bought by
+google, innovated in two big ways. First, it combined the lifestreeming
+(a la `whoisi <http://whoisi.com/>`__ and
+`friendfeed <http://friendfeed.com/>`__) with microblogging. Secondly,
+it has threaded comments, which make a lot of sense, and provide a
+helpful way to get around the 140 character limit. There are also
+"channels" which users can join and form to create (almost) ad-hoc
+groups based on topics and events to keep discussion of events out of
+"general feed."
+
+Plurk
+-----
+
+I have less experience with `plurk <http://www.plurk.com/>`__ than the
+other services. The features of this one seem to be: an innovative
+display (which I hate) and a greater focus on conversational threads,
+but I think the Jaiku solution is better, frankly. Also there's this
+"karma" system which I think is clearly a cheap ploy to get people
+invested in their Plurk activity, but it's too transparent and makes me
+feel like I'm in a game theory experiment which isn't cool at all.
+
+Facebook
+--------
+
+Largely irrelevant, to my mind, but facebook has had "status" for a long
+time, and this is basically a microblogging feature. It now has
+comments, and isn't prefixed by "is" (though for a while, there was some
+humor in how people used or didn't use the leading to be conjugation.) I
+think as a serious microblogging competitor, it doesn't really pan out.
+
+Pownce
+------
+
+Pownce, is nifty, and as of today, has file sharing abilities that other
+services don't have. That's cool. Pownce is also the only one that I
+know of that has abandoned the 140 character limit, which I'd throw my
+hat behind. It also has threaded conversations, but I think jaiku's
+implementation is a bit better. There's IM but it's not incredibly
+intuitive. It's been a while, which brings me to the major down side is
+that despite having a semi-compelling feature set, the community has
+never been that large or active, or grown beyond the usual core of
+`early <http://www.bruji.com/bwana/>`__
+`adopters <http://leoville.com/>`__ (etc.) that I've grown used to
+seeing everywhere. If we're just talking about features though, I think
+pownce has a lot going for it, unfortunately this isn't a features game.
+
+Identi.ca
+---------
+
+Clearly this is where *I* am right now. Fundamentally, I'm not sure if
+the laconica software solves (m)any of the problems with twitter. For
+the moment it uses a CMS rather than a messaging model, it doesn't have
+threaded conversations (really), the graphic design/theme needs a good
+once over, and there isn't that huge community that twitter has going
+for it. The people who use identi.ca tend to be *really* into it, and
+that makes up for the relatively small size. It helps that there's a
+real-time push-based IM/xmpp connection, and the scaling problem is
+solved by making growth a horizontal (federation) rather than a vertical
+(architecture/infrastructure) problem.
+
+So that's the major players, at least of the open networks (not counting
+yammer, say) and of the sites that I've had any real interaction with.
+The most interesting thing about this is that it's all going to be
+different in six months or a year, and it's cool to be here now to watch
+as things unwind.
+

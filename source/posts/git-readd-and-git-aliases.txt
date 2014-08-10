@@ -1,0 +1,57 @@
+=========================
+git readd and git aliases
+=========================
+
+
+[[git]] is a version control system that does a number of things rather
+"differently." By now, I suspect most people are familiar with git so I
+will refrain from focusing too much time here on explaining what git is
+or how it works. Git does things differently, and to make a long story
+short, git has no concept of a file *rename*. To be honest git doesn't
+have a lot of sense of individual files at all, but that's another
+story. As a result git looks at the contents of the files, and if a new
+file is similar enough to an old file that was deleted git recognizes
+this as a "rename," or a moved filed. It can process file copies in the
+same manner.
+
+You'd think this would be a problem, but it turns out that it isn't. In
+fact it's a great thing. You can store a bunch of data on a file system,
+use conventional tools to manipulate, move, and rename those files in
+the normal manner, and then do a little magic, and git automatically
+knows everything that it needs to know about what files were renamed and
+when.
+
+This post is about that magic.
+
+What you need to do is find out the names of the files that existed in
+the last commit but have been removed from the file system. If you run
+"``git rm``\ " on these files and then add everything that remains, git
+will be able to pick up the rename operations implicitly, and the *next*
+commit will reflect the current state of the file system.
+
+I've thrown this little snippet in the [[code]] section of the site:
+**[[git-readd\|code/git-readd]]**.
+
+I've used this process as part of scripts in the past, and it's great
+for managing Maildirs with git, but I found myself needing this
+operation from time to time as I'm manging a git repository. Enter, "git
+aliases."
+
+Aliases let you create ``git`` sub commands from your own scripts. Add
+the following lines to the ``~/.gitconfig`` file on your system, and
+create it if necessary:
+
+::
+
+[alias]
+readd = "~/scripts/git-readd"
+
+Now you can run this command in any git repository on your system with
+the following command:
+
+::
+
+git readd
+
+Magic!
+

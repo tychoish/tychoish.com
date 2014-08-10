@@ -1,0 +1,73 @@
+===================
+writing in org mode
+===================
+
+.. post:: 2009-05-18
+   :author: tychoish
+   :tags: org-mode, emacs, writing, cyborg
+
+With all luck, I'll have most of a draft of the short story I've been
+working on done by the time this goes live, but if not certainly rather
+soon there after. This is an exciting announcement in and of itself, but
+perhaps the more interesting thing is that in the process of doing this
+I sank into writing this story in `org
+mode <http://www.orgmode.org/>`__.
+
+My general M.O. for writing for the last several years has just been to
+write and store the files in
+`markdown <http://www.daringfireball.com/projects/markdown/>`__ and use
+whatever text editor I fancy. I write the blog this way, I write papers
+this way. Everything seems to work fine, there are converters for LaTeX,
+HTML, and the plain text format is absolutely and completely readable to
+people who aren't as obsessive about text files as I am.
+
+While I'm a huge org-mode proponent, I don't tend to think that org-mode
+makes a particularly good writing environment (or haven't, heretofore)
+because unless you use org-mode org files are sometimes a bit ugly, and
+the syntax is enough different from markdown to confuse me, and...
+
+The general consensus, that I've seen is that while org-mode is indeed a
+great boon to the intensive-emacs user, that it's not an ideal
+production editing environment.
+`muse-mode <http://mwolson.org/projects/EmacsMuse.html>`__, or my
+favored `markdown-mode <http://jblevins.org/projects/markdown-mode/>`__
+might be better if you're actually *writing text*.
+
+And then, as I got into the writing of this story, I realized that I was
+flipping rather seriously (and annoyingly) between my notes for the
+story and the story I was writing. Also, when I'm writing book-length
+(or conceptually book-length) work, I tend to break up the text into
+more manageable chapter-length or scene-length files, which is
+conceptually useful for me.
+
+In a short story, it didn't seem to make sense to break things up into
+more than one file, and after I'd written a couple thousand words, I
+realized that something needed to be done. I created a file, with some
+header meta-data (using the yaml form that
+`jekyll <http://github.com/mojombo/jekyll>`__), an org-mode statement to
+define custom-status words that seem relevant to the writing/editing
+process, and then first level headers define key scenes or breaks in the
+story. I've never written (or read, to the best of my memory) a story
+that required more than one level of organization (but ymmv), and
+then--and this is the clever part as far as I'm concerned--property
+drawers for notes about what happens in the scene.
+
+Property drawers stay folded by default, and are intended to store a
+collection of key-value pairs, *but* they don't get exported by default,
+and so are a good way to keep your notes and your writing together and
+then export, as needed when drafting is done.
+
+Also, I've recently added the following to my key-binding list, which
+adds a property drawer to the current heading, which is indeed a good
+thing:
+
+::
+
+(global-set-key "\M-p" 'org-insert-property-drawer)
+
+I've posted a copy of `my template
+file <http://criticalfutures.com/enclosures/template-story.org>`__ for
+your review and edification.
+
+Comments?
+

@@ -1,0 +1,111 @@
+========================
+Beyond Lists in Org Mode
+========================
+
+.. post:: 2010-01-19
+   :author: tychoish
+   :tags: emacs, org-mode
+
+I've written about this problem in `org-mode <http://orgmode.org>`__,
+the `emacs <http://www.gnu.org/software/emacs/emacs.html>`__ outlining
+and organization tool that I us, before, but I'm readdressing it for my
+benefit as well as yours.
+
+Org mode is an outlining tool, fundamentally. It provides a nice
+interface for editing and manipulating information arranged in an
+outline format. Additionally, and this is the part that everyone is
+drawn to, it makes it *very* easy to mark and treat arbitrary items in
+the outline as "actionable," or todo items in need of done. The
+brilliance of org-mode, I think, is the fact that you spend all your
+time working on building useful outlines and then it has a tool which
+takes all this information and compiles it into a useful todo list. How
+awesome is that. For more information on org-mode, including good
+demonstrations, check out this
+`video <http://www.youtube.com/watch?v=oJTwQvgfgMM>`__.
+
+The problem is a common and recurring one for me. I basically live in
+the agenda mode--that compiled list of todo items--and I don't so much
+use org-mode for making outlines. Truth is, I have a "Tasks" heading in
+most org files, and I use the automatic capture option (e.g.
+org-remember) to stuff little notes into the files, and beyond that, I
+mostly don't interact with the outlines themselves.
+
+This isn't a bad thing, I suppose, but it means that org-mode can't
+really help you, and you've short-circuted the ability of org-mode to
+improve the organization. Under ideal circumstances, org allows you to
+embed and extract todo lists from the recorded record of your thought
+process. If you're not actively maintaining your thoughts in your
+org-mode files, it's just another todo list. That isn't without merit,
+but it doesn't allow the creation of tasks and the flow of a project to
+spring organically from your thoughts about the project, which is the
+strength of org mode.
+
+**Intermission:** I took a break from writing this post to go and
+reorganize my org files. What follows are a list of "things I've
+been doing wrong" and "things I hope to improve."
+
+-  I don't think I had enough org-files. There are lots of approaches to
+organizing information in org: one giant file, lots of small files
+for individual projects, a few mid to large files for each "sphere"
+of your life.
+
+Initially I took the "medium sized files for major ongoing projects." I
+had a writing file, and a work file, and a writing file, and files for
+the fiction projects that I'm working on, and a notes file, and a
+clippings file, and so forth. Say about 8-10 files. It works, but I
+think the thing it did was it caused me to use the org-remember
+functions to just dump things in a "tasks" heading, and then work from
+the agenda buffer, and not ever really have to touch the files
+themselves. *Org files need to be specific enough that you would want to
+keep them open in another window while you're working on a project.* I
+think the point where you know you've gone too far is when the first
+level headings start to replicate organization that might better be
+handled by the file-system.
+
+-  Use the scheduling and deadline functions to filter the todo list
+into something that is workable. It's easy to just look at the task
+list and say "oh no, I don't want to work on this task right now
+because it depends on too many things that aren't done, and there are
+other things that I could work on." Scheduling an item, if not
+setting a deadline, forces me (at least) to think practically about
+the scope of a given project, what kind of time I'll have to work on
+it, and what other tasks depend upon it.
+
+-  When you're using org to manage huge blocks of text--or any system,
+really--it can be difficult if you have multiple hierarchies and
+depths of greater than two or three. It just gets hard to manage and
+keep track of things and figure out where things are, particularly
+given how useful and prevalent search tools are.
+
+Having said that, When you're organizing tasks in org, that limitation,
+one that I find myself imposing upon myself doesn't really work terribly
+well, and leads to files that might actually be more difficult to read
+and to work out of.
+
+-  I started using the "org-archive-subree" function for archiving
+content when I was through with parts of the outline, This sends the
+archive to a separate file and while it works, I find it... less than
+useful. I've since discovered "org-archive-to-archive-sibling" which
+is a great deal of awesome, and I recommend using it exclusively.
+
+-  Write content in org mode when possible. Though some people (hi
+Matt!) are keen on using org as a publication system, I'm not sure if
+this is the right answer, but I do think that its good during very
+creative phases of projects to do the work in org, mostly as I think
+it facilitates focusing on the current problem (through collapsing of
+the tree to show you just what you're working on,) and also for
+working non-linearly as you can leave yourself TODO items for later
+action.
+
+At the same time, if you tend to maintain org files that contain
+planning for more than one project, I find it cumbersome to also draft
+in these files. So I think "keep smaller very focused org files, and
+maybe do drafting in them if appropriate."
+
+That's a start at least. I've made these changes--which are really quite
+subtle--and I like the way it feels, but we'll have to see how things
+shake down in a few weeks. As much as I want to avoid tinkering with
+things--because tinkering isn't the same as getting things done--I
+really do find it helpful to review processes from time to time and make
+sure that I'm really working as effectively as I can.
+

@@ -1,0 +1,51 @@
+=======================
+Knowing Mars, a Novella
+=======================
+
+.. post:: 2010-05-19
+   :author: tychoish
+   :tags: update
+
+I don't know about this. But here it goes, anyway.
+
+**I'm pleased to announce the complete publication of my novella
+"`Knowing Mars <http://tychogaren.com/mars/>`__\ " on
+`tychogaren.com <http://tychogaren.com/>`__.**
+
+"Knowing Mars" is an important story for me. I wrote it after I
+graduated from college, after I didn't go to graduate school the first
+time, and in a lot of ways it was the project that got me started down
+the path of being a "real writer," post-graduation. I'd written fiction
+before college, and mostly avoided writing fiction in college, and then
+right as I was finishing college I started writing stories again. It was
+strange for a while, but it was delightful to be able to tell stories
+and be so much better at it than I was the first time.
+
+I find that this is fundamentally a recurring issue. When I started
+writing "Knowing Mars," I felt like I was starting out light years ahead
+of what I had written four or five years before. Now, I feel like the
+stuff I'm working on now is light years ahead of "Knowing Mars." This is
+probably an encouraging sign.
+
+I suppose you'd like to know a bit more about the story. I'll leave most
+of the details to the reading, but basically it's a sort of
+superhero/cyberpunk story that explores themes related to diaspora,
+political organization, historical narrative, and gender. I don't know
+if I've ever described it as such before.
+
+The story is available in multiple formats. Each chapter is available in
+full HTML as part of tychogaren.com and in a plan
+`Markdown <http://daringfireball.net/projects/markdown/>`__ formatted
+plain text. Furthermore the complete text of the novella is available in
+both of these formats, and a simple un-styled HTML version that should
+be ideal for conversion to various electronic reading platforms. If you
+want to read the novella but would find another format easier to
+process, talk to me about it and I'll get something pulled together for
+you.
+
+All "full html" versions of the text have comments enabled using the
+same system as the blog. I look forward to your comments. Thanks for
+reading, and stay tuned for more fiction.
+
+Onward and Upward!
+

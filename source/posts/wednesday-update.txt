@@ -1,0 +1,50 @@
+================
+Wednesday Update
+================
+
+.. post:: 2009-04-02
+   :author: tychoish
+   :tags: links, literature, cyborg
+
+I've been writing a great deal in the past few days: blog posts, the
+seed content for a wiki, fiction at a somewhat impressive pace (for me).
+While (at press time) there are still lots of things on my plate and
+storms on the horizon it's very true that doing creative things, getting
+work done makes it considerably easier to do more creative things, and
+to get more work done. The stuff on my plate and the storms on the
+horizon in another seem less threatening. It's not logical, but I'm not
+going to argue with that.
+
+Of note: I `posted another story to Critical Futures from Chapter 6 of
+Knowing Mars <http://criticalfutures.com/2009/03/homefront-1/>`__, this
+is the last scene in this chapter, and I'll post it in three chapters.
+After that, we're going to get PDFs of Chapters 4-6, and I'll be posting
+more about that in time. Thanks to `everyone's replies to my post about
+my emacs
+process <http://tychoish.com/rhizome/things-to-learn-in-emacs/>`__, both
+on the thread and on `identi.ca <http://identi.ca/tychoish/replies>`__.
+I'm much impressed with all of your wisdom, and assistance. I didn't
+know about wdired-mode which I shall explore, and while I did know about
+`magit <http://zagadka.vm.bytemark.co.uk/magit/>`__, I hadn't gotten
+around to trying it yet. Here I come.
+
+One last thing, if there are any perl,
+`ikiwiki <http://www.ikiwiki.info>`__,
+`CGI::FormBuilder <http://www.formbuilder.org/>`__,
+`Dreamhost <http://www.dreamhost.com>`__ wizards out there, I would be
+very flattered and indebted if you'd take a look at `this bug report I
+filed on
+ikiwiki <http://ikiwiki.info/bugs/CGI__44___formbuilder__44___non-existent_field_address/>`__,
+I'm having some sort of minor problem with CGI form *generation*, which
+is such a minor bug that I'm highly annoyed at the concept. On the one
+hand, it's a lot of effort to get ikiwiki working under these
+conditions, on the other hand it doesn't make a lot of sense to pay for
+a really robust server (with root access) for what will really be a
+minimal amount of content. Anyway, your help would be much appreciated.
+
+ps. sorry for the late content.
+
+pps. if you record a podcast over a skype (or other VoIP service) with
+Audacity and you're running Ubuntu/Debian/Linux... I'd love to hear from
+you.
+

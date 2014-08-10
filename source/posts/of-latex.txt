@@ -1,0 +1,77 @@
+========
+of LaTeX
+========
+
+.. post:: 2007-11-17
+   :author: tychoish
+
+I finished the long awaited first round of edits for the novella I wrote
+earlier this year, Knowing Mars, this morning. I've sent out a draft
+(after some failures of my email sending ability) to 6 initial readers.
+Some or all of whom read this website. (Thanks folks, and sorry for the
+mess of emails).
+
+If you wanted to read an early copy of the novella and haven't drop me
+an email and I'll get you a copy of it. I should warn you that reading
+such an early draft could potentially be arduous, and there's no real
+reason rush into reading this version. There will be other drafts.
+
+One part of the project after I got the edits done, was to recompile the
+files into `LaTeX <http://www.latex-project.org/>`__ (a markup langauge
+for making pretty documents with the `TeX <http://www.tug.org/>`__
+typesetting engine.) I've gotten pretty into LaTeX these last few
+months, because it means I don't have to use Microsoft products (it's a
+pragmatic issue, they don't run well on Zoe and the interfaces don't
+work well), the documents look better, and thanks to some templates I've
+come up with I can write papers and letters (and so forth) in
+consistent, easy to read forms much more quickly than I ever did when I
+was a word user.
+
+I mean LaTeX isn't the end all and be all. I've still not exactly
+figured out how to insert images into documents, nor have I figured out
+how to use the `beamer class <http://latex-beamer.sourceforge.net/>`__
+to do presentations (but I hate doing presentations with slides, so it's
+not a big loss,) but I think I'm making progress, and some day I'll be a
+master of LaTeX.
+
+One of the nifty things about LaTeX is that, I have yet to come across a
+document format that someone else hasn't already created a class for.
+APA papers? Check! Every other Academic Style? Check [1]_! Letters?
+Check! And my latest discovery? The `manuscript format demanded by the
+Science Fiction Writers of America (and many of its
+varriants)sffms <http://mcdemarco.net/sffms/>`__ Check! The issue is
+that I had to spend a little bit of time reformatting how I did section
+headers so that it would all play nice. That's really my fault for
+writing in `markdown <http://daringfireball.net/projects/markdown/>`__
+to start with and then using `maruku <http://maruku.rubyforge.org/>`__
+to convert to LaTeX. This leads me to my next non-geek-speak topic below
+the fold:
+
+The Point
+---------
+
+I'm thinking about switching the formating of some of my files away from
+doing everything in Markdown, and just going full boar into LaTeX
+particularly since the next book is in it's beginning stage. The main
+reason for doing this is that Maruku, translates a few things oddly,
+particularly in places where quote marks precede italics. In terms of
+just writing the main difference (other than bolds and italics) are in
+quotation marks. It's not a big deal, and actually as I'm thinking about
+it, there are some good reasons to keep things in markdown, but the
+thought lingers.
+
+One thing that would be generally nice is if any of you out there in
+geekland know where I might learn to write a script (either in
+ruby/python/perl/etc or in bash with sed) that can string together a
+series of standard find and replaces? It shouldn't be that hard, but I'm
+that much of a beginner.
+
+Anyway. That's what's I'm thinking about. Also, I did like 10 subversion
+commits this morning, which is way more than I'd done in a long time.
+I'm going to get going. Thanks for reading. More coming later.
+
+.. [1]
+Actually, I think the fact that it's mostly academic and publishing
+geeks who write LaTeX styles, is a great thing for the
+format/language.
+

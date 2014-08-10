@@ -1,0 +1,73 @@
+=======================
+Documentation Emergence
+=======================
+
+.. post:: 2012-01-17
+   :author: tychoish
+   :tags: open-source, free-software, technical-writing, 
+
+I stumbled across a link somewhere along the way to a thread about the
+`Pyramid <http://www.pylonsproject.org/>`__ project's
+`documentation <http://docs.pylonsproject.org/en/latest/index.html>`__
+planning process. It's neat to see a community coming to what I think is
+the best possible technical outcome. In the course of this conversation
+Iain Duncan, said something that I think is worth exploring in a bit
+more depth. The following is directly from the list, edited only
+slightly:
+
+I wonder whether some very high level tutorials on getting into
+Pyramid that look at the different ways you can use it would be
+useful? I sympathize with Chris and the other documenters because
+just thinking about this problem is hard: How do you introduce
+someone to Pyramid easily without putting blinders on them for
+Pyramid's flexibility? I almost feel like there need to 2 new kinds
+of docs:
+
+-  easy to follow beginner docs for whatever the most common full
+stack scaffold is turning out to be (no idea what this is!)
+
+-  some mile high docs on how you can lay out pyramid apps
+differently and why you want to be able to do that. For example,
+I feel like hardly anyone coming to Pyramid from the new docs
+groks why the zca under the hood is so powerful and how you can
+tap into it.
+
+--------------
+
+Different sets of users have different needs from documentation. I think
+my "[[Multi-Audience
+Documentation\|/rhizome/multiaudience-documentation]]" post also
+addresses this issue.
+
+I don't think there are good answers and good processes that *always*
+work for documentation projects. Targeted users and audience changes a
+lot depending on the kind of technology at play. The needs of users (and
+thus the documentation) varies in response to the technical complexity
+and nature every project/product varies. I think, as the above example
+demonstrates, there's additional complexity for software whose primary
+users are very technical adept (i.e. systems administrators) or even
+software developers themselves.
+
+The impulse to have "beginner documentation," and "functional
+documentation," is a very common solution for many products and reflects
+two main user needs:
+
+-  to understand how to use something. In other words, "getting
+started," documentation and tutorials.
+
+-  to understand how something works. In other words the "real"
+documentation.
+
+I think it's feasible to do both kinds of documentation within a single
+resource, but the struggle then revolves around making sure that the
+right kind of users find the content they need. That's a problem of
+[[documentation usability\|technical-writing/usability]] and structure.
+But it's not without challenges, lets think about those in the
+[[discussion\|discourse]].
+
+I also find myself thinking a bit about the differences between
+web-based documentation resources and conventional manuals in PDF or
+dead-tree editions. (See, [[technical-writing/web-based-documentation]]
+eventually.) I'm not sure how to resolve these challenges, or even what
+the right answers are, but I think the questions are very much open.
+

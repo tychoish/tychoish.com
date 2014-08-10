@@ -1,0 +1,63 @@
+============
+Never Ending
+============
+
+.. post:: 2011-06-15
+   :author: tychoish
+   :tags: progress-report
+
+I'm still not totally settled into my new routine, and I think that's
+apparent in the blog. These things happen, and I just realized that this
+is the third summer in a row with some sort of major life change. Maybe
+I've forgotten how to exist in a summer routine. While I should probably
+give myself a break, I think it's more realistic to accept a certain
+level of disruption as "the new normal," and figure out how to develop a
+routine around that. That's the hope at any rate. So, I'm getting there,
+slowly.
+
+I've posted a number of new [[rhizomes]] in the last week. They are:
+
+-  [[Security isn't A Technological
+Problem\|rhizome/security-isnt-a-technological-problem]], A post in
+my series about addressing problems in IT as human-issue, that need
+documentation and training rather than more software.
+
+-  [[These Shoes Were Made for
+Cyborgs\|rhizome/these-shoes-were-made-for-cyborgs]], which attempts
+to limit the potential for overly expansive theorizing of "the
+cyborg," in a common but not overly productive manner.
+
+-  [[Little Goals and Big
+Projects\|rhizome/little-goals-and-big-projects]], a list of projects
+that I want to work on. Think mid-year resolutions meet five-year
+plan, meet time management review.
+
+I've also done some maintenance (gardening?) on the wiki and added or
+edited the following pages:
+
+-  I imported some comments from Facebook regarding my
+[[intellectual-practice\|rhizome/intellectual-practice]] post onto
+the [[discourse\|/rhizome/intellectual-practice/discourse]] page.
+These comments are pretty valuable and I've found the conversation
+useful, hopefully you will too. Feel free to add your own comments
+there.
+
+-  Similarly, I imported some comments onto the [[discourse
+page\|rhizome/career-pathways/discourse]] for the [[Career
+Pathways\|rhizome/career-pathways]] post.
+
+-  In response to one of the [[comments]] on the Intellectual Practice
+post, I put together a [[pedagogy]] page, including some *very* rough
+descriptions of "writing classes I wish I'd taken and would love to
+teach."
+
+-  I also dumped a [[technical writing link\|technical-writing/links]]
+on a new page, that I might start using for collecting some content
+that might (or not)
+
+-  Not strictly tychoish related, but I revised my personal profile at
+`tychogaren.com <http://tychogaren.com/>`__ to be a bit more up to
+date and generally less weird/awkward.
+
+
+

@@ -1,0 +1,24 @@
+========================================
+Daring Fireball Linked List: August 2007
+========================================
+
+.. post:: 2007-08-29
+   :author: tychoish
+
+`Daring Fireball Linked List: August
+2007 <http://daringfireball.net/linked/2007/august#tue-28-mwd>`__:
+
+There's plenty about markup and CSS, but the heart of the book
+consists of general design strategies for mobile platforms, and why
+you should care in the first place about the experience mobile users
+get when visiting your site.
+
+(from `Daring Fireball <http://www.daringfireball.net>`__.)
+
+The answer to the question of mobile web design, is of course RSS, and
+other XML like systems, IMHO.
+
+Hell, I think
+`gopher <http://en.wikipedia.org/wiki/Gopher_%28protocol%29>`__, is
+actually probably pretty close to the mark, and frankly I'm ok with that
+

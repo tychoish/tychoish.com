@@ -1,0 +1,99 @@
+=======================
+free network businesses
+=======================
+
+.. post:: 2009-05-11
+   :author: tychoish
+   :tags: internet, cyborg, economics
+
+I've been reading the `autonomo.us <http://autonomo.us/>`__ blog and
+even lurking on their email list for a while, so I've been thinking
+about "`free network
+services <http://autonomo.us/2008/07/franklin-street-statement/>`__,"
+and what it means to have services that respect users' freedom in the
+way that we've grown to expect and demand from "conventional" software.
+This post explores issues of freedom in network services, business
+models for networked services, and some cyborg issues related to network
+services. A long list indeed, so lets dive in.
+
+I've been complaining on this blog about how much web applications, the
+web as a whole, and networked services on the whole *suck*. Not the
+concepts, exactly, those are usually fine, but suck for productive users
+of computers, and for the health of the Internet that first attracted me
+to cyberculture lo these many years ago. I still think that this is the
+case, but I've come to understand that a lot of the reason that I have
+heretofore been opposed to network services as a whole is because
+they're sort of brazen in their disregard users freedom.
+
+This isn't to say that services which do respect users' freedom are--as
+a result--not sucky, but it's a big step in the right direction. The
+barrier to free network services is generally one of business models.
+Non-free network services center around the provider deriving
+profit/benefit from collecting users' personal information (the reason
+why `open-id <http://www.openid.net>`__ never caught on), from running
+advertising along side user-generated content (difficult, but more
+effective than other forms of on-line advertising because the services
+themselves generally provide persuasive hooks to keep users returning,)
+or when all else fails, charging a fee.
+
+So to back up for a minute, I suppose we should cover what it means to
+call a network service "free." Basically, free network services are ones
+where fundamentally users have control over their data. They can easily
+import and export whatever data they need from the providers system.
+That users can choose to participate in the culture of a networked
+computing by running software on their computer. There are ideas about
+copy-left and open source with regards to running code on networked
+services that are connected to these ideas of freedom, but this is more
+a means to an end (as all copy-left is) rather than--I should think--an
+end in itself.
+
+Basically, data independence and network federation or distribution.
+Which takes all of the, by now conventional, business models and tears
+them to bits. If users are free to move their data to another service
+(or their own servers) then advertising, leveraging personal information
+are all out of the window. Even free software advocates look at this
+problem and say, `we have a right to keep network services
+closed <http://identi.ca/notice/3975509>`__. Which is understandable
+given that there aren't many business models in the free world. While a
+lot of folks in the FNS space are working to build pillars of free
+network technologies, I think some theoretical work on the economics are
+in order. So here I am. Here are the ideas:
+
+-  The primary "business" opportunity for free network service is in
+systems administration, and related kinds of tasks. If the software
+is (mostly) open source and design and implementation can't possibly
+generate enough income, then keeping the servers running, the
+software up-to date, and providing support to users is something that
+provides and generates *real value* and is a concrete cost that users
+of software can identify with and justify.
+
+-  Subscription fees are the new advertising. In a lot of ways what a
+particular service provides (in addition to server resources) is a
+particular niche community. While federation changes this dynamic
+somewhat, I think often people are going to be willing to pay some
+fee to participate in a particular community, so between entrance
+fees (like meta-filter) and subscription fees (like flickr) you
+should be able to generate a pretty good hourly rate for the work
+required.
+
+-  Enterprise Services. We could probably support free network services
+(and the people behind them) by using those networks as
+advertisements for enterprise services. See a service on the
+Internet, and have a company deploy it for internal use on their
+intranet, and have the developers behind it sell support contracts.
+
+-  Leach money from telecoms. This is my perpetual suggestion, but while
+most of us Internet folks and network service developers may or may
+not be making money from our efforts in cyberspace, the telecoms
+**are** making money in cyberspace hand over fist, largely on the
+merits of *our* work. It's not really possible to bully Ma' Bell, but
+I think it's a part of the equation that we should be focusing on.
+
+-  *Your Suggestion Here.* The idea behind business in the free network
+service space, is that providers are paid for *concrete value* that
+they provide, rather than speculation on their *abstract value*, and
+as a result we can all think about business models without harming
+the viability of any of these business models.
+
+
+

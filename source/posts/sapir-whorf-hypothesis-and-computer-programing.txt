@@ -1,0 +1,79 @@
+==============================================
+Sapir Whorf Hypothesis and Computer Programing
+==============================================
+
+.. post:: 2009-02-25
+   :author: tychoish
+   :tags: open-source, cyborg, programming
+
+There's this idea in linguistic/cognitive anthropology that the
+limitations of linguistic possibility limit what the bounds of what
+we're able to think about. If we lack words for a given thing or a
+concept, it's really hard to even conceive what it is. I'll get to the
+strengths and limits of the hypothesis in a bit, but lets just say the
+reception of these ideas (i.e. "linguistic relativism") is somewhat
+mixed. Nevertheless it's had a great impact on me and the kinds of ideas
+I deal in.
+
+For instance, though I'm not an active programmer, I talk to programmers
+a bunch I tweak code from time to time, and I've tried to learn
+programming enough times that I sort of get the basics of enough stuff
+to know what's going on, and if there's one theme to my interests in
+open source and software development, it's looking at the software and
+tools that developers us, in part for issues related to linguistic
+relativism. Basically, if the people who develop programming languages,
+and software itself don't provide for possibilities, developers and
+users won't be able to think about things downstream. Or at least that's
+the theory.\*
+
+The problem with linguistic relativism in general, is that it's really
+hard to test, and we get into causality issues. "Describe this thing
+that you don't know about!" is a bad interview tactic and we run into
+the questions like: Is it really language that limits knowability or is
+some other combination of typical experiences that limits both
+knowability and language? I've read far too many a number of papers from
+a couple of different scholars, and I almost always end up in the
+"relativist camp," but that might be a personality feature.
+
+In computer science, I suppose it is also not quite so cut and dry.
+Questions like "Does the advancement of things like hardware limit
+technical possibility more than programing languages and tools?" come
+up, but I think for the most part it is *more cut and dry*:
+`Erlang's <http://en.wikipedia.org/wiki/Erlang>`__ concurrency model
+makes thins possible, and makes programmers *think* in ways that they're
+not prone to thinking about them otherwise.
+`Git's <http://www.git-scm.com/>`__ method promoting collaboration
+requires people to *think* differently about authorship and
+collaboration. Maybe. I mean it makes sense to me.
+
+These low-level tools shape what's possible on the higher level not
+simply in that a programing language implements features that are then
+used to build higher level applications, but if you teach someone to
+program in emacs-lisp (say) they'll think about building software in a
+*very* different way from the folks who learn how to program Java. Or
+Perl. Or PHP.
+
+And those differences work down the software food chain: what
+programmers are able to code, limits the software that people like you
+and me use on a day to day basis. That's terribly important.
+
+I think the impulse when talking about open source and free software is
+to talk about subjects that are (more) digestible to non-technical
+users, and provide examples of software projects that are more easily
+understood (e.g. firefox and open office rather than gcc and the Linux
+kernel, say.) This strikes me as the *wrong* impulse, when we could
+focus on talking about more technical projects and then use abstractions
+and metaphors to get to a more general audience if needed. I'm not
+saying I've mastered this, but I'm trying, and I think we'll ultimately
+learn a lot more this way. Or so I hope. There is always much to learn.
+
+Onward and Upward!
+
+\* In a previous era/maturity state I would have been somewhat guarded
+about that subject which I think is going to be a major theme in *oh*
+the rest of my life. But, this is open source and knowledge wants to be
+free and all that. Actually, less altruistically, I'm much more worried
+that it's a lackluster research question than I am that someone is going
+to "snipe it from me," and suggestions and challenges I think would be
+really productive.
+

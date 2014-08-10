@@ -1,0 +1,14 @@
+============
+Coda's Back!
+============
+
+.. post:: 2008-12-11
+   :author: tychoish
+
+I just upgraded tychoish today to the new, "WordPress 2.7" which has a
+great new user interface that I really like. We're finally getting back
+to b2/cafelog and wordpress 1.5 ground. Heh. Anyway. I'm going to be
+reviving this little mini-blog on the right hand side of the site. The
+rule this time? All posts written off the cuff and nothing with
+paragraph breaks. Sounds like a plan? I thought so.
+

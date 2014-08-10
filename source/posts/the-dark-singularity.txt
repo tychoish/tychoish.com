@@ -1,0 +1,77 @@
+====================
+the dark singularity
+====================
+
+.. post:: 2009-06-04
+   :author: tychoish
+   :tags: science-fiction, futurism
+
+I read a pretty cool `interview with Vernor Vinge, in H+
+magazine <http://hplusmagazine.com/articles/ai/singularity-101-vernor-vinge>`__,
+where he talked about the coming technological singularity, which I
+thought was really productive. I've read and participated in a lot
+criticism of "Singularity Theory," where people make the argument that
+the singularity is just a mystification on the process of normal
+technological development, and that all this attention to the technology
+distracts from "real" issues, and/or that singularity is too abstract,
+too distant, and will only be recognizable in retrospect.
+
+From reading Vinge's comments, I've come to several realizations:
+
+-  Vinge's concept of the singularity is pretty narrow, and relates to
+effect of creating human-grade information technology. Right now,
+there are a lot of things that humans can do that machines *can't*,
+The singularity then, is the point where that changes.
+
+-  I liked how--and I find this to be the case with most "science
+theory," but the scientists often have very narrow theories and the
+popular press often forces a much more broad interpretation. I think
+we get too caught up with thinking about the singularity as this cool
+amazing thing that is the nerd version of "the second coming," and
+forget that the singularity would really mark the end of society and
+culture as we know it now. That it's a rather frightening
+proposition.
+
+-  Vinge's comparison of the singularity to the development of the
+printing press is productive. He argues that the printing press was
+conceivable before Gutenberg (they had books, the effects, however
+were unimaginable, admittedly), in a way that the singularity isn't
+conceivable to us given the current state of our lives and
+technology. In a lot of ways, the technological developments required
+in the Singularity, without attending to the social and cultural
+facts. The singularity is really about the outsourcing of cognition
+(writing, computers, etc.) rather than cramming more computing power
+onto our microchips.
+
+As i begin to understand this a bit better--as it's pretty difficult to
+grok--I've begun to think about the singularity and post-singular
+experience as being a much more dark possibility than had heretofore.
+There are a lot of problems with "the human era," and I think
+technology, particularly as humans interact with technology (eg. cyborg)
+is pretty amazing. So why wouldn't the singularity be made of awesome?
+
+Because it wouldn't be--to borrow an idea from William Gibson--evenly
+distributed. The post-human era might begin with the advent of
+singularity-grade intelligences, but there will be a lot of humans left
+hanging around in the post-human age. Talk about class politics!
+
+Secondly, the singularity represents the end of our society in a very
+real sort of sense. Maybe literature, art, journalism, manufacturing,
+farming, computer terminals and their operating systems (lending a whole
+new meaning to the idea of a "dumb terminal"), and the Internet will
+continue to be relevant in a post-human age. But probably not exactly.
+While the means by which these activities and cultural pursuits might be
+obsoleted (tweaking metabolisms, organic memory transfer, inboard
+computer interfaces) are interesting, the death of culture is often a
+difficult and trying process, particularly for the people (like
+academics, educators, writers, artists, etc.) "Unintelligible" is sort
+of hard to grasp.
+
+And I think frightening as a result. Perhaps that's the largest lesson
+that I got from Vinge's responses: the singularity is on many levels
+something to be feared: that when you think about the singularity the
+response should be on some visceral level "I'd really like to avoid
+that," rather than, "Wouldn't it be cool if this happened."
+
+And somehow that's pretty refreshing. At least for me.
+

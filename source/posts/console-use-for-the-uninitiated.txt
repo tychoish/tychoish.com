@@ -1,0 +1,69 @@
+===============================
+Console Use for the Uninitiated
+===============================
+
+.. post:: 2010-08-13
+   :author: tychoish
+   :tags: cyborg
+
+I have a computer, an old laptop, that I mostly use as the foundation of
+my stereo system. It's just a basic system with a few servers (a web
+server and the music player daemon), and it doesn't have a running
+window manager. This configuration usually doesn't bug me: I connect
+remotely and the computer sits under the couch, but since my recent move
+I've not had a network connection at home and I've defaulted to playing
+music and managing the system from the console.
+
+This works just fine for me. The virtual terminals aren't noticeably
+different from the terminal I get over ssh (as you would expect/hope),
+except now I have to walk across the room. The people who listen to
+music with me haven't yet been other terminal geeks, and so I've taken
+on the role of stereo whisperer. Until a friend looked over my shoulder
+and wanted to change the track. Using the console is sometimes (often) a
+slippery slope.
+
+I realized immediately that this situation was much more conducive to
+learning to use the console than the kinds of introductions to using the
+console that I've typically written. The commands we used were very
+limited: the ``mpc`` program that acts as a simple command-line client
+to the music player daemon (``mpd``) and ``grep``. We also used the pipe
+operator.
+
+There are thousands of commands on most Linux/UNIX systems and
+remembering all of them can be a bit challenging. The console is a
+limiting environment basically you can do one thing at a time with it,
+and you don't have a lot of leeway with common errors. At the same time,
+there are a great number of programs and commands that a beginner has
+*no way* of knowing about or knowing when to use. Legitimately, the
+console is both too limiting and expansive to be *quickly* accessible to
+the uninitiated. **Starting with a very limited selection of commands is
+way to break through this barrier.**
+
+The terminal environment is also very "goal-oriented." Enter a command
+to generate some sort of output or result and then repeat. At the end
+your system will have done something that you needed it to, and/or
+you'll learn something that you didn't already know. When you're just
+trying to learn, all of the examples seem fake, contrived, and
+bothersome because many people already have an easy way of accomplishing
+that task using GUI tools. Learning how the terminal works, thus, needs
+a real example, not just a potentially realistic example.
+
+The great thing, I think, is that once you have a *need* to learn
+command line interaction, it makes a lot of sense even to people who
+aren't die-hard geeks: Commands all have a shared structure that is
+fairly predictable and inconsistencies are apparent. Perhaps most
+importantly the command line's interaction model is simple: input a
+command and get a response. Advanced users may be able to bend the
+interaction model a bit, but it is undeniably parsimonious.
+
+It seems, in conclusion, that the command-line is easy to learn for the
+new user for the same reason it is beloved by the advanced. Ongoing
+questions, include:
+
+If this kind of realization were to catch on, how might it affect
+interaction design in the long run? Might "simple to design" and "easy
+to use" move closer together?
+
+Is there a way to build training and documentation to support users who
+are new to this kind of interaction style?
+

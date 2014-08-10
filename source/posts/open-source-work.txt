@@ -1,0 +1,99 @@
+================
+Open Source Work
+================
+
+.. post:: 2008-09-30
+   :author: tychoish
+   :tags: cyborg, open-source, free-software
+
+So I may have my `beef
+with <http://tychoish.com/rhizome/open-source-freedom/>`__ with the
+software *as* freedom, [1]_ none the less I think we can learn some
+pretty interesting things about freedom and politics from thinking about
+what open source means. In this vein recently, I've been thinking more
+about the economics of open source, and as I'm prone to an interest in
+creative business models that find interesting ways to generate income
+in unique and special ways. Here's some thoughts on the
+"politics/economy of work in open source."
+
+On some deep level open source software resists the traditional
+`scarcity <http://tychoish.com/rhizome/on-scarcity/>`__ economic model.
+There is no property, intellectual or otherwise, that you *can* exchange
+for money in a way resembling the normal way. With that option off of
+the table the open source community has to come up with other ways of
+doing business, and because scarcity (in another sense) is the mother of
+creativity, what folks in the open source world do to make a living is
+pretty interesting.
+
+There are a few of major ways that people in the open source community
+make money:
+
+1. Software-as-Service: Rather than sell people software, companies sell
+service agreements. This is nifty, because it lets groups of people
+get support for open source, it's cheaper for users than buying
+software and service contracts, and also it means that service based
+businesses are smaller, because it's more efficient to run a smaller
+company, and because anyone with the right skills can provide the
+services and not just the copyright holder for the OS. So customers
+get a more tailored experiences. The con, is that the better software
+is, the less people need support for it.
+
+2. Custom programing. Basically individual programers consult with users
+to develop custom solutions around people's needs, using open source
+tools. Ideally some of what people write gets contributed back into
+the repositories (as libraries/tools), and this is particularly
+suited to very modular/adpatable projects like
+`drupal <http://drupal.org/>`__ or
+`debian <http://www.debian.org/>`__
+
+3. Certification. A company/programer reviews the components and
+develops an independent release of an open source product that
+they've certified. The best example of this is the
+`RedHat <http://www.redhat.com/>`__ certified linux versus `Fedora
+Core <http://fedoraproject.org/>`__. Which is mostly useful in the
+"enterprise world."
+
+4. Service Software. This is a mashup of other models, and I think it
+better to lead with examples:
+`Wikimedia <http://www.wikimedia.org/>`__/Wikipedia/`Wikia <http://www.wikia.com/>`__
+and DabbleDB and\ `smalltalk/seaside <http://www.seaside.st/>`__.
+Basically, a company uses an open source product to develop a service
+which generates income via subscriptions, advertising, and donations,
+which supports developers who contribute to the core project.
+
+The most interesting effect that all of these models (but most clearly
+in the first two) have is that money isn't being exchanged for "a
+thing," but rather for *work.*
+
+Which when you think about it, after we remove a few layers of
+mystification around "intellectual property," the only thing that's
+truly scarce is labor. Folks in the open source movement have had to
+realize this, and I think the ripple effect of this could be really
+profound. More important than even the "open access" to source code.
+
+Twenty years ago (or more) having open source code was really rather
+important, but even then and more so now, open source code wasn't a
+great benefit to most users. The number of linux users who've ever
+looked at the kernel source is probably pretty small. Thus I think it's
+not a stretch to say that the ideology of open source (as opposed to
+free software) is as much about pushing further a different way of
+thinking about work and "ownership," as it is about "freedom" or some
+more specific technological goal.
+
+Thoughts? Reactions?
+
+.. [1]
+My father neatly summarized my critique as one against "lifestyle
+politics," which is apt. I think the problem in this case--like
+many--is one where personal beliefs and actions are *in themselves*
+thought to have a concrete impact on a larger political/economic
+situation, when I think politics happens at the next stage where you
+take your personal experiences and situations and work to
+influence/empower others. That is, if you *just* use free software
+(and refuse to use non-free software), you will do nothing to
+undermine the commercialized software industry, but if you use free
+software and you contribute back to the projects, and you help other
+people use free software, *and* you use free software to contribute
+to other efforts/projects things that is (potentially) a powerful
+political act. Potentially.
+

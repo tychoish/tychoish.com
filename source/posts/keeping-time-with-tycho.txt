@@ -1,0 +1,75 @@
+=======================
+Keeping Time with tycho
+=======================
+
+.. post:: 2008-12-22
+   :author: tychoish
+
+Ok, so I haven't done a journal upate in a long time, and I think it's
+high time that I posted an update about my projects and stuff. It's my
+blog after all.
+
+I've been working a lot, which is a good thing. Also I think some pretty
+cool things are happening with my job. While work can be stressful by
+virtue of shear volume, I'm pretty excited about how things are going.
+I'm also getting better at managing the "working for a virtual company,"
+thing: it's taken me a while to figure out the *right* way to manage
+things so that it doesn't feel like I'm working constantly, or
+conversely feel like I'm never getting anything done. I don't know that
+I have the answer, but I've started to figure out ways of both working,
+and making progress on projects that are important to me. Evidence of
+this: I've gotten knitting *and* writing done recently.
+
+I've been working on an academic project--some of the conceptual
+"thinking" work for this has appeared on the blog in the past few
+months. I'm laying the groundwork for an application to
+history/anthropology/library school to study free software/open source
+development mythologies and communities. The project will wrap up in the
+next couple of weeks, and then I'm going to spend a couple of months
+preparing and launching a website/wiki on the subject and initiating
+correspondences with a few key people in the field. I haven't *totally*
+ruled out applying for a couple Ph.D. programs in Fall 09/Winter 10 to
+begin in Fall '10 as a trial run, but I'm thinking waiting another year
+is more likely. By then, I think I'll be ready.
+
+I've been doing some knitting. Small stuff, socks and hats and stuff,
+just because I need something with that kind of pace. Also, while I've
+never been a big yarn buyer, my off an on break from knitting hasn't
+entirely put and end to my yarn buying. Also I might have bought a skein
+of Noro Silk Garden sock yarn that I really want to make into a neck
+cowl/covering/tube. There will probably some enterlac involved as well.
+I'll get back to sweaters soon. But I'm not in a rush.
+
+My technological purchases acquisitions over the past few months (the
+new laptop, the linux desktop, the fancy cellphone) are continuing to
+serve me quite well. I miss the amazing battery life and sleep/wake
+features of the macbook (which my father has taken as his own), I have
+to say that I think I work much better on the linux machines. I can
+focus more easily, because there's less operational overhead (fancy
+graphics etc.) even the older hardware really keeps up with what I want
+to do. I've thought about selling/trading the macbook away for something
+like a dell m1330 (or cash to buy another thinkpad)--for the father, as
+a way of ameliorating my losses. But other than that I'm pretty pleased
+with the way my stable of technology has improved the way I work.
+
+In a similar vein, my switch to emacs from vim (and TextMate on the Mac)
+continues to do well. I'm doing much of my writing in emacs, though
+there are things that I do in other editors. I edit email vim, because
+that makes sense, and it works well, though I imagine that I'd switch to
+emacs for that at some point in the future. There are some things where
+I'll confess to really liking Gedit's tabbed interface (mostly for
+instances where I need to copy and paste a lot of content from an editor
+into a web browser. The right tool for the right job, and all that. I've
+never thought of myself as a multi-editor kind of guy--and emacs doesn't
+seem to provoke this kind of response--but it's not a bad thing.
+
+I'm not sure how much holiday-related time off I'm going to take this
+week. Being neither Christian, nor a particularly observant Jew, I don't
+expect that I'll make any formal blog vacation. At the same time, I'm
+well aware that with a great number of you all in blog land on "holiday
+schedule," it doesn't make a lot of sense for me to slavishly stick to
+my blog schedule. Also, I need a bit of a break for `Critical
+Futures <http://criticalfutures.com/>`__, to recharge and reevaluate so
+that I can make the best of the new year over there. So, stay tuned and
+have a good holiday.
+

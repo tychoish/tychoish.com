@@ -1,0 +1,58 @@
+====================================
+Reasons to Write Fiction in Markdown
+====================================
+
+.. post:: 2007-09-11
+   :author: tychoish
+
+Having basically converted from writing almost exclusively in Word, the
+last time I wrote fiction, I'm now enjoying writing in Markdown using
+plain text and TextMate. Here's why:
+
+So I've been writing today, and I think, despite a slight false start,
+I'm really liking how my writing turned out today. Unlike a lot of other
+pursuits (homework, dancing, sometimes knitting) that are really fun
+when I'm doing them but draining after the fact, getting writing
+done--particularly fiction writing--almost always leaves me feeling
+invigorated and fresh. I feel like I can do more when I'm done writing
+than I can when I'm done with other things.
+
+What I love about fiction writing in Markdown:
+
+1. It's a subset of HTML, which means that HTML elements work in
+markdown. This is cool because as I'm writing I can use HTML comment
+tags, <!-- like this -->, to make notes to myself. For instance,
+today, I something changed with how I was writing a character today,
+so I left a little note to myself marking the occasion, which will
+persist with this document, and will be nice to keep with the
+documents. Also I'll write up outlines and keep them in comment tags
+so that nothing sneaks through. Also TextMate highlights these tags,
+so that they look different from the text while you're writing.
+
+2. If you're not writing linearly, or think that you need to go back and
+edit a paragraph later, but don't want to break your forward flow
+with an edit, you can throw a hash or two or three (#) before the
+line and TextMate will mark the entire line in a special color so
+that you can pick it out quickly, or jump to it with the quick
+reference. If you forget about it, then when you run
+`markdown <http://daringfireball.net/projects/markdown/>`__ or
+`maruku <http://maruku.rubyforge.org/>`__, you'll know very quickly
+that you have to change something.
+
+3. Mark down makes pushing things out to the web, and a well formated
+paper/pdf document equally easy (particularly with Maruku), and I
+find tweaking a LaTeX document in TextMate (and even running LaTeX)
+to be way better than running it from the command line.
+
+4. The Markdown subversion support is really great, and it's nice to
+know that your stuff is all backed up and versioned properly.
+
+5. Between MegaZoom (a SIMBL pluggin) and good text zooming support, a
+good--full screen--distraction free writing environment is easy to
+obtain, and a pleasure to write in.
+
+6. Slim and Stable. This is a TextMate issue, of course, but, I really
+love not having to run Microsoft products.
+
+That's it. Good Wholesome fun.
+

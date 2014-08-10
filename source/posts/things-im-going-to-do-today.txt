@@ -1,0 +1,62 @@
+================================
+The Things I'm Going To Do Today
+================================
+
+.. post:: 2010-03-01
+   :author: tychoish
+   :tags: cyborg, organization
+
+Ok, so not really.
+
+This post is mostly about playing a head game with yourself, in an
+effort to get more organized. But not "head games" in a bad way. On *my*
+to do list for the past few weeks I've had something like "write a blog
+post about todo list item titles," because in light of `this
+post <http://tychoish.com/rhizome/beyond-lists-in-org-mode/>`__ about
+`org-mode <http://orgmode.org/>`__ it seems like a topic in need of
+further definition. Basically my goal is to explore, **the best way to
+think about what we have to do, to allow us to accomplish what we want
+to.** The GTD system which so many people are enamored of present a few
+ideas on the topic, and while the GTD way is a good place to start
+thinking, it's not a good place to *stop* thinking.
+
+--------------
+
+We've all done it. Made a todo list that we didn't end up using for one
+reason or another. Todo lists, need to be useful: they should help us
+organize our day, and help us keep track of all the things wee need to
+accomplish. In a lot of ways, maintaining focus over our day and all of
+the tasks that nag at us are contradictory, so todo lists are failed by
+design.
+
+The first, and frequent issue in my own organization are lists and plans
+that go too far and list too many "actionable items." This divides your
+time and actions into too many little pieces, leading to a number of
+outcomes. The first risk is that you might start to ignore the list
+entirely because it's too long and complicated, even if it's an illusion
+caused by the size of the items on your list. Ergo, the total length of
+the list you "work off of," needs to be manageable and comprehensible.
+
+The second risk, is that, an overactive todo list is one where you over
+plan for yourself, such that your list--while accurate and
+comprehensible--isn't *useful*. Beyond simply providing "outboard
+memory," the best todo lists allow us to structure and make plans for
+our working time. When working (e.g. writing, at the computer, etc.), I
+like to have my projects chopped up into pieces that can conceivably get
+done in the time I have to work on them, but that give me the time and
+freedom to bury myself on a side project, or follow inspiration or a
+train of thought to its completion when needed. While effective todo
+lists help you structure your time, flexibility is still valuable.
+
+There are issues on the other end of the spectrum as well: when lists
+are too short, and the "actionable items" on a list are too conceptually
+large, the effectiveness of lists is degraded as well. A reminder to
+"write a novel," even a specific novel, is less than helpful for helping
+you accomplish something in the moment. Even a dozen items, on a list
+where you end up checking something off once every day or two doesn't
+help you figure out "Ok, what do I need to work on now." Besides the
+chances are, if the items are too large and the list is too small, that
+you probably have it memorized anyway.
+
+Right? Other strategies?
+

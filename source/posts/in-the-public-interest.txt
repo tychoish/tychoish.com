@@ -1,0 +1,55 @@
+======================
+In The Public Interest
+======================
+
+.. post:: 2009-09-22
+   :author: tychoish
+   :tags: economics, politics
+
+I realize that with all `this blabbering I've been doing about social
+organizations, and
+politics <http://tychoish.com/archive/cooperatives/>`__, particularly
+the post on `Health Care
+Cooperatives <http://tychoish.com/rhizome/health-care-cooperatives>`__,
+some of you may have read something into my thinking that I think is
+very much not there. I think this resonates with the way people people
+read a certain kind of libertarian streak in Cory Doctorow's work, which
+is I think is an uncomfortable association, at least in my reading.
+
+There are two parts of my thinking that I think are important:
+
+First, I think there is a not particularly insignificant range of social
+and economic functions that fall into the broad category of the "public
+interest," that I think would (and are) ill served by the private
+institutions which are their current guardians. This was the crux of the
+argument of my health care argument, but I think there are other things
+that fall under the public interest: education, banking, "utilities"
+(water, sewage, power, TCP/IP data,) health care, and infrastructure
+(roads, public transit, rail, power distribution, ), as well as some
+operations that benefit from centralized organization like aviation.
+
+Second, I would assert that "Market Forces," are not sufficiently
+understood to merit trust in their efficacy. Furthermore, the
+large-scale global markets that have ruled supreme in the recent past
+tend to sacrifice long-term authenticity, for short term gains at the
+expense of individuals. This is the problem with corporations that I've
+been harping on for a long time. The way, as far as I can tell to
+de-incentivize this kind of economic activity, is to focus economic
+development on more smaller ventures and to decrease the importance of
+initial capital outlay on business models.
+
+And that's simply not something you can regulate or deregulate around.
+To erase the impact of corporate-styled business models on the economy,
+you have to hack scarcity in some way. Corporation-sized ventures beat
+cooperative-sized ventures today, because in most areas economies of
+scale in the production of concrete material, doom cooperative-sized
+enterprises. One of the effects of the development of technology in the
+next {{few}} [1]_ years will be, I suspect, to decrease the advantages
+of economies of scale.
+
+If nothing else it's an interesting time to be alive.
+
+.. [1]
+This gets my standard "until the singularity gets here," response, so
+before 2030 or 2040. You heard it here first.
+

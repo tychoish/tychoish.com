@@ -1,0 +1,81 @@
+=====================
+File System Metaphors
+=====================
+
+.. post:: 2010-03-18
+   :author: tychoish
+   :tags: cyborg, organization
+
+The file system is dead. Long live the File system.
+
+We live in an interesting time. There are two technologies that aim to
+accomplish two very goals. On the one hand we have things like Amazon's
+S3, `Hadoop <http://hadoop.apache.org/>`__, NoSQL, and a host of
+technologies that destroy the file system metaphor as we know it today.
+The future, if you believe it, lays in storing all data in some sort of
+distributed key/value store-based system. And then, on the other hand we
+have things like "FUSE" that attempt to translate various kinds of
+interfaces and data systems onto the file system metaphor.
+
+Ok, so the truth is that the opposition between the "lets replace file
+systems" with non-file based data stores folks and the "lets use the
+file system as a metaphor for everything," is totally contrived. How
+data is stored and how we interact with data are very different (and not
+always connected) problems.
+
+Let's lay down some principals:
+
+-  There are (probably) more tools to interact with, organize, manage,
+and manipulate files and file system objects than there are for any
+other data storage system in contemporary technology.
+
+-  Most users of computers have some understanding of file systems and
+how they work, though clearly there are a great diversity of degrees
+here.
+
+-  In nearly every case, only one system can have access to a given file
+system at a time. In these days of such massive parallel computing,
+the size of computer networks, (and the associated latency) this has
+become a rather substantial limitation.
+
+-  From the average end user's perspective, it's probably the case that
+file systems provide too much flexibility, and can easily become
+disorganized.
+
+-  There are all sorts of possible problems regarding consistency,
+backups, and data corruption that all data storage systems must
+address, but that present larger problems as file systems need to
+scale to handle bigger sets of data, more users, and attach to
+systems that are more geographically disparate.
+
+Given these presumptions, my personal biases and outlook, and a bit of
+extrapolation here's a basic feature set for "information storage
+system." These features will transcend the storage engine/interface
+boundary a bit. You've been warned.
+
+-  Multiple people and systems need to be able to access and edit the
+same objects concurrently.
+
+-  Existing tools need to be able to work in some capacity. Perhaps
+using FUSE-like systems. File managers, ``mv``, ``ls``, and ``cp``
+should just work, etc.
+
+-  There ought to be some sort of off-network capability so that a user
+can loose a network connection without loosing access to his or her
+data.
+
+-  Search indexing and capabilities should be baked into the lowest
+levels of the system so that people can easily find information.
+
+-  There ought to be some sort of user facing meta-data system which can
+affect not just sort order, but also attach to actions, to create
+notifications, or manipulate the data for easier use.
+
+These sorts sorts of features are of course not *new* ideas. My
+`sygn <http://wiki.cyborginstitite.net/sygn/>`__ project is one example,
+as is `haven <http://josephspiros.com/2009/02/05/prelude-to-haven>`__,
+as is `this personal information management
+proposal <http://www.snell-pym.org.uk/archives/2009/12/16/personal-information-management/>`__.
+
+Now all we need to do is figure some way to *build* it.
+

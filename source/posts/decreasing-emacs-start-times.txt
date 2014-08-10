@@ -1,0 +1,138 @@
+===========================
+Decreasing Emacs Start Time
+===========================
+
+.. post:: 2010-02-02
+   :author: tychoish
+   :tags: emacs, cyborg
+
+One oft made complaint about emacs is that it takes *forever* to start
+up, particularly if you've got a lot of packages to load it can take a
+few seconds for everything to start up. In a lot of respects this is an
+old problem, that isn't as relevant given contemporary hardware. Between
+improvements to emacs, and the fact that computers these days are
+*incredibly powerful*, it's just not a major issue.
+
+Having said that, until recently an emacs instance took as much as 7
+seconds to start up. I've beaten it down to under two seconds, and using
+``emacsclient`` and starting emacs with "``emacs --daemon``\ " makes the
+start up time much more manageable.
+
+Step One: Manage your Display Yourself
+--------------------------------------
+
+I've written about this before, but really even a 2 second start time
+feels absurd, if I had to start a new emacs session each time I needed
+to look into a file. "``emacs --daemon``\ " and ``emacsclient`` mean
+that each time you "run" emacs rather than start a new emacs instance,
+it just opens a new frame on the existing instance. Quicker start up
+times. It means you can open a bunch of buffers in one frame, settle
+into work on one file, and then open a second buffer and edit one of the
+previous files you opened. Good stuff. The quirk is that if you've set
+up your emacs files to load the configuration for your window displays
+late in game, the windows won't look right. I have a file in my emacs
+files called ``gui-init.el``, and it looks sort of like this:
+
+::
+
+(provide 'gui-init)
+
+(defun tychoish-font-small ()
+(interactive)
+(setq default-frame-alist '((font-backend . "xft")(font . "Inconsolata-08")
+(vertical-scroll-bars . 0) (menu-bar-lines . 0) (tool-bar-lines . 0)
+(left-fringe . 1) (right-fringe . 1)
+(alpha 86 84)))
+(tool-bar-mode -1)
+(scroll-bar-mode -1)
+)
+
+(if (string-match "laptop" system-name)
+(tychoish-font-big))
+
+Modifying, of course, the system name, and the settings to match your
+tastes and circumstances. The ``(if)`` statement allows you to have a
+couple of these ``-font-`` functions defined and then toggle between
+them based on which machine you load emacs on. Then in your init file
+(e.g. ``.emacs``), make sure the first two lines are:
+
+::
+
+(setq load-path (cons "~/confs/emacs" load-path))
+(require 'gui-init)
+
+Establish the load path first so that emacs knows where to look for your
+required files, and then use the ``(require)`` sexep to load in the
+file. Bingo.
+
+Package Things Yourself
+-----------------------
+
+We saw this above, but as much as possible avoid using the ``load``
+function. When you use ``load`` emacs has to (I'm pretty sure) do a
+fairly expensive file system operation and then load the file and then
+compile and load the file. This takes time. Using the ``require``
+function is not without it's own cost, but it does save some time
+compared to ``load`` because it lets you take advantage of the work
+emacs does with the library loading. At least in my experience.
+
+In your various ``.el`` files, insert the following statement:
+
+::
+
+(provide 'package)
+
+And then in your .emacs, use the following statement
+
+::
+
+(require 'package)
+
+To load it in. You're probably already familiar with using these to
+configure packages that you download. Better yet, don't require at all,
+but use the ``auto-load`` function. This just creates a little arrow
+inside of emacs that says "when this function is called, load this file,
+and hopefully the 'real' function by this name will be in there." This
+lets you avoid loading packages that you don't use frequently until you
+actually need them. The following example provides an auto-load for the
+identica-mode:
+
+::
+
+(autoload 'identica-mode "identica-mode.el" "Mode for Updating Identi.ca Microblog" t)
+
+Byte Compile files as much as you can.
+--------------------------------------
+
+Contrary to whatever you've been told, emacs isn't a text editor, as
+much as it is a virtual machine with a good deal of low level functions
+established for interacting with text and textual environments *and*
+some editing-based interfaces. But really at the core, it's just virtual
+machine that interprets a quirky Lisp dialect.
+
+The execution model is pretty simple and straightforward, particularly
+to people who are used to Java and Python: you load source files, emacs
+imports them and compiles them half way, they're not the kind of thing
+that you could read on your own or would want to write, but it's not
+quite machine code either. Byte-compiled files are easier for the
+machine to read, and quicker to process, but they're not human
+intelligible. Then when you need to do something with the function that
+it's byte-compiled, emacs compiles it the rest of the way into machine
+code and executes it. Usually this all happens too fast that we don't
+really notice it.
+
+One tried and true means of speeding up emacs load times is to
+byte-compile files manually so that emacs doesn't have to do it itself
+when it loads. The emacs-lisp libraries are byte compiled when emacs
+installs itself, but *your* files probably aren't. Now generally, only
+byte-compile files that you're not going to be editing yourself
+regularly. Byte compiled files have an ``.elc`` extension, and as soon
+as there's a ``.el`` file and a ``.elc`` of the same name in a
+directory, emacs will ignore the ``.el`` file even if there have been
+changes made. To byte compile an emacs-lisp file, simply type ``M-x`` to
+get the ``execute-extended-command`` prompt, and then run the function
+``byte-compile`` (i.e. "``M-x byte-compile``\ "). Viola!
+
+I hope these all help you all and lead to a slightly more efficient
+emacs experience.
+

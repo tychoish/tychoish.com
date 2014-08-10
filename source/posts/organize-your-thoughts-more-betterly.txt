@@ -1,0 +1,73 @@
+====================================
+Organize Your Thoughts More Betterly
+====================================
+
+.. post:: 2010-06-02
+   :author: tychoish
+   :tags: information-management
+
+I've been `working with a reader and friend on a project to build a tool
+for managing information for humanities scholars and others who deal
+with textual
+data <http://wiki.cyborginstitute.com/people/madalu/information-repository-systems/>`__,
+and I've been thinking about the problem of information management a bit
+more seriously. Unlike numerical, or more easily categorized information
+data, how to take a bunch of textual information--either of your own
+production or a library of your own collection--is far from a solved
+problem.
+
+The technical limitation--from a pragmatic perspective--is that you need
+to have an understanding not only of the specific tasks in front of you,
+but a grasp of the entire *collection* of information you work with in
+order to effectively organize, manage, and use the texts as an
+aggregate.
+
+"But wait," you say. "Google solved this problem a long time ago, you
+don't need a deterministic information management tool, you need to
+brute force the problem with enough raw data, some clever algorithms,
+and search tools," you explain. And on some level you'd be right. The
+problem is of course, you can't create knowledge with Google.
+
+Google doesn't give us the ability to discover information that's new,
+or powerful. Google works best when we know *exactly* what we're looking
+for, the top results in Google are most likely to be the resources that
+the *most* people know and are familiar. Google's good, and useful and a
+wonderful tool that `more people should probably
+use <http://lmgtfy.com/>`__ but Google cannot lead you into novel
+territory.
+
+Which brings us back to local information management tools. When you can
+collect, organize, and manipulate data in your own library you can draw
+novel conclusions, When the information is well organized, and you can
+survey a collection in useful and meaningful ways, you can see holes and
+collect more, you can search tactically, and within subsets of articles
+to provide. I've been talking for more than a year about `the utility of
+curation in the creation of value
+on-line <http://tychoish.com/rhizome/curation-and-content-overload/>`__.
+and fundamentally I think the same holds true for personal information
+collections.
+
+Which brings us back to the ways we organize information. And my firm
+conclusion that we don't have a really good way of organizing
+information. Everything that I'm aware of either relies on search, and
+therefore only allows us to find what we already know we're looking for,
+or requires us to understand our final conclusions during the
+preliminary phase of our investigations.
+
+The solution to this problem is thus two fold: First, we need tools that
+allow us to work with and organize the data for our projects, full stop.
+Wiki's, never ending text files, don't really address all of the
+different ways we need to work with and organize information. Secondly
+we need tool tools that are tailored to the way researchers who deal in
+text work with information from collection and processing to quoting and
+citation, rather than focusing on the end stage of this process. These
+tools should allow our conceptual framework for organizing information
+to evolve as the project evolves.
+
+I'm not sure what that looks like for sure, but I'd like to find out.
+`If you're interested, do help us think about
+this <http://wiki.cyborginstitute.com/>`__!
+
+(*Also, see this post `regarding the current state of the Cyborg
+Institute <http://www.cyborginstitute.com/2010/06/a-report-from-the-institute/>`__.*)
+

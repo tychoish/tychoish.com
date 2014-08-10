@@ -1,0 +1,154 @@
+===========
+Owning Bits
+===========
+
+.. post:: 2009-11-18
+   :author: tychoish
+   :tags: economics
+
+Some First Principals:
+----------------------
+
+-  It is difficult, and likely impossible to technologically restrict
+the duplication and redistribution of digital resources. In
+other-words, *digitally accessible resources will never be scarce*.
+
+-  Creators of content (music, literature, software) should be
+reimbursed for their work, and there should be business models that
+support these kinds of pursuits. In other words *people should be
+compensated for the creation of content in a viable and sustainable
+manner*.
+
+-  Information probably does want to be free. Creators of information,
+should want their information to be "free" because the information
+that has the most power and influence is that which is most
+accessible.
+
+-  The conveyance of physical objects (books, etc.) is a source of
+concrete value. Physicality is not the only basis for economic
+exchange, of course, but it's a good place to start.
+
+--------------
+
+Questions and Answers:
+~~~~~~~~~~~~~~~~~~~~~~
+
+-  **What is the "content problem?"**
+
+I suppose the core of the problem with content these days is that we
+don't have a good set of business models that can support the creation
+of new content in an ongoing sort of way. The industry around content is
+unstable and in flux: newspapers are hemorrhaging money and it doesn't
+seem likely that they're going to be able to do anything other than
+(maybe) prolonging the amount of time between now and when they
+collapse. Some paper companies might surrivive, but the consolidation
+and "flufification" of a great many newspapers, doesn't seem to have a
+great deal of long term potential.
+
+Same thing with the book publishers. There are some that seem to be
+doing interesting things. `Tor.com <http://www.tor.com/>`__ seems to be
+a good example of a step in the right direction. And maybe there will be
+an ebook platform that makes sense, or maybe we'll see some sort of
+revival in niche-booksellers that will revive an interest in book
+collection.
+
+But the bottom line seems to be that we need to find some better way to
+support the creation of content. Because what we have now doesn't seem
+to fit the bill. And whats on the horizon, doesn't seem to be much
+better.
+
+-  **Isn't content a horrible word for this?**
+
+I confess that the word "content" makes me a bit sick from time to time.
+Not only is it awkward to lump the concerns of musicians, academics,
+writers, journalists, and perhaps even software developers all in one
+label. I'm not even sure if the concerns of content producers as a
+whole, if we can address these folks as a group, are particularly
+aligned.
+
+Some academics use the term "knowledge production," to refer to the core
+output of their work, and I'm using content in a similarly broad
+context. Writing/Literature/Music, "Art," and even thought this might be
+a tad bit unconventional I think there's not much that separates the
+consumption of software and the consumption of essays (for example.)
+
+There are also a number of different dimensions upon which we can think
+about content and the future of content: the experience of consumption;
+the process of generation; and the business models which support the
+creation and consumption of content.
+
+-  **Owning Bits? What do you mean?**
+
+I said, a few weeks ago of the whole DRM issue, that I thought "we
+needed to get away from the whole 'owning bits' metaphor for content
+distribution." The whole DRM thing that so many of us find so onerous
+would be mostly become a non issue if we dropped the pretense that when
+you download a song or a book or a movie that you're "buying them." If
+you're just watching the bits for a while, who cares what the digital
+restrictions are? If prices are reasonable for content, who cares if you
+can only "have" a half dozen books at once? I think it would all work
+out. But maybe that's just me.
+
+The questions that result, however are much more interesting: What does
+it mean, socially and politically, if we don't own information? What is
+reasonable and sustainable pricing? What kinds of distribution schemes
+make sense?
+
+-  **Besides the general "fear of copying" that has heretofore plagued
+the content industry, what new technological challenges might the
+content industry face in the mid-to-short term future?**
+
+One of the major issues that I think we're going to have to deal with is
+the fact that digital information systems are too mutable.
+
+While this flexibility gives us lots of very powerful information
+resources, like Wikipedia and the ability to correct flaws in digital
+versions, it also means that Amazon can remove books from the Kindle at
+will. Furthermore, it means that creators and publishers can (attempt)
+to "take back" content if they have second thoughts about it. The
+mutability issue is obviously a mixed bag, but I think the most useful
+information and the most free information will have some sort of
+versioning information.
+
+-  **What are the business models that will support content in the in
+the future?**
+
+The one downfall of `Project Xanadu <http://www.xanadu.com/>`__ is that
+it pushed forward an idea of "micropayments," and the idea if we charge
+*a la carte* for content and have the per unit cost for content low
+enough that somehow it'll all work out. The problem with this, however,
+is that the psychological border between "free" and "not-free" is much
+larger than the border between "a few cents" and "a few dollars." The
+end result: micropayments keep failing.
+
+It's a shame that this idea was the most successful idea to proliferate
+from Xanadu.
+
+My current bet is that some sort of subscription model is likely to win
+out. Pay a few dollars a month, and get access to some reasonable
+quantity of content. Have different levels of subscription to meet
+different needs and demands, and I think there's potential there.
+
+The other prevailing model is the "rockstar" model, where the content
+creator goes on a tour and uses honoraria and merchandise sales to
+offset the cost of content creation. We see this both for authors who
+tour to support books as well as the musicians for whom I've named the
+model. It works, it focuses the transaction of physical objects.
+
+-  **You seem to like subscription models. What are the implications of
+a shift toward subscription models in terms of the way people relate
+to the information (music, writing, etc.) that they consume?**
+
+I'm not sure. I think creating a technological limitation which stores
+version information in some sort of immutable index. I don't think
+publishers will really go for this.
+
+I think subscription models may also revive (in part) the interest and
+power of the physical-object-market. In the way that Libraries don't
+cannibalize booksales (and may encourage and support the sale of real
+books,) I think digital content subscriptions could have the same effect
+on content.
+
+As always I look forward to your thoughts and responses to these
+questions. See you in comments!
+

@@ -1,0 +1,42 @@
+==========
+forgetting
+==========
+
+.. post:: 2007-08-31
+   :author: tychoish
+
+I didn't bring knitting for class today. I think this might prove to be
+a problem for me, but it's only a couple of hours, and my battery should
+hold out for that long, so it's probably not a huge issue.
+
+In other news, I had an attempt to get a blogging set up through
+`TextMate <http://macromates.com/>`__, but have had less than
+satisfactory experiences with the options there. My issue is that I'm
+quite spoiled by the wonderfulness that is Mars-Edit (yes, it is old
+software, but it just works, which is nice), and anything that doesn't
+quite measure up is somewhat painful. While I'm always a little peeved
+when I have to click "edit in external editor" or ⌘-J, it's better than
+nothing, I suspect.
+
+Maybe if I could figure out how to make a TextMate command that would
+send a file to MarsEdit, this would make the workflow a bit better for
+me. Ideas folks?
+
+I `posted something on the 43folders
+board <http://board.43folders.com/showthread.php?t=1964>`__, about
+reorganizing and keeping track of my massive (seemingly, massive at any
+rate) PDF collection. With a little more thought on the subject, I'm
+thinking that perhaps it would be a good idea to use something like
+`BibDesk <http://bibdesk.sourceforge.net/>`__, but I'm far from decided
+on this fact. The first time I looked at this problem, I hadn't made the
+leap to `LaTeX <http://www.latex-project.org/>`__ and I didn't really
+know what to make of it, but I think I'm probably in better shape these
+days.
+
+I'll be in class and then on the road for the rest of the day, so
+updates will be spare, this weekend will probably be pretty spare as
+well, but I might figure out a way to post pictures from a trip to `yarn
+barn <http://www.yarnbarn-ks.com/>`__. Maybe.
+
+Cheers!
+

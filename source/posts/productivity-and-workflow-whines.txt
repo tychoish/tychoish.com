@@ -1,0 +1,63 @@
+================================
+Productivity and Workflow Whines
+================================
+
+.. post:: 2007-04-12
+   :author: tychoish
+
+*I've thought for a while, that we should try and have some level of
+geek content on TealArt, because while I'm no where near as articulate
+as I'd like to be and there are a lot of geek things that I either don't
+have a clue or care very much about. In that direction, while I hope
+that we have a series of geek wines at TealArt, it is my hope that I'm
+not the one writing them. I had time today, and what you read below is
+just a short snippet of a train of thought. Enjoy, and as always, if you
+have a whine that you'd like to share, just get in touch!*
+
+I have a confession to make: I thought about trying
+`GTD <http://en.wikipedia.org/wiki/Getting_Things_Done>`__ again. With
+the release of `iGTD <http://bargiel.home.pl/iGTD/>`__, which I think is
+superb software and really has all the features that anyone would want
+in a productivity app, I was tempted to give the whole bandwagon another
+spin. Thankfully it was short lived. I have to say that this program is
+mighty pretty, but my attempt fell flat really quickly: I still don't
+have contexts, and most of the "brain dump" and "processing" methods
+that Allen pontificates about I basically already do.
+
+My latest productivity arrangement is to have a working text file that's
+hooked up to a quicksilver trigger and to maintain a to-do list there,
+and then to do more project-level planning in the little black book that
+I carry around with me. I also use the book to take notes in meetings
+and other situations where it doesn't make sense to pull the computer
+out of my bag.
+
+This is the thing about being a one-computer, power-mobile computer
+user: the computer is (basically) always with you, and (basically)
+everything you do is on the computer. There exceptions, like the
+paper-books I read, but they also tend to live in my book-bag. I clearly
+can't keep a (digital or paper) library with me, but in day to day
+practice, it works pretty well.
+
+I've occasionally thought about adding another computer to the workflow,
+because I don't think that in a day to day sort of setting I need any
+more power or space, but there are a number of (growing) "special"
+projects that I could benefit from a little extra push. Video
+re-encoding, iTunes synching, data analysis, image editing, and document
+creation (so like formating papers and what not). Everything else I do
+is in a collection of plain standard format files, which neither take up
+that much room or use processing power.
+
+Because I really am only using one computer, though, it means that I can
+keep everything working on this computer without needing to worry about
+synching it to anything, because its always already there. While this
+means that taking part in the nifty web 2.0 is pointless because I'm
+more likely to be without a connection to the internet than I am to be
+without this computer, it works for me.
+
+So GTD remains a bust, and I like the mobility option...
+
+Anyway, I think that's enough for today. I'm certainly feeling better, I
+hope that you are too. Be in touch!
+
+--tycho 12 April 2007 Wisconsin
+

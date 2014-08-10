@@ -1,0 +1,38 @@
+===============
+gentoo/vms suck
+===============
+
+.. post:: 2008-09-24
+   :author: tychoish
+
+Ok, so I really want to like Gentoo Linux. Really, rather a lot. And I
+even `wrote a post about how awesome VMs
+were <http://tychoish.com/rhizome/vms-for-all/>`__. But here's the issue
+of the hour.
+
+I wanted to try gentoo, because I was kind of sick of having to fight
+with ubuntu/debian to get at more contemporary packages. Having a
+distribution that's really picky about these things when I'm not running
+a server, and capiable of deciding if I want to install something is...
+anoying. Espically when I'm likely to install it myself, the "stability
+feature" seems downright painful.
+
+And I'm in the process of testing things out so it seems fair to give
+one of the "rolling" release cylce distributions a test drive. Ok, so
+here's what happened.
+
+There aren't--that I can find--VMs with pre-built Gentoo desktop
+installations in abundence like there are for ubuntu. Which means I have
+to install it from scratch. Except that that's really finkey and I've
+thusfar screwed up in a couple instalations. Once by not reading the
+instructions correctly and setting some weird keyboard layout that I
+couldn't recover from, and this second time because the network wouldn't
+connect in the virtual machine so there wasn't a display manager aside
+from `xdm <http://en.wikipedia.org/wiki/XDM>`__, and while I'm good with
+the shell, I'm not *that* good with it.
+
+I think I should attempt to get a good solid install into the VM before
+I order hardware for real, but this last issue seems to be more an issue
+of "tycho fighting with the vm engine" rather than "tycho fighting with
+linux" so that's helpful, at least a little.
+

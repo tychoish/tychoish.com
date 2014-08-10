@@ -1,0 +1,69 @@
+==================================
+Writing and Growing Professionally
+==================================
+
+.. post:: 2010-11-16
+   :author: Sam Kleinman
+   :tags: writing
+
+I spent a lot of formative time in high school and college listening to
+writing teachers and would be mentors tell me that I was too sloppy or
+too disorganized to write effectively. They were probably right.
+Furthermore, this is probably not something that I think I've been able
+to keep secret from anyone who has read my blog for any measurable
+period of time. (Though I do think most of my more recent entries are
+better than nearly all of my early entries.) What no one really dared to
+tell me, are probably the most important things I've learned as a
+writer:
+
+-  First, that editors are not only essential to the writing process,
+but that there's something fundamentally wrong if something leaves
+the original author and is handed to final readers without passing
+through at least one editor, and often more.
+
+-  Second, the skill of writing isn't necessarily being able to write
+artful sentences, or being able to perfectly apply all of the rules
+of grammar (which, aren't detrimental to the craft of writing). No,
+writing is about being able to get things written. Writing is pobably
+about being able to do research while keeping in mind the parameters
+of the project and ending up with a few paragraphs on a given topic
+that make sense and enlighten more than they confuse. *That* is
+considerably more rare.
+
+The problem, and I wish I had a solution for this, is that there is no
+real way to teach people to write and to love writing. Exposing people
+to lots of examples of writing (i.e. literature) is helpful in teaching
+people to read and cherish the practice of reading. Unfortunately, I
+think reading and writing pull on vastly different skills. And while
+readers have a useful and required prospective on the text, readers who
+don't write often provide ambiguous and difficult to assimilate
+feedback. [1]_
+
+Fundamentally, I think, readers live on the plane of words, and
+writers--at least writer's like me--live on the plane of paragraphs. And
+then there's the whole issue of confusing a love of reading with a need
+or desire to write, but that's another story for another time.
+
+The way, I think, to learn how to write better is to write a lot of
+crappy stuff and learn how to "fail" better and more gracefully.
+Blogging has and is a great tool for me in this regard, but it's not a
+cure-all, and I think integrating blogging in the writing curriculum is
+a difficult project that requires a very nuanced view of blogging, and
+the right set of learning objective. Beyond this, the project of
+learning to write and learning to write "better" is one that I'm not
+sure how to properly facilitate in myself or in others.
+
+At the end of the day, I think it's important to realize that growth as
+a writer isn't the kind of thing that happens quickly. Being a writer is
+a life-long project with slow and steady improvement, minor regressions,
+stunning breakthroughs, dashed hopes, and tactical successes.
+
+Onward and Upward!
+
+.. [1]
+Readerly feedback often comes in the form of thinking that large
+swaths of text need to be rewritten, when the addition of a single
+sentence clarifies the required point. Similarly, I think readers
+aren't as prone to thinking about texts and paragraphs as things that
+can be reordered above the level of the word.
+

@@ -1,0 +1,106 @@
+========================================
+Contact, Cyberculture, and Samuel Delany
+========================================
+
+.. post:: 2009-03-31
+   :author: tychoish
+   :tags: theory, cyberculture, cyborg, internet
+
+I talk to people from time to time about working in cyberspace and
+successful new media participation. If I were a hipster, I might even
+say, "I do SEO," but I'm not, and I don't, really. The truth is that I
+don't have a good, simple, answer to the question, "How do I succeed
+on-line with social media." I do have a lot of ideas on the subject, as
+you might expect (many of which I've already written about here before.)
+The core of my approach revolves around a conviction that word of
+mouth--like offline--is the most effective way to promote events and
+products in cyber-space, with the corollary that "meatspace" connections
+are among the most powerful and valuable "cyberspace" resources.
+
+During college I spent a long time reading and rereading an essay by
+Samuel R. Delany, called `Times Square Red, Times Square
+Blue <http://www.amazon.com/Times-Square-Blue-Sexual-Cultures/dp/0814719198/tychoish-20>`__
+about the process of gentrification in Times Square and it's affect on
+cross-class/cross-race social/sexual contact. The argument was that
+environments and geographies that promoted situations were individuals
+would come into contact (randomly, casually) promoted opportunity,
+satisfying social interaction, and interesting conversations in a way
+that "networking" opportunities (conferences, workshops, cocktail
+parties, etc.) couldn't. In illustration of this, Delany describes
+situations from talking about philosophy in the pornographic theatres of
+the old Time Square to finding a vacuum cleaner repair service in the
+checkout line of the grocery store. Furthermore, "contact" between
+people of different classes (as was present in the pornographic theaters
+of the old time square,) promotes the destabilization of class-based
+injustices. [1]_
+
+Contact has been an incredibly powerful and useful concept for me in a
+number of different contexts, because it provides an method for
+affecting social change in "every day life" and in creates a notion of
+"politics" that's closer to "people interacting" and further from
+something tied to institutions of power ("government," etc.,) which
+suits my disposition. I think, largely the internet is most powerful
+when it promotes something closer to "contact" and further from
+something that resembles "networking." And by powerful, I mean a number
+of things: most likely to positively affect people's work, provide
+meaningful opportunities for commerce and social relationships, to
+develop unique cultural environments.
+
+While there are opportunities for contact on contemporary social
+networking websites, they mostly specialize at helping you find people
+who are actually quite like you, like people you know in real life,
+people who are interested in the same things you're interested in, and
+people who are friends with people you know in real life. That's not
+contact, in the sense provided by Delany. [2]_
+
+There is still, I think, contact. I think microblogging
+(twitter/identi.ca) particularly with "track" features, [3]_ represents
+(or did) a move away from "networking" to contact. The communities that
+form around open source projects, promote contact, as they are often
+interest specific, and contain members with disparate skills and
+backgrounds. Once upon a time, general population/topic (ie. non-project
+specific) IRC channels (chat rooms) were an immense source of contact
+for their users. [4]_
+
+--------------
+
+I'm not sure what this means. I remain convinced that contact is a
+useful and important way of looking at social interactions. I also think
+it says a lot about my interests in open source. I also think that as
+technologies and memes in cyberspace (eg. blogs, social networking,
+microblogging) develop in ways that promote "contact," and eventually
+become "networking" opportunities not that the latter is bad, but it is
+an important conceptual shift. It's also quite likely that we'd be able
+to see what ideas are going to be the next big thing based on the degree
+to which they promote contact. There are other implications I'm sure,
+but I'll leave those for another time.
+
+.. [1]
+I suppose this isn't a wholly radical concept, but in any case, I
+think the "we need to talk to each other," and live in
+integrated/diverse situations is definitely a step in the right
+direction. Delany's articulation is quite useful and complete.
+
+.. [2]
+Indeed I've strayed from Delany in a couple of key directions. First
+his essay(s) described contact as being a uniquely urban phenomena
+(which I've totally abandoned), and secondly something that resonates
+with sub-cultural groups (queers, poor, etc.) In the case of the
+Internet, I think this *works* but I recognize that it's a stretch.
+
+.. [3]
+Once upon a time, you could receive (via IM) twitter updates for any
+keyword, even if you didn't follow the people who sent the tweets.
+This means that all of a microblogging can have a conversation with
+each other, and circumvent the isolating aspects of "social
+networking" constructs.
+
+.. [4]
+By general population/topic I mean non-technical (largely) channels,
+such as rooms for fandom (fans of science fiction; and pop culture)
+rather than "working" or customer support channels. Though people
+would be drawn for a host of reasons, discussions seemed fairly
+random, and my sense is that (if my experience can be generalized
+from) that some pretty powerful friendships/connections were
+developed in these contexts.
+

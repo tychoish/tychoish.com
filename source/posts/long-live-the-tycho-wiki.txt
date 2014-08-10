@@ -1,0 +1,51 @@
+========================
+Long Live the Tycho Wiki
+========================
+
+.. post:: 2011-04-02
+   :author: tychoish
+   :tags: meta, update
+
+I realized that I made a *lot* of changes to the way my websites were
+arranged and worked recently, and I thought that it would be good to
+write a few about the hottest new thing, and my rationale for messing
+everything up. *Again.*
+
+Basically, I took the CriticalFutures.com site, and turned it into the
+[[essay]] section here, moving a bunch of content *back* to
+`tychoish.com <http://tychoish.com/>`__ that used to be here. This time,
+everything is powered by `ikiwiki <http://ikiwiki.info/>`__, and while I
+callously dropped all comments [1]_, I think the move is one of general
+and overall improvement.
+
+At the same time, I think there are challenges. Rather than comment
+pages, there's now a "[[discourse]]" link at the top left of the pages,
+which lets you sign in and create a new page for discussion related to
+the page you're currently viewing. I liked the name "discourse" rather
+than "discussion," but I fear there may be some confusion. I can change
+it over back without much issue, [[if any of you feel
+strongly\|discourse]].
+
+Mostly, it's still the same blog that it's always been, and I'm having
+fun with it. The essay/rhizome divide may turn out to be tenuous in the
+long term, and it might disappear, but for now it makes sense. I've not
+been doing *as many* wiki-based things, though I have worked on a
+[[queer-theories]] page, and the [[technical-writing]] section is
+something that I'm pleased with. Wikis are much more difficult to use
+and produce than one would initially guess. The concept is simple, the
+software is simple, and the work is remarkably time consuming and
+difficult to do right. And then there's the problem of contributors.
+
+I don't know how it's going to sort out, but I [[look forward to hearing
+from you\|folk/tychoish]], and making *stuff* on this domain.
+
+.. [1]
+Which totally sucks, but I had already given into using disqus, the
+migration would be really difficult, and the truth be told, I'd much
+rather participate in discussions that involved the creation of new
+wiki pages, and that involved invitations to email lists, and direct
+emails contact over IRC or IM. Maybe this is more fragmented, and
+maybe I'm shooting nascent conversation in the foot before it has a
+chance to get off the ground, but I think "conversation at any cost,"
+is not the best model for a community.
+

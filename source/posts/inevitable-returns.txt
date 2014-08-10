@@ -1,0 +1,75 @@
+==================
+Inevitable Returns
+==================
+
+.. post:: 2011-05-23
+   :author: tychoish
+   :tags: meta, journal, progress-report
+
+I started writing this post on Thursday, which was my actual birthday,
+to write a post blathering about the things I was working and about
+routines and forming new habits, and some changes that I've made to the
+site. And then I got swept into work and doing things, and the writing
+just never happened. Friday and the weekend were filled with family
+time, dancing, and my goal for this comparatively quiet Sunday afternoon
+is not so much to get caught up on various projects, but to get a little
+bit done to jump start my momentum for the week.
+
+The biggest development that I've made last week, during that hiatus, is
+that I merged the "essay" and the "rhizome" section of the site.
+Everything's a rhizome, though if a post is seeming particularly
+"essay"-like the [[essay]] page will sill pull those out. This seems to
+be the best technological solution *and* it solves the logical overhead
+of needing to maintain two sites. Maybe other people can deal with
+maintaining more than one site or blog, but I really can't deal with.
+This is one of those things that seems like a good idea every couple of
+years, and then I give up and merge everything back together.
+
+I also wrote up a project spec called [[A LaTeX Build
+System\|latex-system]], which describes (very roughly) a notional piece
+of free-software infrastructure that would make LaTeX easier to use in
+and for itself but also designed in such a way as to make LaTeX based
+systems preferable for all sorts of publishing operations. Read the page
+for more info, but it's basically a way to sand offf all the rough edges
+of LaTeX so that everyone who makes documents (that's most people) can
+make beautiful consistent documents easier than with any conventional
+method.
+
+I finished reading `Player Of
+Games <http://www.amazon.com/gp/product/0061053562/ref=as_li_ss_tl?ie=UTF8&tag=tychoish-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0061053562>`__,
+last week. It's another one of Iain M. Banks' "Culture" novels, which I
+like. They're frustrating because they all (so far) have a lot of plot
+that circles around itself endlessly, and seems really important but you
+know that anything that you might find out in the plot *going to* has
+already happened in the set up. The result is this an ironically
+claustrophobic novel feels like a really drawn out world building
+experience. While the experience works, it doesn't feel like it *ought
+to* to work. And there you are.
+
+Speaking of reading, I finished reading the book above on my new phone
+which is quite nice. I'm not sold on the Kindle Mobile app for reading
+short fiction periodicals, as it doesn't save/sync pages, and I find it
+hard to read an entire novella in a single sitting. I've started paying
+for `Readability <https://www.readability.com/>`__, which is a great
+tool for bookmarking, reading and archiving articles and other
+medium-to-long form pieces on the web. I've started paying, because I
+think they're doing something really cool that I really want to succeed,
+*and* I like being able to use it as a way of getting content to my
+phone for reading. I'm a little frustrated that there's no good way to
+load up the phone with articles for reading while on the subway. *Get on
+that, ye horde of mobile developers!*
+
+I've started knitting again. Just reached the bottom of arm holes
+(armscye for the pedantic) for a new sweater that I've been working on
+(or ignoring more likely) for a few months. That's exciting, and it's
+nice to get a few rows done most days. I'm not obsessive (much) about
+the knitting, and certainly not in the way that I have been in the past,
+but it's a nice thing to do and a good change of pace when I get tired
+of looking at screens. I've long toyed with the idea of writing knitting
+stories something sort of between an essay and a knitting pattern and if
+nothing else I think doing some of that writing will require a regular
+knitting practice. Add that to the list.
+
+Speaking of lists, I ought to work on making some progress on my list!
+With luck I'll be around a bit more this week!
+

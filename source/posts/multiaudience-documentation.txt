@@ -1,0 +1,88 @@
+============================
+Multi-Audience Documentation
+============================
+
+.. post:: 2011-12-05
+   :author: tychoish
+   :tags: technical-writing
+
+I've written before about different [[types of
+documentation\|rhizome/technical-writing-appreciation/]], and the
+different purposes and goals that each type services. Rather than rehash
+*what documentation is*, I'm interested in using this post to think
+about ways of managing and organizing the documentation process to
+produce better documentation more easily, with the end goal of being
+able to increase both maintainability *and* usability of documentation
+resources.
+
+Different groups of users--say: administrators, end-users, and
+developers--interact with technology in overlapping but distinct ways.
+For some technologies, the differences between the classes of users is
+not significant and one set of documentation is probably good do every
+one, plus or minus a very small set. In most other cases, multiple
+resources are required to be able to address the unique needs of
+different user groups. Figuring out effective ways to address the
+different kinds of questions that various groups of users ask, but in a
+way that makes sense to those users is often the primary challenge in
+writing documentation.
+
+Having said that, writing different sets of documentation for different
+users is a lot of work, but given time its not insurmountable. The
+problem is after six months or more (say,) or a couple of new releases
+when its time to update the documentation, there are *three* manuals to
+update instead of one. This is pretty much horrible. Not only is it more
+work, but the chances for errors skyrockets, and it's just a mess.
+
+The solution, to my mind, is to figure out ways to only ever have to
+write one set of documentation. While it might make theoretical sense to
+split the material into multiple groups, do everything you can to avoid
+splitting the documentation. Typically, a well indexed text can be used
+by multiple audiences if its easy enough for users to skip to read only
+the material they need.
+
+The second class of solutions revolves around taking a more
+[[atomic\|technical-writing/atrocity]] approach to writing
+documentation. In my own work this manifests in two ways:
+
+-  **Setting yourself up for success:** understanding how software is
+going to be updated, or how use is likely to change over time allows
+you to construct documents that are organized in a way that makes
+them easy to update. For example: Separate processes from reference
+material, and split up long processes into logical chunks that you
+can interlink to remove redundancies.
+
+Unfortunately, in many cases, it's necessary to learn enough about a
+project and the different use patterns before you have the background
+needed to predict what the best structure of the documentation ought to
+be.
+
+-  **Separate structure from content:** This is a [[publishing system
+requirement\|rhizome/publishing-system-requirements]], at the core,
+but using this kind of functionality must be part of the writer's
+approach. Writers need to build documentation so that the
+organization (order, hierarchy, etc.) is not implicit in the text,
+but can be rearranged and reformed as needed. This means writing
+documentation "atoms" in a structurally generic way. Typically this
+also leads to better content. As a matter of implementation,
+documentation resource would require a layer of "meta files" that
+would provide organization that would be added at build time.
+
+In effect this approach follows what most systems are doing anyway, but
+in practice we need another processing layer.
+`Sphinx <http://sphinx.pocoo.org/>`__ is pretty close in many ways but
+most document formats and build systems don't really have support for
+this kind of project organization (or they require enough XML tinkering
+to render them unfeasible.) Once everything's in place and once all of
+the atoms exist, producing documents for a different audience is just a
+matter of compiling a new organization layer and defining an additional
+output target.
+
+This also produces problems for organization. If content is segregated
+into hundreds of files for a standard-book-length manual (rather than
+dozens, say) keeping the files organized is a challenge. If nothing
+else, build tools will need to do a lot more error checking and
+hopefully documentation writers will develop standard file organizations
+and practices that will keep things under control.
+
+[[Thoughts\|discourse]]? Onward and Upward!
+

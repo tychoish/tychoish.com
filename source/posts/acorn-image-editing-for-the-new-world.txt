@@ -1,0 +1,43 @@
+======================================
+Acorn: Image Editing for the New World
+======================================
+
+.. post:: 2007-09-10
+   :author: tychoish
+
+`Flying Meat Software <http://flyingmeat.com/>`__ has released a new
+program called `Acorn <http://www.flyingmeat.com/acorn/>`__ that is a
+great little image editor program.
+
+.. raw:: html
+
+<div style="text-align:center;">
+
+.. raw:: html
+
+</div>
+
+It's still 1.0, so it's not *perfect*, but it's damn nice. I played
+around for like 10 seconds, and decided that it basically did everything
+that I ever did with photoshop, ever. Everything. And it's easier to
+use. How cool is that.
+
+This provoked me to say a few things in a chat with `a
+friend <http://www.soliloqueer.com/>`__ that I thought would be good to
+log here:
+
+-  The one thing that big conventional image editing and design suits
+have that I don't think is replicated well in this space is proper
+layout tools. Still have to go to adobe or quark for layout.
+-  The photoshop interface is really out dated an inefficient, and
+almost works better on windows, because the "window as container
+metaphor" is helpful in unifying everything.
+-  Photoshop is bloated as hell, because adobe seems more concerned with
+maintaining backwards compatibility than actually moving forward in
+terms of features or actual performance. I think Microsoft did the
+right thing by releasing a document converter, when they changed
+their formats, and I think this is probably the best way to deal the
+compatibility issues (well other than using really good open formats,
+but realistically even good open formats change).
+
+

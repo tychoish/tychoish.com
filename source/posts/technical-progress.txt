@@ -1,0 +1,78 @@
+==================
+Technical Progress
+==================
+
+.. post:: 2008-12-08
+   :author: tychoish
+
+We tend to tell (and think of) our histories as progress narratives.
+That is "things sucked, we changed them and now they're getting better."
+Taken to the next level, progress narratives force us to think about the
+future in terms of "how much better things are going to be," as a
+required part of the progress narrative itself. On the one hand, there
+have been a number of rather dark moments in our past; on the other, in
+a lot of ways the present is really as much of an *elaboration* on the
+past as it is a progression. Because the present isn't particularly
+rosy.
+
+This is, you might think, an odd perspective for a science fiction
+writer. SF is supposed to be forward looking, and optomistic, right?
+Well, maybe that's the "critical" part in "critical futures."
+
+With that in mind, I'm very wary and hesitant to accept progress
+narratives as being particularly indicative of an actual developmental
+process. But they're all around us, history, political development,
+medical advancement, and particularly technology are all formed as
+progress narratives. While there's nothing *wrong* per se with this
+approach, it constrains imagination about the future and the past.
+That's not a good thing.
+
+Since information technology/computers are a relatively recent
+development in history, and are in such a rapid state of development,
+it's particularly hard to avoid the technological progress narrative.
+And it's true, from one perspective that technology is getting faster
+and more powerful with every passing year. On the other, with OS X and
+Ubuntu gaining at least a little bit of the operating system market (let
+alone the linuxen in mobile devices and netbooks), it looks like we're
+headed towards a greater adoption of Unix-like systems. Which despite an
+ongoing evolution, are remarkably similar to the kinds of systems that
+were the height of new technology 40 years ago. And indeed a great deal
+of the ongoing evolution in Unix-like systems is in response to new
+kinds of hardware (wireless, cameras, etc.) rather than anything
+paradigmatic.
+
+Another issue in technology is the possible confusion of development
+with progress. It's very true that processors are getting faster, hard
+drives are getting bigger, and everything is getting cheaper. But is
+this progress?
+
+While faster processors are better, when I bought my desktop computer
+about a month ago I opted to save a hundred dollars by going with a
+slightly slower processor. I haven't noticed, and while I'm not doing
+anything that might require extra performance (video editing, or even
+sound editing, say) most people aren't either. Same story with storage:
+the only real way to fill up a 500 GB or 1 TB drive is to take a *lot*
+of high-res pictures or collect video (which is hard to do legally).
+Even Vista--noted by some for its bloat--only takes up 15 or so gigs.
+The biggest technological issue for storage is power-consumption and
+redundancy, which aren't exactly the makings for a good progress
+narrative.
+
+`Netbooks also represent the failure of the technological progress
+narrative <http://tychoish.com/rhizome/netbooks/>`__ as they aren't so
+much bigger/better/faster as they are a recomercialized version of the
+very best of laptop technology circa 1998. This isn't to say that the
+march of technology hasn't made netbooks possible, because that's a
+terribly flawed perspective. Rather, the fact that many people have
+realized that a good deal of their computing tasks need not be
+accomplished by the bigger/better/faster hardware. In my case, editing
+text files is never going to get *more* difficult, or take *more*
+resources.
+
+My past, and even pretty recent attempts at thinking about technology,
+focused on "what's next," but I think right now that's largely
+irrelevant. What's happening now is by far much more interesting, don't
+you think?
+
+Onward and (ironically) Upward!
+

@@ -1,0 +1,49 @@
+==================================
+Of Subversion (for Personal Files)
+==================================
+
+.. post:: 2007-09-12
+   :author: tychoish
+
+After a backup scare a few months back, I've gotten much more vigilant
+about backing up files. Since I work in plain text files, using a
+version control program like what programers use seemed like a logical
+step.
+
+.. raw:: html
+
+<div style="text-align:center;">
+
+.. raw:: html
+
+</div>
+
+Got my on disk subversion repository to work correctly. This isn't a
+huge improvement, of course, because everything's dependent on my disk,
+but it does mean that I have a version control system for my personal
+and important files, in a way that I'm happy with, and at least
+theoretically I should be able to move this set up to my webserver, when
+I get that underway. I would like to say that it's exactly the way I
+want it, and there are only 10 revisions. Pretty nice. While a lot of
+subversion things clicked in the last few days, I am far from a
+subversion master. Things I have yet to master:
+
+1. Rolling back to old versions
+2. Taking the contents of one repository and putting it in another, for
+good backups and moving things about
+3. Getting some sort of good way to interact with it outside of the
+command line.
+4. Pass-wording and protecting a repository.
+
+While I'm good and getting better with the command line stuff for my own
+uses, I have a project in the works that looks like it's going to be
+built around collaborations to a subversion repository. I'm thinking of
+using `Instiki <http://www.instiki.org/>`__, because I've seen a version
+of that that is built around subversion and markdown/maruku, which is
+what I'd be working in anyway. If that could work, I'd be happy. We'll
+see.
+
+Anyway, this is cool software, and I'm quite pleased with it.
+
+Cheers, tycho
+

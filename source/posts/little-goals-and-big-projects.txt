@@ -1,0 +1,80 @@
+=============================
+Little Goals and Big Projects
+=============================
+
+.. post:: 2011-06-03
+   :author: tychoish
+   :tags: lists
+
+Given all of the [[recent changes\|changes-and-resetting]] in my life, I
+found myself building and rebuilding a list of things that I'd like to
+"in the future," sometime. The list is more than a set of mid-year "New
+Years Resolutions," and it's not quite as impressive as a "5 Year Plan."
+As a blogger with firmly ingrained habits, I feel compelled to share
+this list with you:
+
+1. Properly resume my knitting and spinning habit.
+
+2. Read more veraciously. A book a month, plus the Asimov's subscription
+with which I've done a bad job of keeping current. And that's
+probably just a starting point. I have a backlog of things I want to
+read, there's new stuff that I want to read coming out all the time,
+and I'm not going to get that done without attending to it.
+
+3. I'd like to refresh/redo the `cyborg
+institute <http://cyborginstitute.com>`__ site to reflect the reality
+of what I want to accomplish there, what I'm actually doing, and make
+it be updatable in a meaningful sort of way. I also want to get a
+number of project that I've been sitting on for a while together and
+published there. Those are:
+
+-  The `ikiwiki <http://ikiwiki.info>`__ templates and configuration for
+tychoish.com.
+
+-  A general purpose emacs "starter configuration," based on my
+configuration. It would be fairly simple to generate, but I want to
+write a build script so that I can keep it updated as I tweak my own
+configuration. I would also need to write some documentation.
+
+-  Similarly, I would like to produce a basic configuration for
+`StumpWM <http://www.nongnu.org/stumpwm/>`__ that would make it
+easier to use Stump.
+
+-  A couple of other specifications along the lines of the
+`Sygn <http://wiki.cyborginstitute.com/sygn/>`__.
+
+4.  I would like to start dancing regularly with a Morris Dance team.
+
+5.  I would like to reestablish a thrice-weekly non-dance exercise
+regime that includes some weight training.
+
+6.  I want to apply to go to Clarion. But not before 2013, and
+preferably before 2016.
+
+7.  I'd like to try learning to play melodeon for Morris, and maybe
+other tune good playing times.
+
+8.  I'd like to go to Camp FaSoLa in 2012 or 2013. I'm also a little
+interested in maybe learning how to key sacred harp. Maybe I've been
+singing too much tenor recently and found myself as one of the
+not-new basses more than a few times that I'm getting a bit more
+confident.
+
+9.  I'd like to finish this damn novel sometime soon, revise the first
+bit into a passable short story, and begin shopping the story
+around.
+
+10. I'd like to try writing short stories for a little while. But I also
+want to revise Knowing Mars, finish Station Keeping in some form,
+and potentially figure out a way to make the other open/lingering
+story on my plate become Knowing Mars, Part 2.
+
+11. Write more regularly here. I think about a lot of things that I
+think are interesting, and writing ideas and asking questions is
+really the only way to make progress on scholarly, intellectual,
+and/or creative projects. I'm aware of a lot of potential in this
+work on tychoish.com, and I'd like to be able to make significant
+progress.
+
+
+

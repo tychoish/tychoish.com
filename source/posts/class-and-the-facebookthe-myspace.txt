@@ -1,0 +1,77 @@
+==================================
+Class and the Facebook/the MySpace
+==================================
+
+.. post:: 2007-06-28
+   :author: tychoish
+
+`danah boyd <http://www.danah.org/>`__ wrote an
+`article <http://www.danah.org/papers/essays/ClassDivisions.html>`__
+that's been circulating recently, thanks to one of `Cory Doctorow's
+boingboing.net
+posts <http://www.boingboing.net/2007/06/24/myspace_facebook_mir.html>`__,
+about the way that the difference between myspace and facebook mirror
+class divides in America. It's an interesting piece, and I think that
+it's pretty good. I could quibble if I, like danah, had more time to
+come to the right words, but I think it's more important to just list
+out some thoughts. I apologize for the rough shape of those thoughts.
+
+Like `Cory <http://www.craphound.net>`__ I'm a big admirer of danah
+boyd's work, and while I've been watching and do enjoy her work on
+social networking sites on the the internet, I have to say that I've had
+some mixed personal feelings about On the one hand she's completely
+right: the age divide between My-Space and Face-book is class
+reinforced/based; but at the same time, I think the picture is way more
+complicated, but this is a situation where I'd *love* to play with the
+numbers. Read the
+`article <http://www.danah.org/papers/essays/ClassDivisions.html>`__ for
+yourself and see what you think. Here are my thoughts:
+
+-  I think it's important to acknowledge the way that the marketing
+departments of face-book and my-space and the structure of the sites
+affect the membership. There's something about being *on campus* and
+having a website that reflects and supports that connection that FB
+is built around. I have a *crap ton* of face-book friends (600?) but
+I'd say that the vast vast majority of people who I've at least had a
+conversation with or a class, or *something.* There are exceptions,
+of course. I have far fewer contacts on my-space, and while a certain
+number of them are people I know in real life, I think of MS as being
+for really random people I don't know and FB as being for people I
+know. Mind you I have variations on the same profile, but that's a
+testament to laziness.
+
+Back to my original point, which is that Facebook as a company has
+been able to be successful, interestingly by being exclusive, and
+limiting its membership in various ways. Interestingly the knitting
+social networking site `ravelry.com <http://www.ravelry.com/>`__ is
+doing the same thing, intentionally or not. And I think the
+implications of this practice have a constructive effect on the
+community.
+
+-  I think this officially makes me no longer a participant of "youth
+culture," because my main thought about MS is "g-d it's ugly, and
+poorly organized." I think though, that the lack of structure on
+MySpace makes it easier to to "see" the "subalteran," where FBs
+conformity and universality on college campus' makes it hard to see
+these variations.
+
+On a technical note, as a college facebook member from before the HS
+networks were added, I'm not sure that college students got the
+opportunity to invite/seed HS networks, and I know that I can't
+access my the network for my HS.
+
+-  As I read this, I thought about the way that outside of fiction
+cyberpunk has never really happened, because the punks have never
+gotten in (a large way) to the internet/cyberspace, in the way that a
+cyberpunk movement would expect/need. I'm not sure where this train
+of thought ends, but I think looking at the *subalteran* in virtual
+space, and drawing conclusions about these groups, is a hard project.
+
+-  I'd be interested in seeing what kind of analysis in a similar vein
+could be made of `LiveJournal <http://www.livejournal.com>`__. I've
+always seen LJ as a sort of microcosm of the internet, but I think in
+terms of "places for sub-culture," that's an interesting way to look
+at these issues.
+
+What are your thoughts?
+

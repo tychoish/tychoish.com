@@ -1,0 +1,78 @@
+============================
+venture capital and software
+============================
+
+.. post:: 2009-08-25
+   :author: tychoish
+   :tags: software, economics
+
+I read `this article by Joel Spoolsky about the first dot-com
+bust <http://www.inc.com/magazine/20090701/joel-spolsky-the-day-my-industry-died.html?partner=fogcreek>`__
+and it help crystallized a series of thoughts about the role of venture
+capital in the development of technology and software, particularly of
+Internet technologies. Give it a shot. Also, I think `Cory Doctorow's
+"Other People's
+Money," <http://www.forbes.com/2007/10/13/cory-doctorow-fiction-tech-future07-cx_cd_1015money.html>`__
+is a helpful contributor to this train of thought.
+
+The question I find myself asking myself is: to what extent is the
+current development of technology--particularly networked
+technology--shaped by the demands of the venture capital market? And of
+course, what kind of alternative business models exist for new
+technologies?
+
+I guess I should back up and list the problems *I* have with the VC
+model. And by VC model I mean private investment firms that invest large
+sums of money in "start up" companies. Those issues are:
+
+-  Breaking even, even in--say--five years, is exceptionally difficult
+from a numbers perspective, let alone turning a profit of any note.
+This is largely because VC funding provides huge sums of money (it is
+after all really hard to give away 20 billion a year in 60-120k a
+year tops.) and so seed sums are larger than they need to be, and
+this has a cascade effect on the way the business and technology
+develops, particularly in unsustainable ways.
+
+-  VC-funded start-ups favor proprietary software/technologies, because
+the payoff is bigger up front, which is often the case. It's hard to
+make the argument that you need seed money for a larger, more slow
+moving product... Small and quick seem to work better.
+
+-  The VC-cycle of boom and bust (which is sort of part and parcel with
+plain-old-capitalism) means that technology development booms and
+busts: so that a lot of projects tank when the market crashes, and
+that the projects that get funded during the booms are (probably
+mostly) not selected for their technological merit.
+
+-  VC firms tend to be very responsive to fads and similar trends in the
+market. (e.g. dot-com bubble, web 2.0, Linux in the mid nineties,
+biotech stuff, etc.) which means that VC firms generate a great deal
+of artificial competition in these markets, which disperses efforts
+needlessly, without (as near as I can tell) improving the quality of
+software developed (eg. in the microblogging space, for example, the
+"first one out of the gate," twitter, "won" without apparent regard
+for quality or feature set.)
+
+Venture capital funding provides outfits and enterprising individuals
+with the resources for "capital outlay" and initial
+research-and-development costs, and in doing so fills an economic niche
+that is otherwise non-existent, and this is a good thing indeed. At the
+same time I can't help but wonder if the goals an interests of venture
+capitalists aren't--in some ways--directly at odds with the technology
+that they aim to develop.
+
+I also continue to question the ongoing role of this kind of "funding
+structure" (for lack of a better term). I think it's pretty clear that
+the effect of continuing technological development is the fact that the
+required "capital outlay" of any given start up is falling like a rock
+as advanced technology is available at commodity-prices (eg. VPSs,
+Lulu.com), as open source software tightens development cycles (eg. Ruby
+on Rails, JQuery). Both of these trends, in combination with the
+long-standing problems with VC funding, means that I think it's high
+time we ask some fairly serious questions about the development of this
+technology. I'll end with the question at the forefront of my thinking
+on the subject:
+
+Where does (and can) innovation and development happen outside of the
+context of venture-capital funded start ups in the technology world?
+

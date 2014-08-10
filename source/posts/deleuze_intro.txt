@@ -1,0 +1,116 @@
+============================================
+Deleuzian or Deleuzean? A New TealArt Series
+============================================
+
+.. post:: 2007-05-25
+   :author: tychoish
+
+I've been talking for a while about a new series on TealArt because I
+think that I've basically warn out the hypertext topic. Like the
+productivity/rethinking gtd series that I wrote during the first part of
+the semester, I'm not foreclosing the possibility of occasional essays
+on hypertext when something important comes up or strikes my fancy, but
+on a week to week kind of basis, I think any more would sort of defeat
+the purpose. Additionally, I think in a lot of ways, I'd rather work on
+actually writing some sort of digital text (ie. *Station Keeping*) than
+blather endlessly when I'm not sure that there are good answers to the
+questions that I raise. Someday there will be answers [1]_, but that day
+isn't today. So I'll move on.
+
+One of the guys at `pro.jectioni.st <http://project.ioni.st/>`__ quoted
+the following twitter message the other day:
+
+i've not met anyone whose favorite philosopher is deleuze who is not
+also an ass-hat."
+
+While I protest the implication I certainly can understand the type. I
+hope, in this series, to explore at least for starters, Deleuze and
+Guatteri's *Anti-Oedipus* the first volume of their capitalism and
+schizophrenia series. I would suggest to the twitterer, that, the
+asshats are the ones that think that *A Thousand Plateau's*\  [2]_ is
+their favorite book of philosophy are the real asshats. It's cool stuff,
+from what I've read, not perfect, clearly, but then again folks keep
+reading Decartes, and Hegel, and no one seems to mind very much.
+
+My other edict for the new revived TealArt is that it must be fun, and
+though certainly my style and amount of effort that I put into my
+academic research and writing is quite different from what you see on
+TealArt, they're similar sorts of tasks. I don't mind this, but I think
+it's also good to have some balance in ones life. This series is sort of
+a departure, but let me rationalize for you a bit:
+
+I'm a social science guy--developmental psychology with leanings
+toward cultural and linguistic flavors of anthropology--and while
+many of my friends are humanities issues, and I feel fairly
+connected and intrenched in humanities issues and debates, the way I
+theorize and approach the work I do is really quite different from
+the way that they do, and my tendency is to think about theoretical
+issues and tradition far more than my current discipline. This is
+alright, but as I get more involved in my own field and less in
+history and literature, I think that I would still like to play
+around with cultural theory a bit. Yeah it's heady, yeah it's
+probably useless, but there's possibility there. I figure anything I
+can do to start looking at things a new way is probably helpful. And
+reading theory and writing about it on TealArt, is about as far as I
+can get from reading the literature that I will also be doing this
+summer to prepare for *the future*.
+
+My interest and background in this is complicated: last fall, I did a
+reading project where I read some of *AO*, and I took a historiography
+class this semester (for fun, mostly) that also engaged theory, so I
+have a bit of background, but not much. So in a lot of ways I'm an
+outsider to a lot of these debates, which I think can be a good thing.
+One thing you'll note is that I call all this "*theory*\ ", rather than
+philosophy, because I'm less interested in figuring out the logical
+conclusions, questions, and problems with particular ideas and more
+interested in the implications and applications of ideas and theories.
+So that's going to be my focus and attempt; and yeah, maybe that will
+piss of philosophers.
+
+It seems that these series at TealArt are inspired by my reading of a
+new segment of the blog world [3]_ and interest in contributing to the
+discussions at these blogs. This series is no different, in fact I was
+reading `Larval Subjects <http://larvalsubjects.wordpress.com/>`__,
+where they have been posting Spinoza quotes and commentary as part of a
+series for that blog. I thought the format was cool, and so I thought
+that I would borrow it, in my own TealArt sort of way. In the direction
+of locating this series in context of other blogs I'd like to provide an
+esoteric list of links to the theory/philosphy blogs that are in my news
+reader and that I've been reading, at least cursorily for the past few
+months:
+
+-  `Larval Subjects <http://larvalsubjects.wordpress.com/>`__
+-  `RoughTheory <http://www.roughtheory.org>`__
+-  `Foucault is Dead <http://foucaultisdead.wordpress.com/>`__
+-  `Differences and Repetitions <http://striphas.blogspot.com/>`__
+-  `Read Thread(s) <http://redthreads.blogspot.com/>`__
+-  `The Diff√©rance Engine <http://thedifferanceengine.typepad.com/>`__
+-  `schizzes and flows <http://schizzesandflows.typepad.com/>`__
+
+Enjoy, and I'll be back in a week with something more substantive!
+
+'till then, tycho
+
+.. [1]
+It seems to me that the iPod has done a lot to revolutionize the way
+that people interact with digital (and by effect, non-digital) music,
+and I think that we need some sort of parallel development in digital
+text presentation that will make it easier for us to read and
+interact with digital text. Maybe it will be solid state laptops, or
+better tablet PCs, or better pocket computers, or even better
+screens, but whatever it is, it ain't here yet.
+
+.. [2]
+I think the stereotype of asshattery in Deleuze's followers is due to
+the fact that *A Thousand Plateaus* is really an experimental text
+and is supposed to be literary in some sense (except of course it's
+written by philosophers and rogue/ratical psychoanalysts, so there is
+a limit to the scope of their literary brilliance). So it's *theory*,
+and it's not all at the same time, and I think--particularly in
+today's world--if that's you're only interaction with philosophy,
+it's kind of asshaty.
+
+.. [3]
+I'll be damned if you ever get me to use the term "blogosphere"
+honestly without irony.
+

@@ -1,0 +1,141 @@
+=============================
+Deleuzeian: Desiring Machines
+=============================
+
+.. post:: 2007-06-08
+   :author: tychoish
+
+*This is the second installment in my ongoing series on* Anti-Oedipus
+*by Giles Delueze and Felix Guattari. For more information read the*
+`Introduction <http://tychoish.com/>`__ \_and my\_\_ `first
+installment <http://tychoish.com/>`__ *regarding a part Foucault's
+preface to the book.*
+
+I didn't want to spend too much time going over "old territory" (for me)
+in *Anti Oedipus*, but I think a little bit more of background would be
+helpful as we produce. I've tried to pull out the parts of the first
+chapter that really stuck with me, now, almost a year after I read them
+for the first time. This post introduces Deleuze and Guatteri's ideas
+about *desiring production*, *recording machines*, and *breakages*.
+These, at least to me, are the fundamental ideas from chapter one [1]_,
+and some of the most useful ideas that I carried with me as I went on to
+read further in the book.
+
+First off, desire and production. This stuff is the foundation of their
+Marx/Freud synthesis, and I think rather than unproblematically append
+parts of Freud to Marx (or vice versa), they treat psychoanalysis with
+the kind of skepticism that it deserves, and are able to establish a
+very workable "common language." Here's what they say:
+
+Hence everything is production: production of productions, of
+actions and of passions; productions of recording processes, of
+distributions and of coordinates that serve as points of reference;
+productions of consumptions of sensual pleasures, of anxieties and
+of pain (pg. 4).
+
+Thinking of everything as production, including anxieties and other
+"subject" experience, creates a sort of common language to talk about
+subjectivity, without needing to draw on subject formation vis a vis the
+mirror stage, unconsciousness, and so forth. Identities are produced,
+memories are produced, bodies are produced, just as this computer, this
+website, and the corn flakes you had for breakfast were produced. The
+computer, corn-flakes and website, are clearly productions, but more
+often than not we ignore the processes of production of memories,
+identities, and bodies. This gives us reason to look at the very
+smallest of effects and mechanisms and think about how their production,
+rather than to be simply satisfiied with the "truth" of their
+experience. Cool.
+
+As a psychology type, the stuff about recording, is quite interesting. I
+was processing this chapter for the first time right as I was writing a
+paper on episodic memory (specifically autobiographical memory), so I
+was thinking a lot about this. Immediately following the above quote
+they say:
+
+Everything is production, since the recording processes are
+immediately consumed, immediately consummated and these consumptions
+directly reproduced. This is the first meaning of process as we use
+the terms: incorporating recording and consumption within production
+itself, thus making them productions of one and the same process
+(pg. 4).
+
+Recording processes--communication, writing, memories, and
+histories--are produced just like the corn-flakes, just like our
+identities, and can and should be explored on this level. For the
+record, I feel like this is an old argument that has permeated pretty
+well, I suspect many feel pretty comfortable with this kind of idea.
+This, though, lays the groundwork for another statement a few pages
+later:
+
+Production is not recorded in the same way it is produced, however.
+Or rather, it is not reproduced within the apparent objective
+movement in the same way in which it is produced within the process
+of constitution (pg. 12).
+
+We see variations on this in "Reader Response Theory" and also
+Biographical/Contextual readings of literature, that look at the
+contextual forces that affect the production and the consumption of a
+text. We could, of course, replace "text" with "memory without any real
+conceptual problem, in fact it seems more like Deleuze and Guatteri mean
+*memory* in their writing, when all the literary theorists are talking
+about texts, *because that's what they do*. Again, this, I think makes
+it possible to analize and address both the process and the content of
+memory, of *recording* on two very important levels: of its production
+on the micro level, and of its content on the macro level.
+
+Ok, moving on to the final part of this already too long post on
+"breakages". At some point, Deleuze and Guatteri begin to describe
+production as the combination of desire, and a machine like process, I
+think I've gotten into that. I think somewhere I probably scribbled in
+my notes "everything is production > desire > machines." But here is a
+quote that I think descirbes how the machines [2]_ "work:"
+
+Desiring-machines work only when they break down, and by continually
+breaking down. [...] (pg 8).
+
+I take this as an epistemological point, more than anything, but I like
+how as a guiding principal this pushes us to not look toward normative
+data, but toward the abnormal cases, the exceptions. These "breakages"
+are interesting not only as special events, but also insofar as they
+help us describe the normative functions of the system. This is why
+Deleuze and Guatteri are so interested in the conceptual space of the
+schizophrenic, for instance. But I think the directive to look at
+breakages is a useful one [3]_.
+
+And finally I'd like to leave you with the following quote which I found
+helpful and inspiring. The one thing that I have to say about this book
+is that it is--as these things go--incredibly enjoyable. It's light
+hearted, it's inspiring, and it's filled with a sense of hope. And if
+nothing else that's worth something...
+
+The productive synthesis, the production of production is inherently
+connective in nature: "and..." "and then..."This is because there is
+always a flow-producing machine, and another machine connected to it
+that interrupts or draws off part of this flow [...] (pg. 5).
+
+I'll see you all next week. I'd love to hear what you have to say. Don't
+be shy, I haven't a real clue about most of this stuff either, and I'd
+love to talk. So comment!
+
+cheers, tycho
+
+.. [1]
+Admittedly, the real idea from this part of the book that carries on
+throughout this and *A Thousand Plateaus* is the "Body without
+Organs," or in many notations BwO. This is something that seems so
+simple in their explanations but that I find incredibly hard to
+explain and explore, and quite frankly, hard to apply to other
+situations, thoghts and projects. Maybe some other week.
+
+.. [2]
+The translators use the word "machine," throughout the book, and
+while I think this word makes a lot of sense in context of the book,
+in my own mind I've taken the word "machine" to refer to something
+more like a "mechanism" or a "widget".
+
+.. [3]
+Clearly there is a space where anecdotal evidence isn't always a
+productive part of discourse, but I think this reiterates the value
+of case studies and qualatative methodologies. *Balance in all
+things, after all.*
+

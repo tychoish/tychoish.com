@@ -1,0 +1,76 @@
+====================================
+Structure, Documentation, and Poetry
+====================================
+
+.. post:: 2014-02-17
+   :author: tychoish
+
+At work I've introduced a new method for storing the content for
+procedural documents (i.e. tutorials/how-to guides/etc,) that is more
+structured. Rather than just writing a tutorial in a conventional way,
+we capture the steps in a specific structure that we use to generate the
+content in a specific way. The structure lets us do cool things with the
+presentation that would be hard to do well otherwise *and* help us focus
+theses kinds of documents on the core procedural or sequence-based
+nature of these documents.
+
+--------------
+
+Doing documentation well is really hard, but probably not for the
+reasons you think: Writing clear text about complex ideas isn't easy,
+but it is straight forward. Figuring out *what* needs to be documented
+is harder, but it boils down to a business problem and if you talk to
+the right people it's not a significant challenge. Ensuring that the
+documentation remains correct over time as the product develops,
+particularly with regards to duplicated content: *really hard*. Managing
+complexity of large texts that are always growing and changing,
+particularly with regards to correctness and content duplication:
+*really fucking hard.*
+
+The problem is that the solutions to the hard problems are at odds with
+each other: you help address the complexity problems by decoupling the
+organization of the source material from the presentation, which never
+works well enough. You solve the duplication problem using a "single
+sourcing strategy" where you store common bits of information in one
+place and then inject that text as needed, which increases complexity.
+
+There is no winning.
+
+--------------
+
+The new structured approach to procedures may not be *winning*, exactly,
+but it works pretty well. Essentially we put a huge core of our content
+into a YAML document and then render it out, but we get some nice
+benefits:
+
+-  For each step in a sequence we can inherit from *any* other step in
+the project and override any component of that step. This facilitates
+reuse, and forces us to think about potential reuse throughout the
+process.
+
+-  The compiler and parsers tell us when we get something wrong.
+
+-  The output is very regular, so we can be confident that all of the
+tutorials look the same and have the same structure.
+
+-  Minimal loss of editing clarity: YAML is great to edit, the structure
+is like a JSON document, but commentsare allowed and the syntax does
+smart things with newlines and requires less escaping.
+
+Basically, at its core, we're restricting the available structural
+possibles for some documents and using (simple) software to enforce
+those requirements. The results are quite good, but in some ways it
+makes the *writing* part a bit more difficult. There's less room for
+imprecision, and there are some weak rhetorical formulations that become
+more important to avoid. For example: complex conditional structures
+don't always work well and positional references (i.e. "as above") are
+almost always unhelpful.
+
+In some ways the effect is kind of like writing in a specific poetic
+form. Less metric, but the same kind of toying with squeezing an idea
+into a very specific form. The coolest side effect is that given the
+constraints that the new system imposes, the quality of *everyone's*
+output has improved.
+
+I can live with that!
+

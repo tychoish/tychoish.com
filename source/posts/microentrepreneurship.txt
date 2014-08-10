@@ -1,0 +1,76 @@
+=======================================================
+Micro-Entrepreneurship, Good Enough, and Crowd Sourcing
+=======================================================
+
+.. post:: 2011-08-09
+   :author: tychoish
+   :tags: economics, free-software, career
+
+I read `this post <http://blog.liw.fi/posts/living-off-freedom/>`__ by
+one of the partners in one of the coolest `web
+services <http://branchable.com>`__ around, you should open that in a
+new window and then come back.
+
+Back? Great!
+
+Lars, proposes crowd-funding as a way to support free software
+development. Basically, run a "sponsor me to develop stuff" program, but
+rather than fund free software as a start-up around a single project or
+work for a big vendor.
+
+It's a nifty idea, and it's got me thinking about
+micro-entrepreneurship. This would be where you *make* or *do* things,
+but not on a big scale. The businesses you create are small, and
+probably aren't completely full-time equivalent, but in aggregate *it's
+good enough*. While this is not the most prominent form of
+entrepreneurship on the internet, my sense is that it's way bigger than
+most people think.
+
+We're too used to seeing multi-million dollar venture capital fund
+raising, IPOs, big acquisition deals, to realize the multitude of people
+who are making a few to several tens of thousands of dollars doing much
+smaller amounts of work.
+
+I suppose I could write a whole post on [[good enough
+economics\|good-enough-economics]] in the vein of `this post on
+patronage from
+JamesGovernor <http://www.redmonk.com/jgovernor/2007/01/04/on-jon-udell-freedom-talent-management-and-the-new-patronage-economy/>`__
+but I'll just leave a place holder link to a wiki page, in case someone
+else wants to fill things in.
+
+Thoughts:
+
+-  Service-businesses don't scale particularly well, any individual work
+can only produce so much work, and it's hard to make individuals any
+more productive. In light of that, large service-based firms are
+unlikely to form.
+
+-  Most people have pretty specialized skills and abilities.
+Self-employment, particularly full time employment makes it difficult
+for people to spend most of their time doing what their best at.
+Specialization and differing skills is also what creates a market for
+service-based endeavors.
+
+-  Lacking health care and other benefits of traditional employment,
+it's hard for people to be more self-employed and less
+conventionally-employed. Given this, doing entrepreneurial projects
+on a smaller scale makes more sense.
+
+-  Some kinds of entrepreneurial activities are attractive because,
+while they may not produce the same level of income as a salaried
+position, they allow more freedom and flexibility. This is the
+conventional justification for self-employment, and also the reason
+that most aligns with the "good enough" policy.
+
+The problem with these kinds of "little businesses," is that it's too
+easy to focus on income earning work (e.g. freelance, and client work,)
+at the expense of doing basic work (e.g. developing core free software,
+doing basic research, writing fiction.) While the crowd sourcing notion
+makes a lot of sense, it requires a lot of faith in the crowd. I'm also
+unsure of how sustainable it is: while individuals can justify small
+amounts of money for such purposes, organizations cannot. Without
+organizational support, revenue is much lower, and it probably puts the
+larger financial burden on the smaller users, relatively speaking.
+
+[[What are your thoughts\|discourse]]?
+

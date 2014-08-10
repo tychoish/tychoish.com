@@ -1,0 +1,75 @@
+============
+Longer Forms
+============
+
+.. post:: 2011-12-23
+   :author: tychoish
+   :tags: technical-writing, blog
+
+A friend asked me a question (several weeks ago by publication) on a
+technical topic and I spent most of the next few days writing a missive
+on database administration strategy. That seemed like a normal response.
+I was delighted to find that: I liked the voice, I enjoyed writing the
+longer document, and there are a dozen or so other related topics that I
+wanted to explore. So, apparently, I'm writing a book. This is exactly
+what I need: more projects. *Not.*
+
+But it's a good thing: I find the writing inspiring and invigorating. I
+have a perspective and collection of knowledge that hasn't been
+collected and presented in a single place. I like long form writing. The
+larger piece might also be a good contribution to my portfolio (such as
+it is.)
+
+I think this kind of writing suits my attention span.
+
+This has left me without a lot of spare time for blogging, and (as I'm
+prone to do every so often,) rethinking the future of my efforts on
+tychoish.com and as a blogger. This is boring for all of you, but I'll
+give some higher level stuff here and we can follow up on the
+[[discourse]] page:
+
+-  Blogging is fun, and even though I've not been posting regularly, I'm
+always writing blog posts. Sometimes I find myself writing posts in
+emails to friends, but I'm never really going to stop writing blog
+posts.
+
+-  The general explosion of blog publishing that we saw a few years ago
+has declined. Audience fragmentation happened, readership got
+entrenched. I feel like I weathered the storm pretty well and I'm
+really happy with the site and readers I have, but I'm also pretty
+confident that blogging isn't going to be the means by which I "level
+up." [1]_
+
+-  eBooks have finally happened. For the last decade most people have
+been saying that ebooks are great for reference material (given
+search-ability,) and for providing an introduction to a text that
+people will eventually buy in a paper edition. That may be true, but
+I think it's changing rapidly, and with kindles and tablets and
+smart-phones, I think eBooks have effectively won, such as it is.
+
+In another ten years, perhaps, we'll just call them books.
+
+-  I'm pretty clear that keeping a blog, and perhaps most of the writing
+I do in my spare time is **for my own enjoyment and betterment** and
+helps to develop a personal portfolio and account of my work. I have
+no (real) interest in using my writing on tychoish.com or any other
+side that I maintain, as a way of supporting myself to any greater or
+lesser extent.
+
+I want to be in the business of writing things and working with
+technology and ideas and people, not the business of publishing. While
+the line is not always clear between "writing projects that you publish
+yourself online," and "new media publisher," I want to stay away from
+the later as much as possible.
+
+So I think this means that most of my "tychoish," writing time will go
+to writing this book project, and to fiction, and once my blog post
+backlog is fully depleted (heh,) most of my postings will either be
+announcements/[[tag/progress-reports]] or a bunch of shorter more
+off-the-cuff notes.
+
+Here's hoping at least.
+
+.. [1]
+I can't really believe that I just used "level up" in this context.
+

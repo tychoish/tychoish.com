@@ -1,0 +1,78 @@
+============================
+Synthesizing Science Fiction
+============================
+
+.. post:: 2007-06-13
+   :author: tychoish
+
+I wrote `last
+week <http://tychoish.com/rhizome/the-synthesis-of-science-fiction/>`__
+about how science fiction was sort of a synthetic element in the way I
+think about my own work and what TealArt means to me. I'm interested in
+cyberculture, I'm interested in cultural theory, I'm interested in story
+telling, and I'm interested in individuals. I'm also a computer geek, so
+sometimes I go off and talk about `command
+lines <http://tychoish.com/rhizome/whining-about-command-lines/>`__, but
+it all makes sense.
+
+Science fiction is interesting because it is both seen as escapist [1]_,
+and is at the same time a very intellectual or thoughtful approach to
+telling stories. Indeed SF stories do tend to be about ideas on some
+level, so it's paradoxical that a good deal of SF isn't considered
+literary, or critiqued for being both too "thinking" and not "thinking
+enough." [2]_
+
+During my time away from SF, I had a problem finding a place for my
+interest in cultural (and literary) theory in the larger field of
+"tycho-ness." How do I responsibly think about my interests with a
+proper cultural level of analysis and also not allowing this to "get in
+the way." Both sides of this conflict have been hard: I haven't exactly
+been in a field that has taking a cultural approach to theorizing, and
+the integration aspect is hard.
+
+It should have been obvious, given my interest in Samuel Delany's work.
+Delany's first reputation was as a science fiction writer, his second as
+an autobiographer, and his third as a critical/cultural theorist. Now
+that I have a modicum of extra time on my hands, I've started reading
+some of his fiction, and I have to say that I'm quite pleased, and it's
+started to make sense.
+
+While I think to define SF as simply one thing or another is probably
+more detrimental than anything, it strikes me that there's an obvious
+connection between "theory" and SF, and this is a connection that I'm
+really interested in continuing to explore.
+
+There are a number of good examples where theorists and science fiction
+writers tend to overlap, Delany is an obvious starting point, but there
+are others: I saw an Intro to Anthropology course that taught an Ursula
+K. LeGuin novel, and this strikes me as completely appropriate (I think
+that said class also used Vonegut, which I think is also an appropriate
+induction into both anthropology and science fiction.) While we're on
+the anthro connection I'd also point out "`The Watching
+People <http://escapepod.org/2007/04/26/ep103-the-watching-people/>`__\ "
+which appeared on EscapePod a few weeks ago. If you're not familiar with
+`escape-pod <http://www.escapepod.org>`__ you should be.
+
+Before, I leave you this time, I wanted to talk a little bit more about
+what I mean when I say "theory." While others may dispute this (and feel
+free), I tend to refer to some sort of non-professional/cononical or
+applied philosophy. Not that I have something against philosophy, I
+think philosophers can do some really interesting work but ultimately
+have different goals and approaches to approaching a text, but their
+issues aren't mine. It is in this sense of reimgaining the world and
+thinking about the implications of various "theories" (in a general
+sense) that SF can really connect to.
+
+Just some thoughts? Do you have any?
+
+.. [1]
+As it is, and I don't want to be a snob and deny that SF can be
+escapist, but I think that there's some value in fiction that can
+"take you away," and that's worth respecting. At the same time, of
+course, I think the very best SF does something more than provide an
+escape *should the reader want it to.*
+
+.. [2]
+This being a blog, I feel like I can make conjectures based on vague
+stereotypes like this, without supporting them. My apologies.
+

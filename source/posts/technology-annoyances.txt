@@ -1,0 +1,50 @@
+=====================
+Technology Annoyances
+=====================
+
+.. post:: 2007-12-10
+   :author: tychoish
+
+I have have a computer question for the crowd.
+
+I'm looking to lay out the design for my next sweater. Traditionally I
+have done these designs using Excel to lay out the grid and place the
+stitch pattern. It's not ideal of course, but I have a copy of Excel and
+that's worth something. Now Zoe is aging, and while I still have a copy
+of excel, I don't really want to clog up the system to use it, and know
+there must be a better way to handle this. Any ideas? I don't need fancy
+stitches like cables or any of that, just dots for contrasting colors.
+Cheap/free is preferable.
+
+Another annoyance: Email. I really like email communication, but the
+software sucks. I like that my email is all IMAP-y right now but
+mail.app kinda sucks (crashes a lot, lots of overhead, syncs slow and
+inconsistently). I want to switch to mutt and some sort of
+mail-downloader combo (hopefully something that uses mbox rather than
+Maildir formats), and there's a good tutorial
+`here <http://linsec.ca/Using_mutt_on_OS_X>`__, but I'm not feeling
+particularly inclined to get to work on zoe, given the fact that I might
+only have her for another several months. On the other hand, I've found
+that these UNIX-y/command line type things are much easier the second
+time. And why suffer longer than necessary. I think moving the mail
+reading over to a command line thing might make my situation a little
+bit more tenable.
+
+While I'm whining about technology I'd like to say that I really wish
+you could move/copy a list of files around in a subversion
+repository/working copy using a wild card ie:
+
+::
+
+$ svm move ./* ./archive/
+
+Which **won't** work. I think in the next version they'll implement
+this, but I don't know. This might be a reason to switch to git, but I
+have to say that the complete lack of GUI tools for git concerns. I'm
+good with a command-line, but if a project is of any size, with any
+number of folders, and very quickly, it's good to have a picture.
+
+Ok, I think this post is *done.*
+
+Onward and Upward!
+

@@ -1,0 +1,68 @@
+=========================================
+Experimental Psychology Software and OS X
+=========================================
+
+.. post:: 2007-10-11
+   :author: tychoish
+
+I've just wasted spent a few hours looking through the open source
+options for software that allows you to run cognitive psychology
+experiments. This is one of those realms where open source/free software
+really shines, I think.
+
+One big reason for this is that most of the available proprietary
+options suck, because its never going to reach mass appeal or
+distribution. There are probably only a few thousand people who *migh*
+**ever** need software like this, so between competition and obsolete
+homegrown solutions that use hypercard or something. On the other hand,
+the faculty member reports that they "wrote their own experimental
+environments in QuickBasic," which is a product of the late 80s, and she
+went to grad school in the late 90s. Maybe she meant visual basic and
+misspoke, in any case, it's frightening. I'm frightened.
+
+I think we should all just sigh at this point.
+
+Ok, so open source is made for this kind of situation. Not only do the
+proprietary options lack a certian grace and flexibility, but there's a
+lot of polish that we don't need and on the whole we're talking about a
+really rather simple program. It also helps that a good percentage of
+"cognitive scientists" are trained a computer scientists, not
+psychologists, alhough the literature doesn't cross over as much as
+you'd think [1]_: despite this project, it's not really my field, so I'm
+not completely "up" on the literature. In any case, computer scientists
+generally have the knowledge to write these kinds of programs, and
+because they work for universities...
+
+Anyway so I found one of these programs called
+`WebExp <http://www.webexp.info/>`__, that uses XML to define the
+experiments, and outputs data in a pure XML file. The only disappointing
+factor is that it runs in java. I'm not a java fan, because installing
+all the frameworks and what not has always seemed less than desirable
+for me. But what? I'm a fearless OS X user. I open up my terminal
+window, and on a lark, I type:
+
+::
+
+$ java -version
+
+This was the response:
+
+::
+
+Java(TM) 2 Runtime Environment, Standard Edition (build 1.5.0_07-164)
+Java HotSpot(TM) Client VM (build 1.5.0_07-87, mixed mode, sharing)
+
+Which is good enough for this program. I love OS X. Now all I have to do
+is unzip, run, and set up the XML file to design the experiment. It will
+even automatically counterbalance or randomly order stimuli! While I
+think the intention of this program is to let people do experiments at
+home, there's nothing to stop you from running them locally on your own
+system. How cool is that?
+
+The best things in life *are* free.
+
+.. [1]
+R. Gibbs' *`Embodiment and Cognitive
+Science <http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521010497>`__*,
+is a delightful exception.
+

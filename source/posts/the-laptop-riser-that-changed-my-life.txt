@@ -1,0 +1,62 @@
+============================
+A Life Changing Laptop Riser
+============================
+
+.. post:: 2012-02-01
+   :author: tychoish
+   :tags: productivity, technology
+
+***tl;Dr>*** I got one of those nifty laptop risers that puts your
+laptop up closer to eye level, and it has pretty much improved all of my
+interactions with computers a thousand fold *and* it's made it possible
+for me to effectively use two screens. This post explores this.
+
+--------------
+
+One of my coworkers had a laptop stand she wasn't using and I asked to
+borrow it for an afternoon, and my neck stopped hurting. I never thought
+my neck hurt before, but apparently it does.
+
+Or did.
+
+But there's more: for years now I've kept an extra monitor around (and
+had one at work) but the truth is that I have never really felt like
+I've been able to get the most out of an external monitor.
+
+Somehow, putting my laptop 4 inches in the air was the little change
+that made everything better. The laptop is generally on the left of the
+external monitor, and I have task lists, notes buffers, the chat window,
+and my status logging window on the laptop, and then three windows on
+the external (emacs buffer, terminal, emacs buffer) on the right. My
+primary focus centers between the monitors, but probably edges slightly
+toward the external, most of the time.
+
+Also, I discovered that I--apparently--have a slight
+processing/attention defect whereby I find it painful and difficult to
+focus on things that are happening on the right side of the screen for
+any amount of time. Which is weird because my right eye has always been
+noticeably stronger. I'll ponder this more later.
+
+My virtual desktops for email and web browsing are a bit less rigid, but
+the same basic idea. Somehow it seems to work. I've done a little bit of
+work recently to get the layouts right, to minimize the impact of the
+window management of most context switching (scripting various
+transitions, saving layouts, etc.) In all things are going great.
+
+--------------
+
+It strikes me that I've not posted here even a little about my setup in
+a while. The truth is that it's not terribly surprising and I've not
+changed very much recently. I'm back to one laptop, and as anxious as
+having one laptop makes me sometimes (I fear the lack of redundancy,)
+not having to keep it synced makes life easier. I've put some time into
+doing a little bit of polish on all of little bits of configuration/code
+that I have that makes my computing world go around, but mostly it's
+pretty good.
+
+It's nice, and I'd write more about it, but I want to get back to
+getting things done around here. Exporting and exploring some of this
+stuff in greater depth is definitely on my list, so hang in there, and
+if there's something you particularly want to see, [[be in
+touch\|discourse]].
+

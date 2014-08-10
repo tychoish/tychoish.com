@@ -1,0 +1,66 @@
+=====================
+Wordpress Limitations
+=====================
+
+.. post:: 2009-03-02
+   :author: tychoish
+   :tags: technology, open-source, publishing, new-media
+
+Wordpress is great software, and I've been a user for many years. Many
+years. It used to be called "b2" and I used it then as well. There are a
+lot of more powerful content management systems, a lot of systems that
+are much more flexible than wordpress these days, and often I get the
+feeling that other platforms attempt to define themselves in contrast to
+wordpress. In the larger sense, this post is an attempt to resist this
+temptation while also exploring the limitations of wordpress.
+
+Wordpress is a pure blogging engine: it provides interfaces for writers
+to publish weblogs (blogs), manage content (to some degree) and generate
+pages based on templates. Before wordpress, blogging was done either by
+hand edited text files, or by systems that complied static HTML from
+some sort of database. [1]_ Wordpress is an improvement because it's
+easy to install, it's reliable, and pages generate dynamically on
+viewing, rather than just when the site owner hits "save" or "rebuild."
+In the end, we discovered that systems where managing "websites" was
+divorced from (even simple) server management had a great democratizing
+effect on content, and that's sort of the core of wordpress.
+
+Because wordpress is designed to be a *blogging* platform, it doesn't
+need to be as flexible as other generalized content management systems.
+Flexibility comes at the cost of complexity, and developers decided that
+in some cases, less was, in fact, more. There are a lot of things that
+you could do with b2 (albeit with some hacking) because the site
+generation/templating system was much less rigid, at the same time, it
+was *much easier* to get sites with broken links, and bad pages,
+particularly as you changed from theme to theme. That's bad, and it
+seems pretty reasonable to me to want to avoid that.
+
+The end result is a program that does almost everything you could want
+it to do **as long as you only want a blog,** if you try and stretch it
+too far it simply won't work. Well it will work, but the advantage of
+using Wordpress to manage a website that isn't a blog (or very similar
+to one) disappears quickly when you have to impose informal limitations
+on how you enter content in the system to generate well formated pages.
+It's a slippery slope, and you'd be surprised how *quickly* a site goes
+from being a standard Wordpress site, to requiring customized themes,
+specialized content entry patterns. And pretty soon, a lot of the things
+that make Wordpress "simple" and "essay," aren't really available to
+your new site. That's the limitation of Wordpress.
+
+Knowing where the line is, is often the largest challenge in Wordpress
+development, and being able to say, "you know, this is the kind of site
+that you really want to be building with Django, or Drupal, or Rails, or
+Expression Engine," Or even saying "you know this is the kind of site
+that we could probably do more effectively using flat files and PHP
+includes. Wordpress is great, and in the cases where it's well suited to
+the task at hand, it's the ideal solution. In other situations? Less so.
+
+Onward and Upward!
+
+.. [1]
+Interestingly, this whole "static site compiling" is making a come
+back, because it turns out that dynamic page generation doesn't scale
+as well as we thought it would five or six years ago. So we have
+static site compilers and complex caching tools. What comes around,
+goes around I guess.
+

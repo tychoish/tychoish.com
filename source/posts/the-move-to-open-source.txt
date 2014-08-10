@@ -1,0 +1,23 @@
+=======================
+The Move to Open Source
+=======================
+
+.. post:: 2007-09-16
+   :author: tychoish
+
+Over the past several months, I've made a directed effort to rethink
+which software packages I use on a daily basis and look for the most
+efficient programs for particular tasks. Efficient both in terms of
+usability, and computer resources one thing I've found is that in many,
+though not all, of these ultimate programs are open source.
+
+At the moment, the only proprietary programs I'm using (other than the
+OS itself,) are: xtorrent, pukka, MarsEdit, TextMate, and NetNewsWire;
+and I have to admit that NetNewsWire might be on it's way out (bad
+livejournal support, and the interface is too big.) Also if xTorrent
+freezes again, I may scream ahhhhh!!!!!
+
+*Anyway,* just everything else is Open Source, and I'm really happy with
+all these programs. I'm not fanatical or total about this move, and I
+think it's good that I'm walking slowly in this direction.
+

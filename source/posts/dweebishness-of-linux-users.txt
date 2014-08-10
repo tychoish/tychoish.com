@@ -1,0 +1,98 @@
+===========================
+dweebishness of linux users
+===========================
+
+.. post:: 2009-06-10
+   :author: tychoish
+   :tags: cyborg, open-source, linux
+
+I ran across this `smear piece with regards to Ubuntu users from the
+perspective of a seasoned Linux
+user <http://ubuntusyndrome.wordpress.com/2009/04/23/linux-users-ar-to-ubuntu-users-what-men-are-to/>`__,
+which I think resonates both with the problem of `treating your users
+like idiots <http://tychoish.com/rhizome/idiot-users/>`__ and
+differently with the kerfuffle over `ubuntu
+one <http://tychoish.com/rhizome/freedom-and-ubuntu-one/>`__, though
+this post is a direct sequel to neither post.
+
+The article in question makes critique (sort of) that a little bit of
+knowledge is a terrible thing, and that by making Linux/Unix open to a
+less technical swath of users, that the quality of the discourse around
+the linux world has taken a nose dive. It's a sort of "grumble grumble
+get off my lawn, kid," sort of argument, and while the elitist approach
+is off-putting (but total par for the course in hacker communities,) I
+think the post does resonate with a couple of very real phenomena:
+
+1. Ubuntu has led the way for Linux to become a viable option for
+advanced beginner and intermediate computer users. Particularly since
+the beginning of 2008 (eg. the 8.04 release). Ubuntu just works, and
+a lot of people who know their way around a keyboard and a mouse are
+and can be comfortable using Linux for most of their computing tasks.
+This necessarily changes the makeup of the typical "Linux User" quite
+a bit, and I think welcoming these people into the fold can be a
+challenge, particularly for the more advanced users who have come to
+expect something very different from the "Linux Community."
+
+2. This is mostly Microsoft's fault, but people who started
+using--likely Windows powered--computers in the nineties (which is a
+huge portion of people out there), being an 'intermediate' means a
+much different kind of understanding that "old school" Linux users
+have.
+
+Using a Windows machine effectively, and knowing how to use one of these
+systems, revolves around knowing what controls are where in the control
+panel, around being able to "guess" where various settings are within
+applications, knowing how to keep track of windows that aren't visible,
+understanding the hierarchy of the file system, and knowing to reboot
+early and often. By contrast, using a Linux Machine effectively revolves
+around understanding the user/group/file permissions system,
+understanding the architecture of the system/desktop stack, knowing your
+way around a command line window, and the package manager, and knowing
+how to edit configuration files if needed.
+
+In short, skills aren't as transferable between operating systems as
+they may have once been.
+
+Ubuntu, for it's flaws (tenuous relationship with the Debian Project,
+peculiar release cycle), seems to know what it takes to make a system
+usable with very little upfront cost: How the installer needs to work,
+how to provide and organize the graphical configuration tools, and how
+to provide a base installation that is familiar and functional to a
+broad swath of potential users.
+
+While this does change the dynamic of the community, it's also *the only
+way* that linux on the desktop is going to grow. The transition between
+*windows power user* and *linux user* is not a direct one. (While
+arguably the transition between OS X and Linux is reasonably straight
+forward.) The new people who come to the linux desktop are by-and-large
+going to be users who are quite different from the folks who have
+historically used Linux.
+
+At the same time, one of the magical things about free software is that
+the very act of using free software educates users about how their
+software works and how their machines work. The cause of this is
+partially intentional, partly by virtue of the fact that much free
+software is designed to be used by the people who wrote the software,
+and partly because of free software's adoptive home of UNIX-liken
+systems. Regardless of the reason however, we can expect that even the
+most "n00bish" of users to eventually become more skilled and
+knowledgeable.
+
+--------------
+
+Having said that, in direct response to the `article in
+question <http://ubuntusyndrome.wordpress.com/2009/04/23/linux-users-ar-to-ubuntu-users-what-men-are-to/>`__,
+even though I'm a huge devote of a "real" text editor, might it be the
+case that the era of the "do everything text editor" may be coming to an
+end? My thought is not that emacs and vi are no longer applicable, but
+the truth is that building specialized domain specific editing
+applications is easy enough that building such editing applications
+inside of vi/emacs doesn't make the same sort of sense that it made a
+twenty or thirty years ago? Sure a class of programmers will probably
+always use emacs, or something like it, but I think the change of emacs
+being supplanted by things-that-aren't editors, say, is something that
+isn't too difficult to imagine.
+
+If the `singularity doesn't come
+first <http://tychoish.com/rhizome/the-dark-singularity/>`__, that is.
+

@@ -1,0 +1,82 @@
+=========================
+Delegated Build Questions
+=========================
+
+.. post:: 2013-03-26
+   :author: tychoish
+
+This post accumulates what I thought would be the common questions about
+the [[/rhizome/delegated-builds]] post/tool. For more background see the
+[[/rhizome/build-woes]] post.
+
+Couldn't you just have a separate build-only repository?
+--------------------------------------------------------
+
+Sure, but you'd still have to manage that repository which would
+probably require a non-trivial amount of code and wouldn't support
+building/testing topic branches. Furthermore unless you linked the build
+directories in some way, which this solution does, you'd end up
+chronically overbuilding.
+
+Doesn't this use lot of disk space?
+-----------------------------------
+
+Sure, some. But I think in most competitions between disk space and
+improved productivity, productivity always wins. That not withstanding:
+
+1. Little known fact: when run ``git clone`` and specify the remote as a
+"local" repository, ``git`` uses hardlinks, if possible, for it's
+objects database. This means, that you're only copying the source
+tree, indeed there are two or three copies of the source tree lying
+around as it is.
+
+2. Most build processes aren't terribly space intensive: the second
+checkout is only 7 megs, our ``.git`` directory is 7.3 megs (packed),
+which translates to a 5.4 meg source directory. By contrast the
+output of a full build of a branch is about 150 megabytes plus
+production staging.
+
+At least in our case, the additional space costs are effectively trivial
+both given the size of contemporary hard drives and scale of other size
+requirements.
+
+Source code may be larger: the MongoDB source tree has a 16 megabyte
+source tree (not counting 50+ megs of in-tree third party libraries)
+that becomes tens of gigabytes with build artifacts. Even so, given a
+project of this scale space costs wouldn't be hard to justify. Having
+said that, most software build problems (that I'm aware of,) don't face
+this kind of contention, so it's pretty irrelevant.
+
+This doesn't make anything faster, so how does it help?
+-------------------------------------------------------
+
+Indeed it probably makes things slower (tests are not yet conclusive,)
+*but* it means that any build process can happen entirely in the
+background and without *possibly* affecting your current work.
+
+Sometimes the best way to optimize an inefficient process is to apply
+intelligence and actually make something slow faster. This is great, but
+it's also quite hard (and time consuming) and often intelligence can
+only increase performance by a few percentage points. As a caveat,
+always make sure that things aren't slow for a dumb and simple reason,
+but if an improvement isn't obvious or there isn't a simple easy to fix
+source of slowness, intelligence is often overrated in this regard.
+
+Other times, perhaps even often, the best way to optimize an inefficient
+process is to *make it not matter that it's slow*. Some things take a
+long time to do, and while it's great to do things synchronously, it's
+not always a real requirement.
+
+This is a smart hack that falls into the second category: if builds are
+going to take 4 to 6 minutes to run, I don't want that to prevent things
+from happening in that time. I don't want to have to think about
+coordinating activities around a given period of *dead* time: this hack
+solves this handily.
+
+Four to 6 minutes isn't that long, but it's starting to get to a point
+where it's too long to maintain focus on a task and wait around for a
+build to finish, particularly for the longer ends.
+
+With this I think we could tolerate ~15 minute builds without really
+causing a problem. Beyond that and we might need to reopen this case.
+

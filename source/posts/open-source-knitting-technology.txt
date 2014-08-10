@@ -1,0 +1,161 @@
+===============================
+Open Source Knitting Technology
+===============================
+
+.. post:: 2007-09-25
+   :author: tychoish
+   :tags: knitting, open-source
+
+When I started this little "series" on open-source knitting, I said that
+it had a lot of connections to other projects and ideas that I've worked
+with with relation to Station Keeping and the hypertext/writing posts,
+and this post--which address technological (ie. file systems)
+organizational concerns and collaborative organization--I think
+dovetails nicely with the more "general interest" aspects of this
+series. Additionally, when I started the series, I set out a number of
+goals that I hoped to address as part of this series. This essay
+addresses the last of these goals, the "Technological methods of
+attending to such a(n open knitting) project." The total list of goals
+is:
+
+-  Is there a layer of information that goes into knitting design
+and documentation that isn't typically exposed in
+"closed"/conventional publications? (that would be equivalent in
+role to source code)?
+
+-  The role of editors and communities and the sometimes very
+"conventional" development models that "open" projects use.
+
+-  The way GPL/GFDL knitting projects can be used commercially.
+
+-  Technological methods of attending to such a project.
+
+One of the biggest challenges that I think faces new collaborative
+projects, is that when you're planning it out you say "we need to end up
+with a project that accomplishes *x, y* and *z*," and you spend all your
+time/energy building toward your end goal, and forget the smaller things
+that have to be in place first. If you're writing a book, and you spend
+all of your initial planning time organizing how the historical forces
+that produce the climax line up, and then you sit down to write and your
+characters aren't really fleshed out, and you end up with a hundred
+pages of exposition that no one wants to read, or the feeling that you
+have to do *even more* planning, despite the fact that you have
+thousands of words of notes written out. Now this works out when it's
+just you writing the book, because you can toss out the hundred pages
+once you know your characters and write a real beginning, but in a
+collaborative project (of any sort I suspect), if your initial work is
+too focused on the work that will happen a year hence, and not focused
+on what will happen *now*, even if people are **wild** about
+contributing to the project, they won't have a clue about *how* to
+participate, and the project will almost certainly flop.
+
+It seems that the initial planning of a project should avoid setting up
+a firm structure for the entire life of a project, but rather strive to
+set up a firm basis and framework that would allow the project to
+develop on its own particularly in the beginning. In the book example
+above, spend time developing where your your are at the beginning of the
+story, know something about where they are, and also know where they're
+going, but let the little details fall into place later. In a software
+situation, make sure that you have a database structure that you can
+live with before you start designing the interface in ernest. In a
+sweater, know your gage, yarn and intended size before you start
+stressing out over how to incorporate the shaping into the measurement.
+There are of course exceptions to these rules, and really great ways to
+break the rules, but when you're working in a group situation, unless
+all your developers are working from the same page, it's really
+difficult to maintain energy and keep things all together.
+
+So lets try and import these ideas into a discussion of what an (but
+clearly, not the only,) open source knitting project would look like:
+
+-  *A single OSK project shouldn't try and collect* everything *about
+knitting,* for starters this pushes us back to an encyclopedia model,
+and I don't think that's what we need. Particularly in knitting,
+there's too much variation and you'd spend as much time deciding on
+"canonical" versions and not enough time enjoying the diversity.
+Furthermore, I think there are probably too many different kinds that
+it could work as a single coherent project.
+
+-  *Avoid talking about techniques too much:* While most knitters mostly
+knit the same way, there's a lot of difference of opinion in terms of
+how to accomplish various kinds of knitting operations. While there
+probably is a need for a collection of these kinds of techniques, and
+I think Elizabeth Zimmerman made a great argument for the idea that
+while knitters are always developing new techniques (and should
+receive credit for this development,) the techniques themselves are
+probably always already in the public domain because given knitting's
+history it is hard to imagine that we are the first to "invent"
+something (hence Elizabeth's use of "unvention.") What's more, with
+resources like `Mary Thomas' Book of
+Knitting <http://www.amazon.com/Mary-Thomass-Knitting-Book-Thomas/dp/0486228177>`__
+techniques, or `Montse Stanley's Knitter's
+Handbook <http://www.amazon.com/Knitters-Handbook-Comprehensive-Principles-Handknitting/dp/0762102489>`__
+and the `Schoolhouse Press
+Glossory <http://www.schoolhousepress.com/videos.htm>`__ that there
+isn't a lot of room for improvement, beyond a collection of
+contributions. In other words, since open source succeeds at
+combining energy and efforts of a lot of people, the projects need to
+be ones where multiple perspectives and abilities would create a
+better *gestalt.* A technique handbook, in contrast might benefit
+from many perspectives, but probably wouldn't benefit from any sort
+of group process.
+
+-  *An OSK project should track version development:* In the software
+world version tracking systems are used to make sure that changes in
+code are tracked as the project progresses, so that changes can
+always be reversed if the "old way" works better than the new way.
+Also this kind of software allows you to create "branches" so that
+you can work on bleeding edge feature/content development (so called
+"nightly builds"), and "release polishing" so that your finished
+projects are clean, clear and functional. In writing terms, this
+means that you can edit/polish the text without impinging upon your
+drafting. Which is incredibly helpful when working in a group
+setting. Versioning systems are also very atomic and keep track of
+differences (diffs), and work to keep track of and organize the most
+recent version of every file, even if more than one person is editing
+it.
+
+-  *An OSK project should create and foster community development:* This
+is perhaps a bit too obvious; however, I think it should also be said
+that community needs to have a space that's separate from the project
+(make it possible for people to talk, outside of the actual project
+files.) Taking wikipedia as an example, while wikipedians can talk on
+the "talk/discussion pages," it's my perception that most of
+wikipedia's community happens on IRC channels. While its not "a part"
+of wikipedia in the conventional way, I'm sure that wikipedia depends
+on those IRC channels to keep the community functioning.
+
+-  *Separate workspace with display space:* I think this point is part
+of my larger objection to using an idealized wiki model for
+development, where the entire website that the "public" (casual user)
+sees is the same as what the "core" (developers) are working on. This
+means that the "product," is always rough and incomplete, and I think
+in an odd way it pushes developers to work on larger rather than
+small parts of the project [1]_. Ideally, I think these sorts of
+projects would work better when you have ten developers contributing
+one part each to ten projects, rather than ten developers
+contributing one whole project, or something along those lines.
+
+I also had an organizational tree that I was going to seek some feedback
+on, but I think that's safe to live in the notebook for a while longer.
+I think it's clear by now, if any of you are still with me, that I'm
+planning on doing *something* with this project, but I think there's
+more to develop, clearly, so while I think I'm mostly done milling over
+and presenting the theory, there's plenty of work left to be done on
+developing and establishing such a project, so if any of you are
+interested in this idea, of an Open Source-Knitting project, I'd really
+like to hear from you.
+
+Cheers, tycho
+
+.. [1]
+What I mean here, is that if I was writing a contribution to a page
+in a wiki that the entire public could see, I think that I would tend
+to write pages as wholes, rather than contribute the smaller parts
+that might actually be more useful. For instance if I was writing
+about sleeves, say, and I was writing in a wiki environment, I'd be
+more inclined to write a lot about every aspect of a sleeve, rather
+than, just contribute something pithy about adjusting a pattern from
+knitting from the shoulder to the cuff, rather than from the cuff to
+the shoulder.
+

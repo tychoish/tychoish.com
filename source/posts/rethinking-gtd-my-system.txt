@@ -1,0 +1,131 @@
+=========================
+Rethinking GTD: My System
+=========================
+
+.. post:: 2007-01-26
+   :author: tychoish
+
+Hey folks!
+
+I'm back with the next installment of my GTD series. I had
+underestimated my schedule (it being a new semester), and the time I had
+blocked off to write the GTD essay, was lost to reading about Filipino
+post/coloinal history. It was great. Doing things, rather than meta-ing
+about doing things, (which is a theme we'll pick up later in the
+series).
+
+I also really loved the comments that people posted in response to the
+last entry. TealArt hasn't been a very comment-y blog for too long. We
+can and should change this, though.
+
+I said last time, that I'd spend this time talking about my situation
+and how I work. This essay, will explain how I work, and why I've chosen
+to work this way.
+
+While I'm a huge computer dork, and most of my work is on the computer,
+I do tend to carry 2 notebooks with me at any given point. The first is
+a little black notebook (these days, it's a Moleskine, but it's
+frequently just a stenopad or something) that I use to make lists, write
+reminders in, plan projects, make short notes, and sometimes even sketch
+outlines for projects. Generally we could call this first, and more
+important notebook the "meta" notebook. The second non-comptuer
+notebook, is a content notebook--at the moment it's a mid-sized sketch
+book--that I use usually for a bigger writing or reading project, and
+sometimes class notes. Generally, this is just a general use 3-subject
+notebook, that contains notes for two separate projects, and then an
+odds-and ends section for class notes, reading notes for articles, and
+more specific project planning. This semester, it's a bit weird, but
+it's working out.
+
+We'll spend more time thinking about what goes on paper and what goes on
+the computer later, but I want to spend a moment contemplating my little
+black book. Particularly, its organization and the kinds of lists I
+make.
+
+GTD recommends organizing tasks by context (location/resources) and by
+project. In addition to the problem that with a few exceptions, I always
+have everything I need to do to just about everything on my list, and
+that my projects are *HUGE,* I find some tension with the assumption
+that s that at the very base-level, all of the things we do are rote
+tasks. What I've heard David Allen refer to as "Widgets". Thus in his
+method, encourages folk to do the organizational thinking up front, so
+that one could theoretically be virtually comatose while the "doing"
+happens.
+
+The truth is that most of my projects aren't just cranking widgets. So
+ignoring the fact that I nearly always have everything that I need to do
+all of my tasks, most of my constraints are both time based, and pretty
+soft. GTD expects that contexts are to have hard distinctions, while I
+don't really have contexts, most of my tasks are time sensitive. So
+here's what I do.
+
+In the meta-notebook, I make a list for every day, the night before,
+that reflects my schedule for the upcoming day, the current status of my
+projects, and any loose ends from the previous day, and any appointments
+I may have. Rather than have a weekly review, that might take an hour,
+like GTD suggests, I do about 10 minutes of review every day, literally
+right before I take my glasses off to go to bed. This has the particular
+benefit of letting me get everything off my chest and out of my head and
+lets me get to sleep without rehearsing a list of things to do.
+
+*So you make a to-do list, that's your system? L-a-m-e!*
+
+I heard that, I think the key part of this list making is where the
+items come from. Some things are of course, generated on the fly
+(remember to get a signature, or print something for class), others
+reflect oddities in my schedule (there's a talk at 4, or a meeting at
+3), some are personal chores (check mail, shower, clean desk), but many,
+or most, reflect progress in ongoing projects and class work and draw on
+other lists in the book. Oh, and by the way, each daily list, is written
+on its own sheet of paper on the right side of the book.
+
+*Right side? Why on Earth*
+
+So I can use the left hand side for something else. Sometimes the left
+hand side is used for input that will contribute to tomorrow's list.
+Sometimes the left side is used for project planning. Sometimes it is
+overflow. Sometimes it's a general location or "inbox," loosely in the
+GTD framework. I've also been known to make little lists of things I
+want to look up on wikipedia or Google. While I think of this as another
+level of project planning, I'm also prone to making "master lists" of
+things that need to get done in a given week, sort of a "this week for
+sam..." preview, to track due dates and what not.
+
+I think most of these uses are pretty self evident, but I'll spend a
+moment on the project planning. Sometimes, I have a project that takes
+more than a day or two to complete, or that seems particularly complex
+or daunting. So I take a right side page, and list all of the component
+parts of this project. As in GTD, the key to a good project, is
+something that is manageable. "Write book" is a lousy project to start
+out, whereas "gather materials to begin research for book" is better.
+Generally my projects are the kinds of things that I think I can finish
+in a couple of weeks. I also keep a record of my schedule using iCal but
+Google Calendar (and so forth) would also work very well, for these
+purposes.
+
+The keys to making this work for me is it's flexibility. I make new
+lists most days, but some lists take two days to get through, and
+sometimes I need to reogranize the list over lunch. This recognizes the
+give and take of analyical/creative energy levels, interest, or
+relevance: sometimes, things that seemed really crucial when I wrote
+them down, end up becoming irrelevant or just don't need to be done. An
+important part of the flexibility is knowing that it's ok if I don't
+check everything off of the list every day--and most days, despite my
+ambitions, I don't get everything checked off.
+
+So before I cut this monster off, the highlights for me are:
+flexibility, regular reviews, rabid centralized list-making, and
+sensible project planning. Your milage will probably vary. But that's
+the point: don't copy, spend a week or two thinking about how and when
+you work, and see how/if you can work something out that allows you to
+prevent things from slipping through the cracks, clear tasks off of your
+sieve mind, and organize your meta data in a way that is always
+accessible and can work with you.
+
+I've mentioned a lot of things briefly here that I'll explore in more
+depth later in the series. Next time, I'll cover some digital issues,
+I'm thinking: keeping the computer experience organized, the
+paper-digital discussion, and mobile/digital concerns.
+
+Cheers, tycho(ish)
+

@@ -1,0 +1,43 @@
+==========================
+The Hard (GNU/Linux) Truth
+==========================
+
+.. post:: 2009-03-23
+   :author: tychoish
+   :tags: linux, open-source, software
+
+**Backstory:** `Chris <http://www.cgkreality.com/>`__ is something of an
+Operating system junkie, and likes to play around with things. I think
+he's weird, but whatever. Also, he bought a netbook several months ago,
+and after much persistence on my part (and some epic failures of Ubuntu
+instalations,) he finally installed `Arch
+Linux <http://www.archlinux.org/>`__, and it worked amazingly well.
+Here's a funny (ok, mildly amusing?) conversation about his latest
+system plan with only minor editing for understandability and comedic
+value:
+
+**Chris:** I was thinking that I'd move some stuff off of my second
+internal hard drive and install the alpha version of Ubuntu to see how
+it works.
+
+**tycho:** How it works? Like crap. It's ubuntu, so it's meant to be
+easy to install and usable, not fresh, robust, and hardened. Besides its
+an *alpha*, if you what stability just install Arch and get it done
+with.
+
+**Chris:** [*silence* and *pause*]
+
+**tycho:** now that we resolved this quandary what's next?
+
+**Chris:** [*sighs* and *laughs*] Nothing, really. [*pause*\ ] I'm
+downloading Arch now, asshole.
+
+**tycho:** [*laughs*\ ] You're welcome.
+
+I don't actually use Arch, because Ubuntu has been simple and I've yet
+to have a problem with it, but I *would* use Arch if I needed it, and I
+(seem) to recommend it to all my friends who are *really* geeky and are
+having problems with debian/ubuntu.
+
+*shrug*
+

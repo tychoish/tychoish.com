@@ -1,0 +1,110 @@
+======================
+Best of tychoish Posts
+======================
+
+.. post:: 2009-01-15
+   :author: tychoish
+
+So I've wanted to put together a "best of" roll call of my posts here in
+the last couple of weeks/months. I write a lot of stuff for
+tychoish.com, tens of thousands of words a year, and while I enjoy the
+practice and what I write often helps me pull together ideas and
+thoughts in a way that I don't really get to do in any other form, most
+of the posts are ephemeral even for me. There are some posts that tend
+to stick with me for a long time afterwords and serve as the beginning
+of much longer trains of thought. This post presents a collection of
+five of these posts for your perusal.
+
+Mutt of IM
+----------
+
+So I'm 22, right. I actually don't talk about my age much on the blog
+but there it is. As a member of my generation, and as someone who
+doesn't much care for talking on the phone, I use instant messaging a
+lot. It's convenient, it's possible to parallelize conversations with
+other projects and with other conversations, and IM allows links and
+other data to be exchanged. The only real problem is that IM software is
+almost universally sub par.
+
+**Update:** I've basically switched to using mcabber, an ncurses console
+jabber client in combination with transports for AIM and MSN. This means
+I'm not on yahoo (alas) but it works, and I rather like it, though it
+took some substantial customization.
+
+**Link:** `The Mutt of
+IM <http://tychoish.com/rhizome/the-mutt-of-im/>`__
+
+SEO Non-Sense
+-------------
+
+I wrote this post after hearing someone talk about search engine
+optimization as a given part of the content creation process. Which
+struck me at the time, as being the wrong way to respond to anyone who
+was interested in "starting blogging," while organic search-engine hits
+are important, certainly, promoting content on the Internet has more to
+do with generating high-quality and innovative content that relies on
+personal connections and word of mouth tools. This was then as is still
+the case, and I think its important to challenge anyone who promotes the
+idea that there are ways to *quickly* hit it big on the internet.
+
+**Link:** `SEO Nonsense <http://tychoish.com/rhizome/seo-nonsense/>`__
+
+Git Mail
+--------
+
+So I have this really geeky way of downloading my email. Basically I
+store all of my email and associated configuration files in a git
+repository, and I have a server that receives email, filters it through
+procmail, and stores it in the git repository. Why is this good? I get
+to cut out the worst part of email technology: the downloading protocols
+(IMAP and POP). Furthermore, I get to use my own encryption (SSH) to
+secure the transfer, and I can synchronize my mailbox between computers
+without bothering with IMAP and the various conflicting implementations
+of that protocol. I'm linking to the third series in this article
+because it includes the code and implementation of the version that I
+currently use. I didn't mention this in that article, but I have also
+started to keep my procmail filters and mutt configuration files in the
+same repository so that all mail-related data and settings are stored
+together.
+
+**Link:** `Git Mail <http://tychoish.com/rhizome/git-mail-3/>`__
+
+Open Source Work
+----------------
+
+This was one of my earlier writings about the open source world, and is
+I think a close conspirator of the next essay on this list. I think
+there's something to be said for taking a materialist approach to
+studying the open source world, and I'm interested in doing more with
+this, though I must admit that I haven't yet. This definitely falls into
+the "posts which represent key moments in my thinking.
+
+**Link:** `Open Source
+Work <http://tychoish.com/rhizome/open-source-work/>`__
+
+There's No Economic There, There.
+---------------------------------
+
+Written during the heart of the first phase of the 2007/2008-20\_\_
+recession, this piece was probably the most "political" I've been on the
+blog in recent *years*, and just outlines the problems with economies
+based on the exchange of credit rather than the exchange of material,
+and it was an important post for me.
+
+**Link:** `Is there any there,
+there? <http://tychoish.com/rhizome/is-there-any-there-there/>`__
+
+The Big Push
+------------
+
+I wrote a "introduction to push and pull technology," a while back that
+started to dig deeper into usage habits and internet technology, as
+being something more than just an exploration of web pages. While
+websites are indeed quite powerful, things like the iPhone and the
+explosion of interest in XMPP in the last year has illustrated to me at
+least, the importance of thinking about the internet as being more than
+just a collection of web pages, and this article is a marker of my
+thoughts on the subject.
+
+**Link:** `The Big Push <http://tychoish.com/rhizome/the-big-push/>`__
+

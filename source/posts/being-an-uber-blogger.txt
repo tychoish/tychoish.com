@@ -1,0 +1,85 @@
+=====================
+Being an Uber Blogger
+=====================
+
+.. post:: 2007-09-08
+   :author: tychoish
+
+*This started out as a comment `over
+here <http://www.thomascrampton.com/2007/09/06/how-to-be-an-uber-blogger-by-cory-doctorow/>`__,
+but I think has evolved into a blog post of it's own, so here's my
+commentary*
+
+.. raw:: html
+
+<object width="425" height="350">
+
+.. raw:: html
+
+<embed src="http://www.youtube.com/v/w4S9wjuJPk8" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+
+I think this is pretty good advice, clearly, and the "hey folks, we're
+taping over here," line was priceless. Well, maybe not priceless, but
+that's the general idea.
+
+I would like the offer commentary, on this advice, however:
+
+I think the "don't make it hard for people to read your work," is good
+universal advice, but it's not so much about blogging as it is, about
+distribution and creation. I remember not so long ago that blogger
+wouldn't publish full RSS feeds (or any feeds, possibly) and I had a
+policy of not reading any blogger feeds for just this reason. So good
+advice there, no surprise.
+
+The "write wire-style" stories is also good advice, but it's
+particularly good advice for blogs that are more like wireservices.
+Like, `boing boing <http://www.boingboing.net/>`__, and
+`slashdot <http://www.slashdot.org>`__. And in a lot of ways I read
+these sites as if they were wire services, in search of tidbits that I
+think would be interesting for my blog, or some-such. So if you were
+writing a blog, like this, it's a great model to use.
+
+This also assumes that the primary route of new traffic to the average
+blog are are people browsing google or
+`technorati <http://www.technocrati.com>`__, and while that's probably
+true of blogs like `boing boing <http://www.boingboing.net/>`__, that's
+far from a universal. For instance, for a great number of weeks a post
+of mine on `TealArt <http://tychoish.com/>`__ called "`Cool
+Nicknames <http://tychoish.com/rhizome/cool-nicknames/>`__\ " was my
+incoming link from google, because people were googling "cool
+nicknames." Now I would love if you thought that people coming in from
+this search were looking for something other than a list of cool
+nicknames, which I wasn't providing then, and am not likely to start any
+time soon. And I know I wasn't following Cory's advice here, but still,
+I'm not sure that this blog (and this is true for many blogs) are
+providing the same kind of information that search engines are best at
+finding, or that most people would think to look for on a search engine.
+
+This means that, even if you write the best headlines and opening
+sentences, you still won't get new readers, because you're writing
+pieces about email organization, or the lessons of your latest science
+fiction project, or thoughts on the collaboration model of open source
+software for other sorts of projects. Even the people who are interested
+in these things, and willing to read about them, probably wouldn't think
+to browse google, looking for blogs. This leads me to an alternate mode
+of "encouraging" blog discovery:
+
+I see blogging as part of an ongoing conversation. Conversations that
+I'm having with myself, conversations that I'm having with you the
+readers about what's going on in my life, conversations that I'm having
+with people who are (theoretically commenting on the blog), and
+conversations--like this one--that I'm having with other bloggers.
+
+People don't stumble into the conversations via search engines, they
+stumble upon them by reading other parts of the conversation. By talking
+to you in real life, by finding you in IRC rooms, or on listservs, by
+reading other blogs that link to you, by reading your comments in other
+peoples blogs, and by reading your comments in their blog.
+
+While you still have to write regular blog entries (which is really
+important, lets not forget that), reading and participating in other
+blogs, and other parts of the internet community is at least as
+important.
+
+At least I think so, we'll see how it works out.
+

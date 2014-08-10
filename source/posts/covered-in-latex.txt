@@ -1,0 +1,73 @@
+================
+Covered In LaTeX
+================
+
+.. post:: 2010-08-31
+   :author: tychoish
+   :tags: cyborg, productivity, latex
+
+Although I haven't used LaTeX much in the past few years, it was one of
+the primary tools that hastened my shift to using GNU/Linux full time.
+Why? I'd grown sick of fighting with document preparation and publishing
+systems (e.g. Microsoft Word/Open Office), and had started using LaTeX
+on my Mac to produce all of my papers and documents that needed to be
+output to paper-formats. Why switch? Because after a certain point of
+having every tool you use be Free software (because it's better!), it
+becomes easier and more cost effective to just jump the gun and by
+commodity hardware and use a system that's designed to support this kind
+of software (managing a large selection lots of free software packages
+on OS X can become cumbersome).
+
+So why LaTeX? What's the big deal? Why do I care now? Well...
+
+LaTeX is a very usable front-end/set of macros for the TeX typesetting
+engine. Basically, you write text files in a particular way, and then
+run LaTeX (or ``pdflatex``) and it generates the *best* looking PDF in
+the world of your document. You get full control over things that matter
+(layout, look and feel) and you don't have to worry about things that
+ought to be standard (titles, headlines, citations with BibTeX, page
+numbering, hyphenation). The best part, however, is that once you figure
+out how to generate a document correctly once, *you never have to figure
+it out again.* Once you realize that most of the things you need to
+output to paper are in the same format, you can use the same template
+and be able to generate consistently formated documents automatically.
+There's a "compile" step in the document production process, which means
+changes aren't often immediately recognizable, but I don't think this is
+a major obstacle.
+
+Word processing and document preparation is a critical component of most
+common computer users. At least, I'd assume so, though I don't have good
+numbers on the subject. In any case, I think it might be an interesting
+project to see how teaching people how to use LaTeX might both improve
+the quality of their work, and also the way that they're able to work.
+It's advanced, and a bit confusing at first, but I'd suspect that once
+you got over the initial hump LaTeX presents a more simple and
+consistent interface: you only get what you tell it to give you and you
+only see the functionality that you know about. This might make the
+discovery of new features more difficult, but it doesn't limit
+functionality.
+
+I'm not sure that this post is the right space to begin a lesson or
+series on getting started with LaTeX, but I think as a possible teaser
+(if there's interest) that the proper stack for getting started with
+LaTeX would consist of:
+
+-  A TeXlive distribution. You need the basic tool kit including
+pdflatex, TeX, Metafont, LaTeX, and BibTeX.
+
+-  A Text Editor with LaTeX support: emacs, TextMate, etc. Plain text
+can be difficult and cumbersome to edit unless you have the right
+tools for the job, which include a *real* text editor.
+
+-  Some sort of macro or snippet expansion system. TeX is great. But
+it's also somewhat verbose, and having an easy way to insert text
+into your editing environment, both for templates but also for
+general operations (emphasis, notes, etc.) is incredibly useful, and
+reduces pain greatly.
+
+-  A template management system. This probably needn't be a formal
+software system, but just something to organize and store the basic
+templates that you will use.
+
+And the rest is just learning curve and practice. Onward and Upward!
+

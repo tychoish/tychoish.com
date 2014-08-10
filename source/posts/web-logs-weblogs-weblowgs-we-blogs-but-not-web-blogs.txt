@@ -1,0 +1,24 @@
+=========================================================
+Web logs, weblogs, weblo(w)gs we blogs, but not Web blogs
+=========================================================
+
+.. post:: 2006-01-13
+   :author: tychoish
+
+The astute among you will notice that the "Blogging" category of TealArt
+has been moved under the "everyone has a story," (the dandy new
+Narrative Studies section of TealArt, on the premise that blogs, at
+least as Chris and I are likely to write about them, are a narrative
+device, and should be included this discussion.
+
+As I was writing a post about this blog, I noticed that the author
+referred to "web blogs," which is testament to the fact that blog is
+indeed a word in it's own right, but is in fact a combination of words
+which should never occur. Weblogs are logs, journals, which are made
+special/unique by a) the fact that they exist *online* and more
+technically, b) the software used to maintain them (this is a defining
+feature, and that's why I feel it's relevant to talk about WordPress
+upgrades on this site.)
+
+Just saying!
+

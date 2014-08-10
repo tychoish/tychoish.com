@@ -1,0 +1,98 @@
+=================
+Doing Wikis Right
+=================
+
+.. post:: 2009-12-07
+   :author: tychoish
+   :tags: writing, cyborg
+
+`Wiki <http://c2.com/cgi/wiki>`__ started as this weird idea that seemed
+to work against all odds. And then it seemed `to really
+work <http://www.wikipedia.com/>`__. And now wiki is just a way to make
+and host a website without taking full responsibility for the generation
+of *all* the content. To say wiki is to say "collaboration" and
+"distributed authorship," in some vague handwaving way.
+
+But clearly, getting a wiki "right," is more difficult than just
+throwing up a wiki engine and saying "*have at it people*." Wiki's need
+a lot of stewardship, and care, that I think people don't realize off
+the bat. Even wikis that *seem* to be organic and loosey-goosey.
+
+I have this wiki project, at the `Cyborg Institute
+Wiki <http://wiki.cyborginstitute.com/>`__ that I've put some time into,
+but not, you know a huge amount of time particularly recently. Edits
+have been good, when they've happened. But all additions have come from
+people who I have asked specifically for their contributions. I don't
+think this is a bad thing but this experience does run counter to the
+"throw up a wiki and people will edit it" mindset.
+
+I've started (or restarted?) [a wiki that I set up for the
+OuterAlliance][oa-wik]. You can find out more about the OA there (as it
+gets added) or on the `OuterAlliance
+Blog <http://www.outeralliance.org/>`__. Basically, O.A. is a group of
+Science Fiction writers, editors, and critics (and agents? do we have
+agents?) who are interested in promoting the presentation and visibility
+of positive queer characters and themes in science fiction
+(literature). [1]_
+
+In any case, the group needed a wiki, and unlike the `C2
+Wiki <http://c2.com/cgi/wiki>`__, the people who are likely to
+contribute to this wiki are probably not hackers in the conventional
+sense. As I've sort of taken this wiki project upon myself, I've been
+trying to think of ways to ensure success in wikis.
+
+--------------
+
+Ideas, thoroughly untested:
+
+Invite people to contribute at every opportunity, but not simply by
+saying "please add your thoughts here." Rather, write in a way that
+leaves spaces for other people to interject ideas and thoughts.
+
+Create stubs and pages where people can interject their own thoughts,
+but "red links" (or preceding question marks in my preferred wiki
+engine) are just as effective as stubs in many cases. The thing is that
+wikis require a lot of hands on attention. While stubs don't require a
+lot of attention and maintenance, they require some. My favored approach
+recently is to make new pages when the content in the current page grows
+too unwieldy and to resist the urge to make new pages except when that
+happens.
+
+Reduce hierarchy in page organization unless totally needed. You don't
+want potential collaborators to have to thing very much about "where
+should I put *this thing*." The more hierarchy there is the greater the
+chance that they'll have to either think about it and/or that they'll
+not find a place to put their contribution and then not contribute. This
+is undesirable.
+
+Hierarchy is problematic for most organizational systems, but in most
+wiki systems, it is really easy and attractive to divide things into
+lots of layers of hierarchy because it makes sense at the time. The
+truth is, however, that this *almost never* makes sense a couple of
+weeks or months down the road. Some hierarchy makes sense, but it'll
+take you hundreds of thousands of words to really need 3 layers of
+hierarchy in most wikis.
+
+Leaders and instigators of wiki projects also, should know that creating
+and having a successful wiki represents the output of a huge amount of
+effort. There's a lot of figuring out what people mean to say and making
+sure that their words actually convey that. There's a lot of making sure
+people's comments really do belong on the page where they put them. And
+more often than not leaders put in the effort to write a huge amount of
+"seed" content as an example to contributors in the future. It's not a
+bad gig, but it's also not the kind of hting you can just sit back and
+let happen.
+
+--------------
+
+Other thoughts? Onward and Upward!
+
+.. [1]
+It's an awesome group, and a useful and powerful mission, and I think
+the OA has learned a lot from, and is well connected to some of the
+activity around anti-racism, that's been lingering in science fiction
+over the last year to eighteen months as a result of the "RaceFail"
+hubbub of a year ago. The fact that there's this kind of activity in
+and around Science fiction is one of the reasons that I love being a
+part of this genre.
+

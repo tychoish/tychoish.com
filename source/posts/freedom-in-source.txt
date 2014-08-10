@@ -1,0 +1,71 @@
+=================
+Freedom in Source
+=================
+
+.. post:: 2008-11-14
+   :author: tychoish
+
+There are two schools of thought on why software developers should
+release their projects as free/open source software. There's the thought
+that open source equals software freedom *from* large companies who
+might seek undo influence over your computing; then there's the opinion
+that open source equals the freedom *to* tinker and use your software as
+you see fit. [1]_
+
+Which is a really interesting argument, I suppose, if you're living in
+the 1980s (or before really.) In the earlier days of computing and open
+source, having unencumbered access to source code meant something very
+different. Most computer users 'back in the day' had a stronger
+programing background, and computer systems (software and hardware) were
+less reliable and required more tinkering. Open access to source code
+had a functional meaning that was fundamentally different from what it
+means today.
+
+Today, most computer users and users of open source software don't have
+a particularly strong background in program. My desktop, with the
+exception of a few encumbered media codecs, and a closed source video
+driver, is all open source. While I write `shell scripts that do cool
+things <http://tychoish.com/rhizome/git-mail-3/>`__, and I can dabble in
+PHP when needed, I've never tinkered with an C code, and never really
+done anything that could be rightly considered a "program." And this
+says nothing of all the people who use open source programs like
+Firefox, Open Office, and Pidgin.
+
+While I am a fierce proponent of open source (as traditionally defined)
+in a strictly pragmatic sense, the fact that I can download the source
+code of software is largely irrelevant to me on a day to day level. This
+is to say that the "source" in "open source" is as much a symbolic
+identifier as it is a meaningful technological feature.
+
+So what does open source symbolize and signify in the contemporary
+moment? This is a huge question that I think we requires a
+non-significant amount of attention. Is open source really about larger
+freedoms in our society? Is open source software about smaller/more
+concrete freedoms in terms of flexible and customizable systems? Is open
+source just the only viable way to practice the UNIX philosophy of small
+modular tools, rather than large monolithic tools?
+
+There are also other angles that we can run with this question. Is open
+source the only way to gain a large enough user base (cite prevalence of
+LAM(P/P/P/R/J) stack vs. Microsoft's server technologies?) Given
+`current economic
+instabilities <http://tychoish.com/rhizome/is-there-any-there-there/>`__,
+might open source be a more viable way of generating wealth and
+participating in an authentic economy?
+
+I expect that I'll probably be tossing this question around, in various
+ways for years to come, but you have to start somewhere.
+
+Onward and Upward!
+
+.. [1]
+The conventional wisdom is that this divide is represented by the
+division between the Free Software Foundation (in the freedom from
+corner) and the BSD/Apache Software Foundation (in the freedom to
+corner). This is of course simplifies the position of both of these
+institutions in the community, as both BSD folks and FSF folks
+advocate the "opposite" argument. For example, RMS' pro-hacker
+arguments are very much "freedom to" and I think the inspiration for
+BSD-style projects is often very much a "freedom from" kind of
+proposition
+

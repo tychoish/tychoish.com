@@ -1,0 +1,64 @@
+=======================================
+Saved Searches and Notmuch Organization
+=======================================
+
+.. post:: 2010-07-30
+   :author: tychoish
+   :tags: organization, information-management, technology
+
+I've been toying around with the `Notmuch Email
+Client <http://notmuchmail.org/>`__ which is a nifty piece of software
+that provides a very minimalist and powerful email system that's
+inspired by the organizational model of Gmail.
+
+Mind you, I don't think I've quite *gotten* it.
+
+Notmuch says, basically, build searches (e.g. "views") to filter your
+email so you can process your email in the manner that makes the most
+sense to you, without needing to worry about organizing and sorting
+email. It has the structure for "tagging," which makes it easy to mark
+status for managing *your* process (e.g. read/unread, reply-needed), and
+the ability to save searches. And that's about it.
+
+Functionally tags and saved searches work the way that mail boxes in
+terms of the intellectual organization of mailboxes. Similarly the
+ability to save searches, makes it possible to do a good measure of
+"preprocessing." In the same way that Gmail changes the email paradigm
+by saying "don't think about organizing your email, just do what you
+need to do," not much says "do less with your email, don't organize it,
+and trust that the machine will be able to help you find what you need
+when the time comes."
+
+--------------
+
+I've been saying variations of the following for years, but I think on
+some level it hasn't stuck for me. **Given contemporary technology, it
+doesn't make sense to organize any kind of information that could
+conceivably be found with search tools.** Notmuch proves that this
+*works*, and although I've not been able to transfer my personal email
+over, I'm comfortable asserting that notmuch is a functional approach to
+email. To be fair, I don't feel like my current email processing and
+filtering scheme is *that* broken, so I'm a bad example.
+
+The questions that this raises, which I don't have a particularly good
+answers for, are as follows:
+
+-  Are there good tools for the "don't organize when you can search
+crew," for non-email data? And I'm not just talking about search
+engines themselves (as there are a couple: xapian, namazu), or
+ungainly desktop GUIs (which aren't without utility,) but the proper
+command-line tools, emacs interfaces, and web based interfaces?
+
+-  Are conventional search tools the most expressive way of specifying
+what we want to find when filtering or looking for data? Are there
+effective improvements that can be made?
+
+-  I think there's intellectual value created by organizing and
+cataloging information "manually," and "punting to search" seems like
+it removes the opportunity to develop good and productive information
+architectures (if we may be so bold.) Is there a solution that
+provides the ease of search without giving up the benefits that
+librarianism brings to information organization?
+
+
+

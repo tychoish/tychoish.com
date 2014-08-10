@@ -1,0 +1,43 @@
+===========================
+Org Mode and Mobile Writing
+===========================
+
+.. post:: 2011-09-15
+   :author: tychoish
+   :tags: productivity, writing, emacs, org-mode, mobile-technology, android
+
+This post is adapted from a post I made to the [[tag/org-mode]][email
+list](http://orgmode.org/worg/org-mailing-list.html) a few weeks ago. I
+proposed an application to compliment
+`MobileOrg <http://mobileorg.ncogni.to/>`__ for writing. Where MobileOrg
+collects the core bits of org-mode's task planning functionality in a
+form that makes sense for smart phone users, the parts of org-mode
+functionality that people use to for writing and organizing the content
+of larger form projects isn't particularly accessible.
+
+I spend (or should spend) 70% or more of my time in front of a computer
+writing or editing something in org-mode. Most of my org files have tens
+of thousands of words of blog posts, notes, drafts of articles, *and so
+forth.* While I can store that data on an android device with only minor
+problems using [[a little script that I put
+together\|code/epistle-linker]], and I can [[[capture content into my
+org-files using email and some nifty filters\|code/org-mail]], and there
+*are* text editors that can let me edit these files: *it could be
+better*.
+
+The proposal is simple. Can we build something like Epistle for
+org-mode? It might just render org-mode text to HTML, and frankly that
+would be enough for me. If the editing interface had an
+`org-indent-mode <http://orgmode.org/manual/Clean-view.html>`__
+equivalent, org-syntax highlighting, and even collapsing trees or
+`org-narrow-to-subtree <http://orgmode.org/manual/Structure-editing.html>`__,
+that'd be kind of like heaven.
+
+I'm not a mobile developer, so I can't promise to start making an app
+this instant if there's interest but if anyone's bored and thinks this
+might be a good idea (or knows of something that might work better for
+this.) I'd love to hear about it. If someone wants to start work on
+this, I'll do whatever I can to help make this a reality.
+
+Onward and Upward!
+

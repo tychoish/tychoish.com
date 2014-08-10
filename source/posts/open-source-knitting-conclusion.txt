@@ -1,0 +1,25 @@
+===============================
+Open Source Knitting Conclusion
+===============================
+
+.. post:: 2007-09-25
+   :author: tychoish
+
+I posted earlier today, a copy of the last installment of the Open
+Source Knitting. It answers some of the preliminary "how" questions that
+I think the rest of the series avoided.
+
+`Click here to read more about Open Source Knitting
+Technology <http://tychoish.com/rhizome/open-source-knitting-technology/>`__
+
+While I think the project is still very much "alive," and holds a place
+in my mind/mental energy, I think it also is something that I want to do
+right, and I'm going to wait till I have time time and some more of the
+planning worked out right. I think a huge part of this, interestingly
+enough depends on having the community at Ravelry be sufficiently large
+and open to all. I say ravlery because it is centralized and it is not
+niche, not because of any particular dependency there. I also need to be
+a little bit better about being on IRC I think...
+
+Anyway, back to the grindstone.
+

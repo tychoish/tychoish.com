@@ -1,0 +1,151 @@
+==================================
+You Can't Hack your Way to Freedom
+==================================
+
+.. post:: 2008-09-03
+   :author: tychoish
+   :tags: "free-software"
+
+**Subtitle:** *Or, Why Open Source isn't about Freedom.*
+
+There is a `major segment <http://www.gnu.org/>`__ of the open
+source/free software movement that believes that open source is
+important because having non-proprietary software is a key to individual
+liberation and freedom.
+
+While this "camp" has done *a lot* for the open source movement, and in
+some respects they're right: an educated user can deal with his own
+bugs, tweak the code, and verify that the software is secure. Also free
+software makes it possible for everyone, not just the very wealthy, from
+using very powerful tools. Money is still an issue around hardware, but
+free software helps. These features of free software are indeed powerful
+and likely make the undertaking worthwhile in its own right. So I don't
+want to dismiss the political importance of this idea or faction but I'd
+like to offer another theory of why open source is so powerful and
+important.
+
+The marker of a successful proprietary piece of software and a
+successful open source program are *completely* different.
+
+Proprietary software is successful if people [1]_ buy it. And when
+people buy anything really, for the most part they do a cost-benefit
+analysis, usually between features and cost. Does this do what I need it
+to? Will I have to buy something else to finish the task at hand? In
+this environment the most successful programs will be the best programs
+that do the most for the least amount of money.
+
+So I guess I'm being an armchair economist in this, but I think that it
+makes a lot of sense for both developers and purchasers to keep the
+overall number of discrete programs down. Why develop and support (and
+buy on the other end) an address book program, a mail reading program, a
+mail composing program, a calendar program, a task manager when you
+could just get Outlook? Hell, why buy business/office software *a la
+carte* when you can get it as a suite?
+
+Open source doesn't need to operate like that, [2]_ especially
+historically a good piece of open source software did *one* thing well.
+There are a lot of reasons for this. Unix works best when everything is
+a modular widget **widgets,** but getting a bunch of hackers to agree on
+how to accomplish more than one thing is sufficiently non-trivial to
+have had a great impact on the methods of the movement. Perhaps most
+importantly, there's no need for any single piece of software to *do
+everything* because open source software doesn't exist in a vacuum.
+
+And *this* is the strength of the model. You could never market on or
+sell application on a large that did *one* thing really well, but if you
+asked it to do something else related, the developer would say "not my
+problem."
+
+The classic example is `mutt <http://www.mutt.org/>`__, and email client
+that *just reads email*, while recently (after much "not my job"
+protesting,) mutt has added support for connecting to the servers that
+send and receive email, it historically hasn't and I suspect most users
+still don't use these features. Imagine if Outlook said "nope, sending
+email is someone else's problem, I'm just a mail reader." Mutt succeeds
+because it's really good at reading email, but also because there are a
+lot of really great tools for doing other email related tasks.
+`Fetchmail <http://www.catb.org/~esr/fetchmail/>`__ is a great and
+reliable program, but it only downloads email, and for sending email
+I've never had a problem with MSMTP, but I think there are a number of
+popular mail-sending options.
+
+So you get that open source makes a more widget or ecosystem based
+computing environment viable and stable, but are still wondering why
+this is a good thing? Because it sounds that this kind of open source
+just makes things more complex? Right. Here's why I think the ecosystem
+is the way to go:
+
+-  It's easier to build programs that only do one thing. A program
+either is really good at downloading your email or it isn't, and it's
+pretty easy to tell if that's the case. More complex programs, can't
+be as reliable as consistent.
+
+-  This system is more responsive to technological development. If
+there's a new revolution in email downloading, it's easy enough to
+take fetchmail out of the picture and put some other widget in place
+that works better. Non-modular systems put you at the whim of someone
+else.
+
+-  Your data is (more likely) to be accessible and open. The real reason
+that open source hackers are interested in open standards and formats
+is, if we rely on an ecosystem of widgets our data has to be readable
+by all of the different widgets. The only way to ensure that this is
+the case is to use open and standard data formats. This is good for
+the user and good for the programer as a `creative
+constraint <http://tychoish.com/rhizome/constrained-creativity/>`__.
+
+-  This model more closely reflects *the way we actually think*. Our
+minds are made up of a bunch of smaller abilities. The ability to
+recognize written words, the ability to parse those words for sounds
+and meaning, the ability to take what we read and relate it to things
+that we've seen and read in other contexts. In both the software and
+cognition the really cool things happen with novel collections of
+different ideas and tools.
+
+But wait you say, `OpenOffice <http://www.openoffice.org/>`__ and
+`Ubuntu Linux <http://www.ubuntu.com/>`__ aren't widgets and they have
+very high feature counts. This is very true, and to be honest projects
+like GNOME/KDE and open office mystify me because they fail so
+amazingly, they're too disjointed to really compete with desktop
+environments from proprietary makers and try to do too many things to
+really work ideally on their own. [3]_
+
+In the case of Ubuntu--like all linux distributions--the "product," is a
+specific and tailored collection of widgets. And this is a pretty good
+open source business model: take a bunch of tools, customize them, make
+sure they install and work together, and then package them as some sort
+of suite. While *I* think that this software ecosystem thing is pretty
+cool, it's not easy to get started with, and unless users really know
+what they're doing it requires more than a bit of fidgeting.
+Distributions solve this problem and make a space for individuals and
+groups to monetize this "free" software. Which is of course good for
+(almost) everyone involved.
+
+Anyway, I've been going on for way too long. I'm not--by a long
+shot--done thinking (and writing) about these issues, so expect a
+continuation of this soon.
+
+Onward and Upward!
+
+.. [1]
+In the case of software, I think people should be understood as
+cooperate IT devisions, more than individuals
+
+.. [2]
+There are clearly a lot of exceptions, particularly in this
+particularly moment, where we're seeing projects that in this respect
+look more like proprietary software. This is I think in part
+intentional as a means of competing with proprietary software. And
+I'm building to the other "in part." So lets wait for it, shall we?
+
+.. [3]
+Clearly this is just my opinion. Every so often I want to try and
+like GNOME, but I always find it to be a less then pleasurable
+experience. The GUIs don't make a lot of sense unless you know what
+the shell commands that they're wrapping are, to say nothing of the
+really poor use of space (that's tangential, but probably my largest
+gripe with GNOME). Interestingly I started using a `different window
+manager (awesome) <http://awesome.naquadah.org/>`__, which accesses
+`gtk <http://www.gtk.org/>`__, and I was very surprised to find that
+some of the gnome apps were actually pretty decent. Who knew!
+

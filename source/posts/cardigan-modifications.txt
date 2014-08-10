@@ -1,0 +1,49 @@
+======================
+Cardigan Modifications
+======================
+
+.. post:: 2008-05-01
+   :author: tychoish
+
+Here is today's entry/breadcrumb of the pattern for the latvian dreaming
+sweater. IF you want to make the sweater into a cardigan, here's the
+scoop:
+
+--------------
+
+Some of you have asked for or expressed interest in doing this sweater
+as a cardigan. My last three sweaters have been cardigans, and I'm ready
+for a change, but these kinds of sweaters make a lot of sense to a lot
+of people, so don't be discouraged, you can make this sweater as a
+cardigan.
+
+The main difference here is that you need an extra stitch so that the
+patterns mirror properly. So that's 345 stitches. There also need to be
+steeks. I think cardigans work better without ribbing, or if you're
+going to do ribbing, why not wait till the end: this has to do with
+steeks and getting all of the end in the right place. So you don't have
+to, but lets just assume that you do:
+
+Cast on provisionally for 345 stitches, join in the contrasting color,
+and then using the long tail method cast on an odd number of stitches
+for a steek, I'm partial to 11 or 13. *The first, last, and middle
+stitches should be in the background color, and the stitches on either
+side of the middle stitch should be in the foreground color. All other
+stitches should alternate fore and background colors.*
+
+You need the extra stitch because I suspect that you want both front
+edges to look the same. In a pullover you only want one middle/"turning"
+stitch, to make the pattern work. In a cardigan you want the middle
+stitch to be on both the left and right front. You could have the middle
+stitch on *neither* the left *nor* the right, but that seems silly, as
+typically you want the front of a sweater to be a bit wider than the
+back (it's one of those anatomical things), and while 1/8th or less of
+an inch shouldn't matter much, I seem to care about these things.
+
+Then with both colors begin knitting the mirror side of the chart.
+Establish the pattern on the back the same as you would for a pullover,
+and end with one repeat of the normal side of the chart. Then continue
+reading from the chart, flipping back and forth as necessary.
+
+Hope that helps!
+

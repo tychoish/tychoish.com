@@ -1,0 +1,82 @@
+=======================
+Why Cloud Culture Isn't
+=======================
+
+.. post:: 2010-03-24
+   :author: tychoish
+   :tags: cyberculture
+
+I read this `post by Bruce Sterling about "Cloud
+Culture" <http://www.wired.com/beyond_the_beyond/2010/02/cloud-culture/>`__,
+and haven't quite been able to formulate an appropriate response. It's
+true that I often find myself ranting about this or that thing Bruce
+Sterling has written, so I'm perhaps not the most impartial
+
+To summarize, his notion is that "the cloud," as evidenced by a wealth
+of usable digital information and content, combined with an uptick in
+digital participation will lead to some sort of minimalistic cultural
+singularity that he's calling "Cloud Culture."
+
+Right.
+
+So lets attack this full on. The "**Cloud**\ " is marketing dribble.
+There's nothing there, it's just a different way of organizing the
+servers that provide content and services on the Internet. In a lot of
+way the Amazon and Rackspace "Clouds" have brute forced the server and
+hosting business with utterly conventional hardware, off the shelf open
+source software, and a bunch of
+[insert-favorite-scripting-language-here] scripts. Oh, and a lot of
+capital.
+
+That's the back-end, and moving upwards in the stack, we'll find that
+the tools (e.g. Apache, Relational Databases, Perl) that we're using now
+are for the most part the same this time around as they were ten or
+fifteen years ago. Sure we have new practices, and there are new
+frameworks, new versions of some software, but the changes are mostly
+evolutionary. Until you get to what the users see, and now we have
+applications that live in web browsers, and a more robust set of
+interconnected network services.
+
+Otherwise, the cloud is just the Internet bundled up in a differed way.
+And it's true that the bundling matters, but at the end of the day just
+because the "cloud" presents a better way to do the work of the Internet
+(in some situations,) it doesn't mean that any of the fundamental
+principals have changed.
+
+Another phenomena that hasn't changed with the cloud: we've not quite
+gotten the economic system for the Internet figured out in a way that's
+reliable and sustainable. New things on the Internet are supported by
+capital from "old-world" industries by way of venture capital and spin
+off subsidiaries. The leading business models are advertising (very
+print media) and premium subscription services (which are often
+contrived). So eventually it all collapses, and any gains in cultural
+participation run up against the hard costs of keeping power flowing to
+the servers in some way.
+
+A few thoughts:
+
+-  We could just as easily call this whole "cloud" thing "the matrix,"
+or "cyberspace," in Gibson's original formulation. Cloud is a
+horrible metaphor for most things, but particularly this.
+
+-  The apparent cohesiveness of the Internet in 2010 is almost entirely
+due to the success of Google. As much as we might try and avoid
+Google, I *firmly* believe if Google were to go away without warning,
+while the *Internet* would still work most of the economy around it
+would crash and burn: people wouldn't discover new things, the
+on-line advertising industry would largely collapse, a lot of the
+software that a lot of people inside and outside of google use would
+be without maintainers.
+
+-  I'm not sure cultural participation is problem space that can be
+brute forced, and certainly the development of additional
+applications in the cloud is unlikely to increase participation in a
+direct manner. I'm not being an elitist and saying "cultural
+participation by the unschooled and unwashed masses isn't
+worthwhile," but rather cultural participation is about developing
+direct relationships and making/building *things*, and that requires
+forming relationships that `don't scale
+well <http://tychoish.com/rhizome/conceptualizing-scale/>`__.
+
+Thoughts?
+

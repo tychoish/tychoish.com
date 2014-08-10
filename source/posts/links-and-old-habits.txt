@@ -1,0 +1,48 @@
+====================
+Links and Old Habits
+====================
+
+.. post:: 2009-03-30
+   :author: tychoish
+   :tags: links, technology, open-source, software
+
+So I've noticed that my impulse on these shorter blog posts (codas) that
+I tend to just do my normal essay thing only shorter, which is more of
+an old habit than it is something productive or intentional. Weird. To
+help break out of this bad habit, I'm going to post some links that I've
+collected recently.
+
+I saw a couple of articles on user experience issues that piqued my
+interest, perhaps they'll pique yours as well: `Agile Product Desgin on
+Agile Development and UX
+Practice <http://agileproductdesign.com/blog/emerging_best_agile_ux_practice.html>`__
+and `On Technology, User Experience and the need for Creative
+Technologists <http://www.arpitonline.com/blog/?p=178>`__.
+
+`Cheetah Template Engine for
+Python <http://www.cheetahtemplate.org/learn.html>`__. This isn't an
+announcement but I've been toying around with the idea of reimplementing
+`Jekyll <http://github.net/mojombo/jekyll/>`__ in python (to learn,
+because I like python more than Ruby). Cheetah seems to be the template
+engine for python that looks the coolest/best. I need to read more about
+it, of course
+
+I didn't get to go to Drupal Con (alas), but there were a few sessions
+that piqued my interest, or at least that I'd like to look into mostly
+because the presenters are people I know/watch/respect: `Sacha Chua's
+Rocking your Development
+Environment <http://dc2009.drupalcon.org/session/totally-rocking-your-development-environment>`__
+`Liza Kindred's Bussiness and Open
+Source <http://dc2009.drupalcon.org/session/business-open-source>`__
+`James Walker's Why I Hate
+Drupal <http://dc2009.drupalcon.org/session/why-i-hate-drupal>`__.
+
+Sacha's because I'm always interested in how developers work, and we
+have emacs in common. Liza's because Open Source business models are
+really (perversely) fascinating, even if I think the Drupal world is
+much less innovative (commercially) than you'd initially think. Finally,
+given how grumpy I'm prone to being, how could walkah's talk not be on
+my list?
+
+Anyone have something good for me?
+

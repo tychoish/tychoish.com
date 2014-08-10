@@ -1,0 +1,109 @@
+==========
+Build Woes
+==========
+
+.. post:: 2013-03-25
+   :author: tychoish
+
+I thought I'd back up after the [[/rhizome/delegated-builds]] post and
+expand on the nature of the build engineering problem that I've been
+dealing with (at my day job) on a documentation related problem.
+
+-  we do *roughly* continuous deployment. All active development and
+editing happens in topic branches, and there's no really good reason
+to leave typos and what not on the site any longer than we need to.
+
+-  we publish and maintain multiple versions of the same resource in
+parallel, and often backport basic changes to maintenance branches.
+This is great for users, and great for clarity, but is awful
+practically, because to deploy continuously, you have to be
+rebuilding.
+
+-  all build is self-contained. This isn't strictly a requirement, and
+we do use some internal continuous integration tools for internal
+development, but at the core, for a number of reasons I think it's
+important that all writers be able to build the project locally:
+
+-  as an open source project, it's important that users can easily
+contribute at any level. We do lots of things to make it easy for
+people to submit patches, but if the build isn't portable (within
+reason,) then it's difficult for developers to work as peers.
+
+-  if it's difficult to view rendered content while developing, it's
+hard to develop well or efficiently. While I think the
+what-you-see-is-what-you-get model (WYSIWYG) is the wrong answer,
+good feedback loops are important and being able to build locally,
+after you make changes, whenever you want, regardless of the
+availability of a network connection, is terribly important.
+
+-  the tool we use, `Sphinx <http://sphinx-doc.org>`__, in combination
+with the size of our resource is a bottleneck. A single publication
+run takes anywhere from 4:30-6 depending on the hardware, and has
+grows on average 30 seconds every six months. I could rant about
+parallelism in documentation, but basically, if you want a system
+that handles cross referencing and internal links, and you want to
+generate static content, long compile times are mostly unavoidable.
+
+Now there are a number of tricks that we've established to fight this
+underlying truth: Sphinx does some dependency checking to avoid
+"overbuilding," which helps some, and I've done a lot of mangling in the
+Makefiles to make the build process more efficient for most common
+cases, but even so, long growing build times are inevitable.
+
+The Sphinx part of the build has two qualities that are frustrating:
+
+-  each build is single threaded, so it has to read all the files one by
+one, and then write each file one by one. You can build other output
+formats in parallel (with a small hack from the default makefile,)
+but you can't get around the speed of a single build. There is a
+patch in consideration for the next version that would allow the
+write-stage of the build to run concurrently, but that's not live
+yet.
+
+-  during the read stage of the build, you can't touch the source files,
+and extra files in the source tree can affect or break the build,
+which means that for the most part you can't build and work at the
+same time, until now.
+
+The solutions are often not much better than the problem:
+
+-  use a different build tool, that was built to do incremental builds.
+The problem is that there aren't a lot of good options in this area,
+and the build is really the primary objectionable feature of the
+build.
+
+-  improve the build tool, or wait for it to improve. The aforementioned
+patch to let the write phase run concurrently will help *a lot*.
+Having said that, it's important to keep the project on a standard
+public release of Sphinx and it's difficult to modify core Sphinx
+behavior from the extension system.
+
+Perhaps I have Stockholm Syndrome with the build, but I tend to thing
+that on some level this is a pretty difficult problem, and building a
+safe concurrent build system is *hard* there aren't a lot of extant
+solutions. At the same time, this blog is about 2.5 times as large as
+the documentation project and can do a complete rebuild in 20% of the
+time or less as much time. While the blog is probably a little less
+complex, they're largely similar and it's not 5-6 times less complex.
+
+I think the problem is that people writing new documentation systems
+have to target and support new users and smaller test projects, that by
+the time people have serious problems with the road blocks, the faulty
+designs are too baked in.
+
+-  brute force the problem by making use non-local build infrastructure
+that has faster less contentious processor and disk resources. This
+sounds good, except our test machines are pretty fast, and the gains
+made by better hardware don't keep up with continued growth. While we
+might gain some speed by moving builds off of our local machines, the
+experience is quite worse. Furthermore, we do build-non locally, and
+that's great, but it's not a replacement.
+
+There aren't a lot of solutions and most of them seem to come down to
+"deal with it and build less," which is hardly a solution.
+
+This is the foundation of the [[/rhizome/delegated-builds]] script that
+I wrote, which addresses the problem by making it less intrusive. I'm
+also working on a brief FAQ, which might help address some of the big
+questions about this project.
+

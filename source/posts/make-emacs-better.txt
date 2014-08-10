@@ -1,0 +1,80 @@
+=================
+Make Emacs Better
+=================
+
+.. post:: 2011-06-22
+   :author: tychoish
+   :tags: emacs
+
+I love `emacs <http://www.gnu.org/software/emacs/>`__. I'm also aware
+that emacs is a really complex piece of software with staggering list of
+features and functionality. I'd love to see more people use emacs, but
+the start up and switch cost is nearly prohibitive. I do understand that
+getting through the "emacs learning curve" is part of what makes the
+emacs experience so good.
+
+That said, there really ought to be a way to make it easier for people
+to start using emacs. Think of how much more productive some developers
+and writers would be if the initial experience of emacs was less
+overwhelming. And if emacs were easier to use, developers could use
+emacs as a core (embeded, even) component of text-editing applications,
+for instance, some sort of specific IDE built with emacs tools, or a
+documentation creation and editing toolkit built with emacs. I'd go for
+it, at least.
+
+To my mind there are three major challenges for greater emacs usability.
+Some of these may be pretty easy to change non-intrusively, others less
+so. Feedback is, of course, welcome:
+
+1. The biggest problem is that there's no default configuration. While I
+appreciate that this provides a neutral substrate for people to
+customize emacs for themselves, you have to write lisp in order to do
+pretty much anything in emacs other than write lisp. And
+customize-mode is well unmentioned, but not particularly usable.
+
+Perhaps one solution to this problem would be to create a facility
+within emacs to build "distributions," that come configured for specific
+kinds of work. That way, emacs can continue to be the way it is, and
+specialized emacs can be provided and distributed with ease.
+
+2. Improve the ``customize`` interface. I like the idea of
+``customize``, but I find it incredibly difficult to use and
+navigate, and end up setting all configuration values manually
+because that's easier to keep track of and manage. I'd prefer an
+option where you configure your emacs instance the way you want
+(through some sort of conventional menu system), and then have the
+option of "dumping state" to an arbitrary file that makes a little
+more sense than the lisp structure that ``customize`` produces. Then,
+as needed, you could load these "state file(s)," But then I've never
+used the menu-bar at all, so perhaps I'm not the best person to
+design such a system.
+
+This strikes me as a more medium term project, and would make it easier
+for people who want to modify various basic behaviors and settings. I
+don't think that it would need to totally supplant ``customize``, but it
+might make more sense.
+
+3. Improve and add the ability to extend emacs beyond emacs-lisp. I
+initially thought emacs-lisp was a liability for emacs adoption and I
+don't think this is uncommon, but I've since come to respect and
+understand the utility of emacs lisp. Having said that, I think
+offering some sort of interopperability between emacs and other
+languages and interperators, might be a good thing. Ideas like
+`ParrotEmacs <http://gitorious.org/parrotemacs>`__ and using the
+`Guile <http://www.gnu.org/s/guile/>`__ VM to run existing emacs-lisp
+in addition to other new code would be great.
+
+This is a longer term project, of course, but definitely opens emacs up
+to more people with a much more moderate learning curve.
+
+I've been working (slowly) on getting my base configuration into a
+presentable state that I can push it to a git repository for everyone to
+see and use, which (at least for me) might start to address problems one
+and two, but three is outside of the scope of my time and expertise. The
+truth is that emacs is *so great* and *so close* to being really usable
+for everyone, that a little bit of work on these, and potentially other,
+enhancements could go a long way toward making emacs better for
+everyone.
+
+Who's with me? Let's [[discuss\|discourse]]!
+

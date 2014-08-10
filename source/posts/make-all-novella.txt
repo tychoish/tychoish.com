@@ -1,0 +1,46 @@
+================
+Make All Novella
+================
+
+
+(**Note**: *I was going through some old files earlier this week and
+found a couple of old posts that never made it into the live site. This
+is one of them. I've done a little bit of polishing around the edges,
+but this is as much a post for historical interest as is a reflection of
+the contemporary state of my thought.*)
+
+When I decided to publish my novella `Knowing
+Mars <http://tychogaren.com/mars>`__, I decided that I wanted to use my
+`existing publication system <http://wiki.github.com/mojombo/jekyll/>`__
+and that I wanted to automate the process of generating of all the
+necessary versions that made it possible to keep my original files in
+sync, without needing to duplicate effort. I decided that the few hours
+it would take to write a script would both save a lot of time later
+*and* make it more likely to maintain the text.
+
+So I have this script that:
+
+-  Copies the source files into the publication directory.
+
+-  Generates: full html files for every chapter, plain text files for
+every chapter, a full html edition of the complete text, a plain text
+edition of the complete text, a minimally styled html edition of the
+complete text.
+
+-  Keeps these editions synchronized.
+
+-  Keep the original source files synchronized.
+
+-  Ideally provide a tool that would prove useful in the future.
+
+I've included the code of what I came up with in this wiki, at
+**[[code/build-novel]]**, and you can find the full source of
+`tychogaren.com <http://tychogaren.com>`__ and `Critical
+Futures <http://criticalfutures.com>`__
+`here <http://git.cyborginstitute.com/?p=criticalfutures.com.git;a=summary>`__.
+For the full source of the\ `Knowing Mars
+text <http://git.cyborginstitute.com/?p=knowing-mars.git;a=summary>`__
+consider the
+`gitweb <http://git.cyborginstitute.com/?p=knowing-mars.git;a=summary>`__.
+I would be very grateful for any feedback or input.
+

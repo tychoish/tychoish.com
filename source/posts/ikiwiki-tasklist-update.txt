@@ -1,0 +1,70 @@
+=======================
+Ikiwiki Tasklist Update
+=======================
+
+.. post:: 2011-12-12
+   :author: tychoish
+   :tags: code, programming
+
+I added a few lines to a script that I use to build my task list, and
+for the first time ever, I opened a file with code in it, added a
+feature, tested it, and it worked. Here's the code with enough context
+so it makes sense (explained later if you don't want to spend the time
+parsing it:)
+
+::
+
+ARG=`echo "$@" | sed -r 's/\s*\-[c|p|s]\s*//g'`
+WIKI_DIR="`echo $ARG | cut -d " " -f 1`"
+if [ "`echo $ARG | cut -d " " -f 2 | grep -c /`" = 1 ]; then
+TODO_PAGE="`echo $ARG | cut -d " " -f 2`"
+elif [ "`echo $ARG | cut -d " " -f 2 | grep -c $EXT`" = 1 ]; then
+TODO_PAGE="$WIKI_DIR/`echo $ARG | cut -d " " -f 2`"
+else
+TODO_PAGE="$WIKI_DIR/`echo $ARG | cut -d " " -f 2`.$EXT"
+fi
+
+This is from the section of the script that processes the arguments and
+options on the command line. Previously, commands were issued such that:
+
+::
+
+ikiwiki-tasklist [-c -p -s] [DIR_TO_CRAWL] [OUTPUT TODO FILE NAME]
+
+My goal with the options was to have something that "felt like" a normal
+command with option switches and had a lot of flexibility. The two
+fields that followed: however, I didn't provide as much initial
+flexibility. The directory to crawl for tasks (i.e.
+"``[DIR_TO_CRAWL]``\ ") was specified the way it is now, but the output
+file was 1) assumed to have an extension specified in a variable at the
+top of the script, 2) automatically placed the output file in the top
+level of the destination directory.
+
+It worked pretty well, but with the advent of a new job I realized that
+I needed some compartmentalization. I needed to fully use the tasklist
+system for personal and professional tasks without getting one set of
+items mixed in with the other. Being able to have better control of the
+output is key to having full control over this.
+
+The modification detects if the output file looks like a path rather
+than a file name. If it's senses a path, it creates the task list in the
+path specified, with no added extension. If a file name specifies the
+extension, then you won't get ".ext.ext" files. And the original
+behavior is preserved.
+
+--------------
+
+I'm a hacker by inclination: I take code that I find and figure out how
+to use it. Sometimes I end up writing or writing code, but I'm not
+really a programmer. My own code, at least until recently has tended to
+be somewhat haphazard and until now (more or less) I've not felt like I
+could write code from scratch that was worth maintaining and enhancing
+in any meaningful way.
+
+Apparently some of that's changed.
+
+I've made a few additional changes to the scripts, but most of these
+feel more trivial and can be described as "I learned how to write
+slightly tighter shell scripts. so if you're using it you might want to
+update: the [[code/ikiwiki-tasklist]] page is up to date.
+

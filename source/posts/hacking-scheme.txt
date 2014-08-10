@@ -1,0 +1,11 @@
+===============
+hacking scheme 
+===============
+
+.. post:: 2007-08-18
+   :author: tychoish
+
+I heard, somewhere about a hacking scheme where people would hack into
+your computer, encrypt your hard drive using PGP and then charge you for
+the key to decrypt it. clever-evil-briliant.
+

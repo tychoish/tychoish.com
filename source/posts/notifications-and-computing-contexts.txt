@@ -1,0 +1,75 @@
+====================================
+Notifications and Computing Contexts
+====================================
+
+.. post:: 2009-12-03
+   :author: tychoish
+   :tags: cyborg
+
+Maybe it's just be but I think notifications of events on our computers
+suck. On OS X there's `Growl <http://growl.info/>`__, and GNU/Linux
+desktops have the ``libnotify`` stuff, and I'm sure there's *something*
+on windows, but I don't think this really addresses the problem at hand.
+Not that the software doesn't work, becuase it *mostly* does what it
+says it's going to do. The issue, I think is that we need, or will very
+shortly need, much more from a notification system than anything around
+can handle.
+
+Lets back up.
+
+I don't know about you but there are a lot of events and messages that I
+get or need to get, including: new mail, some instant messages, mentions
+of cerain words on IRC (perhaps only in certain channels), notifications
+of when a collaborator has pushed something to a git repository, updates
+to certain RSS feeds, notifications of the completion of certain
+long-running commands (file copies, data transferes, etc.) and so forth.
+I think everyone likely has their own list of "things it would be nice
+if their computer could tell them about."
+
+The existing notification systems provide a framework that enables
+*locally running applications* to present little messages in a
+consistent, and unified manner. This is great. The issue is that for
+most of us the things that we need to be notified of aren't locally
+running. At least in my case, instant messaging, IRC, git, and the key
+RSS feeds that I want to follow aren't "locally running applications."
+And to further complicate matters, no matter how your slice things, I
+use more than one computer, and in an ideal world it would be nice for
+one machine to know what notifications I'd seen on another computer when
+I sat down. In other words, my personal notification system should
+retain memory of what it's shown me and what I've awknowladged across a
+number of machines.
+
+That doesn't happen. At least not today.
+
+I have a few ideas about the implementation that I will probably cobble
+together into another post, and I'd love to hear some feedback if any of
+you have addressed this problem and have solutions.
+
+It strikes me that there are two larger themes at work here:
+
+1. Personal computing events occur locally and remotely, and
+notification systems need to be able to seemlessly provide these
+kinds of notifications. While I think a lot of the hype around clound
+computing is--frankly--absurd, it is fair to say that our computing
+is incredibly networked.
+
+2. People don't have "a computer," any more, but rather several: phones,
+desktops, "cloud services," virtual private servers, and so forth.
+While we use these systems differently, and our own personal "setup"
+are often unique, we need to move between these setups with ease.
+
+These two shifts, networked computing and multiple computing contexts,
+affect more than just the the manner in which we receive notifications.
+But really, I think, outline the ways that the way we use computing has
+changed in the past few years. There's a lot of buzzwords around this
+shift, in the web appliacation and cloud computing space particularly,
+and I don't think that the "hipster"/"buzzword" experience is widely
+generalizable. It's my hope that these conclusions are more widely
+applicable and useful: both for the development of a notification system
+that we need, and for thinking about application development in the
+future.
+
+Like I said above, I'd love to hear your thoughts on this subect, and
+perhaps we can work on collecting thoughts on the `Cyborg Institute
+Wiki <http://wiki.cyborginstitute.com/>`__. Take care!
+

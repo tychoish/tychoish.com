@@ -1,0 +1,49 @@
+=========================
+Coding on the Battlefield
+=========================
+
+.. post:: 2003-07-03
+   :author: tychoish
+
+While I haven't posted a new entry to TealArt in far, far too long I
+haven't completely forgotten about the site. I've been doing some
+backend work here and there, mostly during writing breaks on Another
+Round (I'm at the 15,000 word mark currently). So, as a result, the side
+bar is a little cleaner. I fixed a few problems with the CMS (which will
+explain the title in a bit), and I've begun working on an exciting
+project that I think you'll all like when I get it done, but I'm not
+quite ready to talk about now. Let the suspense build.
+
+We've also added another TealArt contributor. Paula Forbes is no
+stranger to my hair brained website ploys. I've worked with her on some
+very frivolous projects as well (oh, but boy, they were so fun), and her
+work is just great, so I hope you'll enjoy her stuff. Peter McCabe also
+promises to start writing again, and I'm really looking forward to that
+as well. And, you still have Chris and me to boot.
+
+Just in case any of you are interested in what's happening over at
+CollectiveArts, I'm pleased to say that we're getting really close to
+reopening the doors over there. Really close. So stay tuned, and if
+you're interested helping out with that drop me an email. CollectiveArts
+is open to just about anyone who wants to join, within certain bounds
+(and subject to review, of course).
+
+Now that we have that out of the way, I'd like to get back to the
+'coding on the battlefield,' if that's alright with you.
+
+I'm glad it is.
+
+I've noticed that when ever I'm faced with a problem that involves
+coding, recently that's been PHP and HTML code almost exclusively, and I
+can't seem to get it to work, I start cutting things out. Rather than
+try and fix daunting problems with the formation of the code, I cut
+offending portions out. It's a philosophy that simpler is probably
+better than complexity, and that if I don't absolutely need something,
+that I can probably do with out it. So this leaves me feeling like a
+surgeon on a battlefield, doing twenty or more amputations in an hour.
+Though I suppose having a log of everything your CMS does referenced by
+file name, time, and line of code isn't quite the same as having an arm
+or a leg, but there may be similarities.
+
+Well, anyway. I'm back here, and it's good to be home.
+

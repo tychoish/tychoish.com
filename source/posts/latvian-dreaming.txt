@@ -1,0 +1,101 @@
+================
+Latvian Dreaming
+================
+
+.. post:: 2008-04-25
+   :author: tychoish
+
+So I've been talking about this project for a few days, and thinking
+about something like it for much longer. And I think, enough fooling
+around, I might as well post the "getting started" entry. You need not
+get started this instance (but you should! peer pressure!), but just in
+case you were ready for it, here it is. A proper introduction and the
+first little chunk of the pattern...
+
+I want to knit a sweater with you. It's a big project, probably best
+suited to winter knitting, but I've never let something as predictable
+as the weather get in my way for such things. I might need a fan for
+knitting the sleeves and the end of the body as summer approaches, but I
+happen to have one or two around for that possibility.
+
+This sweater is like many of my others, two color, stranded all the way
+across, simple vertical lines, and I'm thinking a simple drop shouldered
+look. Maybe shoulder straps. I'll decide later.
+
+I know that I've already started, don't feel behind! feel glad that I'm
+going to be ahead of you, I'm here to make your mistakes for you. I'll
+be posting regularly about my progress and my design decisions, and when
+I'm done maybe we'll make a "real" pattern of it.
+
+The charts I've chosen and modified (a bit) are from Joyce Williams'
+*Latvian Dreams: Knitting from Weaving Charts.* (2000; Schoolhouse
+Press); which is an amazing book that I *highly* recommend. Amazing
+stuff. I've chosen a few of these charts that are small enough to
+memorize and arranged them so that there's a vertical line. They *all*
+even repeat every 16 rounds. Better yet, because they're weaving charts,
+the top half (rows ~10-16) are the same as the bottom half (rows ~2-8),
+which makes it even easier to memorize.
+
+Here's the download link for the `pattern materials
+packet <http://www.lulu.com/content/2470929>`__. And please do note that
+there's a pattern up on ravelry
+`here <http://www.ravelry.com/patterns/library/latvian-dreaming>`__.
+
+Coming up below the fold: a description of what's going on at the
+beginning of the sweater (sizing, yarn choice, casting on) for those of
+you who want to get started right away... Tallk of options like hemmed
+edges and cardigans come later, particularly if there's interest.
+
+I'm designing this sweater to knit at about 9.5 stitches per inch. I'm
+small, so this probably works to your benefit. You can use a heavier
+yarn and a larger gauge and we'll both be able to use the same
+numbers/proportions because of this. The key number of stitches is
+\ **340**\  **344**, that's the number of stitches around the body.
+Divide this number by your gauge to get the size of your garment, and
+adjust your gauge as need be. If this puts you at a gauge that you're
+uncomfortable with, I'm including the excel file that I used to design
+this with the chart, and that should help you out if you need to add or
+subtract some stitches. If you ask, and I have time, I'll probably be
+willing to help you resize the charts a bit.
+
+That brings us to yarn choice. You probably have yarn in your stash
+that's suitable for this kind of project. Those ball of Kauni yarn that
+you thought was a good idea? That little stash of black and grey
+shetland yarn? Something like that. We're going for fingering weight,
+likely, unless you need something thicker either for temperature or for
+size reasons. I'm partial to shetland yarn, as it's sturdy, steeks well
+(they're coming, don't worry) and never really pill. Good qualities in a
+yarn. I'm however, using a weaving yarn, `"Domy Heather" from Old Mill
+Yarns <http://www.oldmillyarn.com/orderdavidson.htm>`__, which accounts
+at least partially for the gauge. I've chosen "Lava" (black) and Slate
+(Dark Gray Blue). I'm using a 3mm needle. You'll need two yarns that
+contrast. I prefer to do stranded work in only two colors, as it accents
+the vertical lines and makes the design more apparent. You might not
+like these features and feel more comfortable introducing more colors.
+Which is totally fine with me, just don't ask me for advice on this one.
+
+When in doubt go with natural and heathered colors. I included some more
+information about the yarn choices
+`here <http://tychoish.com/rhizome/sweater-project-clarifications/>`__.
+
+So the instructions, proper:
+
+Cast on 320 stitches using the darker color. Preferably using the
+Elastic Long tail or german twisted method of casting on. You could use
+a smaller needle for the ribbing, my smaller needle was busy in another
+project, so I didn't.
+
+Knit at least 2 inches, but not more than 3 inches of two color
+"corrugated ribbing." Knit 2 stitches with the (lighter) contrasting
+color, Purl 2 stitches with the (darker; the one you cast on with) main
+color. Repeat. Endlessly.
+
+If you want to get into the pattern immediately, cast on provisionally
+in the darker color, and begin knitting from the chart. You could even
+cast on 344 stitches "for real" and use Meg Swansen's "Purl When you
+can/want to" method covered in her books.
+
+I'll be back in a few days with what happens next. When I get there.
+
+I look forward to knitting this with you.
+

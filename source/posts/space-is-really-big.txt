@@ -1,0 +1,82 @@
+===================
+Space is Really Big
+===================
+
+.. post:: 2009-10-08
+   :author: tychoish
+   :tags: science-fiction
+
+My first year seminar in college was all about Colonizing Mars, and it
+was built around the Mars Trilogy (which I've been writing about rather
+a lot these past few weeks, but I must admit that my first encounter
+here was not as fruitful.) Even though I spent most (all?) of my college
+years *away* from the science fiction world (long story, sorry BSFFA),
+the whole idea of space travel and colonization has been a fascinating
+problem.
+
+`And not just the recent hubbub about one way journeys to Mars, which I
+think Karl Schroeder does I fine job of
+dispelling <http://www.kschroeder.com/weblog/archive/2009/09/21/6-kg-to-orbit>`__,
+though I think there's a much more thorny problem around population
+pressures and the cost of emigration that deserves some attention than
+the common discussion about space settlement has really been able to
+spawn so far.
+
+--------------
+
+Space is really big. Right? Like huge. The colonization of space if it
+is to be successful--in its own right, building settlements takes the
+efforts of a lot of people--is really about moving *millions* upon
+*millions* of people to Mars or the Moon not to mention other
+possibilities like constructed outposts and longer range colony ships.
+And that's an incredibly huge proposition. Of course, the there would be
+some sort of pioneering group, but you'd need to be able to commit to
+being able to send a great deal of people *out there* in pretty short
+order. Think a million people a year for ten or twenty years? That's
+2,700 people a day and some change. If you wanted to ship a billion
+people off world over ten years, you'd need to lift almost 274,000
+people *a day*.
+
+Which isn't anywhere near feasible, with transportation costs, equipment
+costs, let alone the logistics costs of getting a quarter of a million
+people to do *anything* in a concerted fashion every day for ten years.
+But the truth is to make a settlement viable *out there* you need a lot
+of people, perhaps I think more than can be easily transported from
+Earth.
+
+Space is huge, though. Even our little corner of space is huge. Mars,
+because it doesn't have oceans, has as much landmass as Earth. That's a
+lot of room, and while I'm certainly not saying "we have to work to fill
+up the rest of the solar system as fast as possible," I think there are
+likely critical mass and critical densities of people that would be
+required to make the settlement of space viable.
+
+On top of Schroeder's simple point about the role of launch costs (using
+current/Apollo-era technology), there is a whole other issue of "what to
+do when we get there," (and how we're going to sport that, whatever it
+is) are equally important considerations.
+
+I guess my point, insofar as I have one, is that while we might start to
+feel a bit crowded on earth in the next hundred years--which may or may
+not be real--using off planet settlements as a "population shunt" is
+difficult. (Anyone else have a good way to get 20k people a day off
+world. Or more? Way more?) It would be hard to move people off world
+fast enough to make a dent in the population here, and also hard to move
+people off world fast enough and in great enough quantities to
+sufficiently populate those settlements.
+
+--------------
+
+One of the things I adore about Samuel Delany's *Stars in my Pocket Like
+Grains of Sand* is the huge scope of the universe, and that it's huge
+not just in the traditional conception of "space is big," where we put a
+lot of thought into "Stars are really far apart," but also in the
+"Planets hold a *lot* of people." There's a segment, which is otherwise
+not particularly notable, where the narrator talks about the population
+of the settled universe, and he is--to our eyes--incredibly out of touch
+with the actual number of people in his "world" (universe,) and I think
+the figure the narrator gives is unspecific to the tens of billions of
+people. Which is sort of boggling.
+
+And I think I'll leave you on that note. Food for thought! Cheers!
+

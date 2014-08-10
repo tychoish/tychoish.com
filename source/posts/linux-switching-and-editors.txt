@@ -1,0 +1,96 @@
+============================
+Linux Switching and Editors 
+============================
+
+.. post:: 2008-09-26
+   :author: tychoish
+
+Ok, I have two things to ask/pose/announce, which only seems fitting
+after writing something about how `blog posts should be more singularly
+focused <http://tychoish.com/rhizome/blogging-about-ideas/>`__. Figures.
+
+**Part One: Switching to Linux**
+
+So, I've mentioned "the great linux switching of 2008" a few times, but
+never really explained it. Here's a proper exploration:
+
+I'm finally begining to feel the pinch of not having a desktop computer.
+Don't get me wrong, I really love my laptop, and will likely still use
+it a *lot*. My issue, is that I want more screen space than I'm really
+willing to pay for in a laptop (and a better keyboard), and I want to be
+able to dig a little deeper into the open source world for various
+reasons. And I've realized that the cost of building a multi-screen
+desktop isn't going to be particularly prohibitive. So it seems like the
+right thing to do.
+
+I started out the linux journey running ubuntu (hardy) and it was ok,
+but not great. Then I spent most of the week plaiyng around with `gentoo
+linux <http://www.gentoo.org/>`__ and toying with the idea of other
+distrobutions like `ArchLinux <http://www.archlinux.org/>`__, say. And
+the end result was that while ubuntu was frustrating from time to time,
+it would work. I mean really work. So having learned my lesson--which I
+think is the most valuable product important re: the linux community of
+this process--I'm back to using ubuntu, and it's working better than
+ever.
+
+**Part Two: Editor Dependence**
+
+As part of the "Great Linux Switch of '08," [1]_ I've been spending a
+lot of time working in a `virtual machine
+instalation <http://tychoish.com/rhizome/vms-for-all/>`__ of linux
+(first ubuntu, now gentoo) to practice the setup and get a slate of
+configuration files all ready for the machine when I finally order the
+real hardware. Going into this, I knew that the hardest part of the
+transition to linux was going to be the text editor part. Which wasn't
+insignifigant given that, I write a lot of text and I'm a devotee of the
+OS X only "`TextMate <http://macromates.com/>`__."
+
+In my linux useage I've been using vim a lot, and I've written about my
+vim trials for some time here, in various ways. Including, my comment to
+`twitter <http://www.twitter.com/tychoish/>`__ that "vim isn't something
+that people ever learn, as much as give up on." Having said that, I
+think I've got mostly got a hang of it it. I need to get highlighting
+for `Markdown <http://daringfireball.net/projects/markdown/>`__ and a
+few other things nailed out. And there are a lot of things that I don't
+quite know how to do, but I'm getting there. The other thing that I've
+recognized myself doing is using more than one editor, or at least
+multiple variants of .
+
+I mean, we use plain text files because they're standard and just about
+every editor can read them. Isn't it ironic then, that I/we grow so
+dependent on specific programs? Despite irony, it's true for pretty good
+reasons. [2]_ In anycase, for a lot of drafting and blogging writing,
+I've been using `cream <http://cream.sourceforge.net/>`__, a modern
+interface/configuration of vim that basically acts like you'd expect an
+editor written in the last twenty-thirty years to act. [3]_ And I've
+even been using standard gui-vim (gvim) for some things, and it's not
+all bad.
+
+Having reported this, I can't decide if:
+
+1. I haven't found the linux editing enviroment nirvana.
+2. I'm maturing in my geekyness/editor use and am become more in touch
+with/accepting of mostly standard configurations.
+
+What do you all use/like? Thoughts
+
+.. [1]
+Possible Tagline: *More interesting than the election, and
+potentially less disheartening.*
+
+.. [2]
+comofort with enviroment leads to more efficency/pleasure.
+
+.. [3]
+Vim is decended relatively directly from vi which was written in the
+late sixties, as one of the first (vi)sual editors. The basic idea is
+that the editing experience is modal. In "normal mode" you move the
+cursor around your documents, copy ("yank") and paste ("put") text,
+delete text, and issue commands to the editor (save, etc). In "insert
+mode" when you type the characters are entered into your document
+(which would be "normal" for the rest of us, right?) Anyway, this
+lets you make the most of your keyboard, and saves your pinkies from
+over use on the control/meta keys and directional/arrow keys, and the
+end result is an editor that's very powerful and very useful, once
+you give up and submit to thinking in *it's* way
+

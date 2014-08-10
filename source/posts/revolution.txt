@@ -1,0 +1,97 @@
+===========
+R/evolution
+===========
+
+.. post:: 2008-01-18
+   :author: tychoish
+
+I'm sure I've ranted about this r/evolution debate in the past, but
+`this
+post <http://www.boingboing.net/2008/01/15/bruce-sterlings-kios.html>`__
+about Bruce Sterling's new novella in F&SF fired up my feelings on the
+subject, so here it goes.
+
+First off, let me establish that I'm going to use the term evolution
+in an explicitly non-technical sense. I'm often annoyed that any
+sort of gradual change or adapatation is refered to as "evolution,"
+when in a technical sense, this isn't even a good analogy to what's
+happening. But that's a different rant, for now I'm going submit to
+the dominant lexicon.
+
+Secondly, I haven't read Sterling's novella, and this isn't a
+reaction as much to Sterling as it is to Cory Doctorow's gloss of
+the Novella. Just to be clear.
+
+From the blog post:
+
+"Sterling says of this story, "I've been in an eight-year struggle
+to write 'a kind of science fiction that could only be written in
+the 21st century.' With the possible exception of my forthcoming
+novel, this story is my best result from that effort." I think he's
+right -- about the story, anyway; I haven't seen the novel yet."
+
+This seems to be a false premise. At least to me. The 21st century is an
+arbitrary unit, and while I think we **do** live in a very different
+world today than we did eight or ten years ago, that is **always** the
+case. Interestingly `boingboing <http://www.boingboing.net/>`__, gets a
+lot of milage out of looking back at forward looking bits of "culture"
+from the turn of the century, and the 20s-40s. These cultural artifacts
+seem as antiquated to us as "the kind of science fiction that could only
+be written in the 21st century," will surely look in the next dozen
+years.
+
+Which isn't to say it's the *wrong* thing to write, or *bad*, just that
+if you look at it the right way, "writing SF that could only be written
+in today's world," is exactly what **every** SF writer is (or should)
+always already (be) trying to write. And if you've been in eight year
+struggle to do this, maybe there some other issue that we should talk
+about. But then authors of cyberpunk are all about arguing that the
+present marks an revolutionary advancement from *whatever went before.*
+
+Doctorow goes on to say:
+
+"This is a genuinely 21st century piece of sf. It uses the slightly
+stilted, comic dialog form of great sf to unravel the social and
+technological implications of automated search, copying, governance
+and communications, with an enormous amount of compassion and heart.
+Sterling's way of thinking about technology has often struck me as
+kind of stern, but years of living in Serbia appear to have given
+him a bit of a melancholy Slavic outlook that creeps into the story
+in a hundred little ways that tell you how much affection he really
+has for our poor tired human race."
+
+I fear that this mode of writing utterly current SF is really based on
+some sort of ill gotten notion that if we write about the present we'll
+be seen as being "more real," than if we write about space ships and
+lasers. Which is all kinds of silly, and this sort of critical trend is
+dangerous, because it doesn't promote a diversity of opinion and
+approach. This is sort of a reenactment of the downfall of cyberpunk all
+over again. Or maybe more correctly given that it's being propagated--at
+least primarily--by Sterling and Gibson (and Doctorow, though he wasn't
+publishing during the "high cyberpunk period"), part of the protracted
+decent of that movement.
+
+Don't get me wrong, I rather enjoy the concept of cyberpunk, and some of
+the post-cyberpunk imaginations in much the way that I enjoy space
+opera: as a platform for story telling that isn't necessarily true to
+*what's going to happen,* but enjoyable and full of possibility
+nonetheless. At the same time I think the argument that cyberpunk is
+more real, and in touch with everyone's lived realities, because it is
+gritty, and dark, and current is absurd.
+
+And I think this goes back to the r/evolutionary argument: do we
+understand history as a slow progression, or a series of distinct
+epochs?
+
+The question is open of course, but I tend to believe that revolutions,
+of the intellectual/cultural/historical scope that cyberpunk seems to be
+responding to, don't really happen. Other kinds of revolution? Maybe,
+and if/when they do, they're never has temporally clear cut as *anyone*
+would like them to be.
+
+Sorry guys...
+
+tycho out.
+
+Onward and Upward!
+

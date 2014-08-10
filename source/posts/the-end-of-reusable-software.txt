@@ -1,0 +1,91 @@
+============================
+The End of Reusable Software
+============================
+
+.. post:: 2009-10-27
+   :author: tychoish
+   :tags: cyborg, open-source
+
+I wrote a `post for the Cyborg Institute several weeks ago about the
+idea of "Reusable
+Software" <http://www.cyborginstitute.com/blog/2009/08/reuseable-software/>`__,
+and I've thought for a while that it deserved a bit more attention. The
+first time around, I concentrated a lot about the idea of reusable
+software in the context of the kinds of computing that people like you
+and me do on a day to day basis. I was trying to think about the way we
+interact with computers and how this has changed in the last 30 years
+(or so) and how we might expect for this to change soon.
+
+Well that was the attempt at any rate. I'm not sure how close I got to
+that.
+
+More recently, I've been thinking about the plight of reusable software
+in the context of "bigger scale" information technology. I'd say this
+fits into my larger series of `technology
+futurism <http://tychoish.com/archive/technology/>`__ posts, except that
+this is very much a work of presentism. So be it.
+
+To back up for a moment I think we can summarize the argument against
+reusable software, which boils down to a couple of points:
+
+1. With widely reusable software, most of the people who use computers
+on a regular basis can pretty much avoid ever having to write
+software. While it's probably true most people end up doing a *very
+small amount of programming* without realizing it, gone are the days
+when using a computer meant that you had to know how to program it.
+While more people can slip into using computers than ever before, the
+argument is that people aren't as *good* at using computers because
+they don't know how they work as well.
+
+Arguably this trend is one of the `harbingers of the
+singularity <http://tychoish.com/rhizome/the-dark-singularity/>`__, but
+that's an aside.
+
+2. Widely reusable software is often *less good software* than the
+single-use, or single-purpose stuff. When software doesn't need to be
+reused, it only needs to do *the exact things you need it to do* well
+and can be optimized, tuned, and designed to fit into a single
+person's or organization's work-flow. When developers know that
+they're developing a reusable application, they have to take into
+account possible variances in the environments where it will be
+deployed, a host of possible supported and unsupported uses. They
+have to design a feature set for a normalized population, and the end
+result is simply lower quality software.
+
+So with the above rattling around in my head, I've been asking:
+
+-  Are web applications, which are deployed centrally and often only on
+one machine (or a small cluster of machines), the beginning of a
+return to single use applications? Particularly since the specific
+economic goals of the sponsoring organization/company is often quite
+tightly coupled with the code itself?
+
+-  One of the leading reasons that people give for avoiding open source
+release is embarrassment at the code base. While many would argue
+that this is avoidance of one sort or another, and it might be, I
+think it's probably also true more often than not. I'm interested in
+thinking about what the impact of the open source movement's focus on
+*source code* has had on the development of single use code versus
+multi use code in the larger scope.
+
+-  What do we see people doing with web application frameworks in terms
+of code reuse? For starters, the frameworks themselves are all about
+code reuse and bout providing some basic tools to prevent developers
+from recreating the wheel over and over again. But then, the
+applications are (within some basic limitations) wildly different
+from each other and highly un-reusable.
+
+Having said that, Rails/Django/Drupal sites suffer from poor performance
+in particularly high-volume situations for two reasons: Firstly, it's
+possible to strangle yourself in database queries in the attempt to do
+something that you'd never do if you had to write the queries yourself.
+Secondly the frameworks are optimized to save developers time, rather
+than run blindingly fast on very little memory.
+
+I suppose if I had the answers I wouldn't be writing this here blog, but
+I think the questions are more interesting anyways, and besides, I bet
+you all know what I think about this stuff. Do be in touch with your
+questions and answers.
+
+Onwards and Upwards!
+

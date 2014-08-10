@@ -1,0 +1,61 @@
+============================================
+Better Living Through Regular Expressions #3
+============================================
+
+.. post:: 2007-08-01
+   :author: tychoish
+
+**H:** Hey buddy
+
+**G** to himself: [^H], please [^H].
+
+[*AWKWARD SILENCE*\ ]
+
+**G:** Remember last week?
+
+**H:** what with the [[^\\n\\t][^\\W\\w]]
+`here <http://tychoish.com/rhizome/better-living-through-regexp-a-day-in-the-land-of-gh/>`__
+
+**G:** yeah
+
+**H:** what of it?
+
+**G:** well,
+
+\*\ **G** PAUSES
+
+**G:** try: .
+
+**H:** fucking a.
+
+**G:** and be done with it.
+
+**H:** sigh
+
+**G:** not quite
+
+**H:** damn
+
+**G:** I think the real question is why can't people actually learn to
+format a file in a logical way from the onset.
+
+**H:** Amen.
+
+[*PAUSE*\ ]
+
+**G:** So what do you do with all this amazing perl power?
+
+**H:** Not much, most of the time, actually.
+
+**G:** You're holding out on me.
+
+**H** *PAUSES AND THEN MOCK SURRENDERS*: Ok you're right, I deleted
+`X <http://www.x.org/>`__, and now the I rule my computer with an iron
+fist.
+
+**G:** Liar.
+
+**H:** Yeah, you're right.
+
+**G:** Damn it.
+

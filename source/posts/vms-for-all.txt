@@ -1,0 +1,63 @@
+===========
+VMs For All
+===========
+
+.. post:: 2008-09-19
+   :author: tychoish
+
+In my post/rant about IM clients, I mentioned that I was running a
+Ubuntu instalation in a VM instance on my MacBook. I am in fact, not
+crazy, and I'd even go so far as to recomend this experience for most
+other people. Here's why:
+
+First off, virtual machines let you save state in snapshots. So, as a
+general practice make a backup snapshot when you get your computer set
+up (which you save for safe keeping), and then again at regular
+intervals (every week, say), and then a third one just in case before
+you change any setting that might screw things up. That way, if things
+get really bad, you have a known good setup, something working that's no
+more than 7 days out of date, and protection against botching your
+system in an upgrade. This isn't as backing up your data, (which you
+should also do) but it's important to do anyway.
+
+The second great thing about virtual machines is that they let you
+sandbox the operating system. But you like your operating system sans
+sand? Me too. Conventually we run our operating systems "on the metal"
+and our operating system is in charge managing all the hardware
+interactions, but in virtualized instances the VM software does all this
+for you, and the "guest" operating system runs in an isolated
+enviroment. What this means is that you can move a virtual machine from
+one computer to another (mine's 6.3 gigabytes, I could put it on a flash
+stick!) without *any* problems. Also, if you have some sort of driver
+problem on your host operating system, the VM isn't subject to that, and
+you won't get intsability from crapy drivers (exactly). And if you're
+using the VM for testing and you manage to screw up something crucial
+the VM is the only thing that crashes.
+
+Not to mention that you can generally start, stop, and *pause* virtual
+machines at will, so say you're working on things in a virtualized
+linux, but need to run OS X system updates, you can puase your work in
+the VM update the system, restart and then unpause the VM and be right
+where you stoped.
+
+*Sweet!*
+
+VMs have become more popular/prevelent in the last several years as Macs
+have started running on the same x86/"intel" hardware that PCs have been
+running on for years. If Macintosh hardware is just pretty looking PCs
+with only one mouse button, it makes it easy (and tempting) to want to
+virtualize OSes on desktops, particularly as for people switching from
+Windows to OS X, who either need to use their existing software or who
+just want something familar near by. And the great news is that since
+virtualization has been used for years in servers, the programers are
+pretty good at writing the software.
+
+So it seems to me, that VMs might be *the way* that we all interact with
+our desktop computers in a few years. There are a lot of
+useability/backup benefits, not to mention the portability ability, and
+it could also improve operation, depending on who gets stuck with
+managing the metal/hardware. I think the possibilities are pretty
+endless.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

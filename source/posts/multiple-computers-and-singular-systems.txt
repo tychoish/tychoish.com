@@ -1,0 +1,58 @@
+=======================================
+Multiple Computers and Singular Systems
+=======================================
+
+.. post:: 2009-07-08
+   :author: tychoish
+   :tags: cyborg, arch-linux
+
+Here's another episode in my "work workstation" series of posts about
+setting up my new computer for work, and related thoughts on evolving
+computer setups. First, some history:
+
+My tendency and leading desire is to make my working environment as
+consistent as possible. For a long time I was a one-laptop, kind of guy.
+I had a PowerBook, it did everything just the way I wanted it to, and
+when ever I needed to do something digitally, I had *my* computer with
+me, and I didn't have to worry about other people's computers being
+configured *wrong*. It meant that I worked better/smarter/more
+effectively, and I was happy.
+
+When the PowerBook died, particularly as "my work" became intertwined
+with my computer, it became clear that I needed a bit more: a computer I
+could stretch out on, both in terms of things like media
+(music/video/etc) and in terms of screen space. Concurrently, I also
+discovered/became addicted to the `Awesome window
+manager <http://awesome.naquadah.org/>`__, and this has been a *great
+thing* for how I use computers, but the end result of this transition
+was that I had to manage (and needed to use) a couple of machines on a
+fairly regular basis.
+
+Basically I have a set of applications and tools that all of my systems
+have installed on them, either their configurations are all standard or
+I store a copy of the configuration file in a git repository that I link
+all of the machines to. My work is all stored in git repositories that I
+sync between machines as needed. It works pretty well, and it means that
+aside from hardware constraints its not so much that I have multiple
+machines, as it is that I have different instances of the same machine.
+
+Next: the implications...
+
+I think above all, I'm a Unix guy. UNIX is a modular system that I would
+describe as being based on a certain kind of modularity, I've also
+worked out practices for myself that allow me to keep my application
+configurations synced between machines. Most of the time configurations
+don't change, but sometimes they do, and when that happens `all I have
+to do is sync up a git
+repository <http://www.tychoish.com/2009/06/on-git-in-two-parts>`__.
+
+The second implication is that I set up and work with my systems with
+some notion of stability. While I must confess that I'm not entirely
+pleased with the way ubuntu has my system desktop and laptop running, it
+is stable and reliable, and I'm wary of changing things around for a
+setup that would be functionally more or less the same, but a bit more
+parsimonious on the back end. I maybe be a huge geek and a hacker type,
+but I'm a writer and reader first, and although while I'm blathering on
+about my setup it might seem like all I do is tweak my systems, the
+writing and reading are really more "my thing."
+

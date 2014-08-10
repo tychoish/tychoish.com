@@ -1,0 +1,118 @@
+============
+SEO Nonsense
+============
+
+.. post:: 2008-09-29
+   :author: tychoish
+   :tags: publishing, new-media, internet
+
+I read the following phrase on my travels this past week: "we'll just
+have to wait till the SEO does it's thing." This is sort of a typical
+phrase that gets throw around on the "commercial internet," and it
+wasn't out of place. Indeed, I think all the readers of the article
+probably understood what the author was trying to convey. But it struck
+me as sort of odd. Here's why:
+
+It's a completely empty statement. SEO (Search Engine Optimization)
+refers to the collection of techniques that are used to "raise" a given
+web page's ranking in search results. Because there isn't a hell of a
+lot of competition in this market, basically this amounts to trying to
+"game" Google.
+
+Which... is sort of a loosing proposition. Google's algorithms (or the
+key components) are top secret, and what we do know about how google
+arranges searches is that the more pages *link to* a given page, the
+more favorably Google's algorithm's view that pages, this lets Google's
+search results reflect a sort of emergent semantic organization of the
+world wide web. This means that when we search google, more often than
+not, we're mostly searching the most interreferential pages on the
+internet.
+
+It's true that there are a lot of sites that don't have a lot of "juice"
+in Google, and that's really frustrating for people who create websites,
+but Google's domination of the internet-search marketplace is due
+largely to the quality of results that this reference-based system
+plays.
+
+And in light of this, I hope it's pretty obvious that SEO is mostly a
+crock of shit. You can't game Google, and more to the point you don't
+want to. Though I think the prevalence of SEO an interesting admission
+for the "commercial internet" that traditional advertising-based
+marketing models has utterly failed on the internet.
+
+To my mind the ideological parent of SEO was "search engine submission"
+services, which would purportedly "submit" your website to search
+engines so that people could find your site. For a fee, usually. Clearly
+this didn't work, because the return was so diffuse, and because no one
+really wants to use a search tool where the results are based on
+"submissions" which are paid for by the content producers. There's a
+reason why most of us use Google and not AltaVista, AskJeeves, Excite,
+Lycos, Infoseek, and so forth.
+
+Now having said that there are some things that you can do to encourage
+your site's ranking in google (ie. get people to link to you on their
+sites,) I'd call this "good writing," or "effective communication," or
+"best practices," not "SEO" but you know whatever works. Here's what I
+think *really works.*
+
+1. Be interesting, and have something to say. No one wants to read a
+website that's boring. That's why my readership is so low ;) but if
+you can't make the attempt, no amount of good mojo is going to help
+your site.
+
+2. Post regularly. Really regularly. This resonates with `this
+idea <http://tychoish.com/rhizome/ira-glass-on-creativity/>`__, the
+way to get good at doing 1., and make sure that people keep reading
+your site (and linking to you) is to provide dynamic and fresh
+content.
+
+3. If you're a company, write not only about what you do and your
+clients, but also about what your clients are interested in. This
+might mean talking about and linking to your competitors, don't
+worry, rising tides raise all boats.
+
+4. Participate in real life conversations. Most people learn about new
+websites via word of mouth connections formed in unusual contexts.
+There's a reason why most of the leaders of the independent web
+(bloggers) are either: in New York City, San Francisco, or have been
+going to SXSWi since the beginning. (There's also a minority of L.A.
+based bloggers). Talk to people, talk about your work, and talk to
+the other people who are creating content.
+
+5. Write emails. This is the second stage of what starts in 4. Digital
+networking connections rest mostly on one-on-one email
+correspondences, and listserv conversations, despite all sorts of
+next wave technology like twitter, facebook, and linked in. Getting
+really good at writing quick, meaningful emails and staying on top of
+your correspondence is requisite.
+
+6. Top load your content and titles. This falls under the category of
+good practice, and it mirrors the way newspaper columns are
+structured. Give as much information away as soon as possible, put
+all the details at the end, and write in a style that's simple and
+designed to be easily and quickly read. There's a lot out on the
+internet, and the the less time you take to make a specific
+point/joke/insight, the better.
+
+7. Provide full RSS feeds, and don't put things behind "cut/fold" tags
+so that people have to click through to "read more." The former is
+good sense, and represents reaching out to other content producers
+(the people who read your site,) and the later is just good
+sense. [1]_ Other content producers are the people who have the real
+power over your search engine ranking, and making your content
+accessible is the first step in getting the content read.
+
+8. Use a site design which maximizes readability and visibility, so that
+people can--you know--\ *read* your content, rather than marvel at
+your superior design capabilities.
+
+Basically write a good site, network well, and don't waste your time on
+snake oil and chants. /end.
+
+.. [1]
+The exception to this rule is live journal, as many people read LJ
+via the "Friend's Page" which induces a slightly different community
+standard. In general though, it provides yet another obstacle between
+a reader who would might read your, and in general your design/style
+should work to be more inclusive.
+

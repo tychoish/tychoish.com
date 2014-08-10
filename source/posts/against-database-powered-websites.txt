@@ -1,0 +1,107 @@
+=========================
+Database Powered Websites
+=========================
+
+.. post:: 2009-04-09
+   :author: tychoish
+   :tags: technology
+
+For the last, call it 8 years, having a website, dynamically generated
+with most of the content pulled on (nearly) every reload from a
+database. MySQL or PostgreSQL, or some such. It's a great model, in a
+lot of ways, because it represents the (near) ultimate separation of
+content and display, it means that static pages don't have to be
+generated whenever you generate new content. Dynamic, database driven
+websites were going to the future, and I think history has proven this
+argument.
+
+At the same time, I think a further analysis is required.
+
+Just to be super clear the advantages of database driven websites are
+that:
+
+-  Pages don't have to be regenerated when content changes.
+
+-  Content is more customizable and can be pulled together in ad-hoc
+settings.
+
+I would argue however, that there are some fundamental weaknesses that
+this system of deploying websites promotes:
+
+1. Database driven websites increase the complexity of web-site software
+by a magnitude or two. I can *in my sleep* hack together a static
+website (most people can); working with database requires a much more
+specialized system that is harder for website owners to maintain.
+While separating content from display is often an effort to make
+systems easier to understand and change, in point of fact, databases
+make website maintenance a specialized task.
+
+2. Database driven websites have a lot of overhead. Because pages need
+to be regenerated regularly, they require beefy hardware to work
+correctly. On top of this database systems need to be cached in such
+a way, that they're not quite as dynamic as they once were.
+
+3. Databases are mostly server-based technologies, which means a lot of
+the dynamic client-side scripting (EMCAscript/JavaScript and
+AJAX/AHAH) that are all the rage these days (and what people most
+often mean when they say "dynamic") aren't nearly as dependent on
+databases as what's going on in that space.
+
+4. Given the very structured nature of databases, websites often need to
+develop their content structure with near prescience regarding what's
+going to happen in their site for the next five years. This is
+complicated, difficult, and often means that the same content-system
+needs to be redeveloped (often at great cost) far too often.
+
+In light of this I've been thinking, increasingly, that the future of
+websites will likely be powered by a much different kind of website
+software. Here are some observations about the future of the web:
+
+-  Structured data formats, and plain text files are the future. Stored
+in/with formats like yaml, we can (very easily) have flexible
+structures can adapt to the changing needs of a website owner.
+
+-  Some very large sites (eg. facebook, wikipedia) will likely always be
+powered by databases, because in situations where a single website
+has > 100,000 pieces of content databases begin to make sense.
+Remarkably, single websites so rarely have that much content.
+Particularly if engineered correctly.
+
+-  Most content on the web doesn't change very often. We regenerate
+pages thousands and thousands of times a day that would be unlikely
+to be update more than a dozen times a day.
+
+This is not to say that there aren't several challenges to the prospect
+of websites powered by static-site generators/compilers. They are:
+
+-  Some content will likely always be compiled using some very basic
+server-side includes, and dynamic content will continue to be
+generated using java script or something similar.
+
+-  Authentication and web-based security will likely also need to be
+built into webservers directly (the direction, I think things are
+going in anyway) and complicated access control (for intranets, say)
+may still require databases.
+
+-  Web-based interfaces for editing (ubiquitous, in page, "edit this"
+links). and commenting systems often need more dynamic functionality
+than other content. We need to both figure out a way to do
+commenting/annotation in a static-based system *and* find a way to do
+commenting in a more socially productive manner (existing locally
+hosted commenting systems, are I think fundamentally broken).
+
+-  Concurrent Editing. Wiki engines address this to some degree, and I
+think we need additional productive ways of addressing this in a
+truly user friendly manner, that doesn't rely on over powered
+databases for what is probably an edge case.
+
+--------------
+
+Thoughts? I'm not describing technology that doesn't exist, but I am
+suggesting that the current "way of doing things," isn't the future of
+how we will "do content on the web." The tools are out there, all that's
+missing is a simple, user friendly, method for pulling all this content
+together.
+
+I'm really interested in seeing what people are coming up with.
+

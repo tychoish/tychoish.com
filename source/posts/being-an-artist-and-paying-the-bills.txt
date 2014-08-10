@@ -1,0 +1,128 @@
+====================================
+Being an Artist and Paying the Bills
+====================================
+
+.. post:: 2007-08-30
+   :author: tychoish
+
+I'm at this place where I'm looking for a new job, and also taking
+advantage of an upheaval of my plans to reflect and think as I collect
+myself in attempt to move forward. Continuing a trend that I started at
+the beginning of this year, I'm writing more. You've all noticed that
+I'm writing more for TealArt, but at the same time my writing load for
+school was much higher than it had been in the past, and since the
+summer started, I've also been writing fiction again, and I've taught a
+couple of knitting classes for which I've written what amounts to a book
+chapter on the topic at hand.
+
+I've also been paying attention to, and thinking a bit about copyright
+and what it means to be a creator in the digital realm. I think I have a
+particularly interesting perspective on this, as both a knitter, and
+thus someone whose products are very material, and a writer whose work
+exists--at the moment--as exclusively digital artifacts, but I suspect
+that the worth of these ideas are for you to decide.
+
+Seeing no better place to begin, lets start in the middle: Over the past
+few weeks I've been tossing around the idea of putting together an
+anthology of science fiction with a group of friends whose writing I
+quite enjoy. I enjoy editing and typesetting, oddly enough, and I think
+that there should be opportunities and avenues for new writers of
+science fiction to publish their work. Also, with the advent of really
+good print-on-demand options like `Lulu <http://www.lulu.com/>`__, I
+figured that it would be easy enough to make a financially viable
+publication, that would hopefully be able to seed a volume two.
+
+In short: this would be difficult at best. In order to keep the price of
+reasonable (12-15 bucks), the take from the publication is under 2
+dollars, and I think more or less, that's what the authors take for a
+book sale is no matter how they publish it. (The advantage is that if
+you go with a bigger named press, they can sell more, which gives you
+more 2 dollar bits.) [1]_ Book length works do a little bit better,
+mostly because you don't have to divide the take, and some publishers
+can get away with selling books for prices that are frankly absurd.
+
+The larger problem for people who write, is that "selling" pieces of
+writing to a consumer, a "reader," can never generate enough income to
+sustain even the sparest of lifestyles. Same, likely with knitting. You
+can't sell knitting for enough money to make it worthwhile (who'd buy a
+1,200 dollar sweater, which frankly would probably still be a steal.) So
+writers, knitters, and other creative types: come up with other ways to
+generate income: master knitters teach classes, design and dye yarn,
+operate yarn businesses, design patterns [2]_, and so forth. Writers (by
+this I mean, fiction writers and essayists) either make money from
+bigger book deals, speaking engagements, and book tours if they're "big"
+enough, or get day jobs of various kinds, if they're not.
+
+Thus it strikes me that the problem we need to be addressing, is not,
+how do we turn the two dollar take you get from writing a book about
+knitting, to 3 dollars or 4 dollars, or even 10 dollars (though that
+would certainly help), but rather how to expand the "byproduct" income
+from teaching and speaking, and even how to create new sorts of such
+"auxiliary income." There isn't one kind of monolithic "auxiliary," for
+a given kind of creative pursuit, but I if we think about it enough, I'm
+sure we can think about the many ways that creative types are able earn
+livings while still working on their creative projects.
+
+I think the larger goal is to have the auxiliary gig be something that
+feeds the other, more important pursuit while still leaving enough time
+and energy to do serious work in what you really want to be doing.
+Consider academics, particularly say, academic physicians, whose real
+work is research (and writing for the humanities folks and writing), but
+whose money comes from seeing patients or teaching classes. Consider
+Knitting luminaries like `Alice
+Starmore <http://www.virtualyarns.com/>`__, `Sharon Miller of Heirloom
+Lace <http://www.heirloom-knitting.co.uk/>`__ who sustain their work by
+selling yarn and kits for their design. Similar I have to speculate that
+`schoolhouse press <http://www.schoolhousepress.com/>`__ makes its
+money, not on their excellent catalogue of books and patterns [3]_, but
+rather through their knitting-camp, and selling yarn. Let us also not
+forget that bands have always made more money from touring, rather than
+selling recordings. [4]_
+
+This theory, of using something like a design as a way to sell an
+auxiliary, I think is really pretty strong: if you tried have your take
+from things like patterns, or a podcast, or a blog (etc.) be "enough,"
+no one go for it because it would be absurd (cite: 1200-1400+ USD
+sweater), but if it's sort of complex advertising, and you're willing to
+take a cut on profit so that *more people* see the book/story/pattern it
+probably works out. There is of course Tim O'Riley (a
+technology/computer book publisher,) whose oft quoted for saying
+"obscurity, not privacy" is the biggest problem facing writers today.
+
+Now I've used the term "advertising" loosely, because I don't think that
+you need to be terribly proactive about it, in order for it to work,
+writing a good story with a tag that says "tycho also gives workshops on
+productivity and hypertext creation, and his most recent book is
+\_\_\_\_\_\_" is probably enough. The key is to be right on top of
+whatever the best next auxiliary is.
+
+And before anyone goes of and says "it's a shame that there isn't a
+middle list, or that it's a shame designers aren't paid more, etc.
+etc.," I have to suspect that this is more or less how it's always
+worked. That's all, thoughts anyone?
+
+Cheers, tycho
+
+.. [1]
+On the side note this is why pay rates for short fiction are so low
+to virtually non existent: splitting 2 dollars between half a dozen
+people is virtually impossible.
+
+.. [2]
+Pattern design is becoming a less and less viable option: designer
+fees from the major magazines haven't gone up in years, I hear, there
+are fewer options now (in the 80's, women's magazines would publish
+knitting and craft patterns, and free patterns on the internet are
+serious and legitimate competition), which makes it all the more
+difficult to make a living doing it.
+
+.. [3]
+In a move that anticipates a lot of the work that pod-casters and
+bloggers do, using new media solutions as a way to get readers to buy
+other things that actually generate income, Meg sell their quarterly
+patterns and reprints at the rough production cost.
+
+.. [4]
+This is why the RIAA and MPAA's flogged and deceased equine of
+"piracy" as hurting the artists is so foolish.
+

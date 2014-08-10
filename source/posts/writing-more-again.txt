@@ -1,0 +1,92 @@
+==================
+Writing More Again
+==================
+
+.. post:: 2014-05-18
+   :author: tychoish
+
+I haven't really written very much in the past six months or more, and
+while I think I've done cool things and learned about cool things,
+
+Let me take that back. I haven't written anything in a sustained sort of
+way that *wasn't* for work. Hell, even what I've been doing for work has
+been smaller and more tactical. Unfortunately you don't write books, or
+book-like-objects as small tactical approaches.
+
+So I've been trying to figure out how to get back to that. It's about
+rhythm more than anything. If you approach time management for log-form
+rationally, there's never enough time, so you have to make time, and
+trick yourself into writing and figure out how to make a little progress
+on a regular
+
+As someone who definitely tends towards binge writing (and who doesn't)
+remembering to write a little bit on a regular basis is hard and nearly
+counter intuitive. So as I've been attempting to restart the writing
+habit, I've been thinking about what I've done in the past that's worked
+to keep up the momentum and work on projects. I've uncovered:
+
+Reading
+-------
+
+Even more important, I think, than reestablishing a habig of writing
+regularly, is restablishing the practice of reading regularly. I often
+get hung up on the fact that I don't think I'm a very fast or very
+through reader. But reading is quite inspiring, and I often find that
+the more I read, the more I want to write.
+
+So I've been reading the Vorkosigan novels, and it's been great.
+
+Tracking Word Counts
+--------------------
+
+I like having some record of my progress, and I've taken different
+approaches to tracking progress, mostly using word counts, over time.
+
+When you're writing longer pieces, particularly in editors that don't
+reflect word counts or page numbers in the interface, it's easy to loose
+context for how much progress you're making.
+
+Way back when, I used to record the current page and word count for all
+of my projects in a note boot, and this developed into a rather
+incurable tick to mash a few keys down every few sentences to check the
+word count. Then, three years ago, I wrote a script to check the word
+count of all my projects on a regular interval.
+
+I stopped really using it about a year ago, because the script handled
+different branches (in git) of the same project *really poorly*, and
+there wasn't a good way to hack that in.
+
+So I recently rewrote this program, and I rather like it. I'll post more
+about it soon.
+
+Physical Activity and Care
+--------------------------
+
+To *do writing* one definitely needs to spend a serious amount of time
+in front of a computer typing. Unless you *really* like notebooks and
+pens, there's no other way to get things written.
+
+But you can't take this to the extreme: if *all* you do is sit in front
+of your computer and stare at cursor waiting for inspiration to strike.
+As people we need different kinds of focus, and different kinds of
+experiences, on the small scale, to keep the generative impulses
+functional. [1]_
+
+Reading voraciously, as above, is a key part of being able to write
+effectively, but other kinds of activity are also useful. When I'm not
+writing, my first instinct is to try and find more time to write, but
+sometimes--often--what I need more is more time for things that aren't
+writing: exercise, reading, and so forth.
+
+I've started to do yoga, as I've written before, a few times a week. I
+need to also remember to set aside time for other non-writing
+activities: more exercise, walks, dinners with friends, dates with my
+email backlog, etc.
+
+Onward and Upward!
+
+.. [1]
+I like the idea of *generative impulses* rather than *creative
+muscles*. Writing isn't always creative, but it is, like any other
+kind of production, work, and always requires energy and effort.
+

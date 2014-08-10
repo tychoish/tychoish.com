@@ -1,0 +1,66 @@
+=============
+Long Threads 
+=============
+
+.. post:: 2008-11-05
+   :author: tychoish
+
+Have you ever noticed how email exchanges where it's just you writing
+back with a friend or two always seems to peter out after about 3
+volleys? And how online discussions seem to go on *and on*? And how a
+lot of virtual communities--particularly the really active ones--are
+full of drivel?
+
+Yeah, me too. I don't have a particularly good answer for it either. I
+think the sociological/psychological reasons are pretty straight
+forward: the conversations linger because the medium is time-shifted,
+each party of the conversation has to contribute less resources to
+keeping the discussion going. This is why flame wars are/were such a big
+issue on listservs and usenet, or at least part of the reason.
+
+This isn't to say that flame wars aren't still an issue on the internet,
+or that usenet/listservs aren't still important, but I think a lot of
+the discussions that happen on the interent happen elsewhere these days.
+Usenet and group email, are still prevalent, but I think the inhabitants
+of both tend to be hacker types or old timers (and more likely both),
+and these are two groups who are on the whole pretty adept at how these
+kinds of communications work.
+
+In the last five to ten years communications on the interent have really
+changed. We've gone from very structured mediums that come with built in
+threading, topically segregated conversation, with some semblance of
+`push functionality <http://tychoish.com/rhizome/the-big-push/>`__ and
+even web-based discussion forums, to unstructured and chaotic mediums
+like blogs, blog comments, and wikis.
+
+While I *am* a bit nostalgic, the truth is that these changes have
+enhanced the ways that we can collaborate and really democratized the
+internet, and this is unequivocally a good thing. At the same time, as I
+visit really active conversations in threads or prolific
+`ravelry <http://www.ravelry.com>`__, my brain hurts. There's too much
+to follow, too much noise not enough signal, and the strict
+chronological display changes the way that people read and respond
+non-productively (and probably is the root of most of my complaints).
+
+There have been a number of "hacks" that various communities have
+deployed to help keep conversations together. Threading blog comments,
+or including comment numbers makes the comments on a given post easier
+to read help, but they don't change the fact that conversations on the
+new internet are really *hard* to organize and orchestrate, and after a
+certain point, enter.
+
+I don't want to be a hipster and say "no one has genuine conversations
+on the internet anymore," but I think its really clear that the kinds of
+conversations that happen online (these days) are *very* constrained by
+the kinds of technology that are used to convey those conversations both
+in terms of how conversations develop, but also in terms of who can and
+does participate in those conversations. While this is in and of itself
+not a particularly striking revelation, I think it's also clear that
+we--as citizens of the internet--cannot just say "it's the internet
+anyone can access it," and let it go at that.
+
+Sorry if this is a bit disjointed, hopefully I'll figure more things out
+in a bit.
+
+Onward and Upward!
+

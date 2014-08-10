@@ -1,0 +1,59 @@
+==============
+New Technology
+==============
+
+.. post:: 2010-12-21
+   :author: tychoish
+   :tags: cyborg
+
+I was originally going to write this post as a "reasons I don't need a
+new computer," piece explaining my current setup (one laptop, a virtual
+server, and a lot of bailing wire) and explaining that despite some
+problems (a lack of local redundancy and small screen size) a new
+computer wasn't exactly warranted. Though I wanted one, particularly
+after seeing the new MacBook Air, and I've long thought about getting a
+15 inch laptop as I still lament my last 15 inch machine. Since I didn't
+*really* need a new machine and there wasn't a convincing reason to do
+an upgrade, I was going to write about good reasons to avoid upgrading
+*just 'cause*.
+
+Clearly I failed.
+
+Particularly, since I'm writing this post from a new laptop.
+
+A few weeks ago I saw a very good deal on a current-model 15" Lenovo
+ThinkPad (T510) with all of the specifications that I wanted: the larger
+resolution screen, integrated Intel graphics and wireless, a bunch of
+RAM (4g) and a 7200rpm drive. It even has a Core i7 processor (quad
+proc), which was a pleasant bonus, and so I went for it.
+
+I'm quite happy with it. Besides a great deal and in many ways an ideal
+machine, I decided that being dependent on one (and only one!) system
+for all work and non-work computing was probably a bad idea.
+Additionally, I've wanted to reorganize the way my laptops' hard drive
+partitions in a way that requires at least a short period of down time,
+and a process that I didn't want to attempt without some sort of back
+up.
+
+It took me a few days to get everything sorted out on the new machine,
+as it usually does, and there are some cool new things that I can do
+that I have yet to get ironed out, mostly around figuring out some
+virtualization technology to do *awesome* things with this system. But
+for the day to day stuff, it's perfect and works just as I like.
+
+This is the first time in several years where I've regularly used two
+systems for day-to-day work, and it's the kind of thing that I've tended
+to avoid as much as possible. It's just a hassle to switch between
+systems in terms of getting everything synchronized. I've got a pretty
+clever setup sketched out that I hope to be able to share with you all
+shortly.
+
+In the end, this might not have been an absolutely essential purchase,
+but I think it was wise (in terms of the redundancy,) it makes some
+interesting things possible (virtualization, more processor intensive
+tasks,) and for the kinds of things I do, the extra screen space is
+*very* appreciated.
+
+I'm sure I'll write here from time to time about these things, but for
+the moment: Onward and Upward!
+

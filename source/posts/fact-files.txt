@@ -1,0 +1,86 @@
+==========
+fact files
+==========
+
+.. post:: 2009-09-10
+   :author: tychoish
+   :tags: cyborg, information-management, emacs
+
+I `wrote a while back about wanting to develop a "fact file" or some way
+of creating a database of notes and
+clippings <http://tychoish.com/rhizome/fact-file-and-orbital-mechanics/>`__
+that wouldn't (need to be) project specific research, but that I would
+none the less like the keep track of. Part of the notion was that I felt
+like I was gathering lots of information and reading lots of stuff, that
+I didn't really have any good way of retaining this information beyond
+whatever I could recall based on what I just happen to remember.
+
+I should note that this post is very
+`org-mode <http://www.orgmode.org>`__ focused, and I've not subtitled
+very much. You've been warned.
+
+Ultimately I developed an
+`org-remember <http://orgmode.org/manual/Remember-templates.html>`__
+template, and I documented that in the post linked to above.
+
+Since then, however, I've changed things a bit, and I wanted to publish
+that updated template.
+
+::
+
+(setq org-remember-templates'(
+("annotations" ?a
+"* %^{Title} %^g \n  :PROPERTIES:\n  :date: %^t\n  :cite-key: %^{cite-key}\n  :link: %^{link}\n  :END:\n\n %?"
+"~/org/data.org" "Annotations and Notes")
+("web-clippings" ?w
+"* %^{Title} %^g \n  :PROPERTIES:\n  :date: %^t\n  :link: %^{link}\n  :END:\n\n %x %?"
+"~/org/data.org" "Web Clippings")
+("fact-file" ?f
+"* %^{Title} %^g \n  :PROPERTIES:\n  :date: %^t\n  :link: %^{link}\n  :END:\n\n %x %?"
+"~/org/data.org" "Fact File")
+))
+
+What this does, reflects something I noticed in the way I was using the
+original implementation. I noticed that I was collecting quotes from
+both a variety of Internet sources *and* published sources. Not
+everything had a cite-key (a key that tracks the information in my
+bibtex database,) and I found that I also wanted to save copies of blog
+posts and other snippets that I found useful and interesting, but that
+still didn't seem to qualify as a "fact file entry."
+
+So now there are three templates:
+
+-  First, annotations of published work, all cross referenced against
+cite-keys in the bibtex database.
+
+-  Second, web clippings, this is where I put blog posts, and other
+articles which I think will be interesting to revisit and important
+to archive independently for offline/later reading. Often if I
+respond to a blogpost on this blog, the chances are that post has
+made it into this section of the file.
+
+-  Third, miscellaneous facts, these are just quotes, in general.
+Interesting facts that I pull from wikipedia/wherever, but nothing
+teleological, particularly. It's good to have a place to collect
+unstructured information, and I've found the collection of
+information in this section of the file to be quite useful.
+
+General features:
+
+-  Whatever text I select (and therefore add to the X11 clipboard) is
+automatically inserted into the remember buffer (with the ``%?`` tag)
+
+-  I make copious use of tags and tag compleation which makes it easier
+to use the "sparse tree by tag" functionality in org-mode to just
+display heading which are tagged in a certain way.) So that I can see
+related content easily. Tags include both subject and project-related
+information for super-cool filtering.
+
+-  All "entires" exist on the second level of the file. I'm often
+sensative to using too much hierarchy, at the expense of clarity or
+ease of searching. This seems to be particularly the case in
+org-mode, given the power of sparse trees for filtering content.
+
+So that's what I'm doing. As always, alternate solutions feedback are
+more than welcome.
+

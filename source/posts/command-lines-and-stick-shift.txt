@@ -1,0 +1,24 @@
+=============================
+command lines and stick shift
+=============================
+
+.. post:: 2007-08-11
+   :author: tychoish
+
+once upon a time everyone knew how to drive manual transmissions,
+because thats all there was; just like once upon a time, everyone knew
+how to write code and use command line interfaces because thats all
+there was.
+
+Now we have
+`GUIs <http://en.wikipedia.org/wiki/Graphical_user_interface>`__ and
+automatic transmissions.
+
+Stick shifts can sometimes function as a sort of rudimentary security
+system: not as many people know how to drive them, less
+demand/competition, less expensive, and therefore less likely to be
+stolen.
+
+Might, command lines, eventually take a similar path, that they become
+less hackable because people are less likely to know how to use them?
+

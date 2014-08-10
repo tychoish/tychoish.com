@@ -1,0 +1,74 @@
+==============
+Screen Reading
+==============
+
+.. post:: 2008-06-12
+   :author: tychoish
+
+Every time--it seems--that someone suggests or comments on the future of
+the digital text (ebooks), someone always says one of the two following
+things:
+
+1. People don't like to read words off of screens, the
+quality/experience is bad and in truth people would prefer to read
+words off of paper.
+
+2. The codex is--by design and use--an important carrier of information
+that can't be replaced by digital technology.
+
+Despite the apparent similarity, I think one of these things (and only
+one) is true: the second. Lets explore.
+
+For starters, if you really think about it, we all read hundreds of
+thousands of words off of screens every year (and in some cases, every
+month or every week). We don't mind reading off of screens, and
+particularly with
+`anti-aliasing <http://en.wikipedia.org/wiki/Anti-aliasing>`__ and flat
+screens, in many cases it's *easier* to read off of screens because
+readers have more control over the display of text, and yet people don't
+really read books off of screens.
+
+The standing argument as to why monographs and novels have never found
+success, is that there are two many distracting things you can be doing
+on the computer. *Why read a book when you can check your email for the
+20th time this hour?* This is, I think, why the codex is probably here
+to stay. And because giving books a physicality is commercially
+worthwhile, and because we respond to the form.
+
+Having said that, I read a book off of my laptop screen this past
+weekend, and I have to say that I rather enjoyed the experience. So here
+are some thoughts on the experience:
+
+The book came to me in PDF format, from a publisher. So the "pages"
+looked like conventional book pages. There were page numbers and so I
+was able to locate the text in space on a page, very much like I would a
+"regular book." This spatial experience is often forgotten in digital
+texts, and I think that layer of information helps our minds make sense
+of longer texts. Also, because I knew the page numbers of the individual
+pages, and the total number of pages in the document, I was able to
+calculate my progress, again, helpful in assimilating the data in the
+text file.
+
+I could read the words comfortably on the screen while viewing the
+entire page on the screen. Being able to see a snapshot of a page helps
+me in locating the text in space, which makes reading easier. More
+importantly, it allowed me to only scroll when I needed to change the
+page. This is really important to a successful reading experience, in my
+view.
+
+The final piece of the puzzle is probably approaching an ebook like you
+would any other text on a computer screen, rather than approaching an
+ebook like you would a pbook. I read paper books, for the most part, in
+bed at night. I read things on the computer sitting at my desk. I read
+the ebook, mostly sitting at my desk. I also tend to read pbooks in
+longer stretches, reading several thousand words at a time, where as I
+probably never read more than 1,000 words at a time on a screen without
+taking a break. You might have a very different method for reading, and
+that's fine, but by cycling a novel in with my regular
+livejournal-blog-email-twitter reading cycle I was able to read a novel
+in a weekend; whereas it almost always takes me several weeks (if I'm
+lucky) to finish a novel.
+
+The end result? I've started reading another ebook, because it seems
+worthwhile.
+

@@ -1,0 +1,85 @@
+===========
+On Scarcity
+===========
+
+.. post:: 2008-09-18
+   :author: tychoish
+
+Economics heretofore [1]_ has been based upon scarcity. I mean this is a
+pretty plain idea. We pay for computer hardware, because there's
+presumably more pieces of computer hardware than there are people who
+want it. And the `Apple
+Store <http://store.apple.com/>`__/`NewEgg <http://www.newegg.com/>`__
+takes our money because money isn't limitless. Supply and demand. Pretty
+basic.
+
+So this doesn't hold true on the internet, and of software in general.
+How come you ask? But you just paid thousands of dollars for the latest
+Adobe package? Lets take a little trip together, shall we?
+
+Unlike physical things--which are often scarce--or data stored on
+magnetic media (eg. VHS, Beta, 3/4" or Umatic, [2]_ Cassette)--which
+degrade over time and over generation successive copies--data on the
+internet doesn't cost anything to copy and transfer, and all copies are
+pristine.
+
+I mean it's true that internet connections cost something, but the costs
+are fixed, and generally not related to load. The cost to your ISP when
+you transfer 6 gb a month is just about the same as the cost if you
+transfer 12 gb. And storage costs something, its true, but it's
+incredibly remarkable the speed at which this is decreasing. So
+computing has some scarcity that's true, but the cost of computing is
+fixed relative to the amount of data you you consume/copy, assuming that
+your data collection never outgrows available storage. Which it might,
+in which case, there's some additional cost there, but only if you're
+archiving data.
+
+And yet the economy of the internet is dependent upon us paying, in some
+way, for data. iTunes is all about paying for data, the DRM imposes a
+false scarcity, shareware/demo software imposes scarcity, websites that
+distribute content on a subscription model (largely) impose false
+scarcity on the market.
+
+Which is fine, on some level. I mean on the larger level it sucks,
+because there are people who who give good money (and time, etc) for
+what amounts to elaborate fiction. But if we abstract things a bit,
+we're simply compensating artists for their time in exchange for music,
+or programers for their software. But if that's the case, aren't there
+better, more straightforward ways of doing this? Ways that don't
+commoditize non-commodities?
+
+The larger point is, I guess, if we're trying to make a living in a
+world that's halfway between a traditional and a post-scarcity economy,
+there pretty much *has* to be a better solution than to pretend that
+post-scarcity isn't "real." I mean, it certainly couldn't hurt. Here's
+one idea:
+
+Everyone, as part of their internet service pays some fixed quantity of
+money every month, and as they amble on through digital life, they give
+tips to various content producers, and at the end of the month, the ISP
+(or whoever) divides up the amount and distributes the money.
+
+On the one hand dividing everyone's 10-20 bucks a month, seems like it
+would add to not a lot very fast, but, the internet is pretty big, and
+there are a lot of people around so it'd add up. Also, if this could be
+implemented to effectively legalize bit torrent across the board and
+people stopped paying for cable TV hook ups in-favor or big internet
+pipes? That's a lot of money. And it would add up.
+
+There are lots of problems with implementation (How do you get the cable
+companies to let go? How do you process the money, how do you make the
+system interoperable? etc.) But it's different. It addresses the need,
+and it benefits creators and consumers, and it attempts to democratize
+the payment process while still rewarding quality content.
+
+Thoughts? Ideas? Go for it!
+
+Onward and `Upward <http://criticalfutures.com>`__!
+
+.. [1]
+I love distilling the entire history of the largest class of human
+interaction into two words.
+
+.. [2]
+Can you tell I once worked in a Film/Media Archive?
+

@@ -1,0 +1,49 @@
+=========================================================
+Better Living through Regexp: A day in the land of ^[GH]:
+=========================================================
+
+.. post:: 2007-07-25
+   :author: tychoish
+
+This is part two of the monster that was begun with
+`this <http://tychoish.com/rhizome/better-living-through-regular-expressions-a-dramatic-work/>`__.
+Enjoy!
+
+**G:** Why do you always talk so much... and say so little?
+
+**H:** Just delete [[:sup:`][`\ ]].
+
+**G:** That's stupid, it doesn't help much.
+
+**H:** But cleaning up those extra spaces is so satisfying.
+
+**G:** Why not [[:sup:`][`\ ]]?
+
+**H:** Picky picky.
+
+**G:** At least I have one for when you come in yelling.
+
+**H:** What?
+
+**G:** (?=^[A-Z]{2,})
+
+*H GROANS.*
+
+**G:** lets just move on to .
+
+**H:** We're there.
+
+**G:** No, we're [GH]
+
+*G PAUSES:* and this is ^[GH]:
+
+**H:** Shut up.
+
+*H PAUSES*: ...and I don't think you need to escape:'s.
+
+*G is silent for a moment: You're the one with the book.*
+
+**H:** you're no fun.
+
+**G:** And you can't find anything.
+

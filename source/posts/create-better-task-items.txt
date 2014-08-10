@@ -1,0 +1,46 @@
+========================
+Create Better Task Items
+========================
+
+.. post:: 2011-08-01
+   :author: tychoish
+   :tags: productivity, organization
+
+I was paging through a list of things that I made for myself during a
+call I was in a few weeks ago, and was utterly dismayed by how useless
+the items were on the list. I wasn't sure what needed to be done, I
+couldn't remember what things meant, and I was left with the sinking
+suspicion that I had forgotten something crucial. I write this, in part,
+as a lesson to my past self on how to write good task list items.
+
+Hopefully you'll find it useful.
+
+Task items must be actionable. You need to be able to read the subject
+or summary and know: what the project is, what kind of work it is, what
+needs to be done, and what very next thing you need to do is.
+
+Tasks cannot be open ended. It's really tempting to write tasks in the
+form of "work on a project" or "make progress on email backlog," but
+don't. How do you know if you've done the task? Is all progress the
+same? Is the actual work activity plainly obvious from an open ended
+task description?
+
+Tasks need to concise. I'm a big fan of including some sort of status
+information and some sort of instruction and context with your tasks,
+but you need to be able to look at a task list and triage what to do
+next without thinking very much and without spending more than a few
+seconds deciphering messages from your past self. Write good summaries.
+
+Try to organize your projects and tasks so that most of your task items
+are not dependent upon other items. Sometime dependencies are
+unavoidable, but I find if you're clever, you can chop things up into
+parallel tasks that are easier to work on but that accomplish the same
+goal. In some cases, long strings of dependent tasks can be just as
+troublesome as large open tasks, because in the moment they amount to
+clutter.
+
+My post on [[filtering the todo list\|filtering-the-todo-list]] may be
+of related interest. Also your [[feedback\|discourse]] and suggestions
+from your own experience may be of interest to all of us! I look forward
+to hearing from you!
+

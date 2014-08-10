@@ -1,0 +1,79 @@
+==========================
+Thoughts on Tenure Systems
+==========================
+
+.. post:: 2007-09-12
+   :author: tychoish
+
+I was thinking about Olin College for some reason, which launched me
+into something of a `rathole <http://en.wikipedia.org/wiki/Ratholing>`__
+about tenure and academia.
+
+.. raw:: html
+
+<div style="text-align:center;">
+
+.. raw:: html
+
+</div>
+
+I have a buddy at Olin College, and I've heard some people rave about
+how awesome and hard-core revolutionary the program is. And I think it's
+pretty nifty that in the late 20th and early 21st century, new
+institutions of higher learning can start and (hopefully) succeed.
+Having said that, as I am wont, I was curious about how tenure was dealt
+with.
+
+Olin College is distinctive in several ways. First, it does not
+intend to establish traditional academic departments. Instead, the
+internal academic structure will involve several multidisciplinary
+clusters of faculty whose primary bond is the successful development
+of a cohort of engineering students. In addition, faculty employment
+relations will be based on renewable contracts rather than a
+traditional tenure system.
+
+Now we're talking about a faculty that I suspect (this is a guess) is
+*maybe* 40 people, and maybe growing a little. Also tangentially,
+"academic departments" are almost always about institutional
+administration. Now in a small setting you don't could probably cut out
+that mid-level administrator, and just have the dean and a couple of
+people in that office take care of those kinds of things, but I'm not
+sure that really cuts much out, but whatever.
+
+I have to say that I've had better experiences at institution where
+tenure is stronger, and the cries of, "but it isn't economically
+viable!" is distracting, and I have yet to be convinced. I'm also
+convinced that when faculty are more fulfilled and supported, students
+learn more (and better). Part of keeping faculty supported is tenure,
+not to mention, living wages and health insurance. But there's a
+difference between adjuncts that teach 5 intro-level classes a term and
+tenure/tenure-track professors that teach about three classes a term (or
+less), and have the opportunity to do research, and be active
+professionally.
+
+I remain convinced that Tenure remains useful, even in the contemporary
+world. I can think of no other renewable contract-faculty type system
+that might successfully encourage research. You can't have meaningful
+research/publication systems without it. Tenure allows for the ebb and
+flow that's typical of the general career, it grants freedom, and sets
+expectations that research be incorporated into faculty life. Renewable
+contract systems focus on teaching, because that's easy to talk and
+think about.
+
+Unfortunately, or fortunately, as long as tenure continues to exist,
+those jobs will be preferable to non-tenure jobs to many people, and
+thus continue to attract better faculty. At the very least, I think
+tenured faculties will be more acceptable. To make an analogy, new
+science fiction magazines that pay writers, "pro rates," tend to sell
+better, than ones that pay less than the 3 cents per word mark, because
+readers know that they're able to buy better stories from authors, and
+are able to perceive that difference.
+
+The idealistic (and flagrantly incorrect) free-market argument should
+suggest that non-tenured full time jobs should pay *more* than tenured
+jobs (trading the security of tenure, for an increase in salary) and
+frankly if that were the case, it might not seem like quite as bad of a
+deal, but not only do non-tenure jobs, tragically misunderstand the role
+and purpose of faculty, but they put faculty in a pretty precarious
+situation, it seems to me, and that's not good.
+

@@ -1,0 +1,118 @@
+===========
+Git Mail #3
+===========
+
+.. post:: 2008-10-13
+   :author: tychoish
+
+I posted `a while
+ago <http://tychoish.com/rhizome/rethinking-git-mail/>`__ about redoing
+my `assbackards <http://tychoish.com/2008/08/git-mail/>`__ email
+downloading system. I finally did it. And it works great (and runs a
+bunch faster). The main sacrifice is that I now have to store two copies
+of my email directory on my server, but disk space is cheap and git is
+really effective at saving disk space/transfer speed, so it's not a
+really big deal.
+
+It's also much more straightforward, and I'm going to post the two (2!)
+simple shell scripts that I'm using along with a couple of
+recommendations/hints if you want to try this at home. I do recommend
+that anyone who does this should be familiar with
+`git <http://git.or.cz/>`__ before attempting this. Sound good?
+
+Great! Here goes.
+
+You need:
+
+-  A repository on your server where your email will "land." This should
+be a git repository that's origin is:
+-  A `bare
+repository <http://www.kernel.org/pub/software/scm/git/docs/git-clone.html>`__
+that is also on your server. These directories should not be web
+accessible, and indeed, technically need not be on the same server
+even, though they need to be always-on servers at static locations,
+so that you can clone repositories on:
+-  A repository on your personal computer(s).
+
+Inside of the repository is a great place to keep your scripts (and
+indeed all `settings for mail-related
+programs <http://tychoish.com/rhizome/work-mode-for-mutt/>`__.) The two
+scripts you need are:
+
+syncserver:
+
+::
+
+#!/usr/bin/env bash
+
+# Get situated
+cd /path/to/mail/
+
+# Pull Changes from the centralized (canonical) repository
+/path/togit pull origin >/dev/null 2>&1
+
+# Add in the new mail and push to the central repository
+/path/to/git add .
+/path/to/git commit -a -q -m \
+"server: mail drop commit, pre-push to central"
+/path/to/git push origin >/dev/null 2>&1
+
+syncmail:
+
+::
+
+#!/usr/bin/env bash
+
+# Do things on the server  synced
+ssh USERNAME@DOMAIN.TLD sh /path/to/mail/syncserver \
+>/dev/null 2>&1
+
+# Do things locally to get changes upstreem to central
+## Get Situated:
+cd /path/to/mail/
+## Pull new mail down,
+## everyting after the | is to produce a mail notifciation
+##  using growl on OS X
+
+/path/to/git pull origin | \
+/usr/local/bin/growlnotify -n mutt -a Mail.app -t \
+"tycho garen (or maybe sam)'s mail status:" \
+>/dev/null 2>&1
+
+## Getting setup and then pushing any changes upstream
+/path/to/git add .
+for i in `git ls-files -d`;
+do /usr/local/git/bin/git rm --quiet $i;
+done
+/path/to/git commit -a -q -m \
+"mail changes from NAME_OF_COMPUTER"
+/path/to/git push >/dev/null 2>&1
+
+Feel free, of course to change the commit messages and take out the
+comments. Other thoughts on usage:
+
+1. Have public key sign-ins enabled on any machine that you use
+regularly. It's more secure, faster.
+2. By all means, run "syncmail" in a launchd daemon/crontab.
+3. I've used absolute paths, starting with a "/" so that the shell
+doesn't have to look for relative paths in order to run, which
+probably only gives me a marginal speed advantage, but you'll want to
+figure out where your executables are and then put the right
+locations in. It's a short script.
+4. While eventually, you'll be able to tweak the ``syncserver`` file and
+after two runs, the changes will propagate, you have to put the file
+there manually (or run the pull yourself.)
+5. If you need to download mail from more than one source, you can run
+fetchmail at the beginning of ``syncmail``
+
+This almost makes sense, finally. The only thing that I'm still trying
+to figure out is if I were to get, say an iPhone or a BlackBerry into
+this system. IMAP into my existing gmail account would be *ok* but not
+desirable for a number of reasons. I suppose I could forward email from
+my server/computer to a "mobile" account, but that would be like having
+an email cadet branch and there wouldn't be syncing, which seems bad. On
+the other hand, it means I could pull out only the stuff I really need.
+It's a ways off, but it's pretty complicated.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

@@ -1,0 +1,85 @@
+==========
+Bash Loops
+==========
+
+.. post:: 2010-01-21
+   :author: tychoish
+   :tags: programming
+
+I was talking with `bear <http://code-bear.com/bearlog/>`__ probably two
+years ago, about programing and how I'm not really a programmer, but I
+understand what's going on when programmers talk, and that any time I
+got close to code, I sort of kludged things together until it worked.
+This was probably long enough ago, that I was just on the cusp of
+getting into using Linux full time and being a command line guru.
+
+Of shell scripting, he said something that left something of an
+impression on me. Something like, "The great thing about the shell, is
+once you figure out how to do something you never have to figure out how
+to do it again because you just make it into a script and run it again
+when you need to."
+
+Which, now seems incredibly straightforward, but it blew my mind at the
+time. The best thing, I think, about using computers in the way that I
+now tend to, is that any time I run across a task that is in *anyway*
+repetitive I can save it as a macro (in a non technical sense of the
+word macro) and then call it back in the future. Less typing, less
+reading over help text, more doing things that matter.
+
+One thing that got me for a while, was the "loop" in bash. I had a hell
+of a time making them work. And then a few weekends a go I had a task
+that required a loop, and I wrote one on the command line, and it worked
+on the first time through. Maybe I've learned something after all. For
+those of you who want to learn how to build a loop in shell scripting,
+lets take the following form:
+
+::
+
+for [variable] in
+
+`[command]`;
+
+do
+
+`[command using] $[variable]`;
+
+done
+
+Typically these are all mashed up onto one line, which can be confusing.
+Conventionally ``[variable]`` is just the letter ``i``, for "item." Note
+that the semi colons are crucial, and I think the bacticks are as well
+(I'd not leave them out,) but they might not be required.
+
+So the loop I wrote. I noticed that there were a number of attempted SSH
+logins against my server, and while these sorts of SSH probes aren't a
+huge risk... better to not risk it. So I wanted to add rules to the
+firewall to block these IP addresses. Here's what I came up with:
+
+::
+
+for i in
+
+`sudo egrep 'Invalid user.*([[:digit:]]{1,3}\.){3}[[:digit:]]{1,3}' /var/log/auth.log -o |
+egrep '([[:digit:]]{1,3}\.){3}[[:digit:]]{1,3}' -o | sort | uniq`;
+
+do
+
+`sudo iptables -I INPUT -s $i -j DROP`;
+
+done
+
+Basically, search the ``/var/log/auth.log`` for invalid login attempts,
+and return only the string captured by the regex. Send this to another
+``egrep`` command which strips this down to the IP address. Then put the
+IP addresses in order, and throw out duplicates. Every item in the
+resulting list is then added to an ``iptables`` rule that blocks access.
+Done. QED.
+
+It's inefficient, sure, but not *that* inefficient. And it works. Mostly
+this just cleans up logs, and I suppose using something like
+`fail2ban <http://www.fail2ban.org>`__ would work just as well, but I'm
+not sure what kind of added security benefit that would offer, and
+besides it wouldn't make me feel quite so smart.
+
+I hope this is helpful for you all.
+

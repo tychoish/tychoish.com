@@ -1,0 +1,29 @@
+===============
+keyboard review
+===============
+
+.. post:: 2009-03-16
+   :author: tychoish
+   :tags: technology
+
+A few months ago I got a `Happy Hacking
+Keyboard <http://pfuca-store.stores.yahoo.net/haphackeylit1.html>`__
+because, hey, I'm a writer and a GNU/Linux guy, and I use almost
+entirely keyboard driven software/desktop environment `a good keyboard
+seems like a reasonable
+investment. <http://tychoish.com/rhizome/input-fetishes-and-tool-quality/>`__.
+
+So after a few months, what do I think? The keyboard is great. I don't
+miss the keys, I like having everything in reach, I like being able to
+have my tea close and not have to move as far for the mouse when I need
+it. Additionally, and you wouldn't believe how true this is, but the
+keys feel **so nice** to type on. It's nosier, the response is good (not
+buckling springs good, but quite nice), and I defiantly feel the
+difference between it and other computers (let alone laptops; I tried to
+type on a MacBook the other day, and it was quite nearly painful.) If
+anyone is looking for a new keyboard, this is defiantly one to consider,
+and if size is an issue, then I (probably) wouldn't consider anything
+else.
+
+Keep on typing!
+

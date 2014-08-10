@@ -1,0 +1,122 @@
+=================
+Learning Problems
+=================
+
+.. post:: 2014-03-02
+   :author: tychoish
+
+Learning how to make computer software is hard. Not fundamentally hard:
+lots of people can do it, and even more people do things that are
+functionally equivalent to programming though they wouldn't think of it
+as such. But teaching people how to write good computer software is a
+challenge, and one that I'm generally interested in exploring more.
+
+For a long time, I've been interested in this problem from the outside:
+I didn't really know how to program in any meaningful sort of way and I
+was interested in deconstructing the process of making software. Then
+something clicked and years of tinkering with systems administration and
+reading about programming languages and practices clicked and while I
+think I have a lot left to learn, I've started thinking about the
+problem from the other side.
+
+We accumulate many skills and kinds of knowledge in an incremental sort
+of way: you study and practice and little by little our brains (and
+bodies) form new connections and we "learn." Other kinds of learning
+follow a more "step-based" approach: we practice and study for a long
+period of time without much discernible change in understanding or skill
+until at some point we experience some sort of larger improvement in
+ability.
+
+At least for me (and perhaps you as well,) things like dance, knitting,
+writing, and most structured/classroom-based topics tend to be
+incremental, mostly. Other things, like programming (at least initially)
+and singing/music tend to be step-based.
+
+This isn't to say that step-based areas of focus don't require regular
+ongoing practice, just that the observable markers of progress may lag
+inconsistently behind effort and pedagogy.
+
+When I was doing more non-professional writing, I was fond of the school
+of writing advice that said "the way to learn how to write (fiction) is
+to have a good story to tell;" when I think about learning to program I
+think the first step *has* to be a need to automate something on a
+computer.
+
+I've even [[started a wiki page on the
+topic\|http://tychoish.com/technical-literacy/teaching-programming/]].
+
+Hackers describe this as the "scratch your own itch" method (from
+`CatB <http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html>`__
+and elsewhere.)
+
+Neither the idea of step-based versus incremental learning nor the
+notion of using a personal need to drive learning are new, but I think
+they illuminate eachother well.
+
+--------------
+
+Since I stopped being a student somewhat abruptly in 2007, I've become
+increasingly glad both that my education and personal development has
+continued *and* I've had the opportunity to explore things in ways that
+didn't make sense in a structured context (e.g. "I want to learn about
+how databases work without formal CS/systems training," or "I want to
+learn how to sing and withouta lot of music theory.")
+
+For most of the past year I've been pretty heads-down on the "learning
+to program" project, and I've had a number of interesting problems that
+I've used to help explore the topic:
+
+-  *generalized `Sphinx <http://sphinx-doc.org>`__ publishing toolkit*.
+
+This is both `a work project <http://github.com/mongod/docs-tools/>`__
+and `a personal
+project <http://github.com/cyborginstitute/institute-tools>`__.
+
+Sphinx is a great tool for producing text, and I'm quite fond of it. At
+the same time, I'm not a fan of its architecture (and have a number of
+approaches to optimize the build process,) and there are a number of
+tasks: dependency resolution, version management, theme management, and
+deployment that any reasonably complex Sphinx-based project needs to
+address.
+
+While this project requires ongoing development and improvement, it's
+basically feature complete, and it's given
+
+-  I've had a couple of personal side projects that I've used to explore
+different kinds of programming problems, with greater and lesser
+success.
+
+Buildcloth, which [[is pretty cool and needs more
+work\|/rhizome/buildcloth-v03-planning]] but I fear may be too
+complicated for the use-case.
+
+`csc <http://cyborginstitute.org/projects/csc>`__, which isn't fully off
+the ground and may not provide a significant improvement upon Sphinx for
+most cases.
+
+`dtf <http://cyborginstitute.org/projects/dtf/>`__, which is a decent
+idea, but I've not had time to really implement and exercise the program
+and I fear that the core code quality isn't great.
+
+-  More recently I've begun working on a *dependency analytics package*
+with a co-worker/friend to help him and his teammates understand and
+untangle a larger C++ project.
+
+It's been nice to be able to actively work on a project with another
+developer, and to be able to focus on performance and architecture
+issues while someone else focuses on feature prototyping and use-cases.
+
+In a lot of ways this is a good "capstone" project for me because I've
+gotten to use and apply many of the things I've learned from writing
+concurrent/parallel Python, as well as moderate sized Python programs
+comes together well here.
+
+Most of the projects that had been *open* and on my plate for the last
+few months have mostly wrapped up. There's more work to be done on them,
+I could do a lot more work, and I think I will, but none of them are
+lacking a feature that I really *need* in order to accomplish something
+that I want to do.
+
+I'm interested in learning more: about writing (documentation, science
+fiction, etc.), about software development and computing.
+

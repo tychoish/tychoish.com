@@ -1,0 +1,28 @@
+=================
+Long Stringy Bits
+=================
+
+.. post:: 2007-11-14
+   :author: tychoish
+
+I'm so going to write a post about how piss-poor the databases for
+scholarly articles are when I have time. They need to hire a web 2.0
+developer, for real, because whatever their using (some arcane home
+grown perl system no doubt) blows. And there's no reason that they
+couldn't offer desktop clients, which for this kind of service makes a
+hell of a lot of sense. It's an interesting development question,
+because their business model is so different from every other web
+service. Coming soon!
+
+I have to go to class soon (and take a test! on speech production and
+language learning, but I'm feeling pretty good about it) and then work
+in the yarn store which is going swimmingly. Spinning group tonight, but
+I'm not going to have a wheel there. Interestingly I have a hard time
+working on my own projects when I'm there, and I come home and I'm not
+incredibly interested in knitting or doing much spinning. The end result
+is that I haven't been working on my own projects very much, but I seem
+(somehow) to be getting lots of things done, so there's nothing really
+to complain about.
+
+Onward and Upward!
+

@@ -1,0 +1,18 @@
+===============
+rhizome archive
+===============
+
+.. post:: 1986-05-19
+
+.. raw:: html
+
+<div class="columns" style="margin-top: 1em;">
+
+[[!inline pages="rhizome/\* and !\*discourse" sort="-meta(date)"
+archive="yes" quick="yes" ]]
+
+.. raw:: html
+
+</div>
+
+

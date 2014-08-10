@@ -1,0 +1,43 @@
+==========
+In the Air
+==========
+
+.. post:: 2008-01-16
+   :author: tychoish
+
+Ha! So I was pretty much on the ball about apple's releases yesterday. I
+think in general, it's a good move, but it doesn't affect very much for
+me.
+
+My one complaint is that, you can get the base level MacPro for less
+than the MacBookAir with the solid state drive. As
+`Dave <http://www.soliloqueer.com/>`__ says, "that just seems wrong."
+Part of the joy of the 12" ibooks and powerbooks is that they were
+cheaper than their 14" and 15" counterparts, and only a little bit under
+powered. It's clear that while the other apple laptops could (and often
+do) function as people's only/primary computer, these new ones, are
+meant as second or third computers for people who have an imac or a mac
+pro already.
+
+I'm not going to get a new computer for a few months, The consensus is
+that there'll be new macbook pros sometime soon (WWDC?), and I think I
+want to wait and see what happens with that before I take the plunge.
+Particularly because my current computer, for good or ill still works.
+
+Speaking of Zoe, I didn't get her a new battery, which I should do at
+some point, I'm mostly lazy. My battery time is down to about 40
+minutes, which isn't too bad for coming up on 3 years.
+
+In other news, I did some organizing of my subversion repository last
+night. I think I'm caught in some endless battle of file organization
+between the "one folder with lots of files and rely on search tools to
+find things" method and the "lots of specific folders" method. I'm back
+in the "have more folders" camp. For whatever that's worth. It's super
+nice that subversion keeps file history through renames and moves. I'm
+too nerotic for anything else.
+
+Anyway, I got up a bit late, and I have a bunch of little things I want
+to do before work today.
+
+Onward and Upward!
+

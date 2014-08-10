@@ -1,0 +1,26 @@
+=============================================
+emacs blogging? me too? forward directions...
+=============================================
+
+.. post:: 2009-03-16
+   :author: tychoish
+   :tags: emacs, git
+
+One of the things that I find a lot when I'm seraching the internet for
+emacs things (or, in the case of my `google
+alert <http://www.google.com/alerts/>`__, when emacs stuff on the web
+finds me.) Are people writing blog posts that are along the lines of,
+"so I was playing around with emacs `weblogger
+mode <http://www.emacswiki.org/emacs/WebloggerMode>`__..." Which is
+pretty much what this is.
+
+I've been toying with the idea of switching to a
+`git <http://www.git-scm.com>`__-based blogging platform/site generator,
+that would be much more slim than my current tool, which (though I love
+it, and recomend it to other people regularly) doesn't seem to fit my
+workflow particularly well. Since leaving the (wonderful) TextMate
+blogging bundle behind, I've been in search of a blogging tool... and,
+well, I'm still looking.
+
+When I find it, I assure you that you'll be the first to know.
+

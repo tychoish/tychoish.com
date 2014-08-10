@@ -1,0 +1,47 @@
+====================
+That Damned Computer
+====================
+
+.. post:: 2004-02-15
+   :author: tychoish
+
+As regular readers of this website will recall, I've had a rather
+persistent computer problem for the past, oh, really long time. Seems
+it's done this thing where it just freezes. First we thought it was a
+RAM problem, because it just *felt* like a ram problem, and indeed it
+would freeze up on block memory moves.
+
+At which point we said, "well it could either be a motherboard or a
+processor" and after some deliberation (and a diagnostic that pointed to
+problems with the Real Time Memory Clock), we decided to replace the
+motherboard.
+
+In the mean time I'd developed a system that worked fairly well. If I
+didn't play music, and stuck to a fairly frill-free text editor,
+trillian, Internet Explorer, and Outlook, there wasn't a problem, most
+of the time.
+
+And then, I got the new motherboard, because ultimately I wanted my
+computer to work properly, I mean that's not too much to ask, really.
+And it doesn't. It doesn't work with the old one either. So my computer
+is pretty much not useable. And I'm not particularly sure that putting a
+new processor in is going to fix the problem. It's also the only thing
+left that I *can* replace. So we have to hope.
+
+In the mean time, since my half working computer more or less gave up
+the ghost, I've swapped it out for this older iMac that someone gave me
+to dispose of. It works perfectly almost, despite the fact that the
+resolution is jokingly low, and it's running a version of the operating
+system that's circa 1997. But it runs AIM, Entourage (like outlook only
+macish), and Word. Ah, finally a real word processor. Life is good.
+
+Or I'll deal for a while.
+
+What I am realizing is that, this whole Mac thing is really cool, and
+while I'd like a newer version (I'm working on it. Soon. All I can say
+is it will involve a swanky purple scarf) would be nice, the whole
+*feel* of this operating system is something I defiantly like. Now I
+just hope enough money can be gathered to get that powerbook, but we'll
+burn that bridge when we get to it. Lets just say, I'm not going to
+leave home with a PC.
+

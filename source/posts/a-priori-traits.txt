@@ -1,0 +1,64 @@
+================
+A Priori Traits?
+================
+
+.. post:: 2006-02-27
+   :author: tychoish
+
+We were discussing the possibility of heritability and psychological
+traits, in a class today, and the professor made the point that "if
+people have an implicit theory that, for instance, height and
+intelligence are linked, and if this theory persists, psychologists will
+observe a correlation between heritability and intelligence."
+
+He went on to say (and I agree with this), "this linkage, though 'real'
+isn't because there isn't likely a gene (or genes) that controls
+cognitive ability and height, but rather, tall people, if assumed to be
+smarter, will be given opportunities that will enable them to develop
+into more intelligent people. As a result of this association, (since
+height is highly heritable), psychologists will observe a heritable
+intelligence link."
+
+Basically that correlations don't prove causation, with the added little
+bonus of "teleologies will reify themselves."That sounds great!" I say.
+And it does.
+
+So I, being the uppity chap I am, offer the following in some form
+(again, this is all hindsight, and I've been trying to clarify it all
+day, so it's probably more clear now than it was in the original):
+
+"If there is a widely held belief about a construct, reified by repeated
+social behavior (performative acts, if you will), then our definition of
+that construct (and our ability to understand/measure/analyize it) is
+defined (at least in part) by that belief about the construct."
+
+The response was something to the effect of, "Thats true, but even if
+our measurement technique was perfect, and it isn't, we'd still observe
+differences, because intelligence--or whatever trait--will *actually*
+change because of the social factors." (Again, not doing justice here;
+he really is very articulate.)
+
+--------------
+
+And then the class was over.
+
+This represents, I think, why I feel out of place in psychology. There
+is an assumption that psychometrically valid constructs and factors,
+exist *a priori*. Therefore the problems with psychological
+investigation, are a product of the measurement and design, when in fact
+*there's no there, there*. That we think if we just work hard enough and
+are meticulous enough we'll be able to finally understand the essence of
+*construct x, y or z*.
+
+Here's a food example: *It's like studying french-fryness while
+encountering only one variety of french fries, without realizing that
+*\ either\_ other kinds of french fries *or potatoes* exist\_ and that
+frenchy fry cutting factories exist; and then deciding that the only way
+to really learn about french-fryness is to encounter as many different
+iterations of that only one variety of french fries in as many ways as
+possible.
+
+Because that would work so well.
+
+Cheers, Sam
+

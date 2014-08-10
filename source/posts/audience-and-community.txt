@@ -1,0 +1,90 @@
+======================
+audience and community
+======================
+
+.. post:: 2008-03-20
+   :author: tychoish
+
+`Chris <http://www.cgkreality.com/>`__ and I had a discussion about
+`LiveJournal <http://www.livejournal.com/>`__ last night, that lead in
+some interesting directions.
+
+Though the discussion was started by the impending (21st March 2008) day
+long boycott of the site (which I'm not commenting on, and neither know
+enough about to pass judgment, nor am particularly moved by the whole
+deal), but quickly moved on to a contemplation of LJ, and you know, the
+internet as a whole.
+
+*I wrote this entry yesterday but didn't post it. It's since come to
+my attention that the rhetoric of the strike errs towards
+anti-semitism, which is a bit troubling. I think I've technically
+read my friends page since midnight GMT yesterday, and this post
+will get pushed to LJ, so I guess that I'm not participating.*
+
+*I'd also say that it doesn't strike me that anything is
+particularly different this time around. When I joined LJ the first
+time (with my old handle as the username), you had to be
+invited/have a code from an existing user, there weren't free
+accounts. Frankly I think that's part of the reason that the LJ
+community is what it is. As for the censorship stuff, that's not
+particularly new and though distasteful, a completely enforceable
+part of the terms of service. Anyway, on with the entry...*
+
+What we recognized was that LJ is basically the *only consistently
+successful social networking site* on the internet, ever. Furthermore
+later social networking sites, like facebook and myspace, have started
+to look more and more like LJ as time goes on. The facebook "feed" is a
+lot like the LJ friend's page, the facebook profile and the LJ userinfo
+page are remarkably similar. And so forth.
+
+The surprising thing is that LJ, though developed and changed over the
+years, is pretty much the same thing that it's always been, and that's
+sort of cool.
+
+I attribute the success of LJ to two things: the friends page, and the
+granularity of security that "friend's locking" provides. The diverse
+and dedicated (and not unsizeable) userbase seals the deal.
+
+While I adore `Wordpress <http://wordpress.org/>`__, and think that it's
+great software, the truth is that
+`WordPress.com <http://wordpress.com/>`__ and
+`blogger <http://www.blogger.com/>`__ that preceded it, really can't
+hold a candle to LJ because though there are "community features"
+(comments, blogrolls, rss feeds) the "blog," they don't have the
+friend's page. [1]_
+
+And admittedly, today, we have things like Google Reader and other RSS
+services, and Open ID that go a long way to replicate the "f-list"
+experience, but it isn't the same, and it isn't automatic. Often, in
+this whole cyberspace adventure, I think independence is the way to go,
+but I really think that in the case of LJ, there's no way to do the
+community aspect of blogging or social networking as successful in an
+independent sort of way [2]_.
+
+Our conversation ended with Chris' recolection that he thought--years
+ago--that we should have tried to replicate the LJ phenomena and improve
+upon it somehow. He/we was/were always unclear of the details. The
+conversation then moved on to a discussion of programing languages and
+methods and projects, both historical and future. I will no doubt
+continue to blog/write about where this train of thought is taking us,
+but I think the observations about LJ and what constitutes success in
+terms of software and cyber/social phenomena will prove useful in the
+future.
+
+Onward and Upward!
+
+.. [1]
+I think/fear that "blogs" are seen as too much as sole
+proprietorships, in a way. Blog publishing is mostly akin to magazine
+publishing or newspaper publishing, and I think that LJ is a much
+closer approximation of say
+`Usenet <http://en.wikipedia.org/wiki/Usenet>`__, or the BBS, than
+any traditional publishing venture. Simply put, *bloggers have an
+audience, online journalers have a community.*
+
+.. [2]
+We'll note that there's no real independent/autonomous social
+networking, the beauty of these sites is that they throw all of the
+data into a single database and run with it. You can't do that on an
+island.
+

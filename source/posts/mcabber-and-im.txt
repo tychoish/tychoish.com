@@ -1,0 +1,107 @@
+==============
+mcabber and IM
+==============
+
+.. post:: 2009-02-05
+   :author: tychoish
+   :tags: technology, internet, infrastructure
+
+I've always rather enjoyed `this
+post <http://tychoish.com/rhizome/the-mutt-of-im/>`__ that I wrote about
+instant messaging programs. My issue is that I use IM a lot. A lot. I
+communicate with colleagues, friends, and frankly, if you want to get a
+hold of me, IM is often the best way to do this, and frankly for a lot
+of communications I prefer it to the phone.
+
+Nevertheless, IM clients, on the whole, are mostly pretty bad. Right?
+They distract, they filter information poorly, they take up a lot of
+room on the screen, and are as a class pretty inconsistent. This is
+probably because no one really expected people to use instant messaging
+technologies in a serious way.
+
+But here we are.
+
+The leading IM client, really, for people who rely on this kind of thing
+is Pidgin (and the other libpurple based clients), which make it
+possible to connect to lots of different services at the same time but
+only have one roster/buddy list. It's a good solution to the "multiple
+networks/accounts" problem, but the truth is the quality of the
+implementation varies, and the user interface is... awkward and
+rigid [1]_.
+
+There is, however, this program called mcabber that provides the ability
+to connect to one xmpp account, in a terminal-based (ncurses?)
+environment. It's not perfect, nothing is, but its a lot better than the
+other options.
+
+While I've not been able to switch to using only it for my IMing needs
+for a couple of reasons, mostly related to my xmpp server/provider, but
+I have used it exclusively for a number of days and the experience is
+pretty good. Reasons I like it:
+
+-  Everything lives in one window, and chat windows have equal footing,
+like buffers in emacs, say. That's really nifty.
+
+-  The key shortcuts are really simple, and quite intuitive. Thats key
+in a terminal application
+
+-  I can run it in screen, and pull the screen over ssh to my laptop
+when I'm not in front of my computer. Though xmpp is generally really
+great about multiple connections, sometimes it's best to not have to
+deal with that fussing.
+
+-  I like that it supports PGP encryption, though I don't have anyone
+with whom I can encrypt conversations with, but that always seems to
+be a minor detail.
+
+Though, this isn't to say that it's all good. There are some problems
+that I've had. Though to be fair, my complaints here are much fewer than
+with most other XMPP clients, so that's a good thing, right? Complaints:
+
+-  No support for service discovery. Which means you have to install
+psi--basically--if you're serious about getting the most out of XMPP.
+This is... unfortunate.
+
+-  It takes a lot of work to get configured and get key bindings set up.
+I'm mostly of the opinion that it's always best to give users a set
+of key bindings to start with and then let them customize as needed,
+and the default screen layout isn't particularly useful or economical
+(put the status window at the top, and make it smaller, for
+starters).
+
+-  It doesn't support multiple connections/user-ids. This is a biggie,
+and while I don't (really) object to the fact that it doesn't support
+other protocols, I think the reality is that most users probably have
+and need to use more than one identity at once, so that's a
+noticeable hole.
+
+-  I'd also like an *easy* interface for producing system notifications
+give me a setting option to pile messages (username, excerpt of x
+characters, time) to a pipe (\|) and I'd be very happy indeed.
+
+-  I couldn't decide if the fact that there was only one "text entry
+field" (mini-buffer) for all outgoing message buffers. Which meant
+that, particularly with scroll back, that it was easy to cross
+contexts unintentionally.
+
+My last complaint isn't so much a complaint about the software itself as
+it is a complaint about the instant messaging space in general.
+Basically, I think there *has* to be a way to filter this kind of
+communication. Ways to setup client-independent rules regarding
+statuses, auto-responders, and notification level. I've said that this
+should be "along lines of `procmail <http://www.procmail.org/>`__," but
+I don't quite know what, even that, would look like. But someday, it's
+coming, and I for one can't wait.
+
+But all in all. It's a great program and you should `check mcabber
+out <http://mirror.mcabber.com/>`__, if you're intense about jabber/xmpp
+and instant messaging (and living in the console).
+
+.. [1]
+So there was a pretty notorious fork-threat in the Pidgin project a
+while back over a sort of deterministic user interface decision,
+which I return to every now and then as an example of both intra FOSS
+project politics gone awry, and user interface design gone awry. I'm
+not dredging up the flame war, because the truth is I really hate GUI
+applications writ-large, so on some level its nothing specific.
+

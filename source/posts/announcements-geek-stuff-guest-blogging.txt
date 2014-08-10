@@ -1,0 +1,32 @@
+=========================================
+Announcements, geek stuff, guest blogging
+=========================================
+
+.. post:: 2009-03-23
+   :author: tychoish
+   :tags: cyborg, update
+
+I wrote an article for my friend `Melissa
+Barton <http://melissabartonconsulting.blogspot.com/>`__ about `how to
+use computers/technology more successfully and more
+effectively <http://melissabartonconsulting.blogspot.com/2009/03/be-smarter-computer-user.html>`__,
+and it went live over the weekend. I'm really happy with it, and it
+represents all of the things I've been working through here, except
+tuned for a more general audience. It's also under my given name (gasp!)
+as if the tycho thing wasn't confusing enough as it is.
+
+Emacs is great, and I'm a huge fan, but it's not for *everyone*, and for
+those audences, thinking about what we learn from "advanced useage" and
+then workind to apply that to more general use can be quite powerful.
+This is a different take on the "how to attract general audences,"
+process. I guess I'm mostly arguing that rather than make
+software/hardware more "friendly," better to (also) educate users to be
+more gruff?
+
+In any case, that's up. I'm also posting an extra tychoish essay on
+Wednesday because it didn't get posted (as I would have hoped) due to my
+error a few weeks ago. Stay tuned for that. Also, maybe new Critical
+Futures this week?
+
+cheers, ty
+

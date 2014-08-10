@@ -1,0 +1,39 @@
+===============
+Todo List Bloat
+===============
+
+.. post:: 2009-03-13
+   :author: tychoish
+   :tags: emacs, cyborg, productivity
+
+I'm working on a longer post on the topic, but the past few days have
+seen me spend a bit of extra attention trying to develop some way of
+doing a "fact file" inside of emacs. Basically what I need is some way
+of storing information (links, quotes, text) along with bibliogrpahic
+information (where I got it, when I accessed it) and some sort of
+meta-data (tags, categories, search index) so that I can find things
+again. Largely, this data isn't for any specific project, but it is a
+way to record general notes on the information that I consume in an
+effort to make that data more useable in the future.
+
+As I firm up the solution, I'll write more about it, but I've discovered
+something about the software targeted at this domain (generally,
+"personal information management,") that's worth sharing: there are a
+lot of notebooks and databases around, but they're all very much alike:
+anything that's structured as a database is generally desgined to store
+addresses, contact information and other "CRM" data, which is nice, but
+not what I'm going for at all. There are also a lot of notebook
+applications that are modeled on wikis (too unstructured) or outliners
+(ok, but hierarchical). Interestingly, it seems every kind of personal
+information management package that isn't an address book (for emacs,
+but I think this is to some degree generalizable) has grown to a point
+where it can manage and extrapolate todo-lists from your notes.
+
+Once upon a time, emacs itself was critiqued (and still is) because it
+has the ability to send and recieve email, and that this feature (email
+sending) was a sign of "feature bloat," becasue after all, sending email
+with a text editor. That's a bit a field. I'll let you decide how
+history has dealt with the email issue. I in the mean time am going to
+write, and figure out some way of doing a better job with this
+information.
+

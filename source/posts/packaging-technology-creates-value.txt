@@ -1,0 +1,64 @@
+==================================
+Packaging Technology Creates Value
+==================================
+
+.. post:: 2011-05-10
+   :author: tychoish
+   :tags: economics, technology, cyborg, open-source
+
+By eliminating the artificial scarcity of software, open source software
+forces businesses and technology developers to think differently about
+their business models. There are a few ways that people have
+traditionally built businesses around open free and open source
+software. There are pros and cons to every business model, but to review
+the basic ideas are:
+
+-  Using open source software as a core and building a thin layer of
+proprietary technology on top of the open source core. Sometimes this
+works well enough (e.g. SugarCRM, OS X,) and sometimes this doesn't
+seem to work as well (e.g. MySQL, etc.)
+
+-  Selling services around open source software. This includes support
+contracts, training services, and infrastructure provisioning.
+Enterprises and other organizations and projects need expertise to
+make technology work, and the fact that open source doesn't bundle
+licensing fees with support contracts doesn't make the support (and
+other services) less useful or needed for open source.
+
+-  Custom development services. Often open source projects provide a
+pretty framework for a technology, but require some level of
+customization to fit the needs and requirements of the "business
+case." The work can be a bit uneven, as with all consulting, but the
+need a service are both quit real. While the custom code may end up
+back in the upstream, sometimes this doesn't quite happen for a
+number of reasons. Custom development obviously overlaps with service
+and thin-proprietarization, but is distinct: it's not a it doesn't
+revolve around selling proprietary software, and it doesn't involve
+user support or systems administration. These distinctions can get
+blurry in some cases.
+
+In truth, when you consider how proprietary software actually convey
+value, it's really the same basic idea as the three models above.
+There's just this minor mystification around software licenses, but
+other than that, the business of selling software and services around
+software doesn't vary that much.
+
+James Governor of `Red Monk <http://redmonk.com/>`__ suggests a fourth
+option: `Packaging
+technology <http://www.redmonk.com/jgovernor/2011/03/30/red-hat-the-master-packager-open-source-and-the-1bn-annual-runrate-company/>`__.
+
+The packaging model is likely just an extension of the "services" model,
+but it draws attention to the ways that companies can create real value
+not just by providing services and not just by providing a layer of
+customization, but by spending time attending to the whole experience,
+rather than the base technology. It also draws some attention to the
+notion that reputation matters.
+
+I suppose it makes sense: when businesses (and end users) pay for
+proprietary software, while the exchange is nominally "money" for
+"license" usage rights, in reality there are services and other sources
+of value. Thus it is incumbent upon open source developers and users to
+find all of the *real* sources of value that can be conveyed in the
+exchange of money for software, and find ways to support themselves and
+the software. How hard can it be?
+

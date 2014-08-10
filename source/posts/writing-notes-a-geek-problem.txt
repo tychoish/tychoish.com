@@ -1,0 +1,69 @@
+=============================
+Writing Notes: A Geek Problem
+=============================
+
+.. post:: 2007-06-27
+   :author: tychoish
+
+I've always been somewhat distraught by the fact that I'm, well down
+right terrible at working in a wiki mode. Every so often I try and use
+some wiki-based solution, often
+`VoodooPad <http://www.flyingmeat.com/voodoopad/>`__, and it works
+really well, until I realize that what I'm really doing is using it as
+an inefficient file-system like binder. I just dump things in, one or
+two layers deep and it often means that I just have a slightly more
+complicated way of looking at my files. With some help from
+`DevonTHINK <http://www.devon-technologies.com/>`__, I have a system
+that works pretty well for me. [1]_
+
+For `Station Keeping <http://tychoish.com/hanm/>`__ I'm trying to keep
+some sort of documentation, which contains a lot of unreleased and
+brainstorming material that's helpful (and necessary) to maintain for
+the group of writers. Problem is that I don't think in a wiki sort of
+way. Which means that this document is a pain in the rear to navigate,
+and given the way I want the software to work: a pain in the rear to
+code. I've tried
+`PMWiki <http://www.pmichaud.com/wiki/PmWiki/PmWiki>`__, and most
+recently `Plain Text
+Wiki <http://interconnected.org/home/2007/05/20/plain_text_wiki>`__, and
+really neither of these solutions really work for what I'm doing.
+
+Ultimately this returns to a theme that I've been struggling from the
+`very beginning of
+TealArt <http://tychoish.com/rhizome/perfect-notebook-bliss/>`__, back
+in 2002, where I talked about my struggle for good notebooks. With
+Moleskine's these days, I've basically found the analog solution, but I
+need something that will work digitally, particularly for the *Station
+Keeping* documentation, but for my day to day purposes as well.
+
+I suppose to get the conclusion that I've come to you need to first know
+how my paper notebooks are laid out and my method of finding things.
+Basically I start a new page for each new chunk: each list, outline,
+note, and set of directions and so forth. I usually write some sort of
+identifying title at the top for what's contained inside, which I
+underline. Because it's paper, and it's all bound together, and I have a
+pretty good contextual memory for the associations between what I write
+and when I write it, so the chronological aspect helps a lot.
+
+What does this sound like? Yeah, I know: a weblog [2]_. Why didn't
+someone pass me this memo earlier, it would have been helpful. What does
+this mean? Time to set up additional blogs to take care of these needs,
+because clearly thats what by brain seems to need/want. Maybe some of it
+will be interesting to you, but somehow I doubt this.
+
+.. [1]
+I must admit that I haven't been using DThink as much recently as I
+might like to, because I have a slight organizational crisis now that
+I'm (seasonally) not in school any more. My database is perhaps not
+laid out optimally, but I still really like it. If
+`EagleFiler <http://c-command.com/eaglefiler/>`__ were just a little
+bit better, I think that I could have a mash-up that would be ideal,
+while I wait for DT 2.0, which is perhaps the real reason that I'm
+not reorganizing my database. There's a reason that I have these
+footnotes. To talk to myself. *Sigh*
+
+.. [2]
+Is it true that academics are the only ones that call them "weblogs"
+any more? Is it a sign of my not getting it or a sign of my
+old-timmer cred? I don't really want to know.
+

@@ -1,0 +1,113 @@
+==========================================
+Installing Mcabber .10-rc3 on Debian Lenny
+==========================================
+
+.. post:: 2010-04-05
+   :author: tychoish
+   :tags: documentation
+
+mcabber is console based XMPP or Jabber client. It runs happily within a
+screen session, its lightweight, and it does all of the basic things
+that you want from an IM client without being annoying and distracting.
+For the first time since I started using this software a year or two
+ago, there's a major release that has some pretty exciting features. So
+I wanted to install it. Except, there aren't packages for it for Debian
+Lenny, and I have a standing policy that everything needs to be
+installed using package management tools so that things don't break down
+the line.
+
+These instructions are written for Debian 5.0 (Lenny) systems. Your
+millage may vary for other systems, or other versions of Ubuntu. Begin
+by installing some dependencies:
+
+::
+
+apt-get install libncurses5-dev libncursesw5 libncursesw5-dev pkg-config libglib2.0-dev libloudmouth1-dev
+
+The following optional dependencies provide additional features, and may
+already be installed on your system:
+
+::
+
+apt-get install libenchant-dev libaspell-dev libgpgme-dev libotr-dev
+
+When the dependencies are installed, issue the following commands to
+download the latest release into the ``/opt/`` directory, unarchive the
+tarball, and run the configure script to install mcabber into the
+``/opt/mcabber/`` folder so that it is easy to remove later if something
+stops working.
+
+::
+
+cd /opt/
+wget http://mcabber.com/files/mcabber-0.10.0-rc3.tar.gz
+tar -zxvf mcabber-0.10.0-rc3.tar.gz
+./configure --prefix=/opt/mcabber
+
+When that process finishes, run the following:
+
+::
+
+make
+make install
+
+Now copy the following ``/opt/mcabber-0.10-rc3/mcabberrc.example`` file
+into your home directory. If you don't already have mcabber configured,
+you can use the following command to copy the file to your home
+directory.
+
+::
+
+cp /opt/mcabber-0.10-rc3/mcabberrc.example ~/.mcabberrc
+
+If you do have an existing mcaber setup, then use the following command
+to copy the example configuration file to a non-overlapping folder in
+your home directory
+
+::
+
+cp /opt/mcabber-0.10-rc3/mcabberrc.example ~/mcabber-config
+
+Edit the ``~/.mcabberrc`` or ``~/mcabber-config`` as described in the
+config file. Then start mcabber with the following command, if your
+config file is located at ``~/.mcabberrc``:
+
+::
+
+/opt/mcabber/bin/mcabber
+
+If you have your mcabber config located at ``~/mcabber-config`` start
+mcabber with the following command:
+
+::
+
+/opt/mcabber/bin/mcabber -f ~/mcabber-config
+
+And you're ready to go. Important things to note:
+
+1. If something gets, as we say in the biz "fuxed," simply
+"``rm rf    /opt/mcabber/``\ " and reinstall.
+
+2. Check `mcabber <http://mcabber.com/>`__ for new releases and release
+candidates. These instructions should work well once there's a final
+release, at least for Debian Lenny. The release files are located
+`here <http://mcabber.com/files/>`__.
+
+3. Make sure to stay up to date with new releases to avoid bugs and
+potential security issues. If you come across bugs, report them to
+the
+`developers <http://www.bitbucket.org/McKael/mcabber-crew/issues/?status=new&status=open>`__
+there is also a MUC for the mcabber community here:
+xmpp:mcabber@conf.lilotux.net.
+
+4. If you have an additional dependency that I missed in this
+installation do be in touch and I'll get it added here.
+
+5. Debian Lenny ships with version 0.9.7 of mcabber. If you don't want
+to play with the new features and the magic in 0.10, then go for it.
+If you just want a regular client, install the stable mcabber with
+the "``apt-get install mcabber``\ " command and ignore the rest of
+this email.
+
+
+

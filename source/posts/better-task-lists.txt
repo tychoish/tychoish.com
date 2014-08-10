@@ -1,0 +1,103 @@
+=================
+Better Task Lists
+=================
+
+.. post:: 2011-07-18
+   :author: tychoish
+   :tags: productivity, cyborg
+
+Just about everyone keeps a task list of some sort, or has at some
+point. To the casual observer, task list management might seems like a
+simple problem that could be augmented with a little bit of automation
+for great effect. Fire up your nearest "app store" and I would bet money
+that you'll find a at least a few developers that have had the same
+thought.
+
+For such a seemingly simple engineering problem there is an inordinate
+amount of really bad software. While this might tempt us to reassess the
+complexity of the task management problem, I don't think this is really
+true. What happens, I'm convinced, is that people (i.e. [[tag/cyborg]]s)
+make lists of tasks to solve different problems in their realities, and
+these different lists often require different automation. So while there
+are 10-20 basic task management applications, the number of distinct
+usage profiles exceeds that by several times. That's the theory at any
+rate.
+
+Archetypes
+----------
+
+Allowing for large amount of diversity, there are still a few generally
+useful task list "archetypes" that we can use to characterize how people
+use task lists. I just want to enumerate them, here for now. I might
+move them out to another page, and you should feel free to edit the page
+(it's a wiki!) if you think I've missed anything!
+
+-  **Collaboration Facilitation**: Teams need systems to keep track of
+and work on shared issue queues. These are "bug trackers," and are
+totally essential when items or "issues:" take a significant time to
+complete, require the effort/input/awareness of multiple people, and
+need to be created or added by a number of people.
+
+-  **Memory Enhancement**: People create todo lists when they're working
+more things than they can comfortably remember at any one time. The
+lists tend to be ephemeral, the items can be quickly resolved, but we
+make these lists so we don't have to remember a long list of things
+while working. Think post-it notes.
+
+-  **Obligation Management**: These lists bring us close to calendars,
+but we keep them to make sure we remember to do required tasks. Often
+these lists are helpful in helping people make sure that they're
+"caught up," so that they can enjoy and use free time without
+interruption or nagging.
+
+-  **Task Prioritization**: When time is limited, a list of tasks is
+useful in organizing an order, and making use of available time, so
+that it's possible to keep track of all open tasks, while also being
+able to allocate effort and time to tasks in a smart way that
+accounts for available time, importance, and deadlines. The goal is
+to get the most crucial things done while also never wondering what
+one could be doing with a few free moments.
+
+-  **Progress Tracking**: These lists are less to track things *todo*
+and more to track *have done*. When working on a number of long term
+and short term projects, a list of what's open, what's been finished,
+along with a status of where things are is useful to avoid loosing
+track of projects and tasks.
+
+Based on this, I think we can distill a number of overriding qualities
+of task lists from these five archetypal use cases. That working list
+is:
+
+-  item granularity,
+-  project-level organization,
+-  scheduling and deadlines, and
+-  use of priority markers. ## Personal Case Studies
+
+When I had an epic commute my issue was that while I had free time, it
+was all in 20 or 40 minute segments on trains. The challenge was to be
+organized and focused enough to really use this time. It was early and
+while I was awake enough to get work done, I wasn't always awake enough
+to figure out what needed my attention. And I didn't have enough routine
+minutia or enough other free time to be able to spend these blocks of
+time doing minutia. I needed a task list that told me what to do and
+when to do it. I needed *Task prioritization* with a little *obligation
+management* or something close to that. I chopped every task into the
+smallest actionable items, which is annoying in creative projects and
+often not very useful, and then scheduled items out so that I could do 6
+or so things a day, and anytime I opened the laptop there was a list of
+things I could jump into. It worked, more or less.
+
+Now, I have free time. I even have a few hours strung together. The
+issue is less that I need help filling in every little moment with
+something to do, and more that I have too much that I could be working
+on, and I need help figuring out what the status is of ongoing projects
+are and where I ought to things are and what needs my attention the
+most. *Progress tracking*, more or less with a little *task
+prioritization* but in a very different way than I'd been doing. it.
+I've got a lot of things, and I need to be able to see where projects,
+and what needs attention now. I've not figured out the best solution,
+but I think less scheduling and bigger conceptual task objects is more
+the way to go.
+
+Does this way of thinking about things make sense to other people?
+

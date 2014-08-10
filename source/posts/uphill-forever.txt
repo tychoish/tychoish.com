@@ -1,0 +1,108 @@
+==============
+Uphill Forever
+==============
+
+.. post:: 2013-09-08
+   :author: tychoish
+
+In many ways this is the follow up to [[hard is
+good\|/rhizome/hard-is-good]], and the post I promised recounting the
+lessons of [[the buildcloth v0.2.0
+release\|/rhizome/buildcloth-v0.2.0-release]].
+
+This release of buildcloth is in some ways, the first *real* piece of
+software I've written from the ground up. I've written a bunch of code,
+and I've implemented a decent amount of functionality as extensions and
+additions to other programs, written some very small programs, and
+written an endless number of throw away scripts, but never something
+quite on this scale. The remainder of this post is
+
+Whats the coolest thing about Buildcloth 0.2.0?
+-----------------------------------------------
+
+The buildsystem feature is pretty awesome, mostly because it makes it
+possible to have legitimate, honest-to-goodness build systems running
+with an Python project. Integration is a sweet thing.
+
+Why make another build tool? Aren't there enough of those already?
+------------------------------------------------------------------
+
+I started working on this for two reasons, first because the MongoDB
+documentation build process was lagging under some process creation
+overhead and using buildcloth as a meta-build system was clearly *not*
+holding up.
+
+Second, I wanted to write a static site generator that used a fully
+concurrent internal model. My initial plan was to use the buildcloth
+meta-build system, but that clearly wouldn't hold up at scale so I
+needed something like buildcloth.
+
+Finally, there aren't actually a lot of generalized build automation
+tools: Make, Ninja, SCons, Waf, and Rake plus a small cluster of Java
+tools (Ant, Maven, sbt, Gradle). See the `wikipedia list of build
+automation
+tools <http://en.wikipedia.org/wiki/List_of_build_automation_software>`__.
+
+How can I use Buildcloth? Is Buildcloth right for my project?
+-------------------------------------------------------------
+
+If you want, you can use Buildcloth as a Make replacement, using the
+``buildc`` front end. For build systems that already have Python code to
+wrap or implement build steps, Buildcloth may be *much* more efficient
+than using something like Make. For other kinds of builds, the benefits
+may be less pronounced.
+
+You can also use Buildcloth as a library in your own Python programs if
+you need a way of ruining build-jobs in a parallel, dependency aware
+mode.
+
+I've started to think think buildcloth is really a sort of embedable,
+small-scale, local version of something like
+`celery <http://www.celeryproject.org/>`__. Or maybe it's just a
+collections of decent wrappers around
+`multiprocessing.Pool <http://docs.python.org/dev/library/multiprocessing.html#module-multiprocessing.pool>`__.
+Regardless, there aren't a lot of really intuitive tools around that
+make async processing/parallel execution easy and fun in Python, so if
+you need to do this kind of processing work, take a look.
+
+How well tested is Buildcloth?
+------------------------------
+
+There's a complete unit test suite with 400 tests (last count) that
+should ensure that things stay stable as the product continues to
+develop. In this respect buildcloth is *really* well tested
+(particularly for a project of its age.) In other respects, its less
+well tested.
+
+Now that things are comparatively stable, I'm pretty eager to begin
+using the buildsystem and make sure all of the higher-level aspects work
+well.
+
+What aspects need the most improvement?
+---------------------------------------
+
+I need to devise a way to save some state between builds so that
+buildcloth can check to see if a target needs to be rebuilt by seeing if
+the content of the dependent files has changed. Currently, (like many
+tools,) buildcloth must rebuild things based on a comparison of modified
+times from the file system, which do not necessarily indicate a required
+rebuild.
+
+This isn't really a buildcloth problem, but I also find myself
+frustrated by the error reporting of tasks running inside the
+multiprocessing pool. I'm thinking of wrapping tasks right before
+calling them in a way that will capture output and make it easier to
+kill zombie tasks and dead pools.
+
+What would you do differently next time?
+----------------------------------------
+
+I wrote the implementation in a very bottom-up sort of way, and as a
+result the design and testing suite feels a little bottom up. In the
+long term I think it was the right decision, but I think that in the
+medium term it will lead to some awkwardness.
+
+Furthermore, build systems are fundamentally static and there's no good
+way to "add jobs to the top of the pipe." I don't yet have a good answer
+to this problem (yet,) but shouldn't be insurmountable.
+

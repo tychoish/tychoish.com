@@ -1,0 +1,172 @@
+========
+Git Sync
+========
+
+.. post:: 2011-03-07
+   :author: tychoish
+   :tags: cyborg, code
+
+With the new `laptop </essay/new-technology/>`__, I once again have more
+than one computer, and with it a need to synchronize the current state
+of my work. This is a crucial function, and pretty difficult to *do
+right*: I've had multiple systems before and condensed everything into
+one laptop because I didn't want to deal with the headache of sitting
+down in front of a computer and cursing the fact that the *one* thing
+that I needed to work on was stuck somewhere that I couldn't get to.
+
+I store most of my files and projects in `git version
+control <http://git-scm.com/>`__ repositories for a number of reasons,
+though the fact that this enables a pretty natural backup and
+synchronization system, was a significant inspiration for working this
+way. But capability is more than a stones throw from working
+implementation. The last time I tried to manage using more than one
+computer on a regular basis, I thought "oh, it's all in git, I'll just
+push and pull those repositories around and it'll be dandy." It wasn't.
+The problem is, if you keep different projects in different repositories
+(as you should, when using git,) remembering to commit and push all
+repositories before moving between computers is a headache.
+
+In the end synchronization is a rote task, and it seems like the kind of
+thing that was worth automating. There are a number of different
+approaches to this and what I've done is some very basic
+``bash``/``zsh`` script [1]_ that takes care of all of this syncing
+process. I call it "git sync," you may use all or some of this as you
+see fit.
+
+git sync lib
+------------
+
+The first piece of the puzzle is a few variables and functions. I
+decided to store this in multiple files for two reasons: First, I wanted
+access to the plain functions in the shell. Second, I wanted the ability
+to roll per-machine configurations using the components described
+within. `Consider the source </git-sync-lib>`__.
+
+The only really complex assumption here is that, given a number git
+repositories, there are: some that you want to commit and publish
+changes too regularly and automatically, some that you want to fetch new
+updates for regularly but don't want to commit, and a bunch that you
+want to monitor but probably want to interact with manually. In my case:
+I want to monitor a large list of repositories, automatically fetch
+changes from a subset of those repositories, and automatically publish
+changes changes to a subset of the previous set.
+
+Insert the following line into your ``.zshrc``:
+
+::
+
+source /path/to/git-sync-lib
+
+Then configure the beginning of the [[git-sync-lib\|code/git-sync-lib]]
+file with references to your git repositories. When complete, you will
+have access to the following functions in your shell: ``gss`` (provides
+a system-wide git status,) ``autoci`` (automatically pulls new content
+and commits local changes to the appropriate repository,) and ``syncup``
+(pulls new content from the repositories and publishes any committed
+changes.
+
+``syncup`` and ``autoci`` do their work in a pretty straightforward
+``for [...] done`` loop, which is great, unless you need some
+repositories to only publish in some situations (i.e. when you're
+connected to a specific VPN.) You can modify this section to account for
+this case, take the following basic form:
+
+::
+
+syncup(){
+
+CURRENT=`pwd`
+
+for repo in $force_sync_repo; do
+cd $repo;
+
+echo -- syncing $repo
+git pull -q
+git push -q
+
+done
+cd $CURRENT
+
+}
+
+Simply insert some logic into the \`for\`\` loop, like so:
+
+::
+
+for repo in $force_sync_repo; do
+cd $repo;
+if [ $repo = ~/work ]; then
+if [ `netcfg current | grep -c "vpn"` = "1" ]; then
+echo -- syncing $repo on work vpn
+git pull -q
+git push -q dev internal
+else
+echo -- $repo skipped because lacking vpn connection
+fi
+elif [ $repo = ~/personal ]; then
+if [ `netcfg current | grep -c "homevpn"` = "1" ]; then
+echo -- syncing $repo with homevpn
+git pull -q
+git push -q
+else
+echo -- $repo skipped because lacking homevpn connection
+fi
+else
+echo -- syncing $repo
+git pull -q
+git push -q
+fi
+done
+
+Basically, for two repositories we test to make sure that a particular
+network profile is connected before operating on those repositories. All
+other operations are as in the first example. I use the output of
+"``netcfg current``\ ", which is an ArchLinux network configuration tool
+that I use. You will need to use another test, if you are not using Arch
+Linux.
+
+git sync
+--------
+
+You can use the functions provided by the "library" and skip this part
+if you don't need to automate your backup and syncing process. The whole
+point of this project was specifically to automate this kind of thing,
+so this--though short--is kind of the cool part. You can download `git
+sync here </code/git-sync>`__.
+
+Put this script in your ``$PATH``, (e.g. "/usr/bin" or "/usr/bin/local";
+I keep a "``~/bin``\ " directory for personal scripts like this in my
+path, and you might enjoy.) You will then have access to the following
+commands at any shell prompt:
+
+::
+
+git-sync backup
+git-sync half
+git-sync full
+
+Backup calls a function in ``git-sync`` to backup some site-specific
+files to a git repository (e.g. crontabs, etc.) The ``half`` sync only
+downloads new changes, and is meant to run silently on a regular
+interval: I cron this every five minutes. The ``full`` sync runs the
+backup, commits local changes, downloads new changes, and sends me an
+xmpp message to log when it finishes successfully: I run this a couple
+of times an hour. But there's an exception: if the laptop isn't
+connected to a Wifi or ethernet network, then it skips sync options. If
+you're offline, you're not syncing. If you're connected on 3g tethering,
+you're not syncing.
+
+That's it! Feedback is of course welcome, and if anyone wants these
+files in their own git repository so they can modify and hack them up,
+I'm more than willing to provide that, just ask.
+
+Onward and Upward!
+
+.. [1]
+I wrote this as a ``bash`` script but discovered that something with
+the way I was handling arrays was apparently a zsh-ism. Not a big
+fuss for me, because I use ``zsh`` on all my machines, but if you
+don't use ``zsh`` or don't have it installed, you'll need to modify
+something in the array or install ``zsh`` (which you might enjoy
+anyway.)
+

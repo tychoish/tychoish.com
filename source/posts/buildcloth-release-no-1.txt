@@ -1,0 +1,73 @@
+=========================
+Buildcloth Release, No. 1
+=========================
+
+.. post:: 2013-03-30
+   :author: tychoish
+
+Today I released the first version of
+`Buildcloth <http://cyborginstitute.org/projects/buildcloth/>`__ which
+is a tool that I've been using at work to programatically (and in some
+cases) dynamically generate build systems (i.e. Makefiles.)
+
+Background
+----------
+
+It's obviously been "production ready" in some sense for a while, but I
+recently finished the API documentation, and a lot of the infrastructure
+for packaging and distribution, so it seemed like this was a good
+starting point.
+
+The initial idea was basically that while Make syntax can be really
+powerful, in a number of situations:
+
+-  to specify conditional elements,
+
+-  to generate build targets and procedures based on system
+configuration or project state,
+
+-  for large numbers similar of targets, and
+
+-  for build with where single targets have a group of related rules,
+
+defining build systems programatically ends up producing a much more
+reliable and maintainable build system. The wins are pretty big in terms
+of maintainability, clarity, and flexibility.
+
+The idea, and naming, is sort of: do what
+`fabric <http://fabfile.org/>`__ does for shell scripts and deployment
+but for build system generators. Maybe this is exactly what you're
+looking for.
+
+More Information
+----------------
+
+Check it out:
+
+-  `buildcloth on Pypi <https://pypi.python.org/pypi/buildcloth/>`__
+-  `buildcloth github repo <https://github.com/tychoish/buildcloth>`__
+
+`Bugs go
+here <https://issues.cyborginstitute.net/buglist.cgi?cmdtype=runnamed&namedcmd=buildcloth>`__,
+and patches/pull requests are always welcome.
+
+Cool Improvements:
+------------------
+
+-  full documentation.
+
+-  support for specifying targets/dependencies as a list.
+
+-  a build-rule abstraction called RuleCloth.
+
+-  improved ninja support.
+
+The Roadmap
+-----------
+
+-  making the tutorial and high level documentation better.
+-  improving the "RuleCloth."
+-  adding some preliminary tools for managing data interactions.
+-  pypy support (why not?)
+
+

@@ -1,0 +1,103 @@
+=====================
+file system databases
+=====================
+
+.. post:: 2009-05-27
+   :author: tychoish
+   :tags: cyborg, database
+
+`Joe <http://www.josephspiros.com>`__ has remarked that he finds it
+ironic that--in this blog--I sing the praises of using emacs and storing
+one's data in plain text files, largely as part of a crusade against
+databases. I also am an ardent supporter of his
+`haven <http://josephspiros.com/2009/02/05/prelude-to-haven>`__ project,
+which is basically a database project.
+
+While I don't think this is *that* contradictory, I do understand how
+one could make that inference, so I think it might be wise to address
+this issue explicitly. Lets first do a little bit of recapping:
+
+1. Reasons Why I don't like databases:
+
+-  Inflexible for many kinds of data, and require users to adapt to
+structure, rather than the other way around.
+
+-  Databases require too much overhead, both during operation and
+programming to be totally worthwhile except in some large-scale edge
+cases.
+
+-  Databases abstract control over data from the owner/user of the data
+to systems administrators and programmers, rather than leaving data
+in a form that everyone can access and manage
+
+2. Reasons why I like text files:
+
+-  Everyone and every machine can read text files. They're a
+lingua-franca.
+
+-  We have many highly sophisticated options for editing and munging
+data in plain text files.
+
+-  Plain text files are infinitely flexible, both in structure, and in
+the kinds of data they can store.
+
+3. Caveats
+
+-  There are some kinds of data that are best stored in database
+systems.
+
+-  Structure in plain text files is dependent upon the self control and
+education of the users, which may be a risky situation.
+
+4. Reason why I like Haven:
+
+-  It combines numerous features that I think are really powerful and
+key to the development of how we use computers: cryptographic
+security, flexibly structured data; distributed computing/data
+storage; versioned data stores; collaborative systems;
+non-hierarchical organization of data; etc.
+
+-  Joe is awesome.
+
+-  It expands and improves on the Project Xanadu idea.
+
+My response to Joe's question: how does plain text coexist with haven,
+in your mind.
+
+The answer is pretty simple, really.
+
+At its core, haven isn't so much a database, as it is a file system. We
+don't think "I'll set up a haven repository/system for this project,"
+but rather "Hang on, I can put my data for this, into the haven system."
+Haven isn't a bucket that can be designed to hold anything, it's a total
+system that's meant to hold *everything.*
+
+And it's just a low level system. Joe's work on haven is focused on a
+server application, and an API. Everything else are just applications
+that use haven. One such application would (inevitably) be a
+`FUSE <http://en.wikipedia.org/wiki/Filesystem_in_Userspace>`__-driver
+which would expose a Haven system as a file system. So your objects in a
+haven database would be, basically plain text files.
+
+Which kind of rocks.
+
+Now Haven is just a concept right now, but, in general, FUSE is one of
+those technologies with *amazing* possibilities because we have so many
+amazing tools and mature technologies for manipulating data in file
+systems. FUSE abstracts the mechanics of file systems, and makes it easy
+to "think about" data in terms of files, even if it doesn't make a lot
+of sense to store said data in files. That's really, quite cool, and
+powerful for the rest of us.
+
+I've seen fuse drivers for
+`Wikipedia <http://wikipediafs.sourceforge.net/>`__, a `nonhierarchial
+file system <http://rffr.de/nhfs>`__,
+`http <http://httpfs.sourceforge.net/>`__ (ie. the web),
+`blogger <http://mundau.blogspot.com/2006/12/bloggerfs-last-night-i-was-playing.html>`__,
+and `structured
+data <http://sourceforge.net/project/showfiles.php?group_id=16036&package_id=191598>`__
+like RSS and other xml, all of which are really cool. I'm not sure if
+any or all of these systems are *done*, and I'm not sure that any of
+these creative uses for FUSE are ready for prime time, but I think it's
+a step in the right direction, generally.
+

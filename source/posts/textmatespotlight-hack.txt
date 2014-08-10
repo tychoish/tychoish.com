@@ -1,0 +1,56 @@
+=======================
+TextMate/Spotlight Hack
+=======================
+
+.. post:: 2007-10-11
+   :author: tychoish
+
+Ok, so some of you probably won't find this that helpful, but here's
+something I think is rather cool.
+
+All of you should know that in OS X that the terminal command:
+
+::
+
+$ mdfind *******
+
+where the \*\*\*\*\*\*\* is your search term (and yes, you can constrain
+the results using a specific directory, or wildcards) will use the
+spotlight framework in OS X to find files that contain your search term.
+That's pretty nifty, and it's **fast**, significantly faster than the
+GUI.
+
+The next part of this hack uses a very basic shell scripting thing, that
+most shell fiends know...
+
+::
+
+$ mdfind ******* > search.results.txt
+
+Will preform your search just as above, but it will put the results into
+whatever file you say, and make a new file if it doesn't already exist.
+That's kind of cool.
+
+Once it's in the file I open the new file in TextMate. With some quick
+find and replace I escape out the spaces in the file names, and prefix
+all of the lines with an "open" command, I could probably write a macro
+that would do this, but I'm lazy, and the opportunity to write a
+`regexp <http://en.wikipedia.org/wiki/Regular_expression>`__ every now
+and then makes me feel smart.
+
+Then, because `TextMate <http://macromates.com/>`__ is so awesome, if
+you just hit ^R (control-R) when you've found a line that mentions a
+line you're interested in, it will execute the line, and open the file.
+
+As I think about it, you could omit the "open the terminal and enter the
+command" step and just sort of use TextMate as a sort of de-facto shell,
+but I have a terminal window triggered to a hot-key that's easy to work
+from so that seems like the way to go.
+
+Anyway, I think it's fun, and I definatly recomend using spotlight from
+the command line, rather than the GUI, because it's faster, and I find
+that having the information about where the file is located is helpful
+for sorting out files that I know can't *possibly* be the right ones.
+
+Good searching!
+

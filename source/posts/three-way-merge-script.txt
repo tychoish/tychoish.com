@@ -1,0 +1,79 @@
+======================
+Three Way Merge Script
+======================
+
+.. post:: 2013-01-05
+   :author: tychoish
+   :tags: code
+
+**Note:** *This is an old post about a script I wrote a few months ago
+about a piece of code that I'm no longer (really) using. I present it
+here as an archival piece with a boatload of caveats. Enjoy!*
+
+I have a problem that I think is not terribly unique: I have a directory
+of files and I want to maintain two distinct copies of these files at
+once, and I want a tool that looks at both directories and makes sure
+they're up to date. That's all. Turns out nothing does exactly that, so
+I wrote a hacked up shell script, and you can get it from the [[code]]
+section:
+
+[[code/merge-script]]
+
+I hope you enjoy!
+
+Background
+----------
+
+You might say, "why not just use git to take care of this," which is
+fair. The truth is that I don't really care about the histories as long
+as there's revision. Here's the situation:
+
+I keep a personal `ikiwiki <http://ikiwiki.info>`__ instance for all of
+my notes, tasks, and project stuff. There's nothing revolutionary, and I
+even use `deft <http://jblevins.org/projects/deft/>`__, dired, and some
+hacked up lisp to do most of the work. But I also work on a lot of
+projects that have their own git repositories and I want to be able to
+track the notes of some of those files in those repositories as well.
+
+Conflicts.
+
+There are some possible solutions:
+
+1. Use hard links so that both files will point at the same data on
+disk.
+
+Great idea, but it breaks on multiple systems. Even if it *might* have
+worked in this case, it freight ens me to have such fragile systems.
+
+*Note: the more I play with this, the less suitable I think that it
+might be for multi system use. If one or both of the sides is in a git
+repo, and you make changes locally and then pull changes in from a git
+upstream, the git files, may look newer than the files that you changed.
+A flaw.*
+
+2. Only edit files in one repository or the other, and have a pre-commit
+hook, or similar, that copies data from the new system to the old
+system.
+
+I rejected this because I thought I'd have a hard time enforcing this
+behavior.
+
+3. Write a script that uses some ``diff3`` to merge (potential) changes
+from both sources of changes.
+
+This is what I did.
+
+The script actually uses the ``merge`` command which is a wrapper around
+diff3 from ``rcs``. *shrug*.
+
+Beyond my somewhat trivial and weird use-case, I actually think that
+this script is *more* useful for the following situation:
+
+You use services like Dropbox as a way of getting data onto mobile
+devices (say,) but you want the canonical version of the file to live in
+a git repository on your system.
+
+This is the script for you.
+
+I hope you enjoy it!
+

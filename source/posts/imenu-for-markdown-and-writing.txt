@@ -1,0 +1,46 @@
+==================
+imenu for Markdown
+==================
+
+.. post:: 2012-11-25
+   :author: tychoish
+   :tags: emacs
+
+For a while, I've been envious of some of the project and file
+navigation features in emacs for browsing bigger projects/programs,
+things like `imenu <http://emacswiki.org/emacs/ImenuMode>`__ and
+`tags <http://www.gnu.org/software/emacs/emacs-lisp-intro/html_node/etags.html>`__
+have always seems awesome but given that I spend most of time editing
+`restructured text <http://docutils.sourceforge.net/rst.html>`__ and
+`markdown <http://daringfireball.net/projects/markdown/>`__ files (I'm a
+technical writer), these tools have been distant and not a part of my
+day to day work.
+
+It's not that it would be impossible to write interfaces for imenu or
+etags, for the formats I use regularly, but more that I've never gotten
+around to it until now.
+
+We're still a ways away on the question of etags, but it turns out that
+when I wasn't looking ``rst`` mode got imenu support, and with the
+following little bit of elisp you can get imenu for markdown.
+
+::
+
+(setq markdown-imenu-generic-expression
+'(("title"  "^\\(.*\\)[\n]=+$" 1)
+("h2-"    "^\\(.*\\)[\n]-+$" 1)
+("h1"   "^# \\(.*\\)$" 1)
+("h2"   "^## \\(.*\\)$" 1)
+("h3"   "^### \\(.*\\)$" 1)
+("h4"   "^#### \\(.*\\)$" 1)
+("h5"   "^##### \\(.*\\)$" 1)
+("h6"   "^###### \\(.*\\)$" 1)
+("fn"   "^\\[\\^\\(.*\\)\\]" 1)
+))
+
+(add-hook 'markdown-mode-hook
+(lambda ()
+(setq imenu-generic-expression markdown-imenu-generic-expression)))
+
+Pretty awesome! I hope it helps you make awesome things.
+

@@ -1,0 +1,103 @@
+=================================
+why tiling window managers matter
+=================================
+
+.. post:: 2009-05-08
+   :author: tychoish
+   :tags: research, open-source, cyborg
+
+I've realized much to my chagrin that I haven't written a post on about
+the `Awesome Window Manager <http://awesome.naquadah.org/>`__ in a long
+time. It's funny how window managers just fade into the background,
+particularly when they work well and suit your needs. Why then, does
+this seem so important to me and why am I so interested in this? Funny
+you should ask.
+
+Tiling window managers aren't going to be the *Next Big Thing* in
+computing, and if they (as a whole) have an active user-base of more
+than say 10,000 people that would be really surprising. While I think
+that a lot of people would benefit and learn from using Awesome (or
+others), even this is something of a niche group.
+
+As a result, I think something really interesting happens in the tiling
+window manger space. First, the project is driven by a rather unique
+driving force that I'm not sure I can articulate well. It's not driven
+by a desire of profit, and it's not driven by some larger Utopian
+political goal (as a lot of free software is). This is software that is
+written entirely for oneself.
+
+That's the way most (ultimately) free software and open source projects
+start. A lot of emphasis in the community (and outside) is made on the
+next stage of the progress, where a project that was previously "for
+oneself" becomes something larger with broader appeal. Lets start with
+the `git version control system <http://www.git-scm.com>`__ which
+started because the kernel development team needed a new version control
+system, but in the past couple of years has become so much more, by way
+of phenomena like `github <http://www.github.com>`__ and
+`flashbake <http://bitbucketlabs.net/flashbake/>`__. The free software
+and open source worlds are full of similar examples: the Linux Kernel,
+Drupal, b2/WordPress, Pidgin/Gain, Asterisk, and so forth.
+
+But Awesome, and the other tiling window managers will, likely as not
+never make this jump. There is no commercial competitor for these
+programs, they're never going to "breakthrough" to a larger audience.
+This isn't a bad thing, it just effects how we think about some rather
+fundamental aspects of software and software development.
+
+*First, if developers aren't driven by obvious "us versus them"
+competition, how can the software improve? And aren't there a bunch of
+tiling window mangers that compete with each other?*
+
+I'd argue that competition, insofar as it does occur, happens within a
+project, and within the developer rather than between projects and
+between developers. Awesome developers are driven to make Awesome more
+awesome, because there's no real competition to be had with Aqua (OS X
+window manger,) or other Kwin and Metacity (GNOME and KDE's window
+mangers), or even other alternate X11 window managers like
+`OpenBox <http://icculus.org/openbox/index.php/Main_Page>`__.
+
+Developers are driven to "do better," than the people that preceded
+them, better than their last attempt, better than the alternate
+solutions provided by the community. Also, the principals of minimalism
+which underpins all of these window managers towards simple, clean, and
+lightweight code, inspires development and change (if not growth,
+exactly). This seems to hold true under anecdotal observation.
+
+While there are a number of tiling window managers in this space, I'm
+not sure how much they actually compete with each other. I'd love to
+hear what some folks who use `xmonad <http://xmonad.org/>`__ and
+`StumpWM <http://www.nongnu.org/stumpwm/index.html>`__ have to say about
+this, but it's my sense that the field of tiling window managers has
+more to do with other interests. Xmonad makes a point about the Haskel
+programing language. Stump is targeted directly toward emacs users and
+demonstrates that Lisp/Common Lisp is still relevant. Awesome brings the
+notion of a framework to window management, and seems to perfectly
+balances customizable with lightweight design. While Awesome is a
+powerful player in this space, I don't think that there's a lot of
+competition.
+
+*Second, if there's no substantive competition in this domain and if
+there's a pretty clear "cap" to the amount of growth, how are tiling
+window managers *not* entirely pointless.*
+
+I think there are two directions to go with this. First I think we're
+seeing some of the benefits of these window managers in other projects
+like `xcb <http://xcb.freedesktop.org>`__ (a new library for dealing
+with X11) and `freedesktop <http://www.freedesktop.org>`__ benefit both
+directly and indirectly from the work being done in the tiling window
+manager space. Similarly, Xmonad is a great boon to the Haskell
+community and cause (I suspect).
+
+The other direction follows `an essay I wrote here a few months ago
+about the importance of thinking about the capabilities of programing
+languages even if you're not a
+programmer <http://tychoish.com/rhizome/sapir-whorf-hypothesis-and-computer-programing/>`__
+because languages, like all sorts of highly technical concepts and tools
+create and constrain possibilities for all computer users, not just the
+people who ponder and use them. In the case of the tiling window
+manager, thinking about how the people who are writing computer programs
+is productive. In addition to the aforementioned thoughts about
+competition and open source.
+
+So there we are. I'll be in touch.
+

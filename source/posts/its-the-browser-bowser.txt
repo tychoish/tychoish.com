@@ -1,0 +1,48 @@
+==============================
+It&#8217;s The Browser Bowser!
+==============================
+
+.. post:: 2007-02-07
+   :author: tychoish
+
+Ok, that was a cheesy title, but I've recently realized taht I don't do
+a lot of actual reading in a web-browser these days. I mean sure I open
+browser windows all the time, but I so rarely find that I do a lot of my
+heavy lifting-reading in a browser, and--gasp--I don't keep very many
+tabs open. The feed reader takes care of most of that, and I have
+offline apps that deal with most of my most important tasks. For
+example: I post to this weblog (and others) using MarsEdit, I maintain
+my del.icio.us account using Cocoalicious, and of course I read weblogs
+and other feeds using NetNewsWire, and I check all of my email using
+Mail.app.
+
+While the whole Web2.0 movement supposedly pushes us to "live in our
+browsers," and while for folks who don't have laptops as their primary
+computers but use multiple machines, this makes a certain measure of
+sense. But I don't fall into that category, and I have to say that, for
+the most part, I would much rather use a handful of neat apps, and be
+able to avoid using a web-browser for as much as I can.
+
+So I should say at this point that I use Firefox 2.0, because it's good
+software, and rather like it. But I've started to realize that I don't
+really need the power it offers, and given the amount of work I'm doing
+in Cocoa apps, a browser that played nice with OS X would be nice. For
+those of you who don't know, Firefox doesn't interact with the OS X
+service menu and that's... less than desireable. Also, given that I'm
+not using much of what firefox can offer, I've started to think that
+perhaps a different browser would be more advantageous. Camino looks
+like the obvious choice, but Safari, is probably comparable and both of
+these options are fast.
+
+Do people have opinions on WebKit versus Gecko? The firefox features
+that I like the most are: crash recovery and the FoxyProxy extension, so
+if someone has an any suggestion on how to replicate this functionality,
+that would be awesome...
+
+That is all.
+
+Also, if I don't get the GTD article done tomorrow night, we might have
+to wait till next week, because this weekend is jamming.
+
+Best, tycho(ish)
+

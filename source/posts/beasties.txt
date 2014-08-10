@@ -1,0 +1,60 @@
+========
+beasties
+========
+
+.. post:: 2008-03-18
+   :author: tychoish
+   :tags: open-source, technology
+
+This is the post I promised a few days ago about my linux/BSD/etc.
+quandary.
+
+I have an old computer that is a handmedown from some friends who moved
+out of town and had (good for them!) bought an iMac. It's 2001 vintage
+PC, branded HP. Say, 512 megs of ram, and a 1.8 ghz Pentium 4. In fact,
+it's a pretty spiffy machine, for it's day. I often think of PCs as
+being uniformly lackluster, but the truth is that I never had an
+overcharged machine. For instance, this PC has firewire. Firewire! I'm
+not sure that they're putting firewire in PCs these days.
+
+In any case, while the computer isn't ultra spiffy by today's standards,
+it's not bad. Well, it's not bad aside from the fact that Windows has...
+done what Windows does best: break, and crumble under the pressure of
+every day use. I mean the people I know (ok person) I know that uses
+windows with any consistency reinstalls the operating system with a
+degree of regularity that I find almost maddening (Hi C.!).
+
+Anyway, I think if I install a more... lightweight operating system,
+something unix-y. And this post is half, me thinking out loud, and half
+me asking you all for help and opinions on the subject.
+
+I might be able to put this computer to serious work doing something
+around here. One distinct possibility is that I'll get it ready for my
+mother to use as her home computer, running mostly web things--email,
+surfing, IM--and what not. Also being able to run a few things in Wine
+might help her workflow out. That strikes me as being the perfect use
+for a straight up ubuntu install. I've also thought about Xubuntu,
+because it seems like it's pretty suited to this kind of thing (reviving
+an older computer that doesn't need to do any serious heavy lifting.)
+
+The second thing I'm thinking of doing with this computer is to find
+some way of getting it to work (including boot up and all) without
+needing a keyboard/video/etc. So basically a server set up. I figure it
+would be the most efficient to be able to access it over the network
+from the computer that I actually use on a day to day basis. Mostly I'd
+use it for things like file serving, and backup, but maybe bit torrent
+and the like as well. Ubuntu would probably work ok for this (and I did
+grab a copy of the server version as well, if I want to try this. I also
+thought that trying to run FreeBSD might be sort of fun. I mean: a shell
+is a shell (I hear freeBSD doesn't come stock with bash, sigh.) and you
+know that might be fun. And if I don't get into graduate school, having
+unix experience, might be productive.
+
+So I guess, your thoughts on Ubuntu flavors, or I suppose other linux
+distributions, and also, on FreeBSD if anyone out there in Internet land
+has experience, it would be great to hear from you on that.
+
+Talk to you soon!
+
+Onward and Upward!
+

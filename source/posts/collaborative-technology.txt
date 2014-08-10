@@ -1,0 +1,69 @@
+========================
+Collaborative Technology
+========================
+
+.. post:: 2010-08-05
+   :author: tychoish
+   :tags: writing, cyborg
+
+I agreed to work on an article for a friend about the collaborative
+technology "stuff" that I've been thinking about for a long time. I
+don't have an `archive <http://tychoish.com/archive>`__ that covers this
+subject, but perhaps I should, because I think I've written about the
+technology that allows people to *make things* with other people a
+number of times, though I have yet to pull together these ideas into
+some sort of coherent post or essay.
+
+This has been my major post-graduation intellectual challenge. I have
+interests, even some collected research, and no real way to turn these
+half conceptualized projects into a "real paper." So I've proposed
+working with a friend to collect and develop a report that's more
+concrete and more comprehensive than the kind of work that I've been
+attempting to accomplish on the blog. Blogging is great, don't get me
+wrong, but I think it leads to certain kinds of thinking and writing (at
+least as I do it,) and sometimes other kinds of writing and thinking are
+required.
+
+Regarding this project, I want to think about how technology like "git"
+(a distributed version control system) and even tools like wiki's shape
+the way that groups of people can collaborate with each other. I think
+there's an impulse in saying "look at the possibilities that these tools
+create! This brave new world is entirely novel, and not only changes the
+way I am able to complete my work, but how I look at problems, and make
+it so much easier for me to get things done.." At the same time, the
+technology can only promote a way of working it doesn't necessarily
+*enforce* a way of working, nor does any particular kind of technology
+really remove the burdens and challenges of "getting things done." More
+often perhaps new kinds of technology, like distributed version control,
+is responsible for increasing the level of abstracting and allowing us
+(humans) to attend to higher order concerns.
+
+Then, moving up from the technology, I think looking at how people *use*
+technology in this class allows us to learn a great deal about how work
+is accomplished. We can get an idea of when work is being done, an idea
+of how quality control efforts are implemented. Not only does this allow
+us to demystify the process of creation, but having a more clear idea of
+how *things are made* could allow us to become better makers.
+
+The todo list, then, is something like:
+
+-  Condense the above into something that resembles a thesis/argument.
+
+-  Become a little more familiar with the git-dm ("data mining") tool
+that the Linux Foundation put together for their "state of Kernel
+development."
+
+-  Develop some specific questions to address. I think part of my
+problem above and heretofore has been that I'm saying "there's
+something interesting here, if we looked," rather than. "I think w
+kind of projects operate in x ways, where y projects will operate in
+z ways."
+
+-  Literature review. I've done some of this, but I've felt like I need
+to do even more basic methodological and basic theory reading. And
+even though an unread *Patterns of Culture* is on my bookshelf, I
+don't need to read that to begin reading articles.
+
+That's a start. Feedback is always useful. I'll keep you posted as I
+progress.
+

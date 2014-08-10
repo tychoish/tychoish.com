@@ -1,0 +1,41 @@
+==============
+List Ignorance
+==============
+
+.. post:: 2008-01-24
+   :author: tychoish
+
+So as part of my scheme to be more productive I use a system of .tasks
+files that contain lists of things that need doing. because the file
+begins with a dot, they're "hidden," because this is the designation for
+hidden files and folders in UNIX systems, of which OS X is one. The
+other nice thing is that I can keep my lists out of the way, but very
+connected to the project files that I'm working on, without much fuss.
+
+I have one of these lists in my blogging folder, with subjects that I'd
+like to cover at some point on the blog. Posts that need written, posts
+that are written and queued for posting. Posts that are in draft status.
+
+And I use a little program called
+"`GeekTool <http://projects.tynsoe.org/en/geektool/>`__\ " that displays
+the blogging todo list, among others, on my desktop, and I look at these
+files from time to time.
+
+In the blogging "posts to write" section of the file there are eight or
+nine posts that I often think "you know I should write," so I go and
+open a new text file, get everything ready to write a post. And I start
+writing.
+
+And I totally write about what I just finished reading, or my grating
+urge to get a new computer, or something funny I just saw and forget to
+muse for a while on impostor syndrome, or the problem with knitting
+sleeves.
+
+Sigh.
+
+This post wasn't on that list either.
+
+Sigh.
+
+tycho out.
+

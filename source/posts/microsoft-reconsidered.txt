@@ -1,0 +1,107 @@
+======================
+microsoft reconsidered
+======================
+
+.. post:: 2009-09-21
+   :author: tychoish
+   :tags: open-source, cyborg
+
+I've been thinking about Microsoft recently, and thinking about how the
+trajectory of Microsoft fits in with the trajectory of information
+technology in general.
+
+A lot of people in the free software world are very anti-Microsoft,
+given some of the agregious anti-competitive activites they use, and
+general crappiness of their software. And while I agree that MS is no
+great gift to computing, it's always seemed to me that they're
+johnny-come-lately to the non-free software world (comparatively
+speaking AT&T and the telecom industry has done way more to limit and
+obstruct software and digital freedom than microsoft, I'm thinking.) But
+this is an akward argument, because there's no real lost love between me
+and Microsoft, and to be honest my disagreement with Microsoft is mostly
+technologcial: microsoft technology presents a poor solution to
+technical problems. But I digress.
+
+One thing that I think is difficult to convey when talking about
+Microsoft is that "The Microsoft We See" is not "The Core Business of
+Microsoft;" which is to say the lion's share of Microsoft's business is
+in licensing things like Exchange servers (email and groupware stack) to
+big organizations, and then there's the whole ASP.NET+SQL-Server stack
+which a lot of technology is built upon. And Microsoft works licensing
+in ways that's *absurd* to those of us who don't live in that world. A
+dinky instance (ten users?) of Windows Server+Exchange for small
+corporations easily *starts* at a grand (per year? bi-annually?) and
+goes up from there depending on the size of the user-base. I would, by
+contrast, be surprised if Microsoft saw more than 50 or 60 dollars per
+desktop installation of Windows that consumers buy. [1]_ And I suspect a
+given installation of windows lasts three to five years.
+
+I don't think it's going to happen tomorrow or even next year, but I
+think netbooks--and the fact that Microsoft won't put anything other
+than XP on them--and the continued development of Linux on embedded
+devices, and the growing market share of Apple in the Laptop Market (and
+the slow death of the desktop computing market as we know it,) all serve
+to make any attention that we give to market share of Windows on the
+desktop, increasingly less worthwhile. This isn't to say that I think
+people will flock in great numbers to other platforms, *but*...
+
+I think what's happening, with the emergence of all these web-based
+technologies, with Mono, with Flash/Flex/Silverlight/Moonlight, with
+web-apps, with Qt running cross platform, with native GTK+ ports to
+windows and OS X, is that what you run on your desktop is (and will
+continue to become) more and more irrelevant. There won't be "the next
+Microsoft," because whatever you think of the future of IT, there isn't
+going to be a future where quality software is more scarce, or harder to
+produce than it is today.
+
+--------------
+
+So this brings us back to servers licensing, and something that I
+realized only recently. In the Linux world, we buy commodity hardware,
+sometimes really beefy systems, and if you have a scaling problem you
+just set up a new server and do some sort of clustered or distributed
+setup, which definitely falls under the heading of "advanced
+sysadmining," but it's not *complex*. With virutalization it's even
+easier to fully utilize hardware, and create really effective
+distributed environments. At the end of the day, what servers do is not
+particularly *complex work* in terms of number crunching, but it is
+massively parallel. And here's the catch about Windows: developers are
+disincentived to run more than one server, because as soon as you do
+that, your costs increase disproportionately with regard to the
+hardware. Say the cost of a production server (hardware) is 4k and you
+pay 2k-3k for the software. If at some point this server isn't big
+enough for your needs, do you: buy an almost-twice-as-good-8k dollar
+server with a single license, or just shell out another 6k-7k and have a
+second instance? Now lets multiply this times 10? Or more? (I should
+point out that I'm almost certainly low balling Software licensing
+costs.)
+
+At some point you do have to cave and pay for an extra Microsoft
+license, but it makes a lot of sense from an operations perspective to
+throw money at hardware rather than distributed architectures, because
+not only is it quicker, but it's actually cheaper to avoid clusters.
+
+*Micro*\ soft, the company that made its money in *microcomputer*
+software has backed itself into being the "big iron" computing business.
+Which is risky for them, and anyone. Sun Microsystems couldn't make it
+work, IBM *kills* in this space (and Linux mainframes are in the
+50k-100k range, which doesn't look as absurd in light of the
+calculations above.)
+
+Anyway, this post has been all over the place, and I'm not sure I can
+tie it all together in a neat bow, but I think its safe to say that we
+live in interesting times, and that this whole "cloud thing" combined
+with the rapidly falling price of very high-powered equipment changes
+all of the assumptions that we've had about software for the past twenty
+or thirty years. For free software as well as the proprietary
+software...
+
+.. [1]
+There's a line in the Windows EULA, that says if you don't agree with
+the terms and aren't going to use the windows that comes installed on
+your computer that you can get a refund on this if you call the right
+people for your machine's distributor. I've heard reports of people
+getting ~130 USD back for this, but it's unclear how much of that
+goes to Microsoft, or to the support for MS products that OEMs have
+to provide.
+

@@ -1,0 +1,71 @@
+=======
+Open ID
+=======
+
+.. post:: 2008-09-15
+   :author: tychoish
+
+Weeks ago I was talking with a coworker about internet communities and
+web development, and other related topics, and our various experiences
+with "community websites." One of my largest complaints/points in this
+conversation was about how "community sites" always feel like walled
+communities in a way, and that while I'm often vaguely interested in any
+*number* of particular community sites at this point, I'm not
+particularly interested in *joining* yet another website, and "keeping
+up" and particpating in these
+`pull <http://en.wikipedia.org/wiki/Pull_technology>`__ based
+communities is, difficult.
+
+Now before you call me jaded, I'll cop to it, and I'll clarify that I'm
+a really intense consumer of internet content, and I'm also really
+controlling about the format that I get my data in, so I don't think my
+experiences are particularly typical. *Resume argument...*
+
+The obvious solution to this problem that I mentioned is `Open
+ID <http://openid.net/>`__ which is a
+`service <http://en.wikipedia.org/wiki/OpenID>`__ where one website
+accepts the authentication credentials of another website.
+
+So here's how it works. I sign in to an OpenID provider (I mostly use
+live journal for this purpose, but any will work), I take my LJ address
+and go to a site which accepts OpenID logins (like
+`identi.ca <http://identi.ca/>`__), and the site which accepts openID,
+asks LJ (etc.) "is this really tycho," at which point *LJ* makes sure
+I'm logged in and asks *me* "do you really want me to do this?" I say
+yes, and then I'm logged in. No passwords to be compromized, no
+passwords to forget. no fuss. It just works.
+
+There are a couple of other nice features, first that you can mask your
+login with a different URL. My Open ID url is this website, but the
+provider/verifier of my identity is live journal, and this works because
+of a tag that's in the HTML of tychoish.com. In addition to being
+pretty, if I at some point decide that I want a different LJ account or
+a totally different Open ID provider, I can change the URL in question
+in the HTML of tychoish.com, and everything still works.
+
+Secondly, you can run your own Open ID server. Unlike other systems
+which unify identity management online, OpenID doesn't depend on one
+company providing authority, or security, which is nice, because there's
+no one target to hack, as there would be if a company like Google or
+Microsoft the unified decentralized server.
+
+Open ID is of course open to the same kinds of problems around identity
+squatting and theft that having lots of logins can have, but it doesn't
+create any new problem or security risk, and there are ways that having
+fewer passwords, and fewer accounts could actually be more secure.
+
+But online communities? How does that fit in. Well simple. Open ID makes
+signing up for communities a lot easier. It's the first step in opening
+up our participation in multiple online communities to a more federated
+environment, and I think it could conceptually make it more possible for
+a lot of smaller niche websites to coexist in a larger internet ecology.
+
+I'm going to post more on the subject of the ecosystems of internet
+communities and federation later this week, but lets return to my
+conversation with the coworker where I said something like: "you know,
+if only people would actually use OpenID?"
+
+And he said, "Yeah, good luck with that one."
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

@@ -1,0 +1,137 @@
+==========
+org system
+==========
+
+.. post:: 2009-02-16
+   :author: tychoish
+   :tags: org-mode, emacs, cyborg
+
+The `last time I talked about org-mode, I covered a number of my
+"beginner mistakes," <http://tychoish.com/rhizome/org-mode/>`__, this
+time I think it'd be a bit more productive to explain how I'm actually
+using `org-mode <http://www.orgmode.org/>`__. For those of you playing
+at home this is one of those `systems I talked
+about <http://tychoish.com/rhizome/of-the-system/>`__.
+
+I'm going to try and avoid including bits of code/lisp in this post, as
+I don't want to confuse "what I'm doing," with "how I'm doing it." We'll
+get to that point in time, and there's plenty to talk about.
+
+At the moment the features of org-mode that I use the most are:
+
+-  org-agenda-mode
+-  checkboxes
+-  org-remember-mode
+-  and org-mode outlines
+
+I also store org-mode files in a git repository that lives in my home
+folder of all machines that I use with any regularity. I'm running
+emacs-23 (ubuntu package: emacs-snapshot), generally in server-mode,
+with two frames open, one has "the thing I'm writing" and the other has
+the org-mode-agenda and some org-mode file in the other window. [1]_
+
+System Layout
+-------------
+
+At the moment I have 9 org-mode files:
+
+1. A file the novel project, that contains background notes, and outline
+of the story, as well as project management stuff.
+
+2. A file that contains notes for blog posts. This is mostly
+organizational, and I just add ideas as I have them and check them
+off and archive them when I'm done.
+
+3. A general "codex" file, that I dump links. I've had a file like this
+for a number of years, and I generally find that having a catchall
+like this is productive.
+
+4. A general fiction file, for project management issues related to the
+fiction projects that aren't the novel. I'll probably split this up
+as needed in the future.
+
+5. I have two files to manage web development/design projects that I'm
+working on for myself.
+
+6. One file to manage my academic/research project. Includes
+notes/content as well as todo items.
+
+7. A "technology" file that contains lists of tweaks and other
+technological projects that I need to undertake (like switching to
+OpenDNS).
+
+8. A file for work projects and notes
+
+9. A journal file, for tracking activities and accomplishments.
+
+Org-Mode Features
+-----------------
+
+The features that I use:
+
+Outlines and Checkboxes
+~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a no brainier, but it makes sense. Org-mode is at it's core an
+outlining program, but I think it is important to underscore this. It's
+an outlining program. use it to create outlines. All of the talk and
+videos that I've seen explaining and demonstrating org-mode talk about
+the cool agenda functionality, or the table feature (which are great
+tools) but this washes over the fact that it's an outlining program.
+
+Why am I stressing this? Because the agenda commands and all the other
+functionality actually works better when you have a bunch of files with
+outlines in them. When you have outlines to deal with, you can tag the
+items that are truly "actionable" with "TODO" (or other action words)
+and include them with your agenda items. Or if an item/heading on your
+outline is time sensitive you can use the org calendar system to toggle
+deadlines/schedule points. And lists below headings can have checkboxes,
+which is a great boon, as well. But, if you work backwards and attempt
+to anticipate what agenda is going to do, then you're loosing some of
+it's functionality.
+
+Brainstorm. Write notes. Add TODO flags to items that require attention.
+Add deadlines or schedule points if they're time sensitive. But don't
+organize the outlines for anything other than their utility as a
+reference document. Org-mode does the rest with....
+
+Agenda
+~~~~~~
+
+The org-agenda mode is the glue that makes the whole system *work*, as
+it aggregates items together from all your org-mode files. I've set mine
+up so that it displays a weekly agenda with all open TODO items. This
+way I can see everything that needs action, without needing to add
+deadlines to tasks which didn't have deadlines so much as "don't forget
+me" status."
+
+There's all sorts of stuff that one can do with Agenda to generate views
+that filter based on tags or some such, but I've not gotten there. It's
+really flexible.
+
+Remember
+~~~~~~~~
+
+Remember is a feature that originated independently, but has been
+enhanced to work with org-mode. Basically you trigger it with a
+key-binding and it pops up a temporary window which allows you to select
+a template and then add notes and other items, trigger save, and it
+disappears and writes to the relevant org-mode file.
+
+One of the great pains of digital systems for note taking and
+organization is that if you have an idea, it is often hard for us to
+find a way to record these notes quickly before the moment leaves us.
+Remember changes that, and it's great.
+
+--------------
+
+Next time? Code. Cheers!
+
+.. [1]
+This terminology is going to drive me crazy. Basically, in the emacs
+world, "frame" refers to what most computer users would call a
+window. Ironically, in the `awesome window
+manager <http://awesome.naquadah.org/>`__ world, windows are called
+"clients." As if this weren't enough, a "window" in the emacs world
+refers to any given division of a frame.
+

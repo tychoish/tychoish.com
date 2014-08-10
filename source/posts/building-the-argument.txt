@@ -1,0 +1,137 @@
+=====================
+Building the Argument
+=====================
+
+.. post:: 2009-11-24
+   :author: tychoish
+   :tags: academia, economics, cyborg
+
+I was talking to my grandmother (Hi!) last week, as I do most weeks, and
+we discussed the blog. She's been a regular reader of the site for many
+years, and lately, we've enjoyed digging a little deeper into some of
+the things that I've written about here. She said, I think of the
+`Owning Bits <http://tychoish.com/rhizome/owning-bits/>`__, and I agree,
+that it sort of seemed that I was building something... *more*.
+
+But of course.
+
+I don't know that I've connected all of the dots, either in my head or
+on the blog, but I think that the things I've been blogging about for
+the last year or so are all conected, interwoven, and illuminate
+incredibly interesting features of each other when considered as a
+whole. There is "something building" here. To recap, so that we're on
+the same page, the nexus of subjects that I've been milling over are:
+
+-  **Free Software and Open Source Software Development.**
+
+I'm interested in how communities form around these projects, how *work*
+is accomplished, both technically, and organizationally. I'm interested
+in how innovation happens or is stifled. How the communities are
+maintained, started, and lead. From a social and economic perspective
+there's something fundamentally unique happening in this domain, and I'd
+like to learn a lot more about what those things are.
+
+This topic and area of thought have taken a backseat to other questions
+more recently, but I think it's fundamentally the core question that I'm
+trying to address at the moment. I think that I'm going to be making a
+larger point of addressing open source methodologies in the coming weeks
+and months as part of an attempt to pull things back together. I think.
+
+-  **The Information Technology Industry.**
+`link <http://tychoish.com/archive/technology/>`__
+
+I started writing about the IT industry because I found it really
+difficult to think about Free Software without really knowing about the
+context of free software. One really needs to understand the entire
+ecosystem in order to really make sense of what open source means (and
+doesn't mean.) Particularly in this day and age. Initially I was
+particularly interested in the Oracle/Sun Merger, and the flap around
+the ownership of MySQL; but since then, I think I've branched out a
+little bit more.
+
+I've tried very hard to not frame the discussion about the IT industry
+and open source as a "community" versus "enterprise" discussion, or as
+being "free" versus "non-free," or worse "free" versus "commercial."
+These are unhelpful lenses, as Free Software and Open Source are
+*incredibly* commercial, and incredibly enterprise-centric phenomena,
+once you get past the initial "what do you mean there's no cost or
+company behind this thing."
+
+-  **The Cyborg "Moment," or the way people actually use computers and
+technology, and the ways that people *might* use technology in the
+future.** `link <http://www.cyborginstitute.com/wiki/>`__
+
+In the same way that thinking about the IT Industry provides much needed
+context for properly understanding why "open source communities" exist
+and persist: thinking about how we actually use technology, how we
+relate to techno-social phenomena, and how these relationships,
+interfaces, and work-flows are changing. Both in changing response to
+technology, and changing the technology itself. It's all important, and
+I think the very small observations are as useful as the very large
+observations.
+
+In some respects, certainly insofar as I've formulated the `Cyborg
+Institute <http://www.cyborginstitute.com>`__, the "cyborg" moment can
+really be seen as the framing domain, but that doesn't strike me a
+distinction that is particularly worth making.
+
+-  **Corporate Law and Structure and Cooperative Economics.**
+`link <http://tychoish.com/archive/cooperatives/>`__
+
+Interestingly, my discussion of cooperatives and corporate organization
+began as a "pro-queer rejection of gay marriage," but I've used it as an
+opportunity to think about the health care issue, as a starting point in
+my thinking regarding EconomyFail-2008/09. The economics of open source
+and Free Software are fascinating, and very real and quite important,
+and I found myself saying about six months ago that I wished I knew more
+about economics. Economics was one of those overly quantitative things
+in college that I just totally avoided because I was a hippie
+(basically.)
+
+While it could be that my roots are showing, more recently I've come to
+believe that it's really difficult to understand any social or political
+phenomena *without* thinking about the underlying economics. While
+clearly I have opinions, and I'm not a consummate economic social
+scientist, I do think that thinking about the economics of a situation
+is incredibly important.
+
+-  **New Media and the Publishing Industry.**
+`link <http://tychoish.com/archive/new-media/>`__
+
+I've been blogging for a long time. And I'm a
+`writer <http://tychoish.com/rhizome/i-am-a-writer/>`__. And I want to
+write and publish fiction as a part of my "career," such as it is. As
+you might imagine these factors make me incredibly interested in the
+future of publishing of "content," and of the entire nexus of issues
+that relate to the notion of "new media."
+
+Creative Commons shows us that there has been some crossover between
+ideas that originated in the "open source" world with "content" (writ
+large.) The future of publishing and media is a cyborg issue, an
+ultimately techno-social phenomena, and thinking about the technology.
+that underpins the new media is really important. And of course,
+understanding the economic context of the industry that's built around
+content is crucial.
+
+So what's this all building to? Should I write some sort of monograph on
+the subject? Is there anyone out there who might want to fund a grad
+student on to do research on these subjects in a few years?
+
+The problem my work here so far--to my mind--is that while I'm pretty
+interested in the analysis that I've been able to construct, I'm not
+terribly satisfied with my background, and with the way that I've been
+largely unable to cite my intellectual heritage for my ideas and
+thoughts. I never studied this stuff in school, I have a number of books
+of criticism, potentially relevant philosophy, and important books in
+Anthropology (which seems to fit my interests and perspectives pretty
+well.) I'm pretty good at figuring things out, but I'm acutely aware of
+a lacking in my work of reference, methodology, and structure. As well
+as of any sort of empirical practice.
+
+So maybe that's my project for the next year, or the next few months at
+any rate: increase rigor, read more, consider new texts, pay more
+attention to citations, and develop some system for doing more empirical
+work.
+
+We'll see how this goes. I'd certainly appreciate feedback here. Thanks!
+

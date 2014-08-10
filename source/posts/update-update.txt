@@ -1,0 +1,88 @@
+==============
+Update, Update
+==============
+
+.. post:: 2004-08-06
+   :author: tychoish
+
+Well, I think that the long awaited and much feared Quarto update has
+successfully transpired. As near as I can tell everything works now, as
+it should, and as near as all of you can tell, nothing has changed. So
+I'm going to do a little bit of talking about how TealArt works in part
+because I want to have some sort of geek post to balance out all the
+knitting and gender/sexuality things I've been posting, so here it goes.
+
+There's this massive mySQL database that has all of the TealArt
+information: everything that powers Quarto, plus all the static content
+pages, and all the style sheets and all the design elements. The files
+that are saved on the web server are nothing but creatively arranged PHP
+functions and database queries.
+
+Quarto is the CMS (content management system) that Amy wrote to power a
+few of her sites. While Amy was writing Quarto, I was writing Circle
+Games, so we kind of bonded over our ambitious projects, and when Amy
+was looking for beta-testers. I started jumping up and down. I'd been
+switching back and forth, and had lost a lot of data, and really liked
+how Quarto was looking, so I jumped on board and never looked back. At
+this point it was clear that Quarto was beta software, and frankly, I
+don't think Amy expected TealArt to remain Quarto-Powered.
+
+Here's how Quarto works: There's this data base structure, and there's
+an administrative interface that allows us to insert and modify
+information in the database. (so entries, settings, etc.)
+
+At the same time, a completely different set of functions pulls that
+information from the database, sorts it out, and displays it in the form
+that you see here.
+
+That's the thing that makes most PHP/mySQL powered CMS's unique: (and
+Quarto especially so) the backend (administration) and front end
+(display) are completely independent of each other, which gives the user
+(that would be Chris and I) an incredible amount of freedom in
+customizing output.
+
+This is why TealArt looks exactly the same now as it did before: even
+though the database has changed a bit, and the admin interface is a bit
+different: I haven't yet touched the display. Actually, as I look over
+it, I'm thinking that the display will be Chris' province.
+
+Now here's what we have to do:
+
+-  Make the Archives Page More organized, probably using periodical
+(monthly) archives, drop down lists and the like. Right now the
+archive page is just a modified main index page, set to show all the
+entries.
+
+-  Fix the categories page somehow.
+
+-  Find some way to merge the linkage and main page log into one line of
+data. This will probably require some hacking to do properly.
+
+-  Implement Trackbacks. This one is for Chris' amusement only. The
+database has a trackback table, but the support hasn't been written
+into the file.
+
+-  Update the Entry page, and get commenting to work properly.
+
+-  Get (more…) links to work so that extended entry text doesn't get
+shown on the main page.
+
+That list will be updated as we find new things to do, and hopefully as
+we complete old items.
+
+Now our second option is to ditch Quarto completely and start using
+Wordpress, which is the only other CMS worth using. Well other than
+GreySight, which Noah won't even let his bestest buddies use, but that's
+a non-issue.
+
+The problem with switching at this point is that we have 630+ entries in
+Quarto, about 200 in the main journal 150 in the Aux Journal (formerly
+Paradigm,) 150 quotes, and 100 Links. Or something. All of the entries
+are in the same table (site differentiation are made in a site id
+field,) and seeing as Wordpress doesn't have separate sites, (but their
+implementation of Categories, would *probably* allow us to accomplish
+the same thing. Where I was going with this train of though, is that
+writing an import script is going to be one major pain in the rear.
+
+So that's where we are now. Stay tuned (as always)!!
+

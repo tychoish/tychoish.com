@@ -1,0 +1,25 @@
+=================
+LaTeX screenplays
+=================
+
+.. post:: 2007-08-14
+   :author: tychoish
+
+So I know there are `LaTeX screenplay
+classes <http://www.tug.org/texlive/Contents/live/texmf-dist/doc/latex/screenplay/>`__
+but I'd like to know if it would be possible to to take the output of
+scripts I write in `TextMate with screenwriting
+bundle <http://ollieman.net/screenbundle/>`__, and put them into LaTeX.
+Also, would it be possible, then, with the LaTeX to have continued and
+other niftiness that the "prince" implementation doesn't have?
+
+I think the answer to my question is "yes" but I need to find a way to
+script this properly, I think a number of properly placed RegExp find
+and replaces could do the trick, and I think one could make that work
+with a TextMate macro, and a couple of snippets... But ruby or perl
+would be more efficient, I think, unfortunately I"m inept.
+
+Just a thought...
+
+Cheers, tycho
+

@@ -1,0 +1,74 @@
+=============================
+Thinking Like a Web Developer
+=============================
+
+.. post:: 2009-12-30
+   :author: tychoish
+   :tags: cyborg, internet
+
+I've been reading a lot about web development in the last few weeks. I'm
+not exactly sure why. There are some interesting things going on in
+terms of the technology. `Frameworks that provide for some interesting
+possibilities <http://tychoish/2009/12/web-frameworks/>`__ abound, and
+while I don't know if the web is the only future for programing, it's
+certainly a big part of the future of the way we interact with
+computers.
+
+**So what are you working on developing tycho?**
+
+A whole lot of noting. I know how the technology works. I know--more or
+less--how to build things for the web, and yet I've not said "you know
+what I need to build? A web app that does [this awesome thing]"
+
+Maybe it's because I'm unimaginative in this regard, or that I tend to
+think of web applications being a nearly universally wrong solution to
+any given problem.
+
+I think it's quite possible that *both* of these things are true. It's
+also likely that when approached with a problem with technology or with
+data, I don't instinctively think about how to solve it pragmatically,
+much less with some sort of web-based system. As I think about it might
+be the fact that my mind is intensely qualitative. In my psych major
+days I always had problems coming up with ides for non-hokey
+quantitative studies (Insofar as such things exist.)
+
+In a lot of ways the questions I ask of the technology aren't
+(particularly) "how can I manage this data better," but rather how can I
+interact with this technology more efficiently. While I don't think data
+interaction is a solved problem, I feel like I'm pretty far ahead of the
+game, and that the things I do to improve how I work has more to do with
+tweaking *my* system to shape the content and way that I'm working.
+While there's often some little bits of code involved, it's not the kind
+of thing that's generalizable in the way that an application or web site
+might be.
+
+**The Imperative Tense**
+
+Most of the time, you put me in a room with programmers and tell us to
+talk about our work, the conversation will be really lively. Aside from
+the fact that I use programmers tools to write, and use a very iterative
+approach
+
+One thing I notice many of my coworkers doing is saying "I'm going to
+write a program that's going to do these four things, and it's going to
+be written in such a way as to make these other things possible,"
+(insert words of awesomeness in this sentence.) And I think "Cool! I
+can't wait!"
+
+For a long time this way of talking confused me and almost put me on
+edge. When I have an idea for a new project, I get these images, and an
+interesting concept to toy with and I have little conversations in my
+head with the characters, and I see their world from their eyes, and
+it's sort of an absurd experience and I don't tell people about this. I
+mean, I might say "I got an awesome idea for a new book," but usually
+not more than that. And the truth is that I get ideas for stories *all
+the time* and I know that I'll never really be able to write most of
+them.
+
+I'm okay with the way programmers plan projects, and I'm pretty happy
+with my own methodology. Having said that, I think the difference in the
+way that I think about and plan projects has a lot to do with the way I
+think about these things.
+
+Onward and Upward!
+

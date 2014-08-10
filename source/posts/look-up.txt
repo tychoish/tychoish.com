@@ -1,0 +1,60 @@
+=======
+Look Up
+=======
+
+.. post:: 2008-07-16
+   :author: tychoish
+
+*Trailing Edge*, the story that I'm writing (and that I posted the first
+part of on Monday to kick of `Critical
+Futures <http://criticalfutures.com/>`__) is at least nominally a space
+opera. [1]_ It's funny then, that after about a month of active writing
+on the project, I've begun writing the first part of the story that
+occurs in space. and I've written a respectable amount in this world so
+far.
+
+Now it'll be a while before this gets to CF, as I have a lot of stuff
+that I want to get to first, and I'm going to try and post a number of
+different stories. So I'm not going to spoil anything, but in honor of
+this, I'm just going to talk about space opera, and why I like it, and
+why I write it.
+
+Basically, I like space opera because it takes an optimistic view of the
+future. Either we blow ourselves up on Earth, or we leave and see what's
+out there. On a fundamental level those are the options. This is why, I
+think, science fiction writers and futurists (not necessarily
+overlapping categories) are so interested in maintaining and supporting
+an active space program, even when it seems to contradict their other
+political positions: the alternative is too frightening.
+
+Given this, you can bicker about the details of what's going to
+logically happen in the next 20 to 50 years, and you can write dystopias
+of various stripes. Everything else, is space opera of some flavor or
+another, and I guess that's the core that I write too.
+
+--------------
+
+Now Trailing Edge is sort of weird space opera, I will grant you that,
+but I always find myself entertained by stories that are "about/set in a
+particular place" that take way to long to *get* to that place. Like in
+the `Knowing Mars Story <http://criticalfutures.com/knowing-mars/>`__ it
+took a long time for the narrator to actually get to Mars, in the story.
+Sort of, it's complicated, and you'll see in time, but it's an
+interesting problem.
+
+I guess the ultimate question that I'm asking is `a follow up to this
+post <http://tychoish.com/rhizome/my-favorite-genre-tropes/>`__, but
+does genre and sub-genre fiction need signposts early on to tell you
+that "this is going to be space opera," or "this is going to be
+cyberpunk," or can you do genre more subtly? I guess this is in part a
+technical question and in part a taste one.
+
+So, don't delay. What do you think?
+
+.. [1]
+It's set in a distant future, space travel is technologically
+commonplace, I'm not writing something that adheres to any of the
+hard-sf ides about "strict extrapolation," though it is indeed I
+think it has a much more "realistic edge," which I assure has
+literary rather than technological/polemical inspiration.
+

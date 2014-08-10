@@ -1,0 +1,243 @@
+====================
+9 Awesome Git Tricks
+====================
+
+.. post:: 2012-01-06
+   :author: tychoish
+   :tags: software, git, cyborg
+
+I'm sure that most "hacker bloggers" have probably done their own "N Git
+Tricks," post at this point. But ``git`` is one of those programs that
+has so much functionality and everyone uses it differently that there is
+a never ending supply of fresh posts on this topic. My use of git
+changes enough that I could probably write this post annaully and come
+up with a different 9 things. That said here's the best list right now.
+
+[[!toc startlevel=2 levels=3]]
+
+See Staged Differences
+----------------------
+
+The ``git diff`` command shows you the difference between the last
+commit and the state of the current working directory. That's really
+useful and you might not use it as much as you should. The ``--cached``
+option shows you *just* the differences that you've staged.
+
+This provides a way to preview your own patch, to make sure everything
+is in order. Crazy useful. See below for the example:
+
+::
+
+   git diff --cached
+
+Eliminate Merge Commits
+-----------------------
+
+In most cases, if two or more people publish commits to a shard
+repository, and everyone commits to remote repositories more frequently
+then they publish changes, when they *pull*, git has to make "meta
+commits" that make it possible to view a branching (i.e. "tree-like")
+commit history in a linear form. This is good for making sure that the
+tool works, but it's kind of messy, and you get histories with these
+artificial events in them that you really ought to remove (but no one
+does.) The "``--rebase``\ " option to "``git pull``\ " does this
+automatically and subtally rewrites your own history in such a way as to
+remove the need for merge commits. It's way clever and it works. Use the
+following command:
+
+::
+
+   git pull --rebase
+
+There are caveats:
+
+- You can't have uncommitted changes in your working copy when you run
+  this command or else it will refuse to run. Make sure everything's
+  committed, or use "``git stash``\ "
+
+- Sometimes the output isn't as clear as you'd want it to be,
+  particularly when things don't go right. If you **don't** feel
+  comfortable rescuing yourself in a hairy git rebase, you might want
+  to avoid this one.
+
+- If the merge isn't clean, there has to be a merge commit anyway I
+  believe.
+
+Amend the Last Commit
+---------------------
+
+This is a recent one for me..
+
+If you commit something, but realized that you forgot to save one file,
+use the "``--amend``\ " switch (as below) and you get to add whatever
+changes you have staged to the previous commit.
+
+::
+
+   git commit --amend
+
+**Note:** if you amend a commit that you've published, you might have to
+do a forced update (i.e. ``git push -f``) which can mess with the state
+of your collaborators and your remote repository.
+
+Stage all of Current State
+--------------------------
+
+I've been using a versing of this function for years now as part of my
+[[git-mail\|code/download-mail]] scheme. For some reason in my head,
+it's called "readd." In any case, the effect of this is simple:
+
+- If a file is deleted from the working copy of the repository, remove
+  it (``git rm``) from the next commit.
+
+- Add all changes in the working copy to the next commit.
+
+.. code-block:: sh
+
+
+   git-stage-all(){
+      if [ "`git ls-files -d | wc -l`" -gt "0" ]; then; git rm --quiet `git ls-files -d`; fi
+      git add .
+   }
+
+So the truth of the matter is that you probably don't want to be this
+blasé about commits, but it's a great time saver if you use the
+``rm``/``mv``/``cp`` commands on a git repo, and want to commit those
+changes, or a have a lot of small files that you want to process in
+one way and then snapshot the tree with git.
+
+Editor Integration
+------------------
+
+The chances are that your text editor has some kind of git integration
+that makes it possible to interact with git without needing to drop into
+a shell.
+
+If you use something other than emacs I leave this as an exercise for
+the reader. If you use emacs, get "magit," possibly from your
+distribution's repository, or from the
+`upstream <http://philjackson.github.com/magit/>`__.
+
+As an aside you probably want to add the following to your ``.emacs``
+somewhere.
+
+.. code-block:: lisp
+
+   (setq magit-save-some-buffers nil)
+   (add-hook 'before-save-hook 'delete-trailing-whitespace)
+
+Custom Git Command Aliases
+--------------------------
+
+In your user account's "``~/.gitconfig``\ " file or in a per-repository
+"``.git/config``\ " file, it's possible to define aliases that add bits
+of functionality to your git command. This is useful defining shortcuts,
+combinations, and for triggering arbitrary scripts. Consider the
+following:
+
+::
+
+   [alias]
+   all-push  = "!git push origin master; git push secondary master"
+   secondary = "!git push secondary master"
+
+Then from the command line, you can use:
+
+::
+
+   git secondary
+   git all-push
+
+Git Stash
+---------
+
+"``git stash``\ " takes all of the staged changes and stores them away
+somewhere. This is useful if you want to break apart a number of changes
+into several commits, or have changes that you don't want to get rid of
+(i.e. "``git reset``\ ") but also don't want to commit.
+"``git stash``\ " puts staged changes onto the stash and
+"``git stash pop``\ " applies the changes to the current working copy.
+It operates as a FILO stack (e.g. "First In, Last Out") stack in the
+default operation.
+
+To be honest, I'm not a git stash power user. For me it's just a stack
+that I put patches on and pull them off later. Apparently it's possible
+to pop things off the stash in any order you like, and I'm sure I'm
+missing other subtlety.
+
+Everyone has room for growth.
+
+Ignore Files
+------------
+
+You can add files and directories to a ``.gitignore`` file in the top
+level of your repository, and git will automatically ignore these files.
+One "ignore pattern" per line, and it's possible to use shell-style
+globing.
+
+This is great to avoid accidentally committing temporary files, but I
+also sometimes put entire sub-directories if I need to nest git
+repositories within git-repositories. Technically, you ought to use
+git's submodule support for this, but this is easier. Here's the list of
+temporary files that I use:
+
+::
+
+   .DS_Store
+   *.swp
+   *~
+   \#*#
+   .#*
+   \#*
+   *fasl
+   *aux
+   *log
+
+Host Your Own Remotes
+---------------------
+
+I've only once accidentally said "git" when I meant "github" (or vice
+versa) once or twice. With github providing public git-hosting services
+and a great compliment of additional tooling, it's easy forget how easy
+it is to host your own git repositories.
+
+The problem is that, aside from making git dependent on one vendor, this
+ignores the "distributed" parts of git and all of the independence and
+flexibility that comes with that. If you're familiar with how
+Linux/GNU/Unix works, git hosting is entirely paradigmatic.
+
+Issue the following commands to create a repository:
+
+::
+
+   mkdir -p /srv/git/repo.git
+   cd /srv/git/repo.git
+   git init --bare
+   
+Edit the ``.git/config`` file in your existing repository to include a
+remote block that resembles the following:
+
+::
+
+   [remote "origin"]
+   fetch = +refs/heads/*:refs/remotes/origin/*
+   url = [username]@[hostname]:/srv/git/repo.git
+
+If you already have a remote named origin, change the occurrence of the
+word remote in the above snippet with the name of your remote. (In
+multi-remote situations, I prefer to use descriptive identifier like
+"public" or machine's hostnames.)
+
+Then issue "``git push origin master``\ " on the local machine, and
+you're good. You can us a command in the following form to clone this
+repository at any time.
+
+::
+
+   git clone [username]@[hostname]:/srv/git/repo.git
+   
+--------------
+
+Does anyone have [[git-tricks]] that they'd like to share with the
+group?
+

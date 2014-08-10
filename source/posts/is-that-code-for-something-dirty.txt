@@ -1,0 +1,15 @@
+================
+something dirty?
+================
+
+.. post:: 2007-06-26
+   :author: tychoish
+
+**tycho** chris and I worked something out regarding networking and
+information transfer today which felt really good to get done.
+
+**`dave <http://www.soliloqueer.com>`__** networking and information
+transfer? is that code for something dirty?
+
+**tycho** no like the internet only in 10,000 years
+

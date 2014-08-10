@@ -1,0 +1,82 @@
+===========================
+How I'd Like to Be Notified
+===========================
+
+.. post:: 2009-12-09
+   :author: tychoish
+   :tags: cyborg
+
+In my `last post on this
+topic <http://tychoish.com/rhizome/notifications-and-computing-contexts/>`__
+I tried to avoid talking too much about the actual details of an
+implementation of what my ideal notification system would look like. In
+part because I think that the problem of staying on top of our digital
+(cyborg?) in a "real time" manner is something that transcends the
+specific method of implementation. `I and many other awesome
+people <http://twitter.com/bear/xmpp>`__ have been thinking about this
+"real time" problem for a couple of years, and mostly we've thinking
+about things like microblogging (think twitter and identi.ca) and XMPP
+and related topics. These are all important issues that we need to get
+worked out, but there are issues regarding the use of "real time data"
+that I think need to be addressed from a more indivudal/user
+perspective. This notification issue is one of them.
+
+**My requirements, in summary:**
+
+1. There should be some common method of creating and distributing
+notifications that's easy to setup up and tie into scripts (i.e. with
+some sort of command line interface.) and that is independent on
+application. I *don't* want notifications from my email to appear in
+a different place from notifications from IRC, for instance.
+
+2. Taking the above one step further, notifications should be machine
+independent. If an event that I'd like to be notified of happens on
+my server (in the cloud, as it were) or the desktop at home, I'd like
+to know about it on my laptop when I'm on the road. Preferably, I'd
+like the system to know if I've seen a notification on my work
+computer before alerting me to it at home, but I'm willing to slide
+on this one.
+
+3. I need the ability to filter and control what notifications I see.
+There are times when I *really* want to track a particular word or
+phrase on twitter, and there are times when the last thing I want to
+know is weather or not someone has said something or other on
+twitter. Fine grained controls are key. I'd really like to put some
+sort of filtering pipe intweent "messages received" and
+"notifications sent," so I can use it the way I use
+`procmail <http://www.procmail.org/>`__ for email.
+
+**Thoughts on Implementation:**
+
+-  XMPP seems like an obvious tool for implementing the backbone of
+this. From my perspective of a slightly-more-than-casual observer,
+getting one machine to know if a notification has been seen by
+machines is a bit thorny at best.
+
+-  Notifications need to tie into the window manager and desktop
+experiences. in some sort of unobtrusive way, but also in a way that
+is consistent with that window manager normally works.
+
+-  While many notifications will probably be created by sending a simple
+string to a command, some notifications will probably be generated
+from RSS or JSON feeds, and the best systems would provide some baked
+in support for pulling events from these kinds of data.
+
+-  You can get `irssi to send xmpp
+notifications <http://blogs.osuosl.org/kreneskyp/2009/06/02/irssi-notifications-via-xmpp/>`__,
+which is both incredibly ironic, and kind of awesome, as a building
+block. Also, `this emacs-fu for using lib-notify from emacs might be
+another good starting
+point <http://emacs-fu.blogspot.com/2009/11/showing-pop-ups.html>`__.
+
+-  Dumping a firehose of notifications in an XMPP window, might be a
+good start, but I think once a notification has been sent (and logged
+and dismissed?), notifications need to disappear forever. Also--and
+this is the point of the filtering--raw events take processing in
+order to be *useful*. The firehose, of anything when exposed to the
+user, isn't particularly useful.
+
+-  [insert your thoughts here]
+
+I will, of course let you know how this goes.
+

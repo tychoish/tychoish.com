@@ -1,0 +1,26 @@
+=====================
+iphone possibilities 
+=====================
+
+.. post:: 2007-06-26
+   :author: tychoish
+
+New information about the ipod is just coming out from apple. While I'm
+(clearly) not going to get one, and I'm sort of passe about the whole
+deal I want to talk about the plans/possibilities of this device. First,
+`the relevant press release from
+apple <http://www.apple.com/iphone/pr/20070626plans.html>`__.
+
+Basically, 60 bucks for 450 minutes (5000 rather than unlimited off peak
+mins) and 200 text messages, 80 bucks for twice as many peak minutes and
+unlimited night times.
+
+For unlimited data that you'd presumably be able to share with your
+laptop via bluetooth that's not a bad idea. I wonder a few things: why
+would people use SMS if you have email included for free? Also, why are
+they hoping to make on the 5000 vs. unlimited weekend minutes.
+
+I think I'm firmly in the "wait for rev 2," which will presumably have
+faster internet. But frankly if they make an ipod tablet (ie. iphone
+without the phone,) I'm *so there*...
+

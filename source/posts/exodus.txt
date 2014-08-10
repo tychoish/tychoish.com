@@ -1,0 +1,47 @@
+======
+Exodus
+======
+
+.. post:: 2007-10-27
+   :author: tychoish
+
+One of the ideas that I'm playing around with in the new project is an
+"exodus from Earth," where our people will be through the course of the
+long [1]_ story, will be leaving earth and our solar system for more
+hospitable places.
+
+.. raw:: html
+
+<div style="text-align:center;">
+
+.. raw:: html
+
+</div>
+
+This ties in with some of the ideas that I was playing with in the last
+post, in that I think this presents an interesting perspective to talk
+about some cool issues, even if I don't think it's particularly likely
+that there's going to be a human exodus from our solar system in the
+next 500 years.
+
+Also, I think it creates a space where I can take a couple of core
+cyberpunk ideas and get away writing a lot of very cyberpunk-ish things
+that if I were writing them straight on, I don't think I could get away
+with. If I was writing a story set in the present/near future that had
+the sort of bleak settings and *hypertechnologized* environments, I
+don't think it would fly, but in the context of an exodus from this
+solar system? It makes more sense. At least to me, and I'm the one who
+matters at this point.
+
+That's all for now. I should point out that I've finally made the
+transition to life as an IMAP mail user, and will hopefully now be less
+tethered to my specific instance of computer. We shall see...
+
+Cheers, sam
+
+.. [1]
+I'm using the term "long" in the same sense as the "long 18th
+century," rather than the sense that implies the story will be a
+lengthy narrative. It covers a lot of ground, but needn't take a lot
+of time if done correctly.
+

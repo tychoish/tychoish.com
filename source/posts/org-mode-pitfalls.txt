@@ -1,0 +1,50 @@
+=================
+Org Mode Pitfalls
+=================
+
+.. post:: 2009-07-02
+   :author: tychoish
+   :tags: productivity, cyborg
+
+I'm writing this post for all of the wrong reasons. I've had this "write
+a post about pitfalls of org-mode," on my org-agenda for weeks, with a
+list of "ways I'm not doing things right in org-mode." One of those
+pitfalls, the main one in fact, was "you're living too much in the
+agenda view, and not thinking of your org-files as working documents and
+outlines onto themselves."
+
+And because I'm living too much in the agenda view, I'm writing a post
+(that I need to write, but have been hesitant to write for a while)
+mostly to get it off my todo list.
+
+This is certainly an acceptable way to work, and I think todo lists
+mostly exist in order for their items to be completed and checked off.
+At the same time, I've said (and I keep saying) the beautiful thing
+about org-mode is that it allows you to plan and process your projects
+in a way that makes sense for project planning without centering your
+process on "actionable items," which is good for *doing things* but less
+good for *planning things.*
+
+And so I've been failing at keeping the "planning" and the "doing" as
+separate thought processes. Note to self: do better with this.
+
+The second pitfall is in the "org-refile" functionality (C-c C-w), which
+allows you to send items and subtree's to other parts of your org-agenda
+files. I think part of the problem is that I don't really get how it was
+intended to be used, and as a result when I try to use it, it doesn't
+work. (*I tooled around in customize, after I wrote this and found: that
+the following bit (in custom-set-variables) to help, bunches:*)
+
+::
+
+'(org-refile-use-outline-path (quote file))
+
+When I want to refile something, I think to myself "it should go to x
+file, under which heading, hrm... lets see what's there..." And my
+options are presented to me in [Heading]/ (filename.org) format. The
+problem is that org is thinking backwards from me, and as a result I end
+up miss-filing things, or not using the refile as much as I should
+because it doesn't really work for me. Hrm. Not sure how to hack this.
+
+In anycase, back to working.
+

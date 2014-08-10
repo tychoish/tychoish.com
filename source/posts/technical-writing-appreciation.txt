@@ -1,0 +1,92 @@
+==============================
+Technical Writing Appreciation
+==============================
+
+.. post:: 2010-09-09
+   :author: Sam Kleinman
+   :tags: career, cyborg, technology
+
+I'm a technical writer. This is a realization that has taken me some
+time to appreciate and understand fully.
+
+Technical writing is one of those things that creators of technology, a
+term that I will use liberally, all agree is required, but it's also
+something that's very difficult to *do properly*. I think this
+difficulty springs from the following concerns: What constitutes
+describing a technology or process in too much detail? Not enough? Are
+all users of a technology able to make use of the same level of
+documentation sets? If users are too diverse, what is the best way to
+make sure that their needs are addressed: do we write parallel
+documentation for all users, or do we try and equalize less advanced
+users so that the core documentation is useful to everyone?
+
+The answers to these questions vary of course with the needs of the
+product being documented and the use cases, but I think resolving these
+concerns presents a considerable challenge to any kind of technical
+documentation project, and the way that the documentation developers
+resolve these issues can have a profound effect not only on the
+documentation itself but the value and usefulness of the documentation
+itself. As I've been thinking about the utility and value of technical
+writing, a professional hazard, I've come up with a brief taxonomy of
+approaches to technical writing:
+
+-  First, there's the **document everything** approach. Starting with a
+full list of features (or even an application's source) the goal here
+is to make sure that there's no corner unturned. We might think of
+this as the "manual" approach, as the goal is to produce a
+comprehensive manual. These are great reference materials,
+particularly when indexed effectively, but the truth is that they're
+really difficult for users to engage with, even though they may have
+all the answers to a users questions (e.g. "RTFM.") I suspect that
+the people who write this kind of documentation either work closely
+with developers or are themselves developers.
+
+-  Second, there's what I think of as the **systems or solutions
+document**, which gives up comprehensiveness, and perhaps even
+isolation to a single tool or application, and documents outcomes and
+processes. They aren't as detailed, and so might not answer
+underlying questions, but when completed effectively they provide an
+ideal entry point into using a new technology. In contrast to the
+"manual" these documents are either slightly more general interest
+*or* like "white papers." This class of documentation, thus, not
+simply explains how to accomplish specific goals but illuminates
+technical possibilities and opportunities that may not be clear from
+a function-based documentation approach. I strongly suspect that the
+producers of this kind of documentation are *very rarely* the people
+who develop the application itself.
+
+-  In contrast to the above, I think documentation written for
+**education and training** purposes, may appear to be look either a
+"manual" or a "white paper," but have a fundamentally different
+organization and set of requirements. Documentation that supports
+training is often (I suspect) developed in concert with the training
+program itself, and needs to impart a level of deeper understanding
+of how a system works (like the content of a manual,) but doesn't
+need to be comprehensive, and needs mirror the general narrative and
+goals of the training program.
+
+-  **Process documentation** finally, is most like solution
+documentation, but rather than capture unrealized technological
+possibilities or describe potentially hypothetical goals, these kinds
+of documents capture largely institutional knowledge to more
+effectively manage succession (both by future iterations of
+ourselves, and our replacements). These documents have perhaps the
+most limited audience, but are incredibly valuable both archival
+(e.g. "How did we used to do $\*?") and also for maintaining
+consistency particularly amongst teams as well as for specific tasks.
+
+I think the fundamental lesson regarding documentation here isn't that
+every piece of technology needs lots and lots of documentation, but
+rather that depending on the goals for a particular technology
+development program or set of tools, different kinds of documentation
+may be appropriate, and more useful in some situations.
+
+As a secondary conclusion, or direction for more research: I'd be
+interested in figuring out if there are particular systems that allow
+technical writers (and development teams) to collect multiple kinds of
+information and produce multiple documentation for different
+organizations. Being able to automatically generate different wholes out
+of documentation "objects" if we may be so bold.
+
+I must look into this. Onward and Upward!
+

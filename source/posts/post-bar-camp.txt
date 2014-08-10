@@ -1,0 +1,54 @@
+=========================
+Post Bar Camp Dirrections
+=========================
+
+.. post:: 2009-05-03
+   :author: tychoish
+   :tags: update
+
+As those of you who microblog may have noticed (or were there) I
+attended and went to a cool little `bar camp <http://www.barcamp.org>`__
+last weekend. It was a small affair in Central Illinois (I also visited
+friends, which was amazing.) but there were some cool freelancers, and
+some folks from NCSA, and I think we all learned something from the
+encounter. Good times.
+
+Since I got back, however, I've had a serious case of the stupids. I
+don't mean to make an excuse for my lack of productivity. I sat down, I
+did things that were on my todo-list, I made progress, but I feel like
+my brain rotted out for a little while there. It's a strange feeling. In
+any case, I spent some time on Wednesday afternoon pulling together
+notes, thinking about things, and writing some stuff. Anyway, the brain
+seems to have un-rotted. Here's a brief list of the things that are on
+my list of things to write about for you soon.
+
+-  Oracle's Purchase of Sun Microsystems
+
+-  Co-op business models, and Open Source
+
+This marks a revival of some of my thinking and writing about economic
+issues. I've been thinking about (and the Sun/Oracle deal brought this
+to the surface) about how competition works (or is irrelevant) in
+cooperative business, what role open source and free software plays in
+technological development
+
+-  `Jekyll <http://github.com/mojombo/jekyll/>`__.
+
+I sort of assumed that after I made the switch to this new content
+management system that all the people who were interested in it already
+knew about it. Not so apparently. I need to talk more about this.
+
+-  I upgraded to Jaunty.
+
+...and changed a few things in my system configuration that make it a
+bunch more lightweight. Still on ubuntu.
+
+I also need to do some more hacking about on things.
+
+-  I should cover other topics that I've touched on in the past that
+I've continued to think about, but not continued to write about.
+Things like `git <http://www.git-scm.org>`__,
+`Awesome <http://awesome.naquadah.org>`__,
+`org-mode <http://orgmode.org>`__, my knitting.
+
+

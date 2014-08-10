@@ -1,0 +1,37 @@
+=========================
+Email for the Uncommitted
+=========================
+
+.. post:: 2007-09-26
+   :author: tychoish
+
+I've written here about my email woes. The 500 megs of archives in plain
+text format? You know the drill.
+
+I've always been a desktop email client kind of guy. I've used versions
+1 and 2 of Apple's Mail.app, and before that I used Outlook when I was a
+PC user. I like being able to deal with my email when I'm off-line.
+
+For a long time recently, I've been working on streamlining all of my
+digital things. Fewer pieces, less pack-rat tendencies, better backup,
+more command-line things, less fuss.
+
+While Mail.app is pretty cool, all things considered, I feel like it
+could be a bit better. For starters, it's database access is needlessly
+slow and pokey. Secondly, the procedure needed to change the originating
+email address is really convoluted, and defeates the nifty "sort by
+incoming" email address feature that is perhaps Mail.apps strongest
+feature.
+
+So I `downloaded
+Pine <http://www.softpedia.com/progDownload/Pine-Download-19666.html>`__
+the other day, and while I haven't gotten set up into it (mostly because
+I don't want to have multiple places checking the same pop account, and
+would rather wait till I was able to switch to IMAP) I think it's pretty
+cool.
+
+I do realize that this makes me a really HUGE dweeb.
+
+Other thing for the dweep files. I now have a "google" command line
+script which makes it even easier and faster to do the google. Sigh.
+

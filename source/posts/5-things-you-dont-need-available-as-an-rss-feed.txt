@@ -1,0 +1,14 @@
+================================================
+5 Things you don't need available as an RSS feed
+================================================
+
+.. post:: 2007-12-13
+   :author: tychoish
+
+1. Your Gmail inbox.
+2. Your recent Amazon purchases.
+3. Your currently running software applications.
+4. Your Xenga "blog."
+5. Your Facebook Mini-Feed
+
+

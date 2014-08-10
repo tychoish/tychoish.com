@@ -1,0 +1,120 @@
+=========================================
+A Catalog of Open Source and Free Culture
+=========================================
+
+.. post:: 2009-01-08
+   :author: tychoish
+
+I've been writing recently here about `open
+source <http://tychoish.com/tags/open-source>`__ and free software, and
+what happens to the practices and ideologies of these projects when they
+"jump species" and start affecting the world outside of open source.
+This is, I suppose, part of a larger response/digestion of `Christopher
+Kelty's *Two Bits* <http://twobits.net/>`__ monograph.
+
+Having said that, this post isn't a response *per se* but rather a
+catalog of all the various kinds of software and non-software projects
+that are connected in some way to open source and free software. I hope
+that such a catalog will be helpful in thinking more concretely about
+these issues. Without further ado:
+
+Open Network Services
+~~~~~~~~~~~~~~~~~~~~~
+
+I'm using this as a banner for service-based software that derives
+inspiration from the free software movement, but is based on network
+services (web sites, web applications, and so forth). The AGPL is a free
+software approach to dealing with the code, but I don't think that well
+executed open network services is something that can--exactly--be
+conveyed with a liscence. Examples: `identi.ca <http://www.identi.ca>`__
+and `gitorious <http://gitorious.com>`__.
+
+Standard Network Protocols (e.g. IETF)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I wouldn't have been particularly inclined this on my own but from
+Kelty's (2008) book `Two Bits <http://www.twobit.net>`__ I realized that
+it fits. The Internet Engineering Task Force (IETF) is responsible for
+defining and maintaining the standards that make the Internet go, so
+that Linux developers and Apple developers and Blackberry developers can
+all write software that can "talk" to each other via the network. It's
+not open source, exactly, but the most successful standards will be the
+ones that are most accessible and that a community feels at least partly
+responsible for (ie. has input from), which is in the end a lot like
+open source.
+
+Creative Commons
+~~~~~~~~~~~~~~~~
+
+Though Creative Commons (CC) is in some ways the most obvious umbrella
+of non-software free software projects, I am almost a bit hesitant to
+include it here. Though I don't have a very clear idea of the history,
+it seems like CC takes a "copyleft" (like GNU GPL) approach to "hack" a
+very different problem. Where free software "hacks" an understanding of
+the collaborative nature of software and the ability to tweak software
+into copyright law, CC "hacks" an understanding of digital distribution
+and post-scarcity digital reality into copyright law. Similar,
+particularly on first blanch, but underneath? Maybe not as much.
+
+Un-conferences/BarCamps
+~~~~~~~~~~~~~~~~~~~~~~~
+
+These conferences are intended to be very adhoc and tend to provide very
+open access to organizational information and participation. While these
+conferences aren't anarchist in the contemporary sense, they practice
+openness in a way that resonates at least a little with the free
+software/open source movement.
+
+Not-For Profits/Community Organizations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I'm thinking of things like
+`BucketWorks <http://www.bucketworks.com/>`__. While NFPs aren't a new
+things, I think increasingly they'll be connected with the logic of open
+source. There are a lot of "businesses" that I think will never be
+capable of generating a huge return, (coffee shops, yarn stores, book
+stores,) that I think will be more likely to operate in an "open source"
+manner, lead by communities, with "business" decisions being made by the
+community of users.
+
+Wiki Projects
+~~~~~~~~~~~~~
+
+While I'm not sure if wiki projects, like
+`wikipedia <http://www.wikipedia.com>`__ and
+`wikitravel <http://wikitravel.org/>`__ are truly the non-software
+equivelents to open source/free software; their collaborative nature is
+familiar. There's something about Wikis that inspire their editors and
+contributors to be "exhaustive" in a way that I don't think shares much
+with open source and it's centralization on Unix-like systems.
+
+Free Culture
+~~~~~~~~~~~~
+
+Really this is another huge category, to my mind it represents the
+"activist" types who "port" some of the ideas about software freedom to
+other domains, like music, or art, or writing. Tends to be explicitly
+ideological rather than keep the implicit/quasi-agnosticism that free
+software itself often has.
+
+Crypto-anarchists/Security Researchers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Having top-to-bottom control over the software you run on your computer
+would seem to appeal to the paranoid and cryptographically informed set.
+There's obviously a lot of overlap with the typical software freedom
+hacker here, but I think the *reason for using open source* software
+(and other related tools) is distinct.
+
+Revolutionaries
+~~~~~~~~~~~~~~~
+
+I include this because I think it's important to note an important
+distinction. While I think many "software freedom" people would argue
+that leftists/radicals/revolutionaries would use free software because
+it might embody the freedom that their fighting for, I think it's
+probably more realistic to expect that said revolutionaries would use
+open source tools because it is more available and powerful. Not that
+this argument is of consequence. I include "revolutionaries" in this
+list because it's *different* from other rationale.
+

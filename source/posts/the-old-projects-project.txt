@@ -1,0 +1,68 @@
+========================
+The Old Projects Project
+========================
+
+.. post:: 2010-06-16
+   :author: tychoish
+   :tags: writing
+
+Before a road trip a, by now, a couple of months ago, I installed a copy
+of `nginx <http://www.nginx.org>`__ on my laptop on the hope of doing
+some web development and working on other projects when I was in the
+car. For the uninitiated (you mean you don't *all* write technical
+documentation for web developers and systems administrators?!?) nginx is
+an incredibly powerful web server. As of June 11th, ``foucualt`` the
+server that hosts the `Cyborg
+Institute <http://www.cyborginstitute.com>`__ and
+`tychoish <http://tychoish.com>`__.
+
+This is, almost always, I think, a loosing proposition.
+
+I never get any sort of substantial (or insubstantial) work done during
+my road trips up-and-down the north east corridor. Not that that's a bad
+thing, but I also expect that there'll be more awake-time when I'm not
+driving or gossiping.
+
+And there never is.
+
+So the web server sat unused for a long time on my laptop, but recently
+I've been playing with it a bit and I've finally gotten a number of cool
+things set up. I have a local "git web" instance which makes it easier
+to track progress on local and private projects that are stored in git.
+Perhaps more importantly, I have set up quick local
+`ikiwiki <http://ikiwiki.info/>`__ instances for a number of projects.
+They're easy to configure, quick to setup, and while I suppose I could
+hack something together in nifty for myself, there's something nifty
+about being able to take an alternate view of some content and also
+being able to *really* preview changes to you work before publishing
+them.
+
+Also, and the real reason for this post, is that by virtue of this
+development, I have revisited a few projects that had been lingering in
+the home directory of my computer for *far too long*. Which has been a
+powerful and useful exercise.
+
+By which I mean, it's been painful.
+
+Besides "the novel," which has been the lingering and dragging front
+burner project for a year, there are a number of quasi-serial stories
+that have lingered in some state of incompleteness for a couple of years
+now. I'm kind of amazed both at how foreign these stories seem to me
+both in terms of the style (good to know that I'm a better writer than I
+was a few years ago,) and also how quickly I can fall right back into
+the story and tell you every little thing about the world, situation,
+and moment where I left off.
+
+The mind is, indeed, an amazing thing.
+
+Where my strategy for the past year has been to "plow through and finish
+the novel," I think my tactic this summer will be to move all of my
+projects forward in some way. Small daily writing goals for the novel,
+combined with somewhat less regular (but more specific) goals with
+regards to other projects. In the next two months I want to have a
+fairly active and varied writing schedule worked out that isn't based
+around the monthly (or so) weekend binges that I've been using for most
+of the last year.
+
+That's the plan at any rate.
+

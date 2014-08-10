@@ -1,0 +1,109 @@
+====================
+Erstwhile Programmer
+====================
+
+.. post:: 2011-12-15
+   :author: tychoish
+   :tags: programming
+
+This is the story of how I occasionally realize I exist on the continuum
+of "programmers," rather than just being an eccentric sort of writer
+type.
+
+[[!toc startlevel=2 levels=3]]
+
+Evidence
+--------
+
+download-mail
+~~~~~~~~~~~~~
+
+I have this [[somewhat peculiar method of downloading
+email\|rhizome/git-mail-3]] that **I** think works *great*. A few weeks
+ago, however, I was trying to compress things in "hot storage," and
+realized that I had a problem.
+
+For a year or so, I had been automating commits to the git repository
+that held all my mail. In order to effectively archive and compress some
+mail, I needed to do some serious rebasing to not only remove a bunch of
+messages from the current repository but also pull that content from the
+history and flatten the history somewhat.
+
+The problem was that I had 50,000 commits and there's simply no
+effective way to rebase that many commits in a reasonable amount of
+time, particularly given I/O limitations. So I gave up, started from
+(relative) scratch, and rewrote the scripts to be a little bit more
+smart... You know in an afternoon.
+
+See the revised code here: [[code/download-mail]]
+
+ikiwiki-tasklist
+~~~~~~~~~~~~~~~~
+
+I've written about this before in my post on [[my new personal
+organization
+*stuff*\ \|rhizome/back-to-basics-tasklist-and-organization]], but it's
+no great announcement that I'm moving away from working in `emacs'
+org-mode <http://orgmode.org/>`__ and doing more work with
+`ikiwiki <http://ikiwiki.info>`__ and some hand-rolled scripts. I think
+org-mode is great, it just ended up getting in my way a bit and I think
+I can get more of what I need to get done in other ways.
+
+I have learned a great deal from org-mode. I made the biggest leap away
+from org-mode when I wrote [[code/ikiwiki-tasklist]], which does all of
+the things I had been using org-mode's agenda for. It's not a
+complicated at all: look in some files for some lines that begin with
+specific strings and put them into a page that is the perfect task list.
+
+See the code here: [[code/ikiwiki-tasklist]]
+
+Common Lisp Weenie
+~~~~~~~~~~~~~~~~~~
+
+"What Window Manager is that," he asked.
+
+"`StumpWM <http://www.nongnu.org/stumpwm/>`__, it's written in Common
+Lisp," I said, launching into a 30 second pitch for Stump.
+
+My pitch about stump is pretty basic: the Common Lisp interface
+allows you to evaluate code during run-time without restarting the
+window manager or loosing state; it's functionally like screen,
+which is very intuitive for window management; and it has emacs-like
+key-bindings, which I think work pretty well.
+
+"So you're a Common Lisp programmer?"
+
+"Well not really, I mean, I know enough to get by."
+
+"Right."
+
+"Right."
+
+Conclusion
+----------
+
+In several (technical writing) job interviews recently, people asked me
+about my programming experience, and my answer varied a lot.
+
+I know how computer programs work, I know how people write computer
+programs, I understand how software testing and debugging works, I
+understand the kinds of designs that lead to good programs and the kinds
+that lead to bad software. I don't write code--really--but I can sort of
+hack things together in shell scripts when I need to.
+
+The answer to the question, these days, is "I'm a programmer in the way
+that most people are writers: most people are comfortable writing a
+quick email or a short blurb, but get stuck and have trouble really
+writing longer or more complicated kinds of text. Reasonably capable but
+not skilled."
+
+The above code examples work: they do what I need them to do, and
+particularly in the case of the mail script, they work much better than
+the previous iteration. I need to do more work, and I feel like I'm
+reaching the boundaries of what can be comfortably done in shell
+scripting. My next big programming project is to go through these two
+scripts and port them to Python and see if I can add just a little bit
+of additional functionality in the process.
+
+I'm sure I'll report to you on this as my work progresses.
+

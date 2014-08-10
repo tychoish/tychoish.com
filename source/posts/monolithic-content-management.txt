@@ -1,0 +1,83 @@
+=============================
+Monolithic Content Management
+=============================
+
+.. post:: 2009-01-07
+   :author: tychoish
+
+When I was writing about `the redesign of
+tychoish.com <http://tychoish.com/rhizome/blog-refresh/>`__, I mentioned
+that I needed to write an essay here about "monolithic vs. micro
+(kernel) approaches to content management." Referencing an old (and
+mostly settled) debate in operating system design [1]_, think it might
+be productive to bring some of these systems design perspectives to the
+problem of content management systems for websites.
+
+The analogy is imperfect for a lot of reasons, because it can operate on
+two basic levels. The most direct level would be the software itself. Is
+the content management system (CMS; software) modular. If the database
+driver doesn't work with the system you want to use can you change it?
+If you don't like the template engine is it a simple matter to replace
+it? If you need additional functionality can you drop in modules or
+plug-ins to provide these features?
+
+In truth most systems are at least a little hybrid/microkernel-ish in
+their approach. Wordpress is pretty monolithic on the whole, but it
+provides a lot of access via the plugin system. While Drupal is very
+modular/microkernel, it still has a lot of functionality in the core
+system (and de facto core modules) that shape the way that most Drupal
+sites are developed. b2 and greymatter were almost entirely monolithic.
+I guess MediaWiki has some modularity, but it strikes me as a pretty
+monolithic system. And so forth.
+
+The less direct level, would be the relationship between what the
+content management system can provide and the website as a whole. Does
+the content management system handle all of the content internally, or
+does the system only handle one aspect of content, like a blog or a
+wiki? For the record I don't think interactions/relationships between
+these two levels are particularly important.
+
+Tychoish.com and Critical Futures are both very monolithic sites--maybe
+a better term for this is monolithic architecture. This is to say that
+the entire content of the site is stored in the database and managed by
+the system. Monolithic architectures seem to be the preference these
+days: Drupal prefers these kinds of designs, and I think for a lot of
+sites, "single system" has some appeal, particularly if there's a large
+editorial staff, or a desire to avoid editorial bottlenecks, as single
+systems make this a bit easier.
+
+At the same time--though unpopular--I'd like to suggest that monolithic
+architecture might not be the best solution for all sites across the
+board. Why? Because it leads to more complex and abstracted tools which
+are harder for people to customize, and it makes it more likely that
+people will be forced into using a tool that *almost* does what they
+need that works with their chosen platform, rather than a tool that
+really does what they need but doesn't work with their platform. Also
+monolithic architectures lead to a very non-UNIX-ish approach to
+software tools, when that might be more appropriate.
+
+To be clear, I think there are a lot of situations and
+individuals/organizations that do benefit from very monolithic site
+architectures (and users that benefit from monolithic tools), but it's a
+decision that shouldn't be made lightly, nor should people who build
+websites (myself included) assume that "the more content you put in a
+system" the better the system is.
+
+Thoughts?
+
+Cheers!
+
+.. [1]
+As I understand it, the debate is: micro kernels have sophisticated
+and elegant designs, that are highly modular and flexible, but suffer
+from poor performance (increased communications overhead) and more
+places where fault can occur (as there are more "places"). In
+contrast, monolithic kernels are "old school" and not innately
+flexible or modular, but they're fast, and once sufficiently
+developed, they either work well or they don't work at all. The
+design difference is that monolithic kernels provide all sorts of
+services (networking, file systems, display drivers) themselves in
+their own "space," while micro-kernels just handle the lowest level
+internally and rely on other programs to do things like networking,
+and file systems, and device drivers. As I understand it.
+

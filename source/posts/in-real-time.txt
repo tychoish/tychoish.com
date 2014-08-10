@@ -1,0 +1,79 @@
+============
+In Real Time
+============
+
+.. post:: 2008-11-13
+   :author: tychoish
+
+So in the past couple of weeks we've seen the proliferation of a couple
+new "real time services," for various kinds of data.
+`Enjit <http://enjit.com>`__ brings real time data from
+`friendfeed <http://www.friendfeed.com>`__ (which itself aggregates a
+lot of data pretty close to real time), and then there's
+`tweet.im <http://www.tweet.im/>`__ which *finally* brings something
+approaching real time twitter interaction back to those of us who have
+`been begging for a real time/xmpp twitter interface for a
+while <http://tychoish.com/rhizome/micro-jabbering/>`__.
+
+Though to be honest, I think that the lag is a bit more than 30 seconds,
+but I'm not sure and I'm not going to quibble for now. Actually I'm not
+convinced that this redeems twitter, given the number of other features
+that they've turned off (can't delete posts anymore, can't elect to not
+receive updates from people you follow, not to mention track) but it's a
+start. When they get Oauth and Open Micro Blogging implemented, [1]_ I
+won't worry. But in the mean time, there are people on twitter that I
+want to be able to talk to, and this is a much appreciated move.
+
+In any case, what this week has taught us is that real time services are
+*here*, and that companies and developers are beginning to realize this
+and provide services based on that. The man said "you don't need a
+weatherman to know which way the wind is blowing," and I don't think you
+need an ubergeek to know that realtime is on the way.
+
+--------------
+
+Which means, its my turn--as a resident uberworkflow/user interest
+geek--to parse out what this means. You might think that this means that
+there are geeks who are wanting as much data as possible as quickly as
+possible. But I don't think that's the case. Really i think it's about,
+having as much *control* over that data as possible.
+
+`Ken Sheppardson <http://www.kshep.net>`__, one of the folks behind
+enjit, talked about wanting to have was all about consuming as much data
+as he could. said " I only want a notice every hour or so when
+somebody's talking about something I care about, but I want it in time
+to participate." (**Edit Note:** I totally flubbed up the reference and
+introduction to this section and have edited to make me seem like less
+of a dip. Apologies.)
+
+The secret is that real time means *push*, and the truth is I think that
+I read *less* content and spend less time reading content that comes at
+me real time, than I do reading the same content that I have to check on
+in a special client or on a web page. Why?
+
+Because the time/energy spent on checking disappears. So if twitter is
+coming at me in an IM, I can trust that there's no reason to visit
+twitter.com, unless it's to look at someone new to follow. And it's easy
+to tell if I've seen something before, and avoid reading the same
+content that people blast all over the internet again and again.
+*(Ping.fm, how I hate you).* And when you get your data real-time, it's
+easier to make filtering decisions, which is a good thing.
+
+Converging these data streams in real time/xmpp (ff, twitter, laconica,
+etc.) means that your data comes to you, not that you get more of it. So
+from a usage/workflow perspective, I think this is *wonderful*.
+
+.. [1]
+So you're probably thinking, how then would twitter make money. I'm
+not, for the record making this argument out of some idiomatic Open
+Culture position, though I'm sympathetic. Rather, I think that Oauth
+and OMB are features that twitter's userbase might value. I'd,
+totally be willing to pay nominal fees for services, like IM and
+track, and text messaging, and the ability to filter that stream?
+Totally worth a few bucks a month. And twitter could totally have
+special features (like their election coverage) be ad supported
+(which would be the most logical solution anyway) and that might be
+really effective. So the next person to say "but twitter has to make
+money somehow, they can't give everything away for free," gets
+branded an uncreative apologist.
+

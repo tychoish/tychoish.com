@@ -1,0 +1,44 @@
+========================
+still smells like winter
+========================
+
+.. post:: 2007-09-16
+   :author: tychoish
+
+I just wrote my last regular TealArt post, it'll go live in the morning.
+It's kind of weird, though I've already implemented the design changes.
+I'm generally pretty happy with how things are, but I'm not sure if the
+designs are "perfect" (the answer is that they're not, but I'll have to
+cope with that). Must stop tweaking.
+
+Oh, and in other news, I finished the first half of the novella. The
+fifth chapter is a bit shorter than I thought, and the last
+"moment"/section feels like it needs a little bit of work, so we'll see
+if I really think it feels like it still needs more work when I'm a bit
+more fresh. But if I have any more fiction inspiration, I'm going to see
+if I can expand a bit on the plan for the sixth chapter. While the last
+chapter was a bit hard to write because of the perspective, this next
+one is going to be a bit harder because it's pretty much solid action,
+or what I think of as solid action.
+
+There are other things that I should really be doing, but:
+
+-  `Vienna, the Open Source OS X News
+Reader <http://www.opencommunity.co.uk/vienna2.php>`__ has released a
+new version, and it definitely beats out the version of NetNewsWire
+that I was using. Now NNW has updated more recently, so the current
+version might be better than Veinna, but I'm enjoying it.
+-  I was able to get the `Edit in
+TextMate <http://macromates.com/blog/2006/textmate-tricks/>`__ thing,
+to work. I haven't gotten the shortcut to default to "^E"
+(control-E), but I think that's only a restart away, assuming that
+all is well.
+-  My knitting project doesn't hate me any more, much, I think, but it
+still requires a lot of attention. It's a bit more than an inch. I
+have about 5-6 more before it gets a little more manageable. That's a
+better number than 29 more until I'm done.
+
+That's all for now.
+
+Cheers!
+

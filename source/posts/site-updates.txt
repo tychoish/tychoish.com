@@ -1,0 +1,74 @@
+============
+Site Updates
+============
+
+.. post:: 2003-03-26
+   :author: tychoish
+
+Every so often I feel the necessity to write a little ditty here to tell
+you about what's happened and what we have planed, despite the fact that
+it goes most of the blogging directives that I subscribe to. Alas. I
+still feel like we need to do it from time to time. So here it goes.
+
+We've added Peter McCabe as a contributor; you saw his post I'm sure.
+His perspective and dynamic will really enhance the site as we have it
+now, and I'm really looking forward to what he'll come up with in the
+coming weeks and months. I'm also on the look out for another Teal
+Artist person, but I have fairly specific requirements, so the search is
+slow, but eventually I'd like to add another person here. If anyone's
+interested, I'd like to hear from you, but I'm being picky with this, so
+don't take any rejections personally.
+
+A long time ago, we added a fourth skin (before the site dump), and I
+don't think I ever posted about that. I'm finally pretty happy with what
+I see in or selection of designs, there's a fifth skin hanging around
+somewhere, but it's not perfect yet, so it'll be a little while until we
+see that kind of design development, but I think what we have now is
+sufficient, and I really don't like that aspect of web design very much
+at all, so it left up to the free time in Chris' schedule. I wouldn't
+hold your breath.
+
+Commenting on the TealArt blog has been restored. Sometime when I have
+more than half a brain and I'm in the mood to do some coding, I'll write
+up a page so that you all can register. Registration makes commenting
+easier, and you'll be able to edit your words without needing divine
+intervention. Enjoy, and we really thrive on knowing that there are
+people out there are paying attention to shouts into the night.
+
+I think we referenced "the auxiliary site" at one point, and that
+disserves a little explanation. Chris bought a domain and installed b2,
+and proceeded to double all of his TealArt posts onto his website along
+with some other more random things, like poetry and quick rants, but for
+the most part it was a quick and sloppy thing without a direction to
+speak of. So during a late night IM conversation that was meandering
+through the dark caves of nothingness, Chris comments that it might be
+kind fun if we posted our IM transcripts at the end of every week. It
+was wacky, and it was just weird enough that it might work. TealArt
+didn't quite seem like the right place for such foolishness, wiped
+Chris' site clean, whipped up a design that was mostly stolen from a
+free blog template site, and started posting.
+
+The idea was to have a site where we were removed from what passes for
+our real personas, and would thus be able to say anything without it
+being connected to what readers of this site or of CollectiveArts might
+think. I'm not going to tell you the URL, and I bet you won't guess it.
+It was to be fast, campy, zany, honest, blunt, and for the most part
+completely removed from our real lives. We even post under false names,
+mostly for kicks. It's a great idea and I don't know how it'll turn out.
+We're considering transitioning that site into a "TealArt Notebook" that
+would take the aux site's place, but ultimately that's not my decision,
+so we'll see.
+
+CollectiveArts is getting close to the fabled re-launch, though I'm
+waiting on a couple more profiles. I think it's going to be really cool,
+but we'll see how things fall once it's really live. For a while we had
+our name's linked to our CollectiveArts profiles but I think ultimately
+that doesn't represent the kind of work that we're doing here at
+TealArt, so I think sometime soon we're going to write up better ëabout'
+pages for your enjoyment. For me, at least, a good about page can make
+or break a blog, and it's been on my list for a really long time, so
+maybe we'll finally get around to it.
+
+There are a host of other personal updates, but I'll keep my own stuff
+out of the "Site Update" save that for tomorrow. Cheers!
+

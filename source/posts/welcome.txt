@@ -1,0 +1,40 @@
+========
+welcome!
+========
+
+.. post:: 2007-06-24
+   :author: tychoish
+   :tags: meta
+
+"tychoish" is a weblog that is something of a mashup of new and old
+weblog styles. New in the sense that I'm powering it using the latest
+and greatest from `Wordpress <http://www.wordpress.org>`__, and the
+general idea of the
+`tumblelog <http://en.wikipedia.org/wiki/Tumblelog>`__; and old in the
+sense that of tone and organization.
+
+It seems to me that at some point weblogs started being "about things"
+rather than running collections of personal wanderings, ramblings, and
+information. In a lot of way this is the model that
+`TealArt <http://tychoish.com>`__ still uses, but it's my intention that
+TealArt collect essays and slightly more formal pieces.
+
+I've tried a number of times to write less formal blogs, most
+successfully using the LiveJournals `Clever on
+Demand <http://celchu19.livejounral.com>`__ and `Awkward, but Enderingly
+Colloquial <http://tychoish.livejournal.com>`__. (Usernames celchu19 and
+tychoish respectively) While I'm still fond of some of the community
+aspects of LiveJournal, I like the prospect of doing it on my own, and
+having more control over the whole process. I've also
+`tried <http://tychoish.tumblr.com>`__
+`tumblr <http://www.tumblr.com>`__ and I've been generally displeased
+with the experience. And while microbloging services like
+`jaiku <http://tychoish.jaiku.com/>`__ and
+`twitter <http://www.twitter.com/tychoish/>`__ are great fun, they're
+not the same as what I have in mind for this site.
+
+In this vein, this site will have short, (mostly) unedited, and rambling
+posts, quotes and exchanges too funny to let go by, lists of various
+kinds, and anything else that just needs to get out. With luck, we'll
+also syndicate this mess in the TealArt sidebar. It will be delicious.
+

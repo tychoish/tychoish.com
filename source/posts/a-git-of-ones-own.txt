@@ -1,0 +1,86 @@
+==================
+A Git of One's Own
+==================
+
+.. post:: 2010-04-27
+   :author: tychoish
+   :tags: writing, cyborg
+
+My most sincere apologies to Virginia Woolf for the title.
+
+We use a lot of `git <http://www.git-scm.com/>`__ at work, and I've
+earned a bit of a reputation as "the git guy," both at work and amongst
+the folks who read the blog. So, I suppose it should come as no surprise
+that a coworker (hi `stan <http://www.schwertly.com/>`__!) said "You
+should write something about using git when it's just one person." And I
+said "well sure, but it's not nearly as interesting as you think it's
+going to be." He didn't seem to mind, so here I am.
+
+Lets back up for a second.
+
+Git is a tool that programmers use to facilitate collaboration. It
+stores versions of computer code (and associated file) and save
+incremental sets of changes to those files, so that programmers can
+easily experiment with changes without destroying code, and so that
+teams of programmers (sometimes even large teams) can all work and
+develop on a single code base without stepping on eachothers toes, or
+duplicating efforts because you end up working on different versions of
+the code.
+
+Git makes a number of innovations that make version control with git
+much preferable (at least in my experience) to other tools, but
+fundamentally that's what git does. Git has all sorts of innovations
+that make it awesome: it's fast, it can take "diverged branches" and
+merge them together painlessly and almost automatically. It's *great*
+and mind bending, and I think really forces us to rethink all sorts of
+assumptions about authorship, and the coherency of "texts" in general.
+
+But I'm famous for using git all alone, with just me. Here are the
+lessons and conclusions that I'd draw from my experiences over the
+past... two or three (or so) years of using git:
+
+- Use fewer features. Git can do all sorts of funny stuff with branches
+  and merges, but the truth is that when you're working alone you don't
+  really want to have to much with branches. Because they're the really
+  novel feature (at least in terms of their usability) in git, everyone
+  wants to use them but they add complexity, and there are other
+  approaches to managing files and content with git that are probably
+  preferable.
+
+- Resist the temptation to store binary files in git. It'll work, but
+  you won't be really happy with it.
+
+- Even though you don't need to have a remote repository to push your
+  git repositories to, keep an off site repository in almost every
+  case. You get incremental backups for free with git, and remote back
+  ups are nearly free.
+
+- Use a tool like
+  `gitosis <http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way>`__
+  (but it's probably in your distribution's repository and you should
+  use that version) to manage repositories. It's overkill for your
+  use-case, but it makes things easier in terms of creating
+  repositories. Perhaps consider something like
+  `girocco <http://repo.or.cz/w/girocco.git>`__ if you want even more
+  overkill, and more web-based interface.
+
+- There are git tools for most text editors and graphical tools that
+  you may choose to use, but *don't*, at least until you understand
+  what's going on behind the scenes. Learn git commands, and do stuff
+  from the command line, as you'll be much better (in the long term,)
+  at fixing things as issues come up.
+
+- If you need to maintain multiple machines, think of each machine as a
+  collaborator, and it's probably easiest to have a centralized group
+  of repositories that you can push to in order to keep these machines
+  up to date.
+
+- If you're using git to manage configuration files (which is great) I
+  strongly recommend having a "sub-home" directory in a git repository
+  with your configuration files with symbolic links pointing to the
+  files in the repository. This strikes me as towing the balance
+  between utility and control, without being a total pain the ass. As
+  it were.
+
+And that's about it.
+

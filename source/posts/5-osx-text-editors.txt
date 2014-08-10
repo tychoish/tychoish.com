@@ -1,0 +1,15 @@
+=======================
+5 Text Editors for OS X
+=======================
+
+.. post:: 2007-12-09
+   :author: tychoish
+
+1. `Aquamacs <http://aquamacs.org/>`__
+2. `xPad <http://getxpad.com/>`__
+3. `Smultron <http://smultron.sourceforge.net/>`__
+4. `BBedit <http://www.barebones.com/products/bbedit/>`__/`TextWrangler <http://www.barebones.com/products/textwrangler/>`__
+5. `TextMate <http://macromates.com/>`__
+
+*What? You were expecting humor? Heh.*
+

@@ -1,0 +1,69 @@
+==========================
+Technical Hardware Update 
+==========================
+
+.. post:: 2008-10-08
+   :author: tychoish
+
+So it turns out that the old laptop that I spent lots of time in the
+late spring fretting about updating finally gave up the ghost last week.
+Now the astute among you will remember that I bought a new laptop
+mid-summer, and you maybe wondering why I'm mentioning this.
+
+Even though the keyboard was worn out (hence my reason for upgrading),
+with an external keyboard that we had lying around it worked fine, so I
+passed it down to my mother who was in need of a newer computer for
+routine home tasks, where it continued to function abely.
+
+And then it broke.
+
+Which caused all manner of strife around here, as we're all pretty set
+in our computer usage habits and it's really hard to share computers
+with people, no matter how much you like them. And while the loss of
+this computer brought the net number of computers to equal the number of
+people in the house, one of the computers is a 12" iBook from mid-2004
+which is slow and small, and uncomfortable for anything other than
+casusal use.
+
+So we tussled with a number of different possible solutions which were
+all uniquely unsuitable. Eventually we came to the following solution:
+
+My father, who has heretofore been running on both a 2005 era mini-mac
+(primarily) and with the recent addition of the ibook, will switch to
+the ibook exclusively. The ibook does a suitable job at powering his
+external monitor, and if we put his itunes library on an external drive
+(which we should have done a long time ago anyway) the hard disk size
+isn't an issue. Mom gets the Mini, with a as of yet unpurchased monitor,
+and I blessedly can keep out of the whole mess.
+
+The truth is that this has me thinking about my computer useage. I've
+realized that while I'm probably the most "power-user" in the house, I'm
+not doing anything particularly resource intensive: text editor,
+terminal emulator, mutt, IM program, news reader, web browser, pdf
+viewer, calander/pim tool, and that's about it. I used the 12" iBook
+myself for a week or two, and while it's still a bit underpowered for my
+purposes, it wasn't *that* underpowered--it's major offense is that the
+screen is pretty low-res.
+
+While I'm probably going to get a linux desktop in the next few weeks
+(sooner, I guess, now that we're going to be making an order for one
+monitor, I might as well buy the monitors for my set up), I've been
+thinking about my own computer usage habits and needs. If I have a
+desktop computer, do I need as much umph in my laptop? Could I get buy
+with something like
+`this <http://en.wikipedia.org/wiki/HP_2133_Mini-Note_PC>`__ fit my
+mobile needs more clearly (smaller, capiable, linux-y)? I think that if
+you asked me tomorrow, I'd probably say "not yet," but in a couple of
+years? I'm not sure.
+
+Once upon a time, the major concern when buying computers was finding a
+machine that had enough resources to serve your needs for the next 2-4
+years. These days, just about any computer you buy is fast enough and
+has enough storage space. There are lots of ways in which this is a good
+thing, but I think it's most interesting/important in the sense that it
+forces computer buyers to get computers on the basis of the needs of the
+workflow rather than on some negotiation between budget and feature
+list. And that, I think, is a really good thing for technology.
+
+Onward and Upward!
+

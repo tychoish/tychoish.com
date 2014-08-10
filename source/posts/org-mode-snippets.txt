@@ -1,0 +1,141 @@
+=================
+org-mode snippets
+=================
+
+.. post:: 2009-02-20
+   :author: tychoish
+   :tags: org-mode, emacs, open-source
+
+I promised that I'd post some of the stuff from my .emacs file that
+makes my `org-mode <http://www.orgmode.org>`__
+`system <http://tychoish.com/rhizome/org-mode/>`__ work. Here we are.
+
+There are some basic settings that I use on all major modes that I use
+in emacs. Basically, I want to attach the spell checker (the minor
+modes, flyspell-mode and auto-fill-mode). These lines do this:
+
+::
+
+(add-hook 'org-mode-hook 'turn-on-auto-fill)
+(add-hook 'org-mode-hook 'flyspell-mode)
+
+I also, attached ".org" as the file extension to org-mode. This setting
+is good for this kind of thing:
+
+::
+
+(setq auto-mode-alist
+(cons '("\\.org" . org-mode)auto-mode-alist))
+
+The following are a list of basic org-mode related settings that I've
+found helpful. In some sequence, I keep org-mode files in the ``~/org/``
+directory, with ``codex.org`` being my general catch-all file. I like my
+agenda views to include todos, even if they're not date-specific (this
+is a great boon) I've included the diary in the agenda views for grins,
+though I'm not yet smart enough to really make the most of that one.
+
+The odd-levels-only, and hide-leading-stars are aesthetic settings only,
+and can be changed/converted from at any point, but I like them
+
+The org-todo-keywords setting allows you to specify alternate
+todo-statuses. I've found that this sorting is a useful and allows me to
+visually sort out things I need to write, versus chores and other more
+clerical tasks. The pipe seperates finished statuses from open statuses.
+I debated for a long time about weather "differed" should be "done" or
+"not done," but decided that with "pending," I was safe to use
+"differed" tasks for "not my problem any more" items.
+
+::
+
+(setq org-directory "~/org/")
+(setq org-default-notes-file (concat org-directory "/codex.org"))
+(setq org-agenda-include-all-todo t)
+(setq org-agenda-include-diary t)
+(setq org-hide-leading-stars t)
+(setq org-odd-levels-only t)
+(setq org-todo-keywords
+'((sequence "TODO"
+"WRITE"
+"REVIEW"
+"PENDING" "|"
+"DIFFERED"
+"DELEGATED"
+"DONE")))
+
+The next bit, is something that I got from
+`Jack <http://metajack.im/2009/01/01/journaling-with-emacs-orgmode/>`__.
+It creates an org-mode file with time-stamp headlines which you can use
+to create a journal file to record daily activities.
+
+The first block sets up which file the journal should be in, and the
+second sets up entry. My main complaint with this is that I'm not very
+habitual about using it.
+
+::
+
+(defvar org-journal-file "~/org/journal.org"
+"Path to OrgMode journal file.")
+(defvar org-journal-date-format "%Y-%m-%d"
+"Date format string for journal headings.")
+
+(defun org-journal-entry ()
+"Create a new diary entry for today or append to an existing one."
+(interactive)
+(switch-to-buffer (find-file org-journal-file))
+(widen)
+(let ((today (format-time-string org-journal-date-format)))
+(beginning-of-buffer)
+(unless (org-goto-local-search-headings today nil t)
+((lambda ()
+(org-insert-heading)
+(insert today)
+(insert "\n\n  \n"))))
+(beginning-of-buffer)
+(org-show-entry)
+(org-narrow-to-subtree)
+(end-of-buffer)
+(backward-char 2)
+(unless (= (current-column) 2)
+(insert "\n\n  "))))
+
+The integration between remember-mode functionality and org-mode is one
+of those things that just makes org-mode amazing and awe inspiring. The
+sad part is that it takes some setup to make it work right and therefore
+doesn't work straight out of the hook.
+
+I'd explain the template syntax better if I understood it a bit better.
+I should look into that.
+
+::
+
+(require 'remember)
+(setq remember-annotation-functions '(org-remember-annotation))
+(setq remember-handler-functions '(org-remember-handler))
+(add-hook 'remember-mode-hook 'org-remember-apply-template)
+
+(setq org-remember-templates
+'(("todo" ?t "* TODO %?\n  %i\n  %a" "~/org/codex.org" "Tasks")
+("notes" ?n "* %?\n  %i\n  %a" "~/org/codex.org" "Inbox and Notes")
+("blog" ?b "* %U %?\n\n  %i\n  %a" "~/org/blog.org")
+("technology" ?s "* %U %?\n\n  %i\n  %a" "~/org/technology.org")
+("fiction" ?f "* %U %?\n\n  %i\n  %a" "~/org/fiction.org"))
+
+Finally, key bindings that make org-mode functionality accessible
+whenever I need it in emacs. I should do things to have raise
+``emacsclient`` windows from other applications, but I'll deal with that
+later. There aren't that many, and I put org-mode stuff under control-c
+(C-c).
+
+::
+
+(global-set-key "\C-ca" 'org-agenda)
+(global-set-key "\C-cr" 'org-remember)
+(global-set-key "\C-cj" 'org-journal-entry)
+
+And that's it. If you use org-mode, what's the killer snippet that I've
+forgotten? If you don't use org-mode but are curious, what should I talk
+about next. If you're still not clear what org-mode is, ask, as I should
+work on getting better at explaining.
+
+Thanks for reading. Cheers!
+

@@ -1,0 +1,53 @@
+====================
+Moving the Furinture
+====================
+
+.. post:: 2011-05-02
+   :author: tychoish
+   :tags: productivity, madalu
+
+A few weeks ago we moved the furniture around. The biggest objective was
+to get some desk space setup in a more usable fashion. I find myself
+doing this a couple times a year. It's easy for me to get in the habit
+of having everything a certain way without realizing that the chair I
+like to sit on is always in the sun during the mornings when I like to
+write, or that I never put the dishes away, because the cabinets were
+arranged backwards. The same sort of thing happens with computers and
+the way we use technology.
+
+[[Matt\|madalu]] and I were talking about this a couple of weeks ago. I
+think at the core of the issue is that the kind of work we do with
+computers, changes subtly: either what we do *actually* changes as a
+result of our progress, or we learn more about what we're doing and what
+we ought to be doing from completing work. Like the furniture, it's easy
+to get accustomed to doing things in one particular way and not realize
+that there's a better way.
+
+It's useful then to spend a little time every now and then to do a
+little bit of digital spring cleaning. There are two major parts of this
+process:
+
+3. Figure out if "what you do" has changed significantly. As our
+projects grow the work we do changes, sometimes in ways that make it
+hard to continue to organize our efforts and tools in the same way.
+
+4. Looking for new tools that you can use to do what you do. This
+includes flat out *new* tools of which you weren't aware, little
+automations that you may be able to build, and tools that solve
+problem domains that you'd previously ignored. It's also sometimes
+useful to look at your tools and figure out what is more trouble than
+it's worth. Ideally these don't all change annually, but it's worth
+doing a review.
+
+There's no guarantee, of course, that you'll find a solution to any
+issue that you come across but you might. You might also be able to gain
+new insights into issues that have nagged at you by approaching a number
+of issues and pain points all at once. It's also, I'm pretty sure, more
+productive to spend most of your time doing *stuff* (writing, coding,
+etc.) even if your world isn't perfectly optimized, than it is to spend
+all your time tinkering with things.
+
+And the sofa really does look better over there.
+
+Onward and Upward!
+

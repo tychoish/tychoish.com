@@ -1,0 +1,50 @@
+====================
+Delicious Aftertaste
+====================
+
+
+Apparently Delicious is shutting down. This is either not news to you,
+because you've been hearing people natter on about it for days, or you
+don't have a clue what Delicious is. Which is more likely, because it's
+probably being shut down for under-use, which means most people don't
+have a clue. Right. It's a website that allows you to post links
+"bookmarks" and then tag them, and then search for new links based on
+tag, with *everyone's* links so you can discover whats happening based
+on what everyone is posting and tagging with what. Nifty idea. It's also
+worth pointing out that Delicious was one of the first big web 2.0
+startups, and got to the whole idea of the social web pretty early.
+
+Anyway, enough history, and on to the news of the day.
+
+`tofu <http://identi.ca/tofu>`__ said "`with all of this talk of
+delicious, I am surprised that I have heard little about creating a
+decentralized social bookmark
+alternative <http://identi.ca/notice/60655625>`__\ " which is a good
+thought and echo's a slightly more complex proposal that `marn made on
+the topic the other
+day <http://marnanel.livejournal.com/1473056.html>`__.
+
+In short, leaders of the contemporary revolution in federated network
+technology ("web services should be federated and exportable so that
+everyone's data doesn't get hosed when one website closes down, and
+people can share data with friends who uses different services") are
+saying "let's not make this mistake again, if we're going to build an
+alternative, let's make it better."
+
+And I think, in typical me-fashion, I'm
+`saying <http://identi.ca/notice/60655712>`__: is social bookmarking
+still a thing? Have twitter and identi.ca replaced our need for this
+kind of service? The problem I think lays in the fact that there's *so
+much Internet* that services like delicious very quickly become "lets
+catalog everything" and as a result "bookmarking" as a concept isn't
+very useful for sharing links and exposing information to new audiences.
+
+Having said that, I think the notion of writing a tool to use identi.ca
+or a `status.net <http://status.net>`__ installation to replace
+delicious functionality seems like a great idea. Similarly, while it's
+not federated `pinboard.in <http://pinboard.in>`__ has been around for a
+while and while it's not federated, (or open source, particularly,) I
+like just about everything they've done.
+
+Ponder that!
+

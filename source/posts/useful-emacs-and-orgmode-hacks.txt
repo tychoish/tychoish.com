@@ -1,0 +1,215 @@
+===============================
+useful emacs and org-mode hacks
+===============================
+
+.. post:: 2009-09-04
+   :author: tychoish
+   :tags: emacs, org-mode
+
+After a long time of intentionally avoiding tweaking my emacs file, I've
+gotten back into tweaking and hacking on my setup a bit in emacs land.
+Rather than wax philosophical about emacs and plain text, I thought I'd
+share a few things with you all in the hopes that this will prove
+helpful for you.
+
+I've given some thought to publishing a git repository with my emacs
+files, my awesome config, and the useful parts of my bashrc files. My
+only hesitation is that all of these files aren't in one repository
+right now, and I'd need to do some clean up to avoid publishing
+passwords and the like. Encouragement along this direction might be
+helpful in inspiring me to be a little more forthcoming in this
+direction.
+
+Keybinding "Name Spaces"
+------------------------
+
+I've begun reorganizing key-bindings in a standard pattern, in order to
+avoid collision of bindings in certain spaces. The problem with the "C-x
+C-[a-z]" bindings is that it's hard to get really good mnemonic bindings
+for whatever you're trying to do, and there are few of them. I've taken
+to putting all of my custom bindings (mostly) under "C-c [a-z]," and
+then grouping them together, based on mode or function.
+
+::
+
+(global-set-key (kbd "C-c o a") 'org-agenda-list)
+(global-set-key (kbd "C-c o t") 'org-todo-list)
+(global-set-key (kbd "C-c o p") 'org-insert-property-drawer)
+(global-set-key (kbd "C-c o d") 'org-date)
+(global-set-key (kbd "C-c o j") 'org-journal-entry)
+(global-set-key (kbd "C-c r") 'org-remember)
+(global-set-key (kbd "C-c a") 'org-agenda)
+
+(global-set-key (kbd "C-c w s") 'w3m-search)
+(global-set-key (kbd "C-c w t") 'w3m-goto-url-new-session)
+(global-set-key (kbd "C-c w o") 'w3m-goto-url)
+(global-set-key (kbd "C-c w y") 'w3m-print-this-url)
+(global-set-key (kbd "C-c w l") 'w3m-print-current-url)
+
+You can see here, org-mode related bindings and w3m related bindings.
+"C-c o" is wide open, and I haven't yet found anything in that space
+that I've overwritten. Same with "C-c w". Even though the command
+key-chains are a bit longer than they might be if I piled things more
+sporadically, I can remember them more quickly.
+
+Org-journal is something `I got from
+metajack <http://metajack.im/2009/01/01/journaling-with-emacs-orgmode/>`__,
+and I don't use it as much as I should. Everything else is standard org
+or w3m functionality.
+
+I suppose I should make mode-specific key-bindings so that I'm not
+eating away global name space for mode-specific functionality, but I'm
+not sure that would make things too much clearer or easier to remember.
+
+Also I really like the ``(kbd ")`` syntax for specifying key sequences.
+Much easier to read and edit.
+
+Custom File settings
+--------------------
+
+A while back I pulled my customize-set variables out of my main
+init-file, and gave them their own file, which means my init-file isn't
+quite so long, and the variables that I'm not setting.
+
+Nevertheless, I like to set as many variables by hand with ``setq`` just
+so that I can be in better touch with what settings I'm changing. This
+code, moves custom-set variables out of main file:
+
+::
+
+(setq custom-file "~/path/to/emacs.d/custom.el")
+(load custom-file 'noerror)
+
+Window Transparency and Font Settings
+-------------------------------------
+
+At the top of my init file, I have the following four lines to set font
+and window transparency.
+
+::
+
+(add-to-list 'default-frame-alist '(font . "Monaco-08"))
+(set-default-font "Monaco-08")
+(set-frame-parameter (selected-frame) 'alpha '(86 84))
+(add-to-list 'default-frame-alist '(alpha 86 84))
+
+Note that this depends on running a composting manager like
+``xcompmngr``, and the transparency is quite subtle. With great
+pleasure, running this code at the begining of the init file means that
+emacs' looks and behaves correctly when I start it using a plain,
+
+::
+
+emacs --daemon
+
+command from a regular bash prompt. I'm running fairly recent (but
+perhaps not the actual release?) builds of emacs 23. Note that I'd had
+trouble getting daemonized versions of emacs to start and capture the
+right information about font and transparency. That seems to be
+resolved.
+
+Aliases
+-------
+
+Here's the alaises I use to make key-commands less work to type. It's
+sort of a space between "creating a key binding" and just using the
+function from ``M-x`` Here's the current list:
+
+::
+
+(defalias 'wku 'w3m-print-this-url)
+(defalias 'wkl 'w3m-print-current-url)
+
+(defalias 'afm 'auto-fill-mode)
+(defalias 'mm 'markdown-mode)
+(defalias 'rm 'rst-mode)
+(defalias 'wc 'word-count)
+(defalias 'wcr 'word-count-region)
+(defalias 'qrr 'query-replace-regexp)
+(defalias 'fs 'flyspell-mode)
+(defalias 'oa 'org-agenda)
+(defalias 'uf 'unfill-region)
+(defalias 'ss 'server-start)
+(defalias 'se 'server-edit)
+(defalias 'nf 'new-frame)
+(defalias 'eb 'eval-buffer)
+(defalias 'mbm 'menu-bar-mode)
+(defalias 'hs 'hs-org/minor-mode)
+
+There are a number of these that I don't use much any more, but it's not
+worth it to edit the list down.
+
+New Modes
+---------
+
+A few new modes that I've been using
+
+yassnippet
+~~~~~~~~~~
+
+I've started using yasnippet more, and I'm quite fond of it for managing
+and inserting little templates into files as I'm working. There's not a
+lot of example code that I can share with you, as it just works, but I
+do have a couple of notes/complaints:
+
+-  I have to use C-i to expand snippets. The "tab" key doesn't seem to
+work to expand snippets ever.
+
+-  The organization of the snippets directory is absurd. I understand
+how the structure of the hierarchy mirros the way modes are derived
+from one another, and having the expansion triggers as file names
+also makes sense, but it's really hard to organize things. Do people
+use modes that aren't derived from "text-mode"? Are there any? There
+should be a "global" directory in the snippets folder (next to
+``text-mode``) where all of the files in any number of folders
+beneath "global" are available in all modes.
+
+-  It's amazing useful, and there are some things that I need to create
+snippets for that I haven't. This is on my list of things to do.
+
+w3m
+~~~
+
+w3m is an external text-mode browser that emacs hackers have written a
+good bridge to emacs for. What this means is you get a text-mode browser
+that works in emacs, but it's speedy because page rendering happens
+outside of emacs.
+
+It works, and it's immensely use-able, though the key-bindings are a bit
+hard to remember and there are too many of them to change at once
+without completely driving yourself crazy.
+
+I read a thread on the emacs-devel list a few months back about
+embedding something like uzbl inside of emacs (making emacs more like a
+window-manager) and I think the project presents an interesting
+possibility, but I think w3m succeeds because it makes the text of a
+website accessible within emacs.
+
+Embedding a "real" browser in emacs, would just duplicate window manager
+functionality, and add complication. I think better to make a uzbl
+config file that was emacs-friendly, and some sort of "create emacs
+buffer with selected uzbl text" bridge would be nice, but anything more
+than that seems foolish.
+
+My (few) w3m key-bindings are above.
+
+nxml mode
+~~~~~~~~~
+
+With all this web-design work I've been doing, (eg. `cyborg
+institute <http://www.cyborginstitute.com>`__) I've needed to stray into
+using HTML and CSS modes. There's this newer mode called nxml-mode which
+is delightful because it validates your html/xhtml/xml file on the fly
+(great!) but I've found it less than helpful for situations where I just
+have a snippet of HTML/XML in a given file, because it gets included
+later. Nonetheless, powerful stuff.
+
+--------------
+
+That's about it for now. There are few other things, but I don't feel
+ready to really explore them at this point, mostly because I haven't
+gotten familiar enough to know if my modifications have been useful.
+Muse-mode, etc.
+
+Any good emacs code that I should be looking at?
+

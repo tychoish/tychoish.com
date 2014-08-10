@@ -1,0 +1,124 @@
+====================
+AO, an Ethical Book?
+====================
+
+.. post:: 2007-06-01
+   :author: tychoish
+
+I will admit freely and openly, that I haven't finished reading
+*Anti-Oedipus*. In fact, at the beginning of the series I was only on
+page 148. I suspect a large part of the passages that I "present" will
+be from where ever I happen to be in the book, (likely pages 150-200, at
+my current rate) but from time to time, I think I'll also pull from the
+first 150 pages if something strikes my fancy. All this by way of saying
+that this week's passages will come, not from Deleuze, but from
+Foucault's preface to the book. He summarizes Delueze and Guatteri's
+project:
+
+"How do we rid our speech and our acts, our hearts and our
+pleasures, of fascism? How do we ferret out the fascism that is
+ingrained in our behavior? The Christian moralists sought out the
+traces of the flesh lodged deep within the soul. Deleuze and
+Guattari, for their part, pursue the slightest traces of fascism in
+the Body."
+
+I have to say that I think this is why I like this book so much. Rather
+than say "fascism" [1]_ is all in the individual and/or "collective"
+"unconscious," "soul," or in the historical moment, the statement that
+fascism is "in" our "behavior," "speech" and "acts," I think makes a
+great deal of sense. This makes it at least vaguely observable [2]_, and
+it means that we can take what they say about "fascism," and apply it to
+other features of our actions, behaviors, beliefs, and speech. While I
+think leads to all sorts of other problems, like "are all
+cultural/social constructions and conventions then fascist?," and the
+more basic issue that fascism is a rather unspecfic and imprecise term
+that I think could get in the way of the text's ability to be applied
+more widely. So while this is, very much a book about fascism, I'm
+finding it helpful to ignore "the fascist" part of statement, and
+instead think of "it," as "culture," and "society," because this seems
+to both be more widely useful. Also, the body of research on culture and
+society is I think more accessible and wide than the body of research on
+"fascism," however variously interpreted.
+
+In a related point, I'm really drawn to theories of embodiment, and I
+like the way that they, both in Foucault's estimation in the preface,
+and through what I've read, continually ground their work in an
+understanding and acknowledgment of the body and material reality (such
+as it is.) The sort of endless metaphysical crap [3]_ for the sake of
+metaphysical crap is irksome, and not incredibly productive in the
+application. Having said that, D&G spend a lot of time doing what can
+only be described as the metaphysics of the body, in attempt to
+synthesize psychoanalysis and materialism, and that can be hard to take.
+But in all the attempt to locate all these theories in the context of
+the body is, I think productive.
+
+Later, Foucault speaks of the book as a kind of "manual" for
+anti-oedipal "non-facist" living, and I think that I'll likely return to
+his tenets in time, but the principal that strikes me as the most
+interesting and important at the moment reads: > "Withdraw allegiance
+from the old categories of the Negative (law, limit, castration, lack
+lacuna), which Western thought has so long held sacred as a form of
+power and an access to reality. Prefer what is positive and multiple,
+difference over uniformity, flows over unities, mobile arrangements over
+systems. Believe that what is productive is not sedentary but nomadic."
+
+As an ethical statement, I think this is one of the more important ones.
+I've been known to complain a great deal about "positive
+psychology," [4]_ and I think there are ways that this "ethical"
+statement mirrors that "movement," but I think that it also goes
+further, to explore diversity, difference, and the ways that we (as
+individuals and groups) change. I think that's a really productive goal
+and point, and reading the book with this in mind I think makes it a
+more productive enterprise. Furthermore, the edict to think about
+diversity and change, rather than conformity and certain truth, I think
+has productive implications in other debates: in favor of publishing
+null-hypothsis data, and in-favor of qualitative and grounded theory
+approaches to research.
+
+In conclusion I have to say that I think that Foucault's preface is
+really interesting, because we are able to see a side of Foucault
+(almost certainly late in his career,) where he looks a lot more like a
+philosopher and an intellectual historian than any of the other fields
+that he's sometimes associated with (eg. history, psychology, sociology
+etc.). It's also a really clever bit to read, and particularly going
+back and reading over the preface, I'm struck with how well it
+encapsulates and frames the book. Because my root [5]_ to this theory is
+through women's studies and queer theory, I've been consistently more
+exposed to Foucault, so the relationship and dynamic between
+Deleuze--who I find inspiring, in a way that Foucault never is--and
+Foucault has always been intriguing.
+
+Anyway, that's all I have space for this time, I look forward to hearing
+from you [6]_ soon and I'll pick something cool for next week, I
+promise.
+
+Cheers, tycho
+
+.. [1] The book jacket refers to fascism as "the desire to be led," and
+   while I think I would take issue with this definition a little bit I
+   do like the way that the book can be read--and often is, because of
+   Foucualt in part--as an ethical text, in a very strange sort of way.
+   Having said that, this is the book jacket, and I think we could
+   generate a very workable but less pithy definition, should we want
+   to).
+
+.. [2] I had a professor who would often claim that the best part of any
+   great theory (Freud, g-d, etc.) is the invisible part. It's good that
+   D&G seem to avoid this as much as possible.
+
+.. [3] A technical term, I assure you.
+
+.. [4] Positive psychology is the field of psychology that says that
+   psychology has studied abnormalities and focused on "fixing" negative
+   experience (eg. depression, anxiety, etc.) for too long, and that
+   instead we should focus on "optimum experience" and "happiness,"
+   which is incredibly hard to take, and I don't think it does very much
+   to get rid of the "order/disorder" paradigm or any of the other short
+   fallings of the field. But that's just me.
+
+.. [5] A reference to "*But I'm a Cheerleader*\ "
+
+.. [6] I've installed, if you haven't noticed, a threaded comments system
+   that will let you discuss not simply with my entry but also with each
+   other in an organized manner.
+

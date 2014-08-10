@@ -1,0 +1,84 @@
+==============
+Sphinx Caveats
+==============
+
+.. post:: 2013-02-08
+   :author: tychoish
+   :tags: technical-writing
+
+This is a rough sketch of some things that I've learned about the
+`Sphinx documentation generation system <http://sphinx-doc.org/>`__. I
+should probably spend some time to collect what I've learned in a more
+coherent and durable format, but this will have to do for now:
+
+-  If you describe a type in parameter documentation it will
+automatically link to the Python documentation for that type when
+using the Python Domain and if you have intersphinx connected. That's
+pretty cool.
+
+-  Sphinx let's you define a scope for a file in some cases. If you're
+documenting command-line options to a program. (i.e. with the
+"program" with subsidiary "option" directives,) or if you're
+documenting Python objects and callables within the context of a
+module, the module and program directives have a scoping effect.
+
+Cool but it breaks the reStructuredText idiom, which only allows you to
+decorate and provide semantic context for specific nested blocks within
+the file. As in Python code, there's no way to *end* a block except via
+white-space, [1]_ which produces some very confusing markup effects.
+
+The "default-domain" directive is similarly... odd.
+
+-  Sphinx cannot take advantage of multiple cores to render a single
+project, except when building multiple outputs (i.e. PDF/LaTeX, HTML
+with and/or directories.) *if* with a weird caveat that only one
+builder can touch the ``doctree`` directory at once. (So you either
+need to put each builder on its own doctree directory, or let one
+build complete and then build the reset in parallel.)
+
+For small documentation sets, under a few dozen pages/kb, this isn't a
+huge problem, for larger documentation sets this can be quite
+frustrating. [2]_
+
+This limitation means that while it's possible to write extensions to
+Sphinx to do additional processing of the build, in most cases, it makes
+more sense to build custom content and extensions that modify or
+generate reStructuredText *or* that munge the output in some way. The
+``include`` directive in reStructuredText and milking the hell out of
+``make`` are good places to started.
+
+-  Be careful when instantiating objects in Sphinx's ``conf.py`` file:
+since Sphinx stores the pickle (serialization) of ``conf.py`` and
+compares that stored pickle with the current file to ensure that
+configuration hasn't changed (changed configuration files necessitate
+a full rebuild of the project.) Creating objects in this file will
+trigger full (and often unneeded) rebuilds.
+
+-  Delightfully, Sphinx produces ``.po`` file that you can use to power
+translated output, using the ``gettext`` sphinx builder. Specify a
+different doctree directory for this output to prevent some issues
+with overlapping builds. This is really cool.
+
+Sphinx is great. Even though I'm always looking at different
+documentation systems and practices I can't find anything that's better.
+My hope is that the more I/we talk about these issues and the closer
+I/we'll get to solutions, and the better the solutions will be.
+
+Onward and Upward!
+
+.. [1]
+In Python this isn't a real problem, but reStructuredText describes a
+basically XML-like document, and some structures like headings are
+not easy to embed in rst blocks.
+
+.. [2]
+In reality documentation sets would need to be many hundreds of
+thousands of words for this to *actually* matter in a significant
+way. I've seen documentation take 2-3 minutes for clean a
+regeneration using Sphinx on very powerful hardware (SSDs,
+contemporary server-grade processors, etc.), and while this shouldn't
+be a deal breaker for anyone, documentation that's slow to regenerate
+is harder to maintain and keep up to date (e.g. difficult to test the
+effect of changes on output, non-trivial to update the documents
+regularly with small fixes.)
+

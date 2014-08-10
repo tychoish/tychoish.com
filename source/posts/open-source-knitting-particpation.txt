@@ -1,0 +1,90 @@
+==================================
+Open Source Knitting: Particpation
+==================================
+
+.. post:: 2007-09-13
+   :author: tychoish
+
+The "wiki" is defined by the ease of editing: the software makes it very
+easy for people (with editing privileges) to make changes to pages
+through some sort of web interface. They also create very useable
+content management systems that keep all "files" in order--usually
+stored in some sort of database--and allow for some sort of more "human
+readable" markup, like `Textile <http://textism.com/tools/textile/>`__,
+or my favorite
+`markdown <http://daringfireball.net/projects/markdown/>`__. This
+doesn't sound very different from, say the
+`WordPress <http://www.wordpress.org/>`__ site that powers this site,
+and indeed some really great wiki programs can output blog formats. What
+has made wikis so popular, and noteworthy is that often "those with
+editor privileges" is everyone who reads the site, rather than a group
+of editors; although the technology would allow for this model as well.
+While I think it's too simplistic to just say "it's a wiki: everyone can
+edit it," to a large extent thats true.
+
+The fact of the matter is, though, that not everyone *does* participate
+in these projects. Lets take `Wikipedia <http://wikipedia.org/>`__ for a
+moment: while lots of people have accounts with wikipedia, and may make
+an edit every now and then (I'll include myself in this category; I
+usually just fix quibble-y things if I come across them, which I don't
+often, but I mainly just comment on the "talk pages"), but wikipedia has
+a core editor-base of only a couple of (several) thousand. Which in
+comparison to the millions that use wikipedia is really a fairly small
+proportion. The same with projects like
+`Firefox <http://www.mozilla.com/firefox/>`__ or even
+`GNU <http://www.gnu.org/>`__ and `Linux <http://www.linux.org/>`__, I'd
+assume. In fact if we consider wikipedia an open-source project (and we
+should,) in terms of adoption and contribution rates, I'm sure that it's
+probably among the most successful.
+
+What's more, I think it's important to note that just because
+open-source projects are, well, open to everyone and lots of people use
+them, many fewer people contribute to the projects, and projects have a
+fairly centralized and hierarchical organizational structures, which was
+surprising (and heartening) when I first figured it out. Now before any
+hippy types [1]_ get their undies in a twist about how such structures
+impinge upon freedom "freedom," this is where the
+`Share-Alike <http://en.wikipedia.org/wiki/Share-alike>`__ and
+propagating qualities of the "free" licenses come in handy. If the
+"central" project falls behind a group of users expectations or a group
+of users want to develop the project in a different direction, they can
+take a "fork" of the program/project in that direction. Also, I think
+it's worth noting that a lot of open source software projects are
+developed to a large extent by large software companies that may or may
+not produce proprietary project as well. But I digress, I think that the
+hierarchical and structured quality of an open source
+(software/knitting) development community is a good thing: these are the
+kind of conditions that allow work to get done on a project:
+unstructured projects aren't easily productive.
+
+So what does this mean for a knitting project? I think that it means
+that, community needs to come before infrastructure. It means that while
+the barriers to entry need to be low, there needs to be framework for
+different kinds of contributions and tasks carved out so that when
+people come to the project they can tackle any kind small granular task
+rather than an impossible whole. Also it means that there needs to be a
+core group of people in regular contact with each-other who are
+responsible for maintaining some of the logistics/framework, and setting
+agendas that the larger community can address. You cannot, by contrast,
+just say "ok, have at" and assume that the community will know what to
+do, and be able to organize around a loose framework. And this really
+goes for any kind of project, software, knitting, or fiction. It's a
+problem that I'm forever working on, as I'm sure longtime readers of the
+site will recognize.
+
+If it isn't clear by now, I'd like to start some sort of OSK (open
+source knitting) project, and I'm starting to work out a few of the
+details, but if I think we're a ways off of this. If you would like to
+participate in this, I'd love to hear from you (email:
+tycho@tealart.com), and although it might be putting the horse before
+the cart, but I think next time I'm going to start drafting out some
+plans and structure (mostly in terms of the content), so that I at least
+can conceptualize how this would go.
+
+I look forward to hearing from you, and as always, I remain, tycho
+
+.. [1]
+I kid, of course, however just to continue the pun, I'll point out
+that the examples given to define the various types of "free" are
+beer/speech, not beer/speech/love.
+

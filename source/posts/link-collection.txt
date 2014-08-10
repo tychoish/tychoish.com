@@ -1,0 +1,95 @@
+===============
+link collection
+===============
+
+.. post:: 2009-05-20
+   :author: tychoish
+   :tags: links
+
+I seem to have collected a rather lot of links that I think and hope
+you'll find as interesting as I have. (Some of these are old, but still
+relevant):
+
+In the vein of my economic/political posts of late, I came across the
+`blog of Alexandre Enkerli <http://enkerli.wordpress.com/>`__, a nifty
+anthropologist and ethnographer that I found via
+`identi.ca <http://identi.ca/enkerli>`__. Who says microblogging doesn't
+have value? In anycase I have a couple of links, first `a complaint
+against journalism, as a
+field <http://enkerli.wordpress.com/2008/11/25/my-problem-with-journalism/>`__,
+to which I'm incredibly sympathetic. I should probably write some more
+about journalism, both with regards to its social impact, but also about
+ongoing collapse of the journalism business. More importantly, however,
+Enkerli wrote `an interesting piece about "a global network of city
+states" <http://enkerli.wordpress.com/2009/04/14/a-glocal-network-of-city-states/>`__
+about government and institutional organization, which I rather liked.
+I've been thinking recently about institutions and governance as a part
+of the series on co-ops, and I think I'm going to make a foray into
+something more governmental here, soon.
+
+Moving on from the economy, a couple of posts from
+`futurismic <http://www.futurismic.com>`__ which is one of my favorite
+blogs that I don't read enough. It's in the boing-boing vein, but `Paul
+Raven <http://www.velcro-city.co.uk/about>`__ is made of awesome, and I
+enjoy the niche. In anycase, this is a bit older, and it's `a post
+announcing another
+post <http://futurismic.com/2009/03/18/rushkoff-on-the-economy-let-it-die/>`__
+where `Douglas Rushkoff <http://rushkoff.com/>`__ suggests that the
+economy `isn't worth
+saving <http://www.arthurmag.com/2009/03/16/let-it-die-rushkoff-on-the-economy/>`__.
+And then another from a few days later `about the fantastic nature of
+the us
+economy <http://futurismic.com/2009/03/26/the-us-economy-is-a-myth/>`__.
+
+I'm not sure how I feel about Rushkoff's theories, and I certainly don't
+think he's the theoretical oracle of the networked age, but his thinking
+inspires pretty interesting thoughts, even if it's semi-orthogonal. Can
+things be semi-orthogonal?
+
+Finally new territory. I've been reading
+`ultrasparky <http://www.ultrasparky.org/>`__ since, gosh, 2000 or there
+abouts, I think. `Dan (sparky) wrote a post where he contemplated the
+recent history of
+blogging <http://www.ultrasparky.org/archives/2009/05/crap_rotation.html>`__
+and in doing so expressed pretty much exactly how I feel about the
+current state of blogging. Read it, it's good stuff.
+
+And, oh look here, `it's a yet another Drupal-based, niche social
+networking site targeted at 20 and 30 something
+technologist-types <http://www.brazencareerist.com/>`__. You're probably
+uninterested, but it's my niche, damnit. Also speaking of my niche,
+there's a `new social networking site for gay/queer geeks/nerds, calld
+doorq.com <http://www.doorq.com/>`__. For those of you who care, I
+suspect it's running on DotNetNuke.
+
+And now for some miscellanea: `mongodb, a database engine that doesn't
+have schemeas. like couchdb, only, less
+erlang <http://www.mongodb.org/display/DOCS/Home>`__. It all depends on
+how it gets used, of course, but I think Erlang is a good thing for
+couch, but who knows. Also: `a bibliography of academic resources
+related to teaching and learning in second
+life <http://web.ics.purdue.edu/~mpepper/slbib>`__. And an academic
+journal about `information technology, policy, and culture (with an
+Australian focus), called fibre culture <http://fibreculture.org/>`__. I
+was particularly interested in `this article about Schizoanalysis as
+Metamodeling <http://journal.fibreculture.org/issue12/issue12_watson.html>`__,
+because I still have a lot of affection for Deleuze and Guatteri and
+their theories.
+
+Finally an article, by O'Reily Editor Andy Oram, called `From Open
+Source Software to Open Culture: Three
+Misunderstandings <http://www.praxagora.com/andyo/article/open_source_open_culture.html>`__.
+And then a debate about the `emacswiki <http://www.emacswiki.org>`__.
+For background, EmacsWiki is really a working document and a discussion
+of different approaches--\ `emacs <http://gnu.org/software/emacs>`__
+already has a `good
+manual <http://www.gnu.org/software/emacs/manual/emacs.html>`__, so the
+wiki fills a different niche. The wiki, as a result is very rough,
+coverage isn't consistent across areas, some pages are basically
+discussions while others are more formal documentation, and the software
+is simple while the design is straight from the late 90s. I think it's
+brilliant, but `not everyone
+agrees <http://xahlee.org/emacs/emacs_wiki_problem.html>`__.
+
+That's all I have right now. Enjoy!
+

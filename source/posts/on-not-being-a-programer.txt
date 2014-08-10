@@ -1,0 +1,62 @@
+========================
+On Not Being a Programer
+========================
+
+.. post:: 2008-12-26
+   :author: tychoish
+
+This post is very much in my vein of "tycho talks about what its like to
+be a geek that doesn't really programmer," posts. Because I don't really
+fancy myself much of a programmer, I often have a hard time explaining
+the kinds of things that I do out side of saying "I write fiction," or
+"I work with web developers," or "I help people with websites," or "I
+write blogs about technology," which while factual in the strictest
+sense, is not a particularly honest capture of "what I do." Or what I
+think of as my secret superpower.
+
+"Secret superpower?" you ask? Well, we all have something that we
+kickass at, some skill set that makes us valuable at our jobs. It's not
+a fixed thing, of course, it can change as we learn and grow, not to
+mention as our responsibilities change. But it's there.
+
+At various points, I've counted "leading kickass meetings," and
+"knitting kickass sweaters," and "doing kickass research," as my
+superpower, but these days I think it's probably "translating geek talk
+into more general purpose information. So I write blog posts about
+technology, and I edit notes that other people write, and I write
+documentations and training documents. Right? Pretty useful superpower?
+I think so, and it seems like other people think so as well.
+
+And more than just success doing the kind of work that I find myself
+doing right now, my
+`ongoing <http://tychoish.com/rhizome/keeping-time/>`__ academic
+projects tap into a similar superpower. I'm trying, on some level, to
+figure out what--if anything--is so unique about open source development
+practices, and how do these practices effect the way that the rest of us
+interact with technology. Or something that stems from that.
+
+In the strictest sense possible, I don't *need* to be able to be a
+programmer to kickass writer/editor/academic/consultant but given the
+frequency with which I find myself in a circle with a bunch of other
+programmers I often have the sense that *I don't belong.*
+
+Maybe this is just impostor syndrome-type stuff and I'll get over it as
+I get my barring. But here's the counter example:
+
+There are times when I *really* feel like a programmer. I have this
+incredibly geeky, (and as near as I can tell, reasonably original,) way
+of downloading my email, that is amazingly useful and powerful. Built
+on-top of existing tools, I totally hacked it together myself with like
+13-26 lines of shell script.
+
+And, while I don't do it very much, I do end up building some small
+number of Wordpress websites every year, and by now I've realized that
+from that I know enough PHP and Wordpress-isms to not be a complete
+idiot.
+
+And maybe the taste of knowing what it's like to program, to write code
+that works, is why *not* being a programmer (superpower or not) is
+something that I'm sensitive about. Who knows?
+
+Onward and Upward!
+

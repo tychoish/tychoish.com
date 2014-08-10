@@ -1,0 +1,66 @@
+===================
+Digital Collections
+===================
+
+.. post:: 2009-01-09
+   :author: tychoish
+
+I have a lot of digital *stuff* certainly more than any of my computers
+have storage space for at this point, though to be fair we're talking
+about 500 gigabytes of various collections (music, video, backups,
+documents). Particularly given the price disks by the present moment in
+time, we're not talking about anything too absurd. During my recent
+computer juggling interlude, I realized that hard drive space wasn't
+nearly the issue I used to think it was, and I suspect my situation
+isn't terribly unique for lots of geeks, and space crunches are not
+often a technological problem, but rather a user problem.
+
+During numerous conversations with other geeks, it's become clear that
+while we all have massive collections of files that take up lots of
+space (on the order of hundreds of gigabytes) most of use only a
+percentage of that space for about 98% of our computing. Everyone seems
+to have *ahem* come into large collections of files: copies of *ahem*
+our DVD collections, recordings of television shows, music collections
+and the like. All these things take up a lot of space. The files that we
+use day in and day out? Much less. Even if you count my email, the full
+backup of my blog, my personal wiki, and everything else, we're talking
+under half of a gigabyte, give or take.
+
+So what gives?
+
+There are a couple of mediating factors that bear consideration:
+
+First the emergence of the "netbook" Recognizes this fact. Netbooks have
+hard drives which float between 4 and 16 gigabytes. It's not a lot of
+space, but it's enough that as long as you're just working with emal,
+and a selection of documents that it's enough to keep you busy for a few
+days, if not months (I mean really now folks). We're also at a point
+where storage is getting more available and cheaper faster than our
+collections can grow.
+
+The second factor that leads to this is the fact that "content" (videos
+and music) don't have particularly reliable distribution channels. If a
+TV show uh, appears on your hard drive, the chance of it appearing again
+is often tedious, and pretty slim. So our inclination is to save it.
+This ties into all sorts of really multifaceted issues about data
+ownership, copyright, and digital distribution, but it's also partially
+a user issue.
+
+--------------
+
+A few months ago, I was convinced that given fears about backups, backup
+reliability, and verification, and the dropping price of storage online,
+either through `Amazon S3 <http://aws.amazon.com/s3/>`__, or hell even
+something like Dreamhost (not in a web accessible folder) would probably
+have been as effective as having disks yourself. I'm not sure this is
+still the case, particularly with how cheep disks are (which makes
+redundancy easier). Also I think there's a point between one and two
+terabytes where even the worst digital pack-rats recognize that such
+archives are reasonably pointless.
+
+I guess in light of this, I guess the lingering questions are: do you
+have a big digital collection? How big? And do you have any particular
+strategy for dealing with these files?
+
+Onward and Upward!
+

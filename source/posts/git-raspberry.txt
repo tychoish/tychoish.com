@@ -1,0 +1,36 @@
+=============
+git raspberry
+=============
+
+.. post:: 2013-02-24
+   :author: tychoish
+
+This is an awful pun, but I've recently written the following script to
+help with some of the work of back-porting patch sets to maintenance
+branches. Basically you pass it a bunch of commit identifiers and it
+cherry picks them all in order.
+
+::
+
+#!/usr/bin/python
+
+import os
+import sys
+import subprocess
+
+for commit in sys.argv[1:]:
+with open(os.devnull, "w") as fnull:
+subprocess.call( ['git', 'cherry-pick', commit ], stdout=fnull, stderr=fnull )
+
+What I'd been doing, previously is assembling commit hashes in an emacs
+buffer, and then copy-pasting ``git cherry-pick`` before each line and
+then pasting those lines into the shell and hoping nothing goes wrong.
+The script isn't much better but it's a start.
+
+To use, save in a file named ``git-raspberry`` in your ``$PATH``,
+``chmod +x`` the file, and then just run "``git raspberry``\ ". Turns
+out ``git`` runs any program in the path that starts with ``git-`` as a
+sub command.
+
+The more you know.
+

@@ -1,0 +1,14 @@
+=======================================================
+5 things you can do in emacs that you really shouldn't.
+=======================================================
+
+.. post:: 2007-11-19
+   :author: tychoish
+
+1. Podcast.
+2. Encrypt your Roommates hard drive.
+3. Read the Newspaper.
+4. Update your Facebook Profile.
+5. Play World of Warcraft.
+
+

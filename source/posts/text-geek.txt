@@ -1,0 +1,21 @@
+=========
+text geek
+=========
+
+.. post:: 2007-08-17
+   :author: tychoish
+
+Ok, it's clear to everyone, I'm sure that I'm a huge text geek, but also
+being a social scientist, I suppose I have to ask a question...
+
+Now I'm not perfectly up on the "vi vs. emacs" history, but...
+
+in the "bbedit vs. text-mate" debate, am I correct in assuming that
+bbedit is emacs and text-mate is vi?
+
+I mean I know that TextMate (mac programs in general) more or less uses
+emacs key bindings, and there's nothing mode-wise that's quite like
+vi(m), but despite that....
+
+anyone want to fight me on this ;)
+

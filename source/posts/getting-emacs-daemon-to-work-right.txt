@@ -1,0 +1,48 @@
+==================================
+getting emacs daemon to work right
+==================================
+
+.. post:: 2009-03-27
+   :author: tychoish
+   :tags: emacs, open-source, technology
+
+In the latest/forthcoming version of `GNU
+Emacs <http://www.gnu.org/software/emacs/>`__ there exists a daemon
+mode. The intent is to make it easier to run in one instance of emacs,
+and rather than starting new instances, you can run everything in one
+instance. Less overhead on your system, and everyone's happy. Without
+daemon mode, you can still run in server mode and get *nearly* the same
+effect, but you end up with one emacs frame that's the "host," which
+means, if you're dumb and close it (or it's running inside of another
+process which crashes...) all of the frames close.
+
+I suppose, as an interjection, that my attempt to explain why this is
+cool to a generalized audience is somewhat of a lost cause.
+
+In any case, there's a problem daemon mode doesn't behave like anyone
+would want it to. `This
+post <http://www.nabble.com/--daemon-vs.-server-start-td21594587.html>`__
+explains it better than anything else I've read thus far, but it's not
+all that clear. Basically when you start ``emacs --daemon`` it doesn't
+load your ``.emacs`` init file correctly, and so things like display
+settings are off kilter, and can't really be fixed. I resorted to
+running my "host" emacs frame inside of a terminal/screen session,
+because that worked and was basically the same from my perspective.
+
+Nevertheless I've discovered "the fix" to the emacs daemon it to work
+like you'd expect. Run the following command at the command line
+(changing username and font/fontsize):
+
+``emacs -u [USERNAME] --daemon --eval "(setq default-frame-alist \ '((font-backend . \"xft\") (font . \"[FONT]-[SIZE]\")))" -l ~/.emacs``
+
+And then, open an emacsclient.
+
+... *and there was much rejoicing* ...
+
+There are a couple of things that I *can't* get to work reliably. Most
+notably, though the emacsclient works in terminal instances, it has some
+sort of problem with attaching new clients to X after an X
+crash/restart. No clue what this is about. Not quite sure what the deal
+is with this, but needing to reboot every time X goes down is a bummer.
+Other than that? Emacs bliss. For the moment.
+

@@ -1,0 +1,67 @@
+===============================
+Open Source and Women's Studies
+===============================
+
+.. post:: 2008-09-05
+   :author: tychoish
+
+One of the best things that happened to me during college was that I
+discovered and got involved in the Women's and Gender Studies program at
+my school. Though I went to college very interested in gender and
+sexuality *stuff* I'm not sure that I ever really intended to come out
+of the experience with a second major in Women's Studies, but I did, and
+I think it was a really great thing.
+
+Making sense of that experience, since graduation has been more
+difficult, as I'm probably not directly going to go work "in the field"
+(if there is even a thing there,) and I find my academic interests [1]_
+taking me elsewhere.
+
+The thing that the bright eyed 18-year old tycho found so intriguing
+about women's studies is that on the first (or second) day of the first
+class, the professor handed us a packet of readings photo-copied from
+her books. And the readings weren't just "clever parsing of the
+literature in a forum even undergraduates could handle," but the key (or
+parts of the key) documents themselves. From the beginning I felt like a
+participant in a larger discussion, which is something that I didn't get
+from my other classes.
+
+While in the end I learned that participating in these discourses is
+something that you sort of have to fight your way into, I also came to
+the conclusion that I didn't much want to be involved in a field that
+didn't value thought and participation of its students. And so I dove
+into Women's Studies and I don't regret it for an instant.
+
+--------------
+
+While I `don't tend to buy into the
+software-is-freedom <http://tychoish.com/rhizome/open-source-freedom/>`__
+argument, [2]_ I think there is something very *freeing* about open
+source in the same way that I found Women's Studies so academically
+freeing. The invitation to participate in the software development
+progress that open source represents is really powerful and even if
+you're not a programer in the traditional sense, the invitation to
+participate in a serious discussion about the shape of the tools that we
+use is pretty powerful.
+
+At least I think so.
+
+.. [1]
+One of the conclusions that a historian friend and I came to is that
+Women's Studies is prone--particularly in the higher levels--to
+becoming a method and a perspective rather than a particular or
+unitary subject. This translates rather poorly once it gets out of
+your head, but is useful in maintaining a measure of intrapersnal
+coherence.
+
+.. [2]
+The idea that open-source software is good and we need it because it
+is our freedom from corporations and government strikes me as missing
+the larger picture. Open source is good (and we need it) because it
+results in higher quality software and because it's more useful.
+Having said that, I think that revolutionaries are pretty likely to
+use Linux or BSD because it is accessible and legal, not because
+there's something intrinsically freeing about having accessible
+source code. As a slogan I think there's something to the notion that
+"you can't code your way to freedom."
+

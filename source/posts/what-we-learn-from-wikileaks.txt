@@ -1,0 +1,110 @@
+============================
+What We Learn from Wikileaks
+============================
+
+.. post:: 2011-02-08
+   :author: tychoish
+   :tags: new-media
+
+Wikileaks, and the drama that has surrounded it for the past few months,
+brings forth images of the Internet as a very lawless and juvenile
+place, exactly the kind of thing that the cyberpunks of the 1980s were
+predicting. This isn't always far from the truth, but the story of spies
+and international espionage, and digital attacks and counter attacks may
+distract us from thinking about other issues. Obviously Wikileaks causes
+us think about censorship, but issue of publishing, journalism, audience
+and community participation, transparency, and globalism in the digital
+context are also at play. Lets take the highlights:
+
+Censorship
+----------
+
+In the print world, I tend to think of post-facto censorship is
+incredibly difficult. Once print copies of something exist they're
+*there* and it's hard to get every copy and you can't get people to
+"unread" what they've already seen. In the digital world, it's really
+difficult to get content taken down, and once there are copies in
+people's hands, the cost of making additional copies is low enough that
+censorship stops working. Right?
+
+I suppose the appearance of multiple mirrors and copies of Wikileaks
+post-takedown proves this, but it also proves that there are aspects of
+the world wide web that are not decentralized and it's possible to pull
+a domain and site off the Internet at a single point. That's a very
+scary proposition. While information survives, I think many people
+thought that "you couldn't effectively censor the Internet," and
+Wikileaks says "yes you can, and here's how."
+(`cite <ttp://www.teknerve.com/2010/12/getting-uncomfortable-with-the-us-reaction-to-wikileaks/>`__)
+
+In response I think people have started to think about the shape and
+structure of the network itself. The Internet is designed to be
+resilient to this kind of thing, and this is a very startling example
+that it's not.
+
+Publishing, Journalism and Wikis
+--------------------------------
+
+I suppose the thing that I get most offended by "Wikileaks" for is the
+appropriation of the term "Wiki," because in the current (or last) form,
+Wikileaks wasn't a wiki. Content was not edited or supervised by a
+community, the Wiki process didn't allow the site to provide consumers
+with a more diverse set of opinions, it didn't increase transparency. In
+this respect, Wikileaks mostly resembles a traditional "old media,"
+publication.
+
+Once wikileaks stops being this radical new journalistic departure, and
+this community-driven site, what remains may be pretty difficult to
+reconcile. Is it useful for journalists to publish raw source material
+without analysis? What audience and purpose does that serve? The
+censorship of Wikileaks is problematic and requires some reflection, but
+there are problems with wikileaks itself that *also* require some
+serious thinking.
+
+And just because it's a sore point, particularly since Wikileaks is/was
+a traditional publication and is not a platform for independent speech,
+we have to think about this as "freedom of the press" issue rather than
+a "freedom of speech" issue.
+
+Community Involvement
+---------------------
+
+The involvement of a community in Wikileaks, is over-shadowed by the
+groundswell of "community" activity by Anonymous and other groups. Look
+to `Gabriella Coleman <http://gabriellacoleman.org/blog/>`__
+(`twitter <http://www.twitter.com/#!/BiellaColeman>`__) for more
+thorough analysis. I don't have any answers or conclusions but: the role
+and effectiveness of (distributed) denial of service attacks in this
+instance is really quite important.
+
+Usually DoSes are quick, messy and easily dealt with affairs: DoS
+someone, get noticed, target and attacking addresses get taken off the
+air and people loose interest and things return to normal. This back and
+forth, seems a bit unique (but not unheard of) the fact that the
+4chan/Anon gang picked Wikileaks jives with their ethos, but it is
+impressive that they were able to get organized to support Wikileaks. I
+find myself curious and more surprised that *someone* was able to, at
+least for a while, throw something in the neighborhood of 10 gigabits
+(an unverified number, that originates with Wikileaks itself, so
+potentially inflated) at the original Wikileaks site. That's huge, and I
+think largely unexplored.
+
+Transparent Operations
+----------------------
+
+In July, `Quinn Norton wrote about transparency and
+wikileaks <http://www.quinnnorton.com/said/?p=393>`__, basically, that
+exposing information doesn't solve the problem that governments don't
+operate in a transparent manner, and that access to documents and
+transparency are the result of a more open way of doing
+business/government. Particularly in light of this, the fact that
+wikileaks focuses on data dumps rather than more curated collections of
+information or actual analysis, is all the more problematic.
+
+Similarly, "wiki" as practiced in the original model (as opposed to
+wikileaks,) is about editing and document creation in an open and
+transparent manner. Thus the issue with wikileaks is not that they
+have/had a professional staff, but that they didn't disclose their
+process.
+
+Onward and Upward!
+

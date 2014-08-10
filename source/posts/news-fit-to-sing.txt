@@ -1,0 +1,43 @@
+=================
+News, Fit to Sing
+=================
+
+.. post:: 2011-03-14
+   :author: tychoish
+   :tags: meta
+
+It's sometimes easy to forget all of the little things that I do during
+the week, and how they add up to something of note. In the moment--any
+moment--most things seem much smaller and much less important than they
+do with a little bit of perspective and when viewed out of context with
+coordinating achievements. So here's the highlights from last week:
+
+I gave up on the "having two sites to maintain thing," and have merged
+[[Critical Futures\|essay]] back into the tychoish.com blog/wiki. I
+really like this, and it gave me some time to get elbows deep into the
+wiki system, which means things work better, the display is a bit
+cleaner, my life is easier, and I'm very happy with it. Also, as part of
+this process I've been revising the [[index]] page, and I think it is in
+a state that I'm really pleased with.
+
+Some dancing friends on Facebook said "wouldn't it be nice if there was
+a wiki for contra dancers." Now there is. "`Contra Dance
+Wiki <http://contra.balanceandsing.com>`__\ " is there for you all if
+you want it. I've done some preparatory work on the index page, and I'll
+continue to add things as I can.
+
+The work I've been doing in the last few weeks with
+`ikiwiki <http://ikiwiki.info>`__, both for tychoish and now for the CDW
+means that I'm *really* close to being able to share all of the assorted
+templates and configuration files I use to make this work. It's all in
+the git repository for *tychoish*, but I'm going to pull together a more
+generic version so people can get started easier. It might also make
+sense to write a deployment script of sorts. We'll see.
+
+I meant to post this on Friday, but posted my review of [[maple
+morris\|rhizome/maple-morris-review]], because I didn't want that to
+linger. In any case, I had a brilliant weekend singing (and dancing) in
+Western Massachusetts. It has however left me a bit under the weather,
+so I'm spending a day recovering and doing some writing. Good stuff
+there. I'll write about WMSHC soon.
+

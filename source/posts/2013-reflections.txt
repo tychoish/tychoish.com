@@ -1,0 +1,82 @@
+================
+2013 Reflections
+================
+
+.. post:: 2014-01-01
+   :author: tychoish
+
+I have a hard time passing up a significant calendar event as an
+opportunity to reflect and synthesize past experiences. Having said
+that, while I had a pretty good year, it was not a year of *big*
+changes. There were a lot of pretty interesting and fun smaller changes
+and developments in my world and my projects in the last year. In no
+particular order:
+
+- This was the year that I went from being "someone who tinkers on
+  code" to being someone who can write code when the situation calls
+  for it. This felt like an revolutionary change as it happened, but I
+  recognize now that it has been a long time coming and in retrospect
+
+- This was the year where I finally slayed my copy quality woes. I've
+  long struggled with producing clean copy (English text) in a
+  reasonable amount of time (without spelling/grammar errors.) A couple
+  years ago, I got to a point where I could write clean copy but it
+  felt like I had to spend hours being neurotic. Now, I've trained
+  myself to catch things in much more quickly. I'm not perfect, but
+  it's no longer something that I feel like I struggle with constantly.
+
+- I reevaluated my relationship with my hobbies and avocational
+  pursuits. I decided to spend more time learning about technology and
+  computer science, I decided to spend less time writing science
+  fiction and less time knitting. I decided to prioritize my
+  social/folk times to go to more singings both in town and out of
+  town, and focus my dancing around spending time with my friends
+  rather than dancing for the sake of dancing.
+
+- This was the year that I decided to stay in New York City. I've been
+  here for almost three years now, and I like living here. While I can
+  envision living somewhere else in the right situation, I think I've
+  decided to stay for the long haul. This has meant doing things like
+  furniture shopping (though not buying,) and saving for the eventual
+  purchase of an apartment.
+
+- I worked too much. But I think I accomplished
+  `cool <HTTP://docs.mongodb.org/manual>`__
+  `things <http://github.com/mongodb/docs-tools/>`__. In most ways, I
+  think we're doing some really innovative things with documentation
+  and documentation processes (and writing strong documentation for a
+  cool product.) There have been struggles, as always, but it's been
+  good. And a lot of work. I don't think that I would go back and
+  change anything, but I do look forward to trying to establish a
+  little more sanity here.
+
+  There are other things, of course, but that covers it. It seems hard to
+  avoid making resolutions, or at least articulating goals at his
+  juncture:
+
+- Keep doing the cool things that I'm doing: learning, coding, doing
+  cool things at work.
+
+- Develop a reading practice. I love reading things, but I'm not very
+  good at reading regularly and keeping up with my reading habit. I'd
+  like to read novels as well as stay generally on top of Asimov's (and
+  potentially the New York Review of Science Fiction.)
+
+- Develop a more extensive knitting practice. Full post on the subject
+  forth coming, but I want to knit because I enjoy the activity of
+  knitting and the cadence of making things like socks.
+  
+  I want to stop feeling like my knitting needs to have an increasing
+  complexity to make it interesting, or that every thing I knit needs to
+  be unique in some specific way.
+
+- Become proficient in a programming language that isn't Python.
+
+- Start or restart a non-day-job related writing project, and implement
+  a project plan that centers on regular ongoing progress rather than
+  binges.
+
+Coming Soon: Thoughts on implementing goals.
+
+Happy New Year!
+

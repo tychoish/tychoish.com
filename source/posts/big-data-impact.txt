@@ -1,0 +1,110 @@
+===============
+Big Data Impact
+===============
+
+.. post:: 2011-07-05
+   :author: tychoish
+   :tags: cyborg, academia
+
+I've been milling over this post about `big data in the IT
+world <http://redmonk.com/sogrady/2010/08/03/hard-to-ask-the-right-question/>`__
+for quite a while. It basically says that given large (and growing) data
+sets, companies that didn't previously need data researchers suddenly
+need people to help them use "big data." Everyone company is a data
+company. In effect we have an ironic counter example to the effect of
+automation on the need for labor.
+
+These would be "data managers" have their work cut out for them. Data
+has value, sure, but unlike software which has value as long as someone
+knows how to use it, [1]_ poorly utilized data is just as good as no
+data. Data researchers need to be able to talk to developers and help
+figure out what data is worth collecting and what data isn't.
+Organizations need someone to determine what data has real value, if
+only to solve a storage-related problem. Perhaps more importantly data
+managers would need to guide data usage both technically (in terms of
+algorithms, and software design) and in terms of being able to
+understand the abilities and shortfalls of data sets.
+
+There's a long history of IT specialist positions: database developers,
+systems administrators, quality assurance engineers, release
+engineering, and software testing. Typically we divide this between
+developers and operations folks, but even the development/operations
+division is something of a misnomer. There are merits to generalism and
+specialization, but as projects grow, specialization makes sense and
+data may just be another specialty in a long tradition of software
+development and IT organization.
+
+Speicailization also makes a lot of sense in the context of data, where
+having a lot of unusable data adds no value and can potentially subtract
+value from an organization.
+
+A Step Back
+-----------
+
+There are two very fundamental points that I've left undefined: what
+"data" am I talking about and what kinds of skills differentiate "data
+specialists" from other kinds of technicians.
+
+What are big data?
+~~~~~~~~~~~~~~~~~~
+
+Big data sets are, to my mind, large collections of data, GIS/map based
+information, "crowd sourced" information, and data that is automatically
+collected through the course of normal internet activity. Big data is
+enabled by increasingly powerful databases and the ubiquity of the
+computing power, which lets developers process data on large scales. For
+examples: the aggregate data from foursquare and other similar services,
+comprehensive records of user activity within websites and applications,
+service monitoring data and records, audit trails of activity on shared
+file systems, transaction data from credit cards and customers, tracking
+data from marketing campaigns.
+
+With so much activity online, it's easier for software developers and
+users (which is basically everyone, directly or otherwise) to create and
+collect a really large collection of data regarding otherwise trivial
+events. Mobile devices and linkable accounts (OpenID, and other single
+sign-on systems) simplify this process. The thought and hope is all this
+data equals value and in many circumstances it does. Sometimes, it
+probably just makes things more complicated.
+
+Data Specialists
+~~~~~~~~~~~~~~~~
+
+Obviously every programmer is a kind of "data specialist" and the last
+seven or eight years of the Internet has done *everything* to make every
+programmer a data specialist. What the Internet *hasn't* done is give
+programers a sense of basic human factors knowledge, or a background in
+fundamental quantitative psychology and sociology. Software development
+groups need people who know what *kinds* of questions data can and
+cannot answer regardless of what kind or how much data is present.
+
+Data managers, thus would be one of those posistions that sits
+between/with technical staff and business staff, and perhaps I'm partial
+to work in this kind of space, because this is very much my Chance. But
+there's a lot of work in bridging this divide, and a great deal of value
+to be realized in this space. And it's not like there's a shortage of
+really bright people who know a lot about data and social science who
+would be a great asset to pretty much any development team.
+
+Big Data Beyond Software Development
+------------------------------------
+
+The part of this post that I've been struggling over for a long time is
+the mirror of what I've been talking about thus far. In short, do recent
+advancements in data processing and storage (NoSQL, Map Reduce, etc.)
+that have primarily transpired amonst startups, technology incubators,
+and other "Industry" sources have the potential to help acdemic
+research? Are there examples of academics using data collected from the
+usage habits of websites to draw conclusions about media interaction,
+reading habits, cultural particpation/formation? If nothing else are
+sociologists keeping up with "new/big data" developents? And perhaps
+most importantly, does the prospect of being able to access and process
+large and expansive datasets have any affect on the way social
+scientists work? Hopefully someone who knows more about this than I do
+will [[offer answers\|discourse]]!
+
+.. [1]
+Thankfully there are a number of conventions that make it pretty easy
+for software designers to be able to write programs that people can
+use without needing to write extensive documentation.
+

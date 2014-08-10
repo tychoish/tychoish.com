@@ -1,0 +1,64 @@
+================================
+The Inevitability of Open Source
+================================
+
+.. post:: 2011-03-31
+   :author: tychoish
+   :tags: open-source, free-software, conferences
+
+I recently attended `POSSCON <http://posscon.org>`__ as part of my
+day-job. I don't usually blog directly about this kind of stuff ("You
+like to keep your church and state separate," a fellow attendee said,
+which fits.) But, I had a number of awesome conversations with the
+speakers, attendees and sponsors, that may spawn a series of brief posts
+here. POSSCON is a regional open source convention that drew developers,
+leaders of informational technology departments, and IT consultants of
+various types.
+
+I had a number of conversations that revolved around the adoption of
+open source in opposition to proprietary systems. People asked questions
+like "what do we have to do to get more people to use open source
+software?" and many people apologized for doing work with proprietary
+software for mostly economic reasons (e.g. "I have a .NET development
+job," or "people need windows administration and I can't turn away
+work.")
+
+This led me to have one of three reactions:
+
+1. Working with any specific (proprietary) technology, particularly
+because you have to make ends meet should never require excusing.
+There are cases where "working with proprietary technology," may more
+like "building a business model on proprietary technology," and that
+sort of thing needs to be watched out for, but I don't think it's
+morally ambiguous to make a living.
+
+2. I'm not sure that the success of technology, particularly open
+source, is determined solely on the basis of adoption rates.
+Successful technology is technology that efficiently allows
+people/cyborgs to do work, not overwhelmingly ubiquitous technology.
+
+3. In many many contexts, open source technology *has* triumphed over
+proprietary alternatives: Linux-based systems are the dominant
+UNIX-like operating system. OpenSSH is the dominant SSH
+implementation (and remote terminal protocol/implementation).
+Darwin/FreeBSD is incredibly successful (as Mac OS X.) Other domains
+where open source packages have very high (dominating) adoption
+rates: OpenSSL, gcc, perl/python/php/ruby (web development),
+Apache/Lighttpd/nginx (web servers) etc.
+
+While I think the end-user desktop isn't *unimportant*, I think there
+may be merit in playing to the strengths of open source (servers,
+infrastructure, developers.) Additionally, it seems more productive to
+have the discussion about "how do we advance open source," couched in
+terms of a battle for technological dominance in which open source has
+already won.
+
+And Free Software/Open Source *has* won. While there remain sectors and
+domains where non-free software remains prevalent and business models
+that don't value user's freedom, I think that most people who know
+anything about technology will say that all paths forward lead toward a
+greater level of software freedom.
+
+Maybe this is a symptom of the situation in which I work and maybe I'm
+being too optimistic, but I don't think so. [[Thoughts\|discourse]]
+

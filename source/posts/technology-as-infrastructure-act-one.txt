@@ -1,0 +1,96 @@
+=====================================
+technology as infrastructure, act one
+=====================================
+
+.. post:: 2009-07-16
+   :author: tychoish
+   :tags: systems-administration, technology, linux
+
+Act One
+-------
+
+This post is inspired by three converging observations:
+
+1. `Matt <http://identi.ca/madalu>`__ posted a comment to a `previous
+post <http://www.tychoish.com/2009/06/things-i-hate-about-the-internet/>`__:
+that read:
+
+"Cloud" computing. Seriously. Do we really want to give up that much
+control over our computing? In the dystopian future celebrated by
+many tech bloggers, computers will be locked down appliances, and we
+will rely on big companies to deliver services to us.
+
+2. A number of `podcasts <http://redmonk.libsyn.com/>`__ that I listened
+to while I drove to New Jersey produced/hosted/etc. by `Michael
+Cote <http://www.peopleoverprocess.com/>`__ for
+`RedMonk <http://www.redmonk.com>`__ that discussed current events
+and trends in "Enterprise-grade Information Technology," which is a
+world, that I'm only beginning to scratch the surface of.
+
+3. Because my Internet connection at home is somewhat spotty, and
+because it makes sense have an always on (and mobile) connection to
+IRC for work, I've started running my chat clients
+(`mcabber <http://www.mcabber.com/>`__ and
+`irssi <http://www.irssi.org>`__) inside of a `gnu
+screen <http://www.gnu.org/software/screen/>`__ session on my
+`server <http://www.linode.com>`__.
+
+--------------
+
+My specific responses:
+
+1. Matt's right, from a certain perspective. There's a lot of
+buzz-word-heavy, venture capital driven, consumer targeted "cloud
+computing tools" which seem to be all about getting people to use
+web-based "applications," and give up
+`autonomy <http://www.autonomo.us>`__ in exchange for data that *may*
+be more available to us because it's stored on someones network.
+
+Really, however, I think this isn't so much a problem with "networked
+computing," as it is with both existing business models for information
+technology, and an example of the worst kind of cloud computing. And I'm
+using Matt's statement as a bit of a straw man, as a lot of the things
+that I'm including under the general heading of "cloud computing,"
+aren't really what Matt's talking about above.
+
+At the same time I think there is the cloud that Matt refers to: the
+Google/Microsoft/Startup/Ubuntu One/etc. cloud, and then there's all the
+rest of distributed/networked/infrastructural computing which isn't new
+or sexy, but I think is really the same as the rest of the cloud.
+
+2. The "enterprise" world thinks about computers in a much different way
+than I ever do. Sometimes this is frustrating: the tendrils of
+proprietary software are strongest here, and enterprise folks care
+*way too much* about Java. In other aspects it's really fascinating,
+because technology becomes an infrastructural resource, rather than a
+concrete tool which accomplishes a specific task.
+
+Enterprise hardware and software exists to provide large corporate
+institutions the tools to manage large amounts of
+data/projects/data/communications/etc.
+
+This is, I think on some level, the real cloud. This
+"technology-as-infrastructure" thing.
+
+3. In an elaboration of the above, I outsourced a chunk of my computing
+to "the cloud." I could run those applications locally, and I haven't
+given up that possibility, but one needs a network connection to use
+a chat client, so the realm of possibilities where I would want to
+connect to a chat server, but wouldn't be able to connect to my
+server, is next to impossible (particularly because some of the chat
+servers run on *my* hardware.).
+
+--------------
+
+I guess the point I'm driving at is: maybe this "cloud thing" isn't
+about functionality, or websites, or software, or business models, but
+rather about the evolution of our computing needs from providing a set
+of tools and localized resources to providing infrastructure.
+
+And that the shift isn't so much about the technology: in point of fact
+running a terminal application in a screen session over SSH isn't a
+cutting edge technology by any means, but rather about how we use the
+technology to support what it is we do.
+
+Or am I totally off my rocker here?
+

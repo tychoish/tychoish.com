@@ -1,0 +1,105 @@
+=================
+Long Live TealArt
+=================
+
+.. post:: 2007-12-09
+   :author: tychoish
+
+So I posted the following snip-it to TealArt.com the other day:
+
+TealArt is a project that I've been running--with some great
+help--more or less for the last seven years or so. It's been a great
+ride, even if I didn't have a clue what I was doing most of the
+time.
+
+But recently I have felt like I'm getting a clue. Wacky, idea I know.
+TealArt isn't going away though, but it is changing. All of our
+archives, or most of them have been imported into our current sites here
+and here. Links to the archives should still work, for a while, but
+eventually those will break as well.
+
+I'm in the (slow) process of a redesign that will bring out a new
+TealArt, for the future. It won't be a blog, per se, we have those
+elsewhere. But there are projects that I think need a home separate from
+our blogs and TealArt seems like the place for those projects.
+
+These are the projects that I've been talking about in various forums
+for months: station keeping and science fiction, group knit along
+projects, and knitting designs, maybe a podcast some day.
+
+The thing is that to do this, we need a redesign. A totally new back end
+for the site. And I think a clean slate will do us good, so I'm taking
+everything down while I do the rebuilding, and I'll see you back here in
+a few weeks with a whole new site and new updates.
+
+.. raw:: html
+
+<p>
+
+I'll see you around in the mean time, and do be in touch. See you soon!
+
+.. raw:: html
+
+</p>
+
+<p>
+
+tycho garen 8 December 2007
+
+.. raw:: html
+
+</p>
+
+I've been mentioning the great TealArt redesign of 07/08 for a while
+now, and I think it's time to get this underway. But because I'm an
+extrovert and this is my blog I'm going to explain some of my thinking.
+on the subject. It'll be below the fold, so you won't have to read about
+it if you don't want to, and I swear for all the knitters, that I'll
+post about knitting soon.
+
+Ok, so the main things that I want TealArt to do in the near future are:
+be a space to host station keeping, host knit-a-longs, and display/sell
+some of my knitting designs. All of my web-projects before tychoish have
+been about community, and I like that aspect of--at least my thinking
+about them, even if thats now how the reality works out.
+
+While I can't blame all of the failure/faltering that I've experienced
+in the last 7+ years [1]_ to the software we used, it has been a
+problem. Wordpress is great for powering blogs and I think it's probably
+one of the best things around in terms of server-side web-apps, and it
+*is* very flexable, but I feel the more you stretch it to do things
+outside of its usual profile, it gets a bit... kludge-y, and awkward.
+Community stuff and Multi-poster setups are difficult (I actually like
+the 1-10 system we had back in B2, more), and if you want to mash-up
+various kinds of outputs it can get tedious. And that's fine. As I've
+blathered from time to time, having one piece off software that does
+everything isn't always the best thing in the world, even if it feels
+like it sometimes.
+
+So knowing that, and knowing that I want to have community features
+(discussion forums, user profiles, etc.) to support knitting projects
+and SK and maybe even a podcast. I'm thinking about switching to using a
+cms called `drupal <http://drupal.org/>`__ which is a great project and
+there's tons of power here, and the best thing is that it's *designed*
+to do exactly what I want, I think.
+
+The issue is that the learning curve is intense. Intensely intense. And
+I mostly know how to use and tweak wordpress in my sleep. And while I
+don't much like having to tweak code, I'd rather instead to spend time
+knitting and writing, I'm starting to feel like knowing drupal is
+something that needs to happen. I have another non-tealart site that
+really needs drupal, and I think knowing something about the system will
+be quite quite helpful.
+
+So I'm jumping down the rabbit hole, slowly. I hope. Wish me luck.
+Unless I chicken out, if anyone knows something about drupal I'd love to
+hear from you.
+
+Onward and Upward!
+
+-- tycho
+
+.. [1]
+Lets remember for a moment that I was 13-14 when TealArt started.
+We're allowed to make mistakes.
+

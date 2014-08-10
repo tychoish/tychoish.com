@@ -1,0 +1,130 @@
+===========================
+6 Awesome Arch Linux Tricks
+===========================
+
+.. post:: 2012-01-04
+   :author: tychoish
+   :tags: linux, software, lists
+
+A couple of years ago I wrote "[[Why Arch Linux
+Rocks\|rhizome/why-arch-Linux-rocks]]" and "[[Getting the most from Arch
+Linux\|rhizome/getting-the-most-from-arch-linux]]." I've made a number
+of attempts to get more involved in the Arch project and community, but
+mostly I've been too busy working and using Arch to do actual work. Then
+a few weeks ago when I needed to do something minor with my system--I
+forget what--and I found myself thinking "this Arch thing is pretty
+swell, really."
+
+This post is a collection of the clever little things that make Arch
+great.
+
+[[!toc startlevel=2 levels=3]]
+
+abs
+---
+
+I'm using
+`abs <https://wiki.archlinux.org/index.php/Arch_Build_System>`__ as a
+macro for all of the things about the package build system that I enjoy.
+
+Arch packages are easy to build for users: you download a few files read
+a bash script in the ``PKGBUILD`` file and run the ``makepkg`` command.
+Done. Arch packages are also easy to specify for developers: just
+specify a "``build()``\ " function and some variables int eh
+``PKGBUILD`` file.
+
+Arch may not have as many packages as Debian, but I think it's clear
+that you don't need comprehensive package coverage when making packages
+is trivially easy.
+
+If you use Arch and you don't frequent that
+`AUR <http://aur.archlinux.org>`__, or if you *ever* find yourself doing
+"``./configure; make; make install``\ " then you're wasting your time or
+jeopardizing the stability of your server.
+
+yaourt
+------
+
+The default package management tool for Arch Linux, ``pacman``, is a
+completely sufficient utility. This puts ``pacman`` ahead of a number of
+other similar tools, but to be honest I'm not terribly wild about it.
+Having said that, I think that
+`yaourt <https://wiki.archlinux.org/index.php/Yaourt>`__ is a great
+thing. It provides a wrapper around all of ``pacman``'s functionality
+and adds support for AUR/ABS packages in a completely idiomatic manner.
+The reduction in cost of installing this software is quite welcome.
+
+It's not "official" or supported, because it's theoretically possible to
+*really* screw up your system with ``yaourt`` *but* if you're cautious,
+you should be good.
+
+yaourt -G
+---------
+
+The main ``yaourt`` functions that I use regularly are the "-Ss" which
+provides a search of the AUR, and the ``-G`` option. ``-G`` just
+downloads the tarball with the package specification (e.g. the
+``PKGBUILD`` and associated files) from the AUR and untars the archive
+into the current directory.
+
+With that accomplished, it's trivial to build and install the package,
+but you get to keep a record of the build files for future reference and
+possible tweaking. So basically, you this is the way to take away the
+tedium of getting packages from the AUR, while giving you more control
+and oversight of package installation.
+
+rc.conf
+-------
+
+If you've installed Arch, then you're already familiar with the
+``rc.conf`` file. In case you didn't catch how it works, ``rc.conf`` is
+bash script that defines certain global configuration values, which in
+turn controls certain aspects of the boot process and process
+initialization.
+
+I like that it's centralized, that you can do all kinds of wild network
+configuration in the script, and I like that everything is in one place.
+
+netcfg
+------
+
+In point of fact, one of primary reasons I switched to Arch Linux full
+time, was because of the network configuration tool, ``netcfg``. Like
+the ``rc.conf`` setup, ``netcfg`` works by having a network
+configuration files which define a number of variables which are sourced
+by ``netcfg`` when imitating a network connection.
+
+It's all in bash, of course, and it works *incredibly* well. I like
+having network management easy to configure, and setup in a way that
+doesn't require a management daemon.
+
+Init System
+-----------
+
+Previous points have touched on this, but the "BSD-style" init system is
+perfect. It works quickly, and boot ups are stunningly fast: even
+without an SSD I got to a prompt in less than a minute, and probably not
+much more than 30 seconds. With an SSD: it's even better great. The
+points that you should know:
+
+- Daemon control scripts, (i.e. init scripts) are located in
+  ``/etc/rc.d``. There's a pretty useful "library" of shell functions
+  in ``/etc/rc.d/function`` and a good template file
+  in``/etc/rc.d/skel\` for use when building your own control
+  scripts. The convention is to have clear and useful output and easy
+  to understand scripts, and with the provided material this is
+  pretty easy.
+
+- In ``/etc/rc.conf`` there's a ``DAEMON`` variable that holds an
+  array. Place names, corresponding to the ``/etc/rc.d`` file name, of
+  daemons in this array to start them at boot time. Daemons are started
+  synchronously by default (i.e. order of items in this array matters
+  and the control script must exit before running the next script.)
+  However, if a daemon's name is prefixed by an ``@`` sign, the process
+  is started in the background and the init process moves to the next
+  item in the array without waiting.
+
+  Start-up dependency issues are yours to address, but using order and
+  background start-up this is trivial to implement. Background start ups
+  lead to fast boot times.
+

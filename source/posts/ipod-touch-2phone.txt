@@ -1,0 +1,71 @@
+===================
+iPod Touch #2/Phone
+===================
+
+.. post:: 2008-10-22
+   :author: tychoish
+
+So despite being a huge geek and pretty technically savvy, I'm not much
+of a gadget person. I have a cellphone--but who doesn't these days, and
+mine's 3 years old and seems to only barely have an address book--and an
+iPod, but it's old reliable and not sexy. The `iPod
+touch <http://tychoish.com/rhizome/ipod-touch-review/>`__ that I got as
+part of a promotion when I got my new computer sits unused most of the
+time.
+
+The thing is, that my cell phone contract is (blessedly) up in March and
+I'm beginning the long slow slug towards deciding what kind of phone I
+should get. I'm slow on the decision making process, and I thought it'd
+be a good idea to get started now. It's of particular interest because
+my phone usage has changed dramatically recently. I've gone from using
+it a few times a month to being on the phone for an hour or two most
+days (and sometimes more.) And since I even have a
+`calendar <http://tychoish.com/rhizome/calendar-ing/>`__ now, I think
+something more robust is in order. Basically this boils down to
+`iPhone <http://www.apple.com/iphone/>`__ or
+`BlackBerry <http://www.blackberry.com/blackberrybold/>`__ (or `Google
+Andriod <http://code.google.com/android/>`__). Admittedly this doesn't
+really cut out any option other than the
+`OpenMoko <http://www.openmoko.com/>`__ (which is ironically more
+expensive and I don't think quite production ready.) We'll start with
+the iPhone, vis a vis the ipod touch:
+
+While I was initially optimistic that the iPod touch would become more
+useful as applications matured, and people (myself included) developed
+workflows that incorporated the device. As it turns out, I'm not sure
+that this has really happened. Applications seem to be: well intentioned
+but missing the extra-zing that would make them really amazing, or they
+feel like some Suit said "iPhone app, we need one of those," and thus
+they place more emphasis on the existing than on the being useful. And
+I'm not going to lie, I haven't really adjusted to the virtual keyboard.
+It's functional, but I think only barely. So while the iPhone is very
+sexy, and the obvious choice, its not automatic.
+
+Another anti-iPhone factor is that I'm generally avoidant about syncing
+my iPods and tend to go months without syncing them, and I fear that
+this might really cripple the the utility Particularly in a couple of
+months when my iTunes library once again outgrows my hard drive. Oh, and
+did I mention that I already have an iPod?
+
+Right.
+
+At the same time I'm pretty impressed with the upcoming `BlackBerry
+Bold <http://www.blackberry.com/blackberrybold/>`__ Hardware keyboard,
+an established platform, good hardware? Blackberry's can manage
+background processes, and they have good XMPP/Jabber/IM email support,
+which is, most of what I'd want to use an internet capable phone anyway.
+
+I hadn't really considered the Google Android phones a viable player,
+and I think largely they aren't. I don't suspect the hardware will be
+*there* by March or April of 09, and while I like a lot of the idea
+(from what I've seen) of Android, the truth is that I haven't seen much.
+Maybe this is because I don't follow these things, but I think if I'm
+worried about the ipod for not being developed enough, then that's going
+to be an even bigger barrier for Android.
+
+There's a long time between then and now, so this could all change.
+Clearly I'm leaning BlackBerry, but I'd love to hear what you all are
+using.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

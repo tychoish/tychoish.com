@@ -1,0 +1,41 @@
+=============================
+The Rise and Fall of Netbooks
+=============================
+
+
+"I'm old fashioned," R. said to me in an email, with that link to an
+article about how tablets have replaced and supplanted netbooks.
+
+In many ways, you have two netbooks: the little one that's been broken
+since may that I'm fixing and your real laptop. Which is to say: the
+advancement of netbooks was not, so much, the small form factor, but the
+fact that they were under powered computer systems meant to be used
+mostly with web-based applications.
+
+Initially, netbooks were to have low capacity solid state hard drives
+and run Linux-based OSes. That was cool, for a while, but the cheap
+solid state drives turned out to perform more poorly than people
+expected and conventional hard drives became very cheap/available. Also
+Microsoft got scared and having seen that small-form factor computing
+was *a real thing,* adapted its strategy to seriously target these kinds
+of devices.
+
+At which point everyone realized that there wasn't a lot of point in
+making really small laptops: they were hard to type on and fundamentally
+they did everything for which you needed "big computers." So companies
+started making "big netbooks." The end result most 14"-15" laptops are
+basically big netbooks (including having similar resolutions.) The extra
+size is nice for most mundane uses, and for most the "mobility niche" is
+filled by smartphones anyway, rendering netbooks-sized device useful.
+Except they're still around in different packaging.
+
+Technology, I think, rarely fails. Rather, it gets reimplemented and
+reabsorbed by the next iteration of the technology. If we don't pay
+attention we may miss the connections between iterations, but they are
+there.
+
+Interestingly, and perhaps orthogonally, Linux lead the development for
+netbooks. Though tablets are different, and the history is less easily
+accessible, I think the same thing is happening there. It'll be
+interesting to see how that pans out.
+

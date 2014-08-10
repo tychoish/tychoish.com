@@ -1,0 +1,64 @@
+===============
+Tablet Modality
+===============
+
+.. post:: 2008-12-05
+   :author: tychoish
+
+I've been using my new computer a fair piece yesterday and today, and
+I've even gotten my dad using the computer recently (long story) and
+it's going really well, and the speed that I've been able to get it
+setup and adjusted has been really amazing. (Is there anyone else in St.
+Louis MO, USA who wants to switch to linux and needs a little bit of
+encouragement?)
+
+I'm also remarkably close to getting all the way switched to linux. I
+still haven't messed with my RSS feeds (still mac only on that, but
+that's a user-issue as much as a technological one) and I need to bite
+the bullet and get XAMPP set up on my desktop, and get something set up
+to be able to share files on the network.
+
+But I digress, this post is really about the whole "tablet computer"
+thing, which was supposedly going to be "*the* next new thing" five or
+so years ago. Clearly this was not the case. First of all tablets
+(especially convertible tablets) are hard to get right from an
+engineering perspective: more stress points and screens with digitizers
+don't often look right. Secondly, there's not a lot that tablets are
+*better* for than conventional laptops.
+
+We're still better at typing than we are at writing long hand, and
+applications and user interfaces aren't really designed around a
+tablet-like interaction metaphor. It took apple designing a phone in
+*2007* for people to realize that we might need an interaction paradigm
+where you would have more than one pointer at a time (so called
+"multi-touch").
+
+I backed into this tablet thing. I realized that ThinkPad hardware was
+probably the best laptop hardware for linuxification, and I knew they
+had a 12 inch tablet. Since I'd been jonesing for a 12 inch laptop, more
+or less since I gave up my 12 inch ibook 5 years ago, the x41/x61 tablet
+seemed like the coolest thing around. When I found a great deal on one
+of the x41t's, the rest is history.
+
+What's most surprising is how much I like it.
+
+I got the digitizer working in pretty short order and
+`xournal <http://xournal.sourceforge.net/>`__ not long after that. I'm
+struck by a few things. First, the "writing" experience is quite good.
+I'm sort of prissy about writing long hand, and have been using fountain
+pens and moleskines for years, so this is no small endorsement.
+Secondly, for somethings like reading PDFs and some note taking, this
+could in time totally replace my use of paper notebooks. Aside from the
+whole "needing power" issue.
+
+Would I get another tablet? Probably, though I wouldn't be inclined to
+pay a great "tax" for this feature, and the fact that this is a tablet
+is really nice, but not in the top few reasons why I like this computer
+(size, and lightness, the lack of a touch pad, and it's
+linux-compatibility.) So go figure.
+
+It's nifty, but I don't expect things to rush towards tablets *quite*
+yet.
+
+Onward and Upward!
+

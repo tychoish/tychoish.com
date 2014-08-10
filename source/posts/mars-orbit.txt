@@ -1,0 +1,60 @@
+==========
+Mars Orbit
+==========
+
+.. post:: 2007-11-22
+   :author: tychoish
+
+I write science fiction, and truth be told, and I think the space opera
+form has life in it yet. While my last story was set on Mars and didn't
+have a lot of interplanetary travel, this project does. Mostly because I
+want to cover a long period of time in the stories that I'm writing now,
+so that we can see characters relate to histories. So I have characters
+on space ships.
+
+One thing that I have yet to do, is create some sort of FTL
+(faster-than-light) construct in the stories, and while I'm not hyper
+vigilant about making sure that planets are actually going to be where
+they are in relation to each other when I say they are, I've built
+transit times into my plots and stuff like that, so that there's at
+least some sense of a "price" for technologies that seem too good to be
+true. And I think in some ways this connects to some sort of notion of
+`constrained
+creativity <http://tychoish.com/rhizome/constrained-creativity/>`__ and
+particularly in fiction this is what makes stories interesting
+
+So, in pursuit of making this work I occasionally find myself looking up
+orbital mechanics and interplanetary transit systems, to figure out how
+to get ships and planets to be in roughly the same place at the same
+time. There's only a little bit of this, in the current book thankfully:
+most of the story takes place on ships bound out of the solar system and
+on Titan, Saturn's largest moon. But at the moment I'm following a ship
+that's making it's way to Titan, with a brief detour to Mars. So I once
+again find myself trying to figure out Martian orbital dynamics and
+distances. Sigh.
+
+`This website about Martian
+Orbits <http://zebu.uoregon.edu/~soper/Orbits/marsorbit.html>`__ is
+quite helpful.
+
+Also, for those of you playing along at home, I think--think here--that
+an object that was .25 of a martian year *behind* mars in orbit would be
+about 17 light minutes away from Mars. This is between Mars and the L4
+(or 5 if mars is ahead) `Lagrarian
+points <http://www.bautforum.com/archive/index.php/t-38085.html>`__,
+which are, despite being farther away only 12 minutes away. (.25 of a
+year, is 45 degrees ahead/behind mars, the L4/5 points are 60 degrees
+ahead/behind. I'm figuring that the Mars Orbit, at 1.5 AU, to Earths 1
+AU has a radius of 12 light minutes, or 134123326 miles.)
+
+This ignores the fact that the orbits are all elliptical, and the effect
+of gravity on light/radio waves, which exists, surely, but not I think
+to a degree great enough to affect the truthfulness of a character that
+says "The message is about 20 minutes old."
+
+I wonder if you can get a job doing something with rudimentary orbital
+mechanics with an undergraduate degree in psychology and no college
+level math. *Sigh*. Guess I better stick to writing.
+
+Hope your turkey preparations are going well.
+

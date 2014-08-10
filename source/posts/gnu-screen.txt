@@ -1,0 +1,71 @@
+==========
+GNU Screen
+==========
+
+.. post:: 2009-01-13
+   :author: tychoish
+
+This is a "isn't this really old piece of software pretty darn cool,"
+kind of a post. `GNU Screen <http://www.gnu.org/software/screen/>`__ is
+a terminal multiplexer, that dates probably from the eighties or there
+abouts, and it provides a sort of text-based windowing environment
+inside of a command line. Sort of.
+
+Before I started using it, I read statements like that and had no clue
+what Screen really did. I think a brief (and basic) overview of how
+screen works might be worth something. Basically, you start a screen
+instance in a terminal window, and you're brought to a blank terminal
+window. The commands are, by default all bound to Control-A (c-a), and
+subsets of that. So you have a terminal open that you can run console
+applications, or other shell commands. You can also hit ``c-a c-c`` to
+open a second "window" in the same terminal emulator, and ``c-a c-a``
+swaps between the present and most recent window, while ``c-a c-"``
+presents a list of open windows. All of this runs within one instance of
+a terminal window, so you don't have to resort to tabs, awkward key
+bindings, any of it. Everything is *there*.
+
+There are a lot of additional features, most of which I don't use--I
+must admit, but the truth is the basic idea of taking a terminal
+window--which is by nature a single-purpose and single-task--and make it
+possible to perform many different tasks inside of one window isn't a
+great technological or user feature in 2008, but there are a few nifty
+things that make it incredibly useful.
+
+First, screen instances run as daemons (actually, I'm not sure this is
+the correct term, but nevertheless) so that you can detach a screen
+instance from the terminal it's running in, and reattach it later. We
+can imagine this to be useful in a number of instances. First, if you're
+working over SSH, you can not only have multiple tasks running over a
+single connection (multiplexed) but if the connection drops, or you need
+to move computers... your state is saved. Similarly, if you switch
+terminal emulators (xterm and urxvt, or gnome-terminal) you can save
+where you are. Screen makes it possible to log-in and of your system
+without loosing where you were. Commands that are useful in these
+workflows are: ``screen -ls`` to list existing screen instances,
+``screen -r ##`` to reattach a detached screen (if there's more than one
+detached screen then specifying a unique PID number or fragment will let
+you pick between multiple "screens,"). You can also specify a ``-D``
+flag to detach the screen, and ``-RR`` to "force detach/reattach,"
+though I often run ``screen -DRR`` just for good measure.
+
+Basically the upshot of this functionality is that all of my terminal
+applications and work can be disassociated from a specific session or
+terminal emulator. While this might be my own particular oddity, there's
+something that I rather enjoy about the independence of being able to
+separate the processes, from environments either physical (what hardware
+I use, given SSH) or from specific environments on the hardware that's
+in front of me (which has certain stability and security features that
+are appealing.
+
+In the past few months I've taken to running several network connected
+console apps (the mcabber jabber client, and irssi, the IRC client) in
+screen instances so that if I needed to restart X for some reason, I
+could without popping on and offline. More recently I've been using it
+to cut down on the number of terminal applications I have running at any
+given time, as the terminal emulators are rather bulky programs in
+comparison to screen and the shell interpreter.
+
+That old technology, it's worth something. I know there are other screen
+folks out there, there must be. What--to you--is the "killer feature
+that I left out?"
+

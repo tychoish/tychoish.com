@@ -1,0 +1,45 @@
+==============
+Mars Tag Cloud
+==============
+
+.. post:: 2008-06-21
+   :author: tychoish
+
+So someone wrote a nifty little `java aplet <http://wordle.net/>`__ that
+makes really pretty tag-cloud like graphics from either your
+`delicious <http://del.icio.us/>`__ tags or from a block of your text.
+
+So I plugged in the text of the novella that I wrote last fall into the
+little window and got:
+
+.. figure:: http://farm4.static.flickr.com/3075/2597819976_a473447486.jpg?v=0
+:alt: mars tag cloud
+
+mars tag cloud
+It's not very pretty, but it's sort of cool. And a little embarrassing,
+but these things happen. I'll definitely be making more of these.
+
+Thanks `amy <http://www.domesticat.net>`__ for the link to this. I agree
+about putting these on shirts.
+
+Hope your weekend is going well.
+
+--------------
+
+Out of curiosity, I copy and pasted the text of Cory Doctorw's *Someone
+Comes to Town, Someone Leaves Town* into the same applet and got the
+following result.
+
+.. figure:: http://farm4.static.flickr.com/3033/2598825040_5edf923b1c.jpg?v=0
+:alt: cory doctorw's someone comes to town cloud
+
+cory doctorw's someone comes to town cloud
+
+--------------
+
+"Said" is probably the most frequently non-determiner-word in fiction,
+though I think I probably need to do something about my overuse of the
+word "probably."
+
+*sigh*
+

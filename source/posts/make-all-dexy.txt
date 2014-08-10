@@ -1,0 +1,83 @@
+=============
+make all dexy
+=============
+
+.. post:: 2011-02-01
+   :author: tychoish
+   :tags: technical-writing
+
+See "`Why The World Is Ready For
+Dexy <http://criticalfutures.com/2011/01/why-the-world-is-ready-for-dexy>`__\ "
+and "`Dexy and Literate
+Documentation <http://criticalfutures.com/2011/01/dexy-and-literate-documentation>`__\ "
+as well as the `technical writing
+section <http://tychoish.com/technical-writing/>`__ section of the
+`tychoish wiki <http://tychoish.com/>`__ for some background to this
+post.
+
+The brief synopsis: `dexy <http://dexy.it>`__ is a new tool for handling
+the process of the documentation work flow between *writing* and
+publication. It takes snippets of code, and bits of documentation and
+passes these atomic chunks through filters to generate technical
+articles, manuals, and other high quality resources. It's exciting
+because it *may* provide a way to write and manage the documentation
+process in a manner that is more effective than many other options *and*
+has the potential to produce better quality technical texts.
+
+The reason, I think, is that dexy treats documentation like code. This
+is different, fundamentally, from systems that expect that *developers*
+write documentation. The former has interesting implications about the
+way technical writers work, and the later is nearly always a `foolhardy
+proposition <http://tychoish.com/technical-writing/automation>`__ doomed
+to end in failure.
+
+Documentation has a lot in common with code: documentation is written
+and revised in response to software versions, so the process of
+iterations has a lot in common. Documentation should typically be
+`compiled <http://tychoish.com/technical-writing/compilation>`__, and
+the `build
+process <http://criticalfutures.com/2011/01/dexy-and-literate-documentation>`__
+should produce a static product, between iterations. Documentation, like
+code, must also be maintained and fixed in response to new bugs and
+use-cases as they are found/developed.
+
+If we accept this analogy, Dexy begins to look more like a tool like
+``make`` which is used to manage compilation of code. ``make`` figures
+out what source files have changed, and what needs to be rebuilt in
+order to produce some sort of binary code. That doesn't sound like a
+very important tool, but it is. ``make`` makes it easy to automate tasks
+with dependencies, without writing a bunch of novel code to check to see
+what's been done and what has yet to be done, particularly when build
+processes need to be done in parallel. Furthermore, ``make`` is one of
+these typical "UNIX-like" utilities that does only one thing (but does
+it very well) and ties together functionality from a number of different
+kinds of programs (compilers, configuration tools, etc.)
+
+Dexy is kind of like that. It manages a build process. It ties together
+a group of existing tools, thereby saving developer time and building
+something that can be more flexible and consistent.
+
+This is, however, imperfect analogy: I think Dexy isn't "``make`` for
+documentation," because it would be possible to use ``make`` to manage
+the build process for documentation as well as code. [1]_ Dexy manages
+text processing, make can work one level up--if needed--to build
+coherent texts from Dexy-processed documentation units. Dexy and
+``make`` are glue that turns documentation and code into useful
+resources.
+
+There are obviously some situations where this developer-like workflow
+may be overly complicated. For starters, Dexy, like ``make``, really
+provides a framework for building documents. A portion of creating every
+project and text in this manner would necessarily go to developing
+build-related infrastructure. It's not a huge burden, but it's the kind
+of thing that requires a little bit of thought, and maybe some good
+"default" or base configuration for new projects and texts. Dexy is a
+great first step into a new way of thinking about and working with
+documentation, but there is much work yet to be done.
+
+Onward and Upward!
+
+.. [1]
+I should thank, or perhaps blame, a coworker for planting this idea
+in my mind.
+

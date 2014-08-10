@@ -1,0 +1,104 @@
+=============
+Phone Torched
+=============
+
+.. post:: 2010-10-21
+   :author: tychoish
+   :tags: cyborg, mobile-technology
+
+I mentioned in a `recent update
+post </2010/09/its-a-great-time-to-be-alive>`__, that I had recently
+gotten a new cell phone, which given who I am and how I interact with
+technology means that I've been thinking about things like the shifting
+role of cell phones in the world, the way we actually *use* mobile
+technology, the ways that the technology has failed to live up to our
+expectations, and of course some thoughts on the current state of the
+"smart-phone" market. Of course.
+
+--------------
+
+I think even two years ago quasi-general purpose mobile computers (e.g.
+smart phones) were not nearly as ubiquitous as they are today. The
+rising tide of the iPhone has, I think without a doubt, raised the boat
+of general smart phone adoption. Which is to say that the technology
+reached a point where these kinds of devices--computers--are of enough
+use to most people that widespread adoption makes sense. We've reached a
+tipping point, and the iPhone was there at the right moment and has
+become the primary exemplar of this moment.
+
+That's probably neither here nor there.
+
+With more and more people connected in an independent and mobile way to
+cyberspace, via either simple phones, (which more clearly matches
+Gibson's original intentions for the term,) or via smart phones I think
+we might begin to think about the cultural impact of having so many
+people so connected. Cellphone numbers become not just convenient, but
+in many ways complete markers of identity and person-hood. Texting in
+most situations overtakes phone calls as the may way people interact
+with each other in cyberspace, so even where phone calls may be
+irrelevant SMS has become the unified instant messaging platform.
+
+As you start to add things like data to the equation, I think the
+potential impact is huge. I spent a couple weeks with my primary
+personal Internet connection active through my phone, and while it
+wasn't ideal, the truth is that it didn't fail *too* much. SSH on
+Blackberries isn't *ideal*, particularly if you need a lot from your
+console sessions, but it's passable. That jump from "I really can't cut
+this on my phone," to "almost passable" is probably the hugest jump of
+all. The series of successive jumps over the next few years will be
+easier.
+
+Lest you think I'm all sunshine and optimism, I think there are some
+definite short comings with contemporary cell phone technology. In
+brief:
+
+-  There are things I'd like to be able to do with my phone that I
+really can't do effectively, notably seamlessly sync files and notes
+between my phone and my desktop computer/server. There aren't even
+really passable note taking applications.
+
+-  There are a class of really fundamental computer functionality that
+*could* theoretically work on the phone, but don't because the
+software doesn't exist or is of particularly poor quality. I'm
+thinking of SSH, of note taking, but also of things like non-Gmail
+Jabber/XMPP functionality.
+
+-  Some functionality which really ought to be more mature than it is
+(e.g. music playing) is still really awkward on phones, and better
+suited to dedicated devices (e.g. iPods) or to regular computers.
+
+The central feature in all of these complaints is software related, and
+more an issue of software design, and an ability to really design for
+this kind of form factor. There are some limitations: undesirable input
+methods, small displays, limited bandwidth, unreliable connectivity, and
+so forth. And while some may improve (e.g. connectivity, display size)
+it is also true that we need to get better at designing applications and
+useful functionality in this context.
+
+My answer to the problem of designing applications for the mobile
+context will seem familiar if you know me.
+
+I'd argue that we need applications that are less dependent upon a
+connection and have a great ability to cache content locally. I think
+the Kindle is a great example of this kind of design. The Kindle is very
+much dependent upon having a data connection, but if the device falls
+offline for a few moments, in most cases no functionality is lost. Sure
+you can do really awesome things if you assume that everyone has a
+really fat pipe going to their phone, but that's not realistic, and the
+less you depend on a connection the better the user experience is.
+
+Secondly, give users as much control over the display, rendering and
+interaction model that their software/data uses. This, if implemented
+very consistently (difficult, admittedly,) means that users can have
+global control over their experience, and users won't be confused by
+different interaction models between applications.
+
+Although the future is already here, I think it's also fair to say that
+it'll be really quite interesting to see what happens next. I'd like a
+chance to think a bit about the place of open source on mobile devices
+and also the interaction between the kind of software that we see on
+mobile devices and what's happening in the so-called "cloud computing"
+world. In the mean time...
+
+Outward and Upward!
+

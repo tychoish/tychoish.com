@@ -1,0 +1,119 @@
+==============================
+Rethinking GTD: The Digit(al)s
+==============================
+
+.. post:: 2007-02-17
+   :author: tychoish
+
+Sorry about missing last week's essay: I basically missed last weekend
+in total, and it threw my entire week into a really interesting place.
+And by interesting we mean, crazy like no other. Suprisingly, or perhaps
+not, I was able to keep abreast of everything, and the only thing that
+continues to languish, is something that I'm "strategically avoiding."
+Anyway, for this segment, I wanted to talk about the ways that I use the
+computer, breifly. I've always been a big fan of keeping digital data
+organized long before easy solutions to do so were commonly available.
+While there are some software tools that I think make this easier, a lot
+of what I do is just trying to find a systematic way to organize one's
+data that lets you stay "in touch" with what you have, and find what you
+need when you need it. I'm also very much aware of GTD's "one system"
+maxim, and I think this generally is the best way to run one's digital
+experience. If you're new to the series, links to the previous articles
+follow. I'd also love to hear from you if you have any suggestions or
+ideas for me.
+
+Part One: Getting Other Things Done
+
+Part Two: Rethinking GTD: My System
+
+Part Three: Rethinking GTD: Production Times and "the Zone"
+
+At the moment, I live and die (digitally) by two programs VooDooPad, and
+Yojimbo. As I've said before, VooDooPad is a supper app, that basically
+lets you create a simple desktop wiki out of mac RTF files, and Yojimbo
+is a very solid/basic clippings file/database. There is some overlap in
+functionality between these programs, and I suppose in theory you could,
+if your brain was up to it, use one or the other to do the job of the
+other. This of course brings up the question of one-systemness, which
+we'll have to get to later. Let me first tell you how I make this work.
+Also, for the record these, are MacOSX applications, there are
+alternatives (some of which look rather nifty) for Windows and other
+platforms, but I know much less about them.)
+
+I have a Voodoopad document that I live in, and have lived in
+for--omitting a 4 month period--the last two or so years. VoodooPad is a
+relational Wiki, the documents are bundles of "pages" which are by
+default RTF pages. I also have some pages that are PDF print outs, and
+there's system wide Print-PDF-to-VoodooPad. But the organization is
+completely up to you. I use Voodoopad as the basis for all the content
+that I generate myself on the computer: class notes, reading notes,
+drafts of papers, and so forth. The latest version of VoodooPad,
+supports multi-window, and multi-tab browsing/editing, which are
+features that I think make working/living in an application useful. I
+also like that, because of this functionality and the organization as a
+Wiki, I only have one VooDoopad document to keep track of. Having said
+that, if you had very distinct projects (or very similar projects,
+depending) you could isolate portions of your VoodooPad into separate
+documents. The downside to this is, of course, that all the organization
+has to be self imposed, which isn't that hard to do (and is aided by the
+fact that VoodooPad has great search functionality and is accessible by
+spotlight.)
+
+Yojimbo, is my latest addition to the stable of every-day applications.
+It's basically a database that can keep track of all the little bits of
+data that float around your computer, but rather than having an esoteric
+text file system, Yojimbo lets you dump any kind of file in through a
+host of different pipes and then lets you categorize all these files in
+a a handy database, using a system of folders and tagging. I use this
+program mostly to keep track of the heinous amount of PDF files that I
+download and consume regularly. If, VoodooPad is my notebook, then
+Yojimbo is the file cabinet.
+
+For those of us that deal with and in words, these are the two main
+functions of the computer. The two programs that you use are largely
+irrelevant, and like I said, you could probably get away with
+using--particularly Yojimbo--as both your notebook and filing cabinet.
+VoodooPad would work as well but, you would have to do a lot of work to
+impose structure on the "filing cabinet" in VoodooPad. In any case, no
+matter what kind of software you use, its important to apply a personal
+convention to how you name and organize things.
+
+Thankfully, with the advent of Spotlight (and PC equivalent) search
+services and tools you need not have a single alphabetical (or whatever
+system) file for your data, but good file names are still important.
+It's important to be consistent, so that you can look at a file and tell
+what is in it without opening; the fewer conventions you have the easier
+this becomes. When it comes to files, shorter is always better than
+longer, and always start generally and become more specific. This makes
+file names, page names, document titles (and so forth) easier to scan,
+and it also makes it easy to use filtering and sorting techniques to
+group similar files together automatically.
+
+For instance I have a unique CamelCase identifier for all of my classes
+and projects that begins all of the page/file names: all documents
+related to my historiography class this semester are tagged
+HistoryTheory. Following the tag, I list (in order) the assignment type,
+number, and a pithy description of the reading that it relates to. This
+is the general system in use throughout the entire document. I use the
+same tagging system in Yojimbo to keep the projects sorted (in addition
+to a few topic-related tags.) Similarly, for articles I use,
+"AuthorLastName - ArticleTitle.pdf". For another example of a system
+before Yojimbo, when I just had files and folders, I used the same
+naming convention and had specific folders for each project (class) that
+I was working on when I found/downladed the file. The intention was to
+group file with the moment I downloaded it, in hopes of being able to
+retrace my steps based on this association, and it actually works pretty
+well.
+
+So in summary, we have "notebook" functions, and "file cabinet"
+functions: simple and consistent naming schemes are important, good
+search functions are **really** important, and when in doubt (and it's
+possible) let your software create your framework, not the other way
+around.
+
+I haven't decided what's up for next time, but on my list I have
+"project level planning and reviews," and that sounds pretty good for
+now. But perhaps we'll all be surprised.
+
+Cheers, tycho(ish)
+

@@ -1,0 +1,101 @@
+============
+On Laptoping
+============
+
+.. post:: 2009-01-23
+   :author: tychoish
+
+It's only comparatively recently that I've returned to the world of
+being a desktop computer user. I built my own computer when I was in
+high school, and it died after 3 years (or so), and I replaced that with
+an Mac laptop, which I updated a couple of times, but until this last
+fall, that was my window onto the Internet and my main
+academic/scholarly tool for a long time. This "laptop only" modality, is
+I think pretty common among a layer of contemporary computer users.
+Students, Internet-industry professionals (start-ups,
+programmers/hackers of a certain breed, etc.) are all prone to this kind
+of setup. And the truth is, that given today's technology, just about
+any laptop will pretty much whatever anyone needs from it. There are
+some limitations on the high end, but not many.
+
+Indeed the reason that I moved to a desktop was the realization that I
+do about 60% of my computering in the study, at my desk. I also found
+myself needing a lot more screen space [1]_ than any laptop that I'd
+like to carry on my back could provide. It is also nice to be able to
+have a computer that's always on (downloading, file server stuff, etc.)
+and always connected to the Internet. Nevertheless, I still have a
+laptop and I find that I use it *a lot*. I tend to write in the morning
+in the living room, I reflexively (though I've gotten better at leaving
+it at home) take the laptop with me when I leave the house.
+
+I used to think that having more than one machine was a bit of a hassle,
+and I suppose it is, but I'm sort of interested in thinking about how
+folks--particularly people who also have a desktop--use laptops. My
+laptop, despite being really *half* as powerful as the desktop, is
+configured the same way my desktop is, it has all of the same software,
+and nearly all of the same data. This seems like an ideal situation from
+a workflow perspective, but I can respect that there are other
+approaches.
+
+I end up using the laptop as a "change of pace," and as a "more focused"
+situation when I need to hunker down and write more seriously.
+
+--------------
+
+I intended this post to be less about general workflow stuff and more
+about my experiences with replacing my Macbook with the IBM/Lenovo
+Thinkpad X41t of which I've become quite enamored. Particularly, with
+respect to its "tablet," feature.
+
+A few weeks ago I started to use the Macbook again incidentally, and my
+conclusion from this experience is that, while I have a lot of respect
+for OS X and the mac platform, it's not something that I want to use
+myself in any kind of day to day way. So I'm back using the thinkpad,
+and I'm tracking around for a second one (long story) so that I can sell
+the macbook without hurting the family's ecology [2]_ of computers. And
+it's a great thing. In a sort of minimalistic and technologically frugal
+sort of way, this machine does *everything I need* of a laptop, which is
+kind of cool
+
+When I got the laptop, I was really excited about the prospect of having
+a tablet-formed machine. I could annotate PDFs effectively, I could read
+ebooks more comfortably in bed or on the couch. Turns out to not quite
+be the case.
+
+Basically the implementation of the tablet part of the computer is
+perfect: the hinge is great, the texture of the screen is great, it just
+works--even on Linux. The problem? I don't have a hell of a lot of use
+for a computer without a keyboard. I like the experience of being able
+to turn it into a tablet to be able to concentrate a little bit better
+at the document at hand. That's useful. But the truth is I use it, maybe
+once a week if that.
+
+Does anyone else have a tablet and if so, how much do you use it as
+such, or is there something really cool about tablets that I've totally
+missed?
+
+Onward and Upward!
+
+.. [1]
+I have something like 40 diagonal inches these days, on my main
+machine which is probably a bit of overkill. My issue on the Macbook
+screen was that I could have 30 windows open just fine (with Expose,
+which is really, a godsend) as long as I was working on a constrained
+number of projects. When I started having a bunch of "work things" on
+top of my usual cluster "tycho things," what had been pretty
+efficient became me spending forever finding *the right* text editor
+window. Magically the `Awesome <http://awesome.naquadah.org>`__
+`window manager that I use <http://tychoish.com/tag/awesome/>`__,
+manages to provide a lot more "conceptual" space for doing work,
+while also cutting down on distractions, without exactly tying
+conceptual space to physical space. Nifty stuff, really.
+
+.. [2]
+When I got the thinkpad, I had intended to use it for a few weeks and
+then give it to my father, who'd been relegated to the oldest
+computer in the family computer ecology (an ibook). This was
+insurance against unanticipated systems failure (the last time a
+computer in died, there was... significant strife.) But, it turns out
+that the ibook has discovered a second life as the stereo system's
+Brain, and as I have the thinkpad... You can see where this is going.
+

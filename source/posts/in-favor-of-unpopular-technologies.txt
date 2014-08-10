@@ -1,0 +1,86 @@
+==================================
+In Favor of Unpopular Technologies
+==================================
+
+.. post:: 2010-05-18
+   :author: Sam Kleinman
+   :tags: technology, cyborg
+
+This post ties together a train of thought that I started in "`The Worst
+Technologies Always
+Win </2010/05/the-worst-technologies-always-win/>`__\ " and "`Who Wants
+to be a PHP Developer </2010/05/who-wants-to-be-a-php-developer/>`__\ "
+with the ideas in the "`Ease and the Stack </2010/05/stack-ease/>`__\ "
+post. Basically, I've been thinking about why the unpopular
+technologies, or even unpopular modes of using technologies are so
+appealing and seem to (disproportionately) capture my attention and
+imagination.
+
+I guess it would first be useful to outline a number of core values that
+seems to guide my taste in technologies:
+
+-  **Understandable**
+
+Though I'm not *really* a programmer, so in a lot of ways it's not
+feasible to expect that I'd be able to expand or enhance the tools I
+use. At the same time, I feel like even for complex tasks, I prefer
+using tools that I can have a chance of understanding how they work. I'm
+not sure if this creates value in the practical sense, however, I tend
+to think that I'm able to make better use of technologies that I
+understand the fundamental underpinnings of how they work.
+
+-  **Openness and Standard**
+
+I think open and standardized technologies are more useful, in a way
+that flows from "understandable," I find open source and standardized
+technology to be more useful. Not in the sense that open source
+technology is inherently more useful because source code is available
+(though sometimes that's true), but more in the sense that software
+developed in the open tends to have a lot of the features and values
+that I find important. And of course, knowing that my data and work is
+stored in a format that isn't locked into a specific vendor, allows me
+to relax a bit about the technology.
+
+-  **Simple**
+
+Simpler technologies are easier to understand and easier--for someone
+with my skill set--to customize and adopt. This is a good thing.
+Fundamentally most of what I do with a computer is pretty simple, so
+there's not a lot of reason to use overly complicated tools.
+
+-  **Task Oriented**
+
+I'm a writer. I spend a lot of time on the computer, but nearly
+everything I do with the computer is related to writing. Taking notes,
+organizing tasks, reading articles, manipulating texts for publication,
+communicating with people about various things that I'm working on. The
+software I use supports this, and the most useful software in my
+experience focuses on helping me accomplish these tasks. This is opposed
+to programs that are feature or function oriented. I don't need software
+that *could* do a bunch of things that I *might* need to do, I need
+tools that do exactly what I need. If they do other additional things,
+that's nearly irrelevant.
+
+The problem with this, is that although they seem like fine ideals and
+values for software development, they are, fundamentally unprofitable.
+Who makes money selling simple, easy to understand, software with
+limited niche-targeted feature sets? No one. The problem is that this
+kind of software and technology makes a lot of sense, and so we keep
+seeing technologies that have these values that seem like they *could*
+beat the odd and become dominant, and then they don't. Either they drop
+task orientation for a wider feature set, or something with more money
+behind it comes along, or the engineers get board and build something
+that's more complex, and the unpopular technologies shrivel up.
+
+What to do about it?
+
+-  Learn more about the technologies you use. Even, and epically if
+you're not a programmer.
+
+-  Develop simple tools and share them with your friends.
+
+-  Work toward task oriented computing, and away from feature
+orientation.
+
+
+

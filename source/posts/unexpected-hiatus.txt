@@ -1,0 +1,68 @@
+=================
+Unexpected Hiatus
+=================
+
+.. post:: 2007-03-31
+   :author: tychoish
+
+Hello everyone!
+
+It's really good to be back. As I'm sure you're aware, tealart was out
+of service for basically the last week. I've been calling it a hosting
+mishap: the details of which are unimportant. There were a few days in
+there where we were unsure if we were going to be able to get access to
+the site. As you can see, we managed to get everything back the way it
+should be: (there are even a few improvements [1]_.) Nevertheless there
+were a few moments of doubt in there, and while it was distressing, I
+found that I was able to be rather zen about the whole experience. The
+interesting thing is that this came at a moment where I was feeling
+rather energized about my development as a writer (academically and
+otherwise) and also about the progress of tealart and my other
+productions.
+
+Having said that, it was a particularly tough week for me in school: I
+had one of my more impressive writing marathons, and I think I did much
+of the remaining important work of the semester in the span of four or
+five days. It's nice to have a little bit of a breather, though, I must
+say. And I do think that `twitter <http://www.twitter.com/tychoish>`__
+was quite helpful in surviving the bloggless period. And even though the
+website was down, I also managed to do a little bit of writing for
+TealArt that I hope you'll get to see in the next few weeks.
+
+In addition I did some planning for another TealArt series: this one,
+will hopefully not be written (entirely) by myself, and my hope is that
+it'll be an experiment in storytelling of some sort. That's the hope at
+least, we'll see how it develops.
+
+Anyway, this is supposed to be a short little entry, look for more
+substantive content later in the week. For now I will leave you with a
+little exchange from a class I was in on Thursday night.
+
+cheers, ty.
+
+**Professor:** Who decides what something means?
+
+**Foucauldian Student:** I think it's up to who ever has political
+power.
+
+**Professor:** Why of course! [*appears satisfied with the response,
+and there is a brief silence, as the conversation lulls before
+starting in a new direction.*\ ]
+
+**Tycho:** but we all read... [*pause*\ ]
+
+**Class** looks quizzically at **Tycho.**
+
+**Tycho:** oh wait, there was a discussion going on in my head that
+you all missed out on. sorry folks. *explains reader response theory
+at some length*
+
+.. [1]
+I was able to get some of the
+`AJAX <http://en.wikipedia.org/wiki/AJAX>`__ functionality of the
+template to *finally* work, including a more functional commenting
+feature, and archive display. Also, as you can see, I found an
+enhanced version of markdown for
+`Wordpress <http://www.wordpress.org>`__ that supports the tentative
+footnote feature, which **rocks**, as you all know.
+

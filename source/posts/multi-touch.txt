@@ -1,0 +1,27 @@
+===========
+multi touch
+===========
+
+.. post:: 2007-07-22
+   :author: tychoish
+
+I compleatly buy `this
+argument <http://furbo.org/2007/07/16/multi-touch-on-the-desktop/>`__
+about human/computer interaction, regarding UI and mutli-touch
+interfaces ala the iPhone.
+
+I have to say that ergonomics both on this, and a more specific level
+(like keyboard layouts, and command line conventions) are of a great
+interest to me.
+
+I have to say though, that being able to do something more multi-touchy
+with a track pad would be nice. We'll remember that we already have the
+two finger scrolling, which I can't really live with out, so having an
+additional command ability (like a second mouse click.)
+
+Frankly though, the major coup of the iPhone is the pinch and zoom
+thing, which makes a lot of sense on a very small screen, but
+signifigantly less sense on your MacPro Cinema display, or MacBook.
+
+Go figure.
+

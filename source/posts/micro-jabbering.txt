@@ -1,0 +1,50 @@
+===============
+Micro Jabbering
+===============
+
+.. post:: 2008-09-09
+   :author: tychoish
+   :tags: new-media, cyberculture
+
+Today was the first day that my `regular blog
+post/essay <http://tychoish.com/rhizome/awesome-window-manager/>`__
+*didn't* get crossposted to `my
+livejournal <http://tychoish.livejournal.com/>`__. This is one of the
+cool things that I can do now that I've redone tychoish.com. So LJ-land
+if you want to read about a really cool linux/open source thing click
+the above link.
+
+In other news, I've been toying around with
+`identi.ca <http://www.identi.ca>`__ which is the flagship of an open
+source federated twitter clone called `laconica <http://laconi.ca/>`__.
+(You can join/follow my "dents" `here <http://www.ident.ca/tychoish>`__
+if you use any Laconica site.)
+
+Now I'm a really big fan of `the
+twitter <http://www.twitter.com/tychoish/>`__ except that my prefered
+method of interacting with twitter is via the IM/jabber interface, which
+hasn't worked for months. While I'd *love* to jump ships to another
+platform (like identi.ca or jaiku), twitter has too many people that
+wouldn't jump ship with me. So until Laconica can import tweets a little
+better, I'm going to be in a couple of different worlds for a while.
+Anyway...
+
+I `listened to an interview <http://twit.tv/floss37>`__ with the author
+the other day, and I think I'll be writing some blog posts on this
+subject very soon, but its mightily cool, conceptually (because it gives
+everyone a lot of control over their microblogging life.)
+
+A while back I wrote a post--after identi.ca started up, actually--about
+how `microblogging needed to be thought of as an evolution of IRC and
+IM <http://tychoish.com/rhizome/doing-irc-right/>`__ rather than an
+evolution of blogging. Not so much in terms of database structure
+(though I hear that would help,) but in terms of user interface and
+interaction.
+
+I still think this is the case. Just FYI. And I still want to use
+something that really works. And better access control would be good.
+
+Ok, blathering over.
+
+Onward and Upward!
+

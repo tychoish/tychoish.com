@@ -1,0 +1,95 @@
+============
+Build Stages
+============
+
+.. post:: 2013-07-20
+   :author: tychoish
+
+For work, I've been working on revising our build system so that less of
+the build definition happens in Makefiles and more of it happens in
+Python scripts. This post is an elaboration.
+
+I'm a complete partisan of reusing standard tools, and so moving away
+from Make felt like a big/hard jump. However:
+
+1. Process creation is expensive, and every "job" starts a new shell and
+process, which takes time.
+
+2. Most of the build logic was in Python anyway: over time most shell
+lines called Python code rather than commands directly. This seems
+like a common artifact of more complex build processes.
+
+Beyond this, the generation of the Makefiles itself was encoded in
+Python code.
+
+For our project, at least, we were indirecting through Make, sort of
+through the hell of it.
+
+3. It turns out that
+`multiprocessing <http://docs.python.org/dev/library/multiprocessing.html>`__
+in Python is crazy easy to use.
+
+The transition isn't complete of course, we're still using make to
+handle dependencies between groups of tasks, and there's no particular
+rush or need to rid ourselves of Make, but the gains are huge. *Things
+build faster* one or two orders of magnitude in some cases. There's less
+flakiness. Rebuild times are much faster, and there are fewer moving
+parts.
+
+Great win!
+
+This has me thinking about ways of doing build systems in a generic,
+maintainable way without relying on something like Make. I have a
+prototype on my Laptop at the moment that provides a way to specify
+build processes concurrently. The rest of this post will be a high level
+overview of the design of this system. Please provide feedback and
+enjoy!
+
+Build systems are basically collections of tasks expressed in a graph
+structure. The tools exist to enforce and encode the graph structure, or
+less abstractly to ensure that tasks run in the proper order. If you're
+paining a wall, the build system ensures that you spackle, apply the
+primer, and then apply the final coat, in that order.
+
+There are, as near as I can tell, three different kinds of relationships
+among/between groups of tasks in a build process:
+
+1. There are groups tasks that don't depend on each other and can run
+concurrently with each other.
+
+2. There are some tasks or groups of tasks that *must not* run before or
+after another group of tasks.
+
+3. There are sequences of tasks that must run in a specific order, but
+can run at the same time as other tasks or sequence of tasks.
+
+What Make, and related systems do is provide a mechanism to specify
+"dependency" relationships between *files* (and tasks after a fashion,)
+or groups of files/tasks. After a fashion, Make takes the dependency
+information and runs tasks more or less according to one of those
+patterns. In many ways, my project is an experiment to see if it's
+possible to "outsmart Make," by generalizing the kinds of operations and
+forcing users to specify the concurrency constraints of the tasks
+explicitly, rather than letting the concurrency emerge out of the
+dependency graph. Thoughts:
+
+-  This depends on users being able to intuit the actual dependencies
+abstractly, rather than rely on the emergence properties of Make.
+Arguably, Make also requires you to think abstractly about the
+potential concurrent modeling of the build, but allows you to avoid
+it in some situations.
+
+-  If some large portion of the compilation process relies external
+processes, the performance gains will probably be more modest.
+Process creation is still expensive, but it's probably marginally
+cheaper to use
+`subprocess <http://docs.python.org/3/library/subprocess.html>`__
+than it is to start a full shell.
+
+In addition to the basic machinery, I've written a few helper functions
+to read build definitions from a YAML file, which will produce a usable
+build system. I'll release this once: I've written *some* tests, there's
+better logging, and some basic README-level documentation.
+
+Onward and Upward!
+

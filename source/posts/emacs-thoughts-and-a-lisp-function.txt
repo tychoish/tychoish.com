@@ -1,0 +1,98 @@
+==========================
+Emacs Thoughts + Some Lisp
+==========================
+
+.. post:: 2012-07-13
+   :author: tychoish
+   :tags: emacs, programming
+
+In no particular order:
+
+Org Mode Guilt and a Lisp Function
+----------------------------------
+
+I have some guilt about having mostly forsaken org-mode, [1]_ in
+particular because I was watching `Sacha Chua's chat with John
+Wiegley <http://sachachua.com/blog/2012/06/emacs-chatting-with-john-wiegley-about-the-cool-things-he-does-with-emacs/>`__,
+and I think both are such nifty hackers, and have done so many things
+that are pretty darn nifty.
+
+I liked what I heard about ``johnw``'s org mode setup so much that I
+might give it a try again. But in the mean time, I wanted to make my
+"recompile my tasklist function" to be a bit more clean. The result is
+follows:
+
+::
+
+(defun tychoish-todo-compile ()
+(interactive)
+(if (get-buffer "*todo-compile*")
+(progn
+(switch-to-buffer-other-window (get-buffer "*todo-compile*"))
+(recompile))
+(progn
+(compile "make -j -k -C ~/wiki")
+(switch-to-buffer-other-window "*compilation*")
+(rename-buffer "*todo-compile*")))
+(revbufs))
+
+Notables:
+
+-  This is the first time I've used ``progn`` which is somewhat
+embarrassing, but it's a great thing to have in the toolkit now.
+Link:
+`progn <http://www.gnu.org/software/emacs/emacs-lisp-aintro/html_node/progn.html>`__
+
+-  I hadn't realized until now that there wasn't an ``else-if`` form in
+emacs lisp. Weird, but it makes sense.
+
+-  `Compilation
+Mode <http://www.gnu.org/software/emacs/manual/html_node/emacs/Compilation-Mode.html>`__
+is pretty much my current favorite thing in emacs.
+
+-  `revbufs <http://www.neilvandyke.org/revbufs/>`__ is this amazing
+thing that reverts buffers if there aren't local modifications, and
+also reports to you if a buffer has changed outside of emacs and
+there are local modifications. So basically "does everything you want
+without destroying anything and then tells you what you need to do
+manually." Smart. Simple. Perfect.
+
+I might need to "macro-ize" this, as I have a lot of little compile
+processes for which I'd like to be able to trigger/maintain unique
+compile buffers. That's a project for another day.
+
+Emacs Thoughts
+--------------
+
+I'm even thinking about putting together a post about how, although I'm
+a diehard emacs user, and I've spent a fair bit of time learning how to
+do really great things with emacs, there are a lot of vim-ish things in
+my workflow:
+
+-  I read email with `mutt <http://mutt.org>`__ and I've tried to get
+into GNUS, and I try it again every now and then, but I always find
+it so unbelievably gnarly. At least the transition. Same with
+`Notmuch <http://notmuch.org>`__, which I like a lot more (in
+theory,) but I find the fact that Notmuch and ``mutt`` have this
+fundamental misunderstanding about what constitutes a "read" email,
+to be tragic.
+
+-  I use a crazy `ikiwiki <http://ikiwiki.info/>`__ +
+`deft <http://jblevins.org/projects/deft/>`__ + makefile setup for
+task tracking. As (obliquely) referenced above.
+
+I might give org another shot, and I've been looking at `task
+warrior <http://taskwarrior.org/projects/show/taskwarrior>`__, but the
+sad truth is that what I have *works incredibly well* for in most cases,
+and switching is hard.
+
+-  I tend jump to a shell window to do version control and other things,
+even though I'm familiar with
+`magit <http://philjackson.github.com/magit/>`__ and ``dired``, my
+use of these tools is somewhat spotty.
+
+.. [1]
+It's not that I think org-mode sucks, or anything. Far from it, but
+how I was using org-mode was fundamentally *not* working for me. I'm
+thinking about giving it a try again, but we'll see.
+

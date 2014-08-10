@@ -1,0 +1,88 @@
+=============
+Git Resources
+=============
+
+.. post:: 2008-08-11
+   :author: tychoish
+
+Surprisingly my `last post about
+git <http://tychoish.com/rhizome/getting-git/>`__ was more well received
+than I really thought. I promised that I'd collect some of the resources
+that I found useful when switching to `git <http://git.or.cz/>`__ in a
+separate post. While this has lingered on my todo list for some time,
+I'm only now getting around to writing it. Hey, I just `write about
+productivity <http://tychoish.com/tags/productivity/>`__, I never
+claimed to be any *good* at it.
+
+I should also disclaim that I am, by no means, in full command of git. I
+mean, I use it a lot and greatly enjoy my experiences with git, **but**
+there are tons of features that I don't use that I'm clueless about.
+Just saying.
+
+If you're interested in git, try it! At the core, git does something
+that I think just about everyone who creates something with a computer
+can use: it provides a way to backup, store, and organize versions of
+your files. If you use git, or any version control software, even if you
+don't write code, even if your only collaborators are yourself working
+on different machines, you never have to worry where your data is or
+what happened to that version of the story you were writing three weeks
+ago that you deleted because you thought that the character was coming
+off to strong. It's just there, and being able to really trust your
+computer with your data is an awesome thing. Really.
+
+Anyway. Resources. Git.
+
+`Linus On
+Git <http://video.google.com/videoplay?docid=-2199332044603874737>`__:
+Linus Torvalds, better known for writing this little thing called the
+Linux Kernel, wrote git. Here he is talking to google engineers about
+git, and I think here better than just about anyone else, you can really
+get a good idea of what it is that git does. There are other videos of
+talks about git, of course, google will reveal those to you, but for the
+most basic understanding of how git works (which isn't essential, but it
+helps things make sense if they seem a little ass backwards at the
+onset), this one can't be beat.
+
+`Dream Hosting
+Git <http://autopragmatic.com/2008/01/26/hosting-a-git-repository-on-dreamhost/>`__.
+I use `dreamhost <http://www.dreamhost.com/>`__ for hosting this site,
+and I push copies of my repositories to bare repositories in a nonpublic
+directory on my account for backup and remote access. This makes for a
+much better backup plan, and with
+`git-web <http://git.or.cz/gitwiki/Gitweb>`__ everything is pretty
+swell, but that post outlines all the stuff that needs to be done in
+order to make it all work in terms of pointing origins and what not so
+that the pushes all work.
+
+If you've used `svn <http://subversion.tigris.org/>`__ before (and
+you've compiled git with svn support) `this blog post explains how to
+import your commit history to
+git <http://blog.viarails.net/2008/4/4/how-to-convert-your-svn-repo-to-git>`__.
+It's not something that you're likely to need to do *a lot* but it's
+good to know how to do.
+
+One of the great things about git is that it theoretically it allows for
+decentralized collaboration. If you have a git repository, even if it's
+not one that you started, you and a friend can
+`push <http://www.kernel.org/pub/software/scm/git/docs/git-push.html>`__
+and
+`pull <http://www.kernel.org/pub/software/scm/git/docs/git-pull.html>`__
+with each other without needing a server. `This blog
+post <http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way>`__
+explains how to do this without mucking up with security holes and the
+like.
+
+Finally, I found this just a few days ago, but
+`ticgit <http://github.com/schacon/ticgit/wikis>`__ is a cool python
+doodad that lets you store a ticketing system (as in for bug tracking
+and feature requests), inside of a branch in git. Which though not
+really a replacement for something full fledged like
+`trac <http://trac.edgewall.org/>`__, might be good to keep track of
+your own goals. I can imagine how this might be useful for todo
+management, though I haven't used it yet. Someday.
+
+Hope this helps and if you have any good links or resources I'd love to
+hear about them.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

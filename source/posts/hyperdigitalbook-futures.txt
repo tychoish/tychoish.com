@@ -1,0 +1,94 @@
+==========================
+Hyper(digital)book Futures
+==========================
+
+.. post:: 2007-04-20
+   :author: tychoish
+
+The last time I spent any great deal of time writing and thinking about
+e-books, it seemed like they were the thing of the future, and that with
+a little bit of practice, adjustment, and technological development, the
+digital text would be able to replace the printed one. This was to be a
+great thing: with production costs greatly reduced, more people could
+publish their work, with less overhead, and books could be sold for
+substantially cheeper while still increasing profit margins. Besides all
+of the technological benefits (searching, indexing, tranclusion),
+e-books had (have?) the potential to re/democratise publishing writing
+and reading. While we may yet see a system that will revolutionize the
+digital "book," it seems pretty safe to call the ebook a failure.
+Perhaps its the fault of the DRM efforts to overprotect text which
+limited accessibility, and perhaps it's the fault of the hardware
+developers to produce an affordable, open device. In any case, we're not
+there.
+
+A few friends of mine, scoff predictably at any mention of the ebook
+because they "fail to understand how people read," and while this is
+part of the puzzle, it also seems to me that they fail to understand how
+we *write*--if you're reading this, I do indeed know that the
+distinction isn't that large. I don't think it's productive to retort to
+the argument that people's attention span flies out the window when
+they're in-front of a screen, because I think we have a similar
+attention span problem with paper, the ritual of turning pages
+(literally) lets us "reset," as do the blank pages and space around
+chapter/part breaks. It's significantly easier to "chunk" and "chart
+progress" a book than it is a column of text. Writers (and editors), on
+some level, are aware of this, and can organize books destined for print
+in a way that uses these breaks to help the way that a book is consumed.
+Even though in the loosest sense a book is just a collection of words,
+the materiality of books contributes/constructs our experience of the
+words, and when you try and take the words of the book, and put them in
+a different format: it doesn't work (as well). E-books fail because we
+keep trying to simply republish p-books electronically, and keep failing
+because they're not structured or written in a form that would be
+productive.
+
+The truth is, I think, that no one really has a clue how write the
+digital equivalent of a book yet, because they aren't really books as we
+know them. We, both specifically at TealArt and the internet in general,
+tend toward shorter serializations, I think in large part because of the
+blog, but also because it's hard to expect (or want) the kind of
+devotion to blogs that people often have for books. We read books one at
+a time, sometimes we'll have our fingers in two or three, but rarely
+more than that; whereas we read dozens or even hundreds of websites
+concurrently. Digital writers need to be able to address the way that we
+approach digital reading, and while there's a lot of this that has to
+happen on the publication end, and though I don't have any empirical
+justification [1]_ for this it seems that there are stylistic concerns
+on the level of the paragraph that need to be addressed for electronic
+literature to "work."
+
+At the same time, I think there is a place for another electronic
+writing form that isn't just a translation of a book into a digital
+format, or a sort of print-lite text, but allows authors to engage with
+a subject or story in a substantive and sustained way that has more
+depth than the short forms that have already succeeded on the web. I'm
+not sure what the format would be both from a technological and
+rhetorical perspective, but I can see some sort of easily serializable
+xml formating that allows for easy paragraphical numbering, and shorter
+paragraphs, perhaps we'll call it the dbook. You heard it here first.
+
+As a corollary, I suppose, this is why I'm so interested and supportive
+of the PDF format: its basically universal, and it allows writers and
+creators to reliably control the way that a text is presented. I think
+if we're going to see viable electronic editions of print books, they'll
+have to be in PDF [2]_ format. This isn't the wave of the future in
+terms of "new media" and "new writing" but its something that needs to
+happen as part of a transition.
+
+Thanks for reading, and I'd love to hear some of your thoughts on what
+kind of stylistic concerns long form digital writing might entail, or
+your thoughts on the reading/writing experience of electronic books and
+literature. I'll be back in a week with something else entirely, I'm
+sure.
+
+cheers, tycho
+
+.. [1]
+*whadda want?* it's a blog, consider it off the cuff theorizing.
+
+.. [2]
+Project Gutenberg publishes all of their public domain texts using
+ASCII text, which while arguably the most accessible digital format,
+doesn't have a lot of the "rich" formating, or the paper-like
+qualities that you might want.
+

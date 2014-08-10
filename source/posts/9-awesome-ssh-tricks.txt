@@ -1,0 +1,223 @@
+====================
+9 Awesome SSH Tricks
+====================
+
+.. post:: 2011-03-01
+   :author: tychoish
+   :tags: software, cyborg, technology, linux
+
+Sorry for the lame title. I was thinking the other day, about how
+awesome SSH is, and how it's probably one of the most crucial pieces of
+technology that I use every single day. Here's a list of 10 things that
+I think are particularly awesome and perhaps a bit off the beaten path.
+
+**Update:** (*2011-09-19*) There are some user-submitted [[ssh-tricks]]
+on the wiki now! Please feel free to add your favorites. Also the
+`hacker news thread <http://news.ycombinator.com/item?id=3011947>`__
+might be helpful for some.
+
+SSH Config
+----------
+
+I used SSH regularly for years before I learned about the config file,
+that you can create at ``~/.ssh/config`` to tell how you want ssh to
+behave.
+
+Consider the following configuration example:
+
+::
+
+Host example.com *.example.net
+User root
+Host dev.example.net dev.example.net
+User shared
+Port 220
+Host test.example.com
+User root
+UserKnownHostsFile /dev/null
+StrictHostKeyChecking no
+Host t
+HostName test.example.org
+Host *
+Compression yes
+CompressionLevel 7
+Cipher blowfish
+ServerAliveInterval 600
+ControlMaster auto
+ControlPath /tmp/ssh-%r@%h:%p
+
+I'll cover some of the settings in the "``Host *``\ " block, which apply
+to all outgoing ssh connections, in other items in this post, but
+basically you can use this to create shortcuts with the ssh command, to
+control what username is used to connect to a given host, what port
+number, if you need to connect to an ssh daemon running on a
+non-standard port. See "``man ssh_config``\ " for more information.
+
+Control Master/Control Path
+---------------------------
+
+This is probably the coolest thing that I know about in SSH. Set the
+"``ControlMaster``\ " and "``ControlPath``\ " as above in the ssh
+configuration. Anytime you try to connect to a host that matches that
+configuration a "master session" is created. Then, subsequent
+connections to the same host will reuse the same master connection
+rather than attempt to renegotiate and create a separate connection. The
+result is greater speed less overhead.
+
+This can cause problems if you' want to do port forwarding, as this must
+be configured on the *original connection*, otherwise it won't work.
+
+SSH Keys
+--------
+
+While ControlMaster/ControlPath is the *coolest* thing you can do with
+SSH, key-based authentication is probably my favorite. Basically, rather
+than force users to authenticate with passwords, you can use a secure
+cryptographic method to gain (and grant) access to a system. Deposit a
+`public key <http://tychoish.com/ssh.pub>`__ on servers far and wide,
+while keeping a "private" key secure on your local machine. *And it just
+works*.
+
+You can generate multiple keys, to make it more difficult for an
+intruder to gain access to multiple machines by breaching a specific
+key, or machine. You can specify specific keys and key files to be used
+when connected to specific hosts in the ssh config file (see above.)
+Keys can also be (optionally) encrypted locally with a pass-code, for
+additional security. Once I understood how secure the system is (or can
+be), I found my self thinking "I wish you could use this for more than
+just SSH."
+
+SSH Agent
+---------
+
+Most people start using SSH keys because they're easier and it means
+that you don't have to enter a password every time that you want to
+connect to a host. But the truth is that in most cases you want to have
+unencrypted private keys that have meaningful access to systems because
+once someone has access to a copy of the private key the have full
+access to the system. That's not good.
+
+But the truth is that typing in passwords is a pain, so there's a
+solution: the ``ssh-agent``. Basically one authenticates to the
+``ssh-agent`` locally, which decrypts the key and does some magic, so
+that then whenever the key is needed for the connecting to a host you
+don't have to enter your password. ``ssh-agent`` manages the local
+encryption on your key for the current session.
+
+SSH Reagent
+-----------
+
+I'm not sure where I found this *amazing* little function but it's
+great. Typically, ``ssh-agents`` are attached to the current session,
+like the window manager, so that when the window manager dies, the
+``ssh-agent`` loses the decrypted bits from your ssh key. That's nice,
+but it also means that if you have some processes that exist outside of
+your window manager's session (e.g. Screen sessions) they loose the
+``ssh-agent`` and get trapped without access to an ``ssh-agent`` so you
+end up having to restart would-be-persistent processes, or you have to
+run a large number of ``ssh-agents`` which is not ideal.
+
+Enter "ssh-reagent." stick this in your shell configuration (e.g.
+``~/.bashrc`` or ``~/.zshrc``) and run ``ssh-reagent`` whenever you have
+an agent session running and a terminal that can't see it.
+
+.. code-block:: sh
+
+   ssh-reagent () {
+     for agent in /tmp/ssh-*/agent.*; do
+         export SSH_AUTH_SOCK=$agent
+         if ssh-add -l 2>&1 > /dev/null; then
+            echo Found working SSH Agent:
+            ssh-add -l
+            return
+         fi
+     done
+     echo Cannot find ssh agent - maybe you should reconnect and forward it?
+   }
+
+It's magic.
+
+SSHFS and SFTP
+--------------
+
+Typically we think of ssh as a way to run a command or get a prompt on a
+remote machine. But SSH can do a lot more than that, and the OpenSSH
+package that *probably* the most popular implementation of SSH these
+days has a lot of features that go beyond just "shell" access. Here are
+two cool ones:
+
+`SSHFS`_ creates a mountable file system using `FUSE`_ of the files
+located on a remote system over SSH. It's not always very fast, but it's
+*simple* and works great for quick operations on local systems, where
+the speed issue is much less relevant.
+
+SFTP, replaces FTP (which is plagued by security problems,) with a
+similar tool for transferring files between two systems that's secure
+(because it works over SSH) and is just as easy to use. In fact most
+recent OpenSSH daemons provide SFTP access by default.
+
+There's more, like a full VPN solution in recent versions, secure remote
+file copy, port forwarding, and the list could go on.
+
+.. _`SSHFS`: http://fuse.sourceforge.net/sshfs.html 
+.. _`FUSE`: http://fuse.sourceforge.net/
+
+SSH Tunnels
+-----------
+
+SSH includes the ability to connect a port on your local system to a
+port on a remote system, so that to applications on your local system
+the local port looks like a normal local port, but when accessed the
+service running on the remote machine responds. All traffic is *really*
+sent over ssh.
+
+I set up an SSH tunnel for my local system to the outgoing mail server
+on my server. I tell my mail client to send mail to localhost server
+(without mail server authentication!), and it magically goes to my
+personal mail relay *encrypted* over ssh. The applications of this are
+nearly endless.
+
+Keep Alive Packets
+------------------
+
+The problem: unless you're doing something with SSH it doesn't send any
+packets, and as a result the connections can be pretty resilient to
+network disturbances. That's not a problem, but it does mean that unless
+you're actively using an SSH session, it can go silent causing your
+local area network's NAT to eat a connection that it thinks has died,
+but hasn't. The solution is to set the
+"``ServerAliveInterval [seconds]``\ " configuration in the SSH
+configuration so that your ssh client sends a "dummy packet" on a
+regular interval so that the router thinks that the connection is active
+even if it's particularly quiet. It's good stuff.
+
+/dev/null .known\_hosts
+-----------------------
+
+A lot of what I do in my day job involves deploying new systems, testing
+something out and then destroying that installation and starting over in
+the same virtual machine. So my "test rigs" have a few IP addresses, I
+can't readily deploy keys on these hosts, and every time I redeploy
+SSH's host-key checking tells me that a different system is responding
+for the host, which in most cases is the symptom of some sort of
+security error, and in most cases knowing this is a good thing, but in
+some cases it can be very annoying.
+
+These configuration values tell your SSH session to save keys to
+\`\ ``/dev/null`` (i.e. drop them on the floor) and to not ask you to
+verify an unknown host:
+
+::
+
+UserKnownHostsFile /dev/null
+StrictHostKeyChecking no
+
+This probably saves me a little annoyance and minute or two every day or
+more, but it's totally worth it. Don't set these values for hosts that
+you actually care about.
+
+--------------
+
+I'm sure there are other awesome things you can do with ssh, and I'd
+live to `hear more </wikish/ssh-tricks>`__. Onward and Upward!
+

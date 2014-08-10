@@ -1,0 +1,31 @@
+========
+Wolf 424
+========
+
+.. post:: 2007-12-31
+   :author: tychoish
+
+From the Wikipedia page on `Wolf
+424 <http://en.wikipedia.org/wiki/Wolf_424>`__
+
+Due to its proximity and fast motion towards the Sun, Wolf 424 will
+brighten by more than 2% over the course of the 21st century. In
+approximately 7700 years it will make its nearest approach at a
+distance of about 1 light year.
+
+See ya in 9700.
+
+And here's a picture for your records:
+
+A light year is pretty darn close, and astronomically, 7k years isn't
+that long at all. I'm thinking someone needs to write a story.
+
+As I've thought about this some more, I've realized (with the help of
+wikipedia) that Wolf 242 is moving, relative to the speed of the Solar
+System, at 555km/s, which is almost 2 percent of light speed. [1]_
+Right? There has to be a story in this.
+
+.. [1]
+Am I the only one to think that it's really cool that google will
+calculate C, the speed of light, from the search bar?
+

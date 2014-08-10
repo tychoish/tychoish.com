@@ -1,0 +1,52 @@
+=========
+Scattered
+=========
+
+.. post:: 2008-02-19
+   :author: tychoish
+
+So--knock on wood--the good feelings remain with me. I have no sense of
+how I'll be doing come Wednesday/Thursday morning, but for now I'm doing
+well. But I can't argue with success... much.
+
+I got nearly everything on my todo list done yesterday, and perhaps a
+bit more. Weird. Now I just need to be able to do that some more.
+
+I also did a little bit of reading in the Tiptree. I'm *finally* hooked
+on this novella. I'm reading *The Starry Night* which is a collection of
+three novellas/long short stories, and it's a great deal of fun. Except
+that you have to "get into" the book, what amounts to three times. (I'm
+on the middle one.) I also read the beginning of "`The Hose Beyond Your
+Sky <http://www.strangehorizons.com/2006/20060904/house-f.shtml>`__," by
+`Benjamin Rosenbaum <http://www.benjaminrosenbaum.com/>`__ which I
+realized that I had heard on `Escape Pod <http://escapepod.org/>`__ and
+I enjoyed it both times.
+
+There was also some work that I did on TealArt. Including writing a SQL
+statement that worked really well, to provide the home page. There are a
+couple of little quirks still in the design that I want your feedback
+on:
+
+1. The permalinks on the `home page <http://tychoish.com>`__ don't work.
+2. On http://tychoish.com/blog/, and pages lower in that hierarchy the
+menu in the top corner has two links to http://tychoish.com, when
+logically the top link, should be to http://tychoish.com/blog.
+
+I think that the first issue should work itself out as there get to be
+more posts in the system (coming soon enough). And I think the second is
+a result of me using the blog with the ID #1, as the primary blog. A
+little tweaking should get me around this.
+
+But, and here's the interactive portion of the program (One of the
+things that was getting me down, before about how my blog entries were
+too... static, was that I was no longer asking questions in my entries.
+This is amends to that.) So if I have to drop specific permalinks on the
+home page do you think that would be a really bad thing?
+
+I thoughts so.
+
+Anyway, I have writing things to do. And showering. Oh Showering. So I'm
+going to go. I'll post another entry today, I *promise*.
+
+Onward and Upward!
+

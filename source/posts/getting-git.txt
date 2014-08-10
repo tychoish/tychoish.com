@@ -1,0 +1,79 @@
+===========
+Getting git
+===========
+
+.. post:: 2008-07-18
+   :author: tychoish
+
+*Backstory:* For the past year I've been using source control management
+software to manage and version all of my text files (which is where I do
+all of my writing, and most of my "real work.") I started out using
+`subversion <http://subversion.tigris.org/>`__, which is a good piece of
+software under some circumstances. This post is about my transition to a
+different system, that system, and a look at how my production is
+impacted by this switch. Only more interesting. ;)
+
+Basically here's how subversion works: it has a database, that collects
+file names and the content of the files, and then every time you tell it
+to, it takes a snapshot of your files, and stores in the database the
+difference between the current version and the previous version. Sounds
+great? It is, but here's the problem: suppose you have two people
+working on the files at once, so the snapshots that both of them are
+sending back to the database become less and less alike as time goes on.
+Secondly, it relies on file names, rather than file content to
+distinguish between files.
+
+So problems spring up when you have more than one copy in play, and when
+you have file names that can change, and while the program compensates
+for these problems, they are core problems which cannot be remedied. In
+truth, I think subversion is a great tool for people with one computer
+who are editing/refactoring code or text, but not particularly for
+people who are in the process of generating *new* code or text.
+
+Enter stage left, `git <http://git.or.cz/>`__. Which rather than
+revising subversion or another system despite it's flaws, attempts to
+solve the problem of tracking the history/changes of a given project in
+a completely different way. The system, is built around the idea of
+combining divergent codes/texts into a single whole, so the whole system
+is built around easily merging different copies of a given project,
+rather than storing the one true canonical version of a text.
+
+This means, that you can build experimental branches, tell the program
+that "now I'm going to see what happens to the novel if I turn this
+character's face blue," and edit/write with that idea for a while
+without affecting the "main strand" of your story. This means you can
+have working copies of your novel on 3 different machines, *at the same
+time,* and painlessly merge them together at whim, *and it just works.*
+Also as an added benefit git is faster by *several orders of magnitude,*
+which means it's completely viable to regularly and automatically back
+up using git over a network. This alone is an amazing feature.
+
+The down side is that, whereas subversion, uses a very centralized and
+linear model that is easily
+`grok <http://en.wikipedia.org/wiki/Grok>`__\ able by most people, git
+works in a very different way that's hard to grasp at first. Thankfully,
+these days at least, the documentation is much better. I watched a talk
+by the `creator of the
+software <http://en.wikipedia.org/wiki/Linus_Torvalds>`__, who also
+wrote something called `Linux <http://www.kernel.org/>`__, you might
+have heard about it, where he was introduced as having written a piece
+of software "so complex only he could understand it."
+
+And that's not very hard from the truth. Its a wonderful tool, and I
+*like* that it pushes me to think about my progress and work in a
+different, and productive way. All this by way of saying, some
+software--subversion, the world wide web, and windows, and os x--works
+in very predictable ways that fit with the way you think about
+information and data and ultimately the world. And then there's software
+that requires a different perspective, that isn't intuitive, **but**
+works in the most effective way to accomplish a given kind of task (like
+collaboration, or backup, in the case of git), or like efficient reading
+of websites (like say, RSS). And these paradigm shifting programs, are I
+think, terribly fascinating, both as a computer user, and I think also
+as a science fiction writer...
+
+I'll gather some resources that I've found useful regarding git, and
+post them up here soon.
+
+In the mean time, think well!
+

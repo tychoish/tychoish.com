@@ -1,0 +1,83 @@
+======================
+The Advertising Bubble
+======================
+
+.. post:: 2009-03-10
+   :author: tychoish
+   :tags: economics, politics, new-media
+
+Before I started to write this article I heard two pieces of news.
+First, that the economy of Latvia had failed as part of the ongoing
+depression. Second, that the American Government was going to provide
+subsidies to hedge funds (!) to promote a revival of the financial
+services industry. The mind boggles, to very different degrees at both
+of these stories. Like this whole depression, it seems clear that the
+core issue is that `economies based on inauthentic exchange of
+value <http://tychoish.com/rhizome/is-there-any-there-there/>`__ are
+prone to failure: the act of moving money from hither to thither doesn't
+create value, even though paper values rise. That's a bubble.
+
+There are a lot of these, of course, the bubble under my lens today is
+the advertising bubble.
+
+It seems to me that advertising, is really minimally effective, or
+accidentally effective at any rate. Our world is submerged in
+advertising, and yet we spend a great deal of time ignoring it: we use
+DVRs to skip commercials, we install ad-blocking plug-ins on our
+web-browsers, we instinctively tune out advertisements and have grown so
+acclimated to the presence of advertising that we ignore ads. If
+advertising is effective it is only effective incidentally.
+
+And yet, we've built (albeit faltering) economies around advertising.
+The first dot-com burst was due largely to the fact that advertising
+revenue couldn't support dot-com business model. The Web-2.0 bubble
+hasn't been entirely advertising driven, but that's a huge part of the
+equation (eg. google), and particularly for content (rather than
+service) driven websites.
+
+The thing is that advertising seems like a great way to support the
+content industry (such as it is): we have practices to separate it from
+editorial content, it provides a revenue stream, it's easily integrated
+into our designs, we know how to buy and sell it. But because it doesn't
+really work (at anything beyond generally raising the profile of a logo,
+possibly), and advertising money dries up when the economy dries up: so
+it's not exactly a robust business model.
+
+The problem, is that there's not a lot of good models for content-based
+services to operate under. Subscriptions don't often work because the
+threshold to commitment is high, and unless you already have an
+audience, it's hard to convince people to pay subscription fees.
+Micropayments, and tip jars where you expect a lot of people to give a
+very little in support of your site, often suffer from the same problems
+as subscription models in practice.
+
+The solution?
+
+Well there isn't one, exactly, so I'm really excited to see what happens
+in the next couple of years. My gut instinct is that the following two
+factors are important:
+
+1. Content on the Internet should be a hook into some other revenue
+generating scheme. Consult, coach, be an academic, publish books,
+sell relevant stuff, and so forth. This works, it can certainly be
+overdone, or done poorly, but blogging is a great way to prove to the
+world (and yourself) that you know what you're talking about, and
+that you're an interesting, creative, and committed thinker and
+worker, worthy of their investment in other contexts.
+
+2. There should be less content on the Internet. Part of the problem is
+that since everyone *can* have their own website, in most cases
+*everyone* does, and while this is great for the democracy of the
+web, it means that there's way more competition (for eyeballs, for
+advertising money) than there needs to be. The end result is that
+audience is way too divided. The solution: group blogs and more
+curated content. It's still possible for people to present individual
+streams of content, and use personal sites for profiles, but in the
+*age of the niche* and the post-advertising age, working in groups is
+the way. I'm convinced.
+
+More thoughts on this, particularly the second point to follow, of
+course.
+
+Onward and Outward!
+

@@ -1,0 +1,36 @@
+====================================
+foleo: the new/old mobile computing?
+====================================
+
+.. post:: 2007-06-25
+   :author: tychoish
+
+My friend `Jeff Kirvin <http://www.jeffkirvin.net>`__'s website require
+registration for commenting, so because I'm lazy I'm going to reply to a
+couple of things here:
+
+Secondly--and this follows right from my `last
+response <http://tychoish.com/tychoish/2007/06/mobile-device-useage/>`__--Jeff
+posted about the
+`Foleo <http://www.jeffkirvin.net/2007/05/30/foleo-are-you-freaking-kidding-me/#comments>`__,
+a new laptop-replacement/mobile device from Palm Inc.
+
+Jeff panned the concept, and I think in a lot of ways he's right--from
+the geek perspective. Folks like us--geeks, off-label users--wouldn't
+have a lot of use for something like this, we'd either take a laptop, or
+be content with the smaller device. And the price is really quite high.
+I'm not sure how businesses will take to this device. It's hard to say.
+I won't be getting one, that's for sure; but I think the concept is a
+pretty neat one.
+
+When apple stopped producing 12 inch laptops, a lot of people cried out
+in anguish(!), and one of the most persistent rumors in mac-land for
+many years has been a tablet/sub-notebook kind of computer. Something
+thin: no CD drive, solid state storage, a good keyboard, good battery
+life, etc. And the Foleo has wi-fi, so really, what more do you need?
+
+The Foleo sounds a lot like this dream product, so at least the concept
+for the Foleo, is a keeper, even if the implementation sucks. Frankly
+I'd be a lot more comfortable if it were running a flavor of OS X (over
+a Palm OS flavor) but such is life.
+

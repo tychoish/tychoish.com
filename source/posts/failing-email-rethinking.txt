@@ -1,0 +1,56 @@
+=========================
+Failing Email: Rethinking
+=========================
+
+.. post:: 2007-09-08
+   :author: tychoish
+
+.. raw:: html
+
+<div style="text-align:center;">
+
+.. raw:: html
+
+</div>
+
+My email management system is a failure.
+
+I have a lot of email addresses. I even have a text file that shows how
+all these address' are routed so that I don't end up forwarding messages
+from one address to itself after passing it through three steps, which I
+have done before.
+
+The hub of my email email system relies on a gmail account that I never
+really use, that keeps most of the archive under control, and has an
+arcane set of labels and filters. This isn't an address I really use.
+All of the important email addresses (the @tealart.com and @tychoish.com
+ones; are forwarded into another gmail account, that's really just a
+pipe, but it's also the google account that I use the most, and my
+primary jabber account.)
+
+Operationally, most of my day to day email, goes through my
+RealFirstName@tealart.com account, and I do almost all of this in
+Mail.app, apple's email client, and I don't really ever use web-mail,
+because I have this amazingly craptastic system of filters and rules
+that need to be revised, and I don't have a web-mail account that I can
+comfortably live in, although, a few months ago, I might have said that
+this was because I always had my laptop with me, and liked the comfort
+of offline apps, now I feel like having a bit of extra flexibility would
+be a good thing.
+
+This is a pretty big project that would require me to do a number of
+things to straighten things out:
+
+-  Deal with archiving my email. ie. taking existing emails and
+exporting these emails into a plain text format that I can grep
+through when I need to. Store these text files externally.
+-  Reorganize system to rely more on search and less on a complex and
+deranged file system, more or less modled on gmail's "Stared,"
+"Inbox," and "Archived" Model, using smart folders to take care of
+day to day operation in Mail.app.
+-  Create a revised system of filters, that can sort my mail effectively
+with only a few simple filters. Implement these filters in both
+Mail.app in the new gmail account.
+
+*Sigh*
+

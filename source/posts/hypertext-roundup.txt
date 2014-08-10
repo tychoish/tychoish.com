@@ -1,0 +1,44 @@
+=================
+Hypertext Roundup
+=================
+
+.. post:: 2007-05-18
+   :author: tychoish
+
+Initially, it seems that the term "hypertext" served as general
+classification for any kind of dynamic text with "hyperlinks" (which of
+course we just call links these days). In 2007 (as opposed to 1987),
+hypertext is ubiquitous, and we're constantly interacting with
+hypertexts, to the point that it's just "the web" or "text," and "links"
+are assumed to be intuitive at this point. As a result, the main time I
+hear someone say hypertext these days, they're artists exploring the
+creative possibilities of the medium separate from normal (relaxed?)
+text. That wasn't my intention, and thus the reason I said
+"hyperdigitaltext," the expressive possibilities aside, I'm interested
+in the day-to-day practices of consuming and producing digital-text, and
+in a lot of ways, this series is a trip back to the first usages of
+hypertext in an attempt to think about might happens next.
+
+Not being, you know, psychic, I'm not sure how successful this project
+has been. But in any case, it I have enjoyed the space to think about
+these issues, and I hope that you have too. This is just a roundup post,
+a sort of directory of the hypertext posts on Tealart for your
+referencing pleasures.
+
+-  `Wiki
+Hyper(digital)text <http://tychoish.com/rhizome/wiki-hyperdigitaltext/>`__
+-  `Hyper(digital)book
+Futures <http://tychoish.com/rhizome/hyperdigitalbook-futures/>`__
+-  `Publishing
+Hyper(digital)text <http://tychoish.com/rhizome/publishing-hyperdigitaltext/>`__
+-  `Writing and Producing
+Hyper(digital)text <http://tychoish.com/rhizome/writing-and-producing-hyperdigitaltext/>`__
+-  `Reading And Consuming
+Hyper(digital)text <http://tychoish.com/rhizome/reading-and-consuming-hyperdigitaltext/>`__
+-  `Intro to
+HyperText <http://tychoish.com/rhizome/intro-to-hypertext/>`__
+
+I'll be back next week with the introduction to the next Friday series!
+
+Best, tycho
+

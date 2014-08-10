@@ -1,0 +1,72 @@
+===================================
+Sys Admin Legacies in Free Software
+===================================
+
+.. post:: 2010-12-09
+   :author: tychoish
+
+I was writing a blog post about `the ideological tendencies in free
+software </2010/11/ideology-and-systems-administration>`__ and I found
+myself on a side note that I think *really* wants to be it's own post.
+Funny how that happens. I was thinking about the role and importance of
+system administrators in free software communities and development. This
+post is part of an ongoing thread on *dialectical futurism* about
+systems administration and its implications.
+
+One might think, because free software communities produce software,
+that free software communities are communities of software developers.
+Programmers make software, free software is software, ergo... But I
+really think that a significant differentiating factor between free and
+non-free software is that free software tends to be created, shaped, and
+designed by people who are systems administrators by trade and
+inclination rather than people who are primarily software developers.
+
+This is a somewhat difficult argument, and one that requires us to
+presume that the boundary between developers and administrators is
+impermeable (it isn't,) but I think people who are programmers first and
+administrators second approach technological problems. Systems
+administrators write code. Lots of code. Any system that must be
+administered (deployed, modified, and maintained) "by hand" is probably
+a broken system. Scripting and automation are the keys to making systems
+maintainable in the long run. And the boundary between writing a few
+(dozen (dozen)) scripts and writing an operating system is probably not
+that great in the grand scheme of things.
+
+And knowing how operating systems work is probably a key to *making*
+them work. In this case, we can imagine that systems administrators like
+open source operating systems (i.e. Linux and GNU based ones) because
+their inner workings are knowable, so system administrators are likely
+to reap much larger benefits from free software than other classes of
+users.
+
+I've often found that understanding the richness and complexity of the
+"value" of Free Software and Open Source software is important for
+understanding why free software continues to exist and may be worth
+adopting. The value of free software comes from: the fact that there are
+no licensing costs, the freedom you have to modify the software to your
+needs and potentially largely ameliorate development costs, finally free
+software is valuable because it creates smarter users by virtue of its
+origins in academia and the way that it promotes user independence and
+community involvement.
+
+Business decision makers might like the fact that the initial cost of
+free software is minimal and controlled, but most software related costs
+are probably support related and free software may not do much to
+minimize those costs. Developers may like that free software could make
+their jobs easier, but they may also suffer from "not invented here"
+syndrome, and be resistant to working on projects that (potentially)
+suffer from design decisions that they disagree with. Systems
+administrators may have preferences regarding certain pieces of
+software, but will generally like the additional control that free
+software offers them.
+
+I wonder about the inverse: has the involvement of systems
+administrators in free software had an affect on the shape of that
+software? Do we use Linux and BSD-Unix because they're easier to
+administer? Does this extend to the network protocols and technologies
+that get used more frequently?
+
+Let's file this under "questions I wish I knew how to answer..."
+
+Onward and Upward!
+

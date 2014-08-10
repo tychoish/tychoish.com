@@ -1,0 +1,94 @@
+============
+Calendar-ing
+============
+
+.. post:: 2008-10-17
+   :author: tychoish
+
+I remember once in high school (lets call this 2003/04) I bought an
+8.5x11 paper calendar. This was after the age of PDAs (indeed I think I
+*had* a PDA at that point), and damned if it wasn't the best calendaring
+experience I'd ever had. I kept track of things, I knew what was going
+on beyond the obvious, it was pretty good.
+
+Other than that, I've not really (until now) used a calendar in my day
+to day work. I have a good memory, and pretty simple commitments, so
+it's never been a big deal, and most calendaring tools kind of suck.
+Actually, really suck.
+
+Now mostly, I could care less, except I have this job now, and the
+scheduling is really complex. I have meetings with clients, I have
+intra-office meetings, there are things I have to schedule with other
+people. It's intense. So I've been trying to figure out what to use, how
+to connect with other calendars, and generally how to make it all work.
+I'll tell you what my uneasy solution has been, but I'd love to hear
+what you use.
+
+Chandler
+--------
+
+The `Chandler Project <http://chandlerproject.org/>`__ is a really
+pretty darn interesting open source program. It's written all in python,
+it's designed for collaboration and uses all the open standards. It has
+a really interesting and useful tagging system. It has a feature-loaded
+(and not annoying!) web interface that compliments the desktop
+experience.
+
+And despite this it's kludgey. It's not peppy, it uses it's own
+paradigm, and like all multi-platform software, it ends up looking just
+a bit foreign on all OSes (though I've not worked very much with it on
+linux, so to be fair, it might seem less out of place.)
+
+Still, Chandler has become my "home" Calendar Application. There's
+something nice about the way that it syncs to `Chandler
+Hub <http://hub.chandlerproject.org/>`__, and all the cool things I
+mentioned above. And I like it's dashboard a lot. When I started doing
+this job, I went from being able to handle a month's appointments on an
+index card (or equivalent) to having to having to keep track of tasks
+and meetings in at least 3 time zones, and Chandler gives me enough
+flexibility and power to be able to do this without getting in the way.
+
+ICS format
+----------
+
+I think the last time I tried to use calendars on the computer, it was
+before people were seriously using a standard format. So you'd spend a
+lot of time putting your data into one program, only to have it die a
+horrible death, or discover something *even better* and then be stuck in
+your old program. Not so any more the .ics format is used by (nearly)
+all programs and by google calender so you can subscribe and sync
+calendars to your hearts content and it will all work. In all of your
+programs. Which means, you don't need to chose the ideal calendar
+program, as long as it supports .ics files.
+
+iCal
+----
+
+I've had a pretty tortured relationship with iCal, Apple's stock
+Calendar program. In previous versions of the OS it used to be really
+crappy. And while it's much better now, there's nothing special about
+it, and it's just a bit too hard to use it to enter events, and it's
+task management is farcical.
+
+Having said that it looks really good. Before you laugh at me and call
+me an apple fanboy allow me to be clear: data visualization is 60%-75%
+of a good calendar program (with the rest being performance and data
+entry/manipulation). The whole point is to be able to see what's going
+on throughout your day/week at a glance. Good visuals are key.
+
+The great thing, is that with Chandler Hub / Google Calendars and the
+.ics format, you can use both programs and still keep all your data
+together pretty seamlessly
+
+Ideals
+------
+
+Like I mentioned earlier, I'm open to hear what other people use. At
+least for the moment I'm reasonably happy with what I have. It might be
+nice to have better command line access to be able to quickly review
+upcoming appointments and enter new tasks, but that's mostly a pipe
+dream. Is there something I should be looking for that I don't know?
+Other cool OSS projects that I've missed?
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

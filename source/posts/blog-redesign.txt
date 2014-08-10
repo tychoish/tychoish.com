@@ -1,0 +1,88 @@
+=============
+Blog Redesign
+=============
+
+.. post:: 2009-01-28
+   :author: tychoish
+
+I've mentioned that I'm in the process of doing a somewhat lengthy "blog
+redesign" project of tychoish.com. The astute among you, who don't visit
+via RSS, will probably notice at least a little bit of a change
+recently, but I think there's more in mind. While I resist the
+temptation to write lists in my posts, I think I'm going to give in
+*just this once.* ;)
+
+What I hope to accomplish in this redesign.
+-------------------------------------------
+
+I want to have a home page that's more dynamic. I think the fact that
+the landing page looks the same as *every other page on the site* is a
+sore spot for me. I want to go for a site that has:
+
+-  A list of recent essays
+-  The most recent essay
+-  Excerpts from a couple (2) other recent entries
+-  Links to other Blogs
+-  Several (3-5) recent coda posts.
+
+In general, I think that the landing page should provide a good gateway
+to what's happening on the site, it should be dynamic and simple. It
+should load fast, and it should be more "clean." I'm also considering
+digging up some AJAX bits so that I can have a couple of design widths
+(so that I can avoid variable width designs) and also have a dynamic
+browser for, say the excerpts of recent posts, and the coda posts.
+
+I also want tychoish to be less of a blog, and more of a host to
+different/additional kinds of activity. Like I'll probably host a wiki
+here for the research I'm working on with open source, and I think it
+would be fun to make some conceptual space on the site for something
+other than *just another blog*, and see what happens. Given the shape
+that my "career" is headed, I think this has some pretty interesting
+possibilities.
+
+How I plan to accomplish this redesign.
+---------------------------------------
+
+Slowly.
+
+The first order of business, is to start to play with the templates and
+design *before* I switch to some new system. I think trying to juggle a
+smooth transition with two balls in the air is just an invitation for me
+to screw things up royally.
+
+The basic template for blog pages, will probably linger for a while
+longer than the front page, and that's fine. I'm kind of fond of the
+site. It's functional, it's simplistic and very "old school," which
+suits me just fine.
+
+Steps towards implementation:
+
+1. Write additional CSS classes to describe a new layout. Including
+rounded corners. (Grrr.)
+2. Create JavaScript enhancements that make the site pop a bit, while
+also making the vast quantity of text more digestible.
+3. Create template files for wordpress to facilitate the export to the
+new system.
+4. Create staging area(s). For testing purposes.
+5. Move to a host that gives more administrative rights.
+6. Profit?
+
+Why this is a good thing.
+-------------------------
+
+My hope is to make my blogging system/environment much more modular, so
+that I can add and modify it more easily. The CMS's I was using 5 years
+ago where much more along these lines, and while I didn't know what I
+was doing very much I did appreciate that level of control.
+
+To say "I want a more modular and dynamic" website sounds a bit trite,
+but I think it's the most true. If the site's more modular, that is, if
+template organization and content display (which are the same thing with
+WordPress) are less connected, I think I'll be able to have all the
+benefits of "dynamically generated pages" without the overhead of the
+database system. And if that's the case, then my relationship to the
+content of the site isn't via a constrained text field in one system,
+which I think will be a good thing, indeed.
+
+Or I hope, at least.
+

@@ -1,0 +1,97 @@
+===========
+Moving Type
+===========
+
+.. post:: 2004-05-17
+   :author: tychoish
+
+*SAM*: Hi, my name is Sam. *ALL*: Hi Sam. *SAM*: I've used Moveable
+Type. *ALL: (gasps)* Screw this, we're leaving.
+
+Yes that's right, I've used Moveable Type. Briefly. It was in-between my
+usage of Greymatter and my decision to move to the PHP/mySQL goodness of
+b2. During the CA phase of, "lets get a bunch of people who are
+interested in writing to write a quick weekly or bi-weekly...
+
+*Bi-annually, is twice a year, semi-annually is every other year.
+But then, bi-weekly is every two weeks. Right? Well that's what I
+mean. Or is it semi-annualy? Arrrg. Anyway, you now know what I
+intended, I'll get back to the story.*
+
+column about something they're interested in. Graphic Design/3d image
+modeling, current events, birds, the craft/business of writing, you
+know, the shtick. Anyway, Greymatter was basically what I needed and I
+even tried to set it up that way, except Greymatter makes a really
+horrible multiple site solution, and MT was just beginning to gather
+steam as a useable decent CMS.
+
+Now I was predisposed to Greymatter, and I really liked the system, so
+MT wasn't entering a fair playing field. I should mention that, at the
+time I switched to MT, I'd already tried to install it a few times, and
+had a problem with my host not having the right Perl modules. And the
+time I ended getting it installed successfully, the installation process
+was far from useful. And the interface was COMPLICATED, like you have no
+idea. There was only one level off the main Menu in Greymatter, and I
+couldn't cope. Lets understand, I was trying to do far too much for any
+sane website, but it was still a large pain in the ass, and the fast, go
+in post an entry and leave again philosophy wasn't applied. So I must
+say it didn't do much for me.
+
+At this point I started to read about b2, and was really impressed with
+all that php and mySQL had to offer. And dynamic page generation seemed
+like a great idea. This was before MT had mySQL option (which is another
+reason the installation was so hellish). The truth is that most small
+sites would benefit from dynamic page generation, flat files only become
+really necessary for high traffic areas, like the main index page. There
+is absolutely no reason individual entry and comment pages need flat
+file generation. Especially when you have hundreds of entries. This
+remains one of my largest complaints about MT.
+
+So I moved on to the simpler and ultimately more effective b2. Which was
+just a stone throw from our current Quarto setup.
+
+One of MT's biggest claims to fame is that it's the CMS that really can
+do everything and the kitchen sink. And that's wonderful, and because of
+this, it's become the weblog system of choice for millions of users. The
+thing is that it's totally overkill. The flat file complaint is
+emblematic of the larger problems with the system: it's designed for
+situations that 98% of it's user base will never touch. Before I get
+further into this, let me give you a basic explanation how a very
+simple, but exceptionally functional and brilliant, CMS (like the one
+we're using) works. A script creates secure user interfaces, which
+allows users to post, and edit previous posts (and do some other stuff).
+All information is stored on a database. The output is completely
+separate and is determined by the user of the CMS, not the coder. It
+means the user base needs to know some PHP, or use basic templates
+created by the coder. This means that the user can literally do anything
+with the content that he/she wants, and it's as separate from the
+backend.
+
+B2 and its offspring work the same way, except that the display
+functions are more solidified. The end result? It's the same thing,
+except the b2 creator was being a little nicer to his users.
+
+MT is not like this. At all. I don't think it's even intended to be used
+on personal blogging sites. Or, more properly it shouldn't.
+
+So this big hubbub about the new licensing scheme and the new version
+are passé. I mean there are better options out there so I think the
+whole thing is a non-issue. Now I think the licensing scheme is a pain.
+They attracted this great following, because they were free, and then
+they're throwing commercial-for-profit level prices at a bunch of people
+who probably aren't going to pay. Lets look at Trillian, they went to a
+paid model, but they left the old version up as being free, and honestly
+the old version was pretty damn good.
+
+That would have been a good option. I think the model they're using
+right now is a bit flawed, more because I don't think there's a market
+for an application like MT, no matter how good and kitchen sink-esque it
+is, in the commercial web design market. But then some people bought
+Userland Radio, which surprises me. Go figure.
+
+Anyway, I still like the system we have, and while I am dying to get an
+update that will hopefully have better comments, and track backs, that
+is on me. All that by way of saying, honestly the plight of Moveable
+Type and SixApart, doesn't really bother me terribly, Anyway. I think
+I'm done here. How's that for no conclusion?
+

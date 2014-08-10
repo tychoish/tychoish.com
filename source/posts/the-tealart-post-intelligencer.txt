@@ -1,0 +1,69 @@
+==============================
+The TealArt Post-Intelligencer
+==============================
+
+.. post:: 2007-07-30
+   :author: tychoish
+
+Good Monday!
+
+I hope that you weekend was productive and restful. I think I was able
+to get a lot done and still have some time to relax and knit. I've been
+working on a sweater that I'm using a different sort of construction
+method (and modality, really) than I often do, and it's taking a fair
+bit of brain power to keep things straight, but I think I've been
+neglecting my knitting for a while and it's certainly interesting to see
+how I function (or don't) in its absence. Thankfully it doesn't take a
+lot of knitting time for me to get refreshed. I think I've managed the
+distinction between dedication to my craft and obsession.
+
+In terms of TealArt this week, I'm inclined to say that "we're back!"
+But then I realize that you probably haven't noticed much, because I've
+been covering my tracks pretty well. I've been pretty low on writing
+mojo, and/or I've been spending writing mojo in non-TealArt places:
+knitting patterns, *Station Keeping* projects that won't go live for a
+year, and so forth. I was able to get my act together this weekend and
+get some content ready for this week.
+
+There will be *Station Keeping* this week, as you've grown accustomed
+to. Though I think it is worth mentioning that we're drawing close to
+the end of our first season: next week, I think, we'll start getting
+ready for the finale. Which means more Station Keeping for a few weeks.
+When we're done, we'll be on hiatus for about a month, while we get
+ready for the second season. Have no fear, there'll still be *SK*
+related content, just no stories for a while so we can collect
+ourselves, and figure out where we're going.
+
+There is of course another encounter in "Better Living through Regular
+Expressions in the land of  [1]_:" Pure joy. I have a call for you, If
+you have a regular expression form or template that you've written for a
+script or that you use in your day-to-day life, send it in to me and
+I'll see if I can forward it to the guys ([GH]) and we'll see what we
+can do with it.
+
+Which brings me again to promote my nifty
+`particpation <http://tychoish.com/particpate/>`__ page, which you might
+be interested in checking out if you want to contribute to *Station
+Keeping,* or any other part of TealArt. We're a group project, and that
+means having a group and a community is of great importance to the site.
+Just so you know.
+
+On Thursday, I'm posting the long awaited sequel to one of TealArt's
+enduring classics; and I have, of all things, a post about creativity
+and productivity for friday. I hope you'll enjoy.
+
+Anyway, I have to get ready for work, but I've gotten a renewed interest
+in `twittering <http://www.twitter.com/tychoish/>`__ of late, and for
+the up to the minute tycho, this is probably the place to check things
+out. Twitter's are of course collected for a time in the site sidebar.
+
+I'll see you all around. Be in touch!
+
+Cheers, tycho
+
+ps. The new job that Chris talked about a while ago starts today, if I'm
+counting right. Huzzah for him--and good luck.
+
+.. [1]
+GH
+

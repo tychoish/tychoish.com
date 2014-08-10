@@ -1,0 +1,52 @@
+=====================
+on package management
+=====================
+
+.. post:: 2009-07-13
+   :author: tychoish
+   :tags: arch-linux, open-source, systems-administration
+
+I was writing my post on `distribution habits and
+change <http://www.tychoish.com/2009/07/distribution-habits-and-change>`__,
+and I realized that I some elaboration on the concept of package
+management was probably in order. This is that elaboration.
+
+Most linux--and indeed UNIX, at this point--systems have some kind of
+package management:
+
+Rather than provide an operating as one-monolithic and unchanging set of
+files, distributions with package management provide systems with some
+sort of database, and common binary file format that allows users to
+install (and install) all software in a clear/standardized/common
+manner. *All* software in a Linux system (generally) is thus, covered by
+these package managers, which also do things like tracking the way that
+some packages depend on other packages, and making sure that the latest
+versions of a package are installed.
+
+The issue, is that there are lots of different ways to address the above
+"problem space," and a lot of different goals that operating system
+designers have when designing package management and selecting packages.
+For instance: how do we integrate programs into the rest of our system?
+Should we err on the side of the cutting edge, or err on the side of
+stability? Do we edit software to tailor it to our system/users or
+provide more faithful copies of "upstream sources"? These are all
+questions that operating system/distribution/package managers must
+address in some way, and figuring out how a giving Linux distribution
+deals with this is, I think, key to figuring out which system is the
+best for you, though to be fair, it's an incredibly hard set of
+questions to answer.
+
+The thing about package management, is that whatever ideologies you
+choose with regards to what tools you use, what packages to include and
+how to maintain packages, the following is true: *all software should be
+managed by the package management tools without exception.* Otherwise,
+it becomes frighteningly easy for new versions of software to "break"
+old non-managed versions of a piece of software with overlapping file
+names, by overwriting or deleting old files, by loading one version of a
+program when you mean to load another version, by making it nearly
+impossible to remove all remnants of an old piece of software, and so
+forth, or just by making it hard to know when a piece of software needs
+to be updated to a new version for security fixes or some such.
+
+I hope that helps.
+

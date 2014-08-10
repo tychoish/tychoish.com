@@ -1,0 +1,76 @@
+===================================
+In Favor of Group Blogs and Efforts
+===================================
+
+.. post:: 2009-03-25
+   :author: tychoish
+   :tags: cyborg, new-media
+
+I wrote in "`The Advertising
+Bubble <http://tychoish.com/rhizome/the-advertising-bubble/>`__\ " that
+one of the ways to more effectively monetize content and "do better on
+the Internet," was to combine efforts with other content producers. The
+key thought here is that, people only have so much time, and cooperation
+can allow you and your fellow content producers to pool resources,
+readers' attention, and business strategies.
+
+I've also thought of this post as the "just because Wordpress, can be
+installed in a handful of minutes doesn't mean you should," post. The
+tools (and skills) required to build websites are fast, easy, and
+non-technical (by now) so that anyone can have a blog, or a website, or
+(hell, with enough time/money) a full fledged social networking site to
+rival digg or facebook. Just because sites are easy to build, it doesn't
+mean that we need to build new sites. Just because independence is
+possible, it's not always called for.
+
+There are a lot of readers on the Internet, but there are only so many
+hours in the day. And having a dynamic site with new content, is
+something that requires a *lot* of work. Lots of people can pull it off,
+but a lot of people (with really good things to say) can't. This is sort
+of the dirty underbelly of the fact that the Internet (and open source)
+is a great democratizing force: because everyone speaks easily and
+freely, the challenge to being heard isn't opportunity, it's shear
+volume.
+
+I talk with a lot of people about working with the Internet, about using
+the internet to promote and build various kinds of projects, about
+blagging, and about strategies for success. There are things that I can
+help people do better like having good designs, writing top heavy
+content (I'm bad at this), ideas for more content, strategies for
+posting regularly, places to network with the communities that you hope
+to speak to, and among other tactics. All of these things *should help*
+lead to success; but beyond persistence, creativity, good timing, and a
+little entropy I have no good way of beating the "volume problem," given
+current conventions.
+
+The solution of encouraging group blogs rather that individual blogs is
+a good start. Each bloggers' responsibility to any given site is much
+lower than a single blogger's responsibility to their personal site.
+There would be fewer (new) blogs as a result of the increase in
+collaboration, and possibly a consolidation of existing blogs. We would
+also expect to see blogs more tightly focused on niches rather than
+individuals: niche focuses tend to do really well on the web with
+regards to targeting audiences, so this is a good thing indeed.
+
+Before anyone cries that I'm trying to suppress individuality (or
+expression, or identity), this is very much not the case. I think static
+websites are really important, my suggestion isn't that people shouldn't
+have *websites* it's that they shouldn't *blog* on them (by default).
+Given the state of syndication and aggregation content, it's even
+possible for folks to have personal websites that aggregate their
+content from a number of different sources, [1]_ we get individuality
+and dynamic content without dividing efforts or audiences.
+
+There are other solutions (curation springs instantly to mind) to the
+"volume problem," and I'll get to those soon. In the mean time,
+remember: group blogs are the future.
+
+Onward and Outward!
+
+.. [1]
+Think of the aggregated personal website as being the inverse of
+services like `ping.fm <http://ping.fm>`__, which blast your content
+to a host of different websites, the personal website should rather
+aggregate content and conversations from other websites into one
+location.
+

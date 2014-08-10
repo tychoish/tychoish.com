@@ -1,0 +1,141 @@
+============
+Blog Refresh
+============
+
+.. post:: 2009-01-02
+   :author: tychoish
+
+I have a semi-long standing tradition of doing a little refresh of my
+blog/website during the week before new years. Obviously I didn't make
+it this time, but I'm starting to think that it's about time for me to
+do something different anyway. And because I have to think through
+everything beforehand on the blog, I thought I'd collect a few thoughts
+here.
+
+When I started tychoish.com, I was running a site at tealart.com [1]_
+which was supposed to be a big umbrella site for a lot of projects, and
+I started tychoish as a place to collect regular thoughts and blog in a
+more "bloggy" sort of way. I felt at the time that TealArt (TA) had
+become too much of a magazine, and not light hearted enough.
+
+When I gave up on TA, as it were, I was displeased with where the site
+was going and I felt like I needed a fresh start. I got that, and for
+all it's ups and downs, I'm really pleased with were tychoish has taken
+me. So this redesign isn't about needing to fix something that's broke,
+as much as it is to provide the opportunity to expand and explore
+additional options.
+
+I am, admittedly a bit worried about expanding the focus of tychoish so
+that I open myself up to the "scope" problems that I had with TA.
+Nonetheless I'm not thinking about fundamentally changing what I do or
+what I write about, but more some look-and-feel modifications that would
+take this site from being "just another blog" to a "big tent" that would
+cover a lot of personal projects.
+
+Because I'm a geek and my day job deals a lot with content management
+strategies, I'll start first with the way I envision the new landing or
+"front page" and then think about the technological solutions that I
+envision for this purpose.
+
+Rather than have tychoish.com point to a blog, I think a sort of dynamic
+page that presents some content and links to other sub-sites (and more
+content), and has a layout that's different from other pages of the site
+is the way to go. I want to have the most recent "esssay" (my typical
+blog posts) an excerpt from the next essay, and then a list of links to
+the next 5 or so posts. I also want to have a few posts from the coda
+sub-blog, (longer forum microblogging and more "journal"-type posts).
+
+I'm also thinking that it would be nice to include archive navigation,
+search, and other information that's now in the upper-right of the site,
+in the bottom, in a
+"`hemmingway <http://warpspire.com/hemingway/hemingway-for-wordpress/>`__
+style" footer. I think that I could probably also link to and pull in
+content from other parts of the site, that represent projects that don't
+quite exist yet. I've been working on the foundations of a wiki-project
+that would be a resource collection for scholarship on open source
+stuff, and I think it would be good to pull in links to critical
+futures, and other projects. The blog would still live here, but other
+projects would as well.
+
+Deeper in the site, the pages might look reasonably similar to the way
+that they do now, but those pages are mostly shorter anyway. One of my
+fears is that the entry page has too much content and not enough
+context, and I think by re-flowing the layout the site might make more
+sense. While the "wordpress-esque" look gives sites context, I'm not
+sure that it's the right context for tychoish. More deliberation and
+feedback on this is encouraged.
+
+As for the backend, I'm toying with giving up Wordpress. While I've used
+wordpress for four years now (and I used b2/wordpress for a couple years
+about six or seven years ago; after using a custom CMS that
+`Amy <http://www.domesticat.net>`__ wrote for a couple of years), I'm
+starting to think that it's not quite right for what I'm trying to do.
+
+I've realized that I need to write a post about monolithic and
+microkernel approaches to web-content management, I'm starting to think
+that tychoish isn't so much a site that needs a unified content
+management system, but rather a site that needs to be able to flexibly
+pull together content from a lot of different, but related, sources. I'm
+not talking about aggregation in the way that "tumblelogging" pulls
+together diverse connect, but more like I don't need one content
+management system that can generate my *entire* website. I'm pretty
+technologically adept after all, and I don't need a piece of software
+designed to "make my life easier" that doesn't quite conform to the way
+that I work.
+
+So I mentioned last week that I was thinking about using a tool called
+"`Jekyll <http://github.com/mojombo/jekyll/tree/master>`__\ " to power
+the essay section. I'm still following that train of thought, albeit
+slowly. Given that wordpress can import from RSS, I feel pretty safe
+that I won't be locked into anything. Truthfully the main thing I need
+to think about hacking in is possible support for multiple authors
+(easy, I just need to do some reading) and figuring out a way to draft
+posts (easy, just have a local branch, I think), and cue up posts for
+timed release (harder.) I've gotten to use post scheduling a fair bit in
+the last couple of months, and I could be convinced to not schedule
+posts except for times when I want there to be content and I'm not home.
+
+Critical Futures will stay with Wordpress because while I think I can
+handle a much more ad-hoc website, if Critical Futures ever gets another
+editor I wouldn't want "massive UNIX chops" to be a required skill.
+
+So here's a list of things that I need to do:
+
+-  Do some editing of the categories on my current wordpress directory
+
+-  Start using disqus comments with the current tychoish.com wordpress
+site, as that's what I'd be using in the new site.
+
+-  Explore Jekyll's wordpress importing feature, and potentially write
+my own wordpress theme to handle the export (with ``wget``). Because
+I need some way to maintain the category data. Conversely, figure out
+how to get an RSS import into jekyll. Just have to see what's easies.
+
+-  Design a new landing page and hack around with CSS, because I'm my
+own design team.
+
+-  Cobble together something reliable that can aggregate RSS feeds from
+various parts of the site. Such a tool certainly exists, I just have
+to find it and get used to it.
+
+-  Possibly move to a different webhost. Long story.
+
+-  Implement the new landing page. I'm inclined to use PHP to pull
+together content (includes and what not), because that should be
+peppy enough without needing a database, and even though the backend
+would be ruby, PHP seems uniquely suited to handling the
+display-related functions. And I'm used to it. So there
+
+Thoughts? Feedback? Cheerleading and/or other generous offers of
+support?
+
+Onward and Upward!
+
+.. [1]
+The domain now points to tychoish, and all of the tealart archives
+are imported in tychoish. Hence the long archives, and the fact that
+I've only been using the tychoish.com domain for about 18 months. My
+pre-tychoish projects were all supposed to be collaborative projects,
+but it never quite worked out, as I was young, foolish, and the
+projects were all very general.
+

@@ -1,0 +1,19 @@
+==========
+Geek Speak
+==========
+
+.. post:: 2007-11-18
+   :author: tychoish
+
+**tycho**: hey **`andy <http://tychoish.com/anduril>`__**: sup
+**tycho**: not much **andy**: fun stuff **andy**: bought a 320Gb
+external seagate and trying to get all my mp3s transferred but its not
+cooperating **tycho**: :( **tycho**: I am downloading xcode tools so I
+can get mac ports to work so that I can upgrade ruby so that I can blog
+from textmate **tycho**: also, I was about an inch away from upgrading
+the tychoish wordpress, but cyberducky crashed, so I stopped
+
+*Pause.*
+
+**tycho**: ... silence... **andy**: lol
+

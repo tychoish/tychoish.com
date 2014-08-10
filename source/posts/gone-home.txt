@@ -1,0 +1,68 @@
+=========
+Gone Home
+=========
+
+.. post:: 2007-05-16
+   :author: tychoish
+
+I've gotten so caught up in the "I'm home again" mindset that I forgot
+that I didn't have a blog post schedule for today. But never fear, in
+the TealArt of the future (and present)
+`tycho <http://tychoish.com/tycho/>`__ the ever present blogger is here
+to save the day with some thoughts about moving back home, his battles
+with sudo, and his projects for today and beyond.
+
+I spent yesterday, my first full day back in *hometown* getting
+situated. Because I haven't been here for more than a couple of weeks in
+3 years, "my room" is mostly devoid of furniture, so I have taken over
+my mother's desk in retaliation [1]_. In addition to accomplishing a
+number of important tasks related to finding summer employment, I was
+able to get a couple of computer related tasks completed.
+
+I've had a long running feud with the `sudo
+command <http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch09_:_Linux_Users_and_Sudo>`__,
+which has made it difficult for me to do a lot of things with the
+command line. Luckily my issue was relatively minor, and now I have
+rubygems and maruku installed on Zoe [2]_, and I really couldn't be
+happier. `Rubygems <http://www.rubygems.org/>`__ is a package manager
+that is required for a number of handy ruby scripts, and
+`maruku <http://maruku.rubyforge.org/>`__, is a command-line translator
+for `PHP Markdown
+Extra <http://www.michelf.com/projects/php-markdown/>`__\  [3]_.
+Conveniently it also translates into LaTeX and XHTML, and looks really
+great doing so. I need to work up a good LaTeX template for day to day
+usage for shorter documents that that I can push a lot of the kinds of
+things that I need to output, but that's for another day, right now I'm
+just happy.
+
+In other news, there isn't a lot to report. I spent a long time driving
+and unpacking and what with the pomp and circumstance of graduation
+rituals, didn't have a great deal of free time to write blog entries. My
+projects for today: write more, revise resume, write a future professor,
+and do some more unpacking. Other on-going blog related projects: work
+on growing and developing the reader/particpant base for TealArt. I
+think part of this has to do with my writing style, but part of it has
+to do with promotion, and I'm working on both of these aspects of the
+site, and hopefully there'll be comments a plenty in the near future.
+
+best, tycho
+
+.. [1]
+A long running joke, my first brake back after I left for college, I
+returned to find that the only furniture left in my room were objects
+that wouldn't fit out the door easily. This included my desk, which
+is ok, because I wasn't using it. The ironic aspect is that I
+realized while I was away at school, that despite having a laptop, a
+desk/table to work at is crucial for my ability to focus and get
+things done.
+
+.. [2]
+My PowerBook G4 of wonder.
+
+.. [3]
+PHP Markdown Extra is a subset of John Gruber's
+`Markdown <http://daringfireball.net/projects/markdown/>`__ which
+affords for footnotes, tables and some other much needed features. I
+use this script, more or less, (so I changed two lines, shoot me,) to
+parse my syntax on tealart.
+

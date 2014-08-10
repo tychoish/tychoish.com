@@ -1,0 +1,137 @@
+========================
+Independent Web Services
+========================
+
+.. post:: 2010-01-25
+   :author: tychoish
+   :tags: cyborg, free-software
+
+So much of the time, when we talk about network services,
+technological/software freedom, and this idea of "Cloud" computing,
+there's a bunch of debate: "is it a good idea?" "are we giving up too
+much freedom?" "how does this work out economically?" "what about
+privacy in the cloud?" While these are important questions, without
+doubt, I fear that they're too ethereal, and we end up tussling with a
+bunch of questions about the future and present of computing that might
+not be entirely worth debating (at least for the moment.)
+
+Lets take 2 assertions, to start:
+
+1. There are some applications--things we do with technology--that work
+best when these applications are running on high performance servers
+that have consistent connections to the Internet, that we can access
+regardless of where we are in the world.
+
+2. The only way to have control over your data and computing experience
+is to be responsible for the administration and maintenance of these
+services yourself.
+
+**Huh?**
+
+I mean to say, that if we care about our autonomy, and our freedom as we
+use computers in the contemporary age (i.e. in the era of cloud
+computing), the only thing to be done is to run our own services. If the
+fact that Google has all of your data scares you: run your own mail
+server. If the fact that all of your microblogging output is on twitter,
+run your own `status.net <http://status.net>`__ instance. And so forth.
+
+If we really care about having power over our technological experiences,
+we must take responsibility for services on the Internet. We can say
+"wouldn't it be nice if service providers weren't such *dicks* with our
+data," or "wouldn't it be nice if software developers wrote networked
+software that respected our freedom." And while it **would** be nice,
+these convinces don't in and of themselves
+
+Control over technology and autonomy in the networked context ultimately
+means that we as users have to:
+
+-  Administer networked servers that provide us with the services that
+we want and need to do whatever it is that we do.
+
+-  Participate in some exchange for networked services (i.e. pay for
+service, either in cash or by way of access to data.)
+
+**That's hard! Computers should get easier to use not harder, right?**
+
+Leading question there, but...
+
+Yes. One of the leading arguments for consumer-"Cloud Computing" is that
+by accessing computer services (software) in the browser, developers can
+provide a more structured and "safe" user experience. At least that's
+how I understand it.
+
+While this is a great thing in terms of making computers more
+accessible, no argument from me, I think we must be careful to avoid
+confusing of use" with technologically limiting. I fervently believe
+that its possible to design powerful software that is also easy to use,
+**and** I think that as often as not, a confusing technology is an
+opportunity to provide a teaching experience as much as it presents an
+opportunity to improve a given technology.
+
+And if it comes down to it, there are situations where it doesn't matter
+so much if you're the one entering the commands into the server. It
+doesn't much matter if *you* are the one managing the server or if
+you've hired someone to configure it for you. As I think about it,
+there's probably something of a niche here for people to offer
+management services in a very boutique sort of style.
+
+**If we have to contract to people to do our administration for us, is
+that really a step in the right direction?**
+
+I think, it is. At the moment we pay for our networked computing
+services (i.e. gmail) by looking at google's ads next to our mail and
+giving Google access to the aggregate of our mail spools so that they
+can mine it for whatever data they need. The other price that we pay for
+these services is "lock in:" once we commit to using a service it's
+quite difficult to change to an alternate provider. Since these are
+"real costs," it seems reasonable to expect and *want* to pay (money)
+for services that don't have these costs. Which is where cooperative and
+boutique-style services make a lot of sense.
+
+**I'm not a systems administrator, I just want to do [the thing that I
+do] and not have to tinker with my computer. This is a lousy idea.**
+
+And that's a lousy question.
+
+To dig in a bit further. I don't think that "doing the [whatever you
+do]," would necessarily require a lot of tinkering. It might, of course,
+and the chances are that we've all had to tinker with our technology at
+one point or another. In most cases tinkering is an upfront rather than
+ongoing cost. Ideally, the other thing that having full control over
+your network services you'll be able to use have services which are
+*more* tailored to [the thing you do] than the one size fits all
+application provided by a third party.
+
+**Ok, so what's the stack look like.**
+
+I'm not sure. There's clearly a common set tasks that we currently use
+in the networked context. I'm not sure what the application is, exactly,
+but here's a beginning of what this "application stack" looks like.
+
+-  An XMPP Server like Prosody.im, with PyAIMt and other convectional IM
+network transports.
+
+-  Some sort of Email Service: Citadel springs instantly to mind as an
+"all in one solution," but some
+postfix+procmail+fetchmail+horde/squirrelmail seems to make some
+sense
+
+-  A web server, either for hosting personal websites, or with some sort
+of authentication scheme (digest?) for sharing files with yourself.
+The truth is that web servers, are pretty darn lightweight and it
+doesn't make sense to *not* install one. Having said that, people see
+"web hosting," and probably often think "Well, I don't really need
+*web* hosting," when that's almost beside the point.
+
+-  SSH and some system for FUSE (or FUSE-like) mount points, so that
+they can use and store remote files.
+
+-  There's probably a host of web-based applications that would need to
+be installed as a matter of course: some sort of web-based RSS
+reader, wiki-like note taking. Bookmarking. Some sort of notification
+service, Etc.
+
+-  [your suggestion here.]
+
+
+

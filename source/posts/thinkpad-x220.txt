@@ -1,0 +1,90 @@
+====================
+ThinkPad x220 Review
+====================
+
+.. post:: 2012-07-19
+   :author: tychoish
+   :tags: cyborg, hardware
+
+My Decision
+-----------
+
+Throughout this spring I've been eagerly waiting for the announcement
+and arrival of the new X-series laptops from Lenovo. I've been
+incredibly happy with every Thinkpad I've ever had, and while my
+existing laptop--a very swell T510--has been great, it was time:
+
+-  I needed a system with a bit more power. The power of my existing
+system was being to frustrate me. Things took too long to compile, I
+was having some annoying networking processing issues, and to make
+matters worse...
+
+-  The thing was huge. I think 15 inch laptops are a great size for
+doing actual work, and I'm not getting rid of this one, but it's not
+the kind of thing I want to lug on my back. Which I was doing a lot.
+
+-  I needed more redundancy. Most of my work in the world--writing,
+hacking, communicating--happens with a computer. While my data is
+backed up (never well enough, of course, but it's there,) I worry
+more about the case where I'm stranded for a period of time without a
+working system.
+
+This facilitates not only piece of mind, but also makes it possible to
+do things like: upgrade the T510 from 32 to 64 bits. (Don't ask.)
+
+-  In the long run, the older laptop might need to go to R. who's
+personal system bit the dust a few months ago.
+
+What Happened
+-------------
+
+But, when the new x230s came out and I found myself unimpressed. The
+revision got a different keyboard and I adore the old keyboard. To make
+matters worse the screen on the new model wasn't any better than the one
+on the old: the pixel density is somewhat crappy.
+
+In light of this, and mostly for the older keyboard, I decided to buy
+the older model. In short: it's great.
+
+I bought the RAM and hard drive aftermarket, and replaced them before
+booting the first time. Having 16 gigs of RAM is pretty much amazing,
+and I'm sold on the notion that SSDs are now a must for most common
+personal computing work.
+
+Incidentally I discovered that this computer is about the same weight as
+the 13 inch Macbook Air (and I have the larger battery), for those of
+you keeping score at home. And way beefier. Thicker obviously, but
+still...
+
+Point by Point
+--------------
+
+Pros:
+
+-  The keyboard is the same great Thinkpad keyboard we've always had.
+I'm sure eventually I'll give in and learn to enjoy the new keyboard,
+but for now, I'm going to stick with the old.
+
+-  It's way fast. Because, the speed of my old computer defined "the
+speed of computers," in my mind, it was kind of nifty to learn that
+computers had actually gotten faster.
+
+-  It's way small. Turns out, if I'm lugging a sub-3 pound laptop
+around, I can totally use my awesome shoulder bag. I also don't feel
+like my wrist is going to give out if I need to walk 30 feet holding
+the laptop in one hand.
+
+Cons:
+
+-  The screen could be so much better than it is, and there's really no
+excuse. It's not enough of a deal breaker for me, but...
+
+-  That's really it. I think 12 inch wide screen laptops don't have
+quite enough wrist-rest area on them, but that's really an
+unavoidable problem: if you have a wide secreen (and thus a full
+keyboard,) the wrist area is short and narrow. If you have a more
+square screen and a squished keyboard, then you have enough wrist
+area. One adjusts.
+
+
+

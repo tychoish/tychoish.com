@@ -1,0 +1,62 @@
+==========================================
+Is Dropbox the Mobile File System Standard
+==========================================
+
+.. post:: 2011-10-18
+   :author: tychoish
+   :tags: cyborg, mobile-technology, open-source, file-systems
+
+I've started using Dropbox on my Android devices recently (and my laptop
+as a result, [1]_) and I'm incredibly impressed with the software *and*
+with the way that this service is a perfect example of the kind of web
+services that we need to see more of. While I have some fairly
+uninteresting concerns about data security and relying on a service that
+I'm not administrating personally, I think it's too easy to get caught
+up the implications of where the data lives and forget what the
+implications of having "just works," file syncing between every
+computer.
+
+I used to think that the thing that kept mobile devices from being
+"real" was the fact that they couldn't sell "post-file system" computer
+use. I'm not sure that we're ready to do away with the file system
+metaphor yet. I think Dropbox is largely successful because it brings
+files back and makes them available in a way that makes sense for mobile
+devices.
+
+The caveat is that it provides a file system in a way that makes sense
+in the context for these kinds of "file systemless" platforms. Dropbox
+provides access to files, but in a way that doesn't require applications
+(or users) to have a firm awareness of "real files. Best of all, Dropbox
+(or similar) can handle all of the synchronization, so that every
+application doesn't need to have its own system.
+
+This might mean that Dropbox is the first functionally Unix-like mobile
+application. I think (and hope) that Dropbox's success will prove to be
+an indicator for future development. Not that there will be more file
+syncing services, but that mobile applications and platforms will have
+applications that "do one thing well," and provide a functionality upon
+which other applications can build awesome features.
+
+--------------
+
+This isn't to say that there aren't other important issues with Dropbox.
+Where your data lives *does* matter, who controls the servers that your
+data lives on is important. Fundamentally, Dropbox isn't doing anything
+technologically complicated. When I started writing the post, I said
+"oh, it wouldn't be too hard to get something similar set up," and while
+Dropbox does seem like the relative leader, it looks like there is a
+fair amount of competition. That's probably a good thing.
+
+So despite the concerns about relying on a proprietary vendor and about
+trusting your data on someone else's server, data has to go *somewhere*.
+As long as users have choices and options, and there are open ways of
+achieving the same ends, I think that these issues are less important
+than many others.
+
+.. [1]
+To be fair, I'm using it to synchronize files to the Android devices,
+and not really to synchronize files between machines: I have a server
+for simple file sharing, and git repositories for the more complex
+work. So it's not terribly useful for desktop-to-desktop sharing, But
+for mobile devices? Amazing.
+

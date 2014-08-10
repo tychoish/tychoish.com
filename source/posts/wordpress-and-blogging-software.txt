@@ -1,0 +1,68 @@
+===============================
+WordPress and Blogging Software
+===============================
+
+.. post:: 2007-05-31
+   :author: tychoish
+
+As you might know, we at TealArt, use a program called WordPress to run
+the back-end of the site. It's a nifty program, and I've started to see
+`WordPress <http://wordpress.org/>`__ blogs all over the place, and it
+seems like WordPress might even be the blogging software of choice for
+most folks these days. I had the pleasure/distinction of having to
+upgrade the software the other day, which has started to keep wordpress
+pretty firmly in my mind.
+
+Thing is, most of the time I don't really interact with the software:
+there are so many programs and options that make it possible to post and
+edit a blog without ever actually having to go to the website, these
+days I use `MarsEdit <http://ranchero.com/marsedit/>`__ and a plugin for
+my text editor, `TextMate <http://macromates.com/>`__ to post to the
+blog. This is of course super interesting to you so I'm going to move
+on. [1]_
+
+I remember when WordPress was the rogue stepchild of
+`b2/cafelog <http://cafelog.com/>`__ (another wonderful piece of blog
+software that `TealArt <http://tychoish.com/>`__ proudly used), and even
+when the thought of having a site as dependent on a
+`mySQL <http://www.mysql.com/>`__ database as WP sites tend to be was
+absurd. These days, Word Press is one of **the** successes of the open
+source software scene. Tons of people use it. It works great, it's
+polished, there's an active developer community, and somehow the leaders
+of the project are able to support some sort of business model. There
+are probably a lot of reasons for this:
+`PHP <http://www.php.net/>`__/`mySQL <http://www.mysql.com/>`__ are easy
+languages to learn, the back end and the front end of WP are basically
+independent of eachother, and the way that WP does plugins makes it easy
+for people to contribute to WP, and also for WP developers to roll-in
+particularly successful plug-ins as features.
+
+I'm not versed enough in this, but the
+`WP.com <http://www.wordpress.com>`__/`WP.org <http://www.wordpress.org>`__
+distinction is I think a great model for distributing and monitoring
+"free" software. Basically they develop a product that they give away
+for free (WP.org; what TA uses), and then they take that product and
+offer a service related to that product (WP.com) that they can generate
+revenue with. You can read the Automatic website for more information,
+frankly I'm not sure about the particulars, or if it's really a viable
+business model but I'd like it if it were, so I'm going to continue to
+pretend.
+
+Interestingly, also, they're enough different from their major comerical
+competitor (`SixApart <http://www.sixapart.com/>`__, the people who do
+`LiveJournal <http://www.livejournal.com/>`__, Vox,
+`TypePad <http://technorati.com/tag/typepad>`__ and most importantly
+`MoveableType <http://www.sixapart.com/movabletype/>`__,) that they'll
+probably not run into problems there. I'm not entirely sure about
+MoveableType's long term success, but at this point that's not a very
+big issue.
+
+Anyway, enough yammering for now... I'll be back tomorrow with the intro
+for the new series! Don't go anywhere.
+
+Best, tycho
+
+.. [1]
+The sad part about this paragraph is that I think it probably mirrors
+the way I talk/think with an all too depressing amount of truth.
+

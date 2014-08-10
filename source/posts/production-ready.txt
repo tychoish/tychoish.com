@@ -1,0 +1,97 @@
+================
+Production Ready
+================
+
+.. post:: 2008-11-17
+   :author: tychoish
+
+`Chris <http://www.cgkreality.com/>`__ and I were talking about our
+Linux usage the other day, and we both came to the conclusion that for
+better or for worse our main production machines were Linux machines. He
+still has a Vista machine and I still have my MacBook, but our main
+desktop machines are Ubuntu boxes. I've been rolling over a few
+questions: around what it means for an operating system to be suitable
+for production, and what it means that Chris and I are both using Linux
+systems for our day-to-day heavy lifting. Then, in order:
+
+Production
+----------
+
+Given the nature of my work (both vocational and avocational), I use and
+rely on computers extensively. While I've done a lot of things to backup
+my computer in the last few months and days, I cannot abide by a system
+that won't do what I need it to when I need it. While most computers are
+pretty reliable these days, the understanding that a computer is going
+to be *there* and *ready* with the programs and the data is as much a
+matter of trust as it is technical capability. Users need to be able to
+trust their production systems to keep their data, to run as expected,
+and to not fail them.
+
+Another factor is user-comfort. While I'm not 100% comfortable with my
+new computer yet, I know that this is something that comes with time, as
+we use a system more, we all learn quicker ways of accomplishing common
+tasks, and it becomes easier to perform our most important computing
+tasks, and the "price" of converting a project from your
+mind/speech/analog source goes way down. That's a good thing.
+
+A lot of my own musing on this site about
+`productivity <http://tychoish.com/tags/productivity>`__ and
+`technical <http://tychoish.com/tags/technology>`__ usage, could be
+classified as being about making systems and users more production
+ready. While I think hacking on technology is really interesting, and
+technological development is really important, at the same time *doing
+things* with technology, is always the more important thing.
+
+Linux
+-----
+
+Chris and I are pretty technical users, admittedly, but I think we also
+have a pretty low tolerance for stuff that *just doesn't work*. Which
+says something really fundamental about the status of Linux in 2008.
+While there are rough spots, the applications are pretty much *right*
+where they need to be. For instance, even before I began to seriously
+consider getting a Linux desktop set up for my own purposes, the vast
+majority of the software that I use on OS X has very viable Linux ports.
+While the general usability of Linux-based systems have gotten much
+better in the last couple of years (thanks Ubuntu), the ecosystem is
+very vibrant, and that's incredibly important.
+
+Having said that I think we're probably still a few years away from
+seeing an Ubuntu/Linux Mint that's ready for the general public. There
+are a few things that need to happen before that, such as:
+
+-  Hardware makers need to continue to make and build computers with
+Linixes pre-installed. Ubuntu's installer isn't more painful than
+windows' or OS X's, and convincing average users to switch for
+ideological reasons after they've just bought a new computer is
+difficult. Also, given hardware compatibility issues, having
+companies like Dell and HP make sure that there's support in the OS
+for the hardware is a great service.
+-  The interface needs to get a lot better. This is "just wait and see"
+issue mostly, but `I think GNOME needs
+work <http://tychoish.com/rhizome/window-management/>`__, and without
+a really good and fun UI, Linux is sunk.
+-  X11, the primary graphics/interaction layer for all (?)
+unix/unix-like operating system GUIs (other than OS X) needs some
+work. Dual monitor support is lackluster, support for laptop displays
+is tenuous, and while I don't think we should throw all of X way, a
+lot of the UI problems are rooted in X's limitations. Of all the
+parts of the UI in most Linux systems, X is the weakest link. While
+this is a pretty low level concern, making X better will make the
+whole experience better. And that's what counts. I may be able to get
+really impressive system up-times, but unless I can get impressive
+up-times for X, the former isn't worth much.
+-  End User distributions (Ubuntu, etc) and bare-bones distributions
+(Arch, Gentoo, etc.) need to become even more distinct. Ubuntu should
+probably attempt to use a more "rolling release" approach to package
+inclusion and should attempt to cover up command line access the same
+way that OS X does, say, and the bare-bones distributions should
+probably avoid delusions that they're going to capture the end user
+market, and focus at being *even more awesome* bare bones
+distributions. The great thing about Linux distributions is that they
+don't really compete with each other and while the geeks might know
+this, I'm not sure the general public does in the same way.
+
+That's what I have for now, do any of you have ideas about what more
+Linux needs before it's production ready for the general use user?
+

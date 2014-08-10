@@ -1,0 +1,39 @@
+===========================
+a battle with a news-reader
+===========================
+
+.. post:: 2007-07-02
+   :author: tychoish
+
+Once upon a time a boy named tycho really hated
+`RSS <http://en.wikipedia.org/wiki/RSS_(file_format)>`__ readers, they
+were clunky and didn't save much time because most websites didn't have
+feeds, and the ones that did had excerpt feeds.
+
+Then tycho got a Mac and discovered
+`NetNewsWire <http://www.newsgator.com/Individuals/NetNewsWire/>`__ and
+by this time the *internets* had clicked over to `version
+2.0 <http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html>`__
+and he started using RSS a lot, it saved him time and let him use even
+more of the internets at once, no matter where he was. And everything
+had RSS feeds and he was happy.
+
+But he never unsubscribed from a feed--ever--and before he noticed,
+there were 520 feeds. Everytime he hit refresh on the reader, there were
+another 1300 items to read. Reading the *internets* became a nag, rather
+than a pleasure.
+
+Something had to be done, and so he worked on eliminating feeds that he
+didn't read or didn't enjoy reading--like the ones for usenet groups, or
+`del.icio.us <http://del.icio.us/>`__ tags--and slowly but surely he was
+able to limit the number of subscriptions to 270. This meant that
+whenever he hit refresh there were about 300 items to read. He was
+happy.
+
+That's more like it!
+
+With luck I can weed a few more out and hopefully this will help me
+become a better blog citizen. If I'm reading fewer things, hopefully
+I'll be able to read more throughly and be able to respond more often,
+but I'd like to be able to get it down some more.
+

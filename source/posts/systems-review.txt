@@ -1,0 +1,99 @@
+==============
+Systems Review
+==============
+
+.. post:: 2009-02-26
+   :author: tychoish
+   :tags: cyborg, organization, file-systems
+
+I wrote in my post on `the one true
+system <http://tychoish.com/rhizome/one-true-system>`__ about the
+informal systems that we use to interface the way we interact with
+knowledge and information in the "real world" with the way we represent
+that information on our computers. Exploring these systems lay at the
+core of the cyborg question, but today's essay [1]_ is more about how
+our logic systems adapt as we use computers and as the kinds of
+information we need to store change and grow.
+
+As near as I can tell there are a few kinds of "systems review" that we
+tend to do. Theoretically if you develop a system that's flexible and
+that accounts for all of your future information needs, then you
+shouldn't have to modify your system very much. Theoretically this is a
+good thing: better to spend time "doing things," rather than thinking
+about "how you're going to do things."
+
+The sad truth is that this doesn't work out very well pragmatically: we
+change our work habits, and our information changes, and our projects
+change, and our informal logic for interacting with our computers fails
+to address the problems, and eventually everything spirals out of
+control. This is pretty abstract, but every time you see someone with
+hundreds of icons stacked on your (or someone else's) desktop, or you
+find yourself with hundreds of unsorted (and unread!) email messages, or
+you have to hunt through half a dozen places for a PDF you are
+witnessing the symptoms of a flawed system.
+
+The only way to address this is to review your "systems," and make sure
+that you capture any problem before information spirals out of control:
+
+1. Have an overflow bin, but only one overflow bin. This is important,
+but counter intuitive. By overflow bin, I mean something where
+unfile-able items are placed. This hopefully alleviates the tension
+to file away information that hasn't been fully processed, or that
+doesn't fit into your system, or might be ambiguously filed [2]_.
+
+2. Do major reviews of your system only infrequently. By major review, I
+mean, think about how you use your information, what has worked, and
+what hasn't, and then use this as a model for revising your system.
+Don't do it regularly, even if you know that something isn't working.
+Think of this as something that you do only about twice as often as
+you get a new computer. As part of this major review process:
+
+-  Keep a regular journal when you aren't in the process of updating
+procedures. Track about what works and what doesn't. Often I've found
+that I have ideas about how things should change, but the changes
+aren't the kind of thing that I could reasonably change during normal
+work. These insights/problems are useful, eventually even if they
+aren't always immediately relevant. So record them for later.
+
+3. Do Minor reviews regularly. Look in the "overflow bin" from item one
+and see what's falling through the cracks, file things that do need
+to be filed. The GTD folks call this a "weekly review," and while
+GTD-task processing is only part of "the system." [3]_ It depends on
+what kind of information you're managing, but staying on top of and
+in touch with your "stuff" is important.
+
+4. Be sure to "touch" your information regularly. While I'm in favor of
+keeping information even when it's not apparently useful (you never
+know), I also agree with the idea that information is only really
+useful if you use it. I've often found myself falling into the trap
+where I'll stockpile stuff "to read later," which of course rarely
+happens. Avoid this and browse from time to time.
+
+I mean in the end, I'm just a guy who writes more than he should, and
+has a pile of digital information that's probably a bit too big, but
+this is how I do things, and I think the lessons I've learned (and
+continue to learn) may be helpful to some of you. Reviewing and thinking
+about systems before hand is, if nothing else, instructive.
+
+Onward and Upward!
+
+.. [1]
+I use the word "essay" under the terms of its slightly less common
+meaning "to make an attempt," rather than the terms that describe a
+genre of writing.
+
+.. [2]
+Borrowing from the Python programing language motto, somewhat, "Every
+bit of information in your system should have one, and ideally only
+one, obvious location." Now of course, we can categorize information
+on many different axises, so the key isn't to pound data/information
+it's to build your system around a consistent axis.
+
+.. [3]
+The system, for me, represents everything from the way we store
+bookmarks on line, to notes that we collect as we work, to tasks and
+other time-sensitive data, to the way that we store resources like
+PDFs and papers. Though we don't have "one" system for all these
+things, and we're not likely to revise them all at the same time, on
+some conceptual level it's all the same thing.
+

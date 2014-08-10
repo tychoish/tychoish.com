@@ -1,0 +1,120 @@
+=================
+Knitting the Neck
+=================
+
+.. post:: 2007-04-10
+   :author: tychoish
+
+The neckline in a sweater is the location of one of my perpetual
+anxieties about knitting. I suppose this could be resolved to knitting
+objects that don't have necks, like socks, or mittens, but I'm not sure
+that would be incredibly healthy, and besides, whats knitting without a
+little challenge. The one nice thing about neck lines, is that there are
+a handful of different approaches, and once you find a neck line that
+you like, it's a fairly short order to transplant this neckline from one
+garment to another. You'll probably still need to learn a few different
+kinds of collars/necklines but then you're basically set. In this part
+of our series, I'll cover three basic neck lines that are among my
+favorites, and (in a special bonus part) a few of the hard lessons that
+I've learned from knitting sweaters.
+
+Collar Basics
+~~~~~~~~~~~~~
+
+We'll assume for a moment that these collars will be constructed in the
+round around steeks, and thus descriptions of neck shaping will assume
+that the back and both sides of the front (of the neck) will be shaped
+at the same time. If you don't want use steeks, it should be easy to
+translate these directions to "flat knitting.
+
+The basic principal of neck opening design is that, as you near the
+shoulders of your sweater, you put a percentage of stitches in the
+middle of the front of the sweater on hold and then knit around
+decreasing on either side of the opening at some speed to shape the neck
+opening. The length of the shaping, the number of stitches placed on
+hold, and rate of decreases control the shape of the neck line. Here are
+some basics:
+
+**V-Neck** This one's simple. If the front of your sweater has an odd
+number, put the middle stitch on a thread, and cast on for the steek
+(conversely if the number of stitches is even, just cast on steek at the
+middle of the front.) Decrease at a regular rate until the end of the
+shoulders. Generally neck openings represent a touch more than one third
+of the total diameter of the body, and in a V-Neck the decreases need to
+be calculated such that the proper number of stitches can be decreased
+on each side of the steek/neck or opening at a regular interval over in
+the length of the neck opening.
+
+I suspect that a short, but standard v-neck is likely to take *about*
+2/5ths (call it 4 inches for most adults) of the length of the yoke
+section (that is, the top of the sweater that the sleeves attach to).
+But V-necks can be much deeper as well. There's a lot of versatility in
+this.
+
+**Crew Neck** What I think of as a crew neck, is just a basic "T-shirt"
+or "rounded" neck opening. I think I picked up my version by backwards
+engineering and modifying a pattern I knit from a rather famous Scottish
+designer. I use this or derivations on this formula for almost all of my
+sweaters these days:
+
+Set aside (on a holder) the middle 1/6th of the total number of stitches
+on the front of the sweater 3 inches from the shoulders (or 2/3s of the
+way to the end of the sweater). Decrease one stitch on either side of
+the steek/opening every round for an inch and a half. Then, decrease one
+stitch on either side of the opening/steek every *other* round for the
+remaining inch and a half. All things being equal, you should, have
+decrased away a few more than 1/3rd of the stitches between the stitches
+on the holder and the stitch that you decreased. You may have to slow
+the decreases a few rounds earlier, or decrease quickly for an extra row
+or two, depending on gauge, but this generally works.
+
+**"Sport" Neck** My favorite neck, by far, is what I call a sport neck.
+This isn't *exactly* traditional, but I find it flattering, and it's not
+entirely inconstant with some traditions. This neck is just like a crew
+neck, except the front of the yoke is slit open and plackets are knitted
+on each side of the opening. The process is quite simple, though there
+are variations that you can explore.
+
+My initial exploration involved setting aside the 1/6th 3.5-4 inches
+earlier than I would have other wise, and then knitting around plainly
+until the crew neck would have usually started, and then shaping the
+crew neck as if all was "normal." When I went to knit the neck, I would
+knit plackets perpendicular to the "straight side of the neck opening,
+and then knitted the collar with rounded corners on either side of the
+opening.
+
+More recently, I've taken to only setting aside a few stitches at the
+base of the neck, and the setting aside the "normal number of crew neck
+stitches at the normal time. In this case, I knit the collar normally,
+and knit a short hem along the sides of the "open neck," creating more
+square corners.
+
+Either option works fine, and is quite fetching. There are of course
+other possibilities and variations on this style of neck.
+
+**The Back of the Neck** Until this point I've been mum as to what
+happens on the back of the neck. It's perfectly acceptable to do
+absolutely nothing. and simply set aside a number equivalent to the
+number of stitches you decreased/set aside at the front in the middle of
+the back when you bind off (so that the shoulders line up.) I've more
+recently taken to doing some back of the neck shaping, this is more
+simple than it sounds:
+
+About an inch and a half away from the shoulders, set aside the number
+of stitches that you've decreased from the front at this point (this is
+why I like to work in the round) on a thread at the back of the neck.
+For the remaining portion of the sweater, decrease on either side of the
+back neck steek/opening at the same rate that you are decreasing from
+the front. This works with every kind of neck that I can think of, and
+is one of those things that gives a sweater an extra little edge.
+
+**But wait there's more** I'm sure you still want to hear about cool
+neck shaping tricks, knitting collars on these neck openings and more. I
+think that I've given you all enough to chew on for a while. I'll be
+back in a few days for a bonus episode in this series to cover more
+collar related issues.
+
+Until then, be warm and I'll see you all soon.
+
+Cheers, tycho
+

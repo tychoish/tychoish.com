@@ -1,0 +1,50 @@
+=========================
+Art in the Generous Sense
+=========================
+
+.. post:: 2005-10-30
+   :author: tychoish
+
+So, I decided to change the name of the TealArt blog again, as I'm sure
+you're all aware. While I liked the firefly reference (You Can't Take
+the Sky from Us"), and the cool grammatical insights of the newspaper
+like title (The Times of TealArt), the newest title is a reference to a
+class discussion I was part of earlier in the semester concerning "work
+in the generous sense." Since then a few of my friends have taken this
+modifier, and used it whenever we are bending the meaning of a word a
+little more than perhaps is necessary for the sake of argument. Examples
+include: Activism in the generous sense, resistance in the generous
+sense, truth in the generous sense, women's studies in the generous
+sense and so forth.
+
+The thing is, that it makes sense for TealArt. I've owned the TealArt
+domain for more than five years at this point, and while I've grown
+quite fond of the color, I must say that the only reason I have the
+domain is that some fairly random person on a Greymatter discussion
+board gave it away *for free*. By this point, I think we are as much a
+part of it as it is of us. While I may have made allusions to being an
+artist (at least in the context of TealArt) at one point, I certainly
+don't now. Art in the generous sense, indeed.
+
+While the recent transition to word-press 1.5 necessitated a little
+redesigning, for the most part, TealArt has remained quite consistent
+over the past year. But I'd like to submit for your approval, a new
+banner. Nothing radical. Just a change. It's about half the size of the
+current banner (kb wise, same visual size). It also uses a font derived
+from Jane Austen's hand writing. How cool is that? Thanks to fellow
+blogger Neil (Gaiman).
+
+.. raw:: html
+
+<div align="center">
+
+.. raw:: html
+
+</div>
+
+Which one do you like more? I'll orient the winner the right way when I
+decide, I'm partial to the second: I think the lines look confusing in
+the first.
+
+Cheers, Sam
+

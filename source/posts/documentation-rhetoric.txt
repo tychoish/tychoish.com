@@ -1,0 +1,69 @@
+======================
+Documentation Rhetoric
+======================
+
+.. post:: 2012-08-03
+   :author: Sam Kleinman
+   :tags: technical-writing, writing
+
+Other than shortening sentences, inserting lists, and using document
+structure, there are a couple of "easy edits" that I make to most
+documents that other send to me for review:
+
+1. Remove all first person, both singular and plural.
+
+2. Remove all passive sentences, typically by making the sentences more
+imperative.
+
+In practice these changes are often related.
+
+Expunge the First Person
+------------------------
+
+Removing the first person is important less because it's "more formal"
+to avoid the first person and more because it's always unclear in
+documentation: Who are "we," and who is "I"? Should I read "I" as "me"
+or as the author of the documentation? What if my experiences and
+environment isn't like "ours?" While we can resolve these confusion
+points pretty quickly it gives users another set of information that
+they must track. And given that technical subjects can be difficult
+without confusing language, there's no reason to make things more
+confusing.
+
+People tend to think that this makes their documentation "friendlier,"
+"personable," or "intimate." People used to interacting directly with
+users (i.e. people doing user support) are particularly susceptible to
+first person problems. In support cases, that little bit of personal
+touch is *incredibly* valuable and goes a long way toward making people
+feel comfortable.
+
+Those people are wrong. Don't do it. Speak simply. Write about the
+product and the processes you're documenting, not yourself. Convey
+facts, not opinions. Provide context, not perspective. If you're writing
+the official documentation for a product, your perspective is obvious to
+readers; if you're not writing the official documentation, that's also
+apparent and probably not your job to disclaim.
+
+Use Good Verbs
+--------------
+
+Passive sentences and weak verbs are a huge problem. Huge. People with
+science and engineering back rounds seem to prefer passive sentences
+because they think that passive sentences convey objectivity, and that
+this objectivity is desirable.
+
+Passive sentences do convey a sense of objectivity, and there are some
+cases where there's no way to avoid describing a property of a thing
+except passively. That doesn't make the passive voice generally
+acceptable. Related to the reason above, passive voice tends to provide
+a level of "syntatic indirection," and means that complicated sentences
+become unnecessarily difficult to comprehend.
+
+In documentation, unlike some other forms, it's possible (and
+desirable!) to use imperative verbs, which provides some relief. One of
+the main projects of documentation is to inculcate "best practices"
+(i.e. values and conventions,) in users. Imperative verbs are great for
+this purpose.
+
+In short: *Do it!*
+

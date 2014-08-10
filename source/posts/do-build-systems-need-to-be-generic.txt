@@ -1,0 +1,69 @@
+========================
+On Generic Build Systems
+========================
+
+.. post:: 2013-07-19
+   :author: tychoish
+
+I spent a bunch of time this week taking a bunch of my work project's
+build system. We've gone from having most of the heavy lifting done by
+Make, to having only doing the general high level orchestration with
+Make and doing all of the heavy lifting with (simple) custom Python
+code.
+
+The logic in the previous system was:
+
+-  Make is everywhere, stable, and consistent. In the spirit of making
+the project as compatible and accessible to everyone it made sense to
+use common tools and restrict dependencies.
+
+-  Concurrency and parallelism are both *super hard*, and Make provided
+a way to model the build in a knowable way, and the parallels the
+build as much as possible. Before starting this project, I'd spent
+two years being a write working with a build system that was not
+concurrently and ran in one thread, and I was eager to avoid this
+problem.
+
+It turns out:
+
+-  If you write Makefiles by hand they're the inverse of portable. In
+the same way that "Portable Bash Script" is a thing that can lead
+only to insanity.
+
+As Make-based build systems grow, the only thing you can do to preserve
+your sanity is wrap up all build instructions as scripts of some kind
+*and*/*or* use some sort of `meta-build
+tool <http://cyborginstitute.org/projects/buildcloth/>`__ to generate
+the Makefiles programatically, using some sort of meta-build tool.
+
+Complexity abounds.
+
+-  Forcing you to model your build process as a graph, is actually not a
+bad thing, and frankly is the strongest selling point. Make doesn't
+enforce graphs (and how could you really?) but if you pay attention
+to the ordering and build performance it's not hard to keep things
+running in parallel.
+
+By contrast, Make's parallel execution is **SO BAD**. I think the
+problem is mostly shell/process creation overhead rather than
+scheduling. Regardless, for build systems with lots of small pieces, you
+loose a lot to overhead.
+
+So I took the logic that'd I'd been using to generate the Makefiles,
+implemented some simple ``mtime`` based dependency checking, and used it
+to call the build functions directly in Python.
+
+The results were huge. Speed gains of 300x, using 30% of the code and
+better processor utilization. Can't argue with that. Even the steps that
+required external (i.e. non-Python) sub-processes components were
+considerably faster
+
+So I was thinking: build systems tend to be big sources of blight, they
+tend to be hard to maintain and require a bunch of specialized knowledge
+that's distinct from the actual domain knowledge of a project, and most
+generic build tools have problems, (like Make,) so what gives?
+
+If the generic tools had better performance or were significantly easier
+to maintain, there'd be a rather convincing argument in their favor. As
+it is, I'm not really seeing it.
+

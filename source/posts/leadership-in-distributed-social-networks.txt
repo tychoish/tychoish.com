@@ -1,0 +1,55 @@
+=========================================
+Leadership in Distributed Social Networks
+=========================================
+
+.. post:: 2011-04-19
+   :author: tychoish
+   :tags: essay, leadership, open-source
+
+*Let us understand "social networks," to mean networks of people
+interacting in a common group or substrate rather than the phenomena
+that exists on a certain class of websites (like Facebook): we can think
+of this as the "conventional sense" of the term.*
+
+As I watch Anonymous, the 'hacktivist" group, to say nothing of the
+movements in Egypt and Tunisia, I'm fascinated by the way that such an
+*ad hoc* group can appear to be organized and coherent on the outside
+without appearing to have real leadership. External appearance and
+reality is different, of course, and I'm not drawing a direct parallel
+between what Anonymous is doing and what happened in Egypt, but there is
+a parallel. I think we're living in a very interesting moment. New modes
+of political and social organizing do not manifest themselves often.
+
+We still have a lot to learn about what's happened recently in
+Egypt/Tunisia/Libya and just as much to learn about Anonymous. In a
+matter of months or years, we could very easily look back on this post
+and laugh at its naivete. Nevertheless, at least for the moment, there
+are a couple of big things that I think are interesting and important to
+think about:
+
+-  We have movements that are lead, effectively, by groups rather than
+individuals, and if individuals are actually doing leadership work,
+they are not taking credit for that work. So movements that are not
+lead by egos.
+
+-  These are movements that are obviously technologically *very aware*,
+but not in a mainstream sort of way. Anonymous uses (small?) IRC
+networks and other collaborative tools that aren't *quite* mainstream
+yet. The Egyptian protesters in the very beginning had UStream feeds
+of Tahrir Square, and I'd *love* to know how they were handling for
+internal coordination and communication.
+
+-  I think the way that these movements "do ideology," is a bit unique
+and non conventional. I usually think of ideology as being a guiding
+strategy from which practice springs. I'm not sure that's what's
+happening here.
+
+-  The member activists, who are doing the work in these movements are
+not professional politicians or political workers.
+
+The more I ponder this, the more I realize how improbable these
+organizations are and the more I am impressed by the ability of these
+groups to be so effective. In addition to all of my other questions, I'm
+left wondering: how will this kind of leadership (or non-leadership)
+method and style influence other kinds of movements and projects.
+

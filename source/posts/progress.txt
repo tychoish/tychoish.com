@@ -1,0 +1,27 @@
+========
+progress
+========
+
+.. post:: 2007-06-24
+   :author: tychoish
+
+so, I've managed to get most of my work done on these [1]_ things,
+including the last minute fiddling.
+
+I like the way that this plugin works, and I've even managed to add
+category archives in a way that I like. I suspect that I'll probably
+slowly grow a TealArt template out this. we're long overdue for a
+redesign, and frankly K2, the theme that we've been hacking is
+irrevocably annoying.
+
+I updated the `station keeping <http://tychoish.com/hanm>`__
+documentation as well, and now all I have to do is actually write
+something. But I foresee grilled eggplant in my future, so I'll probably
+do that first.
+
+you know, this isn't very tumble-log-y. I have yet to try a block quote,
+though, that might help.
+
+.. [1]
+**Update:** by which I mean the website, and this design.
+

@@ -1,0 +1,116 @@
+====================
+Git Tips for Writers
+====================
+
+.. post:: 2010-02-10
+   :author: tychoish
+   :tags: git, writing, cyborg
+
+The Context
+-----------
+
+-  `git writing on wikish </wikish/git-writing/>`__.
+
+-  `haikus in
+git <http://www.snell-pym.org.uk/archives/2010/02/01/haikus-in-git/>`__
+
+-  `writing like a
+programer <http://tychoish.com/rhizome/writing-like-a-programmer/>`__
+
+-  `git thoughts <http://tychoish.com/rhizome/git-thinking/>`__
+
+`git <http://git-scm.com/>`__ is this version control system that's
+designed to be used in a distributed manner, and supports a very divers
+and non-linear workflow. While it's designed to support the work of
+software developers--particularly in large projects like the `linux
+kernel <http://kernel.org>`__--at the core, git is just a file system
+layer that has an awareness of time and iteration. It also does its
+magic on any kind of text files... code or writing. I use git to manage
+a lot of my writing--indeed, most of my digital life, which is a bit
+weird admittedly; and as a result people on the Internet, not to mention
+my coworkers,come to me with git questions from time. This post is a
+response to a more recent change.
+
+--------------
+
+How I Work
+----------
+
+I have two kinds of repositories: general repositories which store a
+bunch of different kinds of files that I need to work: the general
+repositories that store files that I always need to get things done, and
+specific project-only repositories that only have the text (and possibly
+notes) for a very specific project. I also have a "writing" repository
+where I do drafting for the blog, and start writing projects that I'd
+like to version, but are too small *yet* for their own project
+repositories. The brief overview:
+
+-  **garen** is like my home directory within my home directory, and it
+has config files, scripts. and other daily essentials.
+
+-  **org** stores my `org-mode <http://www.orgmode.org>`__ files.
+
+-  **fiction projects**: I have five repositories in ``~/`` that store
+fiction projects, that I'm theoretically working on in some capacity,
+though I haven't touched most of them regularly.
+
+-  **writing** holds blog drafting, and a couple of not-exactly-fiction,
+projects that I'm not quite ready to admit exist.
+
+-  **website content**: `wikish </wikish/>`__,
+`tychoish.com <http://tychoish.com/>`__,
+`cyborginstitute.com <http://www.cyborginstitute.com>`__, the `cyborg
+institute wiki <http://wiki.cyborginstitute.com/>`__ and a few other
+website projects that I'm involved with have repositories to store
+their content.
+
+The lesson here, about repository organization, is that git wants you to
+have distinct repositories for different projects. Its possible to merge
+repositories together (really!) and also to separate the histories of
+specific directories into their own repositories if you're so inclined.
+
+I write in emacs almost exclusively, I sometimes use
+`magit <http://zagadka.vm.bytemark.co.uk/magit/>`__, which is a
+delightful interface to git that works within emacs in a very
+emacs-centric way. If you use dired, magit will be familiar. Having said
+that, I mostly just add files, make commits and push repositories.
+Although I've been very interested in
+`flashbake <http://wiki.github.com/commandline/flashbake/>`__ for some
+time, I've never really used it: it seems designed for people who aren't
+used to version control or git, and the fact that I *am* means that it
+feels cumbersome to me. I suppose I should take this as a challenge, and
+attempt to hack it into something more usable from my perspective, but
+I've not felt the urge yet.
+
+I use
+`gitosis <http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way>`__
+(but it's in the debian repositories) on foucault (my server) to manage
+the publication of my git repositories. I push regularly, both to make
+sure that all of my machines are up to date, and also as a way of
+keeping my systems backed up. While I don't take snapshots of my
+systems, I've been able to set up systems and been up and running inside
+of ninety minutes after reimaging a laptop without loosing a single bit.
+Although unorthodox, git is my backup strategy, and the restores work
+fine. I strongly recommend having your own git hosting set up. It's not
+difficult, and while I think `git hub <http://www.github.com/>`__ is
+awesome on it's own terms, independence and self sufficiency is really
+important here.
+
+I don't really take advantage of any branching and merging in git,
+though I've played with it enough to know how it works. I do have a
+branch in the repository for the novel I'm writing for an editor to be
+able to edit the novel as I write on it without needing to see their
+changes and comments until I get to that point.
+
+And that's sort of it. I use
+`jekyll <http://wiki.github.com/mojombo/jekyll/>`__ (or an old `personal
+fork <http://github.com/tychoish/jekyll>`__) and soon to be
+`cyblog <http://github.com/basus/cyblog>`__) as well as
+`ikiwiki <http://www.ikiwiki.info>`__ to publish content, but other than
+that, I just write stuff.
+
+In any case, if you have thoughts on the subject I'd love to see your
+input on `the wikish git writing page </wikish/git-writing/>`__.
+
+Write on!
+

@@ -1,0 +1,89 @@
+==================
+Thinking about Git
+==================
+
+.. post:: 2009-04-16
+   :author: tychoish
+
+A collection of thoughts about git.
+
+I caught news, somewhat late in the game, about a project called
+"`Flashbake <http://bitbucketlabs.net/flashbake/>`__\ " which is a tool
+to make git use-able for `non-programmers to take advantage of git
+without needing to bother too much with thinking about how to use
+git <http://www.boingboing.net/2009/02/13/flashbake-free-versi.html>`__.
+(Which is needed because git is incredibly complex). I think this (and
+tools like and derived from this) is really cool, and a train of thought
+that I think we'd really benefit from enjoying. Here are some thoughts:
+
+-  What if, in combination with text converter tools, we had a tool that
+could: Take a text file written in markdown, and convert it to HTML
+and LaTeX and insert the output along side the source file in the
+repo.
+
+-  What if the LaTeX or HTML template was customizable
+
+-  What if it could also generate PDFs.
+
+-  What if it could do all this compilation from a GUI or a text-editor
+plug-in as well as (or in addition to the current cron-like
+interface).
+
+I guess the inspiration for some of these features would be to make git
+version-control work, totally without the command line interface.
+
+I suppose (heh) that I should work on hacking some of this together, the
+`flashbake code is on
+github <http://wiki.github.com/commandline/flashbake>`__, of course.
+
+I have another brief coding project to deal with before I get to deal
+with this, but I think I think I'll take a stab at integrating some of
+the automatic conversion stuff, and talk to some people about GUI
+layers. `My branch will
+be <http://github.com/tychoish/flashbake/tree/master>`__ there, if
+you're ever so inclined.
+
+--------------
+
+Second thought about git, is about `github <http://www.github.com>`__.
+The truth is that I don't use it that much: I can host my own git
+repositories, I've not yet gotten to a point where I'm working on things
+that I might publish things with git. But, it's not hard to notice the
+impact that git hub is having on development communities and code. I
+think there's clearly some research that's needed on the topic, but
+something is changing as a result of this site. Thoughts, in no
+particular order:
+
+-  There are, I think, legitimate, concerns about the openness of github
+itself. Why are we trusting our open source projects to hosting that
+isn't open? At the same time, the openness of git itself mitigates
+this slightly, as well as the fact that github's business model is
+one of hosting-services rather than one of data lock-in.
+
+-  The fact that there isn't a bug-tracker built in means that people
+with a problem are, I think more likely to look for the bugs in the
+code and hack on problems them-self rather than simply provide bug
+reports and feature requests. Not that bug tracking systems are
+problematic, but I think presenting users with code and the
+opportunity to easily publish their own branches without needing
+permission, increases involvement and connectedness to the code.
+
+-  I saw `mojombo <http://www.twitter.com/mojombo>`__ post a link to a
+specific revision of the change-log to a (really awesome) ruby-based
+git library. Really awesome. But the cool thing, I guess, was that
+the link to the code was similar to the way that people post links to
+their latest blog posts. This isn't revolutionary, I suppose, but I
+think that git promotes a different sort of publishing style for
+code, that I think is pretty cool/interesting/important.
+
+-  I suspect, though I don't have data to verify this, that github
+promotes people to publish things that would have previously been too
+trivial to publish. Flashbake, as above, people are posting
+repositories of their config files, of the odds and ends scripts that
+they use to make their computing experience easier. These are the
+kinds of things that I don't think people have (very frequently)
+stored in version control, and even less frequently published. The
+fact that both of these things are happening is very cool indeed.
+
+That's all. What are you thinking about?
+

@@ -1,0 +1,53 @@
+=====================
+Metrics and New Media
+=====================
+
+.. post:: 2008-06-11
+   :author: tychoish
+
+It's considered poor taste to talk about your numbers if you're a
+blogger or pod-caster, so while I'm thinking about mine, I'm going to
+offer some rough data points and talk about other people's numbers.
+
+A high quality, and reasonably high circulation, but pretty average
+science fiction magazine has an audience of about 10,000 per issue.
+
+I think the top end of academic literary magazines have audiences of
+about 5,000 with most of them closer to 1k or 2k.
+
+The minimum bar joining the federated media ad network is (or was)
+250,000 page views a month. Figure that 250k page views, works out to an
+audience of at least 100k but probably less than 200, depending on a lot
+of factors.
+
+The average, but established, mid-list podcast gets about 4k
+subscribers.
+
+I think TWiT podcasts (mostly weekly) get several hundred thousand
+subscribers/downloads, but not more than say, half a million.
+
+I heard a while back that `boing boing <http://www.boingboing.net/>`__
+got 3 million visits a month. Its probably more now.
+
+The New York Times has a daily circulation of 1 million, while the
+chicago tribune has a daily circulation of a bit more than half a
+million. The Wisconsin State Journal (the Madison, WI paper), has a
+daily circulation of just under a hundred thousand.
+
+I've heard `Cory Doctorow <http://craphound.com/>`__ and
+`PNH <http://www.nielsonhayden.com>`__ say that the break even point for
+a book from Tor is 4,000 hardcovers.
+
+I've also heard it said that about 1% of podcast/blog readers can be
+expected to buy stuff/donate/give feedback. In my experience this is
+probably true. I think, it doesn't scale well for more popular blogs, so
+that more than 1% of `Stephanie's <http://www.yarnharlot.ca>`__ readers
+comment and buy her books and donate to knitter's without borders. But
+it's still probably not more than 10%.
+
+I'm not sure what any of this means, and clearly four thousand people
+buying a hardcover book is different than buying a daily newspaper, or
+subscribing to a monthly journal, or just subscribing to a free podcast
+or visiting a website. But having some kind of concrete set of numbers
+is helpful and reassuring when I'm thinking "is it worth while."
+

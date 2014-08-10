@@ -1,0 +1,73 @@
+=================
+Wiki Completion  
+=================
+
+.. post:: 2008-11-12
+   :author: tychoish
+
+Insofar as it's been a loose series, this post is a continuation of my
+thoughts on `wikis <http://wtychoish.com/rhizome/wiki-questions/>`__ and
+`hypertext <http://tychoish.com/tags/hypertext/>`__. My leading question
+is "Are wiki's ever completed?" And "If so, how do we know and decide?"
+
+This is a question that I find myself wondering about a fair deal, and I
+think the answer--which I haven't come to a firm conclusion on--has a to
+do with the potentials of the wiki medium.
+
+I should jump in and say that, while
+`wikipedia <http://www.wikipedia.org>`__ is a great reference, a great
+tool, and an important project, because it's *the* example of "what a
+wiki is" it has shaped how we think of the medium in a way that I'm not
+sure is particularly useful. The biggest
+`wikia <http://www.wikia.com>`__ projects are encyclopedic studies of
+Star Wars and Star Trek, and while their material isn't quite suitable
+for wikipedia it is certainly in the same vein and tone.
+
+The encyclopedia form has been revitalized by the wiki, by
+decentralizing the review process, democratizing (more or less) the
+focus and the creation of articles, but most importantly by removing the
+"space limitation" on content. Nevertheless I continue to be convinced
+that wikis as a forum are capable of so much more.
+
+On the one hand, big projects, like the kind that might be recorded in a
+wiki, are never really completed as much as they are eventually
+abandoned. That sounds pessimistic, but I think it's ultimately
+productive: eventually a project has done what it needs to do, and what
+with perfection being unattainable, the productive thing to do is move
+on. The decision of when to do that is perhaps one of the most important
+decisions that a creator/artist can make about a work.
+
+But who makes that kind of decision about a wiki? Is there a point where
+people just abandon a wiki? While wiki's are collaborative, that's not
+to say that they don't have leadership (wikipeida's leadership
+organization is epic, for example,) but who makes these kinds of
+decisions?
+
+While I'm prone taking an entire wiki as a single document, the fact
+that a wiki is really a network of tightly connected texts surely has
+baring on the answer to the question.
+
+Software projects use the concept of "stable releases" and a "release
+cycle" to ensure that a project can both continue to develop, and exist
+as finished cycles. The `debian <http://www.debian.org/>`__ project has
+it's own procedure for encouraging ongoing development of their
+system/packages *and* creating rock solid stable systems.
+
+Additionally, while most wiki's have semi sophisticated version control
+systems, they for the most part don't have a concept of "branches,"
+which might be helpful for implementing a stable wiki/wiki branch
+system. Even `ikiwiki <http://www.ikiwiki.info>`__, which can use
+systems like `git <http://www.git.or.cz>`__ to store history, doesn't
+have a good display system for switching between branches/revisions.
+
+I'm not sure--of course--if there are really good answers to these
+questions. While I haven't begun to post any of them, there are a number
+of projects that I've been playing with in my mind (and locally on my
+own computer) that are wikis, but I've been hesitant to let them go into
+the wild in part because of issues like the one discussed above. And
+above all, if the wiki format is going to grow away from and
+independently of the encyclopedia format, I think we need to begin
+discussing questions like that.
+
+So there. Onward and Upward!
+

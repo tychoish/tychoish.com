@@ -1,0 +1,77 @@
+===================
+sustainable ecology
+===================
+
+.. post:: 2009-05-14
+   :author: tychoish
+   :tags: economics
+
+Here's another in the train of posts about economics and sustainability.
+I started with meditations on `cooperatives, and
+openness <http:///tychoish.com/rhizome/coops-competition-openness/>`__
+and `martian
+economics <http:///tychoish.com/rhizome/martian-economics/>`__, and then
+`business in network
+service <http:///tychoish.com/rhizome/free-network-businesses/>`__. And
+finally, `a brief thought on the state of contemporary
+marriage <http:///tychoish.com/rhizome/co-op-marriage>`__. This post
+takes a step back so that I can talk about what I mean by
+sustainability, which I think requires a bit of a sidestep into thinking
+about ecology and the environment.
+
+Sustainability, as I've come to think about it seems to be more about
+directing economic activity toward independence, an self sufficiency
+rather than toward "growth," (the for-profit model) and
+charitable/philanthropic goals (the non-profit model).
+
+No sooner do I say this, and I realize that being a proponent of
+sustainable approaches to economics makes me seem like something of an
+economic isolationist, and I think that's the wrong direction. The
+problem with sustainability isn't just that it's hard to accomplish in
+pragmatic terms, but also hard to think about. We simply don't have
+structures or models for people and groups who want to make an honest
+living creating new things (eg. fiction, computers, cabinets, software,
+agriculture/comestibles, pharmaceuticals, plumbing, newspapers, etc).
+
+Sure, we know how to make things, and most of us manage to make a living
+at it, but our economic models rely on lots of growth and expansion in
+order for capital to be available (cite: current economic crisis). The
+missing piece--it seems to me--is a more systems-based approach to
+economic development and corporate organization.
+
+Sustainability is, after all, an ecological idea and in this context.
+And discussions of the environment and ecology seem way more focused on
+sentimentality, hydrocarbon intput/output, and humanity's impact on the
+environment in the context of our existing (non sustainable) business
+practices and not enough time thinking about our business practices in
+environmental terms. But taking an "ecological" approach to economics
+signifies (in my mind) attention to the economy as a whole, and
+sustainability as a practice, and that seems like it would be a good
+thing.
+
+In the `Mars books (which have been quite influential in this
+series) <http://tychoish.com/rhizome/martian-economics/>`__ a few
+characters float the notion of an "eco-economics" where currency (such
+as it exists), are based on caloric input and output. Which is a nifty
+way to think about it. The strongest part of the martian government
+(near the end of the series) is a regulatory "environmental court" that
+attempts to manage the ecological/economical activities on a global
+scale. They're reasonably effective at this.
+
+I return the Mars books because they're fresh in my mind, and because
+they present a possibility that's both radically different from our
+current system *and* that attends to the weight of our history. I don't
+think that the Robinson-Mars solution is the answer to our economic
+problems but it does force us to say "20th centry growth-levels are
+unsustainable, and undesirable," and that "from a systems-based approach
+(if no other) capitalism is unstable." And that's a useful thought
+exercise.
+
+As is the project of thinking about economics in environmental terms.
+Not because it will diminish human impact on ecologies--though it
+may--but because that sort of systems approach will lead to more
+sustainable economies and better lives for all parties to that
+activity--human and environmental.
+
+That's a worthwhile goal.
+

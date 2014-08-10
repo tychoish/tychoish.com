@@ -1,0 +1,74 @@
+=========
+Linuxing 
+=========
+
+.. post:: 2008-11-03
+   :author: tychoish
+
+So I've been `switching to
+linux <http://tychoish.com/rhizome/linux-update/>`__ right? Right. Well
+the machine has arrived, and I've been able to get most of the required
+things set up the way that I need them. The `awesome window
+manager <http://awesome.naquadah.org/>`__, my ususal compliment of
+software, copying over config files and what not. It's not hard, and the
+only thing that gave me a hickup was using
+`Xrandr <http://www.x.org/wiki/Projects/XRandR>`__, and that was pretty
+quickly solved.
+
+I wrote about my `editor
+issues <http://tychoish.com/rhizome/linux-switching-and-editors/>`__
+last week, which are progressing slowly. I think I need. I've started to
+use a lot of console emacs for more day-to-day stuff like writing blog
+posts and takin notes for work. Probably by the time this posts, I'll
+have relented and started to use the GUI version for some things.
+
+But, contrary to popular beleif, there's more to using linux than just
+text editors. Though it doesn't seem like it very much. Particularly
+when you write a crap ton. Let me review the kinds of things that I've
+been working on, and what I have left to do:
+
+-  I'm using the `vimperator <http://vimperator.mozdev.org/>`__ plugin
+for Firefox, which makes the browser behave a lot more like vim.
+Which makes sense in a browser, somehow. It basically means that I
+don't have to use the mouse very much, except when I want to, and
+that's a good thing, given how awesome works.
+-  Awesome works great with both monitors as I expected. In a way, it's
+not so much that I got a new computer, as it is that I got **two**
+new computers. And they're "both" really peppy. It does mean that my
+desk is way too small for everything I need to do with it. The linux,
+the Mac. I got a stack of *paper* to read yesterday, and I tried to
+set it on the corner of my desk and it was commical how little
+flexabile room I have on my desk. I'm anticipating a move pretty
+soon, so I don't want to get new furnature quite yet.
+-  I've been using the
+"`terminator <http://www.tenshu.net/terminator/>`__\ " program for
+terminal emulation, and it's delightfully simple. Wheras with most
+terminals I think "wow this sucks," with terminator, I'm only a
+little grumpy that the copy and past commands are bound to
+non-standard key combinations.
+-  I still think pidigin stucks, and I've been over this before, but the
+more I use it, the more I can recognize flaws with Adium, so it's
+very much a "you can't go home again," situation. Pidgin is an
+instant messaging client, and Adium is based on the same core
+software, but packaged for OS X.
+-  It took me way too long to figure out how to turn on the font
+smoothing so that everything doesn't look like crap. Which it did,
+but it meant some config file editing, because all of the
+gnome-settings functionality won't work because it doesn't like the
+dual monitor set up. I don't mind, because I'm only using bits and
+pieces of gnome as it is, but it's worrying. I love this computer and
+this interface, and I wouldn't like to work in some other way. But
+I'm acutely aware that except in very controlled situations, I
+wouldn't trust it to non-specialized users.
+
+I'll probably continue to write lists like these, as much for your
+edification (and mine!) as for record keeping. Thanks for reading!
+
+(I wrote this entry in emacs, and I think it has me sold, particularly
+if I can get all of the important modes to come on by default, which I
+haven't yet. I'm also running in console mode and I'm getting this weird
+"echo" cursors which hang on the screen in an annoying way that I can't
+predict. running "M-x redraw-screen" cleans things up, and if nothing
+else running that every so often in an automated way would probably
+clear things up, unless this sounds familiar to anyone?)
+

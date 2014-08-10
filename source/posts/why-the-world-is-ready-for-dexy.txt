@@ -1,0 +1,107 @@
+===============================
+Why The World is Ready for Dexy
+===============================
+
+.. post:: 2011-01-11
+   :author: tychoish
+   :tags: technical-writing
+
+At one time or another, I suspect that most programmers and technical
+writers have attempted to "fix" technical writing in one way or another.
+It's a big problem space:
+
+-  Everything, or at least many things, need to be documented, because
+undocumented features and behaviors cause problems that \*one really
+ought not need to review the source code and understand the
+engineering to fix (potentially) trivial problems, every time the
+occur.
+
+-  The people who write code are both not suited to the task of writing
+documentation because writing code and writing documentation are in
+fact different skills. Also, I think the division of labor makes some
+sense here.
+
+-  Documentation, like code, requires maintenance, review, and ongoing
+quality control, as the technology and practice change. That's a lot
+of work and particularly for large projects, that can be a rather
+intensive task.
+
+-  Lots of different kinds of documentation are needed, and depending on
+the specific needs of the user, a basic "unit of documentation," may
+need to be presented in a number of different ways. There are a
+number of ways to implement these various versions and iterations,
+but they all come with various levels of complexity and maintenance
+requirements.
+
+The obvious thing to do, if you're a programmer, is to write some system
+that "solves technical writing." This can take the form of a tool for
+programmers that encourages them to write the documentation *as* the
+write the code, or it can take the form of a tool that enforces a great
+deal of structure for technical writing, to make it "easier" for writers
+and programmers to get good documentation. Basically "code your way out"
+of needing technical writers.
+
+You can probably guess how I feel about this kind of approach.
+
+There is definitely a space for tooling that can make the work of
+technical writing easier, as well as space for tools that make the
+presentation of documentation clearer and more valuable for users. Tools
+won't be able to make developers to write, at least not without a
+serious productivity hit, nor will tools decrease the need for useful
+documentation.
+
+It's a difficult problem domain. While there is a lot of room for
+building programs that make it easier to write better documentation, the
+problem is that the temptation to write *too much* software is great.
+Often the problems in the technical writing process, including high
+barriers to entry, complicated build/publication systems, and difficult
+to master organizational methods, which are easy to address in programs.
+Meanwhile, most of these issues can be traced to overly complex build
+tools and human-centered problems, which are harder to address in code.
+
+And since documentation takes the form of simple text, which seems easy
+to deal with, developers frustrated by documentation requirements, or
+technical writing teams, are prone to trying to write *something* to fix
+the apparent problem.
+
+Which brings us to the present, where, if you want to write and publish
+documentation, your choices are:
+
+-  Use a wiki, which `isn't
+documentation <http://criticalfutures.com/2010/09/wikis-are-not-documentation/>`__
+but the software generally does a good job of publishing content, and
+wiki engines mostly don't have arcane structures of their own that
+might get in the technical writer's way. **Downside:** it's the wrong
+tool for the job and it forces writers and editors to maintain style
+themselves across an entire corpus, which is difficult and eventually
+counterproductive.
+
+-  Use some other existing content management system. Typically these
+aren't meant for documentation, they have difficult to use
+interfaces, because they're meant to power websites and blogs, and
+they almost impose some sort of structure (like a blog,) which isn't
+ideal for conveying documentation.
+
+-  Use an XML-based documentation tool-set. This is probably the best
+option around, at the moment, as these tools were built for the
+purpose of creating documentation. The main problems are: they're not
+particularly well suited for generating content for the web (which I
+think is essential these days) and as near as I can tell they make
+humans edit XML by hand which I think is *always* a bad idea.
+
+-  Build your own system from the ground up. Remember text is easy to
+munge and most of the other options are undesirable. **Downside:**
+homegrown projects take a lot of time, they're always a bit more
+complex than anyone (except the technical writers?) expect, and it's
+easy to *almost* finish and that's bad because half-baked
+documentation systems are most of what get us into this problem in
+the first place.
+
+So it's a thorny problem and one that lots of people have (and are!)
+trying to solve. I've been watching a tool called
+`dexy <http://dexy.it>`__ for the last few weeks (months?) and I've been
+very interested in it's development and the impact that it, and similar
+tools, might have on my day-to-day work. This post seems to be the first
+in a series of thoughts about the tools that support technical writing
+and documentation.
+

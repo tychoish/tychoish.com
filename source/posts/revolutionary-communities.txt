@@ -1,0 +1,118 @@
+=========================
+Revolutionary Communities
+=========================
+
+.. post:: 2009-09-01
+   :author: tychoish
+   :tags: economics
+
+I began to get to this in my `post on health care and cooperatives, and
+governmental
+reform <http://tychoish.com/rhizome/health-care-cooperatives/>`__ but I
+think it's important to get to this point in its own post.
+
+I guess what I've been gunning at (whether or not I realized it) is,
+"the shape of social/political change" in the contemporary world. What
+does change look like? What mechanisms can we use to create change? How
+do the existing ways that we think of revolutionary change fail to
+address the world we live in?
+
+--------------
+
+Samuel R. Delany, in his essay(s) *Time Square Red, Time Square Blue*
+presents what he calls "Contact" a potential instrument of social
+reform, of social "activism." Contact, boils down to unstructured,
+seemingly random, intermingling of people in urban contexts. He argues
+for direct relationships, for an increase in cross-class cross-race
+relationships, by avoiding "gentrification" and social segregation. And
+he illustrates the efficacy of these methods with a number of pretty
+effective examples.
+
+When I read this the first time, as well as the second and third, I
+thought remember thinking "wow, that was the first social critique I've
+read that not just presents an overwhelming critique of a cultural
+phenomena (gentrification, the sequestering of public sexuality) but
+that also presents a mechanism for social change."
+
+The problem with presenting mechanisms to promote social and political
+change is that the details are incredibly difficult to clarify, and it's
+easy to present a valid critique without presenting an idea of how to
+effect change. It's easy to call for action, and leave the nature of
+that action up to the in-the-moment activists. It's far too easy to
+point out a social problem, even a superstructural issue, and then
+default to the methodology of previous generations (and issues,) to
+attempt to solve the problem. Here's an example:
+
+We see a lot of "recursion to Marxist-inspired methodology," without
+much (I'd say) thinking about the industrial/material implications of
+Marx. This happens, to varying degrees in a number of areas: I think in
+some more casual Marxist-Feminism, in (some) environmental movements,
+and other movements that present "revolutionary social/political"
+critique. Revolutionary moments are indeed important times for some
+renegotiation of social values and systems, but it's too easy to say
+"after the revolution...." and get all misty eyed, and forget that the
+critique at hand has very little to do with the disconnect between the
+ownership of resources, labor, and social power.
+
+Furthermore, I think there are a lot of contemporary civil rights
+movements (Gay and Lesbian, Women, Immigrant) that refer back to the
+American Civil Rights Movement in a way that ignores the complexities of
+the current issue, or the complexity of the earlier issue. In any case,
+interlude over, I think I'm gunning for a way to get past this trap of
+casting contemporary struggles in the methodological terms of past
+struggles.
+
+--------------
+
+My contention is that in the next, 20 or 30 years [1]_ the biggest force
+of social change won't be (exactly:) the mustering of revolutionary
+regiments, it won't be about who we elect to legislatures and executive
+offices, it won't be about where we march; but rather, about the
+communities we form, about the relationships we develop in these
+communities.
+
+**But tycho, I know you're interested in communities, but
+*revolution?***
+
+Indeed, it's a stretch, but here's the argument: when people get
+together, we **make** things. We see this in free software, we see this
+in start-ups, we see this in fan communities on the Internet. This
+*production*, is going to be an increasingly important part of our
+economic, political, and social activity, and the conversations the
+cross-class contact that occurs when people get together to work on
+something of common interest. Communities are the substrate for the
+transmission of ethical systems, and are the main way in which
+ideologies are transmitted to people. This is all incredibly important.
+
+**But tycho, materialism isn't dead, you're ignoring *things* which
+continue to have great importance!**
+
+Technology won't make material things *matter less* at least in the way
+that this statement assumes. What technology will almost *certainly* do
+is make it possible for fewer people to do the work that once required
+required great infrastructure and capital outlay. Technology will allow
+us to coordinate collaboration over greater distances. Technology will
+lower the impact of large economies of scale on the viability of
+industries (smaller production runs, etc.) The end result is the things
+that take huge multi- and trans-national institutions (corporations) to
+produce today, could potentially be the domain of much smaller
+cooperatives.
+
+--------------
+
+We'll realize, I think only somewhat after the fact, that the world has
+changed, and all the things that we used to think "mattered" don't
+really. And I think, largely, we can't plan for this. The "work" ahead
+of is, is to *make things* do work with other people, to collaborate and
+draw connections across traditional boundaries (nations, class, race,
+discipline, gender, skill sets), in the present and let the future
+attend to itself. These kinds of ad-hoc institutions are already
+forming, are already *making things*. And that's incredibly cool.
+
+Thoughts? I need to improve the history section of this, a good bit, and
+come up with more examples of the kinds of communities that exemplify
+this kind of organization, but this is a start.
+
+.. [1]
+These are rough dates, lets just say "until the singularity hits."
+

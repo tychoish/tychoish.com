@@ -1,0 +1,95 @@
+========================
+Lamenting Project Xanadu
+========================
+
+.. post:: 2009-04-30
+   :author: tychoish
+   :tags: technology, cyborg
+
+I've been reading `this is stevenf.com <http://www.stevnf.com>`__
+recently, and I have to say that it's among my favorite current blogs
+(by people I don't know). Geeky, but it doesn't revolve around code
+snippets, simple, and minimal but in all of the right ways. And a bunch
+of fun. Anyway he posted `an article a while ago that got me thinking
+called, "it's my xanadu," go ahead read it and then come
+back <http://stevenf.tumblr.com/post/90491161/its-my-xanadu>`__.
+
+That's a great idea isn't it? I've been thinking a lot about data
+management and the way we represent, store, access, and use knowledge on
+the computer, so stuff like this gets me more excited than it really
+should, all things being equal. `My good friend Joseph Spiros is even
+working on a program would implement something very much like Xanadu and
+the system that sevenf
+described <http://josephspiros.com/2009/02/05/prelude-to-haven>`__.
+
+First order of business should probably be to explain what Project
+Xanadu is for those of you who don't know.
+
+Xanadu was the first "hypertext system" designed that recognized that
+text in digital formats was a different experience and proposition than
+analog text. Proposed by Theodor Holm Nelson in the 1970s (with
+floundering development in the 1980s), Xanadu to be something *amazing*.
+It had features that contemporary hypertext systems sill lack. I think
+everyone has their own list of "things from xanadu that I want now," but
+for me the big sells were:
+
+-  Links went both ways: If you clicked on a link, you could reverse
+directions and see what documents and pages had links to the current
+page. This means that links *couldn't* break, or point to the wrong
+page, among other things
+
+-  Dynamic transclusions. Beyond simply being able to quote text
+statically, Xanadu would have been able to include a piece of text
+from another page that dynamically represent the most current
+revision of the included page. For example, I include paragraph 13 on
+page A (A.13) somewhere on page B; later you change A.13 to fix a
+typo, and the change is reflected in page B. I think links could also
+reference specific versions of a page/paragraph (but then users could
+from page B, access new and older dimensions of A.13).
+
+-  Micropayments. The system would have had (built in) a system for
+compensating "content creators/originators" via a system to collect
+very small amounts of money from lots of people.
+
+Needless to say, it didn't work out. It turns out that these features
+are really hard to implement in an efficient way--or at least they were
+in the eighties--because of computing requirements, and the very
+monolithic nature of the system. Instead we have a hypertext system
+that:
+
+-  Is built around a (real or virtual) system of files, rather than
+documents.
+
+-  Has no unified structural system.
+
+-  Must rely on distributed organizational systems (tagging, search
+engine indexes.)
+
+-  Is not version-aware, and it's pages are not self-correcting.
+
+-  Relies on out-modded business models.
+
+To be fair, much of the conceptual work on the system was done before
+the Internet was *anything like it is today,* and indeed many of these
+features we can *more or less* hack into the web as we know it now:
+wiki's have "backlinks," and google's ``link:`` search is in effect much
+like Xanadu-Links, using dynamic generation we can (mostly) get
+transclusions on one site (sort of), and paypal allows for micropayments
+after a fashion.
+
+But it's not *baked in to the server*, like it would have been in
+Xanadu, this is both the brilliance and the downfall of Xanadu. By
+"baking" features into the Xanadu server, hypertext would have been more
+structured, easier to navigate, easier to collaborate, share and
+concatenate different texts, and within a structure easier to write.
+
+And yet, in a lot of cases, I (and clearly others) think that Xanadu is
+worth considering, adopting: indeed, I think we could probably do some
+fairly solid predictions of the future of hypertext and content on the
+internet let alone information management in general, based on what was
+in Xanadu.
+
+That's about all I have, but for those of you who are familiar with
+Xanadu I'd love to hear what you "miss most" about Xanadu, if you're
+game.
+

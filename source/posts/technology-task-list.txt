@@ -1,0 +1,108 @@
+====================
+technology task list
+====================
+
+.. post:: 2009-11-20
+   :author: tychoish
+   :tags: cyborg
+
+Thought I've gotten away from it a bit in recent months,
+`tychoish <http;//tychoish.com/>`__ has a long history of being an
+outlook of lists of various things. While I'm not sure I want to post
+*all* of my lists for everyone to point and laugh at, the following
+might be worth exploring.
+
+This is a list of things I need to get worked out with my new computer,
+with technology in general. I post it both because I need an excuse to
+do a little brainstorming, and because it might be nice to get a little
+feedback from you all. Without further ado:
+
+-  **Get USB Mounting/Auto-mounting to work more smoothly.**
+
+I use USB mass storage devices so rarely that I'm totally oblivious as
+to how I should go about setting this up with Arch Linux.
+
+-  **Reformat and server-ify my desktop.**
+
+Since I'm basically not using my desktop as a desktop anymore... and
+there are some things that just don't work... and there are no files
+left on it that I don't have backed up elsewhere... I think it's time to
+do a system wipe. I want to put Arch on it. I had thought about putting
+Xen on it and using virtual machines, but I'm now in a place where the
+increased management burden of that would outweigh the benefits of that.
+So I think I'm just going to set it up like a server, (but I suppose
+setting up a lightweight desktop wouldn't be a big stress). Mostly I
+think having a server at home will be useful for testing, development,
+and othersuch projects. In any case, it's not terribly useful as it is.
+
+-  **Reorganize my music collection (now on laptop).**
+
+I copied over my music collection and while I've had a bunch of luck
+with `mpd <http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki>`__, I
+need to spend some time reorganizing the music. It's on the list, and I
+shall do it.
+
+-  **Straighten out the situation with my external hard drive.**
+
+Yeah, no clue here. I hope it's alright. I'm going to try and use the
+Mac at work to see if I can't make it work better. I may crack the
+enclosure and put it in my desktop once that's in better working order.
+
+-  **Acquire accessories:**
+
+There's stuff I've had on my shopping list for a while. In no particular
+order:
+
+-  *A more suitable laptop sleeve.*
+
+As it turns out, I have this backpack that's great for lugging stuff
+around, but it's bigger than I need most of the time, and the laptop
+padding could handle my 15.4" PowerBook back in the day. Current
+laptop is quite small, so it's sort of overkill. This is lower
+priority.
+
+-  *Additional power adapters.*
+
+The battery on this puppy is amazing. Having said that it's nice to
+have a power adapter that can just live in my bag so I don't have to
+fuss with repacking the power adapter every time I leave somewhere. I
+think one at my desk at work, one for home, and one for my bag is my
+usual complement and Lenovo power adapters are a lot cheaper than mac
+ones...
+
+-  *Wireless access point for home.*
+
+Somehow I don't have one. Oversight. Must procure soon. The thing is
+that I have an ancient 100 foot Ethernet cable that seems to do the
+job pretty well.
+
+-  **Sort out Sleep/Wake Cycle**
+
+I think I mostly have this one sorted out. Basically, I had problems
+with the new laptop freezing when waking up from suspend/sleep when the
+network state upon return was different than when the laptop went into
+suspend. A little tweak to the ACPI event script, and everything seems
+to be in order.
+
+-  **Write Network Management Triggers**
+
+I'm using the preferred network manager suite for Arch Linux (e.g.
+"netcfg") and it works *great*, except it's sometimes a bit bothersome
+to mange things, when I think it ought to just work. So I think I have a
+solution: create shortcuts and triggers in the window manager to get
+network stuff working a bit more smoothly. Now I just have to make it
+work.
+
+-  **Tinker with StumpWM contrib packages**
+
+Once I got Stump WM working and set up, I mostly abandoned it. There's
+all sorts of cool lisp things in the ``contrib/`` directory that I
+haven't tinkered with. Well, except for ``mpd.lisp,`` and even then not
+terribly much. I think I'd get something out of playing with those and
+so it's on the list.
+
+-  **Figure out what to do with the x41.**
+
+I'm not sure. The old laptop works, and I feel like I should do
+something with it... But what?
+

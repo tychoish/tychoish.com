@@ -1,0 +1,51 @@
+=======================
+Are We Breaking Google?
+=======================
+
+.. post:: 2011-06-30
+   :author: tychoish
+   :tags: cyborg
+
+Most of the sites I visit these days are: Wikipedia, Facebook, sites
+written by people I've known online since the late 1990s, people who I
+met online around 2004, and a few sites that I've learned about through
+real life connections, open source, and science fiction writing. That's
+about it, it sounds like a lot, and it is, but the collection is pretty
+static.
+
+As I was writing about my nascent list of [[technical writing
+links\|technical-writing/links]], I realized that while I've been
+harping on the idea of manually curated links and digital resources for
+for a single archives for a couple of years now, I've not really thought
+about the use or merits of manually curated links to the internet writ
+large.
+
+After all you can find anything you need with
+`Google <http://lmgtfy.com/>`__. Right?
+
+I mostly assumed that if I could get people to curate their own content,
+"browsing" would become more effective, and maybe Google technology
+could adapt to the evolving social practice?
+
+Though the inner workings of Google are opaque, we know that Google
+understands the Web by following and indexing the links that *we* create
+between pages. If we don't link, Google doesn't learn. Worse, if we let
+software create all the links between pages, then Google starts to
+break.
+
+Put another way: the real intelligence of Google's index isn't the speed
+and optimization of a huge amount of data--that's a cumbersome
+engineering problem--but rather *our* intelligence derived from the
+links we make. As our linking patterns change, as all roads begin to
+lead back to Wikipedia, as everyone tries to "game" Google (at least a
+little) the pages that inevitably float to the top are pages that are
+built to be indexed the best.
+
+And Google becomes a self-fulfilling prophecy because whatever page we
+*do* find out about and create links to are the links that we've found
+using Google. We've spent a lot time thinking about what happens if
+`google becomes evil <http://craphound.com/scroogled.html>`__, to think
+about what happens to us as Google stops providing new and useful
+information. We've spent considerably less work considering what happens
+when Google becomes useless.
+

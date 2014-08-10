@@ -1,0 +1,162 @@
+=============================
+Links on the Art of Techology
+=============================
+
+.. post:: 2009-12-14
+   :author: tychoish
+   :tags: cyborg, economics, academia
+
+I have a collection of links that I'd like to share with you. I hope you
+enjoy and find them as enlightening as I have. Some of these are dated
+but, I've been milling through them for a while and I feel like they're
+worth sharing. In three parts:
+
+Computer Programming and Hacking
+--------------------------------
+
+-  `Art of Computer
+Programing <http://www.developerdotstar.com/mag/articles/art_computer_programming.html>`__
+-  `Software
+Artisans <http://designbygravity.wordpress.com/2009/10/03/dont-be-a-coder-engineer-or-developer-be-a-software-artisan/>`__
+-  `Unit testing and
+Agile <http://www.gigamonkeys.com/blog/2009/10/05/coders-unit-testing.html>`__
+
+There's a long tradition of computer scientists and eminent developers
+thinking about their software development as an Art. Donald Knuth's
+major work is called "The Art of Computer Programming," and literate
+programing is fundamentally an *artistic* rather than a technical idea.
+The idea of the "lazy programmer" from the Perl world has some obvious
+artistic implications (hell, Perl's license is called the "Artistic
+License"), and the Extreme Programing (XP)/Agile Programming world is
+very much about addressing programming as creative challenge rather than
+a purely technical challenge.
+
+I particularly like the contrast of the first two articles with the
+third. While I'm not sure it's particularly conclusive in the brief
+overview and with such a small sample, the insights about the ways that
+programmers approach problems is pretty useful. Makes me want to get
+`the book <http://www.codersatwork.com/>`__.
+
+-  `On Functional
+Programing <http://www.linuxjournal.com/article/8850>`__
+-  `How John Wiegley uses
+git <http://www.newartisans.com/2009/10/branch-policies-with-git.html>`__
+
+I may not be a programmer in the conventional sense (or even any of the
+unconventional senses that I'm aware of) but there are two things that I
+know for sure. First: functional programming makes sense to me in a way
+that nothing else ever really has, and secondly that I am fascinated by
+the different ways that people use and manage projects with Git.
+
+I think functional program makes sense to me because little blocks that
+"do something" matches the way my brain is shaped in some useful way.
+Every introduction to object oriented programming I've ever experienced
+starts with like 50 pages (or equivalent) of crud about data structures
+and types . Which I'm sure make sense if you know what's coming next,
+but if you're a programing n00b: less than helpful.
+
+Also, regarding the use of git: it's fascinating how many different ways
+and different work-flows people manage to squeeze out of software like
+this! What he's doing makes sense, a lot of sense on paper, but most
+people don't publish long-running branches in such an organized manner.
+Sure there are "vendor branches" for release maintenance, but branches
+in git tend to be much more *ad hoc* from what I've seen. Anyway, good
+one for the file.
+
+-  `The Trouble With
+Frameworks <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
+
+I've been looking over `weppy <http://webpy.org/>`__ for the past few
+weeks, along with the bindings for a couple of weird databases (of the
+`NoSQL <http://nosql-databases.org/>`__ variety, loosely), as part of a
+brief attempt to learn how to think like a web-developer. (It's hard
+more on this later.) I find myself both incredibly enchanted with the
+prospect of some of these frameworks (particularly the python ones), and
+yet at the same time very unsure of what they represent in terms of the
+Internet. Frameworks aren't going anywhere, and I think by some measure
+they are "getting better," I do think they make it awfully easy to avoid
+putting in the time to "get it right," which might not matter most of
+the time, but when it does *oh boy, does it*.
+
+Academia, Anthropology, Literature
+----------------------------------
+
+-  `The Past Future Literary
+Magazines <http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/article6864371.ece>`__
+-  `The Future of
+Books <http://www.futureofthebook.org/blog/archives/2009/09/a_clean_well-lighted_place_for.html>`__
+
+I `wrote a series of articles on the future of
+publishing <http://tychoish.com/archive/new-media/>`__ and I found
+myself returning again and again to these two essays as a source of
+inspiration, and I haven't quite gotten them out of my head.
+
+I'm not sure if I agree with this consensus, but it seems pretty clear
+that multi-media websites, twitter, and "blogs" (by some definition of
+the term) are acceptable replacements for journalistic publishing
+(newspapers, magazines). These essays, engage literary publishing, and
+force (particularly the second) us to think about the economics of
+booksellers, including branding, brick and mortar shops, which I think
+is incredibly important.
+
+-  `Aaron Swartz on Disciplinary
+Bubbles <http://www.aaronsw.com/weblog/disciplinarybubbles>`__
+-  `Cyborg Anthropology and the
+Singularity <http://caseorganic.posterous.com/the-singularity-in-a-basket>`__
+
+In the piece on Cyborg Anthropology, Amber Case discusses looks at the
+Singularity from a much less technical perspective. In a lot of ways
+this reminds me of my post on `the Dark
+Singularity <http://tychoish.com/rhizome/the-dark-singularity/>`__ from
+a few months back. The singularity is, of course ultimately a cyborg
+problem.
+
+Aaron Swartz's piece on the academy... I don't know that he's wrong,
+exactly, but I think I would avoid being as unilateral as he is. On the
+one had disciplines exist mostly to organize *education* not *research*,
+and if I were going to make a conjecture: we see more disciplanarity and
+sub-disciplining in fields with substantive funding outside of the
+academy. Doctors, lawyers, psychologists, biologists, chemists, have
+teeny-tiny little sub-fields; and by contrast you see a lot more
+interdisciplinary activity in the academic study of anthropology,
+literature, mathematics, and, say musicology. Interesting, nonetheless.
+
+The Industry of Technology
+--------------------------
+
+Two posts here from `James Governor of
+RedMonk <http://www.redmonk.com/jgovernor/>`__ that have guided (at
+least topically) my thinking in a couple of areas recently. This is
+particularly noticeable if you look over `the recent
+archives <http://tychoish.com/archive/>`__. The first `addresses Flash
+and the business of advancing the platform of the
+web <http://www.redmonk.com/jgovernor/2009/10/09/honey-i-broke-the-runtime-from-flash-lite-to-flash-like/>`__.
+My trepidation with regards to flash is mostly the same as my
+trepidation with regards to *all web technology*. When you get down to
+it, my grumbling all goes back to the fact that the web is developing
+into this thing that is all about media rich software, and less about
+hyper\ **text**, which is where my heart has always been. My argument
+keeps going back to "take the applications off of the web as we know it,
+and use a platform that (like GTK+ or QT) that's designed for
+applications, and create a hypertext experience that really works." But
+it's nice to have articles like this one to pull my head out of (or
+into?) the clouds to remind me (and us?) what's really going on in the
+industry.
+
+This is an old one from the same source, about `the new "patronage
+economy" which in many ways defines what's going on at
+RedMonk <http://www.redmonk.com/jgovernor/2007/01/04/on-jon-udell-freedom-talent-management-and-the-new-patronage-economy/>`__.
+I particularly enjoy how Governor contrasts the New Patronage with other
+popular web 2.0-era business models. I do worry, looking at this in
+retrospect about the ways in which such patronages are stable even when
+the economy is in the crapper (as it were.) I'm not sure if there's an
+answer to that one yet, but we'll see. I guess my questions, at this
+juncture are: first, does patronage-type-relationships give "start ups"
+another funding option which is more stable than venture capital.
+Second, doesn't the kind of organization and work that's funded by these
+patronages subvert the kind of work that they depend upon (i.e. big
+high-margin businesses?)
+
+That's all I have at the moment. If you have links or thoughts to share,
+I'd live to see them!
+

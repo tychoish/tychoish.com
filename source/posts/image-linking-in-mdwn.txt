@@ -1,0 +1,11 @@
+=========================
+image linking in markdown
+=========================
+
+.. post:: 2007-07-04
+   :author: tychoish
+
+![Alt text](/path/to/img.jpg)
+
+reference style links work as well.
+

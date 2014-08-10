@@ -1,0 +1,34 @@
+================================
+How to use  Bluetooth with Linux
+================================
+
+.. post:: 2007-09-14
+   :author: tychoish
+
+From an earlier conversation with `andy <http://tychoish.com/chris/>`__:
+
+**andy:** they put bluetooth hardware in the ipod touch.
+
+**tycho:** that's cool.
+
+**andy:** but it's disabled.
+
+**tycho:** someone will hack it
+
+**andy:** or apple will charge for it.
+
+**tycho:** they don't do that, really, remember the 802.11g/n upgrade,
+and the iPhone Refund.
+
+**andy:** fair enough. I kid.
+
+**tycho:** I know... it's better than linux where, they'll make it
+visible, and it'll work... about half the time, if you're standing on
+your right foot.
+
+**andy:** lol, yep: but you HAVE to stick your tongue into the
+electrical socket first, and then send them the dtrace afterwards to
+improve compatability which will break it with the previous human bodies
+
+**tycho:** heh
+

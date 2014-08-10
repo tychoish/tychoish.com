@@ -1,0 +1,128 @@
+================================================
+Pattern: Fine Gauge Knitted Beanie Style Hat/Cap
+================================================
+
+.. post:: 2004-07-26
+   :author: tychoish
+
+Disclaimer: This patterns was created based on rough math, available
+yarn, and vague memory of what my gauge usually is with this type of
+yarn. After the satisfactory completion of the project, I've
+compiled my memory of the process and evidence gathered from the
+finished object. There are two sets of directions: a narrative
+description of the process written in plain English, and pithy
+knitting shorthand. I make no guarantees, feel free to notify me of
+any errors or improvements to the pattern, but I think it should
+work. Enjoy!
+
+I was finished with most of my other knitting project and needed
+something new that would keep me interested and would last more than a
+couple of days. I had a 100 gram ball of Lion Brand Magic Stripe Yarn (I
+believe it only comes in 100g balls), and I defiantly wasn't in the mood
+to make socks, and this yarn has been lying around for a while, so my
+mom suggested making a hat. So I started to make a hat, and I'm usually
+fairly wary of hats, cause I have a problem getting the crown decreases
+to come out right. Despite this, I am moving to Wisconsin in a few
+months, and I need all the woolen garments I can make, so I started
+making a hat.
+
+I usually get somewhere in the neighborhood of 7 stitches to an inch
+with this kind of yarn, on US 1 or 0 size needles. Generally I use US 1s
+for 4 ply yarn, and US 0s for 4 ply yarn. Magic stripe is 6 ply, so I
+used 1s (Susan Bates, coated, in this case). After measuring my head, I
+cast on 150 stitches, (or more accurately had my mom cast on 150
+stitches). She used the long tail method; any kind of elastic cast on
+method will work, though. I began knitting in 2x2 ribbing, (that is knit
+2, purl 2), for 3.5 inches. I should note, that by the third round I had
+148 stitches at e this point. I tend to decrease as appropriate rather
+than increase to correct errors in establishing a ribbing pattern, it's
+unnoticeable without a magnifying glass, and in this case, it makes the
+cast on a bit more forgiving.
+
+After 3.5 inches, switch to stocking stitch, it might be prudent to
+decrease 7-10% of the total stitches, as this point, (10-15 stitches,
+evenly spaced). I must admit that I forgot to do this on the original
+model, and I haven't gotten to that point on the second hat yet. Again,
+knit for 3.5 inches, plain stocking stitch, or perhaps a hair more. I
+knit about 3.75 inches.
+
+It's now time to begin the crown decreases. Rather than randomly
+choosing thright number of spokes and decrease types, I modified the
+pattern for a sock toe that I'd seen my mother do. It's from the
+mismatched striped socks in Nancy Bush's "Knitting for Travelers," or
+"Road Knitting" (there's one book, the question is with my memory), and
+believe it or not, it worked: unbelievably well.
+
+For the first decrease round knit seven (K7), knit two together (k2tog),
+and repeat for the entire round; then knit seven rounds plain. Then knit
+the second decrease round, which is knit six (K6), knit two together
+(k2tog) and repeat for the rest of the ro0und, then knit six rounds
+plain. Continue in this pattern, there are eight rounds in total. After
+the knit one, knit two together (repeat for the round), and the single
+plain round that follows, knit one round of knit two togethers, and end
+with a single plain round. The 16 inch circular needle will probably
+become too large after the knit four knit two together round, so switch
+to double points, or some alternate method of knitting very small
+rounds, but you probably knew that.
+
+By this point you've probably noticed two things. First of all, those
+decrease rounds don't fit evenly into the round. This is ok and is not
+ultimately detrimental to the final hat. It's possible that this only
+happened because I had 148 stitches, and not a more even 150. But I'm
+sure some will want to alter the number of stitches because not everyone
+has a head that's SamSized. You could alternate the decreases so that
+they come out perfectly, or make sure the number of stitches you chose
+is perfectly divisible. But I'd recommend that you not worry about it, I
+admit that I move the last decrease over a stitch or two to make it more
+even, but not worrying about it is just as effective. Knitter's choice.
+
+Also, you've noticed that you've come to the end of the pattern and you
+have 7-10 stitches, on your needles. I grafted (Kitchener stitch) this
+opening closed. I think it looks great. If you're afraid of grafting,
+don't worry I am too. You could also break the yarn and draw through the
+remaining stitches (especially if you want to add a pom-pom.) After
+this, weave in the two ends, smile pat yourself on the back, and start
+on a second one.
+
+Pithy Directions for this Fine Gauge Knitted Beanie Style Hat/Cap
+
+**Gauge:** 7 st/in on US 1's **Needles:** 16" Circular US 1s, and 1 set
+of US 1 double points. **Yarn:** 1 skein of Lion Brand Magic Stripe
+Yarn. 100 grams. There will be leftovers. The finished product weights
+about 60 grams. **Other Materials:** 1 Tapestry needle, and a marker (or
+suitable length of yarn)
+
+**Directions:** CO 150 st on 16" cn. Join (being careful to not twist,
+of course). Establish K2 P2 rib.
+
+When piece measures 3.5 in. switch to st st. *K8 K2tog repeat from * 15
+times for one round. (optional.)
+
+Knit plain for 3.75 inches.
+
+*Crown Decreases:* *K7 K2tog repeat from * till end, fudging the last
+few stitches as desired. K 7 rounds plain.
+
+*K6 K2tog repeat from * till end, fudging the last few stitches as
+desired. K 6 rounds plain.
+
+*K5 K2tog repeat from * till end, fudging the last few stitches as
+desired. K 5 rounds plain.
+
+*K4 K2tog repeat from * till end, fudging the last few stitches as
+desired. K 4 rounds plain.
+
+*K3 K2tog repeat from * till end, fudging the last few stitches as
+desired. K 3 rounds plain.
+
+*K2 K2tog repeat from * till end, fudging the last few stitches as
+desired. K 2 rounds plain.
+
+*K1 K2tog repeat from * till end. K 1 rounds plain.
+
+*K2tog repeat from * till end. K 1 rounds plain.
+
+Using Kitchener stitch, graft remaining stitches together. Weave in
+ends. Apply Hat to head, folding the ribbing up over the ears. Prepare
+to be complimented for your new hat, and cast on 150 for another one.
+

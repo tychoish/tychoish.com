@@ -1,0 +1,75 @@
+==============
+Deep Computing
+==============
+
+.. post:: 2008-11-10
+   :author: tychoish
+
+So here's another `report on my
+Linux <http://tychoish.com/rhizome/linuxing/>`__ usage:
+
+For some unknown reason I tried to upgrade to Ubuntu Intrepid (8.10)
+last weekend. Which failed epically. So I reinstalled, which has gone...
+less well?
+
+Explaining the problems I'm having are incredibly complicated.
+Everything works well, except the dual monitor support, which is just
+bothersome. I have a work around that seems to work pretty well, but I'm
+not sure if pretty well = production ready. When I'm using it, I've
+taken to running all of my important windows in
+`screen <http://www.gnu.org/software/screen/>`__, so that if the X
+server panics and I have to kill it, I can pick up right where I left
+off with everything. I think I mostly have the problem kicked, but I'm
+not quite to the point where I trust it.
+
+I've also traced down about 80% of the problem, but I don't have *quite*
+enough to file a bug report.
+
+And the truth is that I'm adjusting pretty well to the linux world.
+Emacs is a giant ball of confusing, but that's to be expected, and I
+have it rigged to read my normal text file format and do all the right
+highlighting. The scope of what my fingers know how to do is pretty
+limited, but it's a start, and I'm purposely going slow so that I can
+learn things the right way. The last time I mentioned something about
+emacs on the blog, `Jack <http://www.metajack.im>`__ emailed me
+something about emacsclient and emacs server mode, which I haven't
+totally absorbed yet.
+
+My current conclusion is that I'm going to have to find some sort of
+`new way of managing and interacting with my text
+editors <http://tychoish.com/rhizome/linux-switching-and-editors/>`__.
+Rather than have a bunch of different instances of the editor open (as I
+might do with vim or TextMate) I'll probably figure out some way to work
+with two instances of emacs open, one for each screen and just move
+things between them. This is subject to change.
+
+Here's the rundown:
+
+-  Other advances made recently:
+
+-  I have figured out a cool way to implement multiple mail profiles
+using mutt. I have a lot of different email addresses/identities
+that I need to send email from (real life contacts, professional
+contacts, work contacts, etc.) and being able to automatically
+switch? A divine thing.
+
+-  Advances yet to be made:
+
+-  I need to figure out/use a news reader on the new computer. This
+requires segmenting my current OPML file into "laptop reading" and
+"desktop reading."
+-  I need to figure out some web-browsing solution, that really
+works. `Vimperator <http://vimperator.mozdev.org/>`__ seems to be
+the `Awesome <http://awesome.naquadah.org>`__ default, and while
+it's the best Firefox around it's still firefox, and FF doesn't
+impress me on a personal level. (I use a browser incidentally, and
+mostly for viewing static pages, not as an application platform.)
+-  Still don't have my calendars in a place where I can start
+accessing them on linux.
+-  I'm still using the laptop to serve my personal wiki/notebook(s),
+though I have a clone of the repository on the linux machine,
+which is really the inverse of how it should work.
+
+And a thousand other things... The truth is I think it's all going
+pretty well. I will of course keep you up to date
+

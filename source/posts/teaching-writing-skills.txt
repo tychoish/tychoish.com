@@ -1,0 +1,54 @@
+=======================
+Teaching Writing Skills
+=======================
+
+.. post:: 2011-10-25
+   :author: tychoish
+   :tags: writing, career
+
+All of my friends who have taught composition are appalled when they
+hear me say that I want to teach writing. But it's true: I would be
+interested in having the opportunity to give people the kind of writing
+education that I never got to have. I've even collected a few of these
+ideas on a very rough "[[pedagogy]]" page. This post, by contrast, will
+be a list of "things I wish I could have learned before I got a job
+writing."
+
+-  How to write in long form. The skils and process for writing
+something that's a hundred pages is fundamentally different from the
+process for writing pieces that are a few hundred words or a few
+pages. Project management, planning, and organization are totally
+different skills.
+
+-  Working with editors. In school, the editing process is very
+conversational. Editors, comment and ask you to make changes if agree
+with their judgment. Writers need to learn how to gather
+requirements, write the best possible content, and then hand it over
+to an editor who will modify the text without comment. Not only is it
+important to learn how to "get over this," but also in how to learn
+from this kind of editing
+
+-  How to revise work. While I've learned to avoid making a number of
+mistakes to which I'm particularly prone, and spot those errors when
+the slip through, it's really the process of applying for jobs that
+has taught me how to revise my own writing. Revision is probably the
+hardest writing skill, and I think there are probably better ways to
+teach revision than some sort of idealized "drafting process."
+
+-  How to write at volume, even when you're not feeling inspired. We're
+pretty good at teaching people to write when they're inspired or have
+done a lot of research. But writing Writing needs to be as
+instinctive as speech and the kind of thing that you don't need to be
+*inspired* to be able to do. Not because anyone writes *that* much,
+but it's a comfort thing.
+
+-  How to document things. Which is to say, how to record a practice,
+procedure, or interface, to tell people (and your future self,) how
+to do something. I had to figure this out on my own, and I think
+people would be much better writers for being 10% worse at writing
+essays and 10% better at writing processes.
+
+That would do it! I've included some work in this direction in the
+[[pedagogy page\|pedagogy]], but [[thoughts\|discourse]], are always
+valuable.
+

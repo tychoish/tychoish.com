@@ -1,0 +1,47 @@
+================
+Assisted Editing
+================
+
+.. post:: 2012-02-09
+   :author: tychoish
+   :tags: emacs, writing
+
+I learned about
+`artbollocks-mode.el <http://robmyers.org/weblog/2011/10/08/artbollocks-modeel/>`__
+from `Sacha Chua's
+post <http://sachachua.com/blog/2011/12/emacs-artbollocks-mode-el-and-writing-more-clearly/>`__,
+and it's pretty freaking amazing.
+
+Basically, it does some processing of your writing--\ *while you
+work*--to highlight passive sentences and affected jargon. [1]_ And
+that's all. There are some functions for generating statistics about
+your writing, but I find I don't use that functionality often. You can
+enable it all of the time, or just turn it on when you're doing editing.
+
+After a few weeks, I've noticed a marked improvement in the quality of
+my output. I leave it on all the time, but I'm pretty good at resisting
+the urge to edit while I'm writing. Or at least I'm pretty good at
+picking up again after going back to tweak a wording. In general it's
+hard to keep more than a few things in an editing pass at any time.
+
+It turns out that the instant feedback on passive sentences, even though
+it's not perfect, is *great* for improving the quality of my content the
+first time out. And it's even better for doing editing work. It's harder
+to ignore a passive sentence when the editor is highlighting you see a
+screen full of them for you.
+
+It's of course important to be able to ignore its suggestions from time
+to time, and it's no harder to ignore than "flyspell-mode" (the
+on-the-fly spell checker in emacs.)
+
+.. [1]
+This is perhaps the clumsiest part of the default distribution, as
+jargon is terribly specific to the kind of writing you're doing, and
+it turns out that one of the "art critic"/post-modern words (i.e.
+"node") is a word that I end up using (acceptably, I think) in a
+technical context when describing a clustered system. And there's a
+difference between a technical lexicon and a jargon, and regular
+expressions aren't terribly sensitive to this, so the actual list of
+words that you need to call yourself out on, varies a bit from person
+to person. But once you customize it, it's great.
+

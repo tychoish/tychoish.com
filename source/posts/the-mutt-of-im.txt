@@ -1,0 +1,111 @@
+==============
+The Mutt of IM
+==============
+
+.. post:: 2008-09-17
+   :author: tychoish
+
+You all probably know that I'm working strengthing my
+linux/\ `bash <http://en.wikipedia.org/wiki/Bash>`__ chops so that I can
+build a much needed desktop computer (after going on 6 years of being
+laptop only, it'll be nice to have something a... bit bigger.)
+
+It's not that I don't like OS X, or Apple, it's that... I like
+`awesome <http://awesome.naquadah.org>`__. And I want larger/more
+screens. And other than `fluid.app <http://fluidapp.com/>`__, and
+`TextMate <http://macromates.com/>`__, (and
+`adium <http://www.adiumx.com/>`__ in a way) I basically live in linux
+world, with a different desktop enviroment. Also, a really swell desktop
+setup for a linux box that would do most of what I need would run me,
+oh, about half the price of an iMac, or less.
+
+So I have a virtual machine instance of Ubuntu running on my laptop, as
+part of an effort to get used to everything ahead of time. With VM tools
+beeing as cheap and fast as they are today, I think a lot of people
+could really benefit from using VMs more. In any case, I've been trying
+apps out and using it to get (more) comfortable with
+`vim <http://www.vim.org/>`__ and working on solving all of the problems
+that I'm likely to run into *now* rather than later. I'll be reporting
+on this more in the future, for sure.
+
+While most things have gone pretty seamless, the one program that I use
+that I haven't been able to even come close to replacing is
+`Adium <http://www.adiumx.com/>`__. Here's the thing. Adium is a OS
+X-ification of a linux program called
+"`pidgin <http://www.pidgin.im/>`__\ " which, despite boasting a near
+identical feature set is considerably less...something. While it's
+polished and totally operational, it's not... coherant and maybe it's
+only really noticeable in light of using Adium. The problem is that
+*every* other IM client for linux is worse. There's a command line
+version of pidgin called
+`finch <http://developer.pidgin.im/wiki/Using%20Finch>`__ which looks
+like it's trying *really* hard to be a
+`GUI <http://en.wikipedia.org/wiki/Graphical_user_interface>`__ rather
+than really letting the simplicty of the command line give rise to a
+clearer interface model. There's a great jabber/xmpp client called
+`mcabber <http://www.lilotux.net/~mikael/mcabber/>`__, but jabber
+adoption is still really low, and while there are interoperability
+measures with other protocols, the truth is that most of my contacts are
+on other systems, and the interoperability transports aren't incredibly
+reliable. If someone knows of something that I've missed I'd love to
+hear what people use (and like).
+
+So I was bemoning this (the end of this story is that I'm figuring out a
+way to live with pidgin), with `chris <http://www.cgkreality.com/>`__
+and he said of jabber, "It--like
+`IMAP <http://en.wikipedia.org/wiki/Internet_Message_Access_Protocol>`__--is
+a great idea and a good protocol, the implementations are universally
+horrible." (or something like that) and he's *right*, and I think this
+goes for most IM clients. They all, to use a technical term, suck. [1]_
+Chris' comparison to IMAP and mail clients reminded me of the slogan of
+my favorite email client, `mutt <http://www.mutt.org/>`__.
+
+"All email clients suck, mutt just sucks less."
+
+And it does. I save hours every week using mutt, and I'm no where near a
+power user (yet.) So the question on my mind is, "where's the mutt of IM
+clients?" Here's what I think it would look like:
+
+-  It would need to connect to AIM, Yahoo and Jabber. This is my
+personal prefrence. MSN is pretty irrelevant to me, an ICQ these days
+*is* AIM. Multiple connections would be good.
+
+-  I think the interface should draw on the mutt with sidebar model. IMs
+needn't fill a whole window, and the sidebar works really well.
+
+-  It needs to have some understanding of a tabbed interface. While I
+understand that many people (and to some degree, myself included)
+don't actively particpate in more than one chat at a time, I often
+have more than one window open at a time. Conversations go dormant,
+people step out, you have to ask a quick question, there bots on the
+IM network feeding you (useless) information. Tabs are necessary.
+
+-  It'd be better if the program was able to consistently manage and
+sync the contact/buddy list, and handle meta-contacts, than be able
+to do file transfers, or mutli-user chats.
+
+-  Granular access controls. The networks I believe, allow you to set
+yourself invisible to certian people, and it would be really great to
+be able to write rules about which buddies got what kind of
+status/visibility settings.
+
+-  The key to "the mutt of" anything is the ability to take whatever you
+do, and bind it to a particular key command. So I'd like to be able
+to have "IM `Chris <http://www.cgkreality.com/>`__" bound to
+something, or be able to set various screen names visible or
+invisible depending on my context or trigger different complex
+visibility rules.
+
+I think there's possibility. Thoughts? How do you manage your IM? [2]_
+
+.. [1]
+Even my beloved Adium, which operates as expected in most respects is
+compleatly inconsistent in how it stories and syncs the buddy list to
+the server. Or doesn't depending on the weather. Highly annoying.
+
+.. [2]
+Before anyone gets high-and-mighty about IM being a waste of time and
+attention, I generally use IM as a phone replacement because I can
+multi-task it, and becasue it doesn't have voicemail, and because
+it's almost always less awkward. Just saying. n
+

@@ -1,0 +1,104 @@
+==============================
+System Design and Organization
+==============================
+
+.. post:: 2010-02-15
+   :author: tychoish
+   :tags: cyborg, organization
+
+By day I write documentation for systems administrators, and as a result
+I spend a lot (perhaps too much?) time thinking about how we organize
+computer systems so that they can be both useful and easy to manage in
+the long run. "*Right, so...*\ " you say? Well indeed. Recently it's
+become clear to me that there are some generalizable lessons to be
+learned from sys-admining that might be helpful to those of us who are
+less organized than they'd like to be.
+
+Which is pretty much everyone, right?
+
+Right. In brief:
+
+-  Automate everything that can be automated.
+
+-  Closely followed by don't automate something that doesn't need
+automation.
+
+-  Prefer simplicity over complexity, and prefer systems that require
+you to remember fewer things.
+
+-  Design systems to make it possible for others to easily understand
+what you've done.
+
+To elaborate:
+
+Automation
+----------
+
+Computers are really good at doing what you tell them to do, and
+although we often like to finddle with them to make them *work better*,
+ideally the more we let systems take care of themselves. Also tasks that
+are automated, if the automation is designed and tested properly *don't
+make silly mistakes*. If you've written systems to automate your tasks,
+you can understand and predict how your system is going to handle the
+kind of data that you throw at it.
+
+The admonishment to "not automate" until you need something, is
+basically a variant on age old recommendation to "avoid premature
+optimization." While automation is a good thing indeed, and if the thing
+you're automating is really something that can be delegated to the
+machine without intervention on your part, then that may be worth your
+while to automate that task. By the same token, it's easy to think
+"we're going to need to do this thing a lot, I might as well automate it
+before hand." Which is a reasonable thought to hand, but this puts the
+cart before the horse, and leads to two undesirable and possible
+outcomes: first the task doesn't need to be automated because it isn't
+needed very often; you misunderstand what needs to be done and automate
+the wrong part of the task, or your automation doesn't cover the edge
+cases and will need to be rewritten later.
+
+Conventionally, automation tends to cover "coding" or scripting of some
+sort of task. Outside of programming and systems development,
+"automating" a task could be as simple as creating some sort of editor
+macro, or developing some new structure in your data store (database,
+files, etc.) to hold or manage a particular kind of data.
+
+Simplicity and Complexity
+-------------------------
+
+The basic reasoning here is that while complex solutions are often
+elegant and attractive, and make a lot of sense when you're setting
+something up, they always make you scratch your head six months or a
+year later when you need to go back and find something that you did back
+then or make a change to the system. Be wary of solutions to any problem
+that require too much consistency on the part of the user. If a system
+only works if you must remember to follow more than a few steps in a
+precise order, chances are things are too complex, and you'll end up
+screwing yourself over later.
+
+Ergo: Err on the side of simplicity, you'll thank yourself later.
+
+The more components and connections there are in a website application
+or deployment server the more potential for breakage is. The more
+complexity there is the better chance that FurtureYou or someone working
+in your footsteps will be totally confused by what you have set up. The
+same thing holds for whatever your trying to organize and manage.
+
+Generalizable Organizational Methods
+------------------------------------
+
+Chances are you're the only one who will be taking notes/organizing your
+work/storing information in your system. Nevertheless, I think it always
+helps to assume that other people are going to need to be able to make
+sense of your system. Be it your notes, and research or in your
+web-servers. Other people are sometimes our future selves.
+
+--------------
+
+I tend to use the word system, in a way that most people would use the
+word "method." I hope that's not too confusing or distracting. I think
+I'll probably elaborate on these topics a bit more before in a later
+post. In a lot of ways this is part of the core of `Cyborg
+Institute <http://www.cyborginstitute.com>`__, and if you feel
+interested or inspired by this kind of stuff, I'd love to hear more from
+you. Be in touch!
+

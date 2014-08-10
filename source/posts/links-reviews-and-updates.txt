@@ -1,0 +1,77 @@
+===========================
+Links, Reviews, and Updates
+===========================
+
+.. post:: 2011-07-22
+   :author: tychoish
+   :tags: links, update, progress-report
+
+While this week flew by in many respects and I only got a couple of
+posts out, there is much change and progress afoot. This post is an
+attempt to catalog some of the work I (and others) have been doing that
+*hasn't* made it onto the blog:
+
+-  [[Discussion\|rhizome/better-task-lists/discourse]] of the "[[Better
+Task List\|rhizome/better-task-lists]]" post by [[jfm]]. Including
+spoilers for posts that I hope to have ready next week.
+
+-  Further [[discussion\|/rhizome/make-emacs-better/discourse]] of the
+[[make emacs better\|rhizome/make-emacs-better]]" post. I'm thinking
+that it's probably nearly time to split that into a few pages.
+There's a lot of great content there and people have added a lot. I'm
+a huge fan.
+
+-  Not a link, except to say that I did some fairly substantial tweaks
+of the site's design, which is probably only worth mentioning because
+I suspect most people read the site on RSS. Different fonts in the
+headers, and I rearranged the masthead to be a little more clean, and
+changed the links a bit.
+
+-  I'm in the slow process of cleaning up the `Cyborg
+Institute <http://cyborginstitute.com>`__ site which I've neglected
+for far too long. I'm importing a lot of the content that I wrote
+over there, notably [[sygn]] and [[tubmle-manager]]. Next up, some
+straggling blog posts, and a clean up of the existing content to
+match my current projects and work.
+
+-  The [[knitting]] page or blog, which is collected separately from
+[[rhizome]] posts is in full swing, and I hope to be able to post a
+few things there every now and then.
+
+-  There's now a real [[tag]] index and a tag cloud that looks like
+something. I'd avoided putting together a page like this for some
+time, because there were a lot of junk tags and enough really big
+tags that the cloud didn't really work. I've mostly cleaned that up,
+leaving the wiki with a rather awesome tag cloud
+
+I've also found a few things on the web that I think you might enjoy on
+the web:
+
+-  A new blog called
+`observatory <http://observatory1.wordpress.com/>`__. I've been
+talking to the author a bit. I realized that there aren't very many
+blogs that are so verbose. I suppose
+`ByteBaker <http://bytebaker.com/>`__ is another example, but there
+aren't many of them around.
+
+-  `undo-tree-mode <http://www.emacswiki.org/emacs/UndoTree>`__ is a
+nifty little emacs hack that makes undoing and redoing much less
+complicated and weird. (From that [[make emacs better
+discussion\|rhizome/make-emacs-better/discourse]].) Though I have to
+admit that I no longer have a problem with the default behavior, even
+if I know it's a bit counter intuitive.
+
+-  I've been reading `Strange Horizons <http://strangehorizons.com/>`__
+more than I have in the past, thanks mostly to
+`instapaer <http://www.instapaper.com/>`__ and InstaFetch for
+Android. I was particularly found of Genevieve Valentine's
+column/review of a `glorious mess of a movie
+trope <http://www.strangehorizons.com/2011/20110704/valentine-c.shtml>`__.
+
+That's all I have for this week.
+
+-  Comments Undo-tree also allows for undoing based on time (see
+`here <http://emacs-fu.blogspot.com/2010/11/undo.html>`__),
+apparently a feature that vim has.
+
+

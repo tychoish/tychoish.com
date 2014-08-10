@@ -1,0 +1,76 @@
+=========
+Geek Camp
+=========
+
+.. post:: 2008-10-29
+   :author: tychoish
+
+I went to Drupal Camp Chicago last week for work, and while a lot of
+what I did was work related--learning about Drupal and what the really
+hard core folks are doing with it--the camp was an emersive experience,
+and I couldn't help but make a few casual observations about geeks in
+general. They're documented and explored below, and I'll have a more
+technical/theoretical reflection of the experience tomorrow or the next
+day.
+
+This was my first "BarCamp"/unconference, and I really liked the way it
+felt. There was a lot of knowledge being shared, there was a lot of
+collaboration, and there was a lot of energy in the room. I go to Morris
+Dance Ales, and Knitting Camp for the same reason, really. Intense
+interest and activity around a shared sub-cultural identity/activity, is
+a really powerful and invigorating thing. This is probably the same
+reason that "(gay) men's gatherings," science fiction conventions, and
+the "Michigan Womyn's Music Festival" are so appealing to so many
+people. (I dare anyone to find something else on the internet that lists
+all of these things in such close proximity).
+
+One thing that the conference had that I think made it particularly
+interesting is that there was always a "back channel" on an IRC network
+for the whole conference. While there were downsides to this
+(correlating peoples handles with their faces was difficult), this was
+incredibly fascinating. It also made the sessions go off better: people
+who were confused were able to ask questions of the room, it kept the
+background noise down which was better for participants, and since there
+was only one room for the whole conference it gave me a sense of what
+was going on at the conference as a whole.
+
+Someone pretty early on said something like "this is literally the
+subtext of the room," and they were right. I'm a fan of
+creating/organizing IRC/Jabber (XMPP) MUCs back channels for various
+conversations. We use one at work during conference calls to pass
+links/notes between our side (to keep down the number of voices/unmuted
+lines), and we had one for the Open Microbloging Meeting which made that
+really productive. It's a cool idea.
+
+The other great thing is that I got to watch other *really geeky people*
+use their computers. While I'm not a UI (user interface) designer, UI/UE
+(experience) is something that I'm very interested in and have an
+opinion or two about. One thing I noticed was that there were more Macs
+in the room than you might expect. Part of this has to do with the fact
+that the market share for non-enterprise laptops is something that Apple
+has basically clobbered, I'm sure. Mac laptops are also more popular
+among the young hacker crowd (which drupal developers are.) There were
+some PCs, and more than a few people running ubuntu on laptops, which I
+don't have the guts for right now, thats for sure.
+
+In terms of actual usage, there actually wasn't as much of the "hardcore
+hacker" stuff that you'd expect. I didn't see a lot of terminal usage
+(except for the woman who had tsch
+`visors <http://docs.blacktree.com/visor/>`__ and wrote a pretty complex
+SQL query by hand on the projector. to answer a question after her
+talk.) I saw a lot of people who used the gmail web app. Virtually all
+of the non-mac people used `Zend Studio <http://www.zend.com/>`__ or
+`Eclipse <http://www.eclipse.org/>`__, though I know I wasn't the only
+`TextMate <http://www.macromates.com/>`__ user in the room. The most
+surprising thing, was the shear number of people who I saw using gmail
+and Firefox. Gmail is ok I guess, but it isn't brilliant and it isn't
+mutt, and surely I'm not the only one with `a gripe about
+firefox <http://tychoish.com/rhizome/mozilla-of-all-trades-master-of-_____/>`__.
+
+Sorry for such an odd analysis of Drupal Camp Chicago 2008. I'm going to
+be working on some more... Drupalish for work, but while I'm a huge
+geek--no surprise there--I always seem to be more interested in watching
+the room than in watching the speaker.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+

@@ -1,0 +1,14 @@
+==================
+remember the devon
+==================
+
+.. post:: 2007-07-19
+   :author: tychoish
+
+note to self: remember that you can use `devon think
+pro <http://www.devon-technologies.com/>`__ as an outlining tool.
+
+potentially in combination with the outlining in textmate. ooooh shiny.
+
+I'm such a dork, continue on with your day.
+

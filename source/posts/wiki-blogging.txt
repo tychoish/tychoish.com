@@ -1,0 +1,37 @@
+=============
+Wiki Blogging
+=============
+
+
+I'll probably do a fair piece of this "metablogging" thing here, and I'm
+sorry.
+
+Also, I totally intended for [[rhizome]] to be a much shorter form
+blogging project, and while the posts are shorter here than at `critical
+futures <http://criticalfutures.com>`__, they're not exactly short, and
+I'm not exactly as prolific as I might like to be.
+
+I think I might just be somewhat long-winded.
+
+I've also found that I've mostly not succeeded as using the wiki
+functions. Which is probably as much a result of my minimal posting as
+it is a function of my inclination.
+
+Though I do realize that I'm pretty set in my existing blogging habit,
+and it takes a lot for me to break out of this form. Though I think
+it'll be good to try. You can help by editing pages and continuing
+conversations that I start. I think I need to tweak some of the
+templates, to include "discuss this further" links (both here and on
+critical futures.) to remind people that anyone can edit and contribute.
+
+Also you should all check out `On Wireless
+Data <http://criticalfutures.com/2011/01/on-wireless-data>`__, if you
+haven't already. This is a post that I wrote a while back (and posted
+last week) about the that the technological constraints of wireless data
+networks constrains and effects the kinds of applications that are
+developed for these kinds of environments. This in turn affects the ways
+that people use technology. Which is interesting (and important) to
+think about.
+
+And that's all for now. I'll see you around later!
+

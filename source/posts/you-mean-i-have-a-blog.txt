@@ -1,0 +1,25 @@
+=======================
+you mean I have a blog?
+=======================
+
+.. post:: 2007-07-19
+   :author: tychoish
+
+I didn't really have time to blog last night, I had to dash over to the
+yarn store to drop off a sock as a demo for the class I'm going to be
+teaching in a couple weeks. Its going to be **toe-up/stranded socks**,
+if you're going to be in St. Louis, and you're interested. I'd love to
+see you there.
+
+Then I had dancing, as I always do on wednesdays, and this left me
+feeling supremely beat. Hence no blogging. I did however post the first
+in my `Better Living through Regular
+Expressions <http://tychoish.com/rhizome/better-living-through-regular-expressions-a-dramatic-work/>`__
+series/project. I did some regexp-ing at work yesterday, so I have
+something to use as a pun for next week.
+
+Knitting and all other things continue at an expected pace. Tonight, I
+must must remember to write something theoretical for tomorrow at
+tealart. And then I lookforward to getting some real writing time this
+weekend. And knitting, boy do I need to get some knitting done.
+

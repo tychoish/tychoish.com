@@ -1,0 +1,93 @@
+===========================
+Free Software Misunderstood
+===========================
+
+.. post:: 2009-08-31
+   :author: tychoish
+   :tags: free-software, cyborg
+
+This post is in response to two things that I've observed recently:
+
+1. `A Misinformed Critique of the Debian
+Project <http://www.freesoftwaremagazine.com/columns/debian_contempt_end_user_values_has_stop>`__
+
+2. `The largely unfair dismissal of free software/open source/hackers on
+the grounds of purported
+zealotry <http://blogs.zdnet.com/open-source/?p=4554>`__.
+
+--------------
+
+Debian, Critiqued
+~~~~~~~~~~~~~~~~~
+
+The above linked article, presents a number of critiques, leveled at the
+Debian project. While these complaints with user experience are valid, I
+was left with a serious, as we say on the Internet "WTF" moment. Read
+the article if you haven't already before you get to my response, if
+you're so inclined.
+
+Also I'd like to challenge the Editors of that website to exercise a
+little more digression in what they publish in the future.
+
+My response:
+
+1. Stable releases of Debian are for the most part not intended to be
+run as desktop operating systems. The software in Debian Lenny is, at
+this moment nearly two years old. That's fine (and even desirable)
+for a server, but most users want things that are a little more up to
+date than that. This is why we have distributions like Ubuntu, which
+manages to walk a much better line between stable (and benefits from
+the efforts of Debian) and current.
+
+2. It's possible to install Debian packages that aren't contained in the
+repository, or provided in older versions of the operating system.
+Download the package with ``wget`` and then use
+``dpkg -i    [package-file].deb``. There may be GUI tools that
+support this. While we might like to have Linux systems for "new
+comers" to the platform that don't require using the command line,
+Debian stable isn't one of these operating systems.
+
+3. Installing fonts on most systems is usually as simple as putting the
+files in ``/usr/share/fonts`` or ``$HOME/.fonts`` and and running
+``fc-cache -f``. The complainer focuses a great deal on the absence
+of a familiar font management program (which appears to be a command
+line tool that exists in Ubuntu 9.04 which is a "newer" system than
+Lenny).
+
+I still don't see how "contempt" is the right word, to describe the fact
+that a massive project that is the result of a loose organization of
+hundreds of people, failed the address a few specific needs of a user
+using the system in a non-standard/non-recommended pattern qualifies as
+"contempt for users."
+
+As it stands it sort of feels like the author is attempting to stir up
+controversy by attacking a historical weak spot, and stretching the
+bounds of reasonable criticism in the process. I think editors of any
+publication should be above this sort of thing. **thumbs down**.
+
+Dismissal of Free Software on the Grounds of Zealotry
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We see this a lot, and I'm kind of sick of it.
+
+I've seen a lot of people--who actually agree with almost every tenant
+of the most "ideologically pure" free software advocates--dismiss
+version 3 of the GPL, or RMS, or the FSF for being "too radical," or
+obsessive, or "communist," which is both intensely interesting and
+intensely troubling. It's often in the form of "I wouldn't say that like
+RMS," or some such.
+
+For starters, I think its interesting to note the prevalence with which
+"communist" is used as a dismissal of the "Free Software" movement,
+particularly because while there is a very vague "anti-corporations" and
+"anti-trust" vein in the free software world, in point of fact the
+biggest "big picture political" ideology around is a very ad hoc
+libertarianism. The "communist" jab is, probably more at the sort of
+heavy-handed ideological positionally of the "copy left" movement.
+Furthermore, I think it's probably clear that Free software as we know
+it today wouldn't be possible without commercial interests, input and,
+energies, and resources.
+
+And yet. Free software/open-source, gets red baited. Interesting. And
+disappointing.
+

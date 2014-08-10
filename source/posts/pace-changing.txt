@@ -1,0 +1,61 @@
+=============
+Pace Changing
+=============
+
+.. post:: 2009-03-09
+   :author: tychoish
+   :tags: journal, update
+
+Dear Readers,
+
+I'm both really excited and really scared of this change that I'm going
+to announce in this post. From my `journal
+entry <http://tychoish.com/rhizome/journal-entry/>`__, you can probably
+tell that I've been busy and having something of a rough time. I'm
+coping, and I'm not writing this as a plea of any sort, just it's
+been... interesting. I've been sort of distracted, and running back and
+forth between my home town and where my grandmother is (3.5 hours away)
+a lot, and a thousand other things.
+
+One thing, of note is that today (by your clock) is the 9th Yarzeit of
+my grandfather's death, which is hitting me a bit harder than it has in
+years past. Yeah. Weird. I don't know what else to say.
+
+In any case, I've done some tweaking to `the
+site <http://tychoish.com>`__ including some cool JavaScript visibility
+toggles. I'm still using Wordpress, because I'm still making pretty
+heavy use of the post scheduling, and there are other projects that
+demand my attention. Someday soon. My intention with the design changes
+is to make the content a bit more prominent and minimize menus as much
+as possible. Because content is important and menus are boring. (Really,
+I get paid to help people with the internet. Amazing.)
+
+I'm also going to change my publishing schedule.
+
+I'm going to post essays, in the form that you've grown accustomed to on
+Tuesday's and Thursdays, and then, try and post something to coda once
+or twice a day on Monday, Wednesday, and Friday's. I'm reading a lot of
+other blogs, and I feel like I've gotten worse about referencing some of
+the really cool stuff I've been reading. And I'd like to concentrate on
+writing for other projects, getting `Critical
+Futures <http://criticalfutures.com>`__ (also redesigned) back on it's
+feet. If you read the site via the `feed <http://tychoish.com/feed/>`__
+coda posts and essay posts all look the same. Notifications for all
+posts make it onto twitter and identi.ca, and I bet that despite the
+change the amount of content in general is going to be about the same.
+It's just a different mindset, and I think that's what I need the most
+at the moment. We'll see how it works.
+
+I've also, in recent times taken to modifying the way the home page
+renders, so that there are only a few entries on the home page, and
+lists of "recent entries," in both essay and coda categories. I might do
+a bit more tweaking here, but the general template with "less stuff on
+any given page" and links to other content, satisfies my desire for
+minimalism and a wealth of content. *Note to self:* write a post about
+the "blog" trope and the amount of content on pages.
+
+That's about all I have for you this time. Thanks for reading, and I'll
+be back tomorrow with some sort of an essay.
+
+Cheers, tycho
+

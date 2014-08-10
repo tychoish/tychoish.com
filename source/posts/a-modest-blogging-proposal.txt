@@ -1,0 +1,68 @@
+==========================
+A Modest Blogging Proposal
+==========================
+
+.. post:: 2010-12-14
+   :author: tychoish
+   :tags: wiki, free-software, new-media
+
+I'm going to present this post somewhat out of order. Here's the
+proposal.
+
+I want to think about moving this blog (or starting another?) to be a
+blog/wiki hybrid, and at the very least, moving forward I'd like the
+"discussion" or comment's link to link to a wiki page rather than a
+comments thread.
+
+--------------
+
+I've been thinking about the blog recently. I really enjoy writing
+posts, and there are days when I rely on writing a blog post to get me
+thinking and moving in the morning (or afternoon!) and kinds of projects
+that I don't think I would be able to work on if it weren't for having
+the space to write and the opportunity to have conversations with you
+all.
+
+I've done some work recently to streamline and simplify the publishing
+process, which does a lot to make me more likely to post on the fly, but
+I'm not sure that the tone of this site, or the current design, or my
+own habits would really support a different kind of publishing schedule.
+
+As an aside, I think the technological shift that made blogs possible
+were "content management systems" and website building tools that made
+updating a website with new content *incredibly* simple. While blogging
+has come to mean many other things and is defined by a number of
+different features, having the ability to publish on very short notice
+has a large effect on the *way* people write blog content.
+
+So here's the thing about blog comments: I don't think that they're used
+particularly well, and there are some important flaws in so many of the
+options around. First, the best systems, like the one used on
+LiveJournal, IntenseDebate, and Disqus (which I use on this site) are
+all proprietary systems that are depending on an external service to
+function. The worse systems all have independent authentication methods,
+often lack proper threading (which most comm enters aren't terribly good
+at using anyway,) and it's very difficult to prevent *all* these systems
+from being filled with spam.
+
+What's more, people don't really comment that much. At least for most
+blogs.
+
+-  better comment systems, better discussions.
+
+-  catering to people who want to write a lot. in comments.
+
+-  allowing the conversation to grow from comments, in productive rather
+than purely discursive ways.
+
+And once you've moved comments into a wiki, why not move the rest of the
+blog as well? My preferred engine,
+`ikiwiki <http://www.ikiwiki.info>`__, has support for blog-like content
+so while there would be some work involved, it wouldn't be a major
+hassle to manage. And the worst case scenario is that the old content
+remains in the old system, which might not be a bad thing in the end.
+
+Anyone out there in reader land have any thoughts on the subject? While
+I'll probably make some sort of revision to the way I blog/maintain
+tychoish.com, any such change is probably a month or two in the future.
+

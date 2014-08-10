@@ -1,0 +1,73 @@
+================
+consultant tycho
+================
+
+.. post:: 2008-11-21
+   :author: tychoish
+
+Over the past week or two, I've been working on a number of side
+projects that I've started to realize as a new and interesting project
+in and of themselves.
+
+The first project is that I've been working on (re)designing a website
+with/for my friend `Scott <http://www.scottfarquhar.com>`__, who is a
+composer/voice actor/podcaster type. While he has a lot of HTML skills
+he's never done any of the--even very elementary--web-programging (a la
+the PHP code/templates that wordpress uses) that one needs to do to have
+nifty dynamic websites.
+
+So I've been working with him to use wordpress to build a basic
+portfolio site and blog. It's a pretty straightforward kind of a site,
+but you have to know wordpress pretty well to know how to design a theme
+so that all of the right content ends up in the right place. I've been
+using wordpress, more or less since the beginning so it's the kind of
+thing that I'm pretty good at.
+
+The second project has been to design and implement a version of the
+tychoish.com theme for a new wordpress installation that I can deploy
+for various members of my family who want to use wordpress as a note
+taking platform. While I use a wiki (with a blogging plugin) for this
+task personally, the editing interface for wordpress along with its
+metadata system (tagging and categories) makes for a really ideal
+notebook-solution. There are other features like comments for
+annotations and revision tracking for storing document history that have
+been really helpful, and make this a really good solution.
+
+And of course the fact that I'm building these sites around wordpress
+makes a couple of things possible. First, it's open source so we can run
+these notebooks and portfolio sites on our own (or rented) hardware, and
+the data is easily exportable into a lot of very useful formats if we
+ever want to change. Second, the software isn't very resource intensive
+to run, particularly for lower volume sites like these, so it can run
+almost anywhere.
+
+The truth is, that the biggest part of both of these projects was
+talking to the people who would be using the software to figure out what
+they already did with their existing websites/notebooks, and then
+figuring out how to do the same thing with the new solution, and finally
+also learning enough about what they wanted to do to be able to figure
+out with they might do that they couldn't do before.
+
+I guess that makes me something of a consultant.
+
+Weird.
+
+Even more wierd is the feeling that I actually *like* doing this. And I
+find it ties together a lot of things that I do. My "day-job," does
+similar sorts of things (for different kinds of "clients" with different
+sorts of problems), and what I've done thusfar is very much inline with
+my musings here about `open
+source <http://tychoish.com/tags/open-source/>`__ and
+`productivity <http://tychoish.com/tags/productivity/>`__, which is
+kinda cool.
+
+In a weird way, this is very much inline with my initial forays into the
+web-world which seemed to center around organizing creative types (in
+the largest sense) on the internet. This was nearly 10 years ago, but
+the threads are there. That's something that I've realized as I've
+started new projects and new directions recently: even when I think
+they're new and novel, I realize that they resonate with things I was
+working on and thinking about during high school.
+
+Go figure.
+

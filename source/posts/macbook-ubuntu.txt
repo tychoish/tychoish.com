@@ -1,0 +1,62 @@
+==============
+Macbook Ubuntu
+==============
+
+.. post:: 2009-01-06
+   :author: tychoish
+
+So after a lot of teeth gnashing over the past few weeks about what to
+do with my macbook since I've basically abandoned OS X for Linux [1]_, I
+realized that I could probably just install Ubuntu on this hardware and
+be done with it.
+
+So really pretty much as soon as I had the thought I began backing
+things up and starting the install process. While my backup wasn't
+*perfect* (forgot the applications folder, which is pretty replaceable;
+and dropping in ~/Library and /Library is pretty ineffective, so there's
+some work there) the whole process was pretty quick. I assume that part
+of this is that I'm getting better at getting "my" Ubuntu installation
+rolled up, and I could copy over my config files over the network which
+make it even quicker.
+
+There were a couple of things that are somewhat less than ideal. First
+hibernation doesn't work right, but that's ok, I don't expect that I'd
+use that very much anyway. Secondly right clicking is a pain that I've
+not yet managed to resolve, and while the touchpad works it's too
+sensitive, and I haven't figured how to crank that down. I've managed to
+get right click emulated with three finger taps, which is functional if
+not ideal. I've also discovered how to turn off the touch pad with a
+shell command. Because the Awesome Window Manager requires the mouse
+very minimally this actually works well and makes me a bit more
+efficient.
+
+After *not* using the Macbook for several weeks and coming back to it,
+I've realized a few things. First the screen looks really good. The
+think pad has a digitizer and a significantly lower pixel density, and
+the monitors for my desktop both have lower pixel density and don't have
+the glossy screen. [2]_ The second thing is that the build quality on
+the Macbook is noticeably inferior to the Thickpad. There are little
+case squeaks and flexes that I dismissed initially,
+
+`Jack <http://metajack.im>`__ asked about external monitors (for
+projectors) and I don't have anything to report on that front. I still
+have OS X installed and usable if it's a pressing need, but I don't even
+have the video converter for the new macbooks so I'm not terribly
+worried. There are probably other things that I've also not had occasion
+to
+
+.. [1]
+While I intended to just get the linux box for the desktop and keep
+the macbook, I quickly came to the realization that switching between
+modalities wasn't terribly effective for the way that I worked, and
+after spending a week on the road using just my MacBook, I felt as if
+OS X was more distracting than it was useful. No matter how much I
+adored TextMate.
+
+.. [2]
+I hated the glossy screen at first because of the way that it
+collects finger prints and dirt, but by gum it looks really pretty.
+The desktops, by contrast are huge, which is nice, but sometimes when
+I'm writing something more focused, all the extra space can be
+distracting.
+

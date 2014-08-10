@@ -1,0 +1,52 @@
+===========
+Neuromancer
+===========
+
+.. post:: 2008-10-03
+   :author: tychoish
+
+Yesterday I posted a note about what I've been reading and about Melissa
+Scott's `The
+Jazz <http://tychoish.com/rhizome/all-the-jazz-thats-fit-to-print/>`__,
+and in it I realized that I talked about William Gibson's
+`Neuromancer <http://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595/tychoish-20>`__
+in comparison to Melissa's book and I didn't get into my thoughts on the
+Gibson.
+
+Which is awkward, because it's such an important book and I didn't like
+it very much. Although Gibson writes very beautiful prose, I had a hard
+time maintaining interest in the book. Maybe this is a feature of the
+cyberpunk sub-genre's difficulty aging--but that seems too simple. While
+I think the more rigorously derived from the future a piece of SF is,
+the harder it ages [1]_
+
+I asked `Chris <http://www.cgkreality.com/>`__, "Isn't this supposed to
+rock world, I feel very unrocked," and he said (ever helpfully) that
+"maybe my world was already rocked." Which it might be, I think this is
+another angle on the "it's past it's moment." And unlike some cyberpunk
+which engages issues of identity, the meaning of "reality," government
+intervention in people's lives, and other interesting issues, the major
+argument in Neuromancer amounted to "Duuudes cyberspace, it's like
+drugs..."
+
+I joke, but there was a lot of drug use in the book, and while it gave
+Gibson the space to write some really trippy scenes, which really were
+beautiful, beyond that I was unimpressed. And probably as a result I
+didn't find myself not particularly invested in the characters.
+
+I'd be interested in hearing what your thoughts are on the book, it's
+role in the science fiction canon, and about cyberpunk in general. I'd
+love to hear what you have to say.
+
+Thanks for reading.
+
+Onward and `Upward <http://www.criticalfuture>`__!
+
+.. [1]
+I think this is an observer problem, because if you set a book 100
+years in the future, and 5 years later it becomes clear that it's not
+going to happen that way, everyone notices. If you set things 1000
+years in the future it's easier for people to get that it's all
+allegory, anyway. Nevertheless I think this is a challenge of SF that
+tries to be less fantastic.
+

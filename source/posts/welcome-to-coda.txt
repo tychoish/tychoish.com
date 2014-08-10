@@ -1,0 +1,40 @@
+===============
+Welcome to Coda
+===============
+
+.. post:: 2008-09-05
+   :author: tychoish
+
+Sometimes the biggest jobs are the easiest. Last night I got inspired to
+make a sort of major change to my website: give up the "plain old blog"
+look and build a more intense "full featured-type" site. I thought this
+would be a good afternoon project for the weekend, so I made a list,
+mocked something up, and went to bed.
+
+And then I got up this morning and in several hours, I was able to
+concoct what you see here. It's "beta" in the tradition of web 2.0
+(rough around the edges, but fully deployed.). I'm still not quite sure
+what wordpress is thinking on the tag archive pages, but maybe I'll
+figure something out.
+
+Here's the larger plan: The regular daily blog posts, which I'm now
+calling "`essays <http://en.wiktionary.org/wiki/essay>`__\ " in sense of
+"an attempt," not a particular forum. The new kind of post will be
+shorter, more "bloggy" somewhere between the rest of the world's typical
+blog post, and a `twitter <http://twitter.com/tychoish/>`__.
+
+There are also new "static" pages, and separate syndication feeds if you
+want to have a little bit more control over how tychoish is syndicated
+for you.
+
+Also, to readers in livejournal land, if you want all of everything,
+subscribe to the old
+`tealart <http://syndicated.livejournal.com/tealart/>`__ syndication
+feed. Otherwise my `livejournal <http://tychoish.livejournal.com/>`__
+(which had previously just been cross posting all entries will now have
+a more cherry-picked selection of entries.)
+
+I'll have a more coherent post together on monday. I swear :)
+
+Otherwise tell me what you think.
+

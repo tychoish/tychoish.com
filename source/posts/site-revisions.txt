@@ -1,0 +1,42 @@
+==============
+Site Revisions
+==============
+
+.. post:: 2009-03-16
+   :author: tychoish
+   :tags: update, internet
+
+I've been tweaking the site for a few weeks off and on. Busy schedule
+and what not. A while back I made a list of things that needed to
+change: updated links, clearer sidebar, better system for the "mini
+blog" (coda), and different interior page designs, and every few weeks
+I've gone through and changed something, until now, when I think I've
+done enough to warrant a small post about these changes.
+
+In the right column I took all the menus and put them in little
+"JavaScript" toggles, so that they take up much less room, but when you
+click on one of the links in the "menu box" above the menus expand for
+your viewing pleasure. I also did some cleaning up of the links list,
+and have expanded the list of sites that I'm linking to. I like giving
+the "real content," a lot more attention, while still keeping all the
+"sidebar" content accessible when possible.
+
+The second big part of this revamp was to create a more customized "home
+page" for the site that displayed content productively and clearly,
+without and endless overload of content that word-press can provide if
+you're a) wordy like me; b) not careful. Basically I now have a bunch of
+custom "loops/queries" to pull the right kind of content onto the home
+page, and I can append "recent articles" lists, to provide access to the
+content without displaying all of it. On the essays, I even use a toggle
+script for a couple of entries for some added punch.
+
+The final piece--this last weekends work--has been to change the
+"interior" page so that when you go to see a specific article the page
+is much less cluttered. I've also started using
+`disqus <http://www.disqus.com>`__ for comments, and with some CSS magic
+I've gotten pretty satisfied with how this works. I really like having
+unique interior pages.
+
+If something doesn't work on your browser, or you have additional
+suggestions, I'm all ears. Back to your regularly scheduled programming.
+

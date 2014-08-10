@@ -1,0 +1,48 @@
+========================================
+del.icio.us-ness and hard drive slowdons
+========================================
+
+.. post:: 2006-10-01
+   :author: tychoish
+
+While I ordered more RAM for my beloved Zoe last week, which should
+arrive Monday or Tuesday of this week, I've been noticing that Zoe hs
+been running a bit more slowly than I think I'd like. So finally,
+yesterday I did some looking around and realized much to my surprise
+that I only had 500 megs of hard drive space free. Of a total 100 gigs.
+Well no wonder It was a little slow, and no wonder. So I did some
+reorganization and coppied a lot of stuff off of the hard drive. I was
+able to get 12 gigs of content offloaded, and I'm back down to about 9
+gigs, but its a much healthier situation. Part of the problem has been
+that with the release of the new iTunes store, iTunes 7 and iTunes
+Movies, all the video (including the television) has been re-encoded
+that's about twice as good (320x240 to 640x480 which is about dvd
+quality). This somehow means that we're dealing with movies which are a
+bit less than 4 times as large. Don't ask me I'm not a video or
+compression expert. That's just one thing that contributed to the issue.
+
+So more RAM will help, as will backing up some of this content, and
+freeing up space on my hard drive. For what you ask? More content. It's
+a vicious cycle.
+
+I've started using del.icio.us to catalogue my links. I surf around a
+lot, and I'm quite pleased with how delicious works, and I've decided to
+start mirroring my de.icio.us stuff on TealArt. So now, in the sidebar,
+you'll be able to have a pretty good idea of what kinds of things I've
+found on my travels. Just check out my del.icio.us page, or see my most
+recent 20 links on the side bar.
+
+I'm keeping an eye on the tealart tag on del.icio.us so if there's
+anything you want to share with me (or chris) and any other tealart
+user/interested individual, just tag something "tealart" when you add it
+to delicious. Also, if you want to send a link to me, just tag it
+"for:celchu19" and it'll get sent straight for me. Sweet service if you
+ask me.
+
+Ok, so there, it just felt like my brain just died, so I'm going to end
+this post before it gets too much weirder. There's knitting news and
+academic musings, so maybe we'll balance out the content here in a bit.
+When I have more to give.
+
+Cheers, sam
+

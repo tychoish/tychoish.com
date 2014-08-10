@@ -1,0 +1,63 @@
+==============================
+One Text File to Rule Them All
+==============================
+
+.. post:: 2007-08-15
+   :author: tychoish
+
+I have to admit that despite my previous blatherings about my text-file
+system, I--for the most part--have given up keeping track of my todo
+list in text files, or as blog posts on the `other
+blog <http://tychoish.com/>`__. My down-falling, was, I think, that I
+tried to organize what I was working on too much, rather than just let
+things flow, and ultimately tried to over-organize the lists, or the
+process, to the point that maintaining the list became too much of a
+chore in its own right. So I ditched it and went back to the paper
+notebook, and in an odd way, let my project planning guide my lists, in
+a frightfully disorganized, but ultimately useful mode.
+
+Then I read a `post on
+43Folders <http://www.43folders.com/2005/08/17/life-inside-one-big-text-file/>`__,
+and remember something about file organization that the obsessive
+compulsive in me forgets: if you have good search tools, and you're at
+least vaguely consistent, you can be as disorganized as you want,
+because you'll *still* be able to find everything. Often faster if it's
+all in one file.
+
+This is opposed to the other school of thought on text file
+organization, which is, make lots of little text files and put each
+project/object/etc in it's own file. The problem with this, from where
+I'm standing is that with every object/chunk that you add to the system,
+you have to decide weather or not the chunk "counts" as something
+desecrate or not.
+
+So I've tenuously started a text file. I'm calling it, codex.txt. and
+I'm just adding to it as I need to take notes, and add items. URLs of
+things that I need to do, the beginnings of emails, snippets of emails
+that seem important, and so forth. The only tricks" I'm using are, line
+folding so that I can hide parts I'm not working on when I want to, as
+well as basic markdown formating so that I can produce html or PDF files
+should I need to.
+
+The result? I like it. The lessons, in summary:
+
+-  Don't over organize, it can get in your way.
+-  Work with your brain, not against it. Chances are, you're pretty
+organized as it is, even if you don't think you are. Don't fight
+this, as it can make your life more difficult.
+-  Use good search tools to do your work for you. This includes
+spotlight in OS X (and similar technologies in other operating
+systems,) but mostly your text editors "find" or "search" options, as
+well as tools like `grep <http://www.gnu.org/software/grep/>`__,
+which should be available on all operating systems.
+
+To be fair, it's not this simple, because I'm not living in one, and
+only one text file, essays, stories, and other more isolated projects
+(like this article), get their own text file, and some larger projects,
+like *Station Keeping,* or my current fiction writing project, have a
+cluster of similarly named files. In GTD terms we're talking about using
+a single big file for project planning, research, and collection, and
+then "working" in different files.
+
+But that's me.
+

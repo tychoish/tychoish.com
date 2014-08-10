@@ -1,0 +1,64 @@
+=====================================
+Boring Blogger Reflects on the Future
+=====================================
+
+.. post:: 2006-01-05
+   :author: tychoish
+
+I'm forever behind reading blogs. I have a news reader, and I read
+things when I get around too it. It always takes me a few weeks after
+the end of a semester to get caught up with the world wide web, though.
+So I'm just now getting around to reading peoples "Reflect on the Old
+Year, Welcome in the New Year posts. You know what I'm talking about,
+everyone is doing it. I on the other hand, wrote my first post of the
+new year about how I accidentally clicked no, rather than yes, and lost
+all of my 60 million open tabs.
+
+Wow, folks. That's what keeps you coming back, I can tell. Better late
+than never, here's what I'm thinking about TealArt these days. It's
+experimental media and methods after all, so I can get a little meta
+here.
+
+TealArt has never been a typical blog.
+
+It is not, nor has it ever really been a one man show, but it's clear
+that I'm pulling a lot of strings behind the scenes. We play the 'brand'
+aspect of TealArt, but the name carries virtually no meaning. We don't
+have a clearly (or not so clearly) articulated purpose, and while there
+are sure as hell people reading this (I have logs and interactions to
+prove it), we don't have active comment-discussions. We use the blogging
+template, software, and so forth but there are huge spans where, if we
+post every week, let alone day, it's a lot. And this isn't exactly a
+hotbed of new and exciting links: we practice a kind of blogging which
+is more on the side of online-journal, and less on the side of
+link-blog.
+
+But what form will this website take next year and in the following
+years? Frankly I don't think that much is going to change, I'm not going
+to sudenly have tons of time to write TealArt entries, TA will always
+have more than one voice, TA will continue to use the blog format.
+TealArt will always be subject to the ebb and flow of my/our interests.
+Taken as a whole, TealArt traces a personal linages, so I think that
+this is completely fitting way to proceed.
+
+I suppose, other than a very minor face lift, which was well over due
+(we'd been using a variation of the same design for the past.... 2.5
+years.), the biggest change to TealArt is the creation of separate
+sub-sites. For knitting, the identity project, and studies. There's
+nothing that these sites offer which can't be had through the TeaArt
+Main Page, but it provides an appropriate entry-point (which lets me
+more adeptly drop links, in the right place, join webrings etc.) At some
+point in the near future, I'm going to have to come up with RSS feeds
+for each of these entry points, but I'm in denial about it for the
+moment.
+
+This organization also lets me partition the way I/we write for TealArt,
+without changing much, or over extending our infrastructure. It's still
+all powered by a single 5 meg mySQL database, which frankly could
+probably be slimmed down to a 3.5-4 meg (we have a lot of legacy type
+stuff in there at the moment).
+
+We'll just have to see how it goes.
+
+cheers, sam
+

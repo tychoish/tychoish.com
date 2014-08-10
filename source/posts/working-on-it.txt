@@ -1,0 +1,52 @@
+=============
+Working on It
+=============
+
+.. post:: 2002-12-18
+   :author: tychoish
+   :tags: update, tealart
+
+Here is the whole scoop. The server's been gone for a few days and there
+really hasn't been an explanation, and now the pages aren't quite right,
+and plus the archives have disappeared, and I'm sure you want to know
+what happened. Right? I mean if there's anyone reading this after all
+that is happened.
+
+Some how sometime the server crashed or something. I haven't gotten a
+good explanation for what happened, but it was fairly clear early on
+that things were gone and that they weren't coming back; but for some
+unknown reason our email was still working. Sort of: Mary Beth was
+having some problems and in retro spec my email was sporadic at best.
+Finally that gave out too, and so I arranged other hosting and as a
+result we've moved into much more spacious and equipped digs and I only
+had backups for the **files** but not the databases where all of the
+important things were. I managed to zap some life into this instillation
+of b2 and everything works as well as it might, sans data. (And for some
+reason things aren't being pushed off the index page as they should
+which is part of the reason for this post.)
+
+In any case I remembered that Amy of Domesticat.net offered to let me
+have a go at her new (and really fab Content Management system). It's a
+little buggy now, but I'm told that there's already an update on the
+way, and I really like it, the main problem is that Amy hasn't yet
+posted (she's making good progress on this one too) the PHP functions
+necessary for display. Given my knowledge of PHP I could probably write
+the functions myself, but I'm not really up for that right now so I'm
+biding my time and currently have b2 and Quarto until the display
+functions start to work. Thankfully though, Amy's functions will work
+perfectly for me given that the idea for most of my code features come
+from things I've seen used on her site. When we switch over in addition
+to all the things you've grown used to, we're going to try to add a
+surfing diary/link list as well as a really neat category system.
+
+On a more personal note, Chris (but we call him Andy) has been done with
+school until next semester for about a week, and I'm free as of this
+Thursday at 11 o'clock. I'm hoping to get a sizeable chunk done on the
+book, as well as a few other writing and web project work. It's going to
+be an interesting break, and I really can't wait for the freedom, again.
+I just need to get done with this semester. I have two more papers to
+finish up and then its home free.
+
+More later, I should get back to work; and I'm sure there are tons of
+typos so just lay off.
+

@@ -1,0 +1,95 @@
+=============
+10 Shell Tips
+=============
+
+.. post:: 2008-08-26
+   :author: tychoish
+
+10 pearls of collected wisdom for the aspiring terminal/console/command
+line user. This assumes UNIX but little actual command line experience.
+
+1.  Customize your your .bash\_profile or .bashrc files and continue to
+tweak this file as you learn more about how you use the shell. I
+even have a line in my profile that makes it easier for me to edit
+this page.
+
+2.  Never open files unless you have too. tools like less, more, cat,
+and grep should be enough to keep you going for most routine checks.
+
+3.  Having said that, getting to know your text editor *really* well
+should be on the top of your list of things to do. There's something
+to be said for learning how to use vim, though I can understand if
+you might want to use something a little less sharp around the
+edges.
+
+4.  It's good to be able to hack your way through bash/shell scripting
+and at least one other general purpose scripting/programing
+language. Like Perl or Python, but Ruby and PHP would work. Power
+users don't necessarily need to be able to write brilliant programs,
+they just need to figure out how to glue other programs together.
+
+5.  Familiarize yourself with your operating system's package manager,
+or get `macports <http://www.macports.org/>`__ if you're on a mac.
+Or get an operating system with a better package manager. To my
+tastes this means means getting a debian-based linux distribution,
+but there are others if this won't work for you. These package
+installers make it so much easier to install software and have it
+*work* because other people do the testing. Compiling things on your
+own is ok, but package mangers are better. Learning how to use the
+`cpan shell <http://www.perl.com/doc/manual/html/lib/CPAN.html>`__
+and `ruby gems <http://www.rubygems.org/>`__ falls under this
+imperative.
+
+6.  Do first and script second. While you may be tempted to write nifty
+little scripts for all the things you *think* you're going to do,
+don't. Work first and figure out what your habits are and then write
+the scripts/macros/short cuts that will best serve you. That way
+you'll use them.
+
+7.  Figure out how to schedule tasks/automate background tasks. If
+there's an internet connection, and probably even if there isn't, my
+computer checks my email every 8 minutes or so. Because I have a
+little "check email and tell tycho if there's anything new" script
+set to run in a
+`launchd <http://developer.apple.com/macosx/launchd.html>`__ deamon.
+You could use `cron <http://en.wikipedia.org/wiki/cron>`__ if you're
+not using a mac, but the general idea is that if there are things
+that you know need to be done, regularly, you just tell the computer
+to do them, and then you don't have to worry about it.
+
+8.  **Read the manuals and google for help, but also relax.** The
+terminal lets you do a lot of new things, and it saves you a lot of
+time. It's also hard to learn and a lot of die-hard terminal users
+are also, to be blunt, assholes. I don't want to recount the number
+of times that I've seen people rant on about proper forum, and how
+new folk ask too many questions. This is dumb, new people always ask
+questions, and the truth is that some things aren't well documented.
+Also a lot of terminal assholeishness comes from a period of time,
+when certain operations took a lot of CPU power, and CPU power was
+more at a premium than it is today. Most contemporary computers,
+even ones that are a few years old, run so fast that even
+inefficient terminal applications still run incredibly fast on
+modern hardware, and can outperform the best GUIs. You'll learn
+later.
+
+9.  Remember the **Unix Philosophy.** Basically that programs should do
+one thing well, and not complicate themselves with doing more than
+one thing. If you know that this is how things can and should work
+and you can learn how to work with this, then you're in good shape.
+(It's also ok to bend it a little bit, from time to time.) Also, if
+you're an oddball like me--and using the command line for something,
+like writing fiction--slowly get a sense of what existing tools do,
+and figure out if its useful to you. Also know that just because
+something's cool it doesn't mean that it's going to be useful for
+you.
+
+10. Customize the appearance of your console window. Apple stocks
+everything with an ugly black text on white background thing, which
+makes my head hurt from the squinting. Readably sized fonts, good
+coding fonts, anti-assailing, colorizing your prompt, light text on
+dark backgrounds, and some transparency all make the terminal more
+`functional and
+elegant <http://www.youtube.com/watch?v=GfQgCVxgD1E>`__.
+
+
+

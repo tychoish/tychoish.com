@@ -1,0 +1,110 @@
+=======================================
+technology as infrastructure, act three
+=======================================
+
+.. post:: 2009-07-20
+   :author: tychoish
+   :tags: systems-administration, technology, linux
+
+Continued from, `Technology as Infrastructure, Act
+Two <http://www.tychoish.com/2009/07/technology-as-infrastructure-act-two>`__.
+
+Act Three
+---------
+
+All my discussions of "technology as infrastructure" thus far have been
+fairly high level. Discussions of particular business strategies of
+major players (eg. google and amazon), discussions approaches to "the
+cloud," and so forth. As is my way, however, I've noticed that the
+obvious missing piece of this puzzle is how users--like you and me--are
+going to use the cloud. How thinking about technology as infrastructure
+changes the way we interact with our technology, and other related
+issues.
+
+One of my introductory interludes was a new use-case that I've developed
+for myself: I run my chat clients on a server, and then using `GNU
+screen <http://www.gnu.org/software/screen/>`__ which is an incredibly
+powerful, clever, and impossible to describe application. I've written
+about it before, but lets just describe it's functionality as such:
+
+Screen allows users to begin a persistent (terminal/shell/console)
+session on one computer, and then "detatch" and continue that
+session on another machine where the session
+runs--virtually--indistinguishable from "native sessions."
+
+So my chat programs are running on a server "inside of" a screen session
+and when I want to talk to someone, I trigger something on my local
+machine that connects to that screen session, and a second later, the
+program is up and running just as I left it.
+
+Screen can of course, be used locally (and I do use it in this mode
+every waking moment of my day) but there's something fundamentally
+different about how *this specific use case* affects the way I think
+about my connection.
+
+This is just one, and one very geeky, example of what infrastructural
+computing--the cloud--is all about. We (I) can talk till we're (I'm)
+blue in the face, but I think the interesting questions arise not from
+thinking about how the infrastructure and the software will develop, but
+rather from thinking about what this means to people on the ground.
+
+At a(n apparently) crucial moment in the development of "the cloud" my
+personal technological consumption went from "quirky but popular and
+mainstream" to fiercely independent, hackerish, and free-software-based.
+As a result, my examples in this area may not be concretely helpful in
+figuring out the path of things to come.
+
+I guess the best I can do, at the moment is to pose a series of
+questions, and we'll discuss the answers, if they seem apparent in
+comments:
+
+-  Does "the cloud" provide more--on any meaningful way--than a backup
+service? It seems like the key functionality that cloud services
+provide is hosting for things like email and documents, that is more
+reliable than saving and managing backups for the ordinary consumer>
+
+-  Is there functionality in standards and conventions that are
+underutilized in desktop computing that infrastructural approaches
+could take advantage without building proprietary layers on-top of
+java-script and HTTP?
+
+-  Is it more effective to teach casual user advanced computing
+techniques (ie. using SSH) or to develop solutions that make advanced
+infrastructural computing easier for casual users (ie. front ends for
+git, more effective remote-desktop services).
+
+-  Is it more effective for connections to "the cloud" to be baked into
+current applications (more or less the current approach) or to bake
+connections to the cloud into the operating system (eg. mounting
+infrastructural resources as file systems)
+
+-  Is the browser indeed the prevailing modality, or simply the most
+convenient tool for network interaction.
+
+-  Do we have enough conceptual experience with using technology to
+collaborate (eg. wikis, source control systems like git, email) to be
+able to leverage the potential of the cloud, in ways that reduce
+total workloads rather than increase said workloads?
+
+-  Does infrastructural computing grow out of the problem of limited
+computing power (we might call this "vertical complexity") or a
+management problem of computing resources in multiple contexts (eg.
+work, home, laptop, desktop, cellphone; we might call this
+"horizontal complexity") And does this affect the kind of solutions
+that we are able to think about and use?
+
+Perhaps the last question isn't quite user-centric, but I think it leads
+to a lot of interesting solutions about possible technologies. In a lot
+of ways the most useful "cloud" tool that I use, is Google's Blackberry
+sync tool which keeps my calendar and address book synced (perfectly! so
+much that I don't even notice) between my computer, the phone, and the
+web. Git, for me solves the horizontal problem. I'm not sure that there
+are many "vertical problems," other than search and data filtering, but
+it's going to be interesting to think about.
+
+In any case, I look forward to discussing the answers and implications
+of these issues with you all, so if you're feeling shy, don't, and leave
+a comment.
+
+Cheers!
+

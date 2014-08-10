@@ -1,0 +1,43 @@
+====================
+mobile device useage
+====================
+
+.. post:: 2007-06-25
+   :author: tychoish
+
+My friend `Jeff Kirvin <http://www.jeffkirvin.net>`__'s website require
+registration for commenting, so because I'm lazy I'm going to reply to a
+couple of things here:
+
+First, this post "`Don't Sync, Dont'y
+Sync <http://www.jeffkirvin.net/2007/05/26/don%e2%80%99t-sync-don%e2%80%99t-sync/>`__:"
+
+I must say that I'm sort of out of the loop on windows things, so it's
+interesting to hear about the developments in Word. As (prospective)
+readers of this blog would likely know, I write almost exclusively in a
+text editor, and I'm pretty good at avoiding word-processing software,
+but I agree with Jeff that the new Word format looks really quite nifty,
+and there's something to be said for writing at a desk.
+
+With web2.0 and all that crap, our old notions of sync have changed
+quite a bit. I'm personally hesitant to add an additional node (pda,
+smart-phone, desktop, etc.) to my computing experience because I think
+the project of keeping my data synced up between all these places would
+be a headache.
+
+Recently I moved all my music (itunes library) off of my computer and
+onto an external hard drive, and listen to music almost exclusively via
+my iPod. I think if I were going to be using some sort of additional
+device, I'd need to keep critical software/documents in some sort of
+transferable situation. Like a thumb drive, or using WebDAV/.mac (if it
+didn't suck so much). Google-Gears might be a good option for this kind
+of thing.
+
+Its surprising that despite my desk-tied mindset, I'm pretty darn
+mobile. Laptops are a great thing. For me at least, the move to Mac was
+a great thing in this regard. Hardware wise, I know that you can get
+smaller laptops and better batteries from PC makers, but... I think it
+would be more hassle than it's worth.
+
+Cheers!
+

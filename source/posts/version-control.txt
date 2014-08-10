@@ -1,0 +1,56 @@
+===============
+Version Control
+===============
+
+.. post:: 2007-09-20
+   :author: tychoish
+
+I was listening to `FLOSS Weekly 19 <http://www.twit.tv/floss19>`__,
+which was about the `git <http://git.or.cz/>`__ version control system,
+but also touched on how Git compared to other such programs like
+`CVS <http://www.cvs.com/>`__ and
+`svn <http://subversion.tigris.org/>`__, which I use.
+
+I wanted to clarify something and talk/think about this a bit. Also I'm
+sorry about not subtitiling this very much. All of the things I mention,
+from the programs to jargon things like commits, checkouts,
+repo(sitories), merges, and diffs, and what not, are all easily
+googleable.
+
+.. raw:: html
+
+<div style="text-align:center;">
+
+.. raw:: html
+
+</div>
+
+It sounded a lot like the kinds of criticisms that they were making of
+CVS they were making of subversion as well. For instance, in subversion,
+when you rename or move a file the you don't loose versioning history. I
+mean I think, I'm not a programer, and I'm a pretty new subversion user.
+I think the attic/delete issue is also better in SVN than CVS.
+
+I'm intrigued by the git, but I don't have a project that I could ever
+imagine using it for: git becomes worthwhile, it seems to me, when a)
+you have a large team, and b) when you want to encourage incremental
+commits, without having commits seem too much like publishing.
+
+Given that my main use for svn is to maintain backups and progress
+snapshots of my writing and notes (in plain text files), a lot of the
+places where svn typically falls down, are things that I'm not pushing
+it to do. But it seems entirely logical that if people are working off
+of remote repos, then then using a local repo to "work in" makes some
+sense. Hell you could probably script it someway, but I do understand
+how this is a kludgey sort of response to the problem, but there it is.
+I'm actually starting to keep a remote copy of my repo syched to the one
+on my hard drive, for safe keeping.
+
+I'm still learning a bunch about these tools, and I think that there are
+a lot of things that programers do in terms of organization and
+collaboration (from versioning systems like this, to the way
+branches/tags/merges work, to the social organization of distributed
+collaboration and so forth) that I think are useful in other contexts.
+
+Maybe it's just me.
+

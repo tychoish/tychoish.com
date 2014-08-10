@@ -1,0 +1,46 @@
+======================
+\ttycho garen, blogger
+======================
+
+.. post:: 2007-11-27
+   :author: tychoish
+
+Since I spent some time last week upgrading and tweaking the
+tychoish.com design and back-end, I've been prone to thinking about my
+role/life as a blogger.
+
+In late august and september, I did my little redesign of TealArt.com
+and put it on hiatus, because I liked what I was doing with tychoish,
+because it was becoming increasingly clear to me that I didn't want to
+write that site alone particularly when I wasn't getting any sort of
+return, whatsoever. I thought I'd give the site till the end of the
+year, on hold and then see how I felt.
+
+I think I'm going to, at some point, merge the sites back together, at
+least in the back-end (I think there'd be a way, with some very creative
+mySQL foo to do that without having it be excruciatingly apparent to the
+viewing public.) Initially, I wanted to pull tychoish into tealart, but
+now I'm thinking that the other way might be cleaner, and better looking
+forward. That's a technical project that I don't think we need to get
+into here.
+
+The reason I'm considering merging the archives is that a site like
+tychoish is really the only kind of site that I'm interested in running
+by myself, alone, from a writing perspective. If it isn't a tychoish
+post, I should probably try and find ways to post it elsewhere. Also,
+while tychoish is still slowly climbing to get to the traffic that
+TealArt had/has, it's close *and* the traffic is "higher quality"
+(longer times on the site, lower bounce rates, etc.) So that seems to be
+a good way to do that.
+
+I mean I'm not going to stop using the tealart.com domain, probably
+ever, and I can think of a lot of cool projects that might be fun to run
+under the TealArt banner (knit alongs, station keeping season 2, a
+podcast type thing, and so forth), but I don't think that I need a blog
+for that. I mean I'm still a ways off on this, but I think this is the
+direction that I'm headed in.
+
+Thanks for listening.
+
+Cheers!
+

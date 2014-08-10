@@ -1,0 +1,35 @@
+======================================
+Feature Requests in a Mail Application
+======================================
+
+.. post:: 2007-12-11
+   :author: tychoish
+
+Ok, so. I've decided to create a list, in some order of importance of
+features that I'd like in an email application. Note that I run OS X,
+and I'm not using Leopard yet, but I will be at some point. Suggestions
+are always welcome:
+
+1. This needs to be a program that runs on my computer, downloads the
+emails and then lets me view them. I cannot work with web mail, nor
+do I have any desire to. I'm off the grid just enough to want to be
+able to have access to my email without needing to be in a web
+browser, or a live connection.
+2. Ability to use any editor software. Ok, I want to be able to compose
+email using the TextMate system. I'd also like to use vim/gvim if I
+should ever learn how to use one of those programs.
+3. I need IMAP syncing support, and at least potentially the ability to
+receive mail from a couple of different sources.
+4. Software needs to work fast. I get a lot of email, and need to be
+able to read and process it quickly.
+5. I need to be able to deal with multiple folders of email.
+6. I'd like to store emails in mbox format, or at least have easy export
+to mbox format, I'd like the files to at least potentially make sense
+independent of the reader, and I think Maildir is kinda lame.
+7. I need to be able to install it and get it working without much fuss.
+I'm good with computers and I'm good with a command-line, but too
+much fuss and my brain can't cope.
+8. Software must tie in with the system address book system. It's just
+easier that way, I think. Thoughts?
+
+

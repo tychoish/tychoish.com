@@ -1,0 +1,103 @@
+=====================
+the evil corporations
+=====================
+
+.. post:: 2009-06-15
+   :author: tychoish
+   :tags: economics, writing
+
+I've been writing for weeks and weeks about co-ops, authentic exchange
+and commerce, the practice of openness and business models, and other
+related topics. Between the crashing economy, my ongoing contemplation
+of open source, and a new project that I'm *almost* ready to announce,
+thinking about the substance of economies and the power of economies to
+define other aspect of our social experience has seemed *really*
+appealing. And it has been.
+
+I came across `this article by Jason
+Stoddard <http://strangeandhappy.com/2009/04/21/advice-to-writers-on-creating-realistic-mega-conglomerates/>`__
+a while back, and I've realized that I would be remiss in these posts,
+if I didn't somehow tie it into writing and science fiction, and
+Stoddard's post provides a great hook into this connection. He's also,
+basically spot on right.
+
+Interestingly, the beginning of this series grew out of my experiences
+reading Kim Stanley Robinson's "Mars Trilogy," which spent a lot of time
+(particularly in the last two volumes) contemplating corporations and
+capitalism. Indeed, in the Mars books, Robinson posits what some readers
+(without careful examination) might think of as the typical "evil
+mega-corporations."
+
+Though I think he succeeds at avoiding the traps of having as villains
+"scheming business people in suits," by making sure that none of the
+executives appear in the stories. The closest we get to having a
+"corporate villain," is a character who allies themselves with the
+corporations for personal advancement. The result is that, the
+corporations lumber around, always doing the wrong thing, always getting
+in the way of the main characters, but they never loose the extra-human
+nature of being corporations.
+
+Maybe that's part of the problem with writing fiction about
+corporations. Fiction tends to revolve around people and social systems
+of comprehensible complexity and corporations are shaped and steered by
+a great number of people, and there's too much complexity in
+corporations to really capture accurately in fiction.
+
+While Stoddard's argument (Corporations exist to make money, they're not
+evil by nature) is factually true and good advice to anyone writing
+'corporate drama' fiction, I think writers (and the rest of us) might
+benefit from thinking about some other "nitty gritty" aspects of
+corporations. Just because corporations may be "generally a bad thing in
+the world," difficult to write about, and "not simply evil for the
+purposes of fiction" nonetheless I think it is important to think about
+the social/political effect corporations and to write about them in
+fiction.
+
+The following list is rough, and incomplete, and I encourage you all to
+help me out in comments!
+
+-  Corporations have a few overriding drives: to grow, to make profit
+(both by minimizing expenses and by increasing revenue), and to
+continue to exist. All actions and strategies undertaken by
+corporations should make sense in context of one or more of these
+drives.
+
+-  Corporate cultures are largely self selecting, so "radicals" in
+corporate settings are really unlikely, either because they're likely
+to leave or because their self-interest eventually falls in line with
+the company's interest.
+
+-  Corporations employ huge numbers of people, but we can assume that
+the number of people at any given company doing things that support
+the main mission of a company but that aren't "the thing the company
+does." Phyisical Plant "things," clerical tasks, human resources,
+"infrastructure," operations/financial tasks, internal legal work,
+and so forth. Probably as much as a quarter or a third of the staff
+probably falls into one of these categories.
+
+-  Corporations are rarely unilateral. Ever. They have many operations,
+many projects, many divisions, and thus can be resilient to things
+changing "around them." This also means that coorporations are less
+likely to take umbrage at potentially threatening individuals and
+companies, than a single individual would in a similar situation.
+
+-  Career advancement, in companies or elsewhere, generally happens to
+some greater or lesser extent by moving horizontally between
+companies rather than "through the ranks."
+
+-  The bigger the corporation the more specialized the roles of the
+workforce would tend to be.
+
+-  For the most part, I think it safe to assume that most corporations
+don't have a great deal of "classified" information, or information
+that's heavily embargoed. This comes as a great blow to conspiracy
+theorists, but secrets are hard to keep with regards to projects that
+a lot of people need to know about, and if all the other things we
+know about corporations are true (size, attrition, etc.) "great
+secrets" are unlikely to remain great secrets for long.
+
+In light of all these things I think there are a lot of opportunities
+for realistic story telling, but it's not always so straight forward.
+
+In anycase, I look forward to thinking about this some more with you.
+

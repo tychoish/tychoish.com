@@ -1,0 +1,87 @@
+==============================================
+The Structured and Unstructured Data Challenge
+==============================================
+
+.. post:: 2011-07-05
+   :author: tychoish
+   :tags: information-management, cyborg, data, database
+
+The Debate
+----------
+
+Computer programmers want data to be as structured as possible. If you
+don't give users a lot of room to do unpredictable things, it's easier
+to write software that does cool things. Users on the other hand, want
+(or think that they want) total control over data and the ability to do
+whatever they want.
+
+The problem is they don't. Most digital collateral, even the content
+stored in unstructured formats, is pretty structured. While people may
+*want* freedom, they don't use it, and in many cases users go through a
+lot of effort to recreate structure within unstructured forms.
+
+Definitions
+-----------
+
+Structured data are data that is stored and represented in a tabular
+form or as some sort of hierarchical tree that is easily parsed by
+computers. By contrast, unstructured data, are things like files that
+have data and where all of the content is organized manually in the file
+and written to durable storage manually.
+
+The astute among you will recognize that there's an intermediate
+category, where largely unstructured data is stored in a database. This
+happens a lot in content management systems, in mobile device
+applications, and in a lot of note taking and project management
+applications. There's also a parallel semi-structured form, where people
+organize their writing, notes, content in a regular and structured
+manner even though the tools they're using don't require it. They'd
+probably argue that this was "best practice," rather than
+"semi-structured" data, but it probably counts.
+
+The Impact
+----------
+
+The less structured content or data is the less computer programs are
+able to do with the data, and the more people have to work to make the
+data useful for them. So while we as users want freedom, that freedom
+doesn't get us very far and we don't really use it even when we have it.
+Relatedly, I think we could read the crux of the technological shift in
+Web 2.0 as a move toward more structured forms, and the "mash up" as the
+celebration of a new "structured data."
+
+The lines around "semi-structured" data are fuzzy. The trick is probably
+to figure out how to give people *just enough* freedom so that they
+don't feel encumbered by the requirements of the form, but so much
+freedom that the software developers are unable to do really smart
+things behind the scene. That's going to be difficult to figure out how
+to implement, and I think the general theme of this progress is "people
+can handle and developers should err on the side of stricture."
+
+Current Directions
+------------------
+
+Software like [[tag/org-mode]] and `twiki <http://twiki.org/>`__ are
+attempts to leverage structure within unstructured forms, and although
+the buzz around enterprise content management (ECM) has started to die
+down, there is a huge collection of software that attempts to impose
+some sort of order on the chaos of unstructured documents and
+information. ECM falls short probably because it's not structured
+enough: it mandates a small amount of structure (categories, some
+meta-data, perhaps validation and workflow,) which doesn't provide
+significant benefit relative to the amount of time it takes to add
+content to these repositories.
+
+There will be more applications that bridge the structure boundary, and
+begin to allow users to work with more structured data in a productive
+sort of way.
+
+On a potentially orthogonal note, I'm working on cooking up a proposal
+for a LaTeX-based build system for non-technical document production
+that might demonstrate--at least hypothetically--how much structure can
+help people do awesome things with technology. I'm calling it "[[A LaTeX
+Build System\|latex-system]]."
+
+I'd love to hear what you think, either about this "structure question,"
+or about the LaTeX build system!
+

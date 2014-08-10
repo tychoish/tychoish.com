@@ -1,0 +1,176 @@
+========================
+Large Sphinx Deployments
+========================
+
+.. post:: 2013-09-28
+   :author: tychoish
+
+I use `Sphinx <http://sphinx-doc.org>`__ *a lot.* Both in the sense that
+I have easily a dozen active (or reasonably so) projects that I maintain
+and work with on a regular basis. Sphinx is great, and I feel safe
+asserting that it's probably the best documentation toolkit in existence
+*and* more generally the best tool kit for the production of structured
+text.
+
+There are flaws. I've written here before with greater and lesser
+descriptions of the pain points of Sphinx. All of the problems are
+fixable, some fixes are delicate, and some small fixes require *major*
+work in some cases. In all, the challenges aren't insurmountable and
+Sphinx remains extremely usable and effective.
+
+Like any large and complex system, there are ways to manage resources
+with Sphinx with greater flexibility and ease. This post explores
+several ways that have helped me (and my collaborators!) manage big
+Sphinx deployments.
+
+These suggestions fall into two general categories: suggestions for
+making Sphinx projects with large volumes of content manageable *and*
+strategies for handling and managing larger groups of Sphinx
+deployments.
+
+Single Source Content
+---------------------
+
+To avoid duplicated content, when possible, it makes sense to reuse
+content. reStructuredText has an
+`include <http://docutils.sourceforge.net/docs/ref/rst/directives.html#include>`__
+directive for this purpose. In general, the best strategy is:
+
+-  maintain a directory of included content that's distinct from the
+other directories that hold content. In our projects we use
+``source/includes``, where ``source/`` is holds all content.
+
+-  Use a different extension for the included text than you use for your
+content files. For example if all of your Sphinx processed rst files
+use ``.rst`` extensions, include files should have ``.txt``
+extensions.
+
+-  Smaller, more restricted resources are more effective, typically.
+Longer bits of text are more difficult to slipstream into the text.
+If your include snippet requires a section heading its *probably* too
+big.
+
+This is most crucial for larger technical resources, and less crucial
+for other kinds of content, but in general, avoid duplicating common
+sections when possible.
+
+To make this really awesome you might want to add tooling for
+yourself/writers so that you can:
+
+-  see where a file is included in the larger text.
+
+-  see if any include files are *not being used*.
+
+-  detect if any two redirects are substantially similar.
+
+Pre-process and Generate Content
+--------------------------------
+
+reStructuredText is great for providing a human-friendly way to edit a
+structured text documents. However, for some kinds of structures its
+probably better to build the restructured text from some other common
+structure. For instance: repeated content, tables of contents, image
+declarations, and dealing with different output for different content
+types are all good cases for building content yourself.
+
+My main mode of doing this is to use
+`rstcloth <https://pypi.python.org/pypi/rstcloth/>`__ to write scripts
+that read YAML files that contain the content and can be converted into
+rst content. As an alternative you could write extensions to the
+reStructuredText processors (docutils) to handle this content, but that
+may make the production of the documents more (differently?) fragile.
+
+Minimize Configuration Differences
+----------------------------------
+
+The best thing about Sphinx configuration is that the configuration file
+itself is a Python module. Which means you can inject pretty much
+whatever logic you want into the configuration and via
+``html_template_options``, the template. This is an awesome power, but
+if you need to manage more than one similar Sphinx site, the more
+complex your configuration is, the harder everything becomes. Therefore,
+tend toward minimal configurations.
+
+I've been experimenting with a number of solutions, and I don't have a
+"Sphinx Configuration Toolkit" established (yet,) but I've been trending
+toward where the canonical information about the project (urls, theme
+data, etc.) in a configuration object constructed from a metadata file.
+Then to populate site-specific lists (interspinx inventories; pdfs,
+manpages, etc.), I read from other data files. Keeping site-specific
+data seperate from the configuration code seems to work well.
+
+Take Advantage of the Theme System
+----------------------------------
+
+Sphinx's HTML output uses `jinja <http://jinja.pocoo.org/>`__, which is
+incredibly flexible. To be honest, I kind of wish that the LaTeX builder
+was also Jinja based, but I'll take what I can get. Sphinx gives you
+full access to build and customize really sophisticated display systems.
+If you're using default templates, then you can skip this tip.
+
+If you *do* have custom display code, then take some time to read
+through the `Jinja Documentation <http://jinja.pocoo.org/docs/>`__ and
+the `Sphinx Templating
+Documentation <http://sphinx-doc.org/templating.html>`__ so you know
+what's possible. When developing a template for Sphinx (or in general,)
+remember the following:
+
+-  minimize the amount of runtime logic required to render each
+template. While some template logic is unavoidable, and for some
+projects the performance hit may not be noticable.
+
+However, putting logic elsewhere (e.g. in the values passed to the
+template.) makes the data handled by the template as a compile-time
+rather than run-time cost (plus or minus the memory costs of larger
+template memory.)
+
+-  use template inheritance.
+
+Basically, Jinja makes it possible to describe a complete template
+composed of "blocks." The blocks don't have any impact on the output;
+however, you take this template and use it as a "base" and then describe
+a new template that is like the base *except* that you can override some
+or all of the blocks. This is awesome, and makes it possible to reuse a
+lot template code without needing to duplicate *anything* or drive
+yourself crazy.
+
+It's easy to forget about this capability when you're trying to hack
+something together and template inheritance, like class inheritance in
+object oriented programming can add complexity and fragility. So
+you'reprobably well justified in being wary of using inheritance, but
+give it a shot!
+
+Evaluate Build System Requirements
+----------------------------------
+
+Sphinx is a documentation tool kit, and it's very extensible, and
+awesome. However, in the base configuration it's not a complete
+end-to-end publishing system: it doesn't have built in version
+control/maintenance, it's in general only aware of the current build
+(i.e. the HTML version of your documentation is unaware of the PDF
+version (and so forth,)) and once Sphinx compiles a site you still have
+to deploy it *somewhere*.
+
+In short, to build a website or resource using Sphinx, there are other
+things the build system before and after running Sphinx to get the
+product you need. You can reduce a great deal of complexity *and*
+provide a number of common points to synchronize multiple projects.
+
+Also, avoid doing crazy things with Makefiles.
+
+Other Useful Optimizations
+--------------------------
+
+1. Download intersphinx inventories independently of Sphinx.
+
+Sphinx will attempt to download each intersphinx inventory each time you
+build your site *and* it will download each inventory serially. It's
+trivial to do better on your own. Here's what we do:
+`intersphinx.py <https://github.com/mongodb/docs-tools/blob/master/fabfile/intersphinx.py#L28>`__
+
+2. The index objects (which Sphinx uses for all special objects) live in
+a flat namespace, and collisions are not well handled. Items of
+different If you're indexing items using Sphinx that have more than
+one n
+
+

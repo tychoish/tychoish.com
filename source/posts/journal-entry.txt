@@ -1,0 +1,109 @@
+=============
+Journal Entry
+=============
+
+.. post:: 2009-03-03
+   :author: tychoish
+   :tags: journal
+
+Ok, I've not done a "journal" post n a while, and I think one is long
+due. It's been a wild week (or two) in the life of tycho, and I think
+without the opportunity to parse through some recent events:
+
+1.  I've been ferrying back between home and my grandmother's about
+twice a week for, what seems like a few weeks. Everything is fine,
+and she's doing very well (and reading the blog again! everyone say
+hi!), but it's jarring if nothing else. I think I'm home for the
+better part of a week this time, and I'm slipping back into getting
+things done. Though, being home (and ready to leave) isn't exactly
+restful, particularly when so many things need doing at home. So
+many things.
+
+2.  I've not been writing very much. All the unsettledness seems to mean
+that I'm a total mess. I've written (and semi-abandoned) lots of
+blog posts, which never take that much concentration usually. I'm in
+the middle of reoutlining the novel project and have been on hiatus
+with that as a result. I'm convinced that a couple of hours should
+be able to get me back on to track with that, and jump starting that
+project will help revive my flagging conentration/focus.
+
+3.  I finished the shawl for my grandmother (I might have mentioned
+that) and have started working on another shawl. There's a lot of
+lace in my future, but I do want to knit sweaters more/again. The
+good news is that I'm actually knitting stuff. So "woot!" for a
+project that isn't really going by the wayside.
+
+4.  I'm not, as I thought, going to Drupal Con. Given all of my travels
+and responsibilities here, it just wasn't feasible. I'm
+disappointed, but I'm sure it was the right thing, as taking one of
+the balls out of the air lead to no small amount of relief.
+
+5.  I'm finally reading at a pace that I find acceptable. I'll write a
+post about this at some point, but I've finally managed to figure
+out a way to prioritize reading in a way that lets me get it done.
+My pile hasn't started to dwindle very much, but I can imagine that
+I'll be able to make progress. I'm also finally into new territory
+with the Robinson "Mars books" and am enjoying it. There's something
+very similar about the way we approach a story that I *really* like,
+and a lot of things that he (not surprisingly) pulls off much more
+effectively than I am. It's good stuff.
+
+6.  While I switched to brewing tea loosely many months ago, these days
+I'm not using any fancy brew pots, opting for more traditional
+infusers and strainers, which seem easier to manage. I've discovered
+that I need some sort of thermos (as my 16 oz. travel mug isn't
+enough for a morning out.) and I'd like to get a 40 oz tea pot with
+a built in strainer/doodad, but I'm good for now unless I see a deal
+that can't be missed.
+
+7.  Battlestar Galactica continues to boggle my mind in a good way. I
+continue to be really impressed with how the story progresses, the
+kind of science fiction that they're doing, and the quality of
+*everything*. I'm, typically, a bit sad about the end, and I've been
+hording and watching in 2-3 episode chunks, but I think in the long
+run it's a good thing that the show is going out on such a good
+note, and I think seeing (parts?) of the production team go in to do
+different things will be much more powerful than getting another
+couple of seasons of BSG as we know it now. As much as I hate to
+admit that.
+
+8.  I did some things along the lines of reconfiguring my blackberry, to
+reprogram some of the buttons along the side, and I've started to
+use a private emaill address that I set up to take notes on the fly.
+I should probably begin to figure out how to do some sort of
+procmail filtering something or other to get these notes into
+something in my org-mode files. Later. In general, I'm really
+pleased with how the phone is working out, even if I still need to
+get the music/ring tone situation sorted out, but I'm lazy.
+
+9.  I've been, as I can, going for long-ish walks every day. I'll write
+about this, eventually, but I think it's been really good for
+clearing my mind and working. It'll also be nice to be in a little
+better shape before the dancing season really picks up: stamina and
+all. If I can convince myself that this is a habit worth keeping,
+and I buy tennis shoes (for the first time in... ten or 12 years,
+yay for boots and clogs.) I'm considering joining a gym, in hopes of
+being able to do weight stuff and being able to do lower impact
+aerobic stuff. As a skinny geek, whose been moderately active
+(dancing) heretofore, this whole exercise thing is quite strange and
+intimidating. There's all kind of stuff that I don't know at all.
+Very strange.
+
+10. I'm rejigging my family's computers this week. I tried to explain
+what needs to be done, but failed. Basically what I need to do
+centers around: copying a lot of stuff off of a computer, getting
+ipod syncing working with linux, and then figuring out a creative
+solution for getting either getting the audio signal from the
+office, to the living room without wires, or getting the network to
+a computer that doesn't have wireless. Additional challenges
+include: remote control of the jukebox machine player using
+laptops/cellphones (proto home automation), and possibilities for
+podcast fetching that don't necessarily involve the ipod software
+(thinking about using my phone for this). Thoughts on any of these
+issues would be great.
+
+Sorry for the eccentricity of this post, and my posting this week, I'm
+almost back on track.
+
+Outward and Onward!
+

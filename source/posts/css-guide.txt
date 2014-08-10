@@ -1,0 +1,11 @@
+=========
+CSS Guide
+=========
+
+.. post:: 2005-12-19
+   :author: tychoish
+
+Somtimes, the old favorites are always a good to have around. I'm quite
+fond of this CSS Guide and as you can tell by our recient little mini
+redesign, it's been a godsend.
+

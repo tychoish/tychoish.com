@@ -1,0 +1,49 @@
+===========================
+Lies About Documentation...
+===========================
+
+.. post:: 2012-04-05
+   :author: tychoish
+   :tags: technical-writing, programming
+
+*.. that developers tell.*
+
+1.  All the documentation you'd need is in the test cases.
+
+2.  My comments are really clear and detailed.
+
+3.  I'm really interested and committed to having really good
+documentation.
+
+4.  This code is easy to read because its so procedural.
+
+5.  This doesn't really need documentation.
+
+6.  I've developed a really powerful way to extract documentation from
+this code.
+
+7.  The documentation is up to date.
+
+8.  We've tested this and nothing's changed.
+
+9.  This behavior hasn't changed, and wouldn't affect users anyway.
+
+10. The error message is clear.
+
+11. This entire document needs to be rewritten to account for this
+change.
+
+12. You can document this structure with a pretty clear table.
+
+*Often this is true, more often these kinds of comments assume that
+it's possible to convey 3-5 dimension matrixes clearly on
+paper/computer screens.*
+
+13. I can do that.
+
+14. I will do that.
+
+15. No one should need to understand.
+
+
+

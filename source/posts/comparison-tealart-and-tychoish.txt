@@ -1,0 +1,99 @@
+================================
+Comparison: TealArt and tychoish
+================================
+
+.. post:: 2007-08-31
+   :author: tychoish
+
+I've been posting and thinking about what conventions and styles
+separate TealArt and tychoish over on
+`tychoish <http://tychoish.com/>`__, and I think this post will likely
+be the culmination of those thoughts. This has been on my mind of late
+because, I've felt this week that running both sites more or less on my
+own on a daily basis (which I want to do, don't get me wrong,) is more
+than I can handle *in the current format.* So I've been giving more
+thought to this, and I think that describing the differences between the
+sites and what I hope to accomplish on both sites.
+
+TealArt
+-------
+
+TealArt is (ideally) a collaborative "blog," that posts slightly longer
+"essays" or "articles" in contrast to many blogs that tend toward
+exclusively biographical pieces (journals), short moment-to-moment
+reflections, or various kinds of punditry (political blogging,
+technology blogging, etc.), although, at some points in its past TealArt
+has fit into various aspects of these typical blog categories.
+
+TA posts tend to be in the 500-700 word range, that is slightly longer
+than the typical blog entry, and are posted 5 days a week. Though there
+are certainly stand-alone posts, many fit into ongoing series' on
+loosely organized topics. Thus, in some respects TealArt mixes the
+maga(zine) and blog metaphors, although it would be incorrect to take
+this too far. Our posts are often off the cuff opinion-pieces, that
+aren't throughly polished. TA posts are experimental, though perhaps
+this is more from the writers' perspective than from the readers: we're
+here trying ideas and concepts out on TealArt, to see how they sound
+outside of our heads.
+
+**Topically,** TealArt has a history of being all over the map. These
+days, TA tries to focus on technology, science fiction, and various
+aspects of hyper/digital text, with occasional dabbles into the realm of
+knitting. In terms of technology, we've tended to think about how we use
+computers and how technology interacts with culture and individuals.
+We've approached science fiction, through the `Station
+Keeping <http://tychoish.com/hanm/>`__ and commentaries on the genre
+like `this <http://tychoish.com/rhizome/science-fiction-memes/>`__.
+Though I tend to conceptualize it in reverse, digital/hyper-text
+discussions on TealArt as been a place for me to think about how we
+consume and produce text in digital environments. And the knitting
+content is fairly straightforward, though unlike most knitting blogs,
+TealArt Knitting content, is more commentary on the craft and often less
+focused on what I'm actually knitting.
+
+~/tychoish
+----------
+
+In contrast to TealArt, tychoish is just me, and I often think of it as
+a kind of "failed tumble log," Tumble Logs, like
+`Anarchaia <http://www.anarchaia.org/>`__ are quick and dirty blogs that
+collect various kinds of input from around ones travels on the internet,
+not much commentary, and no commenting. Mine is failed, mostly because I
+don't seem to surf the internet in a way that is productive for
+tumbleloging, and I tend to be a little more verbose, and I thought it
+would good to have comments. So in the end, I sort of have blogging
+circa 1999 when I first got into it (but could never get my ass together
+to do right.)
+
+Initially, the idea for this site was to have something that is
+basically a reflection of the kind of note taking that I tend to do in
+my paper/bound notebook, and It's grown to be something of a reflection
+of my internal monologue, with various records of *things.* I post todo
+lists, brief ideas for writing things, thoughts that are a bit too long
+for `twitter <http://twitter.com/tychoish>`__, and other bits of
+miscellany. Where I aim to have a new TealArt post every day, depending
+on what I'm doing in real life, I probably post anywhere from 1 on a
+light day to about 3-6 posts on a heavier a day. The posts are even less
+though out, and tend to be in the sub-250 word range.
+
+Moving Forward
+--------------
+
+I really like how things are set up at the moment, and I like the model
+that both sites are working in, so they'll likely stay the way they are.
+I'm not sure how things will work out in the future, and I've posted a
+quick `list things todo for
+TealArt <http://tychoish.com/rhizome/tealart-todo/>`__ in the future to
+help figure out a better way to manage this project. I *may* have
+someone lined up to be a more serious co-editor in 2008, but that's a
+ways off, and I have a lot on my plate between now and then, but I'm
+still looking a little more seriously for folk who might be a good fit
+here. I think also, if there were someone writing two regular posts a
+week, I'd have a lot more time and energy to work on behind the scenes
+stuff here, like: promotion and design, and other cool projects that
+need to happen. For the moment, however, nothing's changing.
+
+I'll see you next week.
+
+Cheers, tycho
+

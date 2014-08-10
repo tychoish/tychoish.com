@@ -1,0 +1,88 @@
+=============
+On Federation
+=============
+
+.. post:: 2008-09-16
+   :author: tychoish
+
+In my post on `Open ID <http://tychoish.com/rhizome/open-id/>`__ I said
+that I'd continue that train of thought with a post about federation, so
+here we are. This post starts, however, a bit before that one ends,
+somewhere a little different. Stick with me though:
+
+The greatest thing about
+`Unix-like <http://en.wikipedia.org/wiki/Unix-like>`__ operating systems
+(at least conceptually, to me) is the concept of the pipe. This isn't
+new of course, but the pipe is the tool by which the output of the small
+`widget like <http://tychoish.com/rhizome/open-source-freedom/>`__ unix
+programs can be "piped" into another application. The pipe works on
+anything in a plain text format (basically) and takes what would
+otherwise be a really fragmented computing enviroment and turns it into
+something where *the data*, *the text*, the *product of your computing
+output,* is the central focus of your computing activities. As it should
+be.
+
+Fast forward 30 years, and we have the internet. Where data doesn't flow
+through pipes (unless you're `Ted
+Stevens <http://en.wikipedia.org/wiki/Ted_Stevens>`__), but mostly stays
+in whatever silo it gets entered in. This isn't strictly true, there are
+ways to import and export data when they're stored in a database
+somewhere in the cloud. but on the whole once you commit to storing your
+data in one place/way the relative price [1]_ of moving from one system
+to another is quite high.
+
+The concept of federation solves the problem of data interchange for the
+internet in the same way that the pipe solved a very similar problem for
+UNIX. Or at least it tries to. Unsurprisingly the problem for UNIX
+developers was a conceptual and engineering problem, for the developers
+and participants in the internet the problem is one of community norms,
+but the need for interoperability and openly accessible data is the
+same.
+
+In UNIX the solution to this problem grew out of an understanding that
+software worked best when it only did one thing, and that it was easier
+to *develop/use/maintain* a lot of different pieces of distinct software
+well than it was to write single pieces of software that *did* a lot of
+different things well.
+
+This is unequivocally true. And I think it's also true of the Internet.
+It's easier to maintain and develop smaller websites with less traffic
+and less data and a smaller staff, and a smaller community, than it is
+to maintain and cope with huge websites with massive amounts of traffic.
+The problem is that websites don't have pipes--really--and if they do,
+it has to be hacked (in sense of computing by trial and error, rather
+than intrusion) by specialists. And to be fair, RSS and some other XML
+formats are becoming de facto standards which allow some limited piping,
+and OpenID is a good first step towards interoperability, but there is
+*a great deal of work* left to be done.
+
+It seems to me, that data doesn't flow on the internet because success
+of a website, seems to be measured in a very strictly quantitative
+basis. The more users, the more visits, the more hits you have,
+theoretically the more successful you are; and if this is the case then
+website producers and web-software developers would seem to have a
+vested interest in keeping users using a site, even if this potentially
+holding users' data hostage. But what if websites didn't need to be
+huge? What if rather than marketing a website in terms of number of
+features and size, websites said "give us your time and money, and we'll
+give you full access to your data, the ability to connect your data to
+the data on other similar sites, and allow you to participate in our
+very specific community?" It would be a different world, indeed.
+
+The thing is that, all of these more-focused websites probably would be
+a lot smaller than most of the big websites today. I'm fine with that,
+but it means rethinking the economics and business model for the web.
+The question isn't "can we figure out a way to get push-based,
+interoperable technology running on a large scale, but rather, is there
+a way for the *vast* majority of websites to be run by (and support the
+salary of) very small teams of, 5-10 (+/-) people? Not just "until it
+gets bigger, or bought by google/yahoo" but, forever?
+
+I look forward to playing with numbers and theorizing systems with
+people in the comments, but most of all I'm interested in what you all
+think.
+
+.. [1]
+Not necessarily in terms of monetary cost, but in terms of time,
+energy, and programing knowhow.
+

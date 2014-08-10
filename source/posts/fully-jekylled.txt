@@ -1,0 +1,36 @@
+==============
+fully jekylled
+==============
+
+.. post:: 2009-04-11
+   :author: tychoish
+   :tags: update
+
+I write you from the future! I, as predicted, made the switch over
+between the wordpress powered version of tychoish.com and the
+`jekyll <http://www.github.com/tychoish/jekyll>`__ powered version of my
+site. I'm quite pleased with this development. Basically it works by
+taking a repository of posts with all the content from my site and then
+compiles a website of static pages whenever I trigger an update. Though
+it hasn't worked flawlessly, I'm pretty pleased with how this has worked
+out, and as I clean things up and get to using the system a bit more
+I'll write up a post regarding jekyll, but I want to get used to it some
+more.
+
+The biggest change is that I'm now calling the short form posts, "notes"
+and the long form posts, "essays" (as usual) and I've changed the
+landing page *a bit*. In all I think it's an improvement. I'm not done
+tinkering around here: I hope this system will make it easier to develop
+and "curation" lists of related content. If I learned nothing else from
+this project, it's that I have *a lot* hanging around in the archives,
+and the chronological list of content isn't a particularly good
+presentation of this. So new ways of visualizing the content are in
+store.
+
+Also, if you're inclined, you can get a copy of the repository that
+powers this site over on
+`github <http://github.com/tychoish/tychoish.com/>`__. I'll set up local
+hosting/cloning of the git repository, in a bit.
+
+Anyway, Onward and Upward indeed!
+

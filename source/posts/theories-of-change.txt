@@ -1,0 +1,117 @@
+==================
+Theories of Change
+==================
+
+.. post:: 2008-12-11
+   :author: tychoish
+
+Things change. People change. Societies change. You might not be able to
+get social scientists and cultural theorists to agree on very much, but
+the fact that change happens is pretty easy to stomach. The difficulty
+come in when we start to think about *how* things change. What follows
+is a review of the competing approaches to what I'm calling "theories of
+change," I hope this helps me (and you!) organize some thoughts.
+
+There are, near as I can tell, three major schools of thought that
+attempt to explain "how things change:" evolution, complexity/emergence
+(chaos), and development. In turn:
+
+Evolution
+---------
+
+Derived of course from biology, there's a great deal of evidence that
+biological systems have evolved and continue to evolve. Evolution is
+predicated on the assumption that the most adaptive variations in a
+given population will propagate themselves more than less adaptive
+variations, which will propagate themselves less. Evolution is a very
+"big picture" process, and--at least in the biological sense--refers to
+change and adaption on the scale of the population on the whole.
+
+There are a few things that more casual applications of the theory seem
+to forget that I think are key:
+
+-  Evolution values adaptability and diversity over just about
+everything else, adaptable individuals and diverse populations are
+more resilient to shorter term changes in the environment, so
+evolutionary analysis that's grounded in survivability in a
+particular situation are relatively week.
+-  Evolution takes a long time. Many generations. Many many generations.
+So many that it's really hard to think about evolution "happening"
+given the way that we think about time. In many ways, its easier to
+think about continents moving around than it is to think about the
+way populations evolve.
+-  There's little good evidence that evolution occurs in non-biological
+systems. We use evolution as an analogy for many change-processes,
+but as a mechanism, outside of biology its limited.
+
+Complexity
+----------
+
+I really like complexity or emergence theory, but I'm not a math guy,
+and I don't have a very good grasp of it. The basic idea is that in the
+right conditions, systems of independent "actors" that interact with
+each other will given time develop some sort of organization, and that
+these "systems" (as actors) combine to form higher level systems. And so
+forth.
+
+So for example, humanity can be seen as an example of emergent
+complexity: our bodies are made up of molecules that interact with each
+other to form sub-cellular structures and cells (actors), which make up
+tissues and then organs (systems), which make up our bodies. Our bodies
+(and selves) are actors in social systems... and so forth. I've left a
+lot out. Obviously evolution is an example of a complexity theory, but
+complexity theories have been used (successfully, I'd argue) to explain
+how systems work and form in non-population scale biological systems and
+non-biological systems, and also on time scales that are shorter than
+anything evolution could work with.
+
+The organization of photographs in tags on flickr is largely emergent
+(as are google's search results), and intelligence is often described as
+being emergent. There are more, and I'm sorry if I don't have really
+good examples of this.
+
+Development
+-----------
+
+I use the idea of development to help describe smaller scale adaptations
+and adjustments over time. I studied a lot of Developmental Psychology
+for a while in there, and I think a concept of development is really
+important to thinking about the ways people change, and grow. Just as we
+know that evolution happens to populations over time, we *know* that
+humans (and other animals) are continuously developing throughout their
+existences.
+
+Human development has two major divisions: the intrinsic biological
+processes and the process of adapting to different contexts. The
+biological stuff is pretty limited: it's impossible to walk or develop
+speech before a certain age because the vocal/skeletal musculature isn't
+developed enough. Stuff on that scale. These sorts of
+biological/physical limitations are developmentally relevant mostly
+because they limit the possibility for external experience.
+
+The adaptation to context part of development is grounded in learning
+theory (cognitive/behavioral psychology), and helps explain how
+individuals interact and change with regard to their world, and it all
+depends on experience. What language a child learns depends on what
+language they're exposed to. Our sensitivity to heat and cold, is
+largely dependent on where we live. The way we cope with stress depends
+on the outcomes of past stressful experiences, and how we witness other
+people cope with stress.
+
+Development describes how individuals (actors/systems) are shaped and
+changed by experience. It's something that happens over time, at varying
+rates and is dependent on context. Non living things can be thought of
+as "developing." Institutions, intellectual projects, science and
+technologies, and so forth.
+
+Right and?
+----------
+
+That's what I have. It's really easy to just say "evolve" when we mean
+change, and similarly easy to recognize "stuff changes," when the really
+interesting and powerful part is to understand the mechanisms that
+produce change. The processes of change differ depending on what is
+changing, which is only fitting. I'm going to try and get a little bit
+clearer on complexity theory, and I'll probably follow this post up in
+the coming future.
+

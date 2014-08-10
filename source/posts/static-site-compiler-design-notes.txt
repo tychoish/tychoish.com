@@ -1,0 +1,97 @@
+=================================
+Static Site Compiler Design Notes
+=================================
+
+.. post:: 2013-12-15
+   :author: tychoish
+
+For a year or more I've been playing with the idea of writing my own
+static site generator. I've been producing websites using static site
+generators for the last 4 or 5 years. For an overwhelming majority of
+cases, static generation *is the right modality*; however, there are
+some significant ways in which the tool chain *is not* mature.
+
+I've been working on an initial pass at a better kind of static site
+generator, which is a ways away from being "production quality," but the
+initial idea is in place, so I feel comfortable discussing some of the
+details.
+
+--------------
+
+Most static site compilers retain simple designs where the process of
+building the site is non-incremental: all pages are *always* rebuilt
+even if the content of the page has not changed. Furthermore, there's no
+parallelism, so pages must be built one at a time.
+
+Typically the program will need to process all pages twice, because the
+rendering phase may require links between content, which complicates the
+requirements slightly.
+
+The simple design is a huge win for three reasons: it's easy to
+understand how these build systems work. There are never any false
+negatives where pages aren't rebuilt that should be. Best of all, for
+small and moderately sized sites, serial/non-incremental approaches are
+faster.
+
+The downside is pretty big: the amount of time to build the site grows
+linearly with the number of pages, and there's no real way to improve
+performance, particularly as sites become larger.
+
+--------------
+
+The design of the "improved" solution is pretty obvious. Iterate through
+all pages to build and "ingest" their content and metadata. You can do
+this in parallel, and if possible it makes sense to as much here as you
+can: build pages that don't depend on other pages if possible. Also tag
+pages that include aggregated content here for latter processing.
+
+As you collect the results from these operations, you have enough
+information to generate the pages that include aggregated information,
+and you can run and do any remaining rendering.
+
+The only other efficiency is hashing the input page upon initial read as
+well as the rendered page when you're done so that you can completely
+skip pages that don't need rendering.
+
+For most builds, you might only need to render changed pages;
+unfortunately, there's still a fixed cost per-page, which can be
+amortized somewhat.
+
+--------------
+
+For smaller collections of pages, doing everything in a row is faster,
+and requires less code to get to a proof of concept. As a result, most
+static site generator implementations follow the serial/non-incremental
+pattern. The problem is, of course, that this doesn't hold up as sites
+grow.
+
+The current state of the art isn't great:
+
+-  My current blogging solution, `ikiwiki <http://ikiwiki.info>`__ does
+incremental rebuilds but doesn't rebuild in parallel.
+
+-  `Sphinx <http://sphinx-doc.org/>`__ does incremental rebuilds, though
+it's spotty in cases, and for the\ *write phase only* works in
+parallel (latest version only). The
+`tinkerer <http://tinkerer.me/>`__ blog tool is built on top of
+Sphinx.
+
+I think it's possible to do *most* of the work of the build in parallel,
+and I'm interested in writing a site compiler that uses a concurent
+design, targeted not at raw speed but maximum efficiency. My hope is
+that such a site generator could make these systems more plausible for
+general content management for organizations and groups that need
+flexible systems but don't need the overhead or complexity of
+database-driven applications.
+
+I'm using the `python job
+runner <http://m.tycho.co/post/62725228218/python-job-runner>`__ as a
+starting point, building using reStructuredText pages in using the
+general format of Jekyll pages. Supporting markdown doesn't seem beyond
+the realm of possibility. The initial implementation is, of course, in
+Python on account of my personal comfort and affection for
+reStructuredText, though I think it would be useful to attempt to port
+the system to Go at some point, no plans for that at the moment.
+
+Onward and Upward!
+

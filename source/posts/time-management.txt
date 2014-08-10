@@ -1,0 +1,99 @@
+===============
+Time Management
+===============
+
+.. post:: 2010-01-13
+   :author: tychoish
+   :tags: productivity
+
+I've not written here about time management and productively very much
+recently. I'm a pretty busy guy, I work a lot, I live an hour away
+(minimum) from my social life, and I have a lot of things simmering in
+various stages. While I might accept the challenge that I'm spreading
+myself a bit too thin (I'm working on it!) I feel like the largest
+challenging isn't that my attention is too divided, or even that I don't
+have enough time to do the things I want to do.
+
+Rather, I think my biggest challenge at the moment is that I'm not
+particularly good at using very short blocks of time to get things done.
+The twenty minutes of free time I have in the morning before work, the
+time after work when I'm too tired of looking at words to write, but not
+tired enough to go to bed. One of the great things about having lots of
+projects is that they're all in different stages and require different
+kinds attention.
+
+As a result, I'm taking the following strategies in an effort to use
+time a bit more effectively:
+
+1. *Stub out projects during binges, fill in the gaps in the
+interstitial time.*
+
+One of the problems with writing in short little bits and pieces
+throughout the week, is that writing is often a game of momentum, and
+it's hard to really build up speed and absorb yourself in a project,
+however big or small in a few moments. In most cases, the hardest thing
+to do in writing is figure out "Okay, so what do I need to write here."
+Given this, it's incredibly easy (at least for me) to become enchanted
+with the successful binge and the ability to bury myself in a long
+writing session for hours on end; because that tends to work well, I'm
+prone to just not trying to write in the interstitial moments.
+
+My approach, recently, and one that I need to pay a bit more attention
+to maintaining, has been to use binges to start projects, to do a lot of
+free writing and note taking, and then with things mostly sketched out
+and "stubbed out" (to borrow a term from the wiki world), it's easier to
+write things during the week.
+
+2. *Work on keeping the "to do" list more populated.*
+
+I suppose this is really an extension of the above, but I sometimes find
+myself avoiding adding items to my todo list if I'm close to "clearing
+the decks" (OCD much?) and I sometimes fall out of the habit of really
+using my todo list as a method for planning my day and week out. Todo
+lists have three main purposes that I can see: first they help with
+remembering things that you might otherwise forget. That's not something
+I struggle with in any major way. The second is to do some
+organizational work up front so that big and hugely imposing tasks seem
+much more manageable when you sit down to work. Finally, they should all
+but moot the question "what should I work on now?"
+
+In any case, a todo list is completely useless when left unmaintained,
+and underpopulated. There's always something that needs doing, and
+there's often time to do something. Todo take the thought out of
+figuring what to do in those spaces, and they can't really do that when
+they're not kept up to date.
+
+3. *Get away from the computer when I've lost the ability to
+concentrate.*
+
+When I'm tired or bored (or both) and don't think I could muster the
+ability concentrate on a sentence, I rarely muster the courage to get up
+and do something else. Instead, I usually tab into a web browser and
+doddle away the evening doing something like refreshing Facebook
+endlessly, or some-such. While there's nothing wrong with a little bit
+of harmless perusal of the Internet, it's too easy to get sucked in and
+then not get other stuff done. I think of this as the "cut your looses
+strategy." I'm not terribly good at it most of the time, but when it
+works I'm pleased.
+
+4. *Read more, particularly when I've "run out of words."*
+
+At the end of a day, I sit down on the couch with my laptop, and I find
+whatever emacs buffer open that I'd been hacking or writing away on in
+the morning (or the previous evening), and I think "*Dear god, I
+couldn't possibly write anything more,*\ " which is a fair feeling: I
+stare at emacs buffers and hack away on words all day as it is, coming
+home to do more of this, even if the topics are a bit different, is
+sometimes difficult. I enjoy writing a bunch and find it to be a very
+rewarding experience so this isn't always a problem, but when it is, it
+is.
+
+My goal is to avoid waisting time because I'm bored or tired and using
+this time to read instead. I tend to find reading to be refreshing *and*
+I feel like I don't have enough time to read as it is, so this solves a
+few problems. I think if we look honestly at our days and our goals,
+most of us might be able to find a way to get the more things done that
+we want to get done, with such a strategy.
+
+We'll see how that works.
+

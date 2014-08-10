@@ -1,0 +1,141 @@
+===============================
+The Tiling Window Manager Story
+===============================
+
+.. post:: 2009-10-22
+   :author: tychoish
+   :tags: cyborg, open-source, history
+
+As I said in "`The Odd Cyborg
+Out <http://tychoish.com/rhizome/lisp-and-the-odd-one-out/>`__," I'm
+thinking of giving StumpWM a run. So I did some musing about tiling
+window managers, because I am who I am. Here goes,
+
+So, like I said, I've been tinkering a very little with
+`StumpWM <http://www.nongnu.org/stumpwm/>`__, and I thought some
+background might be useful. For those of you who aren't familiar,
+StumpWM is another tiling window manager, like my old standard
+`Awesome <http://awesome.naquadah.org/>`__, except Stump is written in
+Common Lisp, and is descended from different origins from Awesome.
+Here's the history as I understand it.
+
+The History of Tiling Window Managers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was (and is,) this *very* minimalist tiling window manager called
+`dwm <http://dwm.suckless.org/>`__ which is written in less than 2000
+lines of code, and is only configurable by modifying *the original C
+code and then recompiling*. It's intentionally elitist, and targeted at
+a very high level of user. While this is ok, particularly given the
+niche that are likely to want to use tiling window managers, there were
+a lot of people who wanted *very different* things from dwm. In a
+familiar story to those of us who follow free software and open source
+development: lots of people started maintaining and sharing patch-sets
+for DWM. These added additional functionality like easier configuration
+tools, integration with menus, notification libraries, theeing support,
+API hooks, and the rest is history.
+
+Fast-forwarding a bit, these patch-sets inspired a number of forks,
+clones, and children projects. DWM was great (so I hear) if you were
+into it, but I think the consensus is that even if you were geeky/dweeby
+enough for it, it required *a lot* of attention and work to get it to be
+really useable in a day-to-day sort of way. As a result we see things
+like Awesome, which began life as a fork of DWM with some configuration
+options, and has grown into it's own project "in the tradition of dwm."
+dwm is also a leading inpsiration for projects like
+`Xmonad <http://xmonad.org/>`__, which is a re-implementation of dwm in
+the Haskell programing language with some added features around
+extension and configuration options.
+
+This *default configuration* problem is something of an issue in the
+tiling window manager space, that I might need to return to in a later
+post. In any case...
+
+Stump, by contrast has nothing (really) to do with dwm, except that they
+take a similar sort of approach to the "window management" problem which
+is to say that window behavior in both are highly structured and
+efficient. They tiling windows to use the whole screen and focus on a
+user experience which is highly keyboard driven operation. Stump, like
+xmonad, is designed to use one language exclusively for both the core
+program, the configuration, and the extension of the environment.
+
+And, as I touched on in my last post on the subject I'm kind of enamored
+with lisp, and it clicks in my head. I don't think that I "chose wrong"
+with regards to Awesome, or that I've wasted a bunch of time with
+Awesome. Frankly, I think I'm pretty likely to remain involved with the
+project, but I think I'm a very different computer user--Cyborg--today
+than I was back then, and one of the things that I've discovered since I
+started using Awesome has been emacs and Lisp.
+
+My History with Awesome
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Lets talk a little bit more about Awesome though. Awesome is the thing
+that set me along the path to being a full-time GNU/Linux user. I found
+the tiling window manager paradigm the perfect thing that lets me
+concentrate on the parts of my projects that are important and not get
+hung up on the distractions of organizing windows, and all of the "mouse
+stuff" that took too much of my brain time. I started playing around in
+a VM on my old Macbook and I found that I just got things accomplished
+there somehow. And the more I played with things the more I got into it,
+and the rest is history.
+
+When I finally gave up the mac, however, I realized that my flirtation
+with vim wasn't going to cut it, and I sort of fell down the emacs
+rabbit hole, which makes sense--in retrospect--given my temperament and
+the kind of work that I do, but none the less here I am. While Awesome
+is something that I'm comfortable with and that has severed me quite
+well, there are a number of inspirations for my switch. Some of them
+have to do with Awesome itself, but most of them have to do with me:
+
+-  I want to learn Common Lisp. While I know that emacs' lisp, and
+Common Lisp aren't the same there are similarities, and Lua was
+something that I've put up with and avoided a lot while using
+Awesome. Its not that Lua is hard, quite the opposite, it's just that
+I don't have much use for it in *any other context*, and while I know
+enough to make awesome really work for me, my configuration is
+incredibly boring.
+
+Not that I think Common Lisp is exactly the kind of thing that is going
+to be incredibly useful to me in my career in the future, but like I
+said: I like the way Lisp makes me think, and it's a language that *can*
+be used for production-grade types of things, and it's a standard, it's
+not explained from a math-centric [1]_ perspective, and like I said
+reading lisp code makes sense to me. Go figure.
+
+-  There are several of quirks with Awesome which get to me:
+
+-  If you change your configuration, you have to restart the window
+manager. Which wouldn't be a big problem except...
+
+-  When you restart, if you have a window that appears in more than one
+tag, the window only appears on one tag.
+
+-  The commands for awesome are by default pretty "vimmy," and while my
+current config has been properly "emacsified," you have to do a lot
+of ugliness to get emacs-style chords (e.g. "C-x C-r o a f" or
+Control-x, Control-R, followed by o, a, and f.) which I kind of
+like.)
+
+-  Because one of my primary environments is running a virtual machine
+(in Virtual Box) on an OS X host, I've run into some problems around
+using the Command/Windows/Mod4 key, and there's no really good way to
+get around this in awesome.
+
+So that's my beef, along with the change in usage pattern that I talked
+about last time, which is probably the biggest single factor. I'm not
+terribly familiar with Stump yet, so I don't have a lot to offer in
+terms of thoughts, but I've been tinkering in the laptop, and it fits my
+brain, which is rather nice. I'll post more as I progress. For now I
+think I better cut this off.
+
+.. [1]
+This is my major problem with haskell. It looks awesome, I sort of
+understand it when people talk about it, but every "here's how to use
+haskell" guide I read is fully of what I think are "simple" math
+examples, of how it works, but I have a hard time tracking the math
+in the examples, so I have a hard time grasping the code and
+programming lessons because the examples are too hard for me. This is
+the problem of having geeked out on 20th continental philosophy in
+college and not math/programming, I think.
+

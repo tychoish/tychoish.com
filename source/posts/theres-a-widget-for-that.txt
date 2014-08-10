@@ -1,0 +1,82 @@
+=========================
+There's a Widget for That
+=========================
+
+.. post:: 2010-02-24
+   :author: tychoish
+   :tags: cyborg
+
+Perhaps part of the reason the `iPad doesn't make sense for
+me </2010/02/ipad-reactions/>`__ is that I've never really used an
+iPhone, and at the core iPad is basically iPhone++. I opted to get a
+Blackberry because I wanted a device that did email *right* and
+messaging, I had/have an iPod Touch that I don't really use and the
+little isolated applications that don't interact well with my existing
+work flow and lock data in didn't really appeal to me.
+
+People are always talking about "the apps," as if there's something
+revolutionary happening here, and I've always been a bit non plussed. At
+least for my personal use, more "applications," or places where "things
+can be done," doesn't always equate into more productivity.
+
+Running in parallel to this, of course is the whole Web 2.0/web-based
+application development *thing*. (Is Web2.0 coasting to a halt yet? In
+any case, it's probably still a current phenomena worth noting.)
+Although iPhone applications and Web applications are constructed in
+very ways that are quite technically distinct, there's an underlying
+commonality between the way that both function. These applications are
+very much *not* general purpose. The best iPhone (or web) applications
+take a specific kind of data or information (or a collection of such),
+and provide a way for you to interact with that information in a way
+that's (hopefully) intuitive.
+
+In contrast the old familiar applications typically are designed to be
+either: platforms that enable you to accomplish a whole range of tasks
+within a certain sphere ("Office tools," email applications, emacs), or
+some sort of filter or pipe that allows you to access data in one format
+in an interface that's easy to use (RSS readers, Content management
+systems, pdf readers, web brwosers, etc.) There are certainly web
+applications that are basically pipes, and I'm sure Google would love it
+if we all used their application stack.
+
+So, then, what describes this new "widget," class of applications for
+mobile devices and the web? On the one hand it's a case of developers
+"making do with what there is:" the iPhone imposes a number of serious
+constraints: small screen, limited on board computing resources, and a
+potentially inconsistent data connection. Small structured apps that are
+all about allowing you to interact with a small set of data work best in
+this environment. Additional I suspect that technology has advanced to a
+point where making these kinds of applications is finally possible and
+worth the it takes to build them: MVC frameworks have finally matured
+perhaps.
+
+The enduring questions in my mind:
+
+-  Is the data that we're throwing into databases by way of iPhone apps
+and web applications going to continue to be useful in the future?
+This gets at the "open data" question as much if not more than the
+"open source" aspect of applications. What's the realistic utility of
+our data in the long form?
+
+-  Does this shift mark a move away from a certain kind of "paper-based
+logic," to a more digital way of organizing or data and digital
+experiences?
+
+-  Is this just the process of bringing the kinds of "business
+applications," that enterprises have developed and used for decades
+into the consumer sphere?
+
+-  How do the concepts of software freedom and data ownership transfer
+to this mode of using technology. While it's easy to say "data ought
+to be free," and "source code still matter" (both of which are true,)
+I think practically it's a bit more difficult.
+
+-  What do these applications look like on the Desktop? Is the future
+JavaFX, Flex, Silverlight, and Apple Desktop Widgets? Is the desktop
+going to be stuck in the browser? Are there other options?
+
+And while I think we're definitely using and creating this kind of
+software with abandon, I don't know if we've reached good answers to
+these (and other related) questions. I look forward to exploring these
+ideas, and hearing your thoughts!
+

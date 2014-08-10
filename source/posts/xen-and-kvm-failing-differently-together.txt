@@ -1,0 +1,110 @@
+=========================================
+Xen and KVM: Failing Differently Together
+=========================================
+
+.. post:: 2011-12-20
+   :author: tychoish
+   :tags: infrastructure, technology, open-source, linux, software, 
+
+When I bought what is now my primary laptop, I had intended to use the
+extra flexibility to learn the prevailing (industrial-grade)
+virtualization technology. While that project would have been edifying
+on its own, I also hoped to use the extra flexibility to some more
+consistent testing and development work.
+
+This project spurned [[xen-laptop]], but the truth is that Xen is
+incredibly difficult to get working, and eventually the "new laptop"
+just became the "every day laptop," and I let go of the laptop Xen
+project. In fact, until very recently I'd pretty much given up on doing
+virtualization things entirely, but for various reasons beyond the scope
+of this post I've been inspired to begin tinkering with virtualization
+solutions again.
+
+As a matter of course, I found myself trying KVM in a serious way for
+the first time. This experience both generated a new list of annoyances
+and reminded me about all the things I didn't like about Xen. I've
+collected these annoyances and thoughts into the following post. I hope
+that these thoughts will be helpful for people thinking about
+virtualization pragmatically, and also help identify some of the larger
+to pain points with the current solution.
+
+Xen Hardships: It's all about the Kernel
+----------------------------------------
+
+Xen is, without a doubt, the more elegant solution from a design
+perspective and it has a history of being the more robust and usable
+tool. Performance is great, Xen hosts can have up-times in excess of a
+year or two.
+
+The problem is that dom0 support has, for the past 2-3 years, been in
+shambles, and the situation isn't improving very rapidly. For years, the
+only way to run a Xen box was to use an ancient kernel with a set of
+patches that was frightening, or a more recent kernel with ancient
+patches forward ported. Or you could use cutting edge kernel builds,
+with reasonably unstable Xen support.
+
+A mess in other words.
+
+Now that Debian Squeeze (6.0) has a pv-ops dom0 kernel, things might
+look up, but other than that kernel (which I've not had any success
+with, but that may be me,) basically the only way to run Xen is to pay
+Citrix [1]_ or build your own kernel from scratch, again results will be
+mixed (particularly given the non-existent documentation,) maintenance
+costs are high, and a lot of energy will be duplicated.
+
+What to do? Write documentation and work with the distributions so that
+if someone says "I want to try using Xen," they'll be able to get
+something that works.
+
+KVM Struggles: It's all about the User Experience
+-------------------------------------------------
+
+The great thing about KVM is that it *just works*.
+"``sudo modprobe kvm kvm-intel``\ " is basically the only thing between
+most people and a KVM host. No reboot required. To be completely frank,
+the prospect of doing industrial-scale virtualization on-top of nothing
+but the Linux kernel and with a wild module in it, gives me the willies
+is inelegant as hell. For now, it's pretty much the best we have.
+
+The problem is that it really only *half works*, which is to say that
+while you can have hypervisor functionality and a booted virtual
+machine, with a few commands, it's not incredibly functional in
+practical systems. There aren't really good management tools, and
+getting even basic networking configured off the bat, and ``qemu`` as
+the "front end" for KVM leaves me writhing in anger and
+frustration. [2]_
+
+Xen is also subject to these concerns, particularly around netowrking.
+At the same time, Xen's basic administrative tools make more sense, and
+domU's can be configured outside of interminable non-paradigmatic
+command line switches.
+
+The core of this problem is that KVM isn't very Unix-like, and it's a
+problem that is rooted in it's core and pervades the entire tool, and
+it's probably rooted in the history of its development.
+
+What to do? First, KVM does a wretched job of anticipating actual
+real-world use cases, and it needs to do better at that. For instances
+it sets up networking in a way that's pretty much only good for software
+testing and GUI interfaces but sticking the Kernel on the inside of the
+VM makes it horrible for Kernel testing. Sort out the use cases, and
+there ought to be associated tooling that makes common networking
+configurations easy.
+
+Second, KVM needs to at least pretend to be Unix-like. I want config
+files with sane configurations, and I want otherwise mountable disk
+images that can be easily mounted by the host.
+
+Easy right?
+
+.. [1] The commercial vendor behind Xen, under whose stewardship the project
+   seems to have mostly stalled. And I suspect that the commercial
+   distribution is Red Hat 5-based, which is pretty dead-end. Citrix
+   doesn't seem to be very keen on using "open source," to generate a
+   sales channel, and also seems somewhat hesitant to put energy into
+   making Xen easier to run for existing Linux/Unix users.
+
+.. [2] The libvirtd and Virt Manager works pretty well, though it's not
+   particularly flexible, and it's not a simple command line interface
+   and a configuration file system.
+

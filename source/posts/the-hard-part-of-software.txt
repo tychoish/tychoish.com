@@ -1,0 +1,73 @@
+=========================
+The Hard Part of Software
+=========================
+
+.. post:: 2013-08-03
+   :author: tychoish
+
+I've been writing build system tool that allows users to specify
+[[concurrent build processes\|/rhizome/build-stages]] using a
+lightweight, Python-based system that minimizes overhead.
+
+Progress is decent. I hope to use this to replace a hodgepodge of
+`fabric <http://fabfile.org/>`__ and Makefile for my work and personal
+projects. I have a decent spec (3 hours), an initial implementation of
+the internal parts (3 hours,) a good first draft at a command line
+utility (1.5 hours,) internal/APO documentation (10 hours,) and none of
+the unit tests and procedural and conceptual documentation. In essence
+the hard stuff.
+
+Basically what happened, is I spent a lot of time thinking about the
+problem, a little bit of time coding, and if all goes according to plan
+a lot of time writing rather droll code and good if uninteresting
+documentation.
+
+Which is, all things considered, what all software boils down to.
+
+Writing the core implementation is (often) this intense impassioned
+process that is necessarily flow-like, because there's a bunch of state
+that you have to keep hot in your mind while solving hard problems, and
+if your attention drifts too far, you start breaking things.
+
+Not that flow-like states are the best or only way to write code for
+core functionality, but it works and it's enjoyable.
+
+Everything else, is *different*:
+
+-  Writing documentation is an exercise in context switching: you have
+to read code, or poke at a running program to figure out how it
+works, and then turn that information on its head so you can tell
+people how to use it.
+
+It's fun, but it's much more fussy.
+
+-  Writing tests is similarly hard: it's also about balancing "how it
+works" and "how its used," but rather than describing something for
+future users, tests are about defining what constitutes "correctness"
+and what's incorrect. [1]_
+
+Writing test-code is intellectually challenging work, and requires many
+of the same base skills as writing implementation-code but requires a
+different kind of focus and thinking.
+
+-  There's a lot of code that remains once the core logic exists,
+including: user interfaces, logging, test, managing edge cases,
+optimization, and tuning the parameters of the behavior (business
+logic tweaks.)
+
+Which isn't to say that any particularly portion of the work is more or
+less difficult or important. But, if you don't work in this world every
+day it's easy to see the hard initial work as being "the real part of
+software development," and allow all the other work to sort of fade into
+the background. Which is unfair, and I think is representative of a
+larger misunderstanding of how software works and gets made.
+
+Another project for another day.
+
+Onward and Upward!
+
+.. [1]
+This assumes that you're not writing code in a test-driven manner,
+which is I think is probably statistically likely, if somewhat
+in-ideal.
+

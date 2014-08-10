@@ -1,0 +1,66 @@
+=========================
+The Internet in Real Life
+=========================
+
+.. post:: 2010-05-04
+   :author: tychoish
+   :tags: cyborg, irl, labor
+
+In many ways, I think you could say, I live and work in a bubble of the
+technical future that, as Gibson said "isn't evenly distributed," yet. I
+have developed a set of tools and work flows that enable me to work
+nearly anywhere and on a moment's notice. I work for a company which
+great and open internal infrastructure that allows us to securely
+communicate and collaborate in whatever way we think will best serve the
+projects we're working on. And I know enough to be able to automate the
+boring parts of my technological experience. In all, pretty good.
+
+Here's the thing though: despite all of this technological
+infrastructure, all this know how and frankly awesome connectivity: all
+of the tools we use to collaborate technologically: chat rooms, wikis,
+paste-bins, version control systems, instant messages and email all work
+better when you're in the same room. Examples:
+
+I was sitting in a talk with a coworker, and we were both logged into an
+IRC room from our laptops, where we were able to share some useful
+examples, links, and other commentary without being (very) disruptive.
+In day to day work, I (and my coworkers) spend a lot of time using chat
+rooms to communicate and share information with people who are only a
+few feet away, and in the end we get a lot done.
+
+There are probably a lot of reasons why this is the case: digital
+relationships are almost always supported by real life relationships,
+there's a level of hard to document interstitial and context setting
+that we do in real life that is difficult to efficiently create
+digitally, but that can be accomplished without second thought \*in real
+life, and so forth. But, having made this realization, I think there are
+a few conclusions to be drawn about collaboration technology:
+
+-  It helps to centralize information flow. So much collaboration
+technology is "pull" based, and there's no good way to ensure that
+people know you've done something that they might consider without
+pushing information to them in some manner. Even so, create one place
+where the people you're working with can see what you're working on.
+
+Use something like an IRC channel, or an xmpp MUC room, combined with a
+service like `notifixious <http://notifixio.us/>`__ or something
+similar. In a lot of ways, the incessant emails Facebook sends achieve
+the same goal.
+
+-  Communities come together to work on something specific and concrete,
+but inevitably they bond and endure for other reasons and other kinds
+of conversations. While creating "off topic" silos is awkward,
+creating the space for people to get to know each other is essential
+to making people work together well (and thus use collaborative
+technology better.)
+
+-  Focus most of your attention on "getting things done," and less
+attention on the "how things are done." There are so many
+technological solutions, so many options, and so many different
+contexts that it doesn't really matter how things get done as long as
+they do get done. The right and preferred tools will arise and
+present themselves when needed, and as long as things are getting
+done using the right tool doesn't matter much.
+
+Onward and Upward!
+

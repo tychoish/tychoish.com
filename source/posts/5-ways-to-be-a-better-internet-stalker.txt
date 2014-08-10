@@ -1,0 +1,25 @@
+======================================
+5 Ways to Be a Better Internet Stalker
+======================================
+
+.. post:: 2007-11-27
+   :author: tychoish
+
+1. Use the `Tor Onion Router <http://www.torproject.org/>`__ and/or
+public computers.
+2. Use Pornomode. [1]_
+3. Understand the communities and functions of websites you're using.
+4. Develop an extensive knowledge of Boolean logic for google searching.
+5. `On the internet, no one knows your a
+dog <http://www.unc.edu/depts/jomc/academics/dri/idog.html>`__: If
+you must give out personal details while stalking, lie as much as you
+can.
+
+.. [1] This is perhaps the funniest item on this list, but it's dead
+   serious. Most contemporary browsers have a "porn" mode where you can
+   turn off all history logging/caching. Safari calls it "private mode,"
+   you can call it what you want. It actually won't help obscure your
+   trail, but if you're stalking someone on the internet, it only seems
+   fair that you should act and feel like a guilty teenager while you're
+   doing it.
+

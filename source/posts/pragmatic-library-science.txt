@@ -1,0 +1,81 @@
+=========================
+Pragmatic Library Science
+=========================
+
+.. post:: 2009-05-12
+   :author: tychoish
+   :tags: information-management
+
+Before I got started down my current career path--that would be the
+information management/work flow/web strategy/technology and cultural
+analyst path--I worked in a library.
+
+I suppose I should clarify somewhat as the image you have in your mind
+is almost certainly not accurate, both of what my library was like and
+of the kind of work I did.
+
+I worked in a research library at the big local (private) university,
+and I worked not in the part of library where students went to get their
+books, but in the "overflow area" where the special collections, book
+preservation unit, and the catalogers all worked. What's more, the unit
+I worked with had an archival collection of film/media resources from a
+few documentary film makers/companies, so we didn't really have *books*
+either.
+
+Nevertheless it was probably one of the most instructive experiences
+I've had. There are things about the way Archives work, particularly
+archives with difficult collections, that no one teaches you in those
+"how to use the library" and "welcome to library of congress/dewy
+decimal classification systems" lessons you get in grade school/college.
+The highlights?
+
+-  **Physical and Intellectual Organization** While Archives keep track
+of, and organize all sorts of information about their collections,
+the organization of this material "on the shelf" doesn't always
+reflect this.
+
+Space is a huge issue in archives, and as long as you have a record or
+"where" things are, there's a lot of incentive to store things in the
+way that will take up the least amount of space physically. Store
+photographs, separately from oversized maps, separately from file boxes,
+separately from video cassettes, separately from CDs (and so forth.)
+
+-  "Series" and intellectual cataloging - This took me a long time to
+get my head around, but Archivists have a really great way of taking
+a step back and looking at the largest possible whole, and then
+creating an ad-hoc organization and categorization of this whole, so
+as to describe in maximum detail, and make finding particular things
+easier. Letters from a specific time period. Pictures from another
+era.
+
+-  An acceptance that perfection can't be had. Perhaps this is a symptom
+of working with a collection that had only been archived for several
+years, or working with a collection that had been established with
+one large gift, rather than as a depository for a working collection.
+In any case, our goal--it seemed--was to take what we had and make it
+better: more accessible, more clearly described, easier to process
+later, rather than to make *the whole thing* absolutely perfect. It's
+a good way to think about organizational project.
+
+In fact, a lot of what I did was to take files that the film producers
+had on their computers and make them useful. I copied disks off of old
+media, I took copies of files and (in many cases, manually) converted
+them to use-able file formats, I created index of digital holdings.
+Stuff like that. No books were harmed or affected in these projects, and
+yet, I think I was able to make a productive contribution to the project
+as a whole.
+
+The interesting thing, I think, is that when I'm looking through my own
+files, and helping other people figure out how to manage all the
+information--data, really--they have, I find that it all boils down to
+the same sorts of problems that I worked with in the library: How to
+balance "work-spaces" with storage spaces. How to separate intellectual
+and physical organizations. How to create usable catalogs and indices's
+of a collection. How to lay everything down so that you can, without
+"hunting around" for a piece of paper lay your hands on everything in
+your collection in a few moments, and ultimately how to do this without
+spending very much energy on "upkeep."
+
+Does it make me a dork that I find this all incredibly interesting and
+exciting?
+

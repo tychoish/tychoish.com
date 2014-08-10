@@ -1,0 +1,84 @@
+=========================
+the object oriented novel
+=========================
+
+.. post:: 2008-02-01
+   :author: tychoish
+
+I described what I'm doing with *Breakout* at the moment, as an attempt
+to write an "object oriented novel." Which sounds a lot like some sort
+of quest in search of some mcguffin ring or orb or something, but in
+fact I'm trying to draw a connection to the object oriented mode of
+computer programing.
+
+"*Ah? What's that?*\ " You ask?
+
+Well as I understand it, object orientation encourages programers to
+write and deal with code as a series of objects (and classes and
+methods, etc, but lets just call it a bunch of units objects), that each
+do some\ *thing*, or are some\ *thing*. So rather than writing a program
+that tells the computer to do a list of things (procedurally) you set up
+an environment and allow the computer to respond to things that the user
+does. Generally speaking. Does anyone with actual coding experience want
+to clarify this explanation? Because I'm not going to act like I'm some
+sort of authority on computer science, I'm just fascinated by different
+ways of thinking and problem solving.
+
+Anyway, why is object orientation good? It means that code is more
+modular and easier to find and reference particular *things*. Because
+rather than have to
+search/\ `grep <http://en.wikipedia.org/wiki/Grep>`__ through a long
+list of ordered directions (that probably has a lot of overlap, because
+there are certain procedures that you're likely to have to perform more
+than once in non-OO code...) the objects are all sorted and ready to be
+referenced later when you need them.
+
+Ok, so lets extend the metaphor to the novel and to fiction.
+
+Our classic form is basically a long, ordered list of information which
+is processed linearly. Thousands of paragraphs, dozens of chapters, and
+an ass load of words. It's great, when it works, it's easy to screw up,
+and there are some stories that work really great in this format and
+some that do not.
+
+While you can write novels in a more modular sense, it's my sense that
+even if people jump around a lot in a story. They pretty much write from
+beginning to end in at least a loose sense anyway. There are of course
+exceptions. But the end product is very linear (people don't really read
+book-length fiction out of order even if they were written out of
+order.)
+
+My definition of a fiction-object is pretty loose, basically a unit of
+story/narrative/fiction-essay that conveys a piece of meaning in the
+context of the story. Objects [1]_ tend to be between about 250 and 1250
+words, with the sweet spot being about 750 words, which is conveniently,
+the *perfect* length for my average scene, and the attention span of
+most users of the Internet for reading (where this project will be
+read).
+
+What will make this a novel rather than a bunch of
+vinegettes/scenes/chunks, is the hyperlinking and inclusions that the
+html and a bit of PHP will allow, with a very thin layer of "guide"
+material to make the pages easy to navigate. I think I've mentioned this
+before on this blog, but the basic idea is that most of the document
+will be stories and "writings" by the characters, but there'll also be a
+little content written as parody in an encyclopedic style that will help
+connect things.
+
+And what's better is that this pace is really sort of ideal. I get to
+spread out editing and drafting because editing is what leads to the
+creation of new content ("If I fix this up, I'll need to continue this
+plot, linked to this phrase") and as readers of this blog know, I'm
+really good at 500-800 word pieces, so it's a comfortable length, as
+long as I'm not expected to tell self contained stories within those
+bounds: and you don't want any chunk to be self contained, because once
+it is totally encapsulated, people stop reading. I suppose this is where
+the analogy breaks down.
+
+But it's a good idea. I'll get a chunk out to you all in a few days, I
+hope.
+
+.. [1]
+I guess I call them "chunks" in my mind, but then I'm *clearly* more
+of a cognitive scientist than a computer scientist, no debate there.
+

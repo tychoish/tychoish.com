@@ -1,0 +1,77 @@
+========================
+Starting a Collaboration
+========================
+
+.. post:: 2010-01-12
+   :author: tychoish
+   :tags: writing
+
+Alternate Title: "*How to start a collaborative writing project or die
+trying,*\ "
+
+**Step 1:** Lock yourself in your office, fire up Emacs, and write an
+initial draft from beginning to end yourself.
+
+**Step 2:** Post it on the Internet.
+
+**Step 3:** Encourage contributions and hands on feedback from your
+collaborators. Have a piece of cake.
+
+You may thing that I'm kidding, but it's true. I think there's a
+misconception that the way to write something with other people follows
+a path that might look like: having a meeting to establish the common
+goals and an outline of what needs to get said, and then another meeting
+to divide up who is going to write want, and then people go back and
+write their little parts, and then you mash them all up and everyone
+rewrites their part till it meshes with the other parts, and then you
+pray it says what you need it to say, and doesn't need further
+revising--except it sort of dose, so you repeat the whole process over
+again, to revise the text, except with editing instead of writing. And
+because each stage requires endless conversation, when you don't have
+the benefit of face-to-face meetings, things can take a long time: so
+long, in fact, that most people will have probably lost interest long
+before something has been written. The short of it is that this method,
+though very democratic and open seeming, isn't.
+
+I think there's a fear, that when a single person puts a lot of
+individual energy into a text (or any kind of project, really,) and
+doesn't consult with collaborators at every turn that it somehow becomes
+*not a collaboration*. This is emphatically not true. There is
+significant difference between endless group process and the collection
+of meaningful feedback; a real distinction between a text created with a
+process that involves many people, and a text that many people can agree
+represents their interest, purposes, and needs.
+
+I think, though I'm not certain, that one could replace the words
+"writing" and "text" in the above, with "programing" and "code" but I
+don't know for sure.
+
+At work, I have a moto: "you can't edit it if it doesn't exist yet." The
+more interesting thing, I think, in every context is when you go off
+into your own office, fire up the emacs, write something, and then say
+"so how does this look?" People sometimes say, "nice, but you used
+'setup' as a verb in the third paragraph," or "ok, but you left out a
+section about flux capacitors in section two, and I think that's crucial
+for understanding most of section three," but these are problems that
+are fairly easily addressed.
+
+Now it could be the case that I'm *just that awesome* (unlikely), but I
+think `it boils down to the fact that most people don't understand how
+to make
+texts <http://criticalfutures.com/2009/12/the-care-and-feeding-of-a-writer/>`__.
+I also think that a lot of "group process," can be obsoleted by an
+individual who can produce *something*, and has a good sense of the
+group's desires, and who knows how to check in with various group
+members at the right moments. While these skills can be listed quite
+effectively, and it's true that there is no rocket science involved:
+some things are easier said than done.
+
+Not every collaboration works, and there are a lot of variables at play
+in any situation where a group of people must come together to make
+something, but in nearly every situation beginning with "hey, I want
+make something with you, look at this draft," is better than "I was
+thinking about making something with you but I wanted to get your
+feedback first."
+
+Just sayin'...
+

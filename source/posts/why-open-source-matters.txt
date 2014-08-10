@@ -1,0 +1,91 @@
+=======================
+Why Open Source Matters
+=======================
+
+.. post:: 2010-04-20
+   :author: tychoish
+   :tags: cyborg, open-source
+
+A reader (hi grandma!) asked me to write a post about why I'm so
+interested in open source, and who am I to refuse. In fact, I tend to do
+requests pretty well, so if there's a subject you'd like to see me cover
+here, just ask and I'll see what I can do. In any case, I've been
+involved, for varying definitions of involved, in Free Software and open
+source for a few years now. On a personal level, I use this software
+(almost exclusively) because I can make it do *exactly* what I need it
+to do, because it's very stable, and because from an architecture
+perspective I understand how these systems work and that's useful for
+me. Having said that, I think open source is important and worth
+considering for reasons beyond the fact that I (and people like me) find
+it to be the most important tool for the work we do.
+
+When folks get together and say "I'm going to work on an open source
+project," I think some interesting things happen. First, they're making
+a number of interesting economic decisions about their work. There are
+business models around open source, but they are more complex than "I
+make software, you give me money for software," and thus require people
+to think a little bit more widely about the economic impact of their
+work. I think the way that people view the implications of their labor
+is incredibly important, and free software presents an interesting
+context to think about these questions.
+
+The second, and perhaps larger reason I'm interested in open source is
+the community. Open source developers often know that the things they
+want to create are beyond the scope of their free time and personal
+ability, so they collaborate with other people to *make something* of
+value and worth. How this collaboration happens: what motivates
+developers, how they create tools and technologies to support this kind
+of work flow, how the "intellectual property" is negotiated
+(particularly in projects that *don't* use the GNU GPL,) how leaders are
+selected and appointed, how decisions are made as a community, and how
+teams are organized and organize themselves. These are intensely
+fascinating.
+
+And these phenomena matter, both in and for themselves, but also as they
+impact and connect with other questions and phenomena in the world. For
+instance:
+
+-  I think that the decision making process in free software projects is
+instructive for thinking about how all sorts of communities can reach
+a "decision making fork" resolve it somehow and then continue with
+their work. Some open source projects have formal structures, and
+that is easier to understand from the outside, but most make
+decisions in an informal way, and that decision making process is
+potentially novel, I'd argue. In what other context do people have to
+construct projects outside of work.
+
+-  While leaders in the open source community are rarely elected (aside
+from a number of notable examples; the Debian Project Leader springs
+instantly to mind) most projects are *very* democratic. But this
+requires that we keep in mind a fairly broad definition of democracy.
+Because there isn't a lot of voting, and sometimes decisions aren't
+discussed thoroughly before people start doing things, it doesn't
+look democratic. But everything is volunteer based, and leaders I
+think have a sense of responsibilities to their constituencies, which
+is meaningful.
+
+-  The tools that open source developers use are, unsurprisingly open
+source, and are often picked up and used by teams that aren't making
+free software. I'm interested in thinking about how "ways of
+working," proliferate out of open source and into other spheres. Is
+non-open source developed differently if the developers are familiar
+with and use open source tools?
+
+-  Similarly, I think I'm interested in thinking about how the
+architecture of Linux and Unix give rise to a thought about APIs and
+open standards in a way that doesn't necessarily happen on closed
+platforms. After a certain point, I think I'm forced to ask: is
+GNU/Linux the leading free software/open source platform because it
+just happens to be, or because it's UNIX. Is there something special
+about the design of UNIX that leads to openness, and the practices of
+openness? To what extent does the limitations of the environment
+(operating system here) the social conventions that are built on it?
+
+And then beyond the specific questions--which are terribly important in
+and of themselves--open source present a terribly exciting subject for
+the study of these issues. There is *so much* data on the ground
+concerning open source: version control history, email logs, IRC logs,
+and so forth. Not only are the issues important but the data is rich,
+and I think has a lot to tell us if we (I?) can bother to spend some
+time with it.
+

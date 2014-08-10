@@ -1,0 +1,50 @@
+==========================================================
+Better Living Through Regular Expressions: Links/Resources
+==========================================================
+
+.. post:: 2007-08-10
+   :author: tychoish
+
+So rather than post something witty about regular expressions with our
+friends **G** and **H**, I'm going to post some links that I've gathered
+about regular expressions and sed. First up, regular expression
+resources:
+
+-  `One Regular Expreson
+Tutorial <http://opengroup.org/onlinepubs/007908799/xbd/re.html>`__
+-  `Another Regexp Guide <http://www.grymoire.com/Unix/Regular.html>`__
+-  `Microsoft's Discussion of
+Anchors <http://msdn2.microsoft.com/en-us/library/13bs2wz9(vs.80).aspx>`__
+-  `RegExp
+Tutorial <http://www.regular-expressions.info/anchors.html>`__ -
+Regex Tutorials
+-  `GREP In Project for Text
+Mate <http://henrik.nyh.se/2007/06/grep-in-project-command-for-textmate>`__
+
+I'd like to make special note of this final item. GREP in Project
+command for TextMate. It's awesome, and uses GREP, a great *fast*
+command line tool for Unix to search projects (and files as well) in
+TextMate. And it's pretty. You can't argue with that.
+
+This is *almost* a good transition into another bunch of links that I've
+collected on sed. Sed, (**S**\ tream **Ed**\ itor), is sort of a text
+editor with out an interface, and lets you basically use regular
+expressions to do find and replaces from the command line. Pretty
+awesome if you ask me. Anyway, read and learn.
+
+Sed Tutorials
+-------------
+
+-  `Sed
+Tutorial <http://www.cs.utk.edu/~vose/c-stuff/sed_tutorial.html>`__
+-  `Sed
+Guide <http://www.unet.univie.ac.at/aix/aixprggd/genprogc/manip_strings_sed.htm>`__
+-  `About.com
+Sed <http://linux.about.com/od/commands/l/blcmdl1_sed.htm>`__
+-  `Sed in Wikipedia <http://en.wikipedia.org/wiki/Sed>`__
+
+Have a good weekend, I'll be on `tychoish <http://tychoish.com/>`__ this
+weekend, and I'm always an email away.
+
+Cheers, tycho
+

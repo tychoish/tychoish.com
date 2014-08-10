@@ -1,0 +1,75 @@
+=================================
+The Worst Technologies Always Win
+=================================
+
+.. post:: 2010-05-13
+   :author: Sam Kleinman
+   :tags: cyborg
+
+This post is the culmination of two things:
+
+1. `Who wants to be a PHP
+Developer? </2010/05/who-wants-to-be-a-php-developer/>`__
+
+2. An ongoing conversation I've had with a number of coworkers about the
+substandard technologies that always seem to triumph over the
+"better" options.
+
+The examples of the success of inferior technologies are bountiful.
+MySQL's prevalence despite some non-trivial technical flaws (around
+clustering, around licensing as highlighted by the Oracle merger); PHP
+as the *de facto* glue language of the web despite the fact that every
+other language in it's class is probably a better programming language
+(e.g. Python, Perl); VHS and Beta Max; BlueRay (which are proprietary
+and a physically less durable media) and HD-DVD; and so forth.
+
+The factors are (of course) multiple:
+
+-  Marketing.
+
+People have to know about technologies at some stage in their
+development if the technology is to take off. I'm not sure what that
+crucial point is, and frankly marketing is something that not only *I*
+don't understand, but I don't *really* think *anyone* understands.
+Having said that, I think it's clear that technologies don't compete
+simply on their technical merits, and this is in recognition of that.
+
+-  Timing.
+
+Technologies that appear at the right time, with regards to availability
+of alternatives and the needs/interests in the market on those
+technologies matter a great deal, and can sometimes tip the balance
+between competing technologies. Arguably MySQL beat PostgreSQL not
+because it was better, but because it existed in a *firm* way a little
+bit earlier. Linux "won" market share over BSD, because BSD wasn't quite
+fully free/open source (or available) in 1990-1992 when Linux was taking
+off.
+
+-  Momentum.
+
+A project that doesn't look like it has energy and a large team behind
+it is probably doomed to fail on some level, not because it's a bad
+technology, but potential users of a technology need to feel confident
+that it's going to stick around. If no one is excited about it, then
+it'll never win, even if it's superior in the final analysis.
+
+There's nothing, really, to be done. I think the truly superior
+technologies might benefit by paying attention to these factors *when it
+matters*, but then the developers of said technologies are probably less
+interested in marketing and proper timing than the competition. Which is
+perhaps as it should be.
+
+I guess the lingering questions that I'll leave you with relate to
+thinking about the ways that open source and free software relate to
+other technologies. It strikes me that while there's a pretty good
+balance between open source and proprietary technologies in the examples
+I provided above, all of the open source technologies were
+commercialized very early on and very intensely in a way that none of
+their competitors really did. Are "wining technologies," a mystification
+of the proprietary technology world? Can community-based open source and
+free software technologies innovate and "win" in relation to their
+competitors?
+
+I look forward to sorting out the answers in the comments. Onward and
+Upward!
+

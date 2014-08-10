@@ -1,0 +1,84 @@
+====================
+Common Lisp Progress
+====================
+
+.. post:: 2014-04-06
+   :author: tychoish
+
+The backstory: I'm trying to [[learn\|/rhizome/learning-problems]]
+Common Lisp. It's sort of an arcane programming language with a few
+aspects that I rather like, and I'm viewing this as an exercise to
+generalize my programming experience/knowledge.
+
+I've written some common lisp over the years, mostly because I use
+`stumpwm <https://github.com/stumpwm>`__, but I've been struggling to
+find a good project to start on my own or hack on an existing project.
+
+A few weekends ago, I started hacking on
+`coleslaw <http://github.com/redline6561/coleslaw>`__, which is a static
+site generator written in common lisp. The reasons are simple:
+
+-  I know something about the static site generator domain, so I'm only
+trying to learn *one thing*.
+
+-  Coleslaw is typical in many respects of site generators, but the
+architecture makes sense, and it's reasonably simple and hasn't been
+overly optimized.
+
+There are three features I'm interested in adding:
+
+1. I want make it so that Coleslaw builds content incrementally: there's
+no reason that programs like this should have to rebuild all content
+on every build. There are two missing concepts "which pages changed,"
+and "if one page changes, what other pages must change."
+
+2. I want to make the entire build process more configurable. Thise
+includes expanding the options that are available in the site
+configuration, and allowing users to define and edit themes within
+their projects.
+
+3. It feels wrong to leave the program signally threaded, particularly
+when build systems are inherently parallel, and Common Lisp real
+threads.
+
+-  I want to make this blog more blog-like. The current site works fine,
+but I'm growing restless, and I want to explore
+
+So I began hacking and managed to learn a lot about the codebase, and am
+getting into the swing of this project. I played with a naive
+concurrency approach but it didn't stick. For about a day of work, I:
+
+-  Made the docutils package usable from coleslaw and fixed some issues
+there. `See pull
+request <https://github.com/redline6561/coleslaw/pull/43/files>`__.
+
+-  Added a lot of configuration and made more things customizable. `Pull
+requests <https://github.com/redline6561/coleslaw/pull/44>`__.
+
+There's a lot of little things that I like or feel like I will shortly
+like, but the sticking points at the moment are:
+
+-  A lot of things have started to make sense. ``let`` forms feel very
+natural. The object system is pretty great. I feel comfortable with
+the organization of code within a function. I don't mind the
+parentheses.
+
+-  I remain pretty confused by the variable binding system outside of
+the basic ``let`` forms. I'm never sure about ``setf`` and ``setq``
+(my policy thus far has just been to ``setf`` and troubleshoot if it
+doesn't do what I want.) If Python is all about the power of the
+namespace, it feels like CL is all about the power of scopes and I
+haven't yet learned all of them.
+
+-  Oddly, conditionals feel really hard and cumbersome. The ``if`` form
+is more limited and not particularly clear, ``cond`` is pretty useful
+but often feels like a sledge hammer. ``unless``, and ``when`` are
+clear but not perfect.
+
+I've not found the idiomatic way to perform "set a variable to the
+return of a function if it's current value is 0/null/false, otherwise
+pass" which I find myself reaching for pretty frequently (and
+awkwardly.)
+
+More to come, I'm sure!
+

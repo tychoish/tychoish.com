@@ -1,0 +1,49 @@
+=====================
+Documentation Tooling
+=====================
+
+.. post:: 2013-11-09
+   :author: tychoish
+
+I've spent a little bit of time building some non-critical tools for my
+teammates on my work project, which has got me thinking about tooling
+for documentation systems.
+
+This collection of tools is something that we've started to take for
+granted, but I think it's pretty novel and worth talking about a bit
+more.
+
+--------------
+
+Documentation toolkits, traditionally refer to the system that deals
+with the production of the documentation for end use, which typically
+means taking the source text and rendering it into web sites, pdfs,
+ebooks, and embedded "online help" text.
+
+These toolkits are really important and I think one of the *best* things
+you can do for a documentation tool kit is to produce documentation
+using a tool specifically designed to address the needs of documentation
+projects and technical writers.
+
+Unfortunately, documentation *production* is mostly for *readers* and
+business owners of documentation and not really for the writers. Tooling
+for documentation, particularly the kind that I've been spending time on
+recently is about making documentation easier to maintain, and easier to
+improve *at scale.* For example:
+
+-  tools to make common textual chunks easier to reuse.
+-  tools that enforce common structures.
+-  tools that detect common patterns of weak constructions.
+-  tools that that analyize text for common readability conventions.
+
+I was going to write this up as a blog post, but I think it makes sense
+as a collection of wiki pages:
+
+-  [[Inclusion Management
+Tools\|/technical-writing/inclusion-management]]
+-  [[Structured Content
+Generation\|/technical-writing/structured-content-generation]]
+-  [[Static Analysis of Text\|/technical-writing/static-analysis]]
+
+Onward and Upward!
+

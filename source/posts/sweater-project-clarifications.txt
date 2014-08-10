@@ -1,0 +1,93 @@
+==============================
+Sweater Project Clarifications
+==============================
+
+.. post:: 2008-04-24
+   :author: tychoish
+
+Ok, so I realized that I wasn't incredibly clear in my first post. I've
+since written a "here's what you have to do to get started post, but I
+think that in my eagerness to get started (and for you to get started,)
+there's some prep work that needs to be taken care before folks can
+start. So I might as well get that out of the way before I dive in.
+
+And besides you all need time to get things in order.
+
+Other than the beginning cast on directions, I think I'll post a little
+bit here and there about other things that might be important to touch
+upon. Like things to consider for making a cardigan version, or tips for
+resizing, stuff about the design process, fitting, and so forth. I want
+to pace the project out so that I don't overload you all with
+information that you won't need for many weeks, but also, as there are
+large stretches of time when the main direction will be "knit on in
+pattern," for a *long* time, I want to make sure there's stuff to post.
+Remembering of course that my writing of the pattern depends at least a
+little on my knitting speed.
+
+If there's a question or issue you want me to cover be in touch about
+that and I'll do my best to fit it in.
+
+Here are some answers to the questions and issues that have come up
+(below the fold):
+
+--------------
+
+1. There are a lot of yarn options that will work, and I encourage you
+to resort to your stash if possible. There's more on this coming, but
+just some options.
+
+-  Harrisville Designs Shetland (2/8) (it's 17
+dollars--discountable--a cone at `webs <http://www.yarn.com/>`__,
+though there are other vendors)
+-  `Domy Heather <http://www.oldmillyarn.com/orderdavidson.htm>`__ -
+this is what I'm using. It's smaller gauge than most other yarns
+suitable for this project (sort of in the "light fingering weight"
+category) so that will effect sizing, but it's a great softer, but
+still hearty wool.
+-  Jamieson's Spindrift and Jameison's and Smith Jumper Weight. Good
+two ply yarn, great for this kind of garment. More colors than HD,
+and the sheep grew up on Scottish soil, if that matters to you.
+(Jamieson's also makes a 3ply DK weight yarn that's great if you
+want something a little thicker.)
+-  A user on ravelry suggested `Ruama
+finullgarn <http://www.denisesneedleworks.com/CategoryPage.html?Category=Finullgarn>`__,
+which is a sturdy fingering-ish weight yarn that looks like it
+would be great for this kind of sweater. Since this is a Latvian
+pattern, I think the scandinavian/baltic yarns fit a bit better
+than the shetland yarns I'm prone to. But it's another good
+option. She also carries some `other scandinavian
+yarns <http://www.denisesneedleworks.com/Yarn.html>`__ of various
+weights which might work well for you
+
+2. I ballpark-ed 2800ish yards, as a yarn requirement, but really weight
+is a more effective measurement. Figure how much by weight you think
+a light-medium weight sweater should weigh (experiment with a scale),
+and calculate backwards from here. A little bit more than half of
+this weight should be the background color (darker) and a little bit
+less than half should be foreground. I usually buy way more than I
+need, even though dye lot is usually not a huge issue with such
+large-run yarns, and in color work it's even less noticeable.
+3. The key number is 344, which you should divide by your gauge to get
+the expected size. If you can modify your gauge at all, and really do
+need to resize, figure out by how many stitches. If you think you can
+do this adjustment to `the
+pattern <http://www.lulu.com/content/2419399>`__ then have fun, if
+you need help, contact me sooner rather than later.
+4. There is no start date. You can start whenever you want.
+5. I mentioned this is going to be a sweater, right? Pullover too. You
+can make it into a cardigan, but we'll get into that later.
+6. My sweater will use two colors. I'm color blind, and very much a boy
+in terms of dress, so I like the simple/plain (drab? I'll accept
+that.) If you want to do a more complex shading, please feel free,
+and please do share it with the rest of us, but it's not something I
+feel able to design much less support (write about).
+7. Tell your friends and share the love. For real it means a lot to me!
+8. Check the comment threads, they're generally informative.
+9. Be in touch with me about when you start and about your progress, as
+much as for my own edification as anything, but I'd love to be able
+to post a shout out to you all, and keep track of your progress and
+experiences with the rest of the project materials. I'm an archivist
+like that.
+
+Thanks for your support and I look forward to knitting with you!
+

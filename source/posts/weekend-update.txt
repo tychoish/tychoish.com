@@ -1,0 +1,93 @@
+==============
+Weekend Update
+==============
+
+.. post:: 2007-12-02
+   :author: tychoish
+
+I hope you're weekend is going well.
+
+I had a somewhat less than productive day yesterday, there were *things
+that needed to be done,* and doesn't it always seems that those things
+are the same things that you *need to be doing.* But we can pass it off
+to the curse of modernity and move on, I guess.
+
+I've been working a lot of my statement of purpose, which is getting
+very close to being done. Close but not there. None the less, I have a
+2-3 page document that only needs polish and a few sentences here and
+there to tie everything together, and punch up things like research
+experience and what not.
+
+At the same time, I've been working on outlining and starting my big
+final paper for this semester, which will also be my writing sample for
+a couple of schools. It's scary that I'm not further along, but it's a
+relatively short paper, and while I don't have an actual version of this
+paper that I can cut and paste text from, this paper is about my
+interests, exactly (it proposes the project that I describe in my
+statement,) so I know it backwards and forwards and I just need to
+figure out how to get it out into words.
+
+The cool thing: I get really excited and happy when I get to work on the
+material, which I think is a really good sign. Though I've been doing
+(obviously) a lot of fiction and informal writing (blog stuff) of late,
+the truth is that I kind of enjoy academic writing, and I think with a
+little time and energy, I'm not *that* bad at it. Now all I need is some
+time, some caffeine, and it'll be ok.
+
+In the knitting news, I think I've successfully bent space-time. I've
+been knitting on the gray sweater of doom. Apparently I name sweaters
+{color} sweater of doom, when they've taken forever to knit. Anyway, I
+started this in, abut august of 2005, and have dabbled in it a bit for
+the past couple of years.
+
+Well, I picked it up for a change of pace, while I wait to get back to
+the color work when I have a better idea of how I want to do the
+shoulders and the brainpower (read above for info on where my brainpower
+is going).
+
+I didn't actually expect to get so close to finishing the sweater, this
+has, for some time been my "movie knitting" because there's so much
+plain knitting without thinking, that it's often good for knitting
+whilst at the movies. It's one of those projects that I don't really
+think of as "counting" towards the number of projects I have on the
+needles. I spent next to nothing (maybe 15 bucks for the yarn,) and I've
+since bought, I think, a replacement needle because I considered this
+one to be something of a lost cause.
+
+But what do you know, this project was the right thing for my brain at
+the moment, and perhaps I was further along on this project than I
+thought I was. Anyway, end result, I'm basically done knitting the body.
+Wacky I know. I decided late in the game to knit a single cable from the
+neck across the shoulder and down into the cuff. Because, you know, how
+much stocking stitch can you really cope with.
+
+I did some sort row shaping across the back of the shoulders, and just
+this morning I cast on the 8 stitches for the shoulder strap, and by god
+is this fun. My latest design feature that I've been working on for my
+next couple of sweaters is shoulder joins that have straps or saddles in
+them that then run down the sleeve. It adds to the flexibility, it gives
+you something to gently shape the sleeves downward, and makes it
+possible to avoid sleeve cap shaping which is awkward in knitting
+fabric. (It works, but really in a knitted fabric, the main goal is to
+get the shoulder set in far enough, the sleeve top will take care of
+itself, particularly if there's some sort of strap/saddle.) And the
+straps allow you to keep the structure of the seam, while avoiding the
+inflexibility of a hard join.
+
+The other nifty thing about this sweater is that I think, I have
+developed a way to--assuming you knit off of a cone as I have--to only
+need to weave in ends at the terminating ends (cuffs, bottom hem,
+collar). I think I'm going to have to cheat a little bit on the collar,
+but it's a cool game to figure out how to get everything to even out
+without having to break the yarn.
+
+Anyway, be well, I should get back to real writing.
+
+Onward and upward!
+
+*ps. If I run bibtex/latex through TeXshop, rather than through the
+TextMate bundle, everything compiles fine. Still not sure why this is
+the case, but I don't argue with success... Much. I'd of course not have
+to use more text-editing programs than I have to, so if anyone has
+ideas, I'd love to hear them.*
+

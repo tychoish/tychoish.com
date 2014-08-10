@@ -1,0 +1,82 @@
+==========================
+Is there any there there? 
+==========================
+
+.. post:: 2008-11-06
+   :author: tychoish
+
+I learned the other day that some (a lot?) of the big box retail
+corporations--Costco/Sams/etc.--don't turn a profit by selling things to
+people.
+
+This shouldn't be particularly large surprise, they sell goods at prices
+that undercut all of the competition, and probably aren't that much
+above the core cost of the goods (if that).
+
+And yet the companies are profitable. How? My understanding is that they
+take their gross income and invest it in short term things--bonds,
+stocks, and the like--which generates enough income that the entire
+operation can turn a profit. In the mean time, to make sure that the
+trains run on time (ie. that they make payroll, keep the lights on at
+the retail locations, etc.) they borrow against their non-liquid assets,
+which are busy earning the profit.
+
+Depending how widespread this is (and I'd be inclined to think that it's
+pretty rampant) we can explain a couple of phenomena with this
+understanding. First off, it explains why the market tends to move as a
+whole. Not because investors panic when they see the number dropping on
+the trading floor, but because they know that if company B doesn't
+perform at a certain level company A *can't* perform either.
+
+That's pretty straightforward.
+
+The more disturbing realization is that the entire basis of our economy
+isn't about the exchange of money for goods and services, but rather the
+exchange of money for other money. The hope being that by exchanging
+money a lot, it will somehow turn into more money. Which given the legal
+fictions of the banking industry, it does. More or less. Until it
+doesn't. Enter the present.
+
+In the banking industry--the one that was recently bailed out by the
+federal government--we know this. Banks make money by charging interest
+on certain kind of transactions, and while this is kind of creepy and
+odd when you think about it, it's not surprising. The exchange of
+material goods, on the other hand is completely absurd and troubling.
+
+The conventional wisdom for the last hundred years, or so, is that big
+corporations are able to be more successful because of economies of
+scale and standardization, the largest lesson that I'm taking away from
+this right now is that while big corporations might be more efficient,
+they might not--in a concrete sense--be more successful/profitable.
+Outside of the profits made by ridding the money-holding-financial game.
+
+One of the reasons why I'm interested in open source software is because
+it proposes and requires a very different sort of "economic" (in the
+generous sense) perspective. Open source is very business centered, but
+the exchange of money is all centered around wealth-for-services, rather
+than wealth-for-money-holding, say. These kinds of alternate (and it's
+sad that it's the alternate) means of generating and distributing wealth
+are the inevitable conclusion to the current economic crisis. It's
+unclear how long the current system will linger and limp, but eventually
+something better/different will emerge.
+
+This isn't the kind of subject matter that I typically write about on
+tychoish, and I don't want you to worry that I'm going to turn into some
+sort of political blog. Except insofar as I've always had a (lower case
+p) political side focus, I think it's interesting to think through these
+kinds of issues to try and figure out what's going on. While I think
+change is afoot, and a more authentic economy is on the horizon, this is
+a systemic change that will not come easily. [1]_
+
+Onward and cautiously Upward!
+
+.. [1]
+There is a minor movement in some circles of people who are
+attempting to reduce their ecological footprint, buying locally
+produced goods, opting toward organic foods, and so forth. While
+there are a lot of reasons to do this--quality/freshness, etc--this
+kind of "individualistic economic activism" requires an absurd amount
+of privilege (money/time) and access to economic resources. While
+this economy is more authentic in some ways, it's not independent or
+self-sufficient and that's *totally crucial* here.
+

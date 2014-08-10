@@ -1,0 +1,50 @@
+============
+Marking Time
+============
+
+.. post:: 2007-05-29
+   :author: tychoish
+
+It's been an entire day since I've finished dancing and my body is
+slowly starting to feel almost normal. I'm still tired of course, but
+soon I'll stop aching so much and be able to just remember the great
+time I had. The truth is that I'm not in ideal shape for this kind of
+dance [1]_, because I've basically been away for so long, but another
+truth is that this was that I danced many times as much by quantitiy
+(and quality). Because sections of my "team" hosted this event (I was
+virtually uninvolved by virtue of the circumstances of my education)
+this even in addtion to being hard on my body, presented an interesting
+political situation. Time has yet to tell wether my predictions were
+correct or not, but initial signs indicate that I may not have been far
+off.
+
+In terms of *Station Keeping* I laid out some of the back material that
+I've been walking around in my head for the other writers. I'm trying to
+find a balance between some sort of structured/organizational model that
+will allow us to write effectively and efficiently as a team, but that
+will also allow us all to contribute to all aspects of the development
+and production. It's a fine balance between not saying very much to give
+people freedom to come up with brilliant solutions, and creating an
+environment with deadlines, productive feedback, and a coherent (series)
+of stories. I also didn't want to feel like I had ideas about where
+stories and characters were going to go that I hadn't/didn't tell the
+other writers. With this out of the way, I think we might be able to
+move forward more effectively.
+
+bI was playing around with `PMWiki <http://www.pmwiki.org/>`__ for the
+Station Keeping writer's wiki, and while it's a good program and really
+versatile, I'm not convinced that it's right for our purposes. I'm
+thinking about changing the way I do this so that it can serve as more
+of a refrence space rather than a workspace, but getting more of the
+project written is also crucial, and really this is just one of the
+things going through my mind that I need to think about in relation to
+this project.
+
+Anyway. Time to get the day started, and spend some time doing some
+chores and maybe actually working on Station Keeping.
+
+Cheers, tycho
+
+.. [1]
+Morris Dance in the "Cotswald" Style.
+

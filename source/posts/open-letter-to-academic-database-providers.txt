@@ -1,0 +1,71 @@
+==========================================
+Open Letter to Academic Database Providers
+==========================================
+
+.. post:: 2007-11-20
+   :author: tychoish
+
+Dear (*Provider of Academic Article Databases*),
+
+Article databases are really one of the best things that has happened to
+academic research in the last, ten or fifteen years. It makes accessing
+research painless and efficient, and the more available research is, the
+more valuable it is. I don't think anyone will disagree with this
+assertion.
+
+Here's how it works today, as best I can understand it. (Note this is a
+fairly psychology centric perspective.):
+
+There are two classes of journals: those published by the APA and it's
+partners and those published by for-profit academic presses like
+Springer and Klewer. The former are the big masthead journals and there
+are about 30 of them (Developmental Psychology, Journal of Personality
+and Social Psychology, etc,) I suspect this is true of many disciplines:
+universities and professional organizations publish a number of journals
+(In Women's Studies, Signs and differences, are published by Chicago and
+Hopkins respectively). Anyway, and then there are smaller for profit
+journals which tend to be less prestigious but can cater to specific
+niches and sub-fields. These journals are the ones that Google Scholar
+picks up on and they don't tend to be archived in the same way that the
+NFP journals are.
+
+Ok, background, stated. Generally what happens is that the professional
+organizations or universities create databases (APA and Psych Artcles;
+AAA, AnthroSource; Hopkins and Project Muse, for instance.) that index
+all the abstracts and sometimes full text are then licensee the database
+to a provider (CSA and Ebsco are two examples of this). Some of these
+databases contain FP journals, many do not. In humanities disciplines,
+all this content ends up in `jstor <http://www.jstor.org>`__ after a few
+years anyway.
+
+So it's incredibly fragmented and the databases, are, to my mind, sort
+of poorly organized. The metadata is sort of weak, and the searches are
+straight boolean, so it doesn't learn, it doesn't see connections
+between what you search for and what you find is what you find, it's
+very rigid, and very much not the way, *we do things on the internet
+these days.*
+
+Now I don't need fancy ajax crap, lord knows, and frankly, I think some
+sort of desktop interface for the database, might be really quite
+effective and be really helpful for people who are actually doing
+research.
+
+So I guess my suggestions to academic database providers--because this
+is a letter after all ;)--are as follows:
+
+1. Allow some sort of adaptive meta-data, potentially with some sort of
+user generated tagging system
+2. Integrate/mashup content from multiple
+3. Create some sort of more adaptive search capacity that has
+learning/adaptive algorithms.
+4. Have better offline content.
+5. Have better BibTeX support (because if you're asking...).
+6. Perhaps a little ajax so that it it can do some predictive caching
+and the web pages work a little faster.
+7. Allow me to paraphrase a lolcat for this: *Y it so ugggglry, can has
+purrrty intarfaces now pls?* Because why not.
+
+In any case, It'd be nice, but I'm not holding my breath.
+
+Onward and Upward!
+

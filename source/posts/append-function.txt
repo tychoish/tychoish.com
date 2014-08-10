@@ -1,0 +1,32 @@
+===============
+append function
+===============
+
+.. post:: 2008-03-20
+   :author: tychoish
+
+So, one of the things that I did today, was write a little shell
+function that will append text to the end of a file from the command
+line. I'm sharing it with you all because that seems like the thing to
+do, and I find it useful.
+
+I'm sure there are more effective ways to accomplish this, but this
+works. To be fair, there's nothing here that will protect you from
+yourself, but it shouldn't be able to do much damage. I keep it in my
+.bash\_profile, but that's probably not the smartest thing in the world.
+Have fun.
+
+ap() { file=\ :math:`1;     shift     note=`\ \*; echo -e '-
+'":math:`note" >> `\ file }
+
+Then to use the function, once it's been loaded is, at the prompt:
+
+$ ap filename.txt stuff that you want to append to the file
+
+A couple of notes: You have to type in the full filename, thankfully we
+have tab completion. If you want to prepend, I think you just change the
+direction of the pointy brackets from >> to <<. Also I have it set up to
+add all notes as if they are a bullet point (in markdown hence the "-").
+
+Onward and Upward!
+

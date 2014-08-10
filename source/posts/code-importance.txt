@@ -1,0 +1,78 @@
+===============
+Code Importance
+===============
+
+.. post:: 2008-12-30
+   :author: tychoish
+
+I'm not a programmer, really. I mean I'm a huge geek, and I understand
+some pretty heavy computer-science related problems, but coding isn't
+what I do. This is true of a lot of computer users these days, and it
+wouldn't be such a big deal if I weren't such a huge geek about open
+source software. I suspect that most of the users of open source
+software these days aren't that different than me in this
+respect--though many are programmers, in most cases they probably don't
+make active use of the source code of the software they use. [1]_
+
+This realization probably sounds familiar to some, as I've been trying
+to pull apart the contemporary modifications for open source software.
+One obvious answer to this question is, "freedom:" that open source
+software provides its users an non-tangible freedom and power over their
+interactions with technology. I've `posted about why I think this is
+imprecise <http://tychoish.com/rhizome/open-source-freedom/>`__ and
+while I need to spend time developing this argument further, there's
+some merit.
+
+Another possibility is that open source represents a rethinking of
+intellectual property that is appealing, and that "free software" is an
+adjunct of a "free culture" movement. While this is an interesting
+theory and a good story, certainly there are parallels, I'm not sure
+that it's the case. I don't know if free culture movements (like
+wikipedia and creative commons) and free/open source software grow out
+of the same kinds of historical moments, or share anything more than
+inspirations and morphology. More pondering is required.
+
+I've always seen Creative Commons as a sort of "legal activism," to
+provide mechanisms to push laws to reflect the realities of copyright in
+digital spaces. Creative Commons isn't a technological advancement, but
+rather a formal account for extant practices. That is, consumers of a CC
+license aren't able to do anything (except potentially access) with a
+covered work that they *couldn't* do with a conventionally protected
+work.
+
+The same is not true of nearly all open source software. A free/open
+source software license makes certain rights available to the users of
+that software that they'd never have otherwise. Always. Even though we
+don't often take advantage of this accessible source code, it strikes me
+that "intellectual property reform" doesn't really cover why people are
+either contributing to open source or using open source. Additionally,
+there are relatively few--that I'm aware of--Creative Commons
+projects/works that are themselves collaborative, which presents another
+contrast between these two modes. While most FOSS projects originate
+with a single author, all successes create communities. I'm not sure
+that the same life cycle exists in "free culture" works.
+
+Open source is successful in a way that "closed source/encumbered
+freeware" has never really been, outside of some moment-to-moment
+bubbles. I think this point about "community," and the mode of
+authorship is a huge part of what makes open source attractive and
+vibrant moving forward. Not the only reason, of course, but a key
+contributor. Works with creative commons licenses are "X by Author,
+released under CC license," whereas open source projects eventually
+become "X is GPL'ed," even if key original authors are well known as
+Linus is for Linux or Dries is for Drupal.
+
+This is important. I'm not sure yet how, but that's what makes this
+whole *'blog* thing interesting. There are other arguments too, but this
+is a start.
+
+Thoughts?
+
+.. [1]
+The truth is that as programs become more complex, code bases grow
+older, and the lion's share of the current generation of programmers
+has grown up on pretty high level languages and problem spaces, even
+among the technically sophisticated there aren't a lot of people who
+are standing around ready to hack on a project with several thousand
+lines of C code.
+

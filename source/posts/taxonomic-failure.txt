@@ -1,0 +1,94 @@
+=================
+Taxonomic Failure
+=================
+
+.. post:: 2012-08-27
+   :author: Sam Kleinman
+   :tags: technical-writing, technical-writing/information-debt
+
+I tell people that I'm a professional writer, but this is a bit
+misleading, because what I *really* do is figure out how to organize
+information so that it's useful and usable. Anyone, with sufficient
+training and practice, can figure out how to convey simple facts in
+plain language, but figuring out how to organize simple facts in plain
+language into a coherent text is the more important part of my job and
+work.
+
+This post and the "[[Information
+Debt\|technical-writing/information-debt]]" wiki page, begin to
+address some of these the problem of information resource
+maintenance, organization, and institutional practices with regards
+to information and knowledge resources.
+
+Organization is hard. Really hard. One of the challenges for digital
+resources is that they lack all of the conventions of
+[[technical-writing/books]], which would seem to be freeing: you get
+more space and you get the opportunity to do really flexible
+categorization and organization things.
+
+Great right?
+
+Right.
+
+Really flexible and powerful [[taxonomic\|technical-writing/taxonomy]]
+systems, like tagging systems have a number of problems when applied to
+large information resources:
+
+-  the relationship between the "scope" of the tag, and the specificity
+of the tag matters a lot. Too much. Problems arise when:
+
+-  tags are really specific, pages include a number of pieces of
+information, and tags can only map to pages.
+
+-  tags are general and the resources all address similar or related
+topics.
+
+-  the size of the tag "buckets" matters as well. If there are too many
+items with a tag, users will find not the tag for answering their
+questions.
+
+-  if your users or applications have added additional functionality
+using tags, tags begin to break as a useful taxonomic system. For
+example, if your system attaches actions to specific tags (i.e. send
+email alerts when content with a specific tag,) or if you use a
+regular notation to simulate a hierarchy, then editors begin adding
+content to tags, not for taxonomic reasons, but for workflow reasons
+or to trigger the system.
+
+The resulting organization isn't useful from a textual perspective.
+
+-  If you have to have multiple tagging systems or namespaces.
+
+Using namespaces is powerful, and helps prevent collisions. At the same
+time, if your taxonomic system has collisions, this points to a larger
+problem.
+
+-  If the taxonomy ever has more than one term for a conceptual facet,
+then the tagging system is broken.
+
+These problems tend to exacerbate as:
+
+-  the resource ages.
+
+-  the number of contributors grow.
+
+There's this core paradox in tagging systems: *To tag content
+effectively, you need a fix list of potential tags before you begin
+tagging content, and you need to be very familiar with the corpus of
+tagged content **before** beginning to tag content.*
+
+And there's not much you can do to avoid it. To further complicate the
+problem, it's essentially impossible to "redo" a taxonomic system for
+sufficiently large resources given the time requirements for
+reclassification and the fact that classification systems and processes
+are difficult to automate.
+
+The prevalence of tagging systems and the promises of easy, quick
+taxonomic organization are hard to avoid and counteract. As part of the
+fight against [[information debt\|technical-writing/information-debt]]
+it's important to draw attention to the failure of broken taxonomy
+systems. We need, as technical writers, information custodians, and
+"knowledge workers," to develop approaches to organization that are easy
+to implement and less likely to lead to huge amounts of information
+debt.
+

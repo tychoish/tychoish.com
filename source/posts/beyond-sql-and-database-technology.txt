@@ -1,0 +1,82 @@
+==================================
+Beyond SQL and Database Technology
+==================================
+
+.. post:: 2010-01-15
+   :author: tychoish
+   :tags: cyborg, database
+
+People have been thinking about databases recently. Even I've been
+thinking about databases, and I'm not particularly prone to thinking
+about databases. It's fair given the `ongoing drama of the
+Oracle/Sun <http://redmonk.com/sogrady/2009/12/15/endgame-qa/>`__, and
+even `mainstream press of the NoSQL
+Movement <http://www.nytimes.com/2009/11/30/technology/business-computing/30open.html?_r=1&emc=et>`__.
+I'd like to take a step back and think a bit more honestly and
+holistically about the database application, aboth this "NoSQL"
+phenomena, and about the evolving role of relational database management
+systems in our technology "ecosystems."
+
+(*Seriously folks this is what I think about for fun in my free time.*)
+
+I've been milling over the notion that databases, like MySQL and
+PostgreSQL and Oracle's RDBM products, are not particularly "Unix-like."
+Sure they run on Unix systems, and look and feel like Unix applications,
+but the niche fulfill--providing quick access to structured data with a
+specialized query language, doesn't jive with the Unix philosophies:
+small specialized tools for precise tasks. "Plain text" as *lingua
+franca* of system tools, and so forth.
+
+Databases solve a problem. Indeed they solve a problem in a very
+functional and workable manner. I don't want to suggest that the
+relational database model is somehow broken; however, I would like to
+suggest that industrial strength database systems are over utilized, and
+have become the go-to solution for storing and interacting with data of
+any kind, even in cases where they're not a good fit for the job at
+hand.
+
+I'm not the first person to suggest this, not by a long shot. The NoSQL
+"movement," addresses this issue from a couple different direction. It's
+true that NoSQL refers to a collection of practices and approaches
+related to providing systems for storing data that goes above and beyond
+the type and model of a database system. In the end NoSQL is about
+addressing the scaling problem: what happens when we have *so much data*
+that it can't easily fit in one database system, or in situations where
+centralized model is untmaintable for any number of reasons. I think
+NoSQL is also relevant as we think about storing data that doesn't
+easily fit into RDBMs'es: I've seen a lot of very poorly architected
+database systems, that suffer from a "square peg in round hole" problem.
+
+Indeed, as we try and put all of our data in these RDBMs systems,
+particularly data that doesn't fit very well, these databases loose
+their ability to scale. The complex logic required to pull more complex
+data back out of a database and reassemble it for use and analysis is
+computationally expensive and doesn't scale particularly well.
+
+But let's focus for a moment on the scaling question, apart from the
+data modeling and storage question. The real problem at the core of the
+scaling question is: we need a way, a *thing*, that allows multiple
+systems to access a shared data store in a reliable and consistent
+manner.
+
+The ongoing work around clustered file systems seems to address this
+issue from a much different direction, and perhaps a more interesting
+perspective. Beyond a certain point--and its a fuzzy point--database
+systems basically become file system replacements. So rather than work
+on making databases more like file systems, the thought is (I assume)
+lets make file systems a bit more "database like." Like I said, I don't
+know a lot about the ins-and-outs of clustered file systems, but I
+think, in addition to worrying and thinking the future of current
+database systems, we need to also think about the future of these very
+scalable and clustered manner.
+
+I'm not sure what the next-generation data storage technology *really*
+looks like, the NoSQL stuff is a step in the right direction, but I'm
+not sure if it's a large enough step in a lot of ways, as its focus is a
+bit narrow. To be honest, I'm not incredibly familiar with the work
+that's going on in the clustered file system space. Nonetheless, I think
+it's important to not just think about the future of the relational
+database platforms as such, but the model and the underlying problems
+that these kinds of data storage methods address, and to think about
+other possible ways of addressing the original issues.
+

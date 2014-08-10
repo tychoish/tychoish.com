@@ -1,0 +1,45 @@
+===========================
+Dear Blogger: Stop Sucking!
+===========================
+
+.. post:: 2006-10-02
+   :author: tychoish
+
+As I'm sure you all know from my incessant babbling about technology,
+I've become a strong proponent of the RSS reader. It's, as near as I can
+tell the best way to collect information for later consumption in a
+manner that is easy to read, reliable in an environment where internet
+connections might not be constant, and I can scan an item in the feed
+reader in about half the time it would take me to read the same amount
+of content in a web page. So it's a great thing.
+
+I do have an annoyance to report though. Blogger, which for a long time,
+I would avoid reading almost entirely, has instituted a feed system,
+using the Atom standard/spec. I initially thought I'd hate atom, but it
+turns out that atom feeds are more likely to be full text (I rather
+despise partial text feeds which only capture a very small amount of the
+joy that is syndication, with little if any to benefit to site
+administrators) So I've started to read Blogger powered blogs. Rock on,
+right?
+
+Well no. Seems blogger trigger's updates seemingly at will, so the
+time-stamps get refreshed, and my news-reader thinks all the entries are
+updated, when in fact, blogger can't keep the date right, and I end up
+having to scan through more to realize that I've read the same article
+half a dozen times before. Thumbs down.
+
+The second complaint I have about RSS, is that my reader won't download
+image files, so I have to have a live connection to read an entry that
+has images posted with the entry, which means I have to be connected to
+read knitting blogs, which I see as a disadvantage. Anyone have a fix
+for this?
+
+That's about it for now. I'd like to be entertained at the fact that I
+had a brain death moment last night, and then proceeded to write an
+entry about evolutionary theory and teleology in developmental
+psychology. Clearly it was an odd form of brain death. Well, onto other
+projects this evening, I just wanted to get the syndication frustrations
+out there.
+
+Cheers, tycho
+

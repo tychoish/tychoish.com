@@ -1,0 +1,43 @@
+==================
+upgrades and funks
+==================
+
+.. post:: 2007-11-20
+   :author: tychoish
+
+Though you probably won't notice it I upgraded the software that runs
+this blog last night, as part of my `perverse geeky mission of this past
+sunday <http://tychoish.com/rhizome/geek-speak/>`__, and I think I've
+finally ironed out all of the kinks. The only evidence of this is the
+fact that I've removed categories from the sidebar, largely because they
+don't exist anymore. Wordpress' latest coup is that they have baked in
+support for tagging, which will let categories become a more useful
+tool. (Though I know why this is the case, I'll spare you because the
+background on database queries isn't something I think myself completely
+capable of.) All in all, its pretty minor, but I'm pleased.
+
+In other news, I think that I've also gotten out of a little funk that
+I've been in for the past month or so, in terms of writing and other
+things. I probably just needed a little closure on the novella, to be
+done with the GRE, and some time to decompress, but doing the
+streamlining work that I did regarding how I organize and manage my
+projects on my computer probably helped jump-start things.
+
+I finished a scene yesterday in the novel, I'm at the 4k word park, and
+I've been actively working on the draft of this project for a hair over
+a month. So I guess my guideline of a thousand words per week holds
+true, even if I know for damn sure that I didn't write a thousand words
+each of the last four weeks. My only other real observation at this
+point is that though I've outlined this whole thing out, and I know what
+the pacing is supposed to be like and all that, I'm being very...
+impressionistic about the beginning. It'll will work out, particularly
+since I've started writing on it again. My current goal that I'll
+probably surpass is to have 5,000 words done by the time november (and
+NaNoWriMo) is over. That's by my count 10% of the NaNo goal, and that's
+fine by me: there will be nano' thoughts forthcoming in the next few
+days, I promise.
+
+Anyway...
+
+Onward and Upward!
+

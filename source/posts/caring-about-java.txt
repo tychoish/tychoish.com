@@ -1,0 +1,96 @@
+=================
+Caring about Java
+=================
+
+.. post:: 2011-02-15
+   :author: tychoish
+   :tags: cyborg, programming
+
+I often find it difficult to feign interest the discussion of Java in
+the post Sun Microsystems era. Don't get me wrong, I get that there's a
+lot of Java out there, I get that there are a number of technological
+strengths and advantages that Java has in contrast some other
+programming platforms. Consider my post about `worfism and computer
+programing </2007/06/saphir-whorfism/>`__ for some background on my
+interest in programing languages and their use.
+
+I apologize if this post is more in the vein of "a number of raw
+thoughts," rather than an actual organized essay.
+
+In Favor of Java
+----------------
+
+Java has a lot of things going for it: it's very fast, it runs code in a
+VM that lets the code execute in a mostly isolated environment which
+increases reliability and security of the applications that run on the
+Java Platform. I think of these as "hard features" or technological
+realities that are presently implemented and available for users.
+
+There are also a number of "soft features," that Java has that inspire
+people to use it: an extensive and reliable standard library, a large
+expanse of additional library support for most things, a huge developer
+community, and it has inclusion in computer science curricula so people
+are familiar with it. While each of these aspects are relatively minor,
+and could theoretically apply to a number of different languages and
+development platforms, they represent a major rationale for it's
+continued use.
+
+One of the core selling points of Java has long been the fact that
+because Java runs on a virtual machine that can abstract differences
+between different operating systems and architectures, it's possible to
+write and compile code once and then run that "binary" on a number of
+different machines. The buzzword/slogan for this is "write once, run
+anywhere." This doesn't fit easily into the hard/soft feature dichotomy
+I set up above, but it nevertheless and important factor.
+
+Against Java
+------------
+
+Teasing out the history of programing language development is probably a
+better project for another post (or career?), but while Java might have
+once had a greater set of support for many common programming tasks, I'm
+not sure that it's sizable standard library and common tooling
+*continues* to overwhelm it's peers. At best this is a draw with
+languages like Perl and Python, but more likely the fact that the JDK is
+so *huge* and varied increases incompatibility potentials. And needing
+to download the *whole* JDK to run even minimalist Java programs. Other
+languages have addressed the tooling and library support in different
+way, and I think the real answer to this problem is write with an eye
+towards minimalism and make sure that there are *really good* build
+systems.
+
+Most of the arguments in favor of Java revolve around the strengths of
+the Java Virtual Machine, which is the substrate where Java programs
+run. And it is undeniable that the JVM is an incredibly valuable
+platform, and every report that I've seen concludes that the JVM is
+*really fast*, and the VM model *does* provide a number of persuasive
+features (e.g. sandboxing, increased portability, performance gains.)
+That's cool, but I'm not sure that any of these "hard" features matter
+these days:
+
+Most programing languages use a VM architecture these days. Raw speed,
+of the sort that Java has, is less useful than powerful concurrent
+programing abilities and is offset by the fact that computers themselves
+are absurdly fast. It's not to say that Java fails because others have
+been able to replicate the strengths of the Java platform, but it does
+fail to inspire excitement.
+
+The worth of Java's "cross platform" capabilities are probably negated
+by service-based computing (the "cloud,") and the fact that cross
+platform applications, GUI or otherwise, are probably an ill gotten
+dream anyway.
+
+The more I construct these arguments, I keep circling around the idea
+that while Java pushed a lot of programmers and language designers to
+think about what kind of features that programing languages needed. The
+world of computing and programming has changed in a number of
+significant ways, and we've learned a lot about the art of designing
+programming languages in the mean time. I wonder if my lack of
+enthusiasm (and yours as well, if I may be so bold) has more to do with
+a set of assumptions about the way programing languages should be that
+haven't aged particularly well. Which isn't to say that Java isn't
+useful, or that it is no longer important, merely that it's become
+uninteresting.
+
+Thoughts?
+

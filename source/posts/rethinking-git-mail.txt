@@ -1,0 +1,87 @@
+===================
+Rethinking git-mail
+===================
+
+.. post:: 2008-09-23
+   :author: tychoish
+
+Last month I told you all about `this funky new
+way <http://tychoish.com/rhizome/git-mail/>`__ way I've been downloading
+email, using the `git <http://git.or.cz/>`__ version control system,
+rather than traditional POP or IMAP. I wanted to write a post with an
+update to how this system works and how I've changed the system and how
+I think I will change the system.
+
+Everything I said in the last post is still most true to be honest,
+though I did tweak it a bit in response to the comments, to make sure
+there aren't performance related issues. It's not perfect. Here's the
+biggest problem:
+
+In `git <http://git.or.cz/>`__, pushing to a non-bare repository is
+tedious, and potentially troublesome. Pushing to bare repositories are
+in contrast, much simplier. Indeed most of my stress--and the
+complication--in the initial solution was bound up in this fact. Bare
+repositories are basically the versioned database parts of a git
+repository without the files, which is ideal for a server where you're
+pushing commits/data to. The reason why pushing to non-bare repoistories
+is hard is becasue when you push to a non-bare the files aren't updated
+(on the theory that someone might be using them, and there might be
+uncommited changes.)
+
+The reason why I'd need to do this? The "origin" repository, which in
+all other situations would be a bare repository, needs to have an
+"index" (files) becasue all of the mail lands on the server (as files)
+in the origin repository.
+
+The obvious solution to this is to keep a second remote repository, and
+this how `ikiwki <http://www.ikiwiki.net/>`__ solves the problem for
+ikiwiki wiki's stored in git repositories. So here's a description of
+how this new system would work:
+
+1. Email arrives on the server and procmail begins to filer it
+delivering it to:
+2. ..a git repository called ``~/mail`` which is a clone of
+``~/domain.com/git/mail.git/``.
+3. I keep a clone of ``domain.com/git/mail.git/`` on all of my
+computers/workstations/shell accounts.
+
+Here's how the sync sequence goes. Though I could probably wire
+something up with git hooks (is there even a pre-pull hook?), I'm not
+sure that that gains us anything in particular for this setup, so I'll
+just assume that v.2 of git-mail will work the same as
+`v.1 <http://tychoish.com/rhizome/git-mail/>`__, and live in a shell
+script that:
+
+1. Pull from ``domain.com/git/mail.git/``
+2. Commit all local changes. (involves removing deleted files and adding
+new files, git'll handle the renames impicitly).
+3. Push local changes to ``domain.com/git/mail.git/``
+4. ssh into the server. and have ``~/mail/`` pull from
+``~/domain.com/git/mail.git/`` commit all changes push
+to\ ``~/domain.com/git/mail.git/``
+5. Pull from ``domain.com/git/mail.git/``
+
+Basically the idea is:
+
+-  Always pull from the bare/"root"/centralized repository, commit any
+local changes and then push to the local repository.
+-  Even though this system, like most git systems, in truth, have a
+centralized repository, all of the "children" repositories are
+equivelent, even though one repository is special because it's where
+new data enters the system. This, as my previous attempt has shown,
+isn't strictly speaking, necessary, but it does make things better.
+-  Given all this, if I needed to start using fetchmail locally for some
+reason to check a pop account, I could without needing to worry about
+syncing problems. It makes sense for mail to "enter" on the
+server/centralized for semi-obvious reasons, but it's not a
+requirement by any means.
+
+The problem is that you have to keep two copies of all your mail folders
+plus the history (which becasue of delta storage and compression isn't
+as much as you'd think) on your server, and I haven't tested things, so
+I'm not sure how it fares on the time. On the one hand there's more disk
+time involved in the new setup, on the second hand there's more chatter
+between the machines in the old setup, so I don't know how it works
+interms of speed, but from where I'm sitting, it *cannot* be worse than
+IMAP. Can't be.
+

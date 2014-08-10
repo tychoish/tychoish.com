@@ -1,0 +1,65 @@
+===============
+database market
+===============
+
+.. post:: 2009-05-13
+   :author: tychoish
+   :tags: internet, technology, open-source
+
+This post is the spiritual sequal to `my (slight) diatribe against
+database powered
+websites <http://tychoish.com/rhizome/against-database-powered-websites>`__
+of a few weeks ago. And a continuation of `my thoughts regarding the
+acquisition of Sun Microsystems by
+Oracle <http://tychoish.com/rhizome/coops-competition-openness>`__. Just
+to add a quick subtitle: Oracle is a huge vendor of database software,
+and about 18 months ago (? or so) Sun acquired mySQL which is the
+largest and most successful open-source competitor to Oracle's products.
+
+With all this swirling around in my head I've been thinking about the
+future of database technology. *Like ya'do...*
+
+For many years, 15 at least, relational database systems (rdbms') have
+ruled without much opposition. This is where Oracle has succeeded, and
+mySQL is an example of this kind of system, and on the whole they
+accomplish what they set out to do very well.
+
+The issue, and this is what I touched on the last time around, is that
+these kinds of systems don't "bend" well, which is to say, if you have a
+system that needs flexibility, or that is storing a lot of dissimilar
+sorts of data, the relational database model stops making a lot of
+sense. Relational databases are big collections of connected tabular
+data and unless the data is regular and easily tabulated... it's a big
+mess.
+
+So we're starting to see things like
+`CouchDB <http://couchdb.apache.org/>`__, google's `big
+table <http://en.wikipedia.org/wiki/BigTable>`__, `Etoile's
+CoreObject <http://etoileos.com/etoile/>`__
+`MonetDB <http://www.monetdb.nl/>`__ that manage data, but in a much
+more flexible and potentially multi-dimensional way. Which is good when
+you need to merge dissimilar kinds of data.
+
+So I can tell the winds are blowing in a new direction, but this is very
+much outside of the boundaries of my area of expertice or familiarity.
+This leads me to two obvious conclusions
+
+1. **For people in the know:** What's happening with database engines,
+and the software that is built upon these database systems. I suspect
+there's always going to be a certain measure of legacy data around,
+and developers who are used to developing against RBDMS' aren't going
+to let go of that easily.
+
+At the same time, there's a lot of rumbling that suggests that something
+new is going to happen. Does anyone have a sense of where that's going?
+
+2. **For people who lost me at when I said the word database:** In a lot
+of ways, I think this has a huge impact on how we use computers and
+what technology is able to do in the near term. Computers are really
+powerful today. In the nineties the revolution in computing was that
+hardware was vastly more powerful than it had been before; in the
+aughts it became cheaper. In the teens--I'd wager--it'll become more
+useful, and the evolution of database systems is an incredibly huge
+part of this next phase of development.
+
+

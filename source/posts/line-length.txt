@@ -1,0 +1,55 @@
+===========
+Line Length
+===========
+
+.. post:: 2008-01-07
+   :author: tychoish
+
+Ok, I've stayed off the tech post topic for a while, and now I have a
+question.
+
+This post follows, to my mind, an `earlier
+one <http://tychoish.com/rhizome/markers-of-progress/>`__ I made about
+subversion and using version control commits as a way to track
+productivity. Or at least that's what I was thinking about. There's also
+been `a post about version control on 43
+folders <http://www.43folders.com/forum/2008/01/04/getting-version-control>`__,
+the discussion of which has interested me a bit.
+
+The truth is that I'm not a programer, and most of the stuff I do in
+side of subversion in my repository is not with anything that's like
+code. Usually this doesn't matter, because in truth I'm using
+`subversion (SVN) <http://subversion.tigris.org/>`__ as a backup tool
+and means to, at least theoretically, work on a project from multiple
+machines, mostly. Not that I ever work from multiple machines, but it's
+a comforting thought.
+
+However, as I start to do revisions and edits on projects, and I've
+gotten on a rhythm of doing SVN commits every couple hundred words as I
+write fiction, I think I'd like to be able to track the changes I make
+on an atomic level.
+
+Thankfully this is all built into SVN, and the svn diff command is quite
+handy. The issue is that, while I write everything in plain text files,
+I use soft line breaks. So while my writing wraps to the window I'm
+using, but when I save the file, the only line breaks are at the end of
+my--sometimes quite long--paragraphs.
+
+In every day use, I find that this isn't a huge problem, but if I'm
+using a diff tool, or in fact a great deal of command line tools that
+return results based on line, like say grep. So if I change a comma in
+one line/paragraph, that's 500 characters long, (the comma that preceded
+this parenthetical was at character #257, for point of reference,) diff
+returns the whole paragraph not just the line. Breaking lines would give
+this command a greater usefullness in this situation.
+
+So my main questions, I guess, are:
+
+1. How long do I make lines, so that they're a good standard length?
+2. How do I do this so that my files aren't asinine to look at for the
+unanointed?
+3. I suppose conversely, if I'm crazy for thinking to do this, if you
+have a better idea for fixing this issue, I'm all ears.
+
+Onward and Upward!
+

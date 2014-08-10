@@ -1,0 +1,58 @@
+========================
+On My Return to Blogging
+========================
+
+.. post:: 2013-03-30
+   :author: tychoish
+
+I've been a blogging slacker in the last few months. I've been working a
+lot (software releases! content migrations!) and spending my free-time
+singing and working on a few odds-and-ends projects. And not blogging.
+
+But I did this [[/rhizome/delegated-builds]] project and it seemed like
+blogging about it would be good.
+
+*And it was...*
+
+I've had this blog, in one form or another for 10 years, and my
+relationship to this blog has grown and changed a lot in that time and I
+don't think it's useful to really think about all the turns *too* much,
+but the recent developments are novel:
+
+-  I write for a living, and have pretty consistently for the last 4-ish
+years (holy crap!) It's not exactly that I'm burnt out on writing,
+but it does mean that I write differently now, which is a good thing,
+but I don't always have the same ability to sit down after work and
+want to write more, for fun.
+
+-  I noticed that blogging rigorously meant that I didn't really have
+time to work on "research" projects, which is to say, I was putting a
+lot of energy into writing about ideas and theories but not too much
+time into actually doing things.
+
+I love theory. I love working on theory, but I'm not sure I see use for
+theory that doesn't interact with the world outside of it. For example,
+before I started my current job I wrote some about [[technical-writing]]
+here, and those theories definitely guide what I'm working on today and
+I think I can stand by what I said, but I think my understanding and
+knowledge of documentation has grown a lot for the experience of working
+on it.
+
+-  To continue on this theme, the programming projects I've been working
+on, which I haven't blogged about too much here, have been helpful in
+teaching me a lot about software development, (which I've long been
+fascinated by,) which improves the documentation I write and the way
+I approach problems.
+
+Furthermore, it means that things I used blog about and say "wouldn't it
+be nice if a tool that did existed?" and now I spend a lot of time
+thinking about how to make them exist. Which isn't to say that I'm a
+really fluent programmer (yet,) but I'm not helpless.
+
+So in short, I'm back, and I'm hopeful that in the coming weeks and
+months I can use this space to talk about the things I'm working on and
+help build a little bit of (mostly personal) momentum behind these
+projects.
+
+Onward and Upward!
+

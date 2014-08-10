@@ -1,0 +1,78 @@
+===========================
+In Favor of Simple Software
+===========================
+
+.. post:: 2010-07-13
+   :author: tychoish
+   :tags: cyborg
+
+I've spent a little bit of time `addressing some organizational and
+workflow angst </2010/07/focus-and-context-switching>`__ in the past few
+weeks, and one thing I'd been focusing on had been to update and fine
+tune my emacs (text editor) and irssi (irc/chat) configuration. Part of
+my goal had been to use `irssi-xmpp <http://cybione.org/~irssi-xmpp/>`__
+to move all of my chat/synchronous communication into one program;
+unfortunately I've not been able to get irssi-xmpp to build and function
+in a fully stable way. This is probably because `I'm hard on
+software <http://identi.ca/notice/39470130>`__ and not because of
+anything specific to the software itself.
+
+In any case, this lead me to come to the following conclusion about
+these programs, as they are probably the two most central and most
+heavily used applications in my arsenal, and without a doubt are the
+applications that I enjoy using the most. I scribbled the following note
+a few days ago in preparation for this entry:
+
+In many ways the greatest advance or feature that these programs
+provide isn't some killer feature, it's a simple but more powerful
+abstraction that allows users to interact with their problem domain.
+Emacs is basically a text-editing application framework, and
+provides users with some basic fundamentals for interacting with
+textual information, and a design that allows users to create text
+editing modalities or paradigms which bridge the divide between full
+blown applications and custom configurations. By the same token,
+Irssi is really a rather simple program that's easy to script, and
+contains a number of metaphors that are useful for synchronous
+communication (chat.)
+
+And we might be able to expand this even further: these are two
+applications that are not only *supremely* functional, but are so usable
+because they are software projects that really only make sense in
+context of free software.
+
+I want to be very careful here: I don't want to make the argument that
+free software isn't or can't be commercial, because that's obviously not
+the case. At the same time, free software, like these applications
+needn't justify itself in terms of "commercial features," or a
+particular target market in order to remain viable. It's not that these
+programs don't have features, it is that they have every feature, or the
+potential for every feature, and are thus hard to comprehend and hard to
+sell. Even if it only takes a use over a short period of time for users
+to find them incredibly compelling.
+
+The underlying core extensibility that both of these "programs" have is
+probably also something that is only likely to happen in the context of
+open source or free software. This isn't to suggest that proprietary
+software doesn't recognize the power or utility of extensible software,
+but I don't think giving users so much control over a given application
+makes sense from a quality control perspective. Giving users the power
+to modify their experience of software in an open ended fashion, also
+gives them the power to break things horribly, and that just doesn't
+make sense from a commercial perspective.
+
+There's probably also some hubris at play: free software applications,
+primarily these two, are written by hackers, with a target audience of
+other hackers. Who needs a flexible text editing application framework
+(e.g. emacs), but other programmers. And the primary users of IRC for
+the past 8-10 years have largely been hackers and developers and other
+"geek" types. irssi is very much written for these kinds of users. To a
+great extent, I think it's safe to suggest that when hackers write
+software for themselves, this is what it looks like.
+
+The questions that must linger is: why isn't other software like this?
+(Or is it, and I'm missing it in my snobbishness,) and where is the
+happy medium between writing software for non-hackers and using great
+software (like these) to "make more hackers."
+
+Onward and Upward!
+

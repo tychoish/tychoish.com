@@ -1,0 +1,39 @@
+===================
+Laptops vs. Desktop
+===================
+
+.. post:: 2007-09-20
+   :author: tychoish
+
+From a comment I made to `this
+post <http://lifehacker.com/software/reader-poll/laptop-or-desktop-computer-301957.php>`__
+on `lifehacker <http://lifehacker.com/>`__:
+
+I have a laptop (powerbook 15 g4) and it's a great computer, and
+despite it's age (2 years) it basically does everything I need it
+to. And 90% of what I'm doing is:
+
+-  editing text files
+-  reading rss
+-  email/websurfing
+-  reading pdf files
+-  command line things
+
+The portability is really helpful, but, frankly, I often feel like
+I'm pulling around *too* much, and would like the computer that I
+lug around with me to not have to have everything on it, and I think
+that having a desktop to be able to manage the libraries database
+(pictures, video, music, pdfs, etc.) could make a lot of things
+easier. I mean truth be told, when I'm at home, all the computering
+happens at a desk, so having a desktop wouldn't hinder things.
+
+If you were just going to have one computer, given what the author
+said, for a lot of people, particularly given how powerful a lot of
+laptops are, it makes sense to get a laptop.
+
+I'd add to this, that there are lots of situations where desktops
+continue to make a lot of sense (other than production environments),
+particularly where a computer is going to be used by more than one
+person. That's something we don't tend to think about a lot these days,
+but I think it's totally an issue.
+

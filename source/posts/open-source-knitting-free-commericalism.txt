@@ -1,0 +1,95 @@
+========================================
+Open-Source Knitting: Free Commericalism
+========================================
+
+.. post:: 2007-09-11
+   :author: tychoish
+
+I've been thinking/talking here recently about the connections between
+open source (free; as in speech) development and knitting. I've also
+said that this, at least in my mind is related to the ideas I was
+considering in terms of `how writers and creative types make money in
+the digital
+age <http://tychoish.com/rhizome/being-an-artist-and-paying-the-bills/>`__,
+and while in my `first
+foray <http://tychoish.com/rhizome/osk-open-knitting/>`__ I touched upon
+a debate over the commercial use differences between a creative commons
+license [1]_ and the GPL/GFDL, I think that post dealt with too many
+issues, and I think that the issue of commercializing content/product
+that is also free (again speech, not beer) is one that needs ongoing
+attention. Without further ado...
+
+I should preface this with "but I'm not a lawyer," to be fair. This
+thankfully has never stopped interested folk from honest commentary. My
+main point earlier was non-commercial clauses in that in situations
+where authorship is community mean that there is no "copyright holder"
+present to override that clause of the license. While I license TealArt
+to you all for non-commercial use, I can use my content commercially
+should I choose to. If TealArt were a wiki; however, and every entry was
+the product of a collaboration of many (more) people who, at least
+theoretically, liscenced their work to TA under
+"`by-Nc-Sa <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ "
+terms, if the rules where adhered to, no one would ever be able to use
+TA content commercially, not even me or any of the other originating
+contributors. In this way, for group projects, in an odd way, the
+GPL/GFDL approach lets the originators (and other people as well) use
+the content commercial.
+
+Now the share-alike and the self-propagating property of the GPL/GFDL
+are probably equivalent from the perspective of an open knitting
+project. This quality means that while the content of such projects are
+open to be copied and used by *anyone*, any derivatives that are
+distributed must be liscenced under the same license as the original.
+The end result of this is that these licenses provide a good
+"countermeasure" to commercialization, and in an odd way, a powerful
+motivation for progress.
+
+I think it would be helpful at this point to explore how commercial use
+and "open sourcing" could work together in a knitting situation.
+
+Say there was a repository of knitting designs which contained notes on
+process, notes on intention, and even a pattern, and there was a project
+in this repository that I thought would be great for a class I was going
+to be teaching, I might decide to take the hat pattern and reproduce it
+for the class. Reading the notes and other materials, I was able to
+create an edited pattern that I could use in my class, which I "sold" to
+my students. Under GPL/GFDL-style terms, I would be obligated to share
+my modifications (and notes) with the OSK repository and my students.
+
+It's important to recognize that what's being sold here, is not the
+pattern so much as a class, a service around the pattern, which is
+exactly how companies like Novell and RedHat make their money, and stay
+afloat. Linux, despite being free (as in beer, as well as speech) is, or
+can be, a viable business. To return to the hat class, we can assume
+that while I could have come up with my own `hat
+pattern <http://tychoish.com/rhizome/pattern-fine-gauge-knitted-beanie-style-hatcap/>`__,
+the class is probably better for my using of the open hat pattern,
+because it's been vetted my loads of other knitters, and hopefully my
+contributions to the project was useful; but if I'm going to be
+successful using Open Knit content, my teaching/etc. has to be more
+helpful than simply editing and providing a pattern, because access to
+the theoretical Open Knit content is, well, open to everyone: and free
+(beer/speech), of course.
+
+With luck this openness helps keep the products that people sell of the
+highest quality, and if a GPL/GFDL/Share-Alike license is used
+advancements that commercial uses produce become part of the larger body
+of free/open work, and everyone benefits. It means that people hoping to
+make money from knitting and knitting design have to find other ways to
+participate in this process other than selling "intellectual property,"
+tied to services (teaching, editorial work for publishers, yarn
+design/sales, day jobs, subscription programs/clubs), but when you think
+about it, that's how most people in the knitting business operate
+already, they're just going it alone, rather than in a community. Which
+brings us to a great topic for next time: how the community/social
+aspect of open/free development projects (software and knitting) are
+organized on a more granular level, in terms of who's doing the
+organization and the work.
+
+But until then, I remain, tycho
+
+.. [1]
+This would be `the attribution, non-commercial,
+share-alike <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__
+license.
+

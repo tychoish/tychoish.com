@@ -1,0 +1,95 @@
+===================================
+The Next Wave and Independent Media
+===================================
+
+.. post:: 2009-09-30
+   :author: tychoish
+   :tags: new-media
+
+I posted a link to an article `about the professionalization of
+blogging <http://www.theatlantic.com/doc/200909u/professional-bloggers>`__
+in an earlier `link dump
+post <http://tychoish.com/rhizome/links-postpublishing-gender-posthumanism>`__,
+that I've been thinking about rather a lot in recent days, and I wanted
+to reflect on this.
+
+The argument of the article, which I think is pretty much spot on,
+discusses how contemporary blogging has become this thing that that
+isn't just the sort of thing that "nobodies" can throw up a blog with
+WordPress and become an Internet sensation in fairly short order. Now
+setting aside the fact that this might `never have been true in the
+first
+place <http://tychoish.com/rhizome/3-odd-properties-of-blogging>`__, I
+think there's some serious merit to this argument: blogs have gone
+mainstream, lots of people read blogs, and the people who have the
+resources to write blogs tend to be people groups of people who have a
+lot of resources, and most of the popular/successful blogs these days
+require a lot of resources and sustained energies.
+
+This isn't a bad thing, of course, but I think it forces us to rethink
+what it means to be a blogger writer "internet content producer" both in
+the current moment and looking to the future.
+
+There are a number of different factors contributing to this larger
+moment. Some of the more prevalent ones are:
+
+-  **There are more blogs now today than there used to be,** this means
+both that the "cost of entry" is higher than it was five years ago or
+even a year ago. This means new blogs will:
+
+-  *Need to focus on more unique subject areas*, this is the "long tail"
+or "embrace your niche" approach. Rather than be the most popular
+blogger on Technoratti (do people still care about technoratti?) be
+the most popular blogger in the homemade breakfast cereal niche.
+
+-  *Blogging can't be the casual thing that it was in the beginning,* In
+the early days people started blogs and posted occasionally and it
+was just this novel little thing, and they were able to be successful
+as bloggers. Now, blogging is something that one really has to
+dedicate an embarrassing amount of energy to to be successful.
+
+-  **The "Blog" as a literary genre, or media forum has become much more
+cemented**, so that rather than be this experimental form that really
+only describes a website that updates regularly in a serialized
+format, there are now a whole host of expectations regarding the
+forum.
+
+-  *Blogs that reject the primacy of these forms will tend to be more
+successful,* in that readers will tend to find them more innovative.
+Forum and approach, as much as a subject area, is one way that small
+independent content producers will be able to differentiate
+themselves from "big media blogs."
+
+-  *Blogs can be projects onto themselves.* We've seen a convention
+where every site uses a blog as a way of providing more up-to-date
+content, but independent bloggers are able to create independent
+blogs which accent other projects, but are nonetheless *independent*
+and self contained texts.
+
+-  **Independent bloggers might not be able start up and field vast
+readerships on their own any more, but may be able to define their
+success on their own terms.** Old media business models, that rely on
+`advertising
+revenue <http://tychoish.com/rhizome/the-collapse-of-marketing>`__
+and large readership numbers might not be the most stable anyway, and
+independent bloggers may be able to contemplate success on their own
+terms. Possible "new media" definitions of success include:
+
+-  Using a blog to support and promote a consulting or services based
+business, by presenting general information to help justify your
+expertise in a given area. Think
+`RedMonk <http://www.redmonk.com/>`__, `Merlin
+Mann <http://www.43folders.com/>`__, and in some ways, me.
+
+-  Using a blog (and its moderate audience) to support some sort of
+"rockstar" business model, where you sell something (tickets to
+shows, dead-tree books, tshirts, etc.) that people mostly want
+because they know you from something which doesn't make you much
+money (ie. record sales, blogging.)
+
+--------------
+
+There's more. And I think that I might be talking about this kind of
+thing at `PodCamp 3 Philly <http://www.podcampphilly.com/>`__. I'd love
+to see you there.
+

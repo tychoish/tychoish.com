@@ -1,0 +1,77 @@
+===================
+Project Orientation
+===================
+
+.. post:: 2012-12-2
+   :author: tychoish
+   :tags: update
+
+(*or my latest attempt to do things in a more "project oriented way."*)
+
+This post is about recent projects, projects that I'm working on, and
+how my work has changed in recent months.
+
+A couple of weeks ago, I finally posted all of the content that I've
+been working on for the new, revived `Cyborg
+Institute <HTTP://cyborginstitute.org/>`__. While the `book on systems
+administration <http://cyborginstitute.org/projects/administration>`__
+itself had been mostly done for a while, I'd delayed for two reasons:
+
+1. I wanted to have a couple of other projects completed to demonstrate
+that the Institute as a project wasn't just isolated to book-like
+objects.
+
+2. I wanted to have some infrastructure in place to be able to *sanely*
+publish the Institute site without using some gnarly content
+management system. [1]_
+
+The end result is that in addition to the book, I've put together a few
+other projects and documentation. The more exciting thing is that I
+might *do more things* like this in the future.
+
+In addition to a lot of day-job work--forthcomming releases and team
+growth are eating a lot of my time--I've been working on a series of
+wiki pages (and related blog posts,) that address "[[information
+debt\|technical-writing/information-debt]]" that happens when
+organizations don't put resources and energy into maintaining resources
+and "knoweldge." Expect to hear more on this topic.
+
+--------------
+
+The truth is that I really like working on bigger projects. Writing blog
+posts and participating in online conversations has been very rewarding
+to me over the past ~10 years, I feel like I've hit a wall: I've written
+~830,000 words on tychoish.com, and am frustrated that there's not a lot
+to show for it:
+
+-  readership is steady, even increasing, but not inspiring,
+
+-  I don't actually want to work as a blogger, and
+
+-  most importantly the work I've done here doesn't really build to
+anything more than a half-dozen or so blog posts.
+
+While there are themes throughout all of the posts, the work isn't very
+rigorous, and it lacks a certain kind of depth.
+
+So here I am, writing books-like objects things about technology that I
+hope are and will be useful for both technical and non-technical
+audiences, as well as compiling the little things that I hack on for
+other people to improve and benefit fromm, and writing fiction (that I
+may try and publish conventionally, but I may end up self-publishing
+using a similar proccess.) The goal is to:
+
+-  Write things with more rigor, including better citations and
+research.
+
+-  Work on projects that address topics more comprehensively.
+
+-  Produce, document, and maintain scripts and other programs that I
+write rather than endlessly critique existing tools and approaches.
+In short, less talking about stuff and more *making stuff*.
+
+Let's see how this goes!
+
+.. [1]
+All content management systems are gnarly.
+

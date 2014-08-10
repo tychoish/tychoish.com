@@ -1,0 +1,23 @@
+======================
+Kip and Finn in Action
+======================
+
+.. post:: 2008-06-14
+   :author: tychoish
+
+So here's another cat video:
+
+.. raw:: html
+
+<object width="425" height="350">
+
+.. raw:: html
+
+<embed src="http://www.youtube.com/v/tSis4NLITw8" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
+
+This is the problem with having both new technology and new cuteness in
+my life.
+
+And just as if I wasn't being stereotypical enough, I have a meme to
+post later today. Hah.
+

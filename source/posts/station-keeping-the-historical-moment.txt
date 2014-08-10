@@ -1,0 +1,106 @@
+======================================
+Station Keeping: The Historical Moment
+======================================
+
+.. post:: 2007-07-04
+   :author: tychoish
+
+*Welcome to this week's somewhat late edition of* Station Keeping *I'm
+sorry about the confusion this time. We'll return to our usual schedule
+next week. This episode was fun for me, it gave me a chance to explore
+story telling from an historical perspective, which is something that I
+think is pretty nifty. With luck this won't be the last you see of Prof.
+Tiltsten, and I hope that this essay will help explain some of the
+questions that you might have about the station and our story.*
+
+The Necessity of Hanmist Studies, Part I
+----------------------------------------
+
+*by Professor Jonathan Tiltsten*
+
+Unlike some other pivotal moments in the development of human colonial
+efforts on other worlds, many documents survive from the period just
+before and during the occupation of a space station in-orbit of the
+rim-world "Hanm." Though in retrospect it is widely accepted, and
+obvious to many scholars of post-League political organization that the
+events on *Hanm Centre* were very important, if not key in determining
+the organization of human government for the next hundred years; at the
+time, the key actors in this milieux were not only unaware of their
+coming role in history, but also the importance of their moment. First a
+letter from the papers of Commander Eli Banner, the first commander of
+*Hanm Centre*, written shortly before he departed for Hanm:
+
+Sometimes I think I'm getting too old for field assignments, but
+it's better than getting fat and old behind a desk core-side, a
+lowly commander would never get chosen for a relativity cruise
+cycle [1]_. But I'm basically unattached, and I have some experience
+in the field, but who knows anyway. This time period never did suit
+me, and it'll be interesting to see how the world looks on the other
+side. A of a long flight; not that the core will matter very much
+out there I trust. I just hope I get a chance to come back someday.
+
+At the same time, the leaders of the civilian government on the colony
+world Hanm knew that change in the status quo, at least for their
+people, was imminent--and strictly speaking, it was--their opposition
+was to the league presence on *Hanm Centre,* not, in their mind, to the
+entire League, as it would later become. [2]_ Or the interstellar
+political status quo of the previous thousand years. Indeed it we now
+think that it would have been at least a generation on Hanm from the
+time that Eli Banner departed the core-side world until he and his
+convoy would arrive on Hanm.
+
+This is an excerpt from an editorial circulated by early "Hanmist" [3]_
+shortly the Navy confirmed that it was sending a high level operations
+convoy after Commander Eli Banner left the core for *Hanm Centre*.
+
+Above all, I would like to express my objection to the fact that the
+outpost currently under-construction in high orbit of the planet
+will be operated and governed by the League's Navy. While an easily
+accessible space outpost in this part of the galaxy is not
+inherently objectionable, I would like to locate my resistance to
+*Hanm Centre* not in terms of resistance to the League at large, but
+rather in acknowledgment of the fact that the Civil authority on
+Hanm was not--according to the public record--consulted by the
+League authorities, and furthermore, the fact that the station is
+not to be administered or overseen by Hanmish authorities. Indeed,
+there is no reason that it can be directed and administered by the
+civil authorities on Hanm, who would surely be the best suited given
+their experience with the region.
+
+As we can see, the seeds of the "Hanmist Separation" movement were
+significantly more modest than the militant movement that would follow
+in their name. In an age where the technology of space travel had
+paradoxically brought time and history to a virtual stand still, it took
+by the standards of the day, only a paltry handful of years for the
+Hanmist movement to sour. Though from our contemporary perspective this
+may not seem particularly remarkable, it must have been--particularly to
+the then unknowing Eli Banner.
+
+*"Historical Moment" was written by,
+`tycho <http://tychoish.com/tycho>`__, the creator of
+`TealArt <http://tychoish.com>`__ and [Station
+Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
+and a science fiction writer by night, you can read his work elsewhere
+on `TealArt <http://tychoish.com>`__ and at
+`~/tychoish <http://tychoish.com>`__.*
+
+.. [1]
+Key leaders of the League and Navy during this era were frequently
+cycled on and off interstellar flights to help provide continuity
+with the League's longer term missions on outer worlds. This kept
+some level of stability, but meant that policy changed back and forth
+as various leaders came on and off the cruises.
+
+.. [2]
+In fairness, it is only in retrospect that we can make this claim, in
+a lot of ways, *Hanm Centre* was of a guilded age of a dying empire
+of sorts, and the accomplishments of the station and it's crew though
+too numerous to list here, were not typical of any late imperial
+project.
+
+.. [3]
+"Hamnism" refers to the political movement started on Hanm (that
+quickly spread to other large rim worlds) that advocated independence
+and separation from the League, the policies of continued
+colonization, and distant centralized government.
+

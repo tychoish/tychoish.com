@@ -1,0 +1,45 @@
+===================================
+I&#8217;ve been looking for&#8230;.
+===================================
+
+.. post:: 2006-11-12
+   :author: tychoish
+
+Hi folks. I'm in the thick of the semester and the general craziness.
+It's not bad--I kind of like it--but it is stressful.
+
+Anyway, I just have a quick note and a question for you, gentle readers.
+
+1. Does anyone know of a **good** open source XML-RPC weblog editor. I
+live and die by the one I currently use, but I'd like something with
+better support for LiveJournal and del.icio.us and what not. I just
+want something with a slightly faster development cycle. I'd also
+rather enjoy something that was a little more mac-y. By Mac-y I mean
+integrated and fast, I guess.
+
+2. As some of you know I'm a big fan of NetNewsWire. This is an RSS/Atom
+feed reader that is incredibly wonderful and very useful. I heard the
+other day, that NNW **leads** the RSS reader market share by a large
+margin. This is impressive because NNW is a Mac-only application.
+Having said that, there are a couple of things that I constantly
+yearn for. First of all, I'd like it to download images refrenced in
+feeds for the last X number of entries, for better offline
+performance. I'd also, like a better ability to password authenticate
+for feeds.
+
+So I came across a new feed reading application which addresses the
+second problem, and is generally a cooler looking application. And the
+new application is open-source, which I've become a big fan of. The
+other thing about NNW is that it has an incredibly slow development
+cycle. I'd like it to be a little faster to add features like delicious
+posting (which it has, but it could do better in this respect), or
+exporting of marked entries, or similar things. Or, here's something.
+You can't subscribe to an RSS feed from NNWs built in browser! So the
+other reader, Vienna, handles all my concerns, but isn't as fast (and
+I'd have to run a perl scrip to import all my data from NNW, and I'm so
+not that hard cor) Otherwise I'm so there.... If I were going to start
+using a feed reader for the first time today, I would probably choose
+Vienna. If you aren't as attached, I'd totally check it out.
+
+Cheers, ty
+

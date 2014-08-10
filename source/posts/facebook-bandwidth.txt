@@ -1,0 +1,22 @@
+==================
+facebook bandwidth
+==================
+
+.. post:: 2007-08-21
+   :author: tychoish
+
+I heard someone say the other day, that some universities and businesses
+were blocking face-book from their networks, because, it chewed up too
+much bandwidth because it was pulling data from so many different sites.
+
+correct me if I'm wrong, but face-book, is for the most part fairly
+light on AJAX (I mean google apps and what not use a lot more AJAX than
+facebook), and really heavy on PHP, which means that all of the
+bandwidth pull and processing is happening server side.
+
+It might take a long time to load, because their servers have a lot to
+process, but it doesn't chew up much more bandwidth than any other site
+that you visit a lot...
+
+right?
+

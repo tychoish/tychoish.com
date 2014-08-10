@@ -1,0 +1,69 @@
+============================
+Minimalism Versus Simplicity
+============================
+
+.. post:: 2011-11-21
+   :author: tychoish
+   :tags: technology, lisp
+
+A couple of people, [[folk/cwebber]] and
+`Rodrigo <http://www.rlazo.org/2011/09/10/stumpwm-my-new-window-manager/>`__
+have (comparatively recently) switched to using
+`StumpWM <http://www.nongnu.org/stumpwm/>`__ as their primary window
+managers. Perhaps there are more outside of the circle of people I watch
+but it's happened enough to get me to think about what constitutes
+software minimalism.
+
+While StumpWM is a minimal program in terms of design and function;
+however, in terms of ram usage or binary size, it's not particularly
+lightweight. Because of the way Common Lisp works, "binaries" and RAM
+footprint is in the range of 30-40 megs. Not big by contemporary
+standards, but the really lightweight window managers can get by with
+far less RAM.
+
+In some senses this is entirely theoretical: even a few years ago, it
+wasn't uncommon for desktop systems to have only a gig of ram, so the
+differences would hardly have been noticeable. Now? Much less so. Until
+2006 or so, RAM was the most performance effecting limited resource on
+desktop system, since then, even laptops have more than enough for all
+uses. Although Firefox challenges this daily.
+
+Regardless, while there may be some link between binary size and
+minimalism, I think it's probably harmful to reduce minimalism and
+simplicity to what amounts to an implementation detail. Let's think
+about minimalism more complexly. For example:
+
+Write a simple (enough) script in Python/Perl and C. It should scan a
+file system and change the permissions of files such that they match the
+permissions of the enclosing folder, but not change the permissions of a
+folder if it's different from it's parent. Think of it as
+"``chmod -R``\ " except from the bottom up. This is a conceptually
+simple task and it wouldn't be too hard to implement, but I'm not aware
+of any tool that does this and it's not exactly trivial (to implement or
+in terms of its resource requirements.)
+
+While the C program will be much more "lightweight," and use less RAM
+during while running, the chances are that the Python/Perl version will
+be easier to understand and use much more straightforward logic. The
+Python/Perl version will probably take longer to run and there will be
+some greater overhead for the Python/Perl runtime. Is the C version more
+minimal because it uses more RAM? Is the Perl/Python program more
+minimal because it's interface and design is more streamlined, simple
+and easier to use?
+
+I'm not sure what the answer is, but lets add the following factor to
+our analysis: does the "internal" design and architecture of software
+affect the minimalism or maximalism of the software?
+
+I think the answer is clearly yes, qualified by "it depends" and
+"probably not as much as you'd think initially." As a corollary as
+computing power increases the importance of minimalist implementations
+matters less generally, but more in cases of extremely large scale which
+are always already edge cases.
+
+Returning for a moment to the question of the window manager, in this
+case I think it's pretty clear: StumpWM is among the most minimal window
+managers around, even though it's RAM footprint is pretty big. But I'd
+love to hear your [[thoughts\|discourse]] on this specifically, or
+technological minimalism generally.
+

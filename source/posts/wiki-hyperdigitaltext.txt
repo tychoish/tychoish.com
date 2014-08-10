@@ -1,0 +1,88 @@
+=======================
+Wiki Hyper(digital)text
+=======================
+
+.. post:: 2007-04-27
+   :author: tychoish
+
+I think wiki's are really awesome. I just wanted to get it out there
+ahead of time. The wiki is a really nifty concept, and I think that the
+wiki is an example, of an "digital" textual form, like the one that I'm
+trying to think about. Having said that I think there are are some
+constraints to this form that are worth discussing as part of this
+project on digital text.
+
+What are Wiki's?
+----------------
+
+I could provide a lengthy and informative history of the development of
+the wiki concept, but I'll spare you. It's an interesting history if
+you're into that kind of thing. In any case, most people know wikis via
+`Wikipdeia <http://www.wikipedia.org/>`__, and this is a good example of
+what a wiki is, but I think because of this influence many people tend
+to associate wiki projects with encyclopedias, which is interesting,
+because wikis are by no means limited to such encyclopedic
+projects[^encyclopedia criticism].
+
+Basically a wiki is a collaborative editing environment, that creates a
+non-linear hypertext document, generally in a situation where new
+"pages" are easily created and edited (but not necessarily). The key in
+my mind is the non-linear aspect in combination with the (potential)
+shortened distance between the reader and the editor. Because of the
+organization of the Wikipedia and the wiki's that have been inspired by
+that site, I think a lot of people tend to think that wiki means "open
+editing," I think group editing is more apt description.
+
+The Strengths:
+--------------
+
+Wikis are great for distributing editing responsibility amongst a group
+of people, and for exploring and cataloging information that can be
+organized as an interconnecting "network," rather than a branching tree.
+The software used for wikis also remove a lot of the burden associated
+with site maintenance, and in a lot of ways I'm tempted to suggest that
+while wiki software, is a really great tool for website management,
+particularly when you want to create a collaboratively constructed
+document. There are a number of typically wiki based features that have
+contributed to the kind of publishing model that Kathleen Fitzpatrick
+and the `MediaCommons <http://mediacommons.futureofthebook.org/>`__
+folks have adopted: history functions being the most obvious. That allow
+us to understand documents as changing
+
+The Weaknesses:
+---------------
+
+The problem is that wiki's aren't good for all sorts of projects. They
+seem to work best when there is a limited linearity, and great deal of
+interconnectedness. When you don't have this kind of document, or when
+you have a contributor pool that is too small and/or not organized
+enough, wiki's seem to stop being unique, and while they may contain
+valuable material, the format seems to just stop working. Or it the
+hyper/digital element seems to imposed and detrimental to the feel of
+the document as a whole.
+
+For instance, Wikimedia, the folks behind
+`Wikipedia <http://www.wikipedia.org/>`__, have a project called
+`wikibooks <http://en.wikibooks.org/wiki/Main_Page>`__, and while I
+think that this idea is really nifty, I'm not sure how well it works in
+creating "good" books, in the way that wikipedia can really be
+brilliant. At the same time, I'm not sure that one of the "wikibooks"
+are particularly unique documents as a result of their beginnings as
+wiki.
+
+Just some thoughts on the forms. I don't want to come off as a perpetual
+critic, I think that what I seem to be trumpeting: new forms, new ideas,
+and new models of reading/writing/publishing are being used and
+deployed, we just haven't explored and questioned them enough. I think
+we'll let this edition run a little short this week, but I'll be back
+next week on monday with a post on Station Keeping.
+
+Enjoy you're weekend, and reading! tycho
+
+[^encyclopedia criticism]: There are a lot of criticism of Wikipedia
+that I find **incredibly** interesting, because it's as if the main
+criticism of the "wiki" is that it is encyclopedic. Encyclopedias are
+fascinating and interesting texts, but they are flawed. Neutrality is
+impossible, of course, nor is maximum coverage. I have yet to hear
+someone analyze wikipedia in the same context that
+

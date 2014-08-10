@@ -1,0 +1,103 @@
+======================================
+Deleuze: Culture, Memory, and Language
+======================================
+
+.. post:: 2007-06-22
+   :author: tychoish
+
+It's Friday, which means it's time for some reflections on the work of
+french post-structuralists Deleuze and Guatteri in the book
+*Anti-Oedipus*. Good summer reading to send you off into the weekend.
+Fortunately, having touched on their conception of "desiring/production
+and machines," and bit on "anti-oedipalism," we can move on to something
+*fun*. This week: I have for us a few passages from the third major
+division about the emergence of language and cultural memory. For a
+while I've been convinced that semiotics and linguistic theory is sort
+of the cohesive glue behind post-structuralism, maybe it's because I've
+been spending too much time with literary-types, but I think there's
+something there. Also, I think if we understand things in linguistic
+terms, it makes it (more) posssible for me to interact and apply these
+theories. But anyway, on to the passages:
+
+(Oedipus) implies an individual overinvestment of the organ to
+compensate for it's collective disinvestment. That is why the
+commentators most favorable to the universality of Oedipus recognize
+nonetheless that one does not encounter in primitive socieities any
+of the mechanisms or any of the attitudes that make it a reality in
+our society. No superego, no guilt. No identification of a specific
+ego with global persons--but group identifications that are always
+partial following the compact agglutinated series of ancestors, and
+the fragmented series of companions and cousins" (143-4).
+
+I admit that I tried to rescue that passage from yammering on about
+Oedipus' ultimate anality, and I fear it doesn't make sense. They say
+that "our modern societies have [...] undertaken a vast privatization of
+the organs, which corresponds to the decoding of flows hat have become
+abstract" (143). That society, in particular modernity, has limited the
+way we interact with bodies [1]_, and that this correlates with the way
+we know and understand flows--desire. Because of these privatizations,
+we "have" an understanding of Oedipus that is social, and one where they
+are forced to ask "What then remains for the making of Oedipus?"
+
+Moving back to our discussion of some concepts that are more connected
+with the themes of lanague, that I'm more intersted in.
+
+"the primitive territorial machine codes flows, invests organs, and
+*marks bodies*" (144; emphasis added).
+
+I understand this as saying, basically, that: from the very basis of the
+formation of culture, desire, machines, and bodies are coded/shaped by
+that culture. It's of course the "bodies" part that I find most
+interesting, as this is sort of the part where culture and the
+individual meet. Particularly in this moment, we're given to think that
+our bodies are our own domains, and in some sort of twisted Cartesian
+way, beyond the realm of cultural influence. Which is pattently false,
+even if it's hard to grasp; in any case, the crossing of the mind/body
+and culture/individual boundaries are I think fascinating moment.
+
+So at this point we have a number of pieces: the culture peice, the
+individuals/bodies piecs, lets continue this a bit further as they,
+following Nietzsche, say: >"it is a matter of creating a memory for man;
+and man who was constituted by means of an active faculty of forgetting
+(*oubli*), by means of repression of biological memory, must create an
+*other* memory, one that is collective, a memory of words (*paroles*)
+and no longer a memory of things, a memory of signs and no longer of
+effects. This organization, which traces its signs directly on the body,
+constitutes a system of cruelty" (145-6; emphasis original)
+
+Man, in the social sense "created" by representation, not necessarily in
+our own memories of events but by a collective/group memmory. Not in the
+"`groupthink <http://en.wikipedia.org/wiki/Groupthink>`__\ " sense, but
+rather in sense that through ritual, education, and practice what we
+remember and know (as individuals) about "our" pasts is constrained by
+cultural values and interests. Think about how we "remember" on
+holidays, think about key cultural moments that you many not have
+experienced directly, but are none-the-less part of y/our cultural
+ethos. I suspect however that we're all more interested in the "cruelty"
+that they speak of. They go on to say:
+
+"Cruelty has nothing to do with some ill-defined or natural violence
+that might be commissioned to explain the history of mankind;
+cruelty is the movement of culture that is realized in bodies and
+inscribed on them, belaboring them" (145).
+
+And then:
+
+"The sign is a position of desire; but the first sings are the
+territorial signs that plant their flags in bodies. And if one wants
+to call this inscription in naked flesh 'writing,' then it must be
+said that *speech in fact presupposes writing,* and that it is this
+cruel system of inscribed signs that renders man capable of
+language, and gives him a memory of the spoken word" (145; emphasis
+added).
+
+Your thoughts? I'm not sure I can add much to that, but I'd love to hear
+what you think.
+
+best, tycho
+
+.. [1]
+organs being, body-machines, but I/we haven't quite gotten to the
+grok point with Deleuze and Guatteri's concept of the "body without
+organs."
+

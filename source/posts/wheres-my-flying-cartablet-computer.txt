@@ -1,0 +1,46 @@
+=====================================
+Where's My Flying Car/Tablet Computer
+=====================================
+
+.. post:: 2008-06-10
+   :author: tychoish
+
+There are technologies that seem to evoke "the future," that when we see
+them, we think "wow that has the future written all over it." The flying
+car is like that. VR computer interfaces are like that. And because they
+represent the future SF writers--like myself--use these tropes to tell
+our readers "hey look, this is the future." And I think as a result, we
+sort of think that these kinds of technologies are familiar and within
+within reach and/or seem like something something that would
+productively enhance our lives.
+
+But a flying car? More complex, more energy, more dangerous (if you
+think there are a lot of bad drivers with one axis of control, imagine
+what adding another would do) and it probably wouldn't be appreciably
+faster for most tasks. They're cool, but as a technology, it doesn't
+solve an extant problem in our world.
+
+Same with virtual reality systems. It would require lots of energy (both
+in terms of CPU cycles, but more importantly in terms of programer and
+sysop time,) and while it might present some interesting
+entertainment/social/data visualization opportunities it represents a
+rather ineffective way to interact with a computer. The enduring (and
+growing) success of unix-stlye operating systems (which use simple text,
+and frequently a command line) to communicate with the user is testament
+to this fact. Until you can figure out a way to get data into someone's
+head faster then reading, or out of someone's head than typing, any sort
+of virtual reality system is basically useless.
+
+In a similar sort of vein, contemporary technology users, myself among
+them, look eagerly at tablet-style devices as heralding the next wave of
+computing: much like avid futurists might look toward flying cars or
+virtual reality. They're portable, they're powerful, they're pretty, and
+ultimately, they're ineffective for general use, because in the end,
+while tablet computers are great for absorbing data quickly, they are
+much less effective when you need to get *more* data into them. So we'll
+have tablet computers of some kind, in the next few years--basically we
+already do, but it's not the next big thing in computing, that's for
+sure, and yet, I think we latch onto things like tablets because it
+seems like the next place for technological development. But it isn't
+really.
+

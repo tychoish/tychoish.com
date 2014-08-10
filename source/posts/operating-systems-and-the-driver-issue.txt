@@ -1,0 +1,86 @@
+======================================
+Operating Systems and the Driver Issue
+======================================
+
+.. post:: 2009-10-19
+   :author: tychoish
+   :tags: cyborg, futurism, technology
+
+I made a quip the other day about the UNIX Epoch problem (unix time
+stamps, are measured in seconds since Jan 1, 1970, and displayed in a 10
+digit number. Sometime in 2038, there will need to be 11 digits, and
+there's no really good way to fix that.) Someone responded "whatever, we
+won't be using UNIX in thirty years!"
+
+*Famous last words*.
+
+People were saying this about UNIX itself *years* ago. Indeed before
+Linux had even begun to be a "thing," Bell Labs had moved on to "Plan 9"
+which was to be the successor to UNIX. It wasn't. Unix came back. Hell,
+in the late eighties and early nineties we even thought that the
+"monolithic kernel" as a model of operating system design was *dead*,
+and here we are. Funny that.
+
+While it's probably the case that we're not going to be using the same
+technology in thirty years that we are today (i.e. UNIX and GNU/Linux,)
+it's probably also true that UNIX as we've come to know it, is not going
+to disappear given UNIX's stubborn history in this space. More
+interesting, I think, is to contemplate the ways that UNIX and Linux
+will resonate in the future. This post is an exploration of one of these
+possibilities.
+
+--------------
+
+I suppose my title has forced me to tip my hand slightly, but lets
+ignore that for a moment, and instead present the leading problem with
+personal computing technology today: hardware drivers.
+
+"Operating System geeks," of which we all know one or two, love to
+discuss the various merits of Windows/OS X/Linux "such and such works
+better than everything else," "such and such is more stable than this,"
+"suck and such feels bloated compared to that," and so on and so forth.
+The truth is that if we take a step back, we can see that the core
+problem for all of these operating systems is pretty simple: it's the
+drivers, stupid.
+
+Lets take Desktop Linux as an example. I'd argue that there are two
+large barriers to it's widespread adoption. First it's not immediately
+familiar to people who are used to using Windows. This is pretty easily
+addressed with some training, and I think Microsoft's willingness to
+change their interface in the last few years (i.e. the Office "Ribbon,"
+and so forth,) is a great testimony to the adaptability of the user
+base. The second, and slightly more thorny issue is about hardware
+drivers: which are the part of any operating system that allow the
+software to talk to hardware like video, sound, and networking
+(including, of course, wireless) adapters. The Kernel has gotten much
+better in this regard in the past few years (probably by adding support
+for devices without requiring their drivers be open source), but the
+leading cause of an "install just not working," is almost always
+something related to the drivers.
+
+"Linux People," avoid this problem by buying hardware that they know is
+well supported. In my world that means, "Intel everything particularly
+if you want wireless to work, and Nvidia graphics if you need something
+peppy, which I never really do," but I know people who take other
+approaches.
+
+In a weird way this "geek's approach to linux" is pretty much the same
+way that Apple responds to the driver problem in OS X. By constraining
+their Operating System to run only on a very limited selection of
+hardware, they're able to make sure that the drivers *work*. Try and add
+a third party wireless card to OS X. It's not pretty.
+
+Windows is probably the largest victim to the driver problem: they have
+to support *every piece of consumer hardware* and their hands are more
+or less tied. The famous Blue Screen of Death? Driver errors. System
+bloat (really for all operating systems) tends to be about device
+drivers. Random lockups? Drivers. Could Microsoft build better solutions
+for these driver problems, or push equipment manufacturers to use
+hardware that had "good drivers," probably; but as much as it pains me,
+I don't really think that it would make a whole lot of business sense
+for them to do that, at the moment.
+
+--------------
+
+More on this tomorrow...
+

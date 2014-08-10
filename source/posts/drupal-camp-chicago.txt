@@ -1,0 +1,39 @@
+===================
+Drupal Camp Chicago
+===================
+
+.. post:: 2008-10-13
+   :author: tychoish
+
+Dear Readers,
+
+I'm--or my alter-ego[^two name]--is going to be at `Drupal Camp
+Chicago <http://www.drupalcampchicago.org/>`__ on the 24th and 25th of
+October, baring an unforeseen catastrophe.
+
+So this presents several possibilities:
+
+1. You are already going to Drupal Camp Chicago and want to hang out
+with me or talk me into presenting something with you. To this, I say
+rock on.
+
+2. You are or will happen to be in Chicago that weekend and don't give a
+rats ass about drupal, I'm going to be (hopefully) meeting friends
+from school on Saturday after the conference and I'd love to have
+blog people there too.
+
+--------------
+
+In addition I'm thinking of proposing a session on `Open
+MicroBlogging <http://en.wikipedia.org/wiki/OpenMicroBlogging>`__ and
+`drupal <http://groups.drupal.org/node/14953>`__, which I think might be
+really fun. If you're interested in contributing to this, I'd love
+help/co-conspirators. And I'm just a guy who thinks this shit is cool.
+
+I'm cross posting this but lets try and coordinate meet-ups and whatnot
+in the comments thread of the tychoish.com post. You can always email or
+jabber/xmpp me at garen@tychoish.com Rock On.
+
+[^two name]: I so need to figure out how to have two buttons made/get
+some sort of official "tycho garen" name tag. Ideas?
+

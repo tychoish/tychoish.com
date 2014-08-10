@@ -1,0 +1,36 @@
+==================
+a working for loop
+==================
+
+.. post:: 2009-03-20
+   :author: tychoish
+   :tags: programming, technology
+
+So I was sorting through my `org-mode <http://www.orgmode.org/>`__ files
+and I found a little snippet of code that I had lying around. I've had a
+problem with shell scripting for a while. I *use* bash a lot, and I've
+written a few functions, and procedural scripts that I've found useful
+in my travels, but anything that requires "logic," often escapes me in
+tragic and epic ways.
+
+Here's the problem. I had a directory of notes that I had compiled for
+presentation in an `ikiwiki <http://www.ikiwiki.info>`__ blog for notes.
+As I wanted these notes to be in my org-mode system, I needed to take a
+directory of 60 or so files, and turn them into a single org file. As an
+additional bonus, I needed the files to be organized by date rather than
+by the alphabet. Also, as ikiwiki generated page titles from the
+filename, I needed to capture that information in the org-mode file.
+Here's what I came up with
+
+::
+
+for i in `ls -t`;
+do
+echo -e "$i" >> ~/org/legacy_notes.org &&
+cat "$i" >> ~/org/legacy_notes.org ;
+done
+
+It works as a one liner, but it works. I think previous attempts have
+left out crucial semi-colons or the ``do`` and ``done`` statements. No
+clue. Baby steps folks.
+

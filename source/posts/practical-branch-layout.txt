@@ -1,0 +1,113 @@
+=======================
+Practical Branch Layout
+=======================
+
+.. post:: 2012-11-17
+   :author: tychoish
+   :tags: git
+
+I've recently gone from being someone who uses
+`git <http://git-scm.org/>`__ entirely "on my own," to being someone who
+uses git with a lot of other people at once. I've also had to introduce
+git to the uninitiated a few times. These have both been notable
+challenges.
+
+Git is hard, particularly in these contexts: not only are there many
+concepts to learn, but there's no single proscribed workflow and a
+multitude of workflow possibilities. Which is great from a philosophy
+perspective, and arguably good from a "useful/robust tool perspective,"
+but horrible from a "best practices" perspective. Hell, it's horrible
+for a "consistent" and "sane" practices perspective.
+
+There are a lot of solutions to the "finding a sane practice," when
+working with git and large teams. Patching or reformulating the
+interface is a common strategy. `Legit <http://www.git-legit.org/>`__ is
+a great example of this, but I don't think it's enough, because the
+problem is really one of bad and unclear defaults. For instance:
+
+-  The "master" branch, in larger distributed systems is *highly*
+confusing. If you have multiple remotes (*which is common*), every
+remote has its own master branch, which all (necessarily) refer to
+different possible points in a repository's history.
+
+-  The names of a local branch do not necessarily refer to the names of
+the remote branch in any specific repository. The decoupling of local
+and remote branches, makes sense from a design perspective, but it's
+difficult to retain this mapping in your head, and it's also
+difficult to talk about branch configurations because your "view of
+the universe," doesn't often coincide with anyone else's?
+
+Here are some ideas:
+
+1. Have two modes of operation: a maintainer's mode that resembles
+current day git with a few basic tweaks described in later options,
+and a contributors mode, that is designed with makes the following
+assumptions:
+
+-  The "mainline" of the project's development will occur in a branch to
+which this user only has read-only access.
+
+-  Most of this user's work will happen in isolated topic branches.
+
+2. Branch naming enforcement:
+
+-  All branches will be uniquely named, relative to a username and/or
+hostname. This will be transparent (largely) to the history, but will
+make all conversations about branches less awkward. This is basically
+how branches work now, with ``[remote]/[branch]``, except that all
+local branches need ``self/[branch]``, and the software should make
+this more transparent.
+
+-  Remote branches will implicitly have local tracking branches with
+identical names. You could commit to any of the local tracking
+branches, and ``pull`` will have the ability to convert your changes
+to a ``self/[branch]`` if needed.
+
+-  All local branches, if published, will map to a single remote branch.
+One remote, will be the user's default "publication target," for
+branches.
+
+This is basically what the ``origin`` remote does today, so again,
+this isn't a major change.
+
+3. When you run ``git clone``, this remote repository should be the
+``upstream`` repository, not the ``origin``.
+
+Use the origin remote, which should be the default "place to publish my
+work," and would be configured separately.
+
+4. Minor tweaks.
+
+-  Map local branches directly to remote branches.
+
+-  Be able to specify a remote branch as a "mirror" of another branch.
+
+-  Make cherry-picked commits identifiable by their original commit-id
+internally. The goal is to push people to cherry-pick commits as much
+as possible to construct histories without needing to rebase. [1]_
+
+-  Have sub-module support automatically configured, without fussing.
+
+-  Have better functions to cleaning up branch cruft. Particularly on
+remotes.
+
+-  Have some sort of configurable "published pointer," that users can
+use as a safe block against rebases before a given point.
+
+The goals here are to:
+
+-  Make working with git all about branches and iteration rather than a
+sequence of commits.
+
+-  Provide good tools to prevent people from rebasing commits, which is
+always confusing and rarely actually required.
+
+-  Make branch names as canonical as possible. The fact that there can
+be many possible names for the same thing is awful.
+
+Who's with me? We can [[sort out the details, if you want\|discourse]].
+
+.. [1]
+To make this plausible, github needs to allow cherry-picked commits
+to close a pull request.
+

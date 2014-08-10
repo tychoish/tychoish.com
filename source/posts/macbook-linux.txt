@@ -1,0 +1,31 @@
+===================================
+macbook linux: deleuze and guatteri
+===================================
+
+.. post:: 2008-12-26
+   :author: tychoish
+
+After a long time toiling with the ThinkPad that I got (as my primary
+laptop) a few months back. I decided to rearrange my laptop usage. Not
+that the ThinkPad is a bad machine, but I felt bad because my MacBook
+was langishing, and I very much missed having a machine with a usable
+battery life. While I thought about trading the macbook for a PC laptop,
+it finally dawned on me that I could just linuxify it and be done with
+it. I have the hardware, and while it isn't pro-grade like the thinkpad,
+it's contemporary. It also means that my initial intention with the
+thinkpad--as a spare to keep peace among the family when one of my
+parent's older macs dies--is finally fulfilled, without my need to give
+away the macbook. Win win. I installed dual boot with OS X, which seems
+like it might be useful. The hard-drive is certainly big enough--and I'm
+not going to be keeping anything mission critical on it anyway. In honor
+of this, I've rechristened it "Deleuze and Guatteri" (deleuze=linux;
+guatteri=os x) as an addition to my family of continental philosopher
+named electronic devices. I have the linux system set up, next up:
+getting the right click emulation to work right/at all, figuring out how
+to partition the shared space (a thousand plateaus, heh,) setting up the
+OS X part, and afixing the ordered tux stickers to the top of the
+laptop.
+
+If anyone has experience with linux and macbooks, and can help with the
+right click issue, that would rock something fierce.
+

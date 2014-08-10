@@ -1,0 +1,59 @@
+===============
+Keyboard Revolt
+===============
+
+.. post:: 2008-06-09
+   :author: tychoish
+
+Later today, Steve Jobs is giving some sort of key note at Apple's
+developer convention.
+
+Just in time I say. There's a long story here.
+
+About a week ago (you haven't heard this, because I've been very *nose
+to the grindstone all week*), a number of keys started coming off the
+keyboard. I deployed my usual "swap high traffic keys for low traffic
+keys" routine, but then the tab key went on the fritz, and a day later
+several keys (f, r, g, 4) gave up the ghost entirely.
+
+External keyboards work, but I tend to be pretty mobile, and it turns
+out that I really do take my computer with me just about everywhere. So
+this keyboard problem was a bigger issue than it might seem.
+
+If you've been reading tychoish for more than a few weeks, you've
+probably realized that I'm pretty close to getting a new computer. The
+old one is 3 years old, and I find myself butting up against its
+limitations more than I'd really care to. So I think at this point it's
+just a matter of time before I do the upgrade. I'm half waiting to see
+if Apple puts out a new machine at WWDC, but I kind of doubt that they
+will.
+
+There's just not a lot of room for change in the laptops. I think
+there'll be something exciting: it's been a while since Apple's done
+something unexpected which is atypical, but I suspect it won't be with
+the laptops. There are other reasons why I think the laptops will stay
+as they are: the summer student promotion (which I'm *so* taking
+advantage of) and the fact that it's been 3 month since the last rev,
+and they typically rev every 6 months, and the fact that there aren't
+any new technologies that make any amount of marketing sense to include
+at this point. But that's not the point of unexpected, I guess.
+
+In the mean time, I'm back to using a computer that was the computer I
+took with me to college that my mother has been using for the past
+couple of years. We finally upgraded it to *Tiger* and the funny thing
+is that it's running great. A bit slower than I'm used to, (I think,
+however, that's mostly ram) and it's not completely comfortable yet, but
+it's ok. After a week of fighting with a sick computer it's nice to have
+something that works.
+
+And I've made another realization. This computer, is one of the 12 inch
+ibooks. It's *tiny*, and probably about as powerful as computers like
+the Asus EEE PC. And it has about 4 hours of battery life, which is kind
+of amazing. Seriously, Apple could start selling these exact machines
+today, and I doubt they could keep them in stock.
+
+Anyway, I should be able to keep a pretty regular posting schedule up
+but if if I miss, lets blame it on the technology, shall we?
+
+Onward and Upward!
+

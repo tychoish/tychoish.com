@@ -1,0 +1,81 @@
+===============================
+Input Fetishes and Tool Quality
+===============================
+
+.. post:: 2009-01-19
+   :author: tychoish
+
+Wow, that's a title for a much more interesting post than the one I'm
+planning to write. Sorry folks. This post is more about the devices and
+technology that we use to get information out of our heads and onto
+paper or into computers. Last week, I was reading the Internet as I'm
+wont to do, and I was delving into an area that I think of as the
+"ubergeek" section. There's a class of personal sites maintained by
+hacker-types that hosts all kinds of cool crap: information about clever
+scripts that they've cooked up, links to side projects, pictures of
+their gear, often a blog of some sort--but always pretty low key.
+Anyway, I discovered a cache of pictures of people's very hardcore
+keyboard setups, and I was pretty smitten.
+
+See I'm an input geek. And this is a long standing thing.
+
+My holiday present to myself, you see, was a new nib for my fountain
+pen. I don't write long hand very much anymore, but I've always been a
+pen geek, and the nib for the pen that I've been using for *years* was a
+"fine," and it just didn't work for me very well (I'm a lefty). Also,
+it's a Japanese made pen (Namiki/Pilot) and apparently Japanese nibs run
+*smaller* than western nibs. So it was really an extra fine. I've been
+saying to myself that I needed to do this, and I finally gave in, and
+it's been nice. While I do a lot of note taking and writing on the
+computer I like the portability and sociability of writing in a notebook
+(you can write notes on paper and not have a barrier between you and the
+people you're sitting with.) It's also nice, from time to time, to be
+able to change paces if for some reason the computer becomes too
+distracting or formal. So I'll probably always keep a notebook. [1]_
+
+Now to be fair, while I'm a pen geek, the only kind of fountain pens
+I've ever owned have been Namiki Vanashing Points. These are really
+nifty "modern" pens that don't have caps, but rather have a really swell
+tactile clicking mechanism that retracts the nib into the pen body. So
+that's really cool. Also cool is the fact that as a result the "clip" is
+fixed on the pen so that it can hang in your pocket with the nib facing
+up (as conventional pen cap-based clips are) but when you start to write
+with it, the clip is on the bottom of the pen. Which seems backwards to
+the uninitiated. And it is, I'm not aware of any other pen that has this
+"feature," and that's part of the appeal. Also it has a gold nib and
+writes so amazingly cool. Particularly with my favorite ink from
+`Private Reserve <http://www.privatereserveink.com/>`__ in the color
+"Midnight Blues." Anyway. Yes. Huge Pen geek.
+
+Back to computers. Getting smitten with a new keyboard, didn't feel all
+that out of place. I'm currently using the basic Dell keyboard that came
+with my desktop, and have tended to use the keyboards that come with my
+computer. While the current keyboard is sufficient and works well,
+there's nothing particularly inspiring or pleasurable about it, and I
+think I prefer the keyboard that I got when I began high school. I still
+have it, of course, though it's PS/2 and I don't use it.
+
+I think my lack of particularly attachment to keyboards recently is due
+to the fact that I've been a laptop only user for so long. When my
+PowerBook G4 died (for me, my mother used it for several months), the
+sign of death was the fact that the keyboard stopped functioning.
+Similarly, while there are a number of reasons that I prefer the (older,
+smaller, less powerful) thinkpad to the (bigger, faster, more powerful)
+macbook is the fact that the thinkpad has a much better *feeling*
+keyboard.
+
+So what am I going to do? Get a Happy Hacking Lite 2 in Black. In fact,
+depending on my will power, by the time you read this, I probably will
+already have it.
+
+Anyone else out there an input geek? Got a killer keyboard setup?
+
+Onward and Upward!
+
+.. [1]
+In almost every other case I'm basically opposed to paper on moral
+grounds, mostly because paper, if unattached, seems as if it *wants*
+to be lost. Notebooks, being many sheets of paper bound together
+don't seem to have this problem, and I'm quite fond of them as a
+result. Books good. Loose paper bad. I'm sticking with it.
+

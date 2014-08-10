@@ -1,0 +1,26 @@
+================
+design complete 
+================
+
+.. post:: 2007-06-24
+   :author: tychoish
+
+By g-d, friends I think I have the design here complete. I'm actually
+pretty happy with it, though it's certainly true that I haven't put it
+through it's full tests, so breakage is prone.
+
+I need to set up the static pages, but I'm pretty happy with this. I'm
+thinking of buying a new domain. For such a web-guy, I think having one
+domain is excessively reasonable, but I need to think about these
+things, of course.
+
+On to other projects.
+
+**update:** ha! this post fucked up the desgin. time to fiddle with CSS
+again!
+
+**update:** ok, we're back, and I think I may have realized why it
+wasn't behaving the right way the first time. this is much more logical.
+just have to make the tags work a bit better, but that shouldn't be
+hard... (famous last words, I know)
+

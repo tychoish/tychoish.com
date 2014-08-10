@@ -1,0 +1,45 @@
+===============
+The Emacs Alert
+===============
+
+.. post:: 2009-03-05
+   :author: tychoish
+   :tags: emacs, internet
+
+So I get a `Google alert <http://www.google.com/alerts/>`__ in my RSS
+reader for "emacs," this way when anyone mentions *that* operating
+system text editor on the Internet, I *know*.
+
+I did it, initially, as a gimmick. The interesting thing, is that it's
+been really interesting. In the grand scheme of things, I'm pretty new
+to emacs so I'm like a sponge for new information. I've learned,
+chiefly, about `emacs-fu <http://emacs-fu.blogspot.com/>`__, which is a
+delightful little blog.
+
+Perhaps more interesting is the fact that fully half of the sites that
+pop up on the emacs alert are sites that I'm already familiar with, or
+worse (better?) things that I've written. This leads me to think that
+the active discussion/community regarding emacs is actually pretty
+small, in a day to day sort of way.
+
+It's possible that most people who use emacs don't feel the need to
+really talk about it, but given how vehemently many people feel about
+emacs that doesn't seem terribly likely. It's also possible that emacs'
+niche is shrinking in the face of competition from the Java IDEs,
+TextMate, and Firefox.
+
+Another theory is that most of the conversation regarding emacs happens
+on the `emacswiki <http://www.emacswiki.org/>`__, and that the sort of
+"here's a protip, about emacs," is *too much* of a niche, and not the
+kind of thing that's really appreciated, so the blogging happens here
+and there. Or... no one's doing search engine gaming/hacking (SEG? SEH?)
+on emacs, so the alert isn't clogged up with crap from dweebs and
+industry.
+
+In whatever case, it's interesting. Or interesting enough.
+
+Onward and Upward!
+
+(ps. sorry for the short post and the weird schedule this week. Next
+week should be better. --ty)
+

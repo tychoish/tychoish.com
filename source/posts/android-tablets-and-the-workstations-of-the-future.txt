@@ -1,0 +1,84 @@
+==================================================
+Android Tablets and the Workstations of the Future
+==================================================
+
+.. post:: 2011-09-20
+   :author: tychoish
+   :tags: mobile-technology, productivity, futurism, productivity
+
+I've only had the tablet for a few weeks, but I'm pretty sure the tablet
+incarnation of Android is probably 80% of what most users need in a
+workstation. I'm not most users, but I figure: hook up a big screen and
+a real keyboard. Create some key bindings to replace most of the
+gestures, and write a few pieces of software to handle document
+production, presentations, and spreadsheets in a slightly more robust
+manner, and *you're basically there*. **I** wouldn't give up my laptop
+today for a tablet, and I think the platforms still have a ways yet to
+go, but that's not insurmountable.
+
+Prediction: in the next decade, we'll see embeded tablet-like devices
+begin to replace desktops computers for some classes of use and users.
+General web surfing, reading, quick email, and watching videos on
+YouTube seem like the obvious niche for now. I started to explore this
+in "[[Is Android the Future of
+Linux\|rhizome/is-android-the-future-of-linux]]," but it's not abusrd to
+suggest that Android or iOS like devices might begin to address more
+"general purpose desktop computing."
+
+I want to be clear: we're not there yet. These systems aren't versatile
+and fully featured enough to keep up with full time use on an extended
+basis. This is mostly an application/software problem. As applications
+evolve and as more functionality moves to remote systems anyway (this is
+the "cloud," we've heard so much about,) tablet operating systems will
+seem much more capable for general purpose work. Better [[mobile
+productivity\|rhizome/mobile-productivity-challenges]] software will
+help as well. Eventually, I think Android and similar platforms will
+have a shot at the desktop market for most usage because:
+
+-  IT departments will get a lot more control over intra-organization
+information flow, which could save a lot of money for various IT
+categories: administration, support, and data protection costs.
+
+-  Behind the firewall dropbox-like services, and creating some sort of
+centralized workstation configuration management (which makes sense
+for a flash based device,) means backups can happen automatically,
+and if devices need to be re-imaged or are lost or damaged, it only
+takes a few minutes to get someone back to work after a technology
+failure.
+
+-  Limited multi-tasking ability will probably increase productivity.
+
+-  Disconnecting keyboards from the screen will probably lead to better
+ergonomic possibilities.
+
+-  Eventually, it will be easier to integrate Android-like devices with
+various workflow management/content management systems.
+
+The technology needs to mature and workers and IT departments need to
+become more comfortable with tablets, without question. Also, there are
+some fundamental developments in the technology that need to transpire
+before "desktop tablets" happen, including:
+
+-  More [[power user-type interface
+features\|rhizome/tablet-interfaces-and-intuition]].
+
+-  Split screen operation. There are enough "common tasks" that require
+looking at two different pieces of information at the same time that
+I think tablets will eventually have to give up "full screen
+everywhere," operation. Conventional windowing is unnecessary, and I
+don't think anyone would go for that, but displaying two different
+and distinct pieces of information at once is essential.
+
+-  Better "Office" software for spreadsheets, presentations and document
+preparation. A necessary evil.
+
+-  Behind the firewall (preferably open source) solutions to replace
+services like Dropbox/Box.net and whatever other services emerge as
+essential parts of the "tablet/smartphone" stack.
+
+-  VPN clients and shared file system clients that are de ad simple to
+use. I think these are features for operating system vendors to
+develop.
+
+[[Thoughts\|discourse]]? Onward and upward!
+

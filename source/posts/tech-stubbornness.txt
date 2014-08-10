@@ -1,0 +1,58 @@
+=================
+Tech Stubbornness
+=================
+
+.. post:: 2008-03-26
+   :author: tychoish
+
+So I'm back to trying to learn how to work with vim more seriously, and
+I think with a more seriously modified .vimrc file. Thank g-d for
+`dotfiles <http://www.dotfiles.org>`__. I did realize that I don't need
+to remap a key to escape system wide, as long as it works in vim at the
+right place, and it turns out (of course) that getting this to happen is
+a synch).
+
+As this is a fairly geeky post, I'm going to put the bulk of it below
+the fold...
+
+.. raw:: html
+
+<!--more-->
+
+It's a long story but the short of it is: I don't have it down yet, and
+I think there are a number of things that I have yet to learn how to do
+properly that I can do with out any fuss in TextMate. Vim can do them,
+it's just a matter of teaching me how to do them. I've yet to get things
+like blog posting from within the editor (I've not yet braved installing
+the ruby script-able vim yet). There's still a bunch of things that TM
+does that I haven't figured out yet. Like the auto-paired characters (in
+TM, if you type a single quote (") it automatically puts the other one.
+This also works around selected text. There's got to be something in vim
+for this, I just haven't found it), and the hyperlink helper, would also
+be nice to duplicate.
+
+Why am I doing this? Good question. Using vim feels more efficient. It's
+good to stretch the brain, and at some point I'll have it figured out.
+In addition to self betterment, I'm learning this because I have a
+new-to-me computer that I'm going to start using more consistently, and
+it's not a mac, so having something that's more cross platform appeals.
+Also, with the replacement of my previously dysfunctional "t" key, I've
+become more bonded to the ongoing maintenance of this computer. It's
+because I'm stubborn.
+
+`Chris <http://www.cgkreality.com>`__, who knows me way too well, said
+that "switching to linux will be good for you, but you'll like it for a
+few months, and then hate it for a few, and after that you'll be
+golden." Depressingly, my mother, upon hearing this, concurred totally.
+Becoming comfortable in vim is the first step in this transition. And if
+I can make this jump, to my satisfaction, there's a lot of linux
+hardware out there thats way more interesting and affordable than
+equivalent mac hardware. Tablets, 12 inch laptops, computers without CD
+drives.
+
+Though, this whole thing is clearly going through fits and starts,
+because I've broken down and gone back to TextMate. But eventually. I'll
+post a list of things to master at some point.
+
+Anyway, enough for now.
+

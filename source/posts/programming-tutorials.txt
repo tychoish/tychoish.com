@@ -1,0 +1,124 @@
+=====================
+Programming Tutorials
+=====================
+
+.. post:: 2012-12-10
+   :author: tychoish
+   :tags: programming, software-development
+
+This post is a follow up to my [[coding-pedagogy]] post. This "series,"
+addresses how people learn how to program, the state of the technical
+materials that support this education process, and the role of
+programming in technology development.
+
+I've wanted to learn how to program for a while and I've been
+perpetually frustrated by pretty much every lesson or document I've ever
+encountered in this search. This is hyperbolic, but it's pretty close to
+the truth. Teaching people how to program is hard and the materials are
+either written by people who:
+
+-  don't really remember how they learned to program.
+
+Many programming tutorials were written by these kinds of programmers,
+and the resulting materials tend to be decent in and of themselves, but
+they fail to actually teach people how to program if they don't know how
+to program already.
+
+If you already know how to program, or have learned to program in a few
+different languages, it's easy so substitute "learning how to program,"
+with "learn how to program in a new language" because that experience is
+more fresh, and easier to understand.
+
+These kinds of materials will teach the novice programmer a lot about
+programming languages and fundamental computer science topics, but not
+anything that you really need to learn how to write code.
+
+-  people who don't really know how to program.
+
+People who don't know how to program tend to assume that you can teach
+by example, using guided tutorials. You can't really. Examples are good
+for demonstrating syntax and procedure, and answering tactical
+questions, but aren't sufficient for teaching the required higher order
+problem solving skills. Focusing on the concrete aspects of programming
+syntax, the standard library, and the process for executing code isn't
+enough.
+
+These kinds of documents can be very instructive, and outsider
+perspective are quite useful, but if the document can't convey how to
+solve real problems with code, you'll be hard pressed to learn how to
+write useful programs from these guides.
+
+In essence, we have a chicken and egg problem.
+
+--------------
+
+**Interlude:**
+
+Even six months ago, when people asked me "are you a programmer?" (or
+engineer,) I'd often object strenuously. Now, I wave my hand back and
+forth and say "sorta, I program a bit, but I'm the technical writer." I
+don't write code on a daily basis and I'm not very nimble at starting to
+write programs from scratch, but sometimes when the need arises, I know
+enough to write code that works, to figure out the best solution to fix
+at least some of the problems I run into.
+
+I still ask other people to write programs or fix problems I'm having,
+but it's usually more because I don't have time to figure out an
+existing system that I know they're familiar with and less because I'm
+incapable of making the change myself.
+
+Even despite these advances, I still find it hard to sit down with a
+blank buffer and write code from scratch, even if I have a pretty clear
+idea of what it needs to do. Increasingly, I've begun to believe that
+this is the case for most people who write code, even very skilled
+engineers.
+
+This will be the subject of an upcoming post.
+
+--------------
+
+The solution(s):
+
+1. Teach people how to code by forcing people to debug programs and make
+trivial modifications to code.
+
+People pick up syntax pretty easily, but struggle more with the problem
+solving aspects of code. While there are some subtle aspects of syntax,
+the compiler or interpreter does enough to teach people syntax. The
+larger challenge is getting people to understand the relationship
+between their changes and behavior and any single change and the reset
+of a piece of code.
+
+2. Teach people how to program by getting them to solve actual problems
+using actual tools, libraries, and packages.
+
+Too often, programming tutorials and examples attempt to be
+self-contained or unrealistically simple. While this makes sense from a
+number of perspectives (easier to create, easier to explain, fewer
+dependency problems for users,) it's incredibly uncommon and probably
+leads to people thinking that a lot of programming revolves around
+re-implementing solutions to solved problems.
+
+I'm not making a real argument about computer science education, or
+formal engineering training, with which I have very little experience or
+interest. As contemporary, technically literate, actors in digital
+systems, programming is a relevant for most people.
+
+I'm convinced that many people do a great deal of work that is
+effectively programming: manipulating tools, identifying and recording
+procedures, collecting information about the environment, performing
+analysis, and taking action based on collected data. Editing macros,
+mail filtering systems, and spreadsheets are obvious examples though
+there are others.
+
+Would teaching these people how programming worked and how they could
+use programming tools improve their digital existences? *Possibly.*
+
+Would general productivity improve if more people new how to think about
+automation and were able to do some of their own programming? *Almost
+certainly.*
+
+Would having more casual programmers create additional problems and
+challenges in technology? *Yes.* These would be interesting problems to
+solve as well.
+

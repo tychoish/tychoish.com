@@ -1,0 +1,123 @@
+=================
+Open Source Words
+=================
+
+.. post:: 2009-04-14
+   :author: tychoish
+   :tags: writing, open-source, cyborg
+
+I'm working on laying the seed content for a new wiki that I hope to
+launch in a few weeks. I want the wiki to be a free text/open source,
+and I have been giving some thought to the best way to accomplish this.
+This is, as it turns out, is pretty hard to accomplish: open source
+software licences are designed (not surprisingly) for software, and
+while Creative Commons Licences are *great*, I don't think they support
+community authorship in a way that matches with my ideals/gaols.
+
+The brilliance of the GPL (to my mind) is the way that it equalizes the
+relationship between all contributors (big and small) *and* between the
+"authors" and the "users." While in a lot of open source projects these
+groups/interests overlap, they don't sometimes and those cases where
+those interests might obstruct the freedom of the work, the GPL
+equalizes it.
+
+There are two mechanisms in the GPL (to my mind) that make this
+possible: first, the requirement that source code be made available (and
+reproducible) with any distribution means that you don't get anything
+*extra* because you were/are the original author of the code. The
+second, is the "viral" or "share alike" provisions where you can trust
+that anything released under the GPL will stay under the GPL.
+
+While these mechanisms increase freedom and equity in situations where
+there are a select group of contributors and one legal author [1]_ the
+freedoms are most powerful when the boundaries between contributor and
+author and user are blurred.
+
+This is all very basic stuff in the area of software freedom after all.
+The truth is that, as near as I understand there aren't terms that can
+be used to get a similar effect with non-code projects (exactly.) There
+are a couple of copy left licenses, issued by `Creative
+Commons <http://www.creativecommons.org>`__ and even the `Free Software
+Foundation <http://www.fsf.org>`__, but there are problems with both of
+these strategies. Here are the issues as I see them:
+
+The `GNU FDL <http://www.gnu.org/copyleft/fdl.html>`__ is designed,
+primarily for software manuals and documentation in support of free
+software, and is strategically designed for this kind of text. It, as a
+result, lacks a certain... grace and elegance for dealing with other
+kinds of text, particularly when dealing with derivative and physical
+reproductions of a work.
+
+In contrast, the Creative Commons Licenses [2]_ (CC) don't have a
+concept of "source," so that while they provide the same sorts of rights
+regarding distribution of work (and thereby equalize some of the rights
+between distributor/user), they don't facilitate derivative work in the
+same way that open source licenses do.
+
+I'm mostly worried about the following scenario. Say I release a piece
+of audio-art in a lossless (high quality; source) format (eg. FLAC/WAV)
+as well as MP3/OGG file (lower quality; compiled) under a CC license
+that permits derivative work under a viral/share alike terms. Then you
+turn around, re-equalize, and mix my audio-art with some other similarly
+licensed audio, and release it as a derivative work. That's cool. But
+the derivative work needed be in the higher quality format, because CC
+doesn't have a concept of source. Not having a concept of source doesn't
+effect the possibility of derivative works, but it does mean that
+derivative works are second-class citizens, as it were. CC doesn't
+equalize this relationship.
+
+If I'm wrong about this interpretation, I'd *love* to be corrected, for
+the record.
+
+For works where there's a single author, having derivative works as
+second-class citizens isn't a bad thing, and I can imagine that it would
+be seen as a feature in some cases. In cases where a text/work is
+authored by a community this is a major flaw.
+
+--------------
+
+`I
+hear <http://fsfeurope.org/projects/gplv3/barcelona-moglen-transcript#lgpl>`__
+that there's a project to `Simplify the
+GFDL <http://gplv3.fsf.org/sfdl-draft-2006-09-26.html>`__ (or provide a
+way to use the GPL for documents/texts) that might remedy these problems
+(haven't dug through it yet). In the mean time, I'm wondering what folks
+think on the subject.
+
+My inclination is to just use the GPL with the specification that
+"source" would be some sort of plain text (ASCII/UTF-8/UTF-16)
+compatible file. That achieves the goal required, without too much fuss
+or concocting a new license that would prove incompatible down the road.
+I think mandating a particular format (markdown/org-mode/xhtml/LaTeX) is
+a bit too strict, but I'd hate to see a document developed in the open,
+released as a PDF derivative without making (say) LaTeX sources
+available.
+
+Though I'll be the first to acknowledge the irony that for non-software
+works, the "source" isn't "human readable source code" but rather
+"machine readable data source."
+
+The only real practical concern is that if the FSF releases a 2.0 of the
+FDL (or a SFDL) that becomes the a standard for free/open source
+non-software/text projects then going with the GPL might make that a
+difficult/bothersome transition on that. So the question, seems to be
+would providing the option to upgrade to the GNU FDL make sense (eg.
+this work is licensed under the GPL [with an understanding of what the
+source is] version 3 or (at your choice) a later version [or a later
+version of the GFDL]).
+
+Anyway, back to writing.
+
+.. [1]
+Copyleft and the GPL doesn't to be fair, eliminate copyrights, as all
+code released under the GPL will (theoretically, eventually, should a
+public domain ever be reinstated in the US) revert to the public
+domain as described in the constitution. GPL is, in many ways an
+extension of copyright, albeit one designed to destabilize the
+copyright system.
+
+.. [2]
+There are many flavors of Creative Commons' licenses, which provide
+various freedoms. The Attribution-Share Alike License is most
+analogous to the GFDL/GPL.
+

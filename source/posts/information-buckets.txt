@@ -1,0 +1,57 @@
+===================
+information buckets
+===================
+
+.. post:: 2009-02-06
+   :author: tychoish
+
+`Alex wrote this article about "everything
+buckets" <http://www.al3x.net/2009/01/31/against-everything-buckets.html>`__
+that got me thinking. And you know how dangerous this can be.
+
+I've been thinking about "everything buckets," as "information buckets,"
+and I think this term is a little more apt, given how these systems
+work. Basically the "everything" bucket, is a program that provides a
+database interface on top of our files in the effort of keeping us
+better organized. Features common to the information bucket, genre of
+programs are meta data and tagging interfaces, easier/integrated editing
+environments, more advanced search abilities, and easier input features.
+All wrapped up in one nifty package.
+
+Alex's article makes a rather important critique of these programs, and
+one with which I mostly agree. He argues that the "buckets" themselves
+are non-free/closed source (bad for your data,) and that they abstract
+the organizational problems of organizing files rather than actually
+resolve those problems. Alex suggests that the best way to deal with
+this is to give up learn how to organize files on the file system itself
+and use better tools to store data.
+
+Pragmatically I agree with him: I use structured formats to store most
+of my data, and have a simple but effective means for storing my data.
+It works, and I'm sure if you spend enough time talking about
+information management stuff with me, you'll hear more than you ever
+wanted to know about how I store and use information.
+
+But the "information bucket" approach has a lot going in it's favor, and
+*my approach* isn't a really broad solution. Here's what's good about
+this approach:
+
+1. If you store your data in *one bucket* then there's only one place
+that your data could be, which makes it much easier to find any given
+thing when you're trying to look for something that you just *know*
+you saved *somewhere*.
+
+2. If we're left to our own devices to develop structured data a couple
+of things happen. First is that we don't give it enough structure, so
+we end up with a few hundred files in a directory and no good way to
+make heads or tails of them. Then, to compensate for this, we create
+folders has a way of bookmarking specific bits of data, and end up
+with (potentially) too much structure that doesn't convey productive
+information.
+
+I agree that the OS X information bucket isn't an ideal solution to this
+problem, but I think there is a substantive problem here that need some
+sort of unified solution. I'm not sure what that unified solution is, or
+even if there's going to be a one-size-fits-all response for all users.
+But I think it's a question that we need to begin to think about.
+

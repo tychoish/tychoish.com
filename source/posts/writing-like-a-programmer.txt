@@ -1,0 +1,112 @@
+=========================
+writing like a programmer
+=========================
+
+.. post:: 2009-09-09
+   :author: tychoish
+   :tags: writing, cyborg
+
+I'm unique among my coworkers, in that I'm not a developer/programmer.
+This is a good thing, after all, because I'm the writer and not a
+programmer; but as a "workflow" guy and a student of software
+development one thing that I've been *particularly* struck by since
+taking this job is how well I've been able to collaborate with coworkers
+who come from a completely different background/field and furthermore
+how helpful this as been to my work and development as a writer. This
+post is going to contain some of these lessons and experiences.
+
+For starters, we're all pretty big fans of git. As git is one of the
+most interesting and productive technologies that I use regularly, this
+is really nice. Not only does everyone live in plain text format, but
+they mostly use the same version control system I do. I've definitely
+had jobs and collaborations in the past few years (since I made the
+transition to pure text) where I've had to deal with .doc files, so this
+is a welcome change.
+
+I've long thought that working in plain text format has been a really
+good thing for me as a writer. In a text editor there's only you and the
+text. All of the bullshit about styles and margins and the like that you
+are forced to contend with in "Office" software is a distraction, and so
+by just interacting with text, by exactly (and only) what I write in the
+file, I've been able to concentrate on the production of text, leaving
+only "worthwhile distractions" to the writing process.
+
+Working with programmers, makes this "living in plain text" thing I do,
+not seem quite so weird, and that's a good thing for the collaboration
+but--for me, at least--it represents an old lesson about writing: use
+tools that you're *very* comfortable with, and deal with
+output/production only when you're *very* ready for it. Good lesson. I
+might have taken it to the extreme with the whole emacs thing, but it
+works for me, and I'm very happy with it.
+
+But, using git, *with* other people has been a great lesson, and a great
+experience, and I'm getting the opportunity to use git in new ways,
+which have been instructive for me--both in terms of the technology, but
+also in terms of my writing process.
+
+For instance, when ever I do a ``git pull`` (which asks the server for
+any new published changes and then merges them (often without help from
+me) with my working coppy) and see that a coworker has changed
+something, I tend to inspect the differences (eg. diffs) contained in
+the pull. Each commit (set of changes; indeed each object, but that's
+tangential) in git are assigned a unique identifier (a cryptographic
+hash) and you can, with the following command generate a visual
+representation of the changes between any two objects:
+
+::
+
+git diff  6150726..956BC46
+
+If you have colors turned on in git (to colorize output; only the first
+line affects diffs, but I find the others are nice too):
+
+::
+
+git config --global color.diff auto
+git config --global color.status auto
+git config --global color.branch auto
+
+This generates a nice colorized output and of all the changes between
+the two revisions, or points in history as specified. The diff, is just
+the output of the format that git uses to apply a set of changes to a
+base set of files so it displays a full copy of what the lines used to
+look like at the first point in time, and then new lines which represent
+what the lines look like in the second point in time, as well as
+contextual unchanged lines to anchor the changes to, when needed.
+Colorized the old content are darker (orange?) and the new content is
+brighter (yellow? green?), contextual anchors are in white.
+
+The result is that when you're reviewing edits you can see exactly what
+was changed, and what it "used to be" without needing to manually
+compare new and old files, and also without the risk of getting too
+wound up in the context.
+
+Not only is this the best way I've ever received feedback, in terms of
+ease, of review and clarity (when you can compare new to old, in very
+specific chunks, the rationale for changes is almost always evident),
+but also in what it teaches me about my writing. I can see what works
+and what doesn't work, I can isolate feedback on a specific line from
+feedback on the entire document.
+
+While I've only really been able to do this for a few weeks, not only do
+I think that it's productive in this context, but that I think it might
+be an effective way for people to receive feedback and learn about
+writing. People involved in the polishing of prose (professional
+editors, writers, etc) often have all sorts of ways to trick themselves
+in attending to the mechanics of specific texts (on the scale of 7-10
+words) stuff like reading backwards, reading paragraphs/sentences out of
+order. Reading from beginning to end, but reading sentences backwards,
+and so forth. Reviewing diffs allows you to separate big picture
+concerns about the narrative from structural concerns, and some how the
+lesson--at least for me--works.
+
+Programmers, of course, use diffs regularly to "patch" code and
+communicate changes, and the review patches and diffs are a key part of
+the way programmers collaborate. I wonder if programmers learn by
+reviewing diffs in the same sort of way.
+
+This will probably slowly develop in to a longer series of posts, but I
+think that's enough for you. I have writing to do, after all :)
+
+Cheers!
+

@@ -1,0 +1,163 @@
+=========================================
+Common Lisp, Using ASDF Install With SBCL
+=========================================
+
+.. post:: 2010-03-25
+   :author: tychoish
+   :tags: lisp
+
+So I, like any self respecting geek trying to learn Common Lisp started
+to read the `cliki <http://www.cliki.net/index>`__, which is a wiki that
+supports Common Lisp projects. Nifty right? Right. It's full of stuff,
+and between it and `Common-Lisp.net <http://common-lisp.net/>`__, you
+can be pretty sure that if it exists in the common Lisp world it'll
+appear on one of those two sites. And for every cool lisp thing, rather
+than usable instructions for installing the software it would just say
+"use asdf install and have fun." Which is good if you know what asdf is
+or what it's supposed to, and how to use it.
+
+But, there's a decent chance that you're like me, and were completely
+clueless.
+
+Turns out asdf-install is the common lisp equivalent of the CPAN shell
+or Ruby gems, or the Debian project's dpkg, with some lisp-centric
+variations. This post provides an overview and a "quick start guide" in
+case you want to get started. The directions I provide are in line with
+"the way I like to keep my file system organized (e.g. ``~/``) and
+center around the Arch Linux and SBCL system that I use. However, this
+should hold true (more or less) for any distribution of Linux with SBCL
+and possibly to other lisps. Feel free to add your own modifications in
+comments or `in the lisp page on
+wikish </wikish/ikiwiki.cgi?page=lisp&do=create>`__.
+
+--------------
+
+Begin by getting to a CL REPL. If you have emacs and
+"`slime <http://common-lisp.net/project/slime/>`__\ " installed get to a
+REPL using "``M-x slime``\ " otherwise just type ``sbcl`` at a system
+prompt. Installing slime, emacs, and sbcl are beyond the scope of this
+post, but in general use the packages designed for your platform and you
+should be good. MacPorts for OS X users and the package managers for
+most prevalent Linux-based operating systems should have what you need.
+
+At the REPL do the following:
+
+::
+
+(require 'asdf)
+(require 'asdf-install)
+
+(asdf-install:install '[package-name])
+
+Remember to replace the ``[package-name]`` with the dependency or
+package that you want to install. ``asdf`` will ask you if you want to
+install the package system wide, or in a user-specific user directory. I
+tend to install things in the user-specific directories because it gives
+me a bit more control over things. The user specific directory is
+located in ``~/.sbcl`` if you want to poke around the files yourself.
+Done. That's pretty straight forward. Lets get to the awesome parts.
+
+Make a ``~/lisp`` directory. I keep mine stored in a ``git`` repository.
+I've also kept my ``.sbcl`` directory inside ``~/lisp`` and then created
+a symbolic link so that the computer is none the wiser. Issue the
+following commands to accomplish this:
+
+::
+
+cd ~/
+mkdir -p ~/lisp/systems
+mv .sbcl ~/lisp/
+ln -s ~/lisp/.sbcl
+
+Adjust the path as necessary. Additionally You will also want to create
+a ``~/.sbclrc`` file with some code for ``asdf`` to initialize itself
+when SBCL runs. Do the following:
+
+::
+
+cd ~/
+touch ~/lisp/.sbclrc
+ln -s ~/lisp/.sbclrc
+
+In your ``.sbclrc`` file you'll probably want something like the
+following:
+
+::
+
+(require 'asdf)
+
+(pushnew #p"/usr/share/common-lisp/systems/" asdf:*central-registry* :test #'equal)
+(push #p"/usr/share/common-lisp/systems/" asdf:*central-registry*)
+
+(pushnew #P"/home/[username]/lisp/systems/" asdf:*central-registry* :test #'equal)
+(push #P"/home/[username]/lisp/systems/" asdf:*central-registry*)
+
+This tells SBCL and ``asdf`` where all of the required lisp code is
+located. Alter path's as needed. We've not talked very much about the
+``~/lisp/`` directory yet. Basically it's a directory that serves as a
+playground for all things lisp related. Each "project" or package should
+have it's own directory, which will contain lisp code and an ``.asd``
+file. To make a package accessible via ``asdf`` on your system create a
+symbolic link for these ``.asd`` files in your ``~/lisp/system`` folder.
+Done.
+
+So let's set up a basic "hello world" package that we'll call "reject,"
+just for grins. File one, ``~/lisp/reject/reject.asd``:
+
+::
+
+(defsystem "reject"
+:description "a reject program
+:version "0.1"
+:author "tycho garen"
+:licence "ISC License"
+:depends-on ("cl-ppcre")
+:components ((:file "reject")
+(:file "package")))
+
+The dependency on ``cl-ppcre`` isn't required, but that's how it would
+work if you needed a regex engine for a reject hello world application.
+File two, ``~/lisp/reject/package.lisp``:
+
+::
+
+(defpackage reject (:use :common-lisp))
+
+File three, ``~/lisp/reject/reject.lisp``:
+
+::
+
+(in-package :reject)
+
+(defun hello-world () ()
+(print "Hello World, tycho"))
+
+(hello-world)
+
+Once those fils are saved, issue the following commands to create the
+needed symbolic link:
+
+::
+
+cd ~/lisp/system/
+ln -s ~/lisp/reject/reject.asd
+
+Now, from the REPL issue the following expression to load the package:
+
+::
+
+(asdf:operate 'asdf:load-op 'reject)
+
+And then the following expression to test that it works:
+
+::
+
+(hello-world)
+
+And you're set to go. As to how you'd write or package up something that
+might actually have value? That's a problem I'm still wrapping my head
+around. But that can all happen later.
+
+If I've overlooked something or you think my understanding of something
+here isn't incredibly clear, do be in touch. I hope this helps!
+

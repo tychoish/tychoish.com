@@ -1,0 +1,73 @@
+===========================
+Searching for Known Results
+===========================
+
+.. post:: 2011-02-22
+   :author: tychoish
+   :tags: cyborg
+
+(**Note**: *I was going through some old files earlier this week and
+found a couple of old posts that never made it into the live site. This
+is one of them. I've done a little bit of polishing around the edges,
+but this is as much a post for historical interest as is a reflection of
+the contemporary state of my thought.*)
+
+This post is a follow up to my `not much
+organization </2010/07/notmuch-organization>`__ post, and as part of my
+`general reorganization </2010/07/focus-and-context-switching>`__, I've
+been toying with `anything for
+emacs <http://www.emacswiki.org/emacs/Anything>`__ which is a tool, or
+set of tools, which provide search-based interaction with some tasks
+(opening files, finding files, accessing other information, etc.) in a
+real-time search-based paradigm. Mmmm buzzwords. Think of it as being
+like
+`quicksilver <http://www.blacktree.com/projects/quicksilver.html>`__ or
+`launchy <http://www.launchy.net/index.html>`__, except for emacs. I've
+come to a conclusion, that I think is generalizable, but made
+particularly obvious by this particular problem space.
+
+Search, as an interface to a corpus, is only more effective than other
+organizational methods when you don't know what the location of what
+your looking for is, or don't understand the organizational system that
+governs the collection where your object is located. When you *do* know
+where the needed object is, search may be more cumbersome.
+
+This feels obvious, when put in this way, but is counter to contemporary
+practice. Take the Google search use case where you find websites that
+you already know exist. You'd be surprised at how many people find this
+site by searching for "tychoish" or "tycho garen blog." These are people
+who already know that the site exists and are probably people who have
+visited the site already. Google is forgiving in a way that typing an
+address into a search bar is not.
+
+This works out alright in the end for websites: there's no organizing
+standard for mapping domain names to websites. This is mostly due to the
+fact that you don't, in the present practice, use the domain name system
+in the way that it was originally intended, in that the content of
+domain names are "brands" rather than a domain of systems and services
+described by the content of the domain. In the end this is not a huge
+problem since Google is around to help sort things out.
+
+Similarly "desktop search" tools are helpful when you have a bunch of
+files scattered throughout file systems, with lots of hierarchy
+(directories and sub-directories). When you know where files are
+located, search less helpful. This is not to say that they're
+ineffective: you'll find what you're looking for, it'll just take
+longer.
+
+I think this theory on the diminishing utility of search tool holds up,
+though I don't exactly know how to do the research to further the
+develop the idea in a more concrete direction. Having said that, I think
+the following questions are important.
+
+-  Are there practical ways to organize our files, that don't require
+too much over-thinking before a collection grows unmanageable that
+make "resorting to search" less necessary?
+
+-  Is (or might) building search tools for people who work with a given
+body of data (and therefore are familiar with the data, and are less
+likely to need search) different from building search for people who
+aren't familiar with a given corpus?
+
+Onward and Upward!
+

@@ -1,0 +1,60 @@
+======================
+The Blog, Next in Lisp
+======================
+
+.. post:: 2010-01-07
+   :author: tychoish
+   :tags: lisp, cyborg, sygn
+
+Here's a crazy idea: in addition to posting an RSS feed, say I start
+posting the content of the blog as Common Lisp code. Not, to replace any
+format that I currently publish in, but as an additional output option.
+Entries might look something like this:
+
+::
+
+(tychoish:blog-post
+(tychoish:meta-data
+:title "The Blog, Next in Lisp"
+:author "tycho garen"
+:pubtime #'(format () time-t)
+(tychoish:blog-tags '(lisp cyborg crazy))
+(tychoish:archive-collection '(programing))
+)
+(tychoish:blog-content (markdown)
+"Here's a crazy idea: in addition to posting an RSS feed, say I start
+posting the content of the blog as Common Lisp code. Not, to replace
+any format that I currently publish in, but as an additional output
+option. Entries might look something like this: [...]"
+))
+
+That's pretty. In a lispy story of way. I'm not sure that it's actually
+correct, and it makes calls to functions that don't exist, of course.
+But I hope you can get the gist enough to see where I'm going with this,
+and maybe enough to correct my newbish mistakes.
+
+By my count there needs to be functions for: ``blog-post``,
+``meta-data``, ``blog-tags``, ``blog-content``, and ``markdown``. And of
+course it's missing some notion of what these functions might do. I'm
+not terribly sure what they could do, build a better indexing system for
+the site (lord knows I need it), or more easily create a Lisp-based
+content reader/browser thatls like a feed reader but more in some way
+that I haven't envisioned.
+
+In a lot of ways, this isn't any different from RSS. And it is RSS,
+basically, except you don't have to parse it into some format that your
+programing language can understand, (assuming you're programing with
+Lisp, of course, but you are, aren't you?) because it is your programing
+language. At least in my mind this has a lot in common with the `Sygn
+Project <http://wiki.cyborginstitute.com/sygn/>`__ in that both projects
+focus on providing some sort of loose standard that allow us to share
+and use data openly and freely, using formats that are easy (enough) to
+construct by hand, are human readable, and easy to process and use
+programatically.
+
+In any case, it shouldn't be terribly hard to generate this format, the
+question is: does seeing the data like this present possiblities to
+anyone? And, while we're at it, if anyone wants to help define some of
+the more basic functions, that might be awesome. I look forward to
+hearing from you all?
+

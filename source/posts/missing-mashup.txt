@@ -1,0 +1,34 @@
+==============
+Missing Mashup
+==============
+
+.. post:: 2007-11-02
+   :author: tychoish
+
+So one of the great things about Tumblelogs, particularly the automated
+variety profered by `jaiku <http://www.jaiku.com>`__ and
+`Tumblr <http://www.tumblr.com>`__ is that they're all about collecting
+your wonderings on the internet and presenting those wanderings in a way
+that's entertaining and, well, cool. The problem is that there's
+something missing: the comments that you leave in other people's blogs.
+
+Part of the issue is that it's decentralized. Many people run their own
+blogs on their own servers using their own systems. There are
+conventions but not standards, really.
+
+Collecting blog comments is, I think a better marker of the sort of
+semantic network that makes up the internet, at least a better marker
+than whatever we remember to tag on
+`Del.icio.us <http://del.icio.us/>`__, which for me only seems to happen
+every six weeks, if I'm lucky.
+
+For better or for worse I can't think of any really good way to
+accomplish this in an automated way. Maybe
+`technorati <http://www.technorati.com>`__ could be used as a source for
+this kind of data, but it's beyond me, that's for sure.
+
+Anyway, thats what I was thinking about as I was rolling out of bed,
+time to go angst about the GREs and my future. But first, a hot shower.
+
+Cheers!
+

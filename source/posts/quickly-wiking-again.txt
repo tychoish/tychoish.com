@@ -1,0 +1,73 @@
+====================
+Quickly Wiking Again
+====================
+
+.. post:: 2008-05-08
+   :author: tychoish
+
+I've mentioned before that a lot of my neuroses surrounding productivity
+and creativity get enacted around the organization of my files on the
+computer, right?
+
+Well they do.
+
+I spend, probably way too much time thinking and considering the schemes
+that I name my files, their organization in relation to each other,
+their internal organization, the way their backed up. And so forth. The
+good thing is that I'm usually pretty happy with the way things are
+organized, and I tend to establish pretty flexible systems, but when I'm
+coming back to a couple projects after some time off or I'm restarting
+work on a project (at the beginning of a semester, say) I'm prone to
+clean house--as it were.
+
+As the anxiety surrounding my past couple of months dragged on, and as
+that was wrapped up in a bunch of concerns about the state of my
+projects, I rearranged and reorganized things a few times, and for
+completely different reasons, got a lot of nothing done. Long story
+short, while I don't like the way that the files were back in January, I
+also don't like the way they are now.
+
+The eternal debate is between putting a bunch of stuff (files/ideas) in
+a few baskets (folders/files) or putting a lot of little groups of stuff
+in a lot of baskets (folders/files). The bigger the baskets the more
+complex naming schemes have to be to keep the piles separate, but the
+chance that any one thing is in a specific basket is pretty high. So if
+there's folders for "archives" "current" and "output," and you're
+looking for an old file that you haven't touched in a few weeks, it's
+probably pretty likely that it's in the archives folder. And what you're
+working on is in current. But if you have a lot of little files, say
+you're writing an essay, a knitting pattern, and a play, and all have
+several files, you need a pretty complex naming scheme to keep things
+together. And you have to have this scheme in place early, because
+otherwise, it's a mess. In contrast, if you have 6 (or three) different
+folders (with their own subfolders) for different projects it becomes
+much easier to ignore a file/project if you think "ah, I'm not feeling
+very dramaturgical today." So I hope that sets the stage.
+
+Once upon a time, rather than having files and directories like I do
+now, I would use programs like
+`Voodoopad <http://flyingmeat.com/voodoopad/>`__ which is a great piece
+of software, and I used it quite successfully for a long time. The end
+result was that I wasn't really using it like you're supposed to, and it
+magnified this problem, because moving pages around in the VP was more
+difficult than moving the files around. And all the other wiki programs
+seemed less suitable (I really hate web apps, don't get me started.) But
+as I've been writing here recently, I think I'm ready for that kind of
+approach again.
+
+So I think I've discovered the best of both worlds:
+`ikiwiki <http://ikiwiki.info/>`__. This is a program that reads files
+in the format that I like most (plain text, markdown) and then turns it
+into a blog. It basically works off of a flat file system except(!) it
+uses a couple of nifty CGI wrappers (on the webserver and as a
+post-commit hook) to use a versioning system like Subversion or Git, to
+keep track of everything. Works like a dream, and there are tons of
+plugins that work pretty well. I have it installed on my own machine,
+but I expect that once `Joe <http://josephspiros.com/>`__ and I get some
+stuff nailed down, I'll have a copy of it running here for some
+community editing and more of my rough thoughts.
+
+Here's hoping it all works out, I'll keep you all posted.
+
+Onward and Upward!
+

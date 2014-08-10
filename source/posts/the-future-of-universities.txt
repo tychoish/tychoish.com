@@ -1,0 +1,93 @@
+==========================
+the future of universities
+==========================
+
+.. post:: 2009-06-12
+   :author: tychoish
+   :tags: academia, economics, futurism
+
+One element that has been largely missing from my ongoing rambling
+analysis of economies, corporations, co-ops, and institutions has been
+higher education and universities. Of course Universities are
+institutions, and function in many ways like `large
+corporations <http://tychoish.com/rhizome/the-evil-corporations>`__,
+but, nostalgia notwithstanding, I don't think it's really possible to
+exempt Universities or dismiss them from this conversation.
+
+Oh, and, there was this rather interesting--but remarkably
+mundane--\ `article that I clipped
+recently <http://www.deseretnews.com/article/print/705298649/Universities-will-be-irrelevant-by-2020-Y-professor-says.html>`__
+about that addressed where universities are "going" in the next decade
+or two. I say mundane, because I think the "look there's new technology
+that's changing the rules game" is crappy futurism, and really fails to
+get at the core of what kinds of developments we may expect to see in
+the coming years.
+
+Nevertheless... Shall we begin? I think so:
+
+-  The expansion of university in the last 60 years, or so, has been
+fueled by the GI-Bill and the expansion of the student-loan industry.
+With the "population bubble" changing, and the credit market
+changing, universities will have to change. How they change is of
+course up in the air.
+
+-  There aren't many alternatives to "liberal arts/general education"
+post-secondary education for people who don't want, need, or have the
+preparation for that kind of education at age 18. While I'm a big
+proponent (and product of) a liberal arts education, there are many
+paths to becoming a well rounded and well educated adult, and they
+don't all lead through traditional-four-year college educations (or
+equivalents, particularly at age 18.)
+
+-  Technology is changing higher education and scholarship, already,
+with all likelihood faster than technology has been and is changing
+other aspects of our culture (publishing, media production, civic
+engagement, etc.). Like all of these developments of culture,
+however, the changes in higher education are probably not as
+revolutionary as the article suggests.
+
+-  There will probably always be a way in which degree granting
+institutions will be a "useful" part of our society, but I think "The
+College," will probably change significantly, but I think forthcoming
+changes probably have less to do with education and the classroom,
+and more to do with the evolving role of the faculty.
+
+-  As part of the decline of tenure-systems, I expect that eventually
+we'll see a greater separation (but not total disconnect) between the
+institutions which employ and sponsor scholarship, and the
+institutions that educate students.
+
+-  It strikes me that most of the systems that universities use to
+convey education online (Blackboard, moodle, etc.,) are hopelessly
+flawed. Either by virtue of being difficult and "gawky" to use, or
+because they're proprietary systems, or that they're not designed for
+the task at hand, all of the systems that I'm aware of are as much
+roadblocks to the adoption of new technology in education as anything
+else.
+
+-  Although quality information (effectively presented, even) is
+increasingly available online for free, what makes this information
+valuable in the university setting, including interactivity, feedback
+on progress, individual attention, validation and certification of
+mastery, are all of the things that universities (particularly
+"research"-grade institutions) perform least successfully at.
+
+-  We've been seeing research and popular press stuff on the phenomena
+of "prolonged adolescence," where young people tend to have a period
+of several years post-graduation where they have to figure out "what
+next," sometimes there's graduate school, sometimes there's odd jobs.
+I've become convinced that in an effort to help fill the gap between
+"vocational education" and "liberal arts/gen ed." we've gotten to the
+point where we ask people who are 18 (and don't have a clue what they
+want to do with their lives, for the most part) to make decisions
+about their careers that are pretty absurd. Other kinds of
+educational options should exist, that might help resolve this issue.
+
+Interestingly these thoughts didn't have very much to do with
+technology. I guess I mostly feel that the changes in technology are
+secondary to the larger economic forces likely to affect universities in
+the coming years. `Unless the singularity comes
+first <http://tychoish.com/rhizome/the-dark-singularity/>`__.
+
+Your thoughts, as always, are more than welcome.
+

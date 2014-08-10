@@ -1,0 +1,113 @@
+======
+Ex-Mac
+======
+
+.. post:: 2008-12-12
+   :author: tychoish
+
+The Linux switch continues pretty well. There's not a lot new to report,
+except that I've not really used my mac very much in a week, and while I
+*could* easily set things back up and roll right along with it, there'd
+be a lot of stuff to sync with when I get back to it, and I don't have
+any really compelling reason to do that for day-to-day tasks. Lets go
+through and see how things have shaken out:
+
+RSS Reading
+-----------
+
+I've basically just given in and started using Google Reader. I don't
+think this is the final resolution to this problem, but it works quite
+well and I'm happy with it for the time being. I think
+`newsbeuter <http://www.newsbeuter.org/>`__ works with bloglines, and
+that might be the best solution but I haven't made the jump yet. After
+years of syncing with the `newsgator
+service <http://www.newsgator.com/>`__ and NetNewsWire on my mac,
+downloading on my own seems much less ideal. But google isn't evil...
+yet, and so I'm very glad for reader.
+
+TextMate and Text Editing
+-------------------------
+
+This was one of my largest concerns when I thought about switching. I
+was really attached to TextMate, and it was comfortable and very mac-y.
+While I had some trouble when I was using vim the, TextMate to emacs
+transition is pretty smooth, though I have a lot of emacs-ground to
+cover, all of my basic text-editing tasks are taken care of.
+
+What I learned in this process, is that my text-editing requirements,
+which I thought were pretty intense, are actually reasonably simplistic.
+I've not yet mastered really powerful find-and-replaces in emacs (I tend
+to use vim for this, though I'm sure I'll be able to give this up at
+some point), or multiple file find-and-replaces (my gut says that I
+should be able to use ``sed`` but, I've never had much luck with
+``sed.``
+
+Learning this about my process has been helpful, and I think I'm able to
+concentrate better in my Linux environment than I am in OS X any more.
+Powerful lessons.
+
+IM Clients
+----------
+
+Interestingly, the more I used Pidgin, the more I realized that the
+inconsistencies in the way the buddy list was maintained, and that I
+didn't like in Pidgin existed in Adium as well. I just hadn't noticed
+them: this is a great testament to the UI design of Adium. In the end,
+Pidgin works pretty well and I'm reasonably pleased with it. As near as
+I can tell I don't have a lot of options because I *need* the kind of
+multi-account/multi-protocol support that libpurple-based IM clients
+have.
+
+I've tried running `BitlBee <http://www.bitlbee.org/>`__ locally, but I
+found the buddylist/roster hard to track in irssi (my IRC client of
+choice), who knows. If I ever switch from Pidgin, something like
+`mcabber <http://www.lilotux.net/~mikael/mcabber/>`__ (if I can convince
+enough of my friends to reliably be accessible via XMPP), or BitlBee.
+But for the moment, I'm reasonably happy about this.
+
+Web Development
+---------------
+
+Right after I got my Linux machine, I started work on a new
+web-development project for a friend, and I realized that all the things
+I was used to using (FTP clients, etc) weren't setup on the linux
+machine. And my web developent style tends to be pretty chaotic/frenzied
+and "test driven" (ie: "hey, lets see what this does! (pause) crap! what
+about this? (pause) crap! etc.") so I thought it would be a royal mess.
+
+Turns out it wasn't. I started using gFTP which is nice. For my own
+servers I use some ``SCP`` based shortcuts I've written up for myself
+and I SSH into the server and edit things directly there, but for some
+things on this project having something graphical was a very good thing.
+It seemed to work. I'm not complaining.
+
+Blog Posting
+------------
+
+So I haven't found a really good XML-RPC client for blog posting on
+Linux to make up for the TextMate blogging bundle and
+`MarsEdit <http://www.red-sweater.com/marsedit/>`__ options. While I'm
+thinking about trying out some of the blog posting software for gnome
+(to revive the "coda" sub-blog). I've switched to posting using the web
+interface.
+
+This is good, because I can automate blog posting much easier, and it
+means my work schedule in the morning doesn't revolve around getting
+things posted. And the truth is that the WordPress interface is pretty
+good. So in someways maybe it's good that I'm doing things this way.
+
+Music Syncing
+-------------
+
+Yeah, I'm still doing this on the mac, such as I sync my iPod mostly I
+just listen to music on my ipod, and tend to sync about every other time
+I go out of town. I'm thinking about switching to listening to Podcasts
+on my phone, and if I do that it wouldn't be a huge issue to move the
+music to the Linux box after the initial import. But I'm in no
+particular rush, given how often I sync my iPod, so this might linger
+for a while.
+
+Does this mean that I'm an ex-mac user?
+
+Onward and Upward!
+

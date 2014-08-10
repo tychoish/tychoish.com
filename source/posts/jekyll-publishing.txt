@@ -1,0 +1,203 @@
+=================
+Jekyll Publishing
+=================
+
+.. post:: 2010-06-29
+   :author: tychoish
+   :tags: software, code, automation
+
+I wrote about my efforts to `automate my publishing
+workflow <http://tychoish.com/rhizome/jekyll-and-automation/>`__ a
+couple of weeks ago, (egad!) and I wanted to follow that up with a
+somewhat more useful elucidation of how all of the gears work around
+here.
+
+At first I had this horrible scheme setup that dependent on regular
+builds triggered by cron, which is a functional, if inelegant solution.
+There's a lot of tasks that you can give the appearance of "real time,"
+responsiveness by scheduling more brute tasks regularly enough. The
+truth is, however, that its not quite the same, and I knew that there
+was a better way.
+
+Basically the "right way" to solve this problem is to use the "hooks"
+provided by the `git
+repositories <http://git.cyborginstitute.com/?p=tychoish.com.git;a=summary>`__
+that I use to store the source of the website. Hooks, in this context
+refer to a number of scripts which are optionally run before or after
+various operations in the repositories that allow you to attach actions
+to the operations you perform on your git repositories. In effect, you
+can say "when I ``git push`` do these other things" or "before I
+``git commit`` check for these conditions, and if they're not met,
+reject the commit" and so forth. The possibilities can be a bit
+staggering.
+
+In this case what happen is: I commit to the `tychoish.com
+repositories <http://git.cyborginstitute.com/?p=tychoish.com.git;a=summary>`__
+a script that synchronizes the appropriate local packages runs and
+publishes changes to the server. It then sends me an xmpp message saying
+that this operation is in progress. This runs as the ``post-commit``
+hook, and for smaller sites could simply be
+"``git push origin master``\ ". Because tychoish is a large site, and I
+don't want to be rebuilding it constantly, I do the following:
+
+::
+
+#!/bin/bash
+
+# This script is meant to be run in a cron job to perform a rebuilding
+# of the slim contents of a jekyll site.
+#
+# This script can be run several times an hour to greatly simplify the
+# publishing routine of a jekyll site.
+
+cd ~/sites/tychoish.com/
+
+# Saving and Fetching Remote Updates from tychoish.com
+git pull >/dev/null &&
+
+# Local Adding and Committing
+git checkout master >/dev/null 2>&1
+git add .
+git commit -a -q -m "$HOSTNAME: changes prior to an  slim rebuild"  >/dev/null 2>
+
+# Local "full-build" Branch Mangling
+git checkout full-build >/dev/null 2>&1 &&
+git merge master &&
+
+# Local "slim-bild" Branch Magling and Publishing
+git checkout slim-build >/dev/null 2>&1 &&
+git merge master &&
+git checkout master >/dev/null 2>&1 &
+git push --all
+
+# echo done
+
+Then on the server, once the copy of the repo on the server is current
+with the changes published to it (i.e. the ``post-update`` hook), the
+following code is run:
+
+::
+
+#!/bin/bash
+#
+# An example hook script to prepare a packed repository for use over
+# dumb transports.
+#
+# To enable this hook, make this file executable by "chmod +x post-update".
+
+unset GIT_DIR
+unset GIT_WORKING_TREE
+
+export GIT_DIR
+export GIT_WORKING_TREE
+
+cd /path/to/build/tychoish.com
+git pull origin;
+
+/path/to/scripts/jekyll-rebuild-tychoish-auto-slim &
+
+exit
+
+When the ``post-update`` hook runs, in runs in the context of the
+repository that you just pushed to, and unless you do the magic
+(technical term, it seems) the ``GIT_DIR`` and ``GIT_WORKING_TREE``
+variables are stuck in the environment and the commands you run fail. So
+basically this is a fancy ``git pull``, in a third repository (the one
+that the site is built from.) The script
+``jekyll-rebuild-tychoish-auto-slim`` looks like this:
+
+::
+
+#!/bin/bash
+# to be run on the server
+
+# setting the variables
+SRCDIR=/path/to/build/tychoish.com/
+DSTDIR=/path/to/public/tychoish/
+SITENAME=tychoish
+BUILDTYPE=slim
+DEFAULTBUILD=slim
+
+build-site(){
+cd ${SRCDIR}
+git checkout ${BUILDTYPE}-build >/dev/null 2>&1
+git pull source >/dev/null 2>&1
+
+/var/lib/gems/1.8/bin/jekyll ${SRCDIR} ${DSTDIR} >/dev/null 2>&1
+echo \<jekyll\> completed \*${BUILDTYPE}\* build of ${SITENAME} | xmppipe garen@tychoish.com
+
+git checkout ${DEFAULTBUILD}-build >/dev/null 2>&1
+}
+
+build-site;
+
+This sends me an xmpp message when the build has completed. And does the
+needful site rebuilding. The ``xmppipe`` command I use is really the
+following script:
+
+::
+
+#!/usr/bin/perl
+# pipes standard in to an xmpp message, sent to the JIDs on the commandline
+#
+# usage: bash$ `echo "message body" | xmppipe garen@tychoish.com
+#
+# code shamelessly stolen from:
+# http://stackoverflow.com/questions/170503/commandline-jabber-client/170564#170564
+
+use strict;
+use warnings;
+
+use Net::Jabber qw(Client);
+
+my $server = "tychoish.com";
+my $port = "5222";
+my $username = "bot";
+my $password = ";
+my $resource = "xmppipe";
+my @recipients = @ARGV;
+
+my $clnt = new Net::Jabber::Client;
+
+my $status = $clnt->Connect(hostname=>$server, port=>$port);
+
+if (!defined($status)) {
+die "Jabber connect error ($!)\n";
+}
+my @result = $clnt->AuthSend(username=>$username,
+password=>$password,
+resource=>$resource);
+
+if ($result[0] ne "ok") {
+die "Jabber auth error: @result\n";
+}
+
+my $body = '';
+while (<STDIN>) {
+$body .= $_;
+}
+chomp($body);
+
+foreach my $to (@recipients) {
+$clnt->MessageSend(to=>$to,
+subject=>",
+body=>$body,
+type=>"chat",
+priority=>10);
+}
+
+$clnt->Disconnect();
+
+Mark the above as executable and put it in your path somewhere. You'll
+want to install the ``Net::Jabber`` Perl module, if you haven't already.
+
+The one final note. If you're using a tool like
+`gitosis <http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way>`__
+to manage your git repositories, all of the hooks will be executed by
+the gitosis user. This means that this user will need to have write
+access the "build" copy of the repository and the public directory as
+well. You may be able to finesse this with the +s "switch uid" bit, or
+some clever use of the gitosis user group.
+
+The End.
+

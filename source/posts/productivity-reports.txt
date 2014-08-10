@@ -1,0 +1,58 @@
+====================
+Productivity Reports
+====================
+
+.. post:: 2007-05-23
+   :author: tychoish
+
+I'm somewhat hesitant to write a post about this new habit I'm forming,
+because I kind of like this habit and usually no sooner do I write about
+some productivity related topic, as I decide to completely reorganize my
+process. Here's what I'm doing:
+
+I've started keeping a daily archive of what I get done/finish/do in any
+given day. This includes information about everything from knitting, to
+the number of words I write on a project, to what I read. There are a
+couple of ideas at play in this:
+
+1. *I do more things than I give myself credit for.* Even when I'm not
+doing things that need getting done in the strictest sense, its not
+like I'm not doing **anything**. I've found it helpful to keep track
+of these things, and give my self credit for all the things I do, not
+just those things that I think need doing before I do them.
+2. *Knowing what you've done is useful for project planning.* I must
+admit, that when I do something on my To-do list I delete it, rather
+than strike it out or move it to a new list. This additional helps me
+stay aware of what I'm doing through out the day, and keep track of
+time.
+3. *Allows for more proper reviews.* The only way to do a proper review
+is to collect data in the moment, rather than in retrospect, where
+memory and mood can play havoc on an accurate view of the past. I
+almost always feel like I've gotten more done after reading a list
+than I would otherwise.
+
+I maintain this list using a `markdown
+template <http://tychoish.com/files/reports.txt>`__ that I keep in my
+`Quicksilver Template
+Folder <http://www.tuaw.com/2007/03/26/quicksilver-tip-for-switchers-make-new-file/>`__.
+I append new accomplishments using
+`Quicksilver <http://quiksilver.blacktree.com/>`__\  [1]_ or a nifty
+shell script that I wrote, and keep an eye on the list using
+`GeekTool <http://projects.tynsoe.org/en/geektool/>`__ (It shows up on
+my desktop right next two the todo list), and I have to say that it's
+pretty darn nifty. I keep tweaking the template every now and then as it
+suits. Should I ever need to produce a report, or whatever, I can simply
+combine the files that I need and run it through a
+`markdown <http://daringfireball.net/projects/markdown/>`__ converter
+and have a great looking `XHTML <http://www.w3.org/TR/xhtml1/>`__ file.
+
+I'm a big fan, and maybe you will find this kind of a list helpful in
+your day-to-day organization.
+
+cheers, tycho
+
+.. [1]
+I begin every line with a "-" which markdown uses to make a bulleted
+list. Except I never complie it using markdown, so it's
+theoretical/make believe at this point.
+

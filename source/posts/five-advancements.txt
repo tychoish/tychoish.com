@@ -1,0 +1,83 @@
+=================
+five advancements
+=================
+
+.. post:: 2009-09-23
+   :author: tychoish
+   :tags: lists
+
+1. For many months, I've been using my Blackberry as a music player for
+the purpose of listening to podcasts while I walk/drive. I've
+recently switched to using an iPod Touch (first gen; obtained as part
+of a promotion) that I've been syncing (for podcasts) to my work
+computer (which is a mac). As nice as "convergence was," and as much
+as this little iPod is "overkill" for what I'm doing with it, I think
+this is a step in the right direction. So, dedicated media players
+here I come.
+
+2. In college I'd drink tea pretty much all day--even into the
+evening--and it didn't really affect my ability to fall asleep when
+tired. Since graduating I'd pretty much scaled back on the caff, to
+the point where I'd avoid drinking tea after about 6pm. In the last
+couple of weeks, I've started streaching this downward, and making a
+big pot of tea in the evening and drinking it pretty much till it
+runs out, even if that means have a pipping hot cup of caff at 10pm.
+(mmmm.) The effect seems to be the same no matter what: I fall asleep
+at 11:30 or midnight-ish; but *until then* I'm a little more
+productive if I'm working on a cup of tea. Often without tea, I have
+the ability to read about a page in a book before falling asleep;
+with tea, I can read something of consequence before passing out.
+Again, I'm not actually staying up later, I'm just more
+productive/alert with the time I have. Also, I tend to have my first
+cup of tea at the office, and I don't really feel like I need to to
+*wake up* as much as I need it to *stay alert*. So, there you go.
+
+3. I've had technology angst for a while. I miss having a single,
+portable machine that I can use for 98% of all my computing tasks. I
+have this awesome little laptop, but the screen's resolution is
+1024x786 and at my (old-normal) font size that was simply too small
+to really do anything except work in full screen mode. Divide up the
+screen at all and suddenly you have to scroll horizontally for
+everything. It's a shame, because I love the portability of this
+computer, and it's built like a rock, and except for this trivial
+little thing, it works. After much dithering about on the subject
+(and spec-ing out the ideal laptop, which I do hope to own some day,)
+I had the brilliant thought (mid-post draft,) of setting to font size
+in emacs (my editor) to... I think the technical term is "insanely
+fucking small," and we'll see how that works. It's a bit too small
+for comfortable/close reading, but it's fine for moment to moment
+work, so I've set up some key-bindings in emacs (if you must know:
+"C-c f s" and "C-c f b") to switch between font sizes, along with
+some conditional statements in my init file to load big fonts on big
+screens and small fonts on small screens, and we'll see how it goes.
+I'll post the code soon. The sad thing is aside from the screen issue
+and the fact that my desk doesn't work well for laptops, I've
+basically already *made* the switch.
+
+4. I've started to read `Jonathan Straham's "The New Space Opera: 2"
+Anthology <http://www.amazon.com/New-Space-Opera-All-new-adventure/dp/0061562351/tychoish-20/>`__,
+and I have to say that it's *already* better than the first one. I
+liked the first one, a lot, enough to buy the second, but it was
+reflexive and subtle and understated in a way that this one is big
+and exciting and energetic. If these are even acceptable terms for
+the description of a collection of short stories. Books like this
+have left me convinced of the fact that there's a future in short
+fiction, and that the magazine isn't really the ideal format for the
+consumption of short fiction. Where I think there are some logistical
+problems with the publication of web-zines, in the "fiction
+periodical" model, doing one or two-off anthologies in the
+Internet-age has potential I think. Another project for Critical
+Futures, I suspect. (*Also, space opera rocks.*)
+
+5. (*Messages from the past:*) I'm going to New York City (first time
+since I was a kid!) this weekend with some friends to do an
+all-day-shape-note singing. This is going to rock. I like small
+regular singings a lot, don't get me wrong, but I often feel like it
+takes me a few hours to get to the point where I can really *feel*
+the harmonies and chords, and most local signings are almost over by
+that point. This should be fun. (*Summary: It was awesome, and I'll
+do it justice later, but I think getting into this singing thing
+counts as an advancement without question.*)
+
+
+

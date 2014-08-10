@@ -1,0 +1,61 @@
+=====================================
+Cyborg Analysis and Technology Policy
+=====================================
+
+.. post:: 2011-07-27
+   :author: tychoish
+   :tags: cyborg
+
+I want to put together a series of posts about [[cyborg]] perspectives
+on industrial IT practices. This post introduces that series.
+
+The "cyborg analysis," makes difficult to ignore that most problems with
+technology, even seemingly outright "technological problems" are better
+as understood as problems at the intersection of humans and technology.
+Ignoring either people or technology, leads to imperfect analysis.
+While, false divides between "problems with users," and "problems with
+technology" aren't helpful either, this might be a conceptually useful
+exercise.
+
+I've been thinking that many of the seemingly technological problems of
+IT policy are really not technological problems *at all*, and are better
+thought of as "people problems." I'm thinking of "problems" like file
+permissions, access control, group and user management, desktop
+management, and data organization. Obviously, some problems, like
+workflow and tool optimization, are seen human problems while others are
+often targeted as technological problems.
+
+I think of *human solutions* as those responses to technology issues
+that address misunderstanding by providing training and education to
+users. There's also a class of automations that make these human
+solutions easier to provide: for example, test harnesses of various
+sorts, code/text validation, and some template systems. *Technological
+solutions*, by contrast are those that, through the use of code, enforce
+best practices and business objectives: web filters, access management
+systems, and anything that are designed to "break" if business policy
+are not satisfied.
+
+The divides between solutions are not natural or clear, just as problem
+domains in IT are rarely neatly or easily "silo'd." There is often a
+fine line between writing code to automate a process to make users' work
+easier and writing code to control users and save users from themselves.
+
+This post, and the series that follows it, are thus to explore this
+tension, and what I suspect are under-realized opportunities for
+human-solutions. I would like to think that problem domains in the
+larger IT world, particularly with thorny issues that require lots of
+code, may be better addressed with more human-centric solutions. Current
+thoughts revolve around:
+
+-  The practice and method of software design.
+
+-  The development and use of software developed for "internal use,"
+rather than as a software product.
+
+-  Refraining the discussion about digital security to address it from a
+human angle rather than from a purely technological angle.
+
+As always, I'd like to invite [[discussion\|discourse]]. For the series,
+I'd like to track it's progress on the
+[[cyborg]]/[[cyborg/human-solution]] page.
+

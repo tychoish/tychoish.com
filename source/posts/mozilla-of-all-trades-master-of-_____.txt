@@ -1,0 +1,59 @@
+=====================
+Mozilla of All Trades
+=====================
+
+.. post:: 2008-10-27
+   :author: tychoish
+
+In my `post about calendar
+programs <http://tychoish.com/rhizome/calendar-ing/>`__ a number of
+`great <http://www.thelinuxblog.com/>`__
+`readers <http://ciarang.com/>`__ suggested that I should try
+"Lightning" or "Sunbird" which are part of the `Mozilla Calendar
+Project <http://www.mozilla.org/projects/calendar/>`__. Calendars from
+the people who bring us Firefox and Thunderbird.
+
+I didn't include these programs in my initial review for a couple of
+reasons. The first, is that I downloaded an early beta of Sunbird, and
+was (unsurprisingly) rough, and I didn't see that there was anything
+particularly earth-shattering. The second is that I find the Mozilla
+applications to be remarkably awkward and borderline unusable.
+
+So I've begun to to download and test Sunbird, in an attempt to be
+complete and because I suspect that the quality of the application has
+improved in the past couple of years. I don't use Thunderbird because of
+my aversion to Mozilla and XUL (and `mutt sucks
+less <http://www.mutt.org/>`__), which nixed the lightening option.
+
+And now on to the interesting part, why I hate Mozilla apps. They all
+suck. Which is to say that they all look the same, and have this
+shrink-wrap feel that feels awkward in almost every operating
+system/environment. This means that everything looks ugly and
+functionality is never where you'd expect it to be. This might be a good
+thing if you use a bunch of different operating systems, and want your
+apps to be consistent cross-platform, but generally I think this is
+heavy handed and it means that your "cross platform" apps don't work
+like any of the other "platform apps."
+
+Now of course web browsers and email clients are pretty straightforward
+and there isn't a lot learning curve, but I think usability and
+ergonomics in contemporary desktop computing comes down to seconds of
+frustration and confusion, and not upfront learning curves. At least for
+me.
+
+To be fair I use Firefox without complaint on my linux environments and
+I think they work great for that, and I think the real test of Sunbird
+will be how well the experience is on a linux system. I'm not sure if
+this is a product of the fact that everything seems a little disjointed
+about user interface on linux. In this direction I find it particularly
+annoying that Mozilla apps don't work with the "Services" menu on OS X.
+
+I've found this annoyance factor with any Mozilla product I've used in
+recent years. I've always blamed it on XUL (the Mozilla interface design
+methodology), and the idea that Mozilla seems to place a greater
+emphasis quantity of users than specific quality. Am I the only one who
+feels this way? Do other people really like the Mozilla apps' user
+interface? Why?/Why not?
+
+Cheers!
+

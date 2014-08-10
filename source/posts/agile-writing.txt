@@ -1,0 +1,115 @@
+=============
+Agile Writing
+=============
+
+.. post:: 2009-03-06
+   :author: tychoish
+   :tags: writing, open-source
+
+Lets put this in the category of "tycho writing about software
+development in an attempt to draw a conclusion beyond software
+development." Often I find this to be an annoying impulse as, software
+can be meaningful in and of itself and it's practices aren't always
+incredibly relevant. On the other hand, most of my work is (at least
+theoretically) not software, so I find myself doing this kind of thing
+more than I'd really like. So be it.
+
+Agile Development refers to a set of practices that encourages
+developers to review their progress regularly, to write code in testable
+units, to consult with the client regularly to allow the client to lead
+the design process to reflect the reality that requirements, contexts,
+and possibilities change as a result of the ongoing development process.
+Extreme Programing (XP), is probably the most famous subset of Agile
+Development, and I think both are interesting (and popular) because they
+promote a kind of flexibility and respond to (and draws from) the
+creative impulse. XP takes the iterative/test driven Agile philosophy
+and does "wacky" things like "pair programming" where two developers
+take turns typing and monitoring the coding process. I've of course, not
+really, worked in these situations, but I am fascinated by the
+possibilities.
+
+I often think about the implications of these kinds of methodologies on
+the work I do (writing). I have yet to be convinced that this is an
+entirely productive impulse, but that never stops me.
+
+The key feature of Agile development--to my mind--is that it's built
+around multiple iterations. Rather than concentrating on getting all of
+the details right, the goal is to get *something* working, and then
+expand/refactor/revise and get review on all these iterations, so that
+through successive iteration you have a solid, relevant, and sturdy
+result. Once you have iterations, getting customer review is easier
+(because there's *something* to evaluate), testing is easier,
+collaboration is easier.
+
+Writers already have a sense of drafts, and as such *this is the way we
+always work.* In another sense, we don't seek feedback on most drafts,
+and so while we might revise in a couple of "lumps" we editorial
+collaboration is pretty minimal during the writing process. That's not a
+bad thing, just a commentary on the analogy. Writing collaboratively is
+also *damned hard*, and so collaborations are more often based on
+structural divisions (eg. "you write parts one, four, five, and seven;
+and I'll write two, three, six, and eight,") or in larger groups,
+require dedicated editorial nodes/contributors to organize logistics.
+
+True story: I wrote an academic paper with someones (we lived next door
+to each other at the time) and as I remember, we tended to do something
+very much like "pair programming," I'd drive (type) and she'd navigate
+(read over my shoulder,) or she'd type and I'd pace, though I think I
+tended toward the typing roll for any number of reasons. It worked, but
+we had (and have) such different approaches to writing, thinking about
+that sort of boggles.
+
+In another sense, posting rough drafts of works on the Internet
+(`critical futures <http://criticalfutures.com>`__; `Cory Doctorow's
+Podcast <http://www.craphound.com/podcast/>`__; `sam starbuck's
+projects <http://coperbadge.livejournal.com/>`__; etc.) is another way
+to get the kind of on going feedback that features so prominently in the
+Agile/XP methodologies.
+
+--------------
+
+The truth is that I had expected to talk about how programming and
+writing are fundamentally different, and how while Agile and XP are
+really powerful ways to think about the creation of programs, the
+creation of novels, stories, and essays can't work that way.
+
+While I was able to find some parallels, and examples to the contrary,
+there are so many features of the way that I write, the way that I
+create, that run quite counter to the "agile way:"
+
+-  I don't do iterative drafting very well. I write something, I run
+through it twice, someone else gives feedback, I run through it once
+more, and it's either good enough to do something with at that point,
+or I abandon it.
+
+-  We mysticsize the creative process, particularly for "artistic"
+creation. I don't particularly think of myself as an artist, but I
+think regardless, because we're not very good at articulating our
+creative process (and generally unwilling to change the way we work,
+much), there isn't a lot of willingness to change how we write.
+
+-  Collaboration is a challenge because of the aforementioned mysticism,
+and because individuals are capable of (in most cases) writing the
+long-forms by themselves (novels, screenplays) collaboration isn't a
+vital necessity. The counter-example would be what happens in the
+writing rooms of television shows, I suppose, though I haven't worked
+in these situations. Not that I'd be opposed, if someone wanted to
+hire me to do that ;).
+
+-  Writers make their money (at least as we're taught to think) by
+selling publication rights. Iterative work requires frequent
+publication, which discourages working in this way. Obviously there
+are some other business models, and other kinds of writing, but
+generally speaking...
+
+Writing this has inspired me to move more in the direction of posting to
+Critical Futures again, and to work harder on collaboration projects.
+I've been stuck in my own writing, as life and an iterative hump have
+combined to really take me out of the game for a while. While I doubt
+any change in methodology could really make me slightly less *linear*,
+it is helpful to think about process in new and different ways. In point
+of fact, everyone works eclectically anyway, but just thinking about how
+we/I work has some worth. That much I'm sure.
+
+Onward and Upward!
+

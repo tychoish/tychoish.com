@@ -1,0 +1,126 @@
+=======================
+Breakout: Messages Lost
+=======================
+
+.. post:: 2008-02-18
+   :author: tychoish
+
+Ok, here it is: the long awaited first piece from my little fiction
+project. I'm not sure how well it will go over in this form, but it's
+worth a shot. Many of the names and important words will be linked, in
+the final version, to pages that elaborate and explain characters. Also
+there are a couple of links that go nowhere in this page, will be linked
+to other stories and pieces. Including the "letter," which is mentioned.
+
+This snip, is set in the late 24th century, aboard an explorer/survey
+ship bound for a nearby star system at very fast (sub-light) speeds.
+
+It's all below the fold...
+
+.. raw:: html
+
+<!--more-->
+
+"Oh hey, what brings you this way, Stu?"
+
+"You know, I was just wrapped up in what I was doing and had to come
+over and check on you, because I didn't want to get too excited and blow
+something up." Stuart was grinning, expecting Frank to laugh at the
+joke. He didn't.
+
+"Right," Frank said. Distracted, he turned back and began to sift
+through another digital stack of files. "You know, if they didn't write
+this system so you could make data piles, I wouldn't have this problem."
+
+"What's this 'they' that you speak of. You wrote it--in spite of my
+warnings--didn't you?"
+
+"Tertiary, Stuart." Frank sounded grumpy.
+
+"Whatever. I'm not kidding, you seem embarrassed or shaken. You
+alright?"
+
+"Yeah, yeah, sorry, I was just going through my files and I found a
+letter to my sister that I wrote right before the mission started. Never
+sent it."
+
+"You don't talk much of her. What'd it say?"
+
+"Not important." Frank was quick shut down that direction of
+conversation. "We were always really different. She had settled down on
+one of the Io outposts, she has a family and a job as a school teacher.
+We didn't talk much. Ever really, I guess,"
+
+"Io? Really? That takes guts these days. You grew up on Europa?"
+
+"Mostly. Dad took us to Titan pretty regularly for a few years there,
+and there were, of course, school trips to the other Jovian outposts. I
+liked Titan and traveling more more than Kate ever did, and Io is hard,
+but home is home it seems: for some people at least."
+
+"I suppose it is," Stuart said. "You going to send `the letter <#>`__
+now?"
+
+"I don't think so, I mean, I don't really know how it would go over with
+her, after this long, hell with how things were going when we left, who
+knows if Io still has an outpost? And what' she'd be pushing 60? by
+now?"
+
+"No way. She can't be that much older than you, and we haven't been gone
+that long," Stuart said. "Did you even pay attention during the
+relativistic physics class during the training?"
+
+"You know the answer to that one. If the number matters that much then
+you do the math. The truth is I forgot about it until now, and it
+doesn't bug me much. Maybe that's what's getting to me. At any rate, no
+matter what year it is out there, if I did send it she'll have had a lot
+more life between her and when I wrote it. If she got it."
+
+"Fine, fine I just don't want you to regret it later Frank."
+
+"Thanks. I'm fairly content with what happened before we left, but
+sometimes its too easy to forget that were so far out and going so fast.
+When I do remember, it's kind of jarring. Creapy that it can still
+happen. 'Suppose it's one of these things about being on an `Explorer
+Ship <#>`__ that you just have to talk about, Right?"
+
+"Right." Stuart said. "We all know about that."
+
+"So, hows that 'project' of yours coming along?" Stuart asked, after a
+moment.
+
+"You know, slowly," Frank said. "I'm still not going to tell you about
+it yet, so don't think you're getting smarter or anything."
+
+Stuart sighed. "Whatever, everything on `this ship <#>`__ is going
+slowly--"
+
+"--except the ship,"
+
+"--*so* why should I expect you to be any different?"
+
+"Because you don't have any patience for waiting?"
+
+"You'd think I could have discovered this before we left?" Stuart asked.
+
+"What, and deprive me of a friend, for next twenty years?" Frank asked.
+
+Stuart flinched.
+
+"Just go start you're own surprise project, it'll keep you busy, me
+entertained and remember that it's the chance of a lifetime." Frank's
+words echoed the recruiting videos for the Explorer Corps that began
+airing right as they were leaving the system.
+
+"More like a chance for a lifetime," Stuart quipped. "Maybe you're
+right, though, I need to come up with something,"
+
+"I will tell you some day, you know"
+
+"Of course," Stuart said, "But I should jet, I'm still on duty after
+all, and so are you." He stood up and made for the door "Catch you
+around," he said before he walked out.
+
+"Weirdo," Frank said under his breath. He was smiling again. "Back to
+`the program <#>`__."
+

@@ -1,0 +1,59 @@
+===================
+Markers of Progress
+===================
+
+.. post:: 2008-01-03
+   :author: tychoish
+
+In the end, I think my `last
+post <http://tychoish.com/rhizome/rhythm/>`__ begins to ask "at what
+point do we say 'I've made progress on this project'," is it when you've
+written a given number of words or pages? Is progress measured by units
+of meaning (ie. paragraphs, chapters, or sections)?
+
+I'm not sure that there's a great answer to this quandary, and I think
+that the social scientist inside of me gets a little *too* giddy at the
+prospect of thinking about the possibilities and challenges of various
+metrics.
+
+One thing that I've been doing recently is using `subversion or
+SVN <http://subversion.tigris.org/>`__ to manage basically all my files.
+
+Subversion is a program that, mostly programers, use to track and
+organize code incrementally as it develops. This is important because if
+a programer is working on fixing a problem, of connecting, say widget a
+to command b without needing script c, and then later decides that they
+liked script C better than anything they come up with, they have a back
+up of the earlier program. With a program like subversion, one or two
+commands and everything is back to the way it was.
+
+Now, if there are even two or three programers ("writers") working on
+the same project, you can imagine how being able to track who has added
+what and when on a really atomic level, can be really powerful.
+
+One of my problems with backup is that I would always backup files and
+then six months hence when I actually needed something that was
+backed-up, I wouldn't have a clue where what I needed was. Or worse, I'd
+know what the file was called, but I'd have four versions of it, and
+none were *the right version*. SVN fixes this.
+
+But this creates another possible marker of progress: the commit.
+Every-time you send in your files to the subversion repository it's
+called a commit. Commits are all numbered (and dated, and tracked with a
+message describing what is contained in the commit). So in a vague way
+you can sort of see how much work is getting done by tracking the number
+of commits. It's certainly not foolproof, but I have had weeks and weeks
+where I've done maybe 10 commits total, and weeks like today when I'm
+averaging like 4 commits a day. I dunno. I mean it's not perfect, but it
+does reflect my state of mind. I don't tend to do a commit unless I
+think I've crossed some threshold of accomplishment.
+
+That's worth something.
+
+I'll post more at some point about this system, because unlike previous
+data organization systems, it doesn't ware out or go stale. I like that.
+But right now I'm going to go write something interesting or else you're
+all going to run away in boredom, and we can't be having that.
+
+Onward and Upward!
+

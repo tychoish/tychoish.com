@@ -1,0 +1,61 @@
+=====================
+Reading and Rereading
+=====================
+
+.. post:: 2008-01-02
+   :author: tychoish
+
+A long time ago, I thought I'd start meme, were people would list five
+books that they'd read more than once. Sure the "list the five last
+books you've read" meme travels around a fair bit, but this is sort of
+an interesting turn. In most cases, you're not likely to have read a
+book more than once unless you *really* liked it. But, sadly, I felt
+that my contribution wasn't good enough, so I sat of the post forever.
+
+Then as part of `my bah-humbag New Years
+post <http://tychoish.com/rhizome/new-year/>`__ I mentioned starting a
+"read.txt" file to track my reading accomplishments. I put in the
+highlights of 2007, which read the world like the "The Best of Feminist
+and Queer Science Fiction," but no matter, I will present for your
+download, a copy of this file:
+
+read.txt
+
+It's in `Markdown <http://daringfireball.net/projects/markdown/>`__
+format, and I've decided to granularly list short stories, because
+they're distinct, I need all the encouragement in the world to read more
+of them, and I want to be able to keep track of which authors and what
+not I read.
+
+Below the fold, I present to you the "books you've read twice meme"
+post. Do play along!
+
+--------------
+
+So we all read books, and we've all seen the "select books you've read
+from this list" form of meme, and while I'm not claiming that this is
+original, I think it'd be cool for people to post lists of books that
+they've read more than once. Because that's an endorsement if there ever
+was one.
+
+To make it a meme, I think it would be great to post, links via comments
+or trackbacks so that lea, so that we can all browse through these posts
+to see what books people geek out on.
+
+I'm also going to include a list of books I want to read a second time,
+but haven't yet.
+
+1. *Ender's Game* by Orson Scot Card
+2. *Three-Fifths of Heaven* (a trilogy) by Melissa Scott
+3. *The Foundation Trilogy* by Isaac Asimov
+4. *Angles in America: The Millennium Approaches* by Tony Kushner
+
+I seem to have a thing for trilogies. Books that I want to read again,
+but haven't gotten to:
+
+1. *Bastard out of Carolina* by Dorothy Alison
+2. *Stranger in a Strange Land* by Robert Heinlein
+3. *Babel-17* by Samuel R. Delany
+
+Onward and Upward!
+

@@ -1,0 +1,43 @@
+=====================
+working systems decay
+=====================
+
+.. post:: 2008-01-17
+   :author: tychoish
+
+I wanted to write something, a week in about my experiences with
+`OmniFocus <http://www.omnigroup.com/applications/omnifocus/>`__, so
+here it is.
+
+The truth is that I've been in a bit of a funk all week. Not writing,
+while I figure out I need to do with this story. But I'm also spending a
+more time this week knitting and sorting through things. I think some
+time to sit back and reflect on what's going on before I dive into what
+ever comes next.
+
+Good plan? Right?
+
+Right.
+
+So as part of this reflect and regrouping I've been knitting more,
+reports of this appear on the blog, so I won't bore you with this. I
+also reorganized my files, which very much needed to happen. And I'm
+using omnifocus.
+
+I want to say that I absoultly love this app. Everything about it just
+works the way you'd expect it to. There aren't bugs, it's pretty, and it
+all works with a really robust data framework, *thingy*.
+
+The problem is that *I* don't work very well with this program. I get a
+lot of things done, and that's good but I'm not very good at doing my
+project planning in a way that works with the whole system. Which is
+something that I'm working on a little bit, but is still frustrating.
+
+Such is life, I suppose.
+
+Oh, and by the way I did a little bit of work with drupal last night.
+I'm not sure that I'm making progress, but I have a better idea of what
+needs to happen.
+
+Onward and Upward!
+

@@ -1,0 +1,35 @@
+===========
+moleskining
+===========
+
+.. post:: 2007-06-25
+   :author: tychoish
+
+I seem to have abanded the way that I do "have-done" lists. Read `this
+tealart entry <http://tychoish.com/rhizome/productivity-reports/>`__ for
+more on this. I've started writing this kind of thing out in the
+notebook but I'm not sure that this is the long term sort of solution.
+What I really want is some way of tracking word-counts in an effective
+sort of way. I'll have to sort something out soon
+
+I thought it might be interesting to scan moleskin pages into this site,
+but the idea has been done and my moleskine usage is more functional
+than artistic, so I fear it might be pretty uninteresting.
+
+Also, it's come to my attention that the tag system on TealArt doesn't
+work at all and produces lots of 404s. Frankly I don't see a lot of need
+for this, so I'll probably be removing it as soon as possible. Unless
+the chris wants to change it.
+
+I'm still culling my RSS reading load so I can respond more. I read a
+lot of things (or rather I want to), too many in fact but that's part of
+the point.
+
+I've been doing battle with linux today, with mixed results. The
+flipping drives won't mount.
+
+You'll be pleased to know that I've done pretty well by my projected
+todo list.
+
+*Over and out.*
+

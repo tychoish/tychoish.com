@@ -1,0 +1,82 @@
+=====================
+return of five things
+=====================
+
+.. post:: 2009-09-03
+   :author: tychoish
+   :tags: lists
+
+Ways I've Injured Myself Recently
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. The tip of my right index finger caring a server.
+
+2. My left knee (recurrent, minor) dancing, probably jumping. Design
+flaw, I'm convinced.
+
+3. I have some sort of strain/dislocation of the first knuckle of my
+right ring finger, and its oddly sore.
+
+4. My right shoulder, because I sleep on it funny.
+
+5. My left wrist is occasionally stiff from typing and what not, but I
+think it's sort of interesting that these 3 of the five hand-related.
+
+Things I would Change about my Cell Phone if I could.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. I would be able to SSH into my cell phone, for the purpose of sending
+libnotify-esque notifications to the cell phone
+
+2. It would have a plethora of hardware keys, potentially some sort of
+keyboard (on a slider) and only require touch-screen interfaces when
+intuitive.
+
+3. I would want it to run emacs, at least to be able to check on things.
+
+4. I would like some sort of native terminal client on the cellphone.
+
+5. It would be unlocked.
+
+Objects that I would like to Combine
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. eBook reader/music player/tablet-or-pocket computer.
+
+2. A tea kettle and yogurt maker.
+
+3. My network router and my computer.
+
+4. A keyboard and desk chair.
+
+5. The mouse (and my computer's dependence on it) and /dev/null
+
+Things I wish I spent more time doing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Knitting
+
+2. Reading
+
+3. Editing things I've written
+
+4. Spinning
+
+5. Being social
+
+Abilities of which I am Jealous in Others
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Musical talent, mostly playing the violin/viola and melodian.
+
+2. Signing and leading songs effectively (including remembering lyrics
+completely).
+
+3. The facility to function on much less sleep than I seem to require.
+
+4. The appetite to drink coffee without wanting to wretch.
+
+5. The ability to write computer programs with skill and grace.
+
+
+

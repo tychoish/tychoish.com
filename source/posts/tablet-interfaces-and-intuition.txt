@@ -1,0 +1,58 @@
+===============================
+Tablet Interfaces and Intuition
+===============================
+
+.. post:: 2011-09-13
+   :author: tychoish
+   :tags: productivity, mobile-technology, cyborg, technology
+
+I've been using `FBReaderJ <http://www.fbreader.org/FBReaderJ/>`__ to
+read ``.epub`` files on my tablet recently, and I discovered a nitfty
+feature: you can adjust the screen's brightness by dragging your finger
+up or down the left side of the screen. Immediately this felt like
+discovering a new keybinding or a new function in emacs that I'd been
+wishing for a while time. Why, I thought, aren't there more tricks like
+this?
+
+The iPhone (and the iPad by extension) as well as Android make two major
+advances over previous iterations of mobile technology. First, they're
+robust enough to run "real" programs written in conventional programming
+environment. Better development tools make for better applications and
+more eager developers (which also makes for better applications.)
+Second, the interfaces are designed to be used with fingers rather than
+stylus (thanks to capacitive touch screens) and the design aesthetic
+generally reflects minimalist values and simplicity. The mobile
+applications of today's app stores would *not* work if they were
+visually complex and had multi-tiered menus, and hard to activate
+buttons.
+
+The tension between these two features in these platforms makes it
+difficult to slip nifty features into applications. Furthermore, th
+economy of application market places does not create incentives for
+developers to build tools with enduring functionality. The ``.epub``
+reader I mentioned above is actually free software. [1]_ I write a
+couple of posts a while back on innovation
+([[one\|/rhizome/where-innovation-happens-part-one]] and
+[[two\|/rhizome/where-innovation-happens-part-two]]) that address the
+relationship between free software and technological development but
+that's beside the point.
+
+Given this, there are two major directions that I see tablet interfaces
+moving toward:
+
+1. Tablet interfaces will slowly begin to acquire a more complete
+gestural shorthand and cross-app vocabulary that will allow us to
+become more effective users of this technology. Things like Sywpe are
+part of this, but I think there are more.
+
+2. There will be general purpose systems for tablets that partially or
+wholly expect a keyboard, and then some sort of key-command system
+will emerge. This follows from my thoughts in the "[[Is Android the
+Future of Linux\|rhizome/is-android-the-future-of-linux]]?" post.
+
+I fully expect that both lines of development can expand in parallel.
+
+.. [1]
+I also found the base configuration of FBReader (for the tablet, at
+least) to be horrible, but with some tweaking, it's a great app.
+

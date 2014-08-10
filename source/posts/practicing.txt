@@ -1,0 +1,132 @@
+==========
+Practicing
+==========
+
+.. post:: 2014-02-08
+   :author: tychoish
+
+In response to my [[knitting/a-knitting-practice]] post, on Facebook my
+father commented "The word "practice" is apt. Is there an influence from
+yoga?"
+
+The answer is obviously "yes," though the route is somewhat indirect and
+travels through a story about programming. Stick with it for a little
+while.
+
+Generators and Python Memory Efficiency
+---------------------------------------
+
+I was talking with a dancing friend about memory efficiency in Python
+programs, particularly with regards to loops and the ``range()``
+function. Say you want to do something 1000 times, in Python the easiest
+way to do this is:
+
+::
+
+for it in range(1000):
+do_thing(it)
+
+This says, "make a list of numbers from 1 to 1000," and then call the
+``do_thing()`` operation on that number (i.e. assigned to the variable
+``it``). ``range(1000)`` evaluates to a list, which Python stores in
+memory and the code above loops over.
+
+The way to get this effect in other languages (JavaScript below) is to
+do something like this:
+
+::
+
+for (var it=0; it<= 1000; it++) {
+do_thing(it)
+}
+
+The ``for`` loop has three statements: an action to perform running the
+content of the loop (create a variable), a condition that will terminate
+the loop by returning false (variable is less than or equal to 1000),
+and an operation to run after each loop. The effect of the JavaScript is
+the same as the Python, except that the Python has to build this
+(potentially large) list for grins.
+
+There's a couple of quick answers to this specific question:
+
+1. (In Python 2) use ``xrange()`` which is a special *iterable* type
+(i.e. it works with loops), that doesn't need to build a list in
+memory, it just spits out values incrementally as needed.
+
+Let's imagine that it does this by having a function that returns values
+starting at a certain point (i.e. 0) pausing after each value, and then
+returning the next value the next time it runs. Thes ea re called
+"generators" in Python.
+
+2. Wait for the Python 3 switch to complete: In Python 3, ``range()`` is
+a generator of sorts, and it's efficient in this way.
+
+3. Not care about memory use so much. In most cases *this will not be
+the bottle neck in your application*. Really long lists of integers
+may take up megabytes of memory, but that's not a huge deal.
+
+Generators are great, and they're worth using in most cases, but no one
+will laugh at you if you don't use them in this situation.
+
+The coolest thing, really is that you can really easily write generator
+functions. Here's a silly example:
+
+def animals("input\_animal"=None): for animal in [ 'cat', 'dog', 'cow'
+]: if input\_animal != animal: yield animal
+
+This function returns an animal, as long as the ``input_animal`` isn't
+in the list.
+
+I explained how generators work to my friend and he said something like
+"Nifty, I guess they're not really part of my Python practice yet."
+
+The phrase sort of stuck with me.
+
+Programming is a Practice
+-------------------------
+
+There's a bunch of theory to programming that's grounded in how
+computers work, and a lot of things that are actually useful for
+programmers to know but in truth programming is a practice. Being able
+to look at a design or a program and understand how to write code to
+achieve some goal or connect two pieces of functionality, is really
+about the *practice*
+
+Beyond understanding what makes good software good and how the machines
+work, most of programming is knowing the tools *really wall* and being
+able to identify the right tool for the job. Everything else is just
+typing and
+`flow <http://en.wikipedia.org/wiki/Flow_%28psychology%29>`__.
+
+While the fundamental knowledge and knowledge of the tools is always
+important, at some point programming becomes more about being to figure
+out what the right solution is for any given obstacle or situation.
+
+Knitting as Practice
+--------------------
+
+Knitting is kind of the same. There are some fundamental skills
+(stitches, operations) and there are some basic fundamental
+modalities/patterns [1]_ that you use and combine to make some common
+objects.
+
+Knitting itself is always about repetition, stitch after stitch, but
+it's also about repetition on a higher level. Knitting the second sock,
+the second sleeve. Making pair of sock after pair of sock, or sweater
+after sweater.
+
+At some point being a knitter stops being about the skills and
+modalities/patterns and starts being about actually making things and
+figuring out how to apply what you know about knitting to a new
+situation: the thing you want to make, the yarn your using, and the
+tools you're using.
+
+It's all practice. All the way down.
+
+.. [1]
+In programming terms, these would be patterns. I'm using the term
+modality/pattern to disambiguate. I'm thinking about things like "how
+to shape a neck opening on a sweater," or "turn a heel on a sock."
+Not the pattern for an entire object, but the method for knitting a
+particular object.
+

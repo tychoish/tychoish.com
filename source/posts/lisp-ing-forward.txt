@@ -1,0 +1,27 @@
+================
+lisp-ing forward
+================
+
+.. post:: 2009-03-18
+   :author: tychoish
+   :tags: emacs, programming
+
+"blah blah tycho says he's not a programmer, blah blah." I say stuff
+like this (more or less) quite a bit, right? But I know a lot about how
+computers work, a lot about how programs are constructed (at least in
+the abstract,) and while I've not (really) written code of any note I do
+*read* a bunch of code, and can almost always figure out how things
+work. So I suppose I should confess that I'm... working on learning how
+to program (in my *copious* free time).
+
+I, of course, will keep you posted about this as it progresses, but for
+now I'll settle to just explain the origin of this development: I
+started using emacs a few months ago, and I found the lisp-dialect that
+serves as emacs' extension language to be quite understandable. Maybe
+it's something about how emacs programs are written to be hacked on, and
+even poorly documented emacs-lisp is rather well documented. I read the
+beginning of `an introduction to
+haskell <http://learnyouahaskell.com/>`__, and I think it has something
+to do with the functional aspects of the language. In any case,
+something clicked, and so here I am.
+

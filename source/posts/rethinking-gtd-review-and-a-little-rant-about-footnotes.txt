@@ -1,0 +1,86 @@
+==========================================================
+Rethinking GTD: Review (and A Little Rant About Footnotes)
+==========================================================
+
+.. post:: 2007-02-24
+   :author: tychoish
+
+Hi Everyone. I hope this weekend finds you all well. And I hope you find
+the little revision to tealart that we've undergone in the past few days
+well too. (how's that for an opening?) I'm sure that I'll do a little
+more explaining over the next few days. Worry not and enjoy.
+
+I was going to write this week about the importance of regular reviews a
+la GTD regarding the maintenance of a productive system. And I'll say a
+few, brief things here
+
+GTD promises a sort of a better "stress-free" living through recording
+and full proof living. It's true that the less you have to worry about
+weather or not you remembered to do x, y, or z there is more "you" to go
+around when you're actually doing x, y, or z. Great idea. It is however,
+my contention that, the reason this works, is that GTD asks users to
+take various and regular time outs to reflect on their process. So
+rather than worry about your process a little bit all the time, schedule
+times to worry about your process all at once and get it done with.
+Great idea. One needn't produce nifty contextual lists and adhere
+faithfully to the two minute rule (if you have a task that can be done
+in less than two minutes, do it now) and so forth. What is important is
+that every once and a while you give yourself the opportunity to say
+"what am I doing, and what do I need to be doing;" look over your lists
+and make sure things haven't changed. The important thing is to make
+sure that your "system" or method hasn't been broken by the "doing." And
+as always, flexibility is important: if all the parts of your system
+aren't adding up, then change it.
+
+Though I don't think GTD works for me, or that my process fits that
+model, I really do enjoy the fact that it's out there--because it's
+prevalence drives people to think up some rather amazing solutions to
+issues that I've dealt with for quite a while. The communities at
+43folders (and other sites as well) has been an amazing resource as I've
+become more reflexive about these issues in the last few weeks and
+months.
+
+**Footnoes** So I promised a little bit of a rant about footnotes. Much
+to a particular professor's annoyance I've taken a rather hard line
+stand against Microsoft Office products. I've found that they're not
+particularly suited to running on the Mac, and the benefit that they
+offer is appallingly small. Additionally, I find it hard to interact
+with a PDF document that I'm discussing in my writing, and an open word
+document at the same time. It can be a pain, that's for sure.
+
+But this is a rant about footnotes, not Microsoft Word; well it is about
+MS Word, insomuch as I have to keep Microsoft Word around because there
+are typographical features that I would love to have access to that, as
+near as I can tell, Microsoft has a strangle hold on. Footnotes are one
+of them, headers are another, but a much less important one to my mind
+at this point.
+
+At the moment, I generally write the OS X Rich Text service (think the
+default TextEdit, but piped through VoodooPad or whatever other program
+I'm working in,) and then prepare the document for "completion" using a
+quick trip through MS Word, which I output as a PDF file, to get all of
+the "publishing features" and avoid having to work in
+
+In certain respects, footnotes in particular is a typographical feature
+that I think many expect is on it's way out, and as a result there isn't
+a lot of support this kind feature. Also, since most academics are too
+busy, being academics, and not designing software, there aren't many
+options, beyond of course Microsoft.
+
+So I'm at a loss with regards what to do. I've considered (and even
+installed all that I need to do to start producing documents using
+LaTeX/TeX, but that is *compleatly* overkill: I'm never going to have an
+equation in my work, and while I think LaTeX documents are incredibly
+pretty, learning *another* complex markup language with features that I
+will *never* use. I hope/expect that the next version of Markdown will
+have some sort of support for footnote text, but I'm not sure that this
+will work out particularly well either but I can definitely wait on this
+one until it actually happens.
+
+But yes, anyway. I want a good footnote solution that is mainly operable
+within RTF and (even minimally) markuped plain text files. Sigh. If
+anyone has any briliant solutions that I've overlooked that would be
+awesome. In any case, until next time, stay well.
+
+Cheers, tycho(ish)
+

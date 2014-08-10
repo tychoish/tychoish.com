@@ -1,0 +1,20 @@
+===================================
+I've been saying this for months...
+===================================
+
+.. post:: 2007-08-27
+   :author: tychoish
+
+http://www.antonyjohnston.com/gtw/
+
+At least I'm on the right track.
+
+In other news, I've had a sort of organizational bankrupcy moment (where
+you just throw your hands up and try a new system, spured by a rather
+dumb use of the delete button.
+
+On the upside, I'm not sure that I've lost anything, truly important.
+
+I have got to get some sort of version control something working. I just
+need a good structure to start with.
+

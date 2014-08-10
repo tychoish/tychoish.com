@@ -1,0 +1,89 @@
+==========================
+Enterprise Linux Community
+==========================
+
+.. post:: 2010-03-31
+   :author: tychoish
+   :tags: cyborg, open-source
+
+Ok. I can't be the only one. [1]_
+
+I look at open source projects like OpenSolaris, Alfresco, Resin,
+Magento, OpenSuSE, Fedora, and MySQL, among others, and I wonder "What's
+the community around these projects that people are always talking
+about." Sure I can download the source code under licenses that I'm
+comfortable with, sure they talk about a community, but what does that
+mean?
+
+What, as a company, does it mean to say that the software you develop
+(and likely own all the rights to,) is "open source," and "supported by
+a community?"
+
+If I were sensible, I'd probably stop writing this post *here.* From the
+perspective of the users of and participants in open source software,
+this is the core question, both because it dictates what we can expect
+from free software and open source and more importantly because it has
+been historically ill defined.
+
+There are two additional, but related, questions that lurk around this
+question, at least in my mind:
+
+1. Why are new open source projects only seen as legitimate if the
+developers are able to build a business around the project?
+
+2. What does it mean to be a contributor to open source in this world,
+and what do contributors in "the community," get from contributing to
+commercial projects?
+
+There are of course exceptions to this rule: the Debian Project, the
+Linux Kernel itself, GNU packages, and most open source programming
+languages among others. I'd love to know if I've missed a class of
+software in this list--and there's one exception that I'll touch on in a
+moment--but the commonality here is that that these projects are so low
+level that it seems too hard to build businesses around directly.
+
+When "less technical" free software projects began to take off, I think
+a lot of people said "I don't know if this open source thing will work
+when the users of the software aren't hackers," because after all what
+does open source code do for non-hackers? While it's true that there are
+fringe benefits that go beyond the simple "free as in beer" quality of
+open source for non-hacker users, these benefits are not always obvious.
+In a lot of ways the commercialization around open source software helps
+add a buffer between upstreams and end users. This is why I included
+Debian in the list above. Debian is very much a usable operating system,
+but in practice it's often an upstream of other distributions. Ubuntu,
+Maemo, etc.
+
+The exception that I mentioned is, to my mind, projects like Drupal and
+web development frameworks like Ruby on Rails and Django. These
+communities aren't sponsored or driven by venture capital funded
+companies. Though the leader of the Drupal community has taken VC money
+for a Drupal-related start up. I think the difference here is that the
+economic activity around these projects is consulting based: people use
+Drupal/Django/Rails to build websites (which aren't, largely open
+source) for clients. In a lot of ways these are much closer to the
+"traditional free software business model," as envisioned in the
+eighties and nineties, than what seems to prevail at the moment.
+
+So to summarize the questions:
+
+-  What, as a company, does it mean to say that the software you develop
+(and likely own all the rights to,) is "open source," and "supported
+by a community?"
+
+-  What does it mean to participate in and contribute to a community
+around a commercial product that you don't have *any* real stake in?
+
+-  How does the free software community, which is largely technical and
+hacker centered, transcend to deal with and serve end users?
+
+-  How do we legitimize projects that aren't funded with venture capital
+money?
+
+Onward and Upward!
+
+.. [1]
+I think and hope this is the post I meant to write when I started
+writing `this post on the work of open
+source <http://tychoish.com/rhizome/analyzing-the-work-of-open-source.mdwn>`__
+

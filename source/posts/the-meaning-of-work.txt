@@ -1,0 +1,55 @@
+===================
+The Meaning of Work
+===================
+
+.. post:: 2010-06-22
+   :author: tychoish
+   :tags: academia, research, literature, publishing, open-source, labor
+
+I've started to realize that, fundamentally, the questions I'm asking of
+the world and that I'm trying to address by learning more about
+technology, center on work and the meaning and process of working. Work
+lies at the intersection of the all the things that I seem to revisit
+endlessly: interfaces, collaboration technology, cooperatives and
+economics institutions, and open source software development. I'm not
+sure if I'm interested in work because it's the unifying theme of a
+bunch of different interests, or this is the base from which other
+interests spring.
+
+I realize that this makes me an incredibly weird geek.
+
+I was talking to `caroline <http://twitter.com/aetataureate>`__ about
+our respective work environments, specifically about how we (and our
+coworkers) relocated (or didn't) for our jobs, and I was chagrined to
+realize that this novel that I've been working at (or not,) for way too
+long at this point spends some time revolving around these questions:
+
+-  How does being stuck in a single place and time constrain one agency
+to effect the world around them?
+
+-  What does labor look like in a mostly/quasi post-scarcity world?
+
+Perhaps the most worrying thing about this project is that I started
+writing this story in late August of 2008. This was of course before the
+American/Financial Services economic crash that got me blogging and
+really thinking about issues outside of technology.
+
+It's interesting, and perhaps outside the scope of this post, but I
+think it's interesting how since graduating from college, my "research"
+interests as they were, all work them into fiction (intentionally or
+otherwise.) I suppose I haven't written fiction about Free Software/open
+source, exactly, but I think there's a good enough reason for that. [1]_
+
+I'm left with two realizations. First, that this novel has been sitting
+on my plate for far too long, and there's **no** reason why I can't
+write the last 10/20 thousand words in the next few months and be done
+with the sucker. Second, I'm interested in thinking about how "being an
+academic" (or not) affects the way I (we?) approach learning more about
+the world and the process/rigor that I bring to those projects.
+
+But we'll get to that later, I have writing to do.
+
+.. [1]
+I write fiction *as* open source, in a lot of ways, so it doesn't
+seem too important to put it *in* the story as well.
+

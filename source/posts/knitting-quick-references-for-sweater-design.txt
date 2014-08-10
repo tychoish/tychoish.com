@@ -1,0 +1,72 @@
+============================================
+Knitting Quick References for Sweater Design
+============================================
+
+.. post:: 2007-05-22
+   :author: tychoish
+
+I posted about my `academic
+contrarianism <http://tychoish.com/rhizome/writing-day-to-day/>`__,
+earlier and I think I'd be foolish to claim that this tendency was
+limited simply to my academic half (2/3s?). In knitting, this manifests
+as a tendency to reject patterns and come up with my own designs, though
+you probably wouldn't know it from the designs: they tend to be pretty
+normal looking traditional-ish knitting designs. The contrarian comes
+out in the process, first by rejecting prepared patterns, but more by
+the ass-backwards way that I think about sweater construction. I fear
+that this approach appears in the patterns I write.
+
+Now perhaps I give myself too much credit, because it's my sense that
+I'm not that atypical amongst designers and other renegade types;
+furthermore, I think this approach to knitting is not detrimental, and
+actually allows me to make better patterns. So there.
+
+As I was writing the pattern for a sweater that I made this semester as
+part of the *project-of-infamy*, I realized that while I could (and did)
+go through every little step, in the day to day knitting of this
+sweater, which took me 6 weeks, a knitter wouldn't need access to the
+entire pattern. At the same time, I tend to think of patterns as having
+a number of landmarks, turning points where some sort of change needs to
+happen, otherwise there's a lot of just knitting *as you were*.
+
+So I decided in this pattern--which is otherwise pretty complicated--to
+write a "Quick Reference Guide" that summerizes all the major turning
+points of the sweater in a couple of paragraph. I'm going to reprint it
+here for your personal edification, with the hope that you'll be able to
+use it as a model to summarize other knitting patterns, or as a blank
+slate on which you can develop your own patterns. This is for a
+fair-isle stlye/gauge sweater with a crew neck: adjust your numbers and
+style appropriately.
+
+Cast on the key number (320), knit a hem (ie. ribbing for 2 inches).
+Knit one row plain, (*optional: switch to the larger needle and
+increase*), establish patterns and knit for 12-13 inches in pattern.
+Begin the gusset, increasing 2 stitches every three rows for 3
+inches. Place gusset stitches on holder and start underarm steeks.
+Knit 7 inches and begin the front neck shaping and neck steek.
+Decrease on either side of the steek every round for 1.5 inches,
+then establish the back neck steek and decrease on either side of
+the steek every *other* round on either side of both steeks for 1.5
+inches. Bind off the shoulders together using the 3 needle method.
+
+Cut the arm hole steeks, and pick up stitches. Establish the
+patterns on the next round and decrease on either side of the gusset
+for every third round until there are no more gusset stitches left.
+Continue decreasing sleeve stitches on every 3rd round until the
+sleeve measure half of it's total intended length (aprox. 9-10
+inches). Decrease every 4th round for the remaining length of the
+sleeve. Knit a round plain in the background color decreasing
+radically for a fitted cuff. Knit the cuff for 2 inches, and then
+bind off the sleeve, and repeat the process for the second sleeve.
+Cut open the neck steek, pick up stitches around the neck opening
+and knit a collar in corrugated ribbing for 1.5 inches. Maintain the
+front neck steek for the plackets. Bind off the collar, cut open the
+neck front steek and pick up stitches around the placket edge
+independently. Knit each placket and a turned hem. Sew down placket
+hems and weave in all remaining ends and block the sweater.
+
+I hope the warmer weather in the northern hemisphere is treating you all
+well, and not keeping you from knitting too much.
+
+Cheers, tycho
+

@@ -1,0 +1,107 @@
+==========
+Long Hands
+==========
+
+.. post:: 2008-07-21
+   :author: tychoish
+
+So I have a confession to make. I'm not writing longhand very much at
+all. Actually its insignificant the amount that I'm writing things out
+longhand any more. I was struck by this fact the other day, when, after
+a day where I felt like I didn't get anything done, I opened a notebook
+and did some project planning/review on a sheet of paper. And I realized
+that my fountain pen was empty.
+
+The interesting thing, I think is that I'm sort of a pen nut, and I've
+always loved having cool pens that made *the act of* writing a pleasure.
+So much so that since *high school* I've always had a Namiki Vanishing
+Point Fountain Pen around. These are heaty, but very usable fountain
+pens, that use a retracting nib (awesome!) and the grind on Pilot/Namiki
+nibs is great [1]_. I love writing by hand, and for a long time I've
+felt that I do my best planning and rough work long hand.
+
+There two big reasons that I think this has worked so well for me. First
+of all, I have a great spatial memory, and having notes that are fixed
+on a page makes them easy to remember, particularly if they're arranged
+sequentially, reading through the past archive can be a really power
+contextual memory aide. I haven't tried it in a while, but I can take a
+notebook from the past, and flip through the pages and *sometimes*
+recall all sorts of stuff about the *moment* in my life that I was
+writing those notes [2]_.
+
+But there's a conflict here. I'm a geek so it makes sense to a digital
+system to keep track of these notes. After all, it's just text. There
+are a score of reasons why this makes sense: digital text is searchable,
+it's more enduring, its easier to read, there are search tools, and I
+type *considerably* faster than I can write long hand. But, there are of
+course downsides: digital text isn't *as* portable for on the fly
+creation, the semantic/spacial "features" of notebooks are basically
+lost, and the truth is that search is only really useful if you're
+looking "for" something, rather than browsing through [3]_ taking
+system, because in order for search to be useable you need to be looking
+"for something" where as, if you're looking at a notebook, it's all
+browse and no search. Clearly there's a place for search, but loosing
+"browsing cabibility," is a huge downgrade.
+
+At some point, about a year ago--as this was the inspiration for
+tychoish.com--I thought hey, "maybe a "blog" notebook could give linear
+context," and still be digital. Well tychoish.com didn't work out so
+well for this, but I've been using `ikiwiki <http://ikiwiki.info/>`__,
+which is mostly a wiki, but it has some useful blogging capabilities.
+Unfortunately, I've had a hard time getting it to work since I upgraded
+my computer, and switched to git. [4]_
+
+And the end result is, that without really trying to, exactly, I've
+gotten to the point where I'm not writing anything out, really, and I
+have, sort of, all the bases covered. I have a computer that is more
+portable than the last one. I have a flash drive with a couple of good
+ssh clients on it, I have web access to my repositories. It's all there,
+and it's all accessible (to me), and that's something that I can already
+tell has been a good thing for my workflow. At the same time, as my
+little project planning session a few days ago with the notebook
+illustrated, there are times when the change of venue/context is enough
+to get things rolling if they're stalled.
+
+The moral? Digital is good, particularly once you find the right
+solution, but maybe it isn't *quite* time to throw away all the
+notebooks. Also I write this I realize that I should probably write a
+post about backup, but that's for another day.
+
+Onward and `Upward <http://criticalfutures.com/>`__!
+
+.. [1]
+So here's a bit of specialized knowledge that doesn't get out very
+much: Apparently Pilot/Namiki (who also, incidentally make the nibs
+for Cross pens, or used to at any rate) run about a half size smaller
+than other makers. I think this is the difference between
+German/European and Japanese/Asian pen makers (which I think is
+true,) and might be related to the difference in absorbency of
+velum/high-rag content paper, versus rice paper, but that's just me
+talking out of my ass.
+
+.. [2]
+Interestingly, this has always been the most successful when I have
+used the least structured note taking methods, and don't divide my
+notetaking into too many piles. Having one big box to put things in,
+means that the semantic connections between all the bits of
+information remain intact.
+
+.. [3]
+I'm *tycho of the footnotes* today. Anyway, as an aside I'd wager
+that the "browsability" of wikis is perhaps the undervalued key to
+their success (and also a reason why many wiki's fail). You can, as I
+often do, just bounce around a topic or category in wikipedia and
+learn a great deal, whereas with the rest of the internet, you're
+less likely to get more than one or two degrees away from a google
+search.
+
+.. [4]
+It's really ironic, because new hardware/software, and a more capable
+database, should make the software work *better* not *worse*, but
+it's clearly an install issue related to the fact that I'm in a
+pretty non standard environment. It's a **great** program, and it's
+even better if you're using a debian-flavor and don't have to fight
+it to install. Seriously this is another aside, but if I could get OS
+X apps and interfaces with a debian core/apt-get that really worked
+consistently, I would never look back.
+

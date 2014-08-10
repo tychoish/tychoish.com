@@ -1,0 +1,99 @@
+==================================
+Open Source Knitting: Open Kniting
+==================================
+
+.. post:: 2007-09-04
+   :author: tychoish
+
+A while ago, `Brenda Dayne <http://cast-on.com/>`__ of the Cast-On
+Podcast, got off on a "free culture" and "wiki" kick and there was as a
+result a bunch of buzz in the knitting world about building an
+encyclopedic collection of knitting information.
+
+I have say that encyclopedias, even new Wikipedia-esque projects are
+probably always doomed from the beginning. The balance between
+specificity and generality is really hard to play correctly, and
+possibly the larger problem is that encyclopedias are predicated on some
+sort of existent universal objective positionally, which frankly doesn't
+exist. All knowledge is culturally and historically constrained, and
+encyclopedias need to minimize this for the sake of their projects. But
+this is a criticism of encyclopedias in general, not specifically of
+wikipedia or wiki-style encyclopedic project. And I think I should be
+quick to reiterate a point that I've `made
+before <http://tychoish.com/rhizome/wiki-hyperdigitaltext/>`__ that the
+wiki format should not really be defined by the encyclopedic structure
+despite the success of wikipedia.
+
+Back to knitting and "free" distributions: Some knitters took issue with
+the
+`GFDL <http://en.wikipedia.org/wiki/GNU_Free_Documentation_License>`__,
+which is a permissive licensee that Wikipedia uses and was designed for
+the documentation that accompanies Linux and other free software. The
+issue with the GFDL is that not only does it allows anyone to edit it
+and distribute it, but it also allows anyone to take any GFDL (or GPL,
+the software counterpart) content and sell it and make profit on the
+content, provided that their work is also licensed under the GPL or
+GFDL. What this means for "linux companies," like Red Hat, or Novel can
+sell you linux, but they have to provide the source code, and if you
+want to start a version of Linux (or company that uses Red Hat code,)
+you can, without consequence. Provided that if you distribute that
+version of Linux to anyone else, you have to also give your code away.
+
+For instance, it's pretty clear that Google has an internal Google-Linux
+version, that's different from anything else on the block and you can't
+buy it or get a copy of the code, but since they don't distribute it at
+all, it stays in the company and they don't have to give away copies of
+the code. The way most Linux companies make money is they say "here, buy
+this linux software, and we'll give you technical support for a given
+period of time," or "we'll install the software and configure your
+machine," and so forth. In a very real sense, the money that you pay
+"for" linux or other free software is really for auxiliary services, not
+for the software.
+
+Some knitters had a problem with the fact that other people/companies
+could take their work/writing from a GFDL source and sell it without any
+of that profit going to the original author. There was a move toward a
+Creative Commons licenses, amongst knitters, so that a "non-commercial
+use," could be negotiated. While I like this idea, and I think Creative
+Commons licenses are a great thing, in this case it means that (since a
+wiki project) is community project, it's quite likely that *no one* can
+exercise a commercial use of CC content.
+
+For instance, it's my understanding that while I have a creative commons
+license on TealArt that allows anyone to redistribute or create
+derivative works provided that they "share alike", you can basically do
+what ever you want with TA content so long as you don't try to make
+money off of it; I (or the other authors) can take TealArt content and
+use it commercially. In such a community situation, this wouldn't be
+possible, and I suspect that such a license in a community situation
+means that no one can make money (even the "original" creators) off of
+the content. But I'm not a lawyer.
+
+This isn't to draw attention or notice away from Sarah Bradburry's
+`KnitWik <http://www.knitting-and.com/wiki/Main_Page>`__, which I think
+is a great project, but I think there are some serious reasons to
+consider a more GPL/GFDL like approach. This fits in line with my
+earlier discussion about `monitizing
+creativity <http://tychoish.com/rhizome/being-an-artist-and-paying-the-bills/>`__,
+and also I think it would be worthwhile to reconsider the analogy
+between open source software and knitting, because it seems to me that
+if open source is such good idea for software (and I think it is in the
+long run) then it very well may be a good idea for knitting *if we get
+the analogy right.*
+
+I think I'm probably done for the moment, but I wanted to create a small
+list of ideas and question that I'd like to address in the future,
+related to this idea:
+
+-  Is there a layer of information that goes into knitting design and
+documentation that isn't typically exposed in "closed"/conventional
+publications? (that would be equivalent in role to source code)?
+-  The role of editors and communities and the sometimes very
+"conventional" development models that "open" projects use.
+-  The way GPL/GFDL knitting projects can be used commercially.
+-  Technological methods of attending to such a project.
+
+If you have an opinion, please chime in.
+
+Cheers, tycho
+

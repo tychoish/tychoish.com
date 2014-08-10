@@ -1,0 +1,33 @@
+=================
+from the trenches
+=================
+
+.. post:: 2009-03-11
+   :author: tychoish
+   :tags: journal, productivity, links
+
+I knew I said that I'd post coda things now that I'm going to bi-weekly
+essays, and today would be the first day of the new order and I've
+failed. Alas. Today was spent going glaring at my outline and waiting in
+doctor's waiting rooms. I did read a `really great
+article <http://www.irosf.com/q/zine/article/10519>`__ from `Kristine
+Kathryn Rusch <http://www.kristinekathrynrusch.com/>`__ about
+recessions, short fiction, and it was pretty inspiring. Go read, and
+then read some more. I've also had some interesting
+`twitter <http://www.twitter.com/tychoish/>`__ and
+`identi.ca <http://www.identi.ca/tychoish>`__ conversations about
+`git <http://www.git-scm>`__ and `emacs <http://www.gnu.org/emacs>`__,
+which keeps me entertained at least. I've also been trying out new RSS
+readers, as I'd really like something that ran locally.
+`Canto <http://codezen.org/canto/>`__ seems to be leading the pack, but
+I have *so* many feeds at the moment that switching seems onerous, and I
+need something that I can sync between multiple machines, so the whole
+switch process gives me shivers. Maybe tomorrow. In the mean time, I
+think I'm ready to get back to writing actual fiction (forward progress)
+in a day or two, if I can get through one or two more *blasted* sections
+of this re-outline; which despite the pain, has been really good for my
+thinking about the book.
+
+If you were wondering, that *really is* what it's like to be in my head.
+And you thought that my *writing* was scatter brained.
+

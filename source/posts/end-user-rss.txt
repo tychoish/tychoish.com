@@ -1,0 +1,105 @@
+============
+End User RSS
+============
+
+.. post:: 2010-01-11
+   :author: tychoish
+   :tags: cyborg, new-media, internet
+
+I'm very close to declaring feed reader bankruptcy. And not just simple
+"I don't think I'll ever catch up with my backlog," but rather that I'll
+pull out of the whole RSS reading game all together. Needless to say,
+because of the ultimate subject matter--information collection and
+utilization and cultural participation on the Internet--and my own
+personal interests and tendencies this has provided some thinking...
+Here goes nothing:
+
+Problems With RSS
+-----------------
+
+Web 2.0 in a lot of ways introduced the world to ubiquitous RSS. There
+were now feeds for *everything*. Awesome right?
+
+I suppose.
+
+My leading problem with RSS is probably a lack of good applications to
+read RSS with. It's not that there aren't *some* good applications for
+RSS, its that RSS is too general of a format, and there are too many
+different kinds of feeds, and so we get these generic applications that
+simply take the chronology of RSS items from a number of different feeds
+and present them as if they were emails or one giant feed, with some
+basic interface niceties. RSS readers, at the moment, make it easier to
+consume media in a straightforward manner without unnecessary mode
+switching, and although RSS is accessed by way of a technological
+"pull," the user experience is essentially "push." The problem then, is
+that feed reading applications don't offer a real benefit to their users
+beyond a little bit of added efficiency.
+
+Coming up a close second, is the fact that the *publishers* of RSS
+sometimes have silly ideas about user behaviors with regards to RSS. For
+instance there's some delusion that if you truncate the content of posts
+in RSS feeds, people will click on links and visit your site, and
+generate add revenue. Which is comical. I'm much more likely to *stop*
+reading a feed if full text isn't available than I am to click through
+to the site. This is probably the biggest single problem with that I see
+with RSS publication. In general, I think publishers should care as much
+about the presentation of their content in their feed as they do about
+the presentation of content on their website. While it's true that it's
+"easier" to get a good looking feed than it is to get a good looking
+website, attending to the feed is important.
+
+The Solution
+------------
+
+Web 2.0 has allowed (and expected) us to have RSS feeds for nearly
+everything on our sites. Certainly there are so many more rss feeds than
+anyone really cares to read. More than anything this has emphasized the
+way that RSS has become the "stealth data format of the web," and I
+think it's pretty clear, that for all its warts, *RSS is not a format
+that normal people are really meant to interact with*.
+
+Indeed, in a lot of ways the success of Facebook and Twitter have been
+as a result of the failure of RSS-ecosystem software to present content
+to us in a coherent and usable way.
+
+Personally, I still have a Google Reader account, but I'm trying to cull
+my collection of feeds and wean myself from consuming all feeds in one
+massive stew. I've been using
+`notifixlite <http://notifixlite.appspot.com/>`__ for any feed where I'm
+interested in getting the results in very-near-real time. Google alerts,
+microblogging feeds, etc.
+
+I'm using the `planet function in ikiwiki, particularly in the cyborg
+institute wiki <http://planet.cyborginstitute.com>`__ as a means of
+reading collection of feeds. This isn't a *lot* better than the
+conventional feed reader, but it might be a start. I'm looking at
+`plagger <http://plagger.org/trac>`__ for the next step.
+
+I hope the next "thing" in this space are some feed readers that add
+intelligence to the process of presenting the news. "Intelligent"
+features might include:
+
+-  Noticing the order you read feeds/items and attempting to present
+items to you in that order.
+
+-  Removing duplicate, or nearly duplicate items from presentation.
+
+-  Integrate--as appropriate--with the other ways that you typically
+consume information: reading email and instant messaging (in my
+case.)
+
+-  Provide notifications for new content in an intelligent sort of way.
+I don't need an instant message every time a flickr tag that I'm
+interested in watching updates, but it might be nice if I could set
+these notifications up on a per-folder or per-feed manner. Better
+yet, the feed reader might be able to figure this out.
+
+-  Integrate with feedback mechanisms in a clear and coherent way. Both
+via commenting systems (so integration with something like Disqus
+might be nice, or the ability auto-fill a comment form), and via
+email.
+
+It'd be a start at any rate. I look forward to thinking about this more
+with you in any case. How do you read RSS? What do you wish your feed
+reader would do that it doesn't?
+

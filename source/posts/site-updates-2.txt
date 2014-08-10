@@ -1,0 +1,151 @@
+============
+Site Updates
+============
+
+.. post:: 2003-11-13
+   :author: tychoish
+
+***Agenda:***
+
+-  New Skins (Rainbow Pride, Boy Looking, Blue Robot 3, and Stolen
+Skins)
+
+-  New Contributor
+
+-  Notify List
+
+-  New Site
+
+-  New Profiles
+
+-  Site Stats
+
+***New Skins*** I have a lot of new skin news. I reciently made up this
+new database powered skin engine that makes the whole skinning process a
+lot simpler. The actual changes on the site are basicly non-noticeable,
+but since I made this change I've started to add a new skin every week
+or so. There are currently 27 skins installed, which will probably lead
+to redisgn of how the Skin Page operates, but in any cases, I've added a
+number of different skins to TealArt that you might like to know about:
+
+"Rainbow Pride" is a rainbow skin taken from a diary land template that
+I found using google. Yes, I'm shameless, but at least it looks cool.
+The skin uses tables and font HTML tags, so from a web-standards, HTML
+point of view the skin is *horrid*, but the surprising thing is that it
+renders perfectly in every situation I've tried it in, so go figure.
+Enjoy it, but don't expect to much.
+
+"Boy Looking" is a new skin that's completely original. I took another
+Abercrombie & Fitch graphic, did some semi-creative photoshoping to it,
+and then put together a style sheet all by myself. There's a Mozilla
+Version, and an Internet Explorer Version. I might put together some
+more color options together (this one uses warmer colors), and the
+sidebar is on the right. It's a pretty cool design, so check it out.
+
+"Blue Robot 3" Is similar in style to the "Robot Theft" Skins that have
+been around for almost as long as I've had skinning available on
+TealArt. It's a simple, text based skin for those who like it, and its
+about as unoriginal and stolen as they come. The only reason I'm listing
+it alone here is because it's the first TealArt skin to use three
+columns, and it paves the way for future skins to take advantage of some
+really pretty three column layout ideas that Chris and I have in the
+works.
+
+The Stolen Skins, represent a surprisingly larger percentage of the
+TealArt skins. These are skins that we've taken from template
+repositories and turned into TealArt skins. Some have more originality
+infused than others, while some are downright shameful and were thrown
+together in mere moments. But they all present some sort of aesthetic
+quality that we like, and enjoy. These skins include everything that
+we've taken from Blue Robot, the Rainbow Pride skin, and two others that
+I took from random template repositories. Blue Robot skins are CSS and
+Text wonder pieces, the rainbow skin is fun, and the last two are both
+pretty good in a melodramatic boggy sort of way, so enjoy them if you
+want, but enjoy them for the novelty that they are.
+
+-  The Rainbow Pride Skin
+-  Blue Robot Three
+-  British Museum
+-  The River
+
+***Notify List***
+
+The version of quarto that we're using on TealArt is a bit behind the
+version Amy's currently working on. Rather than have to piece together
+the database regularly for the next couple of months (or really more
+than once per quarter), we're going to hold out on our dated version and
+wait for something monumental. I mean the truth is that it works fine
+now, and I'm not in the mood to go off breaking things. One thing that I
+could never get to work quite right, until now that is, was the notify
+list.
+
+Finally, I went digging for the code in question, and found a rather
+unsightly bit that was all commented out, and after some toying around
+and the introduction of the dandy mail(); function, I was able to
+"encourage" email notification. When I talked to Amy to brag tell her
+about my conquest, she told me she'd switched over a long time ago. Go
+figure, and I thought I was brilliant.
+
+Long story short I'd like to offer you the TealArt Notifty Page which
+will let you subscribe and alter your subscription to the TealArt notify
+list. There aren't and probably won't be email lists for quotes and
+links without popular demand, and we have separate lists for The Times
+of TealArt and the Paradigm Brainfeed. I hope it's useful.
+
+***New Contributor***
+
+While Chris and I have been really impressed with the progress the site
+has made in recent months, in terms of readership and in terms of the
+operation and content, we're not satisfied with ourselves as the sole
+personalities of the site. While we kind of learned our lesson about the
+problems of starting an independent website bassed on the contributions
+of a large community with CollectiveArts and don't want to have TealArt
+run into those problems, we would like to see a broader perspective
+here. So we're still looking for TealArtists/Crew folks.
+
+To that end, we've decided to add another contributor. Ryan Davis will
+be joining here to give his take on the world, just like the rest of us.
+He's in the process of moving (to my fair city, as coincidence would
+have it) at the moment, but once he gets into gear, I think you'll
+really enjoy his offerings.
+
+***New Profiles***
+
+Just a blurb to tell you that I've updated my profile. When I wrote the
+old one I kind of anticipated having it stick around for a while, but I
+suppose life and the world change too much for such things to remain
+true even months later. No new pictures I fear, but we'll get something
+soonish.
+
+Also Chris promises us that he'll get some sort of text based profile up
+by the end of the evening (Wednesday November 12th 2003), but we'll see,
+sometime in the very new feature we hope.
+
+***New Site***
+
+On November 5th the CollectiveArts.net domain expires. And thus ends a
+three and a half year endeavor to create a single website on the
+independent web that would provide a "home" for all the writers who
+wanted a professional co-operative web presence. It's a great idea, and
+I hope someone else can do it, but after all this time, Chris and I got
+to the point where all of the things we wanted to accomplish in a
+website were already happening on TealArt, or could happen very easily
+on TealArt. (After we made the decision, the traffic to TA almost
+doubled, surprisingly enough). So now that CollectiveArts is gone, I've
+registered another domain that I'm going to use as a portfolio type
+site. It's all forthcoming, but I just thought it'd be worth noting
+here.
+
+***Site Statistics***
+
+Nothing big here, and I'm not going to jinx myself by giving out exact
+numbers, but Chris and I have been really surprised by the increase in
+the traffic, really pleased. It's nice to know that there are people
+reading the site. It'd be even nicer if people emailed us from time to
+time, or even commented, but we'll take what we get gladly. Independent
+sites like TealArt rely on word of mouth to gain readership, and so we'd
+like to implore you all to use your mouths to spread the word. Thanks!
+
+I think that about does it for this time. I hope this one does it for a
+while.
+

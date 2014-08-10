@@ -1,0 +1,80 @@
+===========================================
+Is Somebody Having a Holiday on My Day Off?
+===========================================
+
+.. post:: 2008-12-25
+   :author: tychoish
+
+I hear that some of you are celebrating today. If that's the case, good
+holiday to you, dear readers. If that's not the case, I hope you're not
+too befuddled by this very strange Thursday we seem to be having.
+
+I guess in some respects I'm celebrating. Though I often leave, the fact
+that *no one else* is working changes the way the day feels. And I'm
+writing today's blog post/letter this morning after having a nice
+fish-brunch (it's a family ritual/jewish thing) with the family. We're
+going to go get food at an Indian buffet that's near by. I'm looking
+forward to it. But other than that it'll probably be a normal day. I'll
+be writing, and maybe doing some work. But for now I'm just going to
+write a letter to you all.
+
+Lets see, there have been a lot of little projects that have taken up a
+lot of my time and brain power. I'll outline them to show what I've been
+working on and to see if anyone has suggestions:
+
+-  I've been working on switching to a different terminal emulator
+(urxvt from gnome-terminal) and I have yet to get the colors *right*,
+which is a barrier. A terminal with hard to read colors is totally
+useful. Also, I haven't quite figured out how to get copying and
+pasting from other apps to uxrvt to work, but I figure I can just
+read the documentation again, and that should be apparent. The reason
+for doing this? Gnome-terminal, though easy to configure, is pretty
+heavy weight, when there's no real reason for that. If I were running
+one or two instances, that'd be fine, but I need to have at least 4
+instances (mail, irc, IM, actual terminal things) and sometimes that
+grows to even larger numbers. So lightweightness is desirable.
+
+-  I'm starting to switch to using jabber/XMPP for all of my IM needs.
+The good news is that this attempt works *way* better than my
+previous attempts. The AIM transport (which seems to be the de facto
+IM standard in my network) works like a charm most of the time. I'm
+not deleting pidgin for emergencies, but I'm pleased. The client that
+I'm using, `mcabber <http://mcabber.com/>`__ works quite well. I'm
+having two odd problems. First, I find that I'm having trouble adding
+Google Gtalk users to my roster. It seems like it might be a DNS
+glitch with dreamhost, but I can't get it nailed out. Secondly, I
+seem to have done something so that I can *only* connect to my
+account using mcabber, which isn't a problem in the short term, but
+it could be annoying/deal breaking in the long term. At some point
+I'll probably switch to running my own XMPP server (when I move off
+of dreamhost) but in the mean time it would be nice to have this
+fixed.
+
+-  I'm thinking of switching away from Wordpress to a blogging platform
+called `Jekyll <http://github.com/mojombo/jekyll/tree/master>`__.
+This tool would conform more to my workflow (easier posting), it
+would be fun to have a blogging platform that I could conceptually
+hack on myself. While I've been using Wordpress in its current
+iteration for three or four years, I've used a lot of different CMSs
+to power the TealArt/tychoish website. Greymatter (back in the day),
+b2 (the predecessor for wordpress), and a custom CMS that a friend
+wrote in 2001-2002. And I've toyed with Drupal and Moveable Type, of
+course. While the current setup works--I think it's not entirely
+ideal. I'll need to blog about this a bit more before. And the
+conversion process promises to be somewhat complex. There's always
+something interesting going on.
+
+-  I'm thinking of using bootcamp and installing Linux on my macbook,
+and going back to using that hardware more full time. It's good
+hardware, I already have it, and it might be fun to use another
+installation opportunity to play with Arch Linux (though I'll
+probably wimp out and install ubuntu again). What I've discovered, I
+think, is that while I have a lot of respect for and history with
+Macs and OS X, a linux/awesome platform is--at the moment the system
+that I feel most comfortable "living in," and most productive working
+in.
+
+Anyway, I'll get back to my day, and enjoy yours too. Remember today
+means, 10.5 months without Christmas Music in public. That's something I
+think we can *all* celebrate.
+

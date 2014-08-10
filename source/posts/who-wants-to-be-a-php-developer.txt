@@ -1,0 +1,59 @@
+================================
+Who wants to be a PHP Developer?
+================================
+
+.. post:: 2010-05-11
+   :author: Sam Kleinman
+   :tags: cyborg
+
+So PHP is this programming language that's *widely* used, and often
+reviled by systems administrators and people who fancy theme selves
+"real programmers." And yet, I think, while the "real programmers" were
+busy being "real," PHP got something very fundamental *right* that
+explains its success despite the disdain.
+
+I should interject with some context. First, I think this is another in
+my ongoing series of posts regarding `linguistic relativism and computer
+programming <http://tychoish.com/rhizome/sapir-whorf-hypothesis-and-computer-programing/>`__.
+Second, for those of you who don't spend your days in this space PHP is
+a programming language designed *specifically* for use in the context of
+the web, and it has only comparatively recently emerged as a possibility
+for "general programming tasks," in contrast to other languages in "the
+space" (ruby, python, perl, etc.) which started as general purpose
+languages that have become common for use for web programming. Also as a
+computer language, there's nothing particularly *innovative* about PHP,
+which earns it no small amount of ire.
+
+So here's the thing. PHP is easy. It's designed to be easy. The syntax
+is familiar to people who are know even a little Perl or other C-like
+languages. Although the language has had object oriented support for
+several years, most PHP applications aren't written in an object
+oriented manner and in a number of contexts that makes things a bit
+easier to understand.
+
+And here's the thing that I seem to notice in the context of
+administration: compared to other languages and frameworks, PHP is
+*dead* simple to deploy. Sure, everything under big loads becomes
+complex, and sure PHP applications consume more server resources than
+perhaps they should, but basically you configure a web-server to process
+PHP code, and then you write your code, inside of your page, and the web
+server generates what you need it to, and it just works. You don't have
+to screw around with writing boilerplate CGI stuff, you don't have to
+screw around with cgi-bins/ and script aliases which were never
+intuitive, you don't need special servers, it just works.
+
+And I already know that, someone is going to tell me that there's a Perl
+module that lets you use perl in the same way, or that Python and Ruby
+don't make you write CGI boilerplate either (or that there's a Perl
+module to write the CGI boilerplate). And I know these things, but I'm
+not sure that it matters anymore. PHP, as a language is written around
+the needs of web development, and there's merit in that.
+
+I'm not saying, "go forth and write your next application in PHP:" I
+don't even know if dynamic web applications are worth writing anymore. I
+am saying that despite all of the *dreck* in the PHP space, there are
+some things that are incredibly worthwhile that the current generation
+of web developers may miss.
+
+That is all. For now. Onward and Upward!
+

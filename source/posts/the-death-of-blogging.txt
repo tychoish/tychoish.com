@@ -1,0 +1,52 @@
+=====================
+The Death of Blogging
+=====================
+
+.. post:: 2011-06-17
+   :author: tychoish
+   :tags: new-media
+
+I think blogging died when two things happened:
+
+1. A blog became a required component in constructing a digital
+identity, which happened around the time that largely-static personal
+websites started to disappear. Blogs always dealt in the construction
+of identities, but until 2004, or so, they were just one tool among
+many.
+
+2. Having a blog became the best, most efficient way for people to sell
+things. Blogging became a tool for selling goods and services, often
+on the basis of the reputation of the writer
+
+As these shifts occurred, blogs stopped being things that individual
+people had, and started being things that companies created to post
+updates, do out reach, and "do marketing." At about the same time,
+traditional media figured out, at least in part, what makes content work
+online. The general public has become accustomed to reading content
+online. The end result is that blogs are advertising and sales vectors,
+and this makes them much less fun to read.
+
+When blogging was just a thing people did, mostly because it let them
+present and interact with a group of writers *better* than they could
+otherwise, there was vitality: people were interested in reading other
+people's blogs and comment threads. This vitality makes it more
+interesting to write blogs than pretty much any kind of content. The
+excitement of direct interaction with readers, the vitality of blogging
+transcends genre, from technical writing and documentation to fiction to
+news analysis and current events.
+
+The vitality of blogging is what makes blogs so attractive to
+traditional media and to corporations for marketing purposes, so maybe
+you can't have the good without the bad.
+
+Everyone blogs. And perhaps that's a bit of the problem: too much
+content means that it's hard to have a two way conversation between
+blogs and bloggers. Who has time to read all those words anyway?
+Blogging is great in part because it's so democratic: anyone can publish
+a blog. This isn't without a dark side: we run the risk of blogging
+without audience, or without significant interaction with the audience,
+as a result of the volume of content which threatens the impact of that
+democracy. But it makes sense, New forms and media don't solve the
+problem cultural participation and engagement, they just shift the focus
+a little bit.
+

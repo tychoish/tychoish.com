@@ -1,0 +1,37 @@
+================================
+Advice for Blogging Successfully
+================================
+
+.. post:: 2011-08-31
+   :author: tychoish
+   :tags: internet, cyberculture
+
+Although I forget it, sometimes, the following video is probably the
+single best piece of advice for better blogging. Watch the video:
+
+`Cory Docotorow - How to be an Uber
+Blogger <http://www.youtube.com/watch?v=w4S9wjuJPk8>`__
+
+Attention and time are scarce while content is plentiful. "If you write
+it they'll read" cannot, thus, be true of blogging. Interesting and
+important content is interesting, but success lies in managing the
+attention economy and focusing on output that is *easy* to read and easy
+to skim. Its not glamorous, and it requires giving up a bunch of pride,
+but writers must write with readers in mind.
+
+I'll skip the meandering analysis and get to a couple of key questions
+that I think remain open, even 4 years after this video was posted:
+
+-  What about non-newsreel blogs? Blogs that are more analysis and less
+regurgitation's of boingboing/metafilter/slashdot?
+
+-  What about non-blog content? Are books and articles, subject to the
+same overload (yes?) but are the solutions always "write easy to
+process, easy to skip," content? (Maybe?)
+
+-  The connection between the "attention" economy, evolving search
+engine use patterns, and mobile technology change the way that we
+interact with and compensate for overload?
+
+[[Discuss\|discourse]]!
+

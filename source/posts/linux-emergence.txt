@@ -1,0 +1,77 @@
+===============
+Linux Emergence
+===============
+
+.. post:: 2008-12-15
+   :author: tychoish
+   :tags: cyborg, open-source, linux
+
+*Here's a little bit about emergence/systems theory and open source, as
+promised in my `change
+process <http://tychoish.com/rhizome/theories-of-change>`__ post a while
+back.*
+
+I was reading `this
+article <http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/1482/1397>`__
+about linux and complexity theory last week, which I think is a pretty
+good frame for any discussion of open source and linux from a systems
+approach. There are a few things that I had issue with. First, the
+article is 3+ years old, and so it doesn't have the benefit of seeing
+what's happened with ubuntu linux, netbooks, the AGPL, rails and web
+2.0, let alone things like Drupal and the last two major iterations of
+Firefox, which for all their assorted faults have really changed the
+face of open source.
+
+Secondly, the empirical study focuses on the kernel development, and
+takes the kernel to represent the entire Linux eco-system, which I think
+it doesn't do very well. Kernel development is really high level, really
+niche, and despite its size, represents so little of what people think
+about when they talk about "Linux." GNOME, KDE, the GNU Toolchain, X11,
+pyton/ruby/perl, let alone the superstrucutral elements that projects
+like Debian, Gentoo and Arch represent are really more important than
+the Kernel. Debian and Gentoo more or less work with various BSD kernels
+and given enough money--to inspire interest and caring--full BSD based
+releases wouldn't be technologically difficult. The dominance of the
+Linux Kernel in the free-operating system space is--I think largely the
+result of momentum and the fact that the kernel is damn good and that
+there's not a lot of a need for another kernel option.
+
+In any case, the paper is in a lot of ways a 21st century review of
+`Eric S. Raymond's "The Cathedral and the Bazaar"
+paper <http://catb.org/~esr/>`__. Raymond's argument is taken as a
+statement in favor of bottom up organization (Linux, and the bazaar) in
+open source projects, and the author uses this insight to explore kernel
+development with some good-old systems theory.
+
+While it's very true that there isn't a monolithic organization in the
+Kernel development, it's not exactly a free for all. Linus (or whoever
+is at the top of the project) provides a measure of top-down structure.
+This makes it easier for contributions to bubble from the bottom up. I
+think it's no mistake that many open source projects have
+"dictator"-type leaders that are pretty consistent.
+
+This says nothing of the barriers to entry for most kinds of development
+in the open source world, aren't trivial (commit access projects that
+use non-distributed version control; eg. Drupal), let alone the burden
+of engineering knowledge for Kernel-level development, and other lower
+level projects. These--largely--informal standards none the less,
+constrain what happens on the kernel development.
+
+Even if a lot of the day to day work on the kernel isn't done by Linus
+himself, his presence, and the importance of his branch/tree gives
+structure. Particularly before the advent of git, but even now. And I'm
+not saying that this is a bad thing--quite the contrary, top down forces
+are often a good thing--but I do think that overly romantic depictions
+of open source development as being bottom-up/anarchical aren't
+productive.
+
+Doest his mean that Linux is a Cathedral? Or that it's headed that way?
+Not at all. But I don't think that the Bazaar is necessarily as
+bottom-up as Raymond (and those that have followed) thought it was. Open
+source is also much more commercial now than it was ten or twenty years
+ago, that can't *not* have an impact.
+
+Just thoughts...
+
+Onward and Upward!
+

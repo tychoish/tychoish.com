@@ -1,0 +1,100 @@
+=========================
+The Web Application Layer
+=========================
+
+.. post:: 2009-11-17
+   :author: tychoish
+   :tags: cyborg
+
+This post is an attempt to ask "what next?" in the world of contemporary
+application development. I'm disturbed by the conveyance of applications
+in this format. This is not news to popular readers, but, rather than
+complain extensively about the state of the contemporary technology, I
+think it would be more productive to muse on possible improvements and
+some of the underlying structural concerns in this space
+
+**In No Particular Order...**
+
+Today, we routinely design and implement user interfaces in HTML and
+JavaScript these days. I'm not convinced that HTML, or any XML based
+format is really all that good for conveying *well formatted structured
+text*, much less pixel perfect graphic design and application interface.
+
+Lightweight text markups like Markdown, reStructuredText (for all it's
+warts), and Textile are human readable, provide structure, and convey
+text well. Furthermore, it's very possible to efficiently translate them
+into very high quality output formats, including XML formats and LaTeX.
+
+One of the driving forces behind the convergence on "web-technologies"
+is that JavaScrpt/HTML/CSS are all thought to be "cross platform"
+technologies. It doesn't matter if you're running on a Mac, or a PC, or
+UNIX system, if it has a web browser it'll run there. The web
+application movement realizes the "write once run everywhere," notion
+that Sun attempted with Java in the 90s (except, that Java never really
+worked for *that*.) Except that every browser implements
+JavaScript/HTML/CSS in a different way which means, that it's really
+"write once and tweak it to death so that IE/Firefox/Webkit don't
+break." There are some things (like jQuery; HTML5) that make this
+*better*, but the browser market is dirty and browser makers will never
+be incentivized to comply with the standards. [1]_
+
+RESTful APIs [2]_ are, I think, leading to more desktop applications. Or
+at least making them more possible. It used to be very much the case
+that if you wanted web-connected data you had to go to a website. Now,
+if you want data from the Internet, in most cases it can be gotten in an
+easy to process formant (i.e. YAML/JSON) and then folded into a desktop
+application. In addition to "rounded corner power" and "social media,"
+the biggest impact of "Web 2.0" has been the increasing awareness and
+interest the API[^quality] in the more general public.
+
+Adobe AIR is a wonderful idea. Even smaller lightweight devices like
+smartphones and netbooks are so powerful that it doesn't make a lot of
+sense to have them operate as such "dumb" clients. Conventional web
+development has developers cobble together server applications that put
+together content and then chuck it off to the client for rendering. With
+APIs (see above) it doesn't make a lot of sense to leave all the heavy
+lifting on the server. Adobe understood this with AIR, the problem with
+AIR? It's wildly proprietary, applications look out of place on every
+platform, and performance is miserable relative to "real" native
+applications. Its a great idea, and I'm terribly interested to see what
+comes next in this space.
+
+I'm grumpy about HTML 5 because I remain unconvinced that web standards
+are really a viable way of regulating sane design and development
+practices. *It also seems too likely that HTML 5 solves the problems we
+were having 2 years ago, rather than the problems we'll have over the
+next 10 years.* Also, I think this world needs a hell of a lot less XML,
+in any form.
+
+What are your thoughts?
+
+[^qualit]y]:I'm not sure there is any singular aspect of the whole "Web
+2.0 thing" that is unequivocally bad or good. I think on the whole web
+design is better now than it used to be, but "rounded corner power" at
+this point all looks the same, and it's really difficult to achieve in a
+clean technological sort of way. And the web has always been social; so
+while that's not new, it's nice that the web has caught on even if the
+whole "social networking silo" phenomena is less than desirable. The
+same thing goes for RESTful APIs: it's great that data is more
+accessible, but it sucks that APIs can be so proprietary *and* I'm not
+convinced that HTTP is the "right" or "best" protocol for this
+technology. But these things happen.
+
+.. [1]
+You may think that I'm simply being pessimistic, and you might say
+that IE 7 and 8 are a huge step in the right direction and I think
+that this might be true, but the only reason to create and maintain a
+browser (to my mind) are: masochism, to get people to use your search
+engine, and to be able to implement special proprietary (and
+non-standard) features. The competitive advantage comes from the
+unique enhancements that a given browser is able to offer over the
+other browsers in the market. For a while (e.g. 1999-2007?) the more
+standards compliant a browser was the better pages looked in it. I'm
+not sure that will continue to hold true.
+
+.. [2]
+This is a simplification, but lets think of this as the obligatory
+API that all web-services provide today: from twitter to flickr, to
+YouTube, and beyond. These allow programmers to connect to the
+service using the HTTP protocol
+

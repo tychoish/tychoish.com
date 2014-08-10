@@ -1,0 +1,24 @@
+=========
+truth....
+=========
+
+.. post:: 2007-08-25
+   :author: tychoish
+
+I just signed up for a new ruby-on-rails based tumble log service that
+produced the following error message:
+
+Your browser does not support javascript and we were too lazy to
+support browsers that do not support javascript
+
+The ironic thing, is that my browser, does support java script. It's
+basically firefox written in cocoa and nice. So rather than test a
+script, they checked to see if it was firefox and then borked when it
+wasn't. Lame.
+
+Besides, who needs new fangled things like that when you have wordpress
+and all it's goodness. (ie. this site.)
+
+Speaking of Rails, I'm totally going to use the ruby instiki project
+next time I need a wiki....
+

@@ -1,0 +1,31 @@
+==============
+new about page
+==============
+
+.. post:: 2009-07-31
+   :author: tychoish
+   :tags: site, news
+
+I just wanted to post something to point out that I've updated `my about
+page <http://www.tychoish.com/about/>`__ and I think you might enjoy
+having a look. I always do enjoy reading other peoples'. Also another
+question:
+
+How are you all feeling about the archives of this site? I've been slow
+on the uptake with regards to updating tychoish.com's new archive
+system. Which makes it sound as if I have something in the works, when
+really all I did was grep through the archives and got lists of posts
+that seemed relevant to a couple of key topics.
+
+I'm not terribly keen on just throwing up an archive with links to
+everything, becuase there are probably getting close to 1400 entries,
+and I think not all of them are particularly relevant or interesting. So
+I guess the question is: what do you find most useful in terms of
+website archives, and what format works the best for you? What do you
+want me to do?
+
+Also, I think we're slowly creeping up on 600,000 words in the blog,
+only a month or two more, I think.
+
+Cheers, tycho
+

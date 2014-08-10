@@ -1,0 +1,58 @@
+===============
+writing writing
+===============
+
+.. post:: 2008-03-10
+   :author: tychoish
+
+A lot of writers keep blogs, and I take "writer" to mean, people whose
+output (creative and/or professional) is text in cases where the writing
+is an end to itself. Everyone writes--that's a symptom of an information
+world--but there is a difference between journalists, novelist, and the
+epidemiologist: everyone trades in words, but for a lot of people who
+all work in words, the *writing* is a communicative medium and often not
+meant to be read in any orderly way. Which is fine, I'm just trying to
+be concrete.
+
+Anyway, "the writer's blog" is pretty common, and I think this is really
+cool. The thing about blogs is that it's largely the "people's medium,"
+so having the same people's names in your feed reader and bookshelf
+makes writers more accessible, more human, less distant and very much
+"alive." [1]_ This is a good thing.
+
+At the same time, an embarrassing proportion of writer's blogs are about
+writing, about particular writer's experiences with the business of
+writing, experiences with the practice and craft of writing. Now this
+isn't surprising, as blogs and journals are outlets for half formed
+ideas, thoughts, and worries. Frankly, I'm a total hack at this whole
+"writing" thing, and I do this a lot. At the same time, surely, there's
+a better use of 'blog readers (and writers) time.
+
+Writers, who I respect and value, give advice that's often wildly
+contradictory: "to be successful you have to have good follow through
+and finish everything you start," and "don't be afraid to let a project
+go if you think it's not going well," or more comically "write what you
+know," paired with "write something exciting, because no one wants to
+read about your middle class angst." I think you probably get the point.
+
+Because, the secret of writing, of being a writer, is that *no one* has
+a clue as to how they/we do it: every piece of advice that I've
+heard--other than, I guess, "write more"--is ultimately superstition.
+
+As I start to work on figuring out what projects I'm working on in light
+of the impending changes in my life, I'm thinking about what it means to
+be a writer, in a non-full time capacity. Or, similarly what it means to
+be a guy with scholarly interests outside of the academy. This is sort
+of bleak, I think March may really be getting to me after all.
+
+I'm going to leave it there.
+
+.. [1] Contra to the proclamation that "the author is dead." While I really
+   like the implications of reader response theory (particularly since
+   my own work in the social sciences approaches actual conversations in
+   much the same way that reader response theorist approach the
+   "literary" text,) as literature becomes more interactive,
+   particularly in a popular context, I think some assumptions need to
+   be reexamined. I mean, John Milton's authorial intent, is indeed
+   *largely* irrelevant to contemporary readings, but I'm not sure the
+   same thing can be said of people like Cory Doctorow, for instance.

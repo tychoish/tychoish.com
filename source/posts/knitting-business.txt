@@ -1,0 +1,106 @@
+=================
+knitting business
+=================
+
+.. post:: 2008-03-25
+   :author: tychoish
+
+I got an email today from someone, who, having seen my posting on the
+`tealArt knitting blog <http://tychoish.com/knitting/>`__ regarding my
+intentions to write patterns, and pictures of some of my designs on
+ravelry, encouraged me to write patters because she really liked what
+she saw and wanted to knit some of my stranded patterns.
+
+This was amazing. And I feel when people are, basically, asking to give
+you money that you should really go with that, because its a sign.
+
+This is something that I've been thinking about for some time, and I did
+need the encouragement. But I am at a bit of a loss, about how to
+orchestrate it.
+
+The truth is that selling digital wares is a somewhat difficult
+proposition: you're selling an idea, not a physicality, and digital
+documents are infinitely copyable, so how do you both *not give
+everything away for free,* and not turn into an obnoxious capitalist
+about the whole scheme.
+
+I think a tip jar-type model is probably the easiest/most likely
+solution, but it is difficult to ponder correctly. And I want to have
+something that will last long term, and not blow away in a few months
+when fads change.
+
+So my first instinct was to write `Cory
+Doctorow <http://craphound.com/>`__, about the technological angle of
+the document distribution, because this sort of model seems to be right
+up his alley. And I think knitting patterns are enough different from
+fiction that the models are different enough that it might be
+interesting thing to explore.
+
+I'm not sure that I have a good solution, yet, so your input is of
+course appreciated, but I'll repost the relevant parts here, below the
+fold, *because I can.*
+
+.. raw:: html
+
+<!--more-->
+
+I have a question quandary that I hope you'll be able to offer some
+insight on at your connivence.
+
+I do a fair bit of design work for hand knitting, and I've gotten a
+few requests to write up and offer some patterns, but I think on a
+conceptual level these "things" could be short stories, or essays,
+or bits of software programs.
+
+This seems like a generally enviable position, but I'm at a bit of a
+loss. I have a number of patterns that are/will be for free/creative
+commons downloads. But I have a number big/intense patterns patterns
+for sweaters that I'm not sure will work well in this model. So I
+guess the crux of my question, is do you know of any good
+solution/service that will allow variable pricing/donation models,
+for electronic document delivery that don't suck and/or don't make
+me seem like an obnoxious capitalist?
+
+Some thoughts about knitting patterns in contrast to other
+electronic text solutions:
+
+-  The digital copies can sufficiently/completely replace the
+physical/paper copies (They're short, so it's feasible to print
+them).
+-  Digital copies are preferable. Many knitters photo copy patterns
+from traditionally issued books because it is easier to cary
+around a few sheets in a page protector than a whole books.
+-  If you can get all the patterns that you want from a book,
+there's little incentive to buy the book, for many. Many knitters
+will only buy a book if X number of patterns seem like things
+they would want to knit.
+
+Delightfully, knitters are pretty willing, on the whole to pay for
+things (there's disposable income there) and have adapted pretty
+well to the internet, so I think that if I can give people a way to
+pay for the documents, many will, without needing some sort of tight
+fingered system. But I'm largely unaware of what kind of options are
+out there.
+
+Any insight is much appreciated.
+
+Cheers, tycho
+
+He suggested the `Lulu.com <http://www.lulu.com/>`__ document delivery
+system that lets you both give away things for free and charge for them.
+Which seems like a good place to start, though I wrote the following
+clarification/response.
+
+I'd sort of like to do something more along the lines of another sky
+press http://www.anothersky.org/, so that it presents folks with a
+"buy now for \_\_\_\_" box with some reasonable value in it, with an
+explanation that you could set it to zero, and you could get it for
+free... So that the downloading experience is structured around the
+expectation of "not-free" but is still freely available.
+
+I fear having to home bake something, which would take too much time
+away from doing other things, like writing, but it might not be
+*that* hard.
+
+Thanks, cheers...
+

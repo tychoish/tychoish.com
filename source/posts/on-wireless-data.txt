@@ -1,0 +1,60 @@
+================
+On Wireless Data
+================
+
+.. post:: 2011-01-04
+   :author: tychoish
+   :tags: cyborg, internet, mobile-technology
+
+It's easy to look around at all of the "smart phones," iPads, wireless
+modems, and think that the future is here, or even that we're living on
+the cusp of a new technological moment. While wireless data is amazing
+particularly with respect to where it was a few years ago--enhanced by a
+better understanding of how to make use of wireless data--it is also
+true that *we're not there yet.*
+
+And maybe, given a few years, we'll get there. But it'll be a while. The
+problem is that too much of the way we use the Internet these days
+assumes high quality connections to the network. Wireless connections
+are low quality regardless of speed, in that latency is high and dropped
+packets are common. While some measures can be taken to speed up the
+transmission of data once connections are established, and this can give
+the illusion of better quality, the effect is mostly illusory.
+
+Indeed in a lot of ways the largest recent advancements in wireless
+technology have been with how applications and platforms are designed in
+the wireless context rather than anything to do with the wireless
+transmission technology. Much of the development in the wireless space
+in the last two or three years has revolved around making a little bit
+of data go a long way, in using the (remarkably powerful) devices for
+more of the application's work, and in figuring out how to cache some
+data for "offline use," when it's difficult to use the radio. These are
+problems that can be addressed and largely solved in software, although
+there are limitations and inconsistencies in approach that continue to
+affect user experience.
+
+We, as a result, have a couple of conditions. First that we can transmit
+a lot of data over the air without much trouble, but data integrity and
+latency (speed) are things we may have to give up on. Second that
+application development paradigms that can take advantage of this will
+succeed. Furthermore, I think it's fairly safe to say that in the
+future, successful mobile technology will develop in this direction as
+opposed against these trends. Actual real-time mobile technology is dead
+in the water, although I think some simulated real-time communication
+works quite well in these contexts.
+
+Practically this means, applications that tap an APO for data that is
+mostly processed locally. Queue-compatible message passing systems that
+don't require persistent connections. Software and protocols that assume
+you're always "on-line" and are able to store transmissions gracefully
+until you come out of the subway or get off of a train. Of course, this
+also means designing applications and systems that are efficient with
+regards to their use of data will be more successful.
+
+The notion that fewer transmissions that consist of bigger "globs" of
+data will yield better performance than a large number of very small
+intermediate transmissions, is terribly foreign. It shouldn't be, this
+stuff has been around for a while, but nevertheless here we are.
+
+Isn't the future grand?
+

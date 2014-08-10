@@ -1,0 +1,71 @@
+===============
+Happy New Years
+===============
+
+.. post:: 2009-01-01
+   :author: tychoish
+
+I'm writing you all today from OS X for the first time in months. Also,
+I'm writing another journal entry in honor of the weekend-like quality
+that the holiday has, and I'm writing it right before I post it rather
+than in my usual bi/tri-monthly binge writing style. Very strange.
+
+Just to comment on the experience of the new/old environment, I'm sort
+of distraught by how uncomfortable it feels I mean OS X is pretty, and
+it does a better job with the hardware than Ubuntu (more on this later)
+but I'm just not used to it any more, and even though I really *like*
+TextMate... meh. [1]_
+
+I rang in the new year by wrapping up a scene in the novel that had been
+nagging at me for several weeks. It's the longest single "chunk" of
+writing in the project thus far, and the oddest, but I like it a lot. It
+represents, I think, a number of developments for me as a writer. First
+it's a big plot twist, and it's *action*, two things that I've felt I've
+not been able to capture correctly thus far. I'm just over the 19k word
+mark, and the next scene promises to be fun. By my estimates this is
+about a third of the story, which feels about right in terms of the plot
+right now.
+
+A lot of people seem to be writing blog posts and journal posts on their
+review of the past year and their thoughts for the future year. This
+year has had it's trials (the ongoing grandparental health issue; the
+not getting into graduate school take 2; the lack of knitting) and its
+high points (a new job that I adore, linux and a new academic direction,
+more writing, still being alive.) And I expect that the new year will
+have more of both: though certainly I'm working towards more high points
+and fewer trials.
+
+My resolution last year was to keep a list of books and fiction that I
+read. I was pretty successful at this, though certainly I haven't
+figured out *the hack* to carve out time for me to read fiction in the
+sort of concerted way that I feel I need to be reading fiction. But I'll
+continue to keep the list, that's been fun.
+
+This years resolution is more complex, I suppose, and I'm not going to
+spell it all out here. This year promises to hold a number of big
+changes: a move, some trips, more awesomeness in the job, some new big
+project, and so forth. If nothing else, I think my overall approach at
+the moment is to work on getting closure with old projects before
+starting with new projects. Seems like a plan. I'm not sure if that's a
+resolution though.
+
+In any case, be warm (or cool) and well in the new year and I'll be back
+with our regularly scheduled programing very shortly.
+
+.. [1]
+I've spent some time getting OS X set up on the macbook because I
+think I'm admitting that Ubuntu isn't right for this hardware. While
+it *mostly* does a pretty good job it falls apart in a couple of
+important places. The biggest issue is that the trackpad is supported
+poorly. It works, but I can't get it to turn down the sensitivity to
+a useable level--which is minor, because I can get it to turn off and
+I don't need it most of the time--but more importantly the
+suspend/hibernate/wake reliability is sub-usable. Mostly it works
+fine, but sometimes the mouse doesn't work, or clicks erratically, or
+responds to input erratically and restarting X doesn't work. I'm, at
+this point, blaming it on Ubuntu's hardware abstraction layer, and
+I've resolved to use OS X for a while and then I'll give Arch Linux a
+try. In the mean time... I have one working portable system (OS X)
+and a working desktop system, of course. So all is well in technology
+land.
+

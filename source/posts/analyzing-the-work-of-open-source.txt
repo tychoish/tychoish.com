@@ -1,0 +1,72 @@
+=================================
+Analyzing the Work of Open Source
+=================================
+
+.. post:: 2010-03-30
+   :author: Sam Kleinman
+   :tags: free-software, open-source, programming, labor, cyborg
+
+This post covers the role and purpose (and utility!) of analysts and
+spectators in the software development world. Particularly in the open
+source subset of that. My inspirations and for this post come from:
+
+-  `Why is there no Anthropology
+Journalism <http://savageminds.org/2010/01/26/3145/>`__?
+
+-  `This Video Featuring an interview with Michael Coté of Red
+Monk <http://vimeo.com/9196617>`__
+
+--------------
+
+In the video Coté says (basically,) open source projects need to be able
+to justify the "business case" for their project, to explain what's the
+innovation that this project seeks to provide the world. This is
+undoubtedly a good thing, and I think we should probably all be able to
+explore and clearly explain and even justify the projects we care about
+and work on in terms of their external worth.
+
+Project leaders and developers should be able to explain and justify the
+greater utility of their software clearly. Without question. At the same
+time, problems arise when *all* we focus on is the worth. People become
+oblivious to how things work, and become unable to successfully
+participate in informed decisions about the technology that they use.
+Users, without an understanding of how a piece of technology functions
+are less able to take full advantage of that technology.
+
+As an aside: One of the things that took me forever to get used to about
+working with developers is the terms that they describe their future
+projects. They use the imperative case with much more ease than I would
+ever consider: "the product will have this feature" and "It will be
+architected in such a way." From the outside this kind of talk seems to
+be unrealistic and grandiose, but I've learned that programmers tend to
+see their projects evolving in real time, and so this kind of language
+is really more representative of their current state of mind than their
+intentions or lack of communications skills.
+
+Returning for a moment to the importance of being able to communicate
+the business case of the projects and technology that we create. As we
+force the developers of technology to focus on the business cases for
+the technology they develop we also make it so that the only people who
+are capable of understanding how software works, or how software is
+created, are the people who develop software. And while I'm all in favor
+of specialization, I do think that the returns diminish quickly.
+
+And beyond the fact that this leads to technology that simply isn't as
+good or as useful, in the long run, it also strongly limits the ability
+of observers and outsiders ("analysts") to be able to provide a service
+for the developers of the technology beyond simply communicating their
+business case to outside world. It restricts all understanding of
+technology to *journalism* rather than the sort of "rich and chewy"
+(anthropological?) understanding that might be possible if we worked to
+understand the technology itself.
+
+I clearly need to work a bit more to develop this idea, but I think it
+connects with a couple of previous arguments that I've put forth in
+these pages one regarding `Whorfism in
+Programming <http://tychoish.com/rhizome/sapir-whorf-hypothesis-and-computer-programing/>`__,
+and also in `constructing rich
+arguments <http://tychoish.com/rhizome/building-the-argument/>`__.
+
+I look forward to your input as I develop this project. Onward and
+Upward!
+

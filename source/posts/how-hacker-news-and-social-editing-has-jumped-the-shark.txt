@@ -1,0 +1,64 @@
+=======================================================
+How Hacker News and Social Editing has Jumped the Shark
+=======================================================
+
+
+How's that for a Malcolm Gladwell-style subtitle title?
+
+`Alex Payne <http://al3x.net/>`__ posed a piece on why he thought that,
+basically `Hacker News <http://news.ycombinator.com>`__ had `jumped the
+shark <http://al3x.net/2011/02/22/solving-the-hacker-news-problem.html>`__.
+He's right, of course, but I think that his analysis of the root cause
+of the problem, and therefore the solution he proposes, is a bit too
+optimistic.
+
+It seems to me that all of these socially edited link-based blogs where
+lots of people submit links and then the community votes on these
+stories to generate headlines and a filtered and sorted selection of
+content based on the appetites of the communities.
+
+Hacker News tried, and succeeded for a time because the contributors
+(people who voted on, submitted, and commented on items) was small and
+focused enough that the content managed to coherent overall. There
+wasn't enough content to necessarily overwhelm, both the readers and the
+potential contributors, and most things were interesting to most people.
+It was a golden age.
+
+I think the problem with this model of generating content is that the
+golden ages don't last very long. Sites "jump the shark" as the tightly
+focused content of the early, gives way to a more loose, less
+specialized, and more self-interested content submissions and
+selections. The factors that I think lead to this are:
+
+-  There's too much content. Such sites should be "filters," and their
+fundamental service is to take the whole internet and tell readers
+"you should be reading this because we think it's
+interesting/important." As communities of editors grow, as the
+marketing power of filter sites increases, and if the "cost" of
+submitting a link remains constant, then the use of the filter breaks
+down and everyone gets overwhelmed.
+
+-  There's not enough focus/responsibility on the part of the editors.
+When you have a few dedicated and professional editors, you begin to
+see consistency and perspective and approach in the content that is
+curated. When this function is distributed among a large group of
+community members: amazing things can happen but that's not a
+guarantee.
+
+-  Community edited sites tend to become incredibly self interested
+after a certain point. There's a certain kind of story either about
+the community itself or that strikes submitters as being "about the
+kind of people that participate in the community, or "the kind of
+thing that people who read the site might like," rather than things
+that interest them. Perhaps some of this comes from the game-based
+dynamic of rating systems and karma, perhaps it's just a *thing that
+happens*.
+
+In many ways, `Trivium <http://chneukirchen.org/trivium>`__ is probably
+the best example of a link filter blog. Alex Payne points to MetaFilter
+as an example of a site which has solved this problem, and although I
+have had a MeFi account for years, I've never been able to really get
+into it. Long story short, we still need editors and editorial vision,
+and the issues we're seeing isn't about the "focus" of a community, as
+much as it is a property of communities themselves.
+

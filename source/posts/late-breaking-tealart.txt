@@ -1,0 +1,82 @@
+=====================
+Late-Breaking TealArt
+=====================
+
+.. post:: 2007-08-13
+   :author: tychoish
+
+Hello friends!
+
+I hope you had a good a productive weekend. This message will be brief
+(sorry!). As you can see, perhaps the biggest news for TealArt is the
+new design. The template is completely home grown, and I'm quite pleased
+with the result. I have to imagine that a good percentage of our
+readership is via RSS, so in a sense it doesn't matter much, but I do
+think that the old design was, *ahem* difficult to read and squished. I
+hope this addresses that problem. One person pointed out that our look
+is very "web 1.0" and I think that's completely true and I embrace that.
+We're just a text based weblog and there's not a lot between you and the
+text. As there should be.
+
+My other concern, and Chris' predictable comment, is that the font is
+atypical and hard to read. This monospaced font ("monaco," or courier if
+you don't have it). Is the font that I live in, and so maybe I'm used to
+it. In any case we're talking about how to make it a little more livable
+for you all, and if you have any recommendations, I'm going to be making
+a few tweaks over the next week or so. On my list already is:
+
+-  A template for static pages (ie. our profiles, that our outside of
+the loop) like our profiles.
+-  Narrow the comment entry field so that it doesn't spill over.
+-  Make an adjustment to the category pages so that they display a
+complete, rather than a partial list of entries in a given category.
+
+Anything else to add to this list is of course welcome. And if you have
+an idea about how to use a cool font that isn't Verdana, Times, or
+Georgia, I'd love to hear it.
+
+In terms of TealArt content for the rest of the week:
+
+There's going to be another two-part Station Keeping story. This is the
+penultimate installment, and it's a little bit different: it's a script.
+I've always been intrigued by scripts and I quite like writing them, but
+I have until now, not had a very good way of getting a script into any
+sort of format, particularly one readable on a website. But there's an
+amazing `screen writing bundle for
+TextMate <http://ollieman.net/screenbundle/>`__, which is the ideal
+writing environment for me at the moment. I had a great deal of fun with
+this installment, and I'll talk a little bit more about it in the intro
+tomorrow, but I'd really like to know what you all think: I'm
+considering doing large portions (all) of Season 3 as a script, and
+would really like to know how it plays.
+
+I also have an essay on writing and productivity for you on wednesday,
+and there'll be something fun on Friday.
+
+In terms of me, I'm adjusting to life back here. Classes start next
+week, and while it's good to have classes to go to, they weren't the
+classes that I had hoped for, and at least some part of me is saying
+"but I just graduated!" All of these things are true, but these classes
+are pretty exciting, and on the whole I think a good thing. I have
+scores of things to do between now and then, but I'm pretty excited
+about a lot of the stuff that I've been up to.
+
+One of those things (and I promise that this is the last thing), is this
+new novella that I'm working on. Being more of a longer-form guy, I
+haven't really had a chance to spend a lot of time with a fiction
+project in years (save station keeping, and the project from whence it
+grew), and it's great to be working on something. I'd probably be pretty
+pleased no matter how it was turning out, fiction writing is one of
+those things that I just need to do, but having said that, it's turning
+out really well. I feel pretty good about my process and the product.
+I'm done with the first chapter, for now, and I'm starting to mull over
+the second chapter which I hope to have a serious dent in by this time
+next week. It's not TealArt, *per se*, but its exciting, so that's good
+enough for me.
+
+Anyway, I've rambled for long enough, I think it's time to get ready for
+the day in earnest. Have a good week, and I'll see you tomorrow for a
+new *Station Keeping.*
+
+Cheers, tycho
+

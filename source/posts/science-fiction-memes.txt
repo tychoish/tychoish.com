@@ -1,0 +1,103 @@
+=====================
+Science Fiction Memes
+=====================
+
+.. post:: 2007-08-29
+   :author: tychoish
+
+Wait, before you ignore this post, know that this isn't a discussion of
+*internet* science fiction memes, but rather replicating trends in the
+genre. I'm not going to post a list of books or movies with an
+embarrassingly small number of titles bolded or italicized. Just saying.
+
+In any case, I've been milling about the memes in science fiction, the
+trends that repeat (with varying degrees of utility) for a number of
+weeks, and it remains a chief nagging point on my todo list. As I return
+to science fiction writing it's something that I've found myself eager
+to consider as I make sense of the genre (again).
+
+This was, like a number of the essays/posts about writing methods and
+practices that I've posted in recent weeks, spurred by listening to one
+of `Cory Doctorow's <http://craphound.com/>`__ podcasts of a panel he
+was on with a few other science fiction writers.
+
+There were a lot of somewhat germane debates that are so typical of
+science fiction discussions, over literary-ness, over "accuracy" and the
+ability of science fiction to predict the future [1]_, and originaity in
+the genre and so forth (actually I need to write a post about this). But
+one thing that Cory said that struck me, about both, I think literary
+tendencies and originality was that science fiction is a genre where
+almost cut their teeth on a retelling of Isaac Asimov's "Nightfall,"
+story. To drive this home, in the next week or so I listed to `Nancy
+Kress' "Ej-Es" <http://escapepod.org/2007/07/26/ep116-ej-es/>`__ on
+Escape pod. Which was amazing, and then I realized that of course it
+followed the basic "Nightfall" type story structure. (Sorry for the
+semi-spoiler, it's still a great story.) Nightfall is not only a great
+story, but its framework gives us the possibility of thinking about our
+reflexes, and habits, that can be a great tool for getting into
+"sociological sf."
+
+After recognizing the nightfall meme, I thought immediately about
+another huge trope in (particularly hard) SF: the Mars book. In addition
+to retelling nightfall, there's also a meme of writing "the mars book"
+about the red planet. Think: `Martian
+Chronicles <http://en.wikipedia.org/wiki/The_Martian_Chronicles>`__, and
+`Kim Stanley Robinson's Mars
+Trillogy <http://en.wikipedia.org/wiki/Mars_trilogy>`__, and not to
+forget `Stranger in a Strange
+Land <http://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land>`__ and so
+on and so forth. Hell, my current novella project is a Mars Book, though
+it's by no means a hard-sf project. The Mars book/story, I think *is*
+the hard SF trope, because it lets writers talk about space travel,
+colonization, and so forth, without getting "fantastic."
+
+There's also sub/alter-genres, like space operas, and alternate history,
+and the various -punks (cyberpunk, steampunk, Cory's disneypunk, etc)
+and so forth, that are in their own way memes. There are conventions
+which are played with and broken/bent to varying degree's, but still
+replicate throughout significant swaths of the literature, and if
+nothing else I think that's incredibly interesting.
+
+I guess the main point of this argument is to say that, I'm not sure
+that Memes are such a bad thing. In a lot of ways they seem to be a lot
+of the connective force behind the genre. I mean it can be taken to
+extremes, of course, but all things can. Also, I think it would be
+foolish to suggest that SF is the only genre that has such memes. I
+guess this all got started by a question about "is there anything that's
+truly new and original happening now," and the answer is, yes and no.
+
+Everything new, even recombinations of old material is, original. Even,
+dare I say, Kirk/Spock Star Trek fan fiction represents some kind of
+forward movement for the genre and the community. Now don't take the
+Kirk/Spock too far, and there is such a thing as blatant plagiarism, but
+I think at the heart of the matter is the fact that we don't actually
+*really* want things that are original and different, that kind of thing
+is jaring, and by its very nature difficult to understand. This doesn't
+mean that a given retelling of Nightfall, or a book about Mars, doesn't
+further a discussion along. Even in science, where new studies are
+supposed to create new knowledge, it's all incremental.
+
+The qualities that make good science fiction, captivating stories,
+interesting questions and perspectives, honest characters, and enjoyable
+settings are for the most part independent of there being "something
+new," and I think you can say something really new in a fairly typical
+space opera, and tell a completely contrite in *the new thing that we've
+never seen yet*.
+
+So there.
+
+Have fun, tycho
+
+.. [1]
+Cory rehashes some of these ideas
+`here <http://www.locusmag.com/Features/2007/07/cory-doctorow-progressive-apocalypse.html>`__,
+but I think on the whole, science fiction isn't really about the
+future, and never has been. "True" to current understandings of
+science, or not, science fiction is always both future oriented
+(looking forward) and about the present. If you're a contemporary
+setting using contemporary technology, or in a near future setting,
+using "accurate" technology, or if you're writing a story ten
+thousand years in the future using wildly futuristic technology, it's
+all to a certain measure irrelevant, and even more importantly, it's
+all made up anyway.
+

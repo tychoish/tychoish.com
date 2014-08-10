@@ -1,0 +1,17 @@
+============
+worth a shot
+============
+
+.. post:: 2007-06-24
+   :author: tychoish
+
+well the blogmate thing totally didn't work out.
+
+`MarsEdit <http://www.red-sweater.com/marsedit/>`__ for the win.
+
+I have to say that I'm a better blogger (ie. I link more) when in
+textmate where there's a key command to link a selected phrase to the
+first google result for that selected phrase. It's awesome!
+
+anyway, back to "real" work
+

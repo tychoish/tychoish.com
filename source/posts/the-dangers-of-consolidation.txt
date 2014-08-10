@@ -1,0 +1,89 @@
+============================
+The Dangers of Consolidation
+============================
+
+.. post:: 2009-11-13
+   :author: tychoish
+   :tags: publishing, new-media
+
+I mentioned in an earlier post `that I thought Barnes and Noble was
+largely responsible for the ongoing and impending collapse of the
+publishing
+industry <http://tychoish.com/rhizome/on-wanting-a-kindle/>`__, and
+that's just the sort of thing that I couldn't leave a lone without a
+little bit of further pondering.
+
+The assertion is that Barnes and Nobel, and Borders particularly as they
+competed for near total domination of the local-book retail market,
+forced a consolidation of the publishing industry at the very moment
+when the worst possible thing for publishing was consolidation.
+
+Consolidation allows an operation to make a bunch of money quickly. The
+mechanics of this are pretty simple, after all. When yo consolidate you
+can cut all sorts of mundane expenses, from the physical costs of
+maintaining parallel operations, to hard costs like printing and
+shipping costs that can benefit from collective organization.
+
+Amazon had a role in the consolidation of sale of books, certainly, but
+Amazon has always been a *distribution* and *data* company, primarily.
+Their strategy is to find a way to turn a profit on the sale of goods,
+any goods: they do this by having a *complete inventory of everything*
+and levering a lot of data concerning buying habits and browsing habits
+to make sure people who are shopping find something to buy.
+
+Where Amazon's limiting factor is connecting people who want to buy
+things (books) with books they might like to buy, the "traditional" book
+sellers, are limited by the amount of shelf space they can use to
+display and promote books. So they edged all of the little booksellers
+out of business by having huge stores and coffee shops and so forth, and
+then faced with too many books and not enough shelf space, they used
+their muscle to push the publishing industry toward increased
+consolidation and a "blockbuster" business model.
+
+Blockbusters are how the movie industry works. Production companies make
+a bunch of movies, on the premise that if one or two turn a huge profit,
+they can afford to make a number of movies that flop or that just
+break-even. Hence the great power of reliable successes: another John
+Grisham novel, Return of the Mummy King VI, etc., the "copy-cat"
+phenomena and the erosion of the independent movie production business.
+
+Book sellers were culpable as well--consolidation is attractive in what
+are essentially commodity businesses--and selling easily produced
+paper-based volumes is a commodity business. Maybe it would have
+happened anyway, but the undeniable market success of Barnes and Nobel
+is not, given what I can tell from where I'm sitting, a marker of
+success of the publishing industry as a whole.
+
+And you know, when you're a book seller, throwing the publishing
+industry onto the tracks before an oncoming train, to achieve some
+mildly impressive profits for a decade seems... not incredibly bright.
+And not the kind of thing that I'm interested in supporting or putting
+my faith in.
+
+It strikes me that this "consolidation meme" is a common feature of
+unsustainable and inauthentic economy, and it extends beyond book retail
+into other failed and failing sectors of the ecomony.
+
+-  **Banks**. Obvious here. The big banks lost track of the micro
+economics that make the macro economics go, and we got things like
+sub-prime morgages, because while they make sense from the
+consolidated-bank perspective they don't make sense to *people*.
+Like, the John Grisham-esque Legal/Drama/Thriller book makes a lot of
+sense to the booksellers and the publishers, but most people can only
+really read so many of them before loosing interest.
+
+-  **Software**. Microsoft's production of windows makes a lot of sense
+if you're a big company, but if you use computers in a specialized
+way, Windows is like an illfitting suit from Target. It works, but
+it's uncomfortable and rough around the edges. There is general
+consensus that "The Microsoft Way" isn't the best technological
+solution to the various problem, even among people who use it
+regularly (developer tools might require a slightly more complex
+investigation).
+
+-  **Your Example Here**. Leave a note in the comments.
+
+--------------
+
+Thoughts?
+

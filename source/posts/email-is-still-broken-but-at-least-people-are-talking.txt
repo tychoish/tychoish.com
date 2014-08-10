@@ -1,0 +1,84 @@
+======================================================
+Email is Still Broken, but at Least People are Talking
+======================================================
+
+.. post:: 2009-12-10
+   :author: tychoish
+   :tags: cyborg
+
+Email is broken. I don't think the assertion really even requires an
+example for everyone to concur. Spam, ongoing wars over decades old
+standards and protocols, bacon (automatically generated email that you
+want), listservs, poorly written clients, and mixed expectations
+regarding replays, make email frustrating to deal with under the best of
+situations.
+
+Email is also inescapable. There's no other technology around at the
+moment which pushes messages out to users as effectively (every other
+thing is pull), provides administrators with as many tools and options,
+or has such ubiquitous adoption rates. I'd love to be able to say "don't
+send me emails, I won't get it," but the truth is that I get and send a
+bunch of email, and every other option for "next wave" digital
+communication fails to impress.
+
+Including `Google Wave <https://wave.google.com/wave/>`__.
+
+Don't get me wrong, Wave is nifty. Hampered mostly by an interface which
+is foolish and gimmicky, I think Wave provides capabilities that we need
+on the Internet. Wave makes multi-user chat useful for people who have
+trouble wrapping their brain around IRC. Wave strikes the right balance
+between "real-time" and persistence (which is mighty difficult), and
+most importantly...
+
+Wave gets people thinking about email, and what the ideal replacement
+might look like. And that's a good thing indeed.
+
+Maybe, more importantly, Wave moves many of the trivial uses of email,
+into a more suitable format (XMPP) so that email, or whatever replaces
+it, has a more easily defined task. Maybe there are a couple of XMPP
+applications: Jabber, Wave, and (----) [1]_ that work in concert to
+alleviate the pressure on email and make it much more clear what "the
+email killer" will look like.
+
+To my mind, one of the biggest problems with email is that we use it for
+too much, including a number of things that it's not ideally suited for.
+Perhaps the way to fix email is to fix all of these other communication
+problem, and see what's left.
+
+Here's a list of the things what I think we use email for today, to
+which it is unsuited, followed by a couple of examples?
+
+-  **Notifications.** There's been a reply to a comment on your blog,
+someone has commented on your face-book status update, it's time to
+renew your domain name, your payment has been processed. Etc.
+
+-  **File Transfer.** Look at my resume. Here's the paper I owe you. I
+was looking for your article and wondered if you might have a copy
+you could share? Here's this funny picture my uncle sent me. Etc.
+
+-  **Content Review.** Could you take a look at this essay or bug
+report? I mentioned this in an IM but didn't want to send it in that
+format.
+
+This leaves us with a relatively short list of things: genuine letters
+(i.e. first class mail; generally "asynchronous personal communication")
+and listservs (which like Usenet are probably the best way to have
+async-group communication online from the users perspective). And spam,
+but we don't care about that.
+
+So what's the best way to handle what's left? Hell, what's the best way
+to handle the rest of it?
+
+I don't think there are good answers yet, at all, and I look forward to
+continuing to thing about these issues in a *big* way.
+
+.. [1]
+I think this might tie back to my `posts
+on <http://tychoish.com/rhizome/notifications-and-computing-contexts>`__
+`notification
+systems <http://tychoish.com/rhizome/how-id-like-to-be-notified>`__,
+but more along the lines of what we currently use SMS for (say,) but
+I'm not sure what this looks like in a personal (much less
+interpersonal) method. Lots and lots of whitelisting, that's for
+sure.
+

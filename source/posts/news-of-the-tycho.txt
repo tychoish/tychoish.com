@@ -1,0 +1,97 @@
+=================
+news of the tycho
+=================
+
+.. post:: 2008-06-30
+   :author: tychoish
+
+This is a post that's just meant to keep you all updated of projects
+that I've talked about recently, but haven't had time to write or talk
+about extensively about recently.
+
+-  I'm writing. Not as much as I'd like, but pretty regularly. I expect
+that come hell or high water I'm going to start the new fiction site
+the week of July 14th.
+
+-  I suspect in my next post to tychoish I will cross the 400,000 word
+mark for posts on this website (and tealart which proceeded it).
+Thats *crazy*, though my verbosity should come as a surprise to no
+one. Also, I think that July 1 is probably as good a marker as any
+for my first anniversary of blogging at tychoish.com. It's been
+awesome, and I'm not stopping anytime soon.
+
+-  I'm making a formal effort to learn how to program in Python. I've
+gotten the `O'Reilly <http://oreilly.com/>`__ "Learning Python" book,
+and I'm enjoying it, and I think I'm at a point where I might
+actually be able to make a go of this.
+
+-  I've done a little programing in the past, mostly a little PHP
+(for the website) and some shell scripting for day to day stuff
+that I do around here. But I've never actually tried to learn
+something, opting to just tinker around instead. But I'm starting
+to get to a point where there are things that I need or want to
+learn how to program, and I've decided that python is probably
+*the best/only* language that I need to learn. It seems to combine
+both straightforwardness with flexibility, and does away with the
+aspects that I find most annoying about other languages (Perl, not
+straightforward, lots of modules; PHP, not incredibly useful
+outside of website programing; ruby, oy; C/C++/Objective-C too
+much overhead; anything else, too marginal). So I'm looking
+forward to it and enjoying it mightily.
+-  Having some moderate level of proficiency in a real programing
+language will--with luck--be helpful in the job search.
+
+-  Another high level project for me at the present is my job search for
+the intermediate term. I think I want to go to graduate school at
+some point, but I'm more interested in doing something in the interim
+that might flow into graduate school eventually, and something that
+isn't just marking time. More than anything it's weird to go from
+having things so thought out and certain-seeming, to not throughout
+at all. I'm not sure that this is a bad thing, it's just wierd
+
+-  Now for a couple points of geekery:
+
+-  I've changed the color scheme for my terminal window, and as a
+result have found myself using vim more often. It's teal, which is
+better than the navy that it was before. Easier to read, and it's
+sort of fresh and inspiring. Oddly. I like vim a lot, though I
+must say that I need to spend some time learning emacs key
+bindings, because I don't know them and Cocoa on the mac uses
+them, so not knowing them is a hinderance.
+-  I might have mentioned this earlier, but for the past eighteen
+months or so I've been using
+`subversion <http://subversion.tigris.org/>`__ (svn) to
+organize/collect/backup my files. I write a lot (no really) and
+spend my working day and night munging text files in various ways
+and it makes a lot of sense to me to use version control to stay
+on top of this. Anyway, I've been thinking about switching to git
+recently and I think I'm going to go through with it later this
+fall. Here's my thinking:
+
+-  My current setup involves having svn repositories on my hard
+drive, and then backing up dump files semi-regularly to a flash
+drive and to the cloud. This replicates a lot of functionality
+of git (the local repository) which makes commits fast and
+frequent, but I'm unsatisfied with the backup/offsite
+component.
+-  Though svn solves the problem with copying and moving files and
+their histories which CVS (apparently) couldn't deal with,
+merging and reverting to previous versions is a royal pain in
+the ass, as a result I'm not prone to doing it. Git would help
+ameliorate this problem.
+-  A lot of svn "features" (tagging, etc) rely on you lying out
+the repository in a certain sort of way from the get go. This
+is fine if you're a programer, but the truth is that I don't
+often think to arrange my writing projects and whatnot in this
+way, and as a result a lot of this is lost on me.
+-  All the cool kids are doing it, and I'm nothing if not a
+joiner. (Ha!)
+
+-  A few weeks ago I completely hosed the installation of ruby on my
+computer. Lets not talk about it. I have something marginal
+working but I should probably do a reinstall of the operating
+system, but I'm resistant.
+
+I think on the whole I'm doing pretty good, I'll (of course) be in
+touch.
+

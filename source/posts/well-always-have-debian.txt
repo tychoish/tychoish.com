@@ -1,0 +1,62 @@
+========================
+We'll Always Have Debian
+========================
+
+.. post:: 2009-12-17
+   :author: tychoish
+   :tags: linux
+
+I know I just wrote a `long piece about Arch
+Linux <http://tychoish.com/rhizome/getting-the-most-from-arch-linux/>`__
+and for most things I've pretty much switched to Arch Linux as my
+primary, day to day, distribution. In fact, when an Arch Linux issue
+comes up at work my coworkers call me first. And I suppose it's well
+earned. But if you were to ask me what my favorite Linux distribution
+project was, I'd probably say Debian as often as not.
+
+I run a lot of Debian, straight up, unmolested (mostly) Debian Stable.
+There are a lot of practical reasons for this: it's stable, I have faith
+that it's going to work and do what I need it to. Aside from keeping on
+top of normal security issues, the system is stable and doesn't require
+attention to keep up to date. And, in nearly every case the package
+manager can be trusted to do the right thing. There are also a ton of
+little niceties in the distribution: ``debconf``, the management tools
+for Apache, and the shear diversity of the packages. It all adds up.
+
+I mean, I have gripes with some things that Debian does, but they're
+always little. I find myself asking "Why didn't you enable
+``mod_rewrite`` by default? Really?" or "Would it have killed you to
+include software that was less than 3 years old in this release?" But
+never "Why is this broken by default?"
+
+With projects like Ubuntu getting press, attention, and energy (and
+money!) I can't help but think that the outsider might think of Debian
+as being a bit... put upon? Or not good enough in it's pure form? The
+Ubuntu folks are pretty good about talking about their Debian roots, and
+it's totally clear to anyone who really takes a good look at Ubuntu that
+most of its awesomeness is due to being Debian-derived. Even if that
+isn't terribly clear from the outside.
+
+I also really enjoy the ways in which Debian has managed to grow and
+sustain itself, and create something that is so magnificent in scope.
+The Linux Kernel project is huge, the desktop projects are massive in
+terms of what they carry under their umbrellas. Distribution projects
+that start from nothing and control and build the entire stack are, I
+think, particularly intense because of the shear size of the project.
+
+This of course holds true for all distribution projects, and doesn't
+make Debian particularly special, I suppose. The thing is that Debian's
+coverage is *massive* compared to other tools. Arch provides a great
+framework for an operating system, and makes it really easy to do a
+number of things, but there are nowhere near as many packages nor as
+many contributors. Ubuntu is, by contrast a great project but is mostly
+a process of "tuning" Debian into a system that's more targeted for
+specific applications. Again these aren't criticisms, but it does make
+Debian more of an impressive proposition.
+
+And I guess, because of this, even though most of the time when I
+interact with a Linux system it isn't actually Debian, I almost
+automatically categorize myself as a "Debian person."
+
+**Shrug**.
+

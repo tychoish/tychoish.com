@@ -1,0 +1,95 @@
+=================================
+King and tycho on the Short Story
+=================================
+
+.. post:: 2007-10-02
+   :author: tychoish
+
+Stephen King, fresh off of editing the *Year's Best Short Stories 2007*
+(well probably not), wrote `an essay for the New York Times about "What
+Ails the Short
+Story" <http://www.nytimes.com/2007/09/30/books/review/King2-t.html?_r=1&oref=slogin&pagewanted=print>`__.
+
+I must admit I've never been terribly fond of King. I think he's a bit
+heavy handed, and I thought that *On Writing* was disgusting. But that's
+just me. Interesting then that we should both be on the same side of
+this argument.
+
+The short story as a form is in trouble, and I think that the lack of
+good publication venues with good audiences is a big problem, but it's
+only part of the picture. Other factors that I'd consider:
+
+-  Mainstream short story conventions tend toward the experimental,
+which precludes a lot of audience, because we are taught how to read
+experimental texts. For good or ill.
+-  Short stories also tend to be pretty conceptual (and this includes
+Science Fiction, alas), and conceptual work is also pretty hard to
+read, and not what I'd call classically *fun*. Interesting? Yes.
+Thought provoking? Yes. Important? Yes. Enjoyable? Only sometimes if
+you're lucky.
+-  It's hard to read short stories before bed. I suspect that most
+people do their fiction reading before they go to bed as "winding
+down" short stories can be read quickly, but are hard to get into
+when you're tired.
+-  A lot of people who would have, in previous times, written short
+stories are writing other things: novels, blogs, etc. This isn't a
+bad thing, so much as a "media and art change" fact.
+-  The novel has gotten shorter. Whereas once 100k words was sort of the
+bare-minimum for a novel length work, we're seeing more novels in the
+60k-80k range. This is still a bunch longer than the short story, but
+there has to be some compression effect downstream.
+-  Short fiction seems to be the best/only way to teach people how to
+write fiction. It's not a huge commitment to a project, you can play
+around with ideas and techniques without wasting months of your time.
+I think we should give fiction writers who want to write novels or
+poetry the opportunity and encouragement to train for that
+separately.
+
+Having said that, I think that podcasting represents a great hope for
+the short story. I find short stories pretty hard to read in most
+cases [1]_, but when they're read to me, I often find that I can really
+enjoy the stories and get into them.
+`EscapePod <http://www.escapepod.org>`__ is a great example of
+this [2]_. And while I think the
+`365Tomorrows <http://www.365tomorrows.com/>`__ project is brilliance, I
+can pretty much only absorb these stories only in the podcast form,
+`Voices of Tomorrow <http://www.voicesoftomorrow.org/>`__, and there is
+of course `The Voice of Free Planet X <http://planetx.libsyn.com/>`__,
+which is great fun.
+
+This also forces us to consider the difference between literary and
+science fiction short stories. Correct me if I'm wrong, but I'm not sure
+that other than the New Yorker, Playboy, Harpers, and the Atlantic
+Monthly, there are literary short story publications that pay authors.
+Not that the SF markets pay all that well, but I think that's worth
+something. SF pubs have to pay their authors in order to be taken
+seriously [3]_, and some of the most respect literature-literary
+markets, don't. Thus is in better shape, I think: Escape Pod is a huge
+force in this, but in the last decade I think we've seen an increase in
+pro-level markets: `Jim Baen's Universe <http://baens-universe.com/>`__,
+`Orson Scott Card's IGMS <http://www.intergalacticmedicineshow.com/>`__,
+and `Strange Horizon's <http://www.strangehorizons.com/>`__ are--I
+hope--a signal of good things to come. Maybe.
+
+Despite podcasts and new markets; despite my loyalties to the science
+fiction community/movement/genre, I still don't really want to read
+short fiction. So in the end I think I have to agree with Mr. King. The
+short story is in trouble, particularly the literary short story.
+
+.. [1]
+There are cases when I will (and do) gladly read short fiction: when
+I'm really interested in an author, or in the concept that they're
+writing about, but I tend to think of short fiction reading in the
+same way that I think about reading essays and monographs.
+
+.. [2]
+Steve, sorry, I've been behind. I just saw that you bought another
+`Nancy Kress
+Story <http://escapepod.org/2007/09/27/ep125-end-game/>`__, and I'm
+pretty excited about this. Woo!
+
+.. [3]
+`SFWA <http://www.sfwa.org>`__ can be pretty boneheaded some/most of
+the time, but insofar as they function as a labor union for SF
+writers, I kinda like them, and that side of their influence.
+

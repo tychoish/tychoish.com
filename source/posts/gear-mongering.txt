@@ -1,0 +1,100 @@
+==============
+Gear Mongering
+==============
+
+.. post:: 2010-07-27
+   :author: tychoish
+   :tags: cyborg
+
+At the end of the day (or even the beginning,) I'm just another geek,
+and despite all of the incredibly (I'd like to think at least) reasoned
+ways I think about the way I use technology, I occasionally get an old
+fashioned hankering for something new. We've all had them. Perhaps my
+saving graces are that I do occasionally need new things (computers wear
+out, cellphones are replaced, needs change), and the fact that I'm both
+incredibly frugal and task oriented (rational?) about the way I use
+technology.
+
+But I'm still a geek. And gear is cool. Thoughts, in three parts.
+
+Part One, Phones and the HTC EVO
+--------------------------------
+
+I've been using a Blackberry for 18 months, and I've come to two
+conclusions: blackberries are great and they have the "how ot integrate
+messaging into a single usable interface." I was skeptical at first, and
+it's very simple, and I've never quite gotten my email to function in an
+ideal way, largely because I think the Blackberry works really well for
+email. It's everything else that I might want to do with my phone that I
+can't, and I'd probably like to: I have an SSH client and it's nearly
+usable. Nearly. I have IM clients, that are nearly functional. Nearly.
+
+When I got the Blackberry, is and was the most important communication I
+was doing. I worked for a very email-centric company, and I wanted to be
+able to stay in the email-loop even when I was off doing something else.
+These days, IRC and XMPP are a far more central feature of my digital
+existence, and I tend to think that it's not an Internet connection if I
+can't open SSH. I'm also switching on a much longer public-transit
+focused commute in the next few week, and being able to do research for
+writing projects will be nice. I'm not sure what the best solution is
+exactly, though the HTC EVO is a pretty swell phone.
+
+As the kids these days say, "Do want."
+
+Part two, Infrastructural Computing and Home Servers
+----------------------------------------------------
+
+I've fully adopted an `infrastructural approach to
+technology <http://criticalfutures.com/archive/technology/>`__, at least
+with regards to my own personal computing. That was a mouthful.
+Basically, although I work locally on the machine that's in front of me
+(writing, email, note taking, collaboration,) much of the "computing"
+that I interact with isn't actually connected to the machine I interact
+with directly. In some ways, I suppose this is what they meant when they
+said "cloud computing," but the truth is that my implementation is
+somewhat more... archaic: I use a lot of SSH, cron, and a little bailing
+wire to distribute computing tasks far and wide, and the process of
+moving *everything* in my digital world from a laptop that I carried
+around with me everywhere (college,) to a more sane state of affairs has
+been a long time coming.
+
+Right.
+
+The long story short is that aside from a machine (my old laptop) that's
+at capacity powering my "stereo," I don't have any computer's at home
+aside from my laptop, and I tend to take it everywhere with me, which
+makes it unideal for some sorts of tasks. Furthermore, without an extra
+machine setting around, file storage, some kinds of backups, are
+somewhat more complicated than I'd like. So, I'm thinking about getting
+some sort of robust server-type machine to stick in a corner in my
+apartment.
+
+Not exactly sure what the best option is there. I'm burdened by:
+frugality, sophisticated tastes, and the notion that having quality
+hardware *really does matter*.
+
+More thinking required.
+
+Part three, More Laptops
+------------------------
+
+So I might have a laptop related illness. Back in the day, laptops
+always seemed like a frivolity: underpowered, never as portable as you
+wanted, awkward to use, and **incredibly expensive**. Now, laptops are
+cheap, and even the Atom-based "netbooks," are functional for nearly
+every task. I tend to buy used Thinkpad Laptops, and as I think about
+it, I've probably spent as much on the three Thinkpads, all of which are
+still in service, as I did on any one mac laptop.
+
+The thing about my current laptop is that when you think about it, it'd
+make a *decent* home server: the processor has virtualization
+extensions, the drive is fast (7200 rpm) and it can handle 4 gigs of ram
+(and maybe more.) What more could I want? And I distributed things
+correctly, the "server" laptop could be pressed into service as a
+backup/redundant laptop, in case something unforeseen happened.
+
+Or I could dither about it for another few months, and come to some
+other, better, fourth solution.
+
+Onward and Upward!
+

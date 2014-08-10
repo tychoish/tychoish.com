@@ -1,0 +1,29 @@
+======
+Memes 
+======
+
+.. post:: 2007-08-30
+   :author: tychoish
+
+Ok, this isn't an actual meme, so much as a discussion of memetic
+activity in my life. specifically in the website designs.
+
+I've done a little bit of tweaking of the font and commenting template
+here (and I changed the tag-line) because I've become a big fan of Gill
+Sans, which I think looks very modern/deco, and I like the effect. It is
+perhaps no the most accessible, but then this is what Grease-Monkey and
+RSS are for, if that's a problem for you. I'm mostly kidding about the
+Grease Monkey, but if you're having problems with reading the font here
+or on TealArt, then RSS lets you have a lot of control over the display
+of the content, and I think that's probably the way to go.
+
+I just realized that I don't have it set up so that you can see what
+categories entries are in with the post. I had been laboring under the
+impression that you could. Weird.
+
+I'm probably going to write a meta tealart entry about the difference
+between the "magazine" approach that TealArt has, and the "failed
+tumblelog" approach that tychoish has. I'd enjoy it at least.
+
+Have a good day!
+

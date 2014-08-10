@@ -1,0 +1,71 @@
+==============================
+Integrated Writing Environment
+==============================
+
+.. post:: 2009-02-10
+   :author: tychoish
+   :tags: programming, writing, cyborg, technology
+
+My `post about information
+buckets <http://tychoish.com/rhizome/information-buckets/>`__ got me
+thinking, thanks to some other things that have filtered through my
+awareness in the last few weeks, about integrated development
+environments.
+
+See, a couple years ago, I used everything buckets like *mad*, they were
+the application of the future, the software that seemed to just scratch
+every itch. I don't know that I used them as general databases for
+*everything* but I did all of my writing and research-related tasks in
+them, and it was great.
+
+The articles I read where there, along with the notes that I made, along
+with citation information, along with the final paper. Along with all of
+my previous papers and articles. I never had to go look for things
+*again*, it was all there.
+
+This is similar to an IDE, or integrated development environment, which
+is a class of applications that have some measure of popularity amongst
+computer programmers. IDE's generally (and I'm not clear on this, as
+I've never used one) provide tools for managing large projects and
+integrate with code-compilers, debugging tools, version control tools,
+multi-file project managers, and code browsers which allow you to find
+related parts of code across an entire project without scrolling through
+a lot of files. I think there's probably some debate on weather these
+are *good* things for programmers (objections would include that they
+make for lazy/poor practices, and that IDE components do lots of things
+poorly) but generally I suspect they are good things. And as it turns
+out most of our beloved text-editors have a lot of IDE-like
+functionality anyway.
+
+In a way, the information bucket provides an IDE-like environment for
+the information worker or writer. And that's sort of a cool way of
+looking at this. Indeed, I think writers need *better* integrated
+environments, there are a lot of tools that I think we could benefit
+from. While I've been working on these posts, I've also been working on
+posts about the emacs `org-mode <http://www.orgmode.org>`__, and while
+they're ultimately not directly connected, I think something *like*
+org-mode is a great boon to writers and information workers. Integrated
+systems that manage citations, references, and notes are essential, as
+well as other helpful features that might include managing output,
+structure, and version control.
+
+I hack most of these features together in emacs with some help from
+LaTeX, git, and BibTeX, but I recognize that this isn't ideal or for
+everyone. There are other applications that aren't "information
+buckets," but provide writing environments that aren't hacked from
+programing tools (emacs) or desktop publishing tools (MS Word). For
+example:
+`Scrivener <http://www.literatureandlatte.com/scrivener.html>`__ that
+provides a clever way to write longer form documents with structure, and
+`Celtex <http://celtx.com/>`__ that provides all sorts of screenplay
+writing tools (outlines, storyboards, character databases) and script
+management tools. Celtex even calls itself an "Integrated Media
+Pre-production" tool.
+
+I'm not sure that these are the ideal tools for this task. Any of them.
+I'm partial to my solution, but I end up having to do a lot of informal
+organization to make it all stick together. So I wonder, what kind of
+software do other writers to keep all their ducks in a row?
+
+More later. Of course.
+

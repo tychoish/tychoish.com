@@ -1,0 +1,91 @@
+============
+The Big Push
+============
+
+.. post:: 2008-10-30
+   :author: tychoish
+
+I had occasion to confess my undying appreciation for xml-rpc this
+weekend at Drupal Camp Chicago. I might have been a little more
+expressive. I also might have explained this appreciation as being a
+product of my general disdain for web-based interfaces. Which we have to
+admit is kind of awkward at a conference of web-based developers.
+
+Clearly I was being a *little* over the top, but it's more or less true.
+I've come to ways of using the internet and digital data that means I
+spend as little time in a web browser as I have to. While the
+obvious--and predominant--reason for this is generally that I think most
+browsers are utter failures, there's another reason that I've not
+written about explicitly: browsers lead to inefficient data consumption
+methods.
+
+Browsers, with the exception of some very subtle trickery are an
+entirely "pull" based technology. That is to say, there's nothing in
+your web-browser that comes to you and says "hey there's something new
+out there for you, come look." It's as if the entire web is out there,
+just waiting for us to check it out and see if something new has
+changed.
+
+This is a huge issue with the internet, particularly as data begins to
+migrate from our own computers to the internet--by way of web-based
+applications. Web programmers/content creators have a couple of ways of
+counteracting this problem. First, they can do little programing hacks
+to make the content rearrange itself even if there's little if any new
+content, so it looks like it changes. Adding "interesting dynamic"
+content is a sort of "user hack" that gets people to check back more
+often with a website, and is pretty low tech solution to the problem,
+and sites like `facebook <http://www.facebook.com>`__ and
+`twitter <http://www.twitter.com>`__ are really good at this.
+
+The truth is, that if you have a pull technology, where users have to
+check to see if there's anything new, the only way to make it work like
+a "push" technology (one that notifies you when there's new content), is
+to check it again and again and again. If it's automatic the frequency
+is high enough it *almost* looks like a push. This is how most
+twitter-apps work, for instance. This is also how most email **clients**
+work. Though email is a push (because other people push email to your
+server) in most cases you have to pull email yourself, but that moves us
+more from the "usability effects" to "technological semantics," and I
+digress.
+
+While this might seem like a really minor complaint about how we access
+technology it has a profound impact on the communities that we form on
+the internet and how we use technology on "web applications." Here are a
+few of examples:
+
+-  "Critical mass" for online communities that are push-based (twitter,
+IRC channels, listservs) are much smaller than for pull-based
+communities (web forums, blogs). An IRC channel seems active if there
+are 25 people in the room and 5 people *really* active. A listserv
+with 200 subscribers is lively and bustling. A blog needs thousands
+of regular readers before comment threads start to seem lively, and
+most "successful" websites have tens of thousands of regular
+visitors.
+-  Pull based applications must be both "useful" and "compelling," and I
+often find that the later interferes with the former. This is mostly
+a personal preference issue, but I think it's important, and I'd like
+to think that my concerns are rooted in efficiency rather than
+curmudgeonliness.
+-  Data that we have to go out and look for means that we spend our time
+on the computer looking for new data rather than consuming data. I,
+begrudgingly, spend a lot of my internet time for instance reloading
+my LiveJournal friends page, because there's no way for me get that
+feed all rolled up and pushed to me (even semi-pushed, like RSS.) I
+feel the same way about twitter, frankly.
+
+The astute among you will realize that RSS works over pull technology,
+and I accept this but I think that the interaction paradigm for RSS is
+more like push based services. Because while your RSS reader has to pull
+from a lot of feeds every time you check for updates, you probably only
+see "unread articles," if there are new items in your feed reader. So
+maybe the push/pull--while rooted in a technological division--also
+represents an independent interaction paradigm.
+
+Maybe it's not that I don't like web-technologies (because I so clearly
+do), but rather that I want them to suck a lot less? It's not so much
+that the applications are "in the cloud," but that the ways we interact
+with them (like browser based interfaces versus desktop apps built
+around XML-RPC) are flawed.
+
+Onward and Upward!
+

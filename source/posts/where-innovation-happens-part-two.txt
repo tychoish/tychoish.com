@@ -1,0 +1,48 @@
+==================================
+Where Innovation Happens, Part Two
+==================================
+
+.. post:: 2009-08-26
+   :author: tychoish
+   :tags: economics
+
+In my `post against the venture capital
+model <http://tychoish.com/rhizome/venture-capital-and-software/>`__ I
+think one key question that I think I failed to answer is "If we do away
+with venture capital, where does innovation happen?" This post locates a
+number of potentials answers to this question.
+
+1. Innovation happens in academia and research-oriented institutions.
+This is where innovation has often happened, and it makes sense: you
+get smart driven people together and you give them resources and you
+say learn about the world, and see what new things you can make and
+think that haven't been made and thought of before. The problem is
+that research is hard to fund and support, and the Academy is often
+drawn toward the other great role it fulfills in our society
+(education).
+
+2. Innovation happens in external communities. Red Hat, and Sun both
+externalize innovation via the Fedora Project and Open Solaris
+projects. Many web-development consultancies externalize their
+innovation to Open Source projects like Ruby on Rails, and Drupal.
+It's a pooling of research and development via externalization, and I
+think it's a trend that we'll probably begin to see more of.
+
+3. Innovation will happen during 20% time. Google was famous for doing
+this, initially and I think it's something that we don't hear much of
+as corporate purses begin to tighten as maximum productivity
+reappears as the leading way to save corporate business models (See,
+flawed system,) but I think the concept that some measure of
+unstructured time will lead to innovation is generally a sound
+concept.
+
+4. Innovation, start-ups, the same way that they are formulated now,
+except without venture capital, so that innovation still happens in
+start-ups, but business plans will have to be focused on sustainable
+growth, scaling practices, and profitability. This shifts the focus
+of start-ups to think about "how do we implement this cool idea in a
+way that will work," rather than "what would happen if we did this
+cool thing." Seems a productive nearly-paradigm shift.
+
+Other ideas?
+

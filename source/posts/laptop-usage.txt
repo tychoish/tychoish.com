@@ -1,0 +1,44 @@
+============
+Laptop Usage
+============
+
+.. post:: 2009-04-20
+   :author: tychoish
+   :tags: cyborg, technology
+
+My grandmother reminds me that she got a laptop in the late
+eighties, [1]_ it's massive by today's standards (particularly in
+comparison to my 12 inch thinkpad), but it had a great keyobard, and she
+remembers using it rather effectively. It had WordPerfect 5.1 back in
+the day but I think it also had StarWriter/StarOffice (which, the astute
+will recognize as the predecessor code-base for today's Open Office). It
+probably weight ten or fifteen pounds, and I think she even brought it
+between work and home several times a week (using a luggage cart); but
+this was before her days on the Internet, and like all good things this
+laptop has gone to the land beyond.
+
+For my college years, and a few years after I was a laptop-only computer
+user. It didn't make sense to have a computer that I'd have to move so
+damn frequently, and it wasn't like I was playing games or anything that
+would require desktop, and I loved having only one machine to keep
+current and up to date. It seems like laptop-only is a definite trend
+among the Internet-hipster/start-up monkey crowd. And it's admirable,
+and for these folks (who are likely, and appropriately, Apple users) a
+laptop-tax of 400 dollars isn't too much for people who have already
+bought into the Apple tax.
+
+And then, along came the "netbook" phenomena, which posits that most of
+the time we don't really need a desktop-grade laptop when we're on the
+run. There's a lot of merit to this model as well. We don't really need
+to carry around powerhouses to check our emails in coffee shops, and for
+folks like me for whom the vast majority of our computing is pretty
+lightweight, building a system around a primary desktop computer and a
+sufficient but not supercharged laptop makes a lot of sense.
+
+So what kind of laptop system do you use?
+
+.. [1]
+Turns out it was a `toshiba
+t100 <http://en.wikipedia.org/wiki/Toshiba_T1000>`__. `Here's another
+picture/account <http://www.retrothing.com/2006/05/toshiba_t1000_s.html>`__
+

@@ -1,0 +1,71 @@
+==========
+fitting in
+==========
+
+.. post:: 2008-03-31
+   :author: tychoish
+
+Contrary to your first impressions, this post is generally not about
+computers. Ok, a little bit.
+
+I went to the computer store this afternoon. I got a computer from a
+friend who had upgraded and moved away and claimed that this old box was
+too old and slow to be of much use.
+
+Well it turns out that this computer is actually about as powerful as my
+current machine, and I figured that I could get linux or some such
+working on it with minimal fuss, and it would be good to have a machine
+around that could manage torrents while I was away with the laptop, and
+host more regular backups, and so forth. In short order I got
+`Ubuntu <http://www.ubuntu.com/>`__, but quickly realized that I would
+need a monitor [1]_, a wireless card, a bit more ram, and so forth.
+
+So after a bit of hemming and hawing I finally went into the computer
+store today. There's this local independent computer store in town that
+has used gear and what not, which is great if you're in the market for
+something specific and don't need the fuss of comp USA or some such.
+We've been going there for years and years and it seemed like the ideal
+place for this kind of task.
+
+I got there and this very young looking (I wonder at what point we start
+identifying the people who help us in stores as "young looking") guy
+came up to help me. Short. Thin. Emo. Obviously knew what he was doing.
+And so I let myself be the customer for once. "Yeah, I need this," and
+he was able to do it, pretty much without a hitch.
+
+I told him what I needed, he got the wireless card (last one) told me
+that flat panel monitors where in high demand and didn't last long on
+the shelf, but quoted me an acceptable price. I looked at the CRT
+monitors, but didn't get one. He husseled about trying to look for the
+right kind of ram, but didn't find any.
+
+It was at this point that I realized that this fellow was me. Sort of. I
+mean, I have a better fashion sense (gawd, the emo.) and taste in
+operating systems (he was using vista!), but other than that, here I
+was. It also struck me, that at this precise moment I was very *not
+queer*. Geeks are already a bit off of norm, and in casual interaction,
+it doesn't come up/make itself apparent. Which is all together an odd
+feeling.
+
+Anyway, so I brought the computer in, he put in the card and took out
+the modem, which was convenient, and then I left. We made small talk
+about operating systems, I was like, 10.4 it's good stuff. He said
+something about the Air, I shrugged, and then left.
+
+I didn't get the wireless to work off the bat, and I'm currently
+reinstalling the OS (last time when I installed, I was able to disabuse
+it of the notion that I had a turkish keyboard, which complicated the
+login process.) With luck, I'll be able to get the wireless to work
+after this is done. There seems to be confirmation of this wireless card
+working with Ubuntu, but we shall see.
+
+Anyway, I'm going to tinker more, and knit some this afternoon. I've not
+been doing enough knitting, or writing for that matter.
+
+Onward and Upward!
+
+.. [1]
+We do have an extra monitor in the house but is of the 15" CRT
+variety, and about 12 years old. Some better option needs to be
+derived.
+

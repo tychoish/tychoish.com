@@ -1,0 +1,107 @@
+============
+munging text
+============
+
+.. post:: 2008-03-20
+   :author: tychoish
+
+Like it or not, my creative process is incredibly technological. I
+write, organize and manage my thoughts and productivity with my
+computer. This entry is about some of my recent frustrations and
+experimentations with my "system," and process.
+
+Here's an example: The technology and creativity are so related for me,
+that I had a minor crisis of faith, leading to a somewhat startling
+minor existential panic as I was trying to fall asleep last night in
+response to one of the keys on my keyboard falling off.
+
+No doubt the anxiety and stress of the past few months have complicated
+everything in my life in ways that I'm still fighting to recognize, but
+setting this aside for the moment, I want to take this opportunity to
+review some of my thoughts.
+
+With the discovery of `MacVim <http://code.google.com/p/macvim/>`__ I've
+once again renewed my interest in learning how to use vim, a very old
+school and powerful text editor. `This
+document <http://jmcpherson.org/editing.html>`__ has been particularly
+useful in helping me attempt this feat, though I continue to feel way
+behind the curve.
+
+.. raw:: html
+
+<!--more-->
+
+A quick note. vim, descended from the unix vi editor, makes editing text
+really simple, and outshines almost every other editor in a sort of
+brute force sort of way. One of the things that makes it so powerful is
+that it's bimodal (basically, sort of). In one mode--"INSERT" mode--most
+like what anyone who started using computers after, say 1982, allows you
+to type and edit text directly. You type, and the characters you enter
+appear on the screen. The other mode, "COMMAND," allows you to interact
+with the program, and your key strokes tell the program to do something.
+This means the keyboard is much more effectively used. For instance,
+"h," "j," "k," and "l" move the cursor around in command mode, which
+highly maximizes the economy of movement of fingers, particularly for
+touch typists. And, to get the most out of vim, the idea is to spend as
+much time in command mode, and as little time in insert mode as
+possible.
+
+And frankly, my brain is having some trouble groking this. I think part
+of the problem is that while I work almost exclusively in plain text, a
+very very small percentage of what I produce/edit is actually computer
+code: most of it is prose, files ranging from a few hundred to several
+thousand words, in average sized paragraphs. Which is fine, the issue
+being that that vim seems to be better organized around editing rather
+than the (sometimes) spontaneous generation of new content. So the end
+result of this line of thinking is that, despite really wanting to feel
+proficient with vim, it might not be particularly suited to what I want
+to do. Which I'm kind of disappointed by. But I'm going to try a a
+little more, I think, because I feel like I've gotten further this time
+than I ever have before.
+
+That's part one. Part two is that I think I need to work a little harder
+on setting up some templates to aid in organization. When I open a blank
+file to write a blog post I have a snippet that I can insert that will
+set up the headers of the post so a I can tag the entry title it, and
+start writing in a couple of seconds, and I like how the templates,
+however spare, get things rolling a little. So I think that I need to
+work on building more of them, no matter what editor I use. Thankfully
+this is pretty straightforward to fix once I figure out what kinds of
+templates and boiler plates I can start using.
+
+One thing that I *have* done that I think is interesting, is that I've
+started to use my right pinky more. I'm left handed, and I realized not
+too long ago that I basically did all of my function (shift, command,
+control) key pressing with my left pinky. Like technically I think if
+you capitalize letters that fall under the left hand, you're supposed to
+use the right shift key, but the truth is that I basically never do this
+(and probably slow my typing speed something fierce for it.) I also
+don't really use my right thumb on the space bar and use my right index
+finger for the backspace (but not the return key.) Anyway I've caught
+myself use the command key with my right pinky a few times. Which is
+exciting, because I think it makes me, in some minor way, more
+efficient, and this is a good thing.
+
+Another area that I'm working on improving a bit is with outlining and
+planing and whatnot. Over the past year or so I've made a move from
+being basically paper free, to doing brainstorming, and project planning
+on paper. This isn't a bad thing, but it does mean that, I've gotten out
+of the habit--as hard as it might be for readers of this blog to
+fathom--of writing spontaneously at the keyboard. So I think taking
+notes might help with this whole process. Part of "working" on this, is
+a habitual thing--just getting in the habit of writing this way--but
+another part, not to be ignored, is getting a template for the files,
+and a naming scheme for collecting and organizing these thoughts. For
+instance, my reflex is to just type things in
+`markdown <http://daringfireball.net/projects/markdown/>`__, which has
+its advantages, but the truth is that I'm not incredibly likely to use
+anything other than markdown syntax highlighting, so I need to look into
+other possible formats that might work better in plain text format.
+
+I think that's about all I can stand to put here, I'll have a cut
+earlier in the entry, just so that it's not absurd/outrageous, unless
+you're feeling really geeky. But then, you've gotten to this point, so
+you probably were feeling that geeky. Thanks.
+
+Onward and Upward!
+

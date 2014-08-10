@@ -1,0 +1,128 @@
+==========================================================
+Package Mangement and Why Your Platform Needs an App Store
+==========================================================
+
+.. post:: 2009-11-03
+   :author: tychoish
+   :tags: cyborg, open-source
+
+When I want to install an application on a computer that I use, I open a
+terminal and type something to the effect of:
+
+::
+
+apt-get install rxvt-unicode
+
+Which is a great little terminal emulator. I recommend it. Assuming I
+have a live interned connection, and the application I'm installing
+isn't *too* large, a minute later or less I have whatever it is I asked
+for installed and ready to use (in most cases.)
+
+Indeed this is the major feature of most Linux Distributions: their core
+technology and enterprise is to take all of the awesome software that's
+out there (and there's a lot of it,) and make it possible to install
+easily, to figure out what it depends on, and get it to compile safely
+and run on a whole host of machines. Although this isn't the kind of
+thing that most people think when they're choosing a distribution of
+Linux, one of the biggest differentiating features between
+distributions. But I digress.
+
+I've written about `package management here
+before <http://tychoish.com/rhizome/on-package-management/>`__, but to
+summarize:
+
+1. We use package managers because many programs share dependencies,
+that we wouldn't want to install twice or three times, but that we
+might not want to install by default with every installation of an
+operating system. Making sure that everything gets installed is
+important. This, is I think, a fairly unique-to-open-source problem,
+because in the proprietary system the dependencies are installed by
+default (as in there are more monolithic development environments,
+like .NET, Cocoa, and Java [1]_, and other older non-managed
+options).
+
+2. One of the defining characteristics of open source software is the
+fact that it's meant to be redistributed. Package management makes it
+easy to redistribute software, and provides real value for both the
+users of the operating system and for the upstream developers. Or so
+I'm lead to believe.
+
+In the end, we're back at the beginning where, you can install just
+about anything in the world if you know what the package is named, and
+the operating system will blithely keep everything up to date and
+maintained. [2]_
+
+While GNU/Linux systems get flack for not being as useable as
+proprietary operating systems, I see package management as this huge
+"killer feature" that open source systems have on top of proprietary
+system. We'll never see something like ``apt-get`` for Windows not
+because it's not good technology, but because it's impossible to mange
+every component of the system and all of the software with a single
+tool. [3]_
+
+--------------
+
+And then all these "App Store" things started popping up.
+
+As I've thought about it, "App stores," do the same thing for
+application delivery on non-GNU/\* systems that package management does
+for open source systems. We're seeing this sort of thing for various
+platforms from cell phones like the iPhone/Blackberry/Andriod to
+`Inuit's QuickBooks <https://ipp.developer.intuit.com/>`__ and even for
+more conventional platforms like
+`Java <http://www.java.com/en/store/index.jsp>`__.
+
+Technically it's a bit less interesting. App stores generally just
+receive and distribute compiled code, [4]_ but from a social and
+user-centric perspective, the app store experience is really quite
+similar to the package management experience.
+
+I'm surely not the only one to make this connection, but I'd be
+interesting to move past this and think about the kinds of technological
+progress that stem from this. App stores clearly provide value to users
+by making applications easier to find, and to developers who can spend
+less time distributing their software. Are there greater advancements to
+be made here? Is this always going to be platform specific, or might
+there be some other sort of curatorial mechanism that might add even
+more value in this space? And of course, how does Free Software persist
+and survive in this kind of environment?
+
+I look forward to hearing from you.
+
+.. [1]
+Let's not bicker about this, because the argument breaks down here a
+bit, admittedly, given that Java is now, mostly open. But it wasn't
+*designed* as an open system, and all of these solve the dependency
+problem by--I think--providing a big "standard runtime," and
+statically compiling anything extra into the program's executable. Or
+something.
+
+.. [2]
+Package management sometimes breaks things, it's true, but I've never
+really had a problem that I haven't been able to recover from in
+reasonably short order. I mean, things have broken, and I will be the
+first to admit that my systems are far from pristine, but everything
+works, and that's good enough for me.
+
+.. [3]
+While its possible to use more than one package manager at once, and
+there are cases even on linux where this is common (i.e. CPAN shell,
+system packages (apt/deb, yum/rpm) and ruby gems, haskell cabal and
+so forth) it's not preferable: Sometimes a package will be installed
+by a language-specific program manager and then the system package
+manager will install (over it) a newer or older version of the
+package, which you might not notice, or it might just cause something
+to act a bit funny on some systems. If you're lucky, Usually stuff
+breaks.
+
+.. [4]
+Which means, I think indirectly that we're seeing a move away from
+static linking and bundling of frameworks and into a single binary or
+bundle. This is one of the advancements of OS X, that all
+applications are delivered in these "bundles" which are just
+directories that contain everything that an application needs to run.
+Apple addressed the dependency problem by removing all dependencies.
+And this works in the contemporary world because if an App had to be
+a few extra megs to include its dependencies? No big deal. Same with
+Ram usage.
+

@@ -1,0 +1,60 @@
+============================
+Awesome Internationalization
+============================
+
+.. post:: 2008-12-03
+   :author: tychoish
+
+*This is a post that reflects on international character of the
+community around the `Awesome Window
+Manager <http://awesome.naquadah.org>`__, though it takes a while to get
+to that. There's this theory of blog post writing that says you should
+write like newspaper articles and front load your arguments. Save this
+editorial note, this post is an epic failure at this formula.
+Apologies.*
+
+It will come as a surprise to no one that I am not only an avid user of
+open source software but also a keen observer of the open source
+community. Communities, particularly digital communities, seem to be my
+thing, and participating and watching various parts of the open source
+community has reminded me a lot about what I liked most about the
+Internet back when I started my travels in cyberspace and (slightly)
+more recently when I started blogging.
+
+I'm yet sure if the argument that "open source is qualitatively
+different from other sorts of cyberspace communities" holds water.
+Unlike the communities that form around collees (eg. facebook), special
+interests (eg. blogs, podcasts, and discussion forums), or around
+established "real world" connections (eg. email, instant messaging) open
+source communities form in order to produce something reasonably
+concrete and specific. But other communites online form around shared
+goals (eg. many communities on livejournal), and certianly open source
+hackers weren't the first to use technology to collaborate. And open
+source communites use all the same internet technologies (IRC,
+listservs, newsgroups) that we've been using for years, so there's
+nothing particularly *novel* about the communities.
+
+But I digress.
+
+While the Internet is techincally world wide, and does allow for
+information to be exchanged globally, communities on the internet are
+often pretty localized. Even if a community isn't rooted in real-world
+connections (and many are, more than we might initally expect) they're
+often constrained by language and time-zones to a great degree.
+
+The community around the Awesome Window Manager provides a great counter
+example to this. JD, the original/primary author/leader is in France,
+and I've interacted with people in the Awesome list and chat room are
+from all over the world. While I know of a few Awesome users in the
+United States my impression is that the core of the user base isn't
+particularly American, though some further research into this might be
+in order. Interestingly most of the conversations and documentation
+happens in English.
+
+I don't have a lot of idea about why this is the case exactly. My
+current working theory is that the kind of advanced user that Awesome
+attracts, is more likely to use Linux/BSD outside of the US (Apple being
+less prevelent outside of the US, and interntaionalization and what not
+driving people to Linux in the non-english speaking world.) But that's
+just one idea.
+

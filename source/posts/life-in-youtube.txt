@@ -1,0 +1,22 @@
+===============
+Life in YouTube
+===============
+
+.. post:: 2007-09-24
+   :author: tychoish
+
+Found via `Merlin Mann <http://www.43Folders.com/>`__, this hysterical
+video of what life would be like if it worked the way that YouTube
+comment threads work.
+
+I know it's been a slow weekend. I'll be posting more soon, don't worry.
+
+.. raw:: html
+
+<object width="425" height="350">
+
+.. raw:: html
+
+<embed src="http://www.youtube.com/v/YfZ-Y2QNh7E" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+
+

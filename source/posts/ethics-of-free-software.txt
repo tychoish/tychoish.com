@@ -1,0 +1,90 @@
+=======================
+Ethics of Free Software
+=======================
+
+.. post:: 2009-01-27
+   :author: tychoish
+
+Last week as I was wrapping up a project, I found myself reading an
+article by Gabriella Coleman [1]_ about ethical systems and free
+software/open source development communities (`pdf
+link <http://mako.cc/writing/coleman_hill-social_production.pdf>`__).
+It's a great article that helped me connect a few desperate projects,
+and I think it also provides a very useful foothold into talking about
+the ideologies of free software without getting encumbered by free
+software's internal ideological "drama." In turn:
+
+Before I got absorbed into open source and free software stuff, I was
+interested in issues around the construction of individual's identity in
+reference to group-based cultural scripts about identity. For example
+how "gay men" think of themselves in relation to gender/sexuality/race,
+and how they made sense of the social constructed-ness of these
+categories. But the underlying structural question applies to all sorts
+of people and groups ("people who knit" and "communities of knitters;"
+immigrants/refugees and "Americans"/national identities; etc). There
+were a lot of reasons why that didn't work out (on top of some stuff
+about my background): the biggest one is that there isn't a good
+field [2]_ to do this kind of work. In retrospect, It's a good thing
+that it didn't work out for these and many other reasons.
+
+Nevertheless, even as I've been "reinventing" myself and my interests in
+the last year I've discovered that my interests in open source
+development and free software, have a strong parallel, as I'm interested
+in collaboration and shared creation in the context of open source
+projects. This time I have a bit more going for me, of course.
+
+So how does this connect? Well, I read a bunch of literature the first
+time around on "moral development," and it turns out (I would have never
+guessed this before) that there's a lot of very cool recent work on how
+social factors (like communities and group membership) contribute to the
+development of moral systems, that isn't "Kohlberg-esque" (and thus
+decontextualized in harmful ways). Before someone pushed me to read
+these articles, I don't know that I would have sought out the connection
+between "ethics" (moral systems) and group identities, but it's there.
+Reading this article addressed ethics of free software communities
+strengthen these connection for me, and I think is a great starting
+point for thinking about free software projects as a entities onto
+themselves. I have some more thinking to do here, of course, but there
+are some cool possibilities.
+
+So about ethics and software freedom, anyway.
+
+The article explores the ways that the Debian Project is not only rooted
+in a strong "software freedom" ethical tradition (the DFSG, the close
+alliance with the FSF [3]_) but also--as the article explores--promotes
+and develops this ethic in amongst its many developers. That while
+Debian attracts a certain predisposition toward free software and open
+source, participation in this project reinforces a shared set of ethical
+perspectives. We talk about "copyleft" licenses in free software as
+being "viral" because the mandate that derivative works be distributed
+under their terms (and thus spread in "viral ways,) but really they're
+also viral in the way that they shape the ethical systems of developers
+who use them.
+
+That's kind of awesome. It's also, I suppose not ground breaking (I
+think you can see echos of this in some of rms' essays, for instance)
+but it does let you (or me) talk about the ideologies of free software
+without *participating* in the (different, but connected) ideological
+debates of free software. Which is a good thing indeed.
+
+Onward and Upward!
+
+.. [1]
+I have a somewhat sorted history of linking to people and then musing
+on whatever it is they wrote on this blog, only to discover a comment
+the next day from the original authors. So as a somewhat preemptive
+measure: Hello, and I think I'll write a somewhat less public letter
+of introduction soon. Thanks for reading.
+
+.. [2]
+My background has been in (developmental) psychology, and while this
+is a lovely field that I have a lot of fondness and respect for, the
+study of individual/cultural boundary pushes on an interdisciplinary
+space, or null void really.
+
+.. [3]
+Debian Free Software Guidelines (the code by which software licenses
+are deemed "appropriate" for inclusion in the Debian project) and the
+Free Software Foundation (originators of the GNU GPL, and a great
+many other things) in turn.
+

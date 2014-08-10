@@ -1,0 +1,72 @@
+===============
+Git In Practice
+===============
+
+.. post:: 2012-02-21
+   :author: tychoish
+   :tags: git, software
+
+Most people don't use git particularly well. It's a capable piece of
+software that supports a number of different workflows, but because it
+doesn't mandate any particular workflow it's possible to use git
+productively for years without ever really touching some features.
+
+And some of the features--in my experience mostly those related to more
+manual branching, merging, and history manipulation operations--are
+woefully underutilized. Part of this is because
+`Github <http://github.com/>`__, which is responsible for facilitating
+much of git's use, promotes a specific workflow that makes it possible
+to do most of the (minimal required) branch operations on the server
+side, with the help of a much constrained interface. Github makes git
+usable by making it possible to get *most* of the benefit of git without
+needing to mess with SHA1 hashes, or anything difficult on the
+command-line.
+
+That's a good thing. Mostly.
+
+Nevertheless, there are a few operations that remain hard with git: I
+sometimes encounter situations that I have to try a few times before I
+get it right, and there are commands that I always have to check the man
+page to figure out how to specify the references. And even then I'm
+sometimes still confused. So maybe I (or we?) can spend a little bit of
+time and figure out what processes remain hard with git and maybe try
+and see if there is a way to make the process a bit more streamlined.
+
+Here's my list:
+
+-  Reorder all commits since x commit.
+
+This is basically: find the commit before the earliest one that you want
+to change, run "``git rebase -i <commit hash>``\ " reorder the commits
+even though git sorts the commits in the order that I find most
+un-intuitive.
+
+-  Create local branches to track remote branches or repositories.
+
+Setup the remotes, if necessary, and then run:
+"``git branch --track   <local-branch-name> <remote>/<branch-name>``\ "
+and "``git config   branch.{name}.push {local-branch}:master``\ ".
+
+-  Stash all local changes and switch branches.
+
+It would also be nice if you could figure out way for git (or a helper)
+to see any open files in your text editor and save/close them if needed.
+
+-  Pull a commit from the history of one branch into another branch
+without pulling anything else.
+
+I think this is chery-pick? It might also be nice to pull a series of
+commits from one branch, rebase them into one commit in the destination
+branch, and then commit *that.*
+
+-  Pretty much every time I've tried to use the merge command to get
+something other than what I would have expected to happen by using
+"pull," it ends tragically.
+
+Reader suggestions:
+
+-  *Put your process/procedural frustrations with git here*.
+
+How about we work on figuring out how to solve these problems on the
+"[[comments page\|discourse]]" page.
+

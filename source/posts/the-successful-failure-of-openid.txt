@@ -1,0 +1,106 @@
+================================
+The Successful Failure of OpenID
+================================
+
+.. post:: 2010-03-29
+   :author: tychoish
+   :tags: cyborg, internet, technology
+
+Just about the time I was ready to call OpenID a total failure,
+something clicked and, if you asked how I thought "OpenID was doing,"
+I'd have to say that it's largely a success. But it certianly took long
+enough to get here.
+
+Lets back up and give some context.
+
+OpenID is a system for distributing and delegating authentication for
+web services to third party sites. Basically to the end user, rather
+than signing into a website with your username and password, you sign in
+with your profile URL on some secondary site that you *actually* log
+into. The site you're trying to log in, asks the secondary site "is this
+legit," the secondary site prompts you (usually just the first time,
+though each OpenID provider may function differently here.) then you're
+good to go.
+
+Additionally, and this is the part that I really like about Open ID is
+that you can delegate the OpenID of a given page to a secondary host. So
+on tychoish.com you'll find the following tags in the header of the
+document:
+
+::
+
+<link rel="openid.server" href="http://www.livejournal.com/openid/server.bml" />
+<link rel="openid.delegate" href="http://tychoish.livejournal.com/" />
+
+So I tell a third party site "I wanna sign in with http://tychoish.com/
+as my OpenID," it goes and sees that I've delegated tychoish.com's
+OpenID to LiveJournal (incidentally the initiators of OpenID if memory
+serves,) and LiveJournal handles the authentication and validation for
+me. If at some point I decide that LiveJournal isn't doing what I need
+it to, I can change these tags to a new provider, and all the third
+party sites go talk to the new provider as if nothing happened. And it's
+secure because I control tychoish.com and contain a provider-independent
+identity server, while still making use of these third party servers.
+Win.
+
+The thing is that OpenID never really caught on. Though managing a
+single set of authentication credentials, and a common identity across a
+number of sites has a lot of benefits to the users, it never really
+caught on. Or I should say, it took a very long time to be taken
+seriously. There are a number of reasons for this, in my understanding:
+
+1. Third party vendors wanted to keep big user databases with email
+addresses. OpenID means, depending on implementation that you can
+bypass the traditional sign up method. This isn't a technological
+requirement but can be confusing in some instances. By giving up the
+"traditional" value associated with sponsoring account creation,
+OpenID seemed like a threat to traditional web businesses. There were
+ways around this, but it's confusing and as is often the case a dated
+business model trumped an inspiring business model.
+
+2. There was and is some fud around security. People thought if they
+weren't responsible for the authentication process that they wouldn't
+be able to ensure that only the people who were supposed to were able
+to get into a given account. Particularly since the only identifying
+information associated with an account was a publicly accessible URL.
+Nevertheless it works, and I think people used these details to make
+people feel like the system isn't/wasn't secure.
+
+3. There are some legitimate technological concerns that need to be
+sorted out. Particularly around account creation. This is the main
+confusion cited above. If someone signs up for an account with an
+OpenID, do they get a username and have to enter that, or do we just
+use the OpenID URL? Is there an email address or password associated
+with the account? What if they get locked out and need to get into
+the account but there's no email? What if they need to change their
+OpenID provider/location at some point. These are legitimate
+concerns, but they're solvable problems.
+
+4. Some users have had a hard time groking it. Because it breaks with
+the conventional usage model, and it makes signing into sites
+*simple* it's a bit hard to grok.
+
+What's fascinating about this is that eventually it **did** succeed.
+More even than joy at the fact that I get to use OpenID, finally, I
+think OpenID presents an interesting lesson in the eventual success of
+emergent technological phenomena. Google accounts, flickr accounts, and
+AIM accounts all provide OpenID. And although "facebook connect" is not
+using OpenID technology, it's conceptually the same. Sites like
+`StackOverflow <http://www.stackoverflow.com/>`__ have OpenID only
+authentication, and it's becoming more popular.
+
+OpenID succeeded not because the campaign to teach everyone that
+federated identity vis a vis OpenID was the future and the way we should
+interact with web services, but rather because the developers of web
+applications learned that this was the *easier* and more effective way
+to do things. And, I suspect in as much as 80% or 90% of cases when
+people use OpenID they don't have a clue that that's the technology
+they're using. And that's probably an ok thing.
+
+The question that lingers in my mind as I end this post is: is this
+parallel any other optimistic technology that we're interested in right
+now? Might some other "Open\*" technology take away a strategic lesson
+from the tactical success of OpenID? I'd love to see that.
+
+Onward and Upward!
+

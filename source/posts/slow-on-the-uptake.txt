@@ -1,0 +1,24 @@
+==================
+Slow on the Uptake
+==================
+
+.. post:: 2007-11-29
+   :author: tychoish
+
+Overheard in a conversation between
+`andy <http://www.cgkreality.com/>`__ and myself in the not so recent
+past:
+
+**tycho:** I have a few things to say to you about your site **andy:**
+oh? **tycho:** 1: you don't link to me. **andy:** patience **tycho:** 2:
+you're archives and about pages don't work. [1]_ **andy:** whatever,
+shut up. I'll get there. **tycho:** 3: that design was one we had back
+in the *greymatter* days. **andy:** heh, you know me... I'm slow to get
+to things...
+
+*I'd say...*
+
+.. [1]
+we have a long going joke about the years it seems to take us to
+write "about" pages. It's comical. Inside joke I guess.
+

@@ -1,0 +1,633 @@
+========================================
+Station Keeping #11: Walking Away, Pt. 2
+========================================
+
+.. post:: 2007-08-16
+   :author: tychoish
+
+*Welcome to part two of our* Station Keeping \_installment "Walking
+Away." You can read part one here, and be sure to check out the `rest of
+the series <http://tychoish.com/hanm/>`__. We will return next week for
+our special "week long" finale starting Monday afternoon. We're already
+getting started on our second series so if you want to
+`participate <http://tychoish.com/particpate/>`__ now is the time. As
+always we welcome and encourage your feedback in the comments section or
+to tycho@tealart.com. Cheers, tycho
+
+.. raw:: html
+
+<hr />
+
+<h2>
+
+INT. ANOTHER ROUND, a booth in the far corner.
+
+.. raw:: html
+
+</h2>
+
+<p>
+
+They both sip from their drinks leisurely. DAVID reclines and keeps a
+gentle hand on his bottle at all times, ELI sits up straight and only
+picks up his bottle occasionally.
+
+.. raw:: html
+
+</p>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+So, have you heard anything?
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Um? Anything? I'm not in your intelligence department, I am actually
+retired. I think I've done my bit--
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+People like you don't retire, the Navy wouldn't allow it. You have the
+only real social space on the station, you have to hear things.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+We only don't retire when you don't want us to. From what I've seen you
+have a great staff, and that Sian is a great officer.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+He is, you're right, but don't distract me. You should have my job now,
+and we both know it.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Weren't we decided that this is a shit assignment for you. You'd have
+been an admiral otherwise. Didn't Admiral Roth apologize for sending you
+out here.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+You're here, how bad can it be? And besi--
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Irrelevant argument. I'm not an officer any more, and it's an
+interesting place for Marc to practice, and for me to be retired.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+--besides, this is the most high-profile post in the entire League. I'm
+surprised Roth didn't take it for himself.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+He probably wanted to, but one of his cronies probably convinced him
+that it was better to wait out another thousand years in
+interstellar-transit. He probably thinks that that'll give him a better
+chance at the top...
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+He's been around that long? No wonder.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Really, I know.
+
+.. raw:: html
+
+</dd></dl>
+
+<p>
+
+DAVID takes a drink.
+
+.. raw:: html
+
+</p>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+He'd be a fool not to realize that that's a bad move. By that time,
+he'll be a relic--
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Already is. But at least someone who has his ear has our best interests
+at heart.
+
+.. raw:: html
+
+</dd></dl>
+
+<p>
+
+DAVID chuckles.
+
+.. raw:: html
+
+</p>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+You? You did it?
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+I'd rather you have a chance at the top than Roth.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Bastard.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+You're welcome. If you ever want to be an Admiral, though...
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+I hate you. For this, you better start working for me.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Not on your life. You really are the best person for this job. Better
+than I would be.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Wait, if you're still in, why not just do the job yourself. You could.
+
+.. raw:: html
+
+</dd></dl>
+
+<p>
+
+ELI finishes his drink.
+
+.. raw:: html
+
+</p>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Because it's yours, I've had my fun being in charge and... out front.
+I'm done with that. I promise you. You're right, the Navy won't really
+let me go completely, but if they listen to me when I talk, I'll take
+it. Out here, I'm in no danger of being called to lecture and teach
+constantly,
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+So I guess that leaves me--
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+--with a good bar and very capable backup. Speaking of the bar...
+
+.. raw:: html
+
+</dd></dl>
+
+<p>
+
+DAVID finishes the rest of his drink.
+
+.. raw:: html
+
+</p>
+
+<dd>
+
+Thank you for the drink, now trust me, it there's something that you
+need to know I'll tell you, otherwise...
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Leave you alone?
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+--don't try and conscript me. Again.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Ok... I guess.
+
+.. raw:: html
+
+</dd>
+<dd class="parenthetical">
+
+(sly smile)
+
+.. raw:: html
+
+</dd>
+<dd>
+
+I'll keep you in the loop.
+
+.. raw:: html
+
+</dd></dl>
+
+<p>
+
+DAVID and ELI stand up.
+
+.. raw:: html
+
+</p>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Please don't.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+I have to.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+I won't read it.
+
+.. raw:: html
+
+</dd></dl>
+
+<dl><dt class="character">
+
+ELI BANNER
+
+.. raw:: html
+
+</dt>
+<dd>
+
+Whatever, you will read it.
+
+.. raw:: html
+
+</dd></dl>
+
+<p>
+
+DAVID laughs knowing that ELI is probably right about this point. DAVID
+pulls ELI into a quick friendly hug.
+
+.. raw:: html
+
+</p>
+
+<dl><dt class="character">
+
+DAVID CONRAD
+
+.. raw:: html
+
+</dt>
+<dd>
+
+I think you should get out now and get some sleep for your next
+shift--when ever you decide that is--or it'll be my turn to hate you.
+
+.. raw:: html
+
+</dd></dl>
+
+<p>
+
+ELI turns and leaves. DAVID watches and we
+
+.. raw:: html
+
+</p>
+
+<h3>
+
+FADE OUT.
+
+.. raw:: html
+
+</h3>
+
+*"Walking Away, Part 1" was written by `tycho
+garren <http://tychoish.com/tycho>`__ the creator of
+`TealArt <http://tychoish.com>`__ and [Station
+Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
+and a science fiction writer by night, you can read his work elsewhere
+on `TealArt <http://tychoish.com>`__ and at
+`~/tychoish <http://tychoish.com>`__.*
+

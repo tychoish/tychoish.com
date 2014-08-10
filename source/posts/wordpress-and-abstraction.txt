@@ -1,0 +1,41 @@
+=========================
+wordpress and abstraction
+=========================
+
+.. post:: 2007-06-24
+   :author: tychoish
+
+I realize this is kind of meta, but....
+
+since I'm setting up two new Wordpress installations on this sever, for
+this website and also for the station keeping documentation, I've
+realized that there is so much that the software can do and so little
+that I generally get it to do, and about 80% of what I do do with
+wordpress, are hacked together things from the old days.
+
+I mean I think it all looks good, and what not, and I don't really want
+to make the website(s) any spiffier than they already are, but.... it's
+craziness.
+
+Also, I have to say that, while it works really well, Wordpress is kind
+of getting bloated and funny. Back in the day, you could open up the
+files (I guess this was back when it was
+`b2/cafelog <http://cafelog.com/>`__) and see what the database queries
+were doing. A discussion I had with
+`bear <http://code-bear.com/bearlog/2004/10/>`__, gave me the term
+"abstraction" to describe the way that computer code/programing becomes
+further and further removed from what it's actually doing. I hope I'm
+getting that right...
+
+Anyway, I had a blogging system for a while, where all the templates and
+what not, basically had to be done by hand. While we didn't work out
+perfectly for each-other, that CMS and I, in terms of capability, there
+isn't a lot that it couldn't do that I can now with the a program that
+is significantly newer (as these things go).
+
+well whatever.
+
+ps. I'm using the `BlogMate <http://www.ditchnet.org/blogmate/>`__
+plugin for TextMate this post. Have I mentioned how much I like
+`TextMate <http://macromates.com/>`__
+

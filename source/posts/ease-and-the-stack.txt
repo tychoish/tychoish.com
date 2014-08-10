@@ -1,0 +1,78 @@
+==================
+Ease and The Stack
+==================
+
+.. post:: 2010-05-06
+   :author: Sam Kleinman
+   :tags: cyborg
+
+As if I needed a new project, this post introduces a new project that's
+floating around in my mind. I was having a conversation with a friend
+about how I use the computer, I realized that while I've talked about
+various elements of *how* I use computer's (the short story:
+peculiarly), I've not really talked about the holistic experience. As I
+started to talk about the various components and how they connect and
+work together, I realized that with out an example it was about as clear
+as mud.
+
+So, in light of this, I've decided to make a "tychoish stack," which
+won't be anything *particularly* novel, but a repackaging of the
+software--mostly configurations and little bits here and there--that I
+use on a daily basis. My stumpwm configuration. The highlights of my
+Emacs configuration, and a few install scripts to make it all work
+together. An SSH configuration file that will make your life much
+easier, a list of packages that you'll want to install on common
+operating systems (Debian/Ubuntu and Arch Linux), and--because I am who
+I am--a fair piece of writing about best practices and how to these
+tools effectively.
+
+--------------
+
+I was talking with `Chris <http://www.cgkreality.com/>`__ the other day
+in one of our never ending conversations regarding is ever changing
+choices of desktop operating systems. "Windows just feels more polished
+to me right now," he said after a stint with the latest Ubuntu or one of
+its derivatives.
+
+To which I said, "of course it does," they pay bunches of people lots of
+money to make sure that Windows is polished and it's a high priority
+given the failure of Vista and the direction of the market. The reason I
+use Linux full time is not because I want a better more polished
+experience, I use Linux full time, because I want something very
+specific: a window manager that stays out of my way and doesn't distract
+me with "chrome," emacs buffers that run in the way that I expect them
+to, package management tools that allow my system to work and function
+day in and day out, the ability to customize all of these functions to
+suit the evolving needs of my work, and *nothing else* that I have to
+mess around with.
+
+This is something that I can only get from a UNIX system, and the more I
+play with different systems, the more I'm inclined to think that the
+only way to get this is with Arch Linux. But that's just me. I've played
+with a bunch of different operating systems (that's an aspect of my day
+job) and I've spent time using OS X, and it just doesn't work for me. I
+don't need smooth, I don't want polish, I just want something that lets
+me work.
+
+Different computer systems make sense for different people. There's no
+problem with that assertion, I think.
+
+--------------
+
+The problem of course, that my setup doesn't scale. I can go from a bare
+arch installation to a working version of my system in a few hours by
+using ``rsync`` to copy over my home directory, updating a few git
+repositories, installing a list of packages, and creating a half dozen
+symbolic links, but building this from the bottom up would take a long
+time.
+
+The goal of this project then, is to make that process easier. I've done
+a bunch of work to get a setup that *does what I need it to do*, I know
+which applications work, I know how to plug everything together to make
+it easier to manage. I want to build a stack so that you all can take
+it, learn from what I've done, and spend the time customizing it to
+*what you do*, rather than going through the trouble of building it up
+yourselves.
+
+How's that sound?
+

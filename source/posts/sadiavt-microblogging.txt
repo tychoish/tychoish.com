@@ -1,0 +1,57 @@
+=======================
+@sadiavt, microblogging
+=======================
+
+.. post:: 2008-09-11
+   :author: tychoish
+
+(*my friend, sadia asked me a question on twitter that I couldn't answer
+in 140 characters, so escalated it to email, and she said that I should
+post it to the blog, and who am I to refuse a request like that?*)
+
+I really like the open-source/federated microblogging site
+"`identi.ca <http://identi.ca/>`__\ " which runs on the
+`laconica <http://laconi.ca/>`__ platform. It's good stuff, but the user
+base isn't quite there (either on the site, or in the federated
+network.)
+
+Basically the killer feature of microblogging, for me, is integration
+with a jabber/xmpp client, and pretty fine tuned control over who gets
+in your "stream/feed" Everything is nice, but fluffy (search, threaded
+comments, etc.) Jabber is great because it's so interoperable, and
+because jabber apps, like `adium <http://www.adiumx.com/>`__ are killer
+robust and integrate well into the system, were as Adobe Air twitter
+apps (and even twitterific) don't so much. In some respects, it also
+boils down to the difference between pull (which is the typical
+solution, and not ideal) and push (which twitter can't cope with any
+more).
+
+I have the attention/time to spare into this, if I can have a lot of
+control over what I see, and it's pushed to me live rather than via
+large regular pulls, it's easier to deal with. The end result is that
+while all the people I'm interested in reading/talking to are on the
+twitter, I have little tolerance for the site/service itself,
+particularly when I know that every other site does it a little better,
+and most can supply jabber feeds. This is a scaling problem, but Ev has
+cash, and the solution might be disruptive, but it's not conceptually
+difficult.
+
+The thing is that, I think twitter is afraid that if they do anything
+drastic, and if there's any more downtime in a major way, that everyone
+will jump ship. And they're probably right. Which would be good for us,
+but not for them.
+
+You also asked if microblogging was an addiction or curiosity, and I
+think I try all the new services out out of curiosity, but I don't think
+it's a particular addiction, aside from the general internet. It's sort
+of ironic, but I'd like to spend my internet time communicating people
+rather than reading the big portals. Hence the email lists, my "always
+on IM" M.O., `ravelry <http://www.ravelry.com/>`__, the fact that I
+don't really read the A-List blogs much, etc.
+
+I was a big IRC user back in the day, and in a lot of ways I see twitter
+(et al) as an evolution of the IRC impulse, and while I don't think
+"going back" to IRC is the way to go (because frankly Jabber/xmpp is
+really a "better IRC" anyway,) so if it is an addiction, it's not a
+particularly new one.
+

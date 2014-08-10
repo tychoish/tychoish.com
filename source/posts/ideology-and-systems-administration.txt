@@ -1,0 +1,55 @@
+===================================
+Ideology and Systems Administration
+===================================
+
+.. post:: 2010-11-30
+   :author: tychoish
+   :tags: cyborg, politics
+
+I do some work as a systems administrator, both personally and for
+friends. And I work with a lot of admins, but I don't really think of
+myself as a sys admin. Though you may feel free to argue the point.
+Nevertheless, I spend a lot of time trying to figure out the way systems
+administrators think and work. This makes sense: as my professional work
+is written for entry level systems administrators and I work with a
+bunch of admins. But I think it's probably bigger than that. This post
+is part of an ongoing thread on *dialectical futurism* about systems
+administration and its implications.
+
+The best systems administrators are unnoticed and unremarkable. When a
+system is working smoothly, it works and no one has reason to think
+about who is maintaining the system. Thus, to be a better systems
+administrator you have to become confident in your abilities (leading to
+a somewhat grounded stereotype in arrogance) and you have to be
+resistant to change.
+
+For example, take `this slide deck of a systems administration
+problem <http://www.slideshare.net/cog/chmod-x-chmod>`__. It presents a
+thorny sysadmin problem where the ``chmod`` utility (which is used to
+render files executable) has been marked unexecutable. The presentation
+goes through a number of different methods of fixing this, however
+(spoiler alert) the final solution is "the easy fix is to reboot the
+machine and fix it then (or something), and the machine's running so
+there isn't a problem." While this is a funny example, I think it's also
+largely a true example of the way systems administrators approach and
+resolve problems.
+
+I've seen this kind of "well it' may not be perfect, but it works,"
+logic as well as the "is it worth building something new and different
+that *might* be better?" reasoning at work, and I think it's probably
+apparent in all sorts of free software and other discussion forums where
+sys admins discuss things.
+
+Thus, I wonder: Does this *ideology* extend beyond the administration of
+systems and into other spheres of life and thinking? About technology?
+About politics and economics? I'm not sure, though I'm of course
+inclined to say yes, and I think it's something that requires some
+`deliberation </wikish/ikiwiki.cgi?page=systems-administration-and-ideology&do=create>`__,
+and further thinking.
+
+I look forward to `hearing your
+thoughts </wikish/ikiwiki.cgi?page=systems-administration-and-ideology&do=create>`__,
+and figuring out the best way to answer this question.
+
+Onward and Upward!
+

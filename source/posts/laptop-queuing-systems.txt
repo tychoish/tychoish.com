@@ -1,0 +1,40 @@
+=====================
+Laptop Queuing System
+=====================
+
+
+Here's the problem: most of my computing happens on laptops which are
+both unreliably active (i.e. suspended) and also have unreliable network
+connections. (i.e. trains, etc.). I've done a lot of work to make it
+possible for my digital life to continue without interruptions. This
+includes writing cron jobs that exit before performing network intensive
+operations and making sure that most data can be downloaded and consumed
+in offline formats. But this is not quite ideal.
+
+And I thought, "wouldn't it be great if, I could just bundle up tasks
+into little chunks and throw them in a pile that the computer will
+process and perform when it can, so that I don't have to remember to do
+things when I have a network connection and I can just drift in and out
+various states (active network, low-quality network, no network, and
+suspend/resume) without worrying about managing these states." Sort of
+like a cross between cron and some sort of queuing/bus system.
+
+Wait. A queue.
+
+As many of you who are still reading know, the contemporary solution
+(and, actually historical as well, but we won't get into that.) to
+enabling web applications to scale to be able to handle large amounts of
+work is to use queuing systems which allow applications to distribute
+and absorb bursts of activity, by spreading work out between high and
+low utilization periods. Basically: if you don't have to do everything
+all at once, split everything into little "atomic" jobs, make a list and
+then process, and do jobs as you can until everything is done.
+
+These are high performance systems, meant to handle nearly
+incomprehensible amounts of activity, but the idea is the same: I (and
+perhaps you too?) need a system that can figure out what state a machine
+is in and can save tasks and run them when the conditions are right.
+Simple, right?
+
+Anyone want to work on this with me? Come on, it'll be fun!
+

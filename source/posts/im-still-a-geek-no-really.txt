@@ -1,0 +1,110 @@
+==================================
+I&#8217;m still a geek. No really!
+==================================
+
+.. post:: 2006-08-23
+   :author: tychoish
+
+Here's an entry to prove that I still do things other than knit and
+post-structuralism/gender stuff. So there chris!
+
+I must say, while I know most hard core geeks cringe at the thought of
+google taking over the world, and indeed, that's a concern, I have to
+say that gmail is really a great mail option, and the prospect of
+Writely.com (also a google service) and Google Spreadsheet are really
+quite exciting, and I'll have to see how they hold up under more extreme
+testing, but I can definitely see virtually replacing Microsoft Office:
+why run two bloated programs when you can run one and get the same thing
+done. I so rarely draft in a document editor that it's hardly worth the
+effort and resources of keeping Word open: most of my drafting occurs in
+on and offline weblog editors (posted then to private
+journals/categories) or I use some sort of Editing software like Voodoo
+Pad or Notational Velocity, or Omni Outliner Pro so for the past few
+months I've done everything I can to stay out of Word as much as
+possible. I always keep a browser open anyway, and adding even another
+glitzy java-ey page open isn't a strain of note, and frankly I like all
+of the nifty RSS and sharing features.
+
+So as a result, I've been reorganizing my digital lifestyle these past
+few days, and I think I'm in a better place. I've forwarded a lot of
+email accounts into my gmail account, including my primary non-academic
+email account, and I've set up a number of filters in that account (and
+sorting rules in my Pop mail client) which will effectively allow me to
+use the web-mail part of gmail and the offline mail client effectively
+without needing to sort the same email more than once.
+
+I've also set up my calendar/schedule for next semester, and it would be
+really nifty if I could get iCal to publish to my Google Calendar, but
+I've not yet perfected that. Seems like I'd need a .mac account or
+something I don't have on TealArt. If anyone has idea's about that, that
+would be super nifty. The only other kink I have to work out is that
+writely.com wants me to respond to a confirmation email that I've yet to
+receive, despite multiple attempts to get it sent. But it's still beta
+so hopefully they'll get that sorted out.
+
+Other interesting computer news of note: I've switched away from Opera
+(again,) to Firefox, and I think this one's going to stick. The
+interesting thing, is that Firefox, an open source (right? it's GPL and
+all that jazz?) won the browser war, and on an aesthetic software design
+level, it has the best and most polished design. I liked a lot of
+Opera's features for a long time, but Firefox really just works better,
+and it's gotten considerably better in the past few months I think.
+
+So every so often I think it's nice to go through all of the software
+programs you use, in part as it is archival interesting, and also
+because sometimes there are great programs out there that other people
+can recommend. Keep in mind that I'm running a G4 PowerBook and the
+*Tiger* flavor of Mac OS X.
+
+For web browsing I use Firefox, and for Instant Messaging I use Adium.
+My mail client of choice is Apple's Mail.app (I generally use native Mac
+apps when I can, as they work pretty well, and the integration factor is
+nice.) I keep VoodoPad, a Notetaking program discussed above in my doc,
+though I use it somewhat infrequently. I find that the wiki style
+organization is unwieldy for most uses, and I feel you have to fight the
+program to get it to effectively do what you need it to.
+
+I use iTunes, of course, it works and I think it works well as a general
+content management database (because you can have video's and PDF and
+other document files in the same database) Though most of my
+articles/pdf files are not in my iTunes library, I hope to get them
+added and catalogued at some point. My one complaint, is mostly that my
+iTunes library is about 50-60 gigs (45 or so goes on to the iPod), and
+that I fear that I will out grow poor Zoe's hard drive at some point,
+and iTunes' folder organization can be difficult to manage when it gets
+large.
+
+My other main note taking program is Omni Outliner, which lets me
+successfully take notes in class, and organize my thoughts on a number
+of key research projects. It's an amazingly capable program, and I can
+almost use it to draft but the problem is that: the formatting is
+finicky and uncooperative, particularly with regards to margins. I also
+don't like that you can't produce good xml files (why, I ask, why?) or
+even a Microsoft word outline. It's a great program, unless you want to
+get data out of it in a useable format, at which point its only a pretty
+good program. Have yet to find one better.
+
+NetNewsWire and Mars Edit from Ranchero Software, which are the *best*
+RSS and offline Weblog editors for Mac OS by a long shot (and I've tried
+a bunch of them). Mars Edit, has become the main way I post to this and
+a number of other blogs. I also do most of my drafting in private
+blog/categories using this program. The news reader, saves a lot of
+time, and allows access to a FANTASTIC amount of information, very very
+quickly. My only complaints are: I don't comment on blogs nearly as much
+when using a news reader (this is a problem with sam, not the software),
+and secondly, there's no way to keep my blog reads synchronized with
+some sort of web based RSS reader (that will keep my folder organization
+intact: there are 250 feeds, the folders are key).
+
+I also sometimes use iCal, but it's a hard habit to keep, and if it
+synched with google calendar that would be even better. But so be it.
+
+That's basically it. Word if I absolutely need it. The same of Excel
+(we'll see how much google replaces these programs though). And that's
+about it...)
+
+I think that about does it. There'll be more knitting content soon I
+promise. ;)
+
+Cheers, sam
+

@@ -1,0 +1,86 @@
+========================
+Common Lisp, Practically
+========================
+
+.. post:: 2010-01-05
+   :author: tychoish
+   :tags: lisp, cyborg
+
+So in the emacs session running on my laptop (13 days plus) I have a
+number of buffers open, a great many of which include the entirety of
+`Practical Common Lisp <http://www.gigamonkeys.com/book/>`__ thanks to
+emacs-w3m, which I've been working through slowly. I've written here
+about how I find Lisp to be intriguing and grok-able in a way that other
+programing languages aren't really.
+
+My exposure to lisp isn't great. I hack about with my emacs code, and I
+do a little bit of tweaking with the window manager that I use (written
+in common lisp), `StumpWM <http://www.nongnu.org/stumpwm/>`__, but other
+than that I don't actually have much experience. What follows are a
+series of reflections that I have with regards to lisp:
+
+*Although there's a lot of really amazing capabilities in Common Lisp,
+and a lot of open source energies behind Lisp... Lisp isn't
+flourishing.*
+
+This shouldn't be a great surprise to anyone, lisp is sort of the
+epitome of "Programing Languages that don't get enough respect." Having
+said that there are a lot of lisp projects that aren't really well
+maintained at all. Even things that would just be standard and
+maintained for other languages (various common libraries and the like)
+haven't been touched in a few years. While it's not a huge worry, it
+does make it a bit worrying. Having said that, I don't think lisp is
+ever really going to go anywhere, and Common Lisp seems like a pretty
+darn good spec. But I don't have any real exposure to Scheme, and
+`Arc <http://arclanguage.org/>`__ isn't really real yet, I guess.
+
+*Lisp works funny, particularly for people who only have a passing
+familiarity with programming.*
+
+We're used to programming languages that either pass the source code
+through an interpreter (e.g. Python, Ruby, PHP, Perl, and I suppose Java
+and C#) compile into some sort of intermediate bytecode and then run
+that code on a virtual machine, then output stuff; conversely there are
+languages which compile down to some sort of native binary and then
+execute directly on the hardware. Examples of this second class of
+languages include: C, C++, and Haskell. Sorry if my examples or
+descriptions of the execution model aren't particularly precise.
+
+When you run lisp code, you define stuff and load it into the memory of
+a lisp process, and then stuff happens as the program runs. It's
+compiled to native code (I'm pretty sure at least,) but there aren't
+binaries, in the conventional sense. To get a "binary," you have to dump
+the memory of the program, and pretty much the entire lisp process into
+a blob. So the base size for executables is way bigger than one might
+expect. I've also had some success at running scripts with sbcl shebangs
+from the terminal. That's pretty nifty, not that I've really done very
+much of that, but its nice to know that it's possible.
+
+*Web programing in Lisp. I'm not so sure about that.*
+
+So you might see lisp code, and think: "*So. Many. God. Damn.
+Parentheses.*\ " and you'd be right. But even well formatted HTML is
+considerably less "human readable" than Lisp, and I don't think there's
+a lot of room for debate there. But when you think about it, `Lisp
+actually makes a fair amount of sense for the
+web <http://cybertiggyr.com/lh/>`__.
+
+I've actually done a little bit of poking around and from what I can
+see, the actual architecture and deployments of lisp aren't terribly
+bad. There are Apache modules that will pass requests back to a single
+lisp process (``mod_lisp`` similar to how ``fastcgi`` works,) and
+there's always the option of running performance CL specific
+web-application servers and just proxying requests to those servers from
+Apache. Lisp is, or can be, pretty damn fast by contemporary standards,
+and although there's a lot of under-maintained lisp infrastructure, the
+basics are covered, including database connectors and `java script
+facilities <http://common-lisp.net/project/parenscript/>`__ which might
+not be incredibly enticing, but all the parts are there.
+
+I mean, having said that, `I'm not a web
+developer <http;//tychoish.com/rhizome/thinking-like-a-web-developer>`__,
+or really much of a developer in general, but it's fun to think about,
+and even if I only use Lisp to hack on various things here and there,
+I'm still learning a bunch from the book and that seems more than
+worthwhile.
+

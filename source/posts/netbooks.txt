@@ -1,0 +1,56 @@
+========
+Netbooks
+========
+
+.. post:: 2008-11-24
+   :author: tychoish
+
+If there is anything that technologists will remember about 2008--other
+than the possible impending economic collapse--is that it's the year of
+the netbook. [1]_ I wouldn't be the first person to say that there's
+very little new about the netbook, but it's also true that there have
+been a number of advancements in the web and in browsers, and in wifi
+availability have given this development the critical mass that it needs
+to really catch on. And it is.
+
+Before I get to the pragmatic stuff about netbook usage, on the
+theoretical level I think netbooks present an interesting and expansive
+possibility for Linux-based systems. It's weird since Linux is really
+designed to be server software, but it works really well for a device
+like a net book, but I think the modularity and adaptability of the
+platform is a huge strength in this area.
+
+But I do have two pragmatic questions about netbooks:
+
+First off, What's the best netbook for older users? I have someone in
+mind who's lamented after my laptops for a while. I'm actually leaning
+towards the OLPC X-0 which is more than a year old now, but it's
+durable, nifty and functional. The Acer One seems to be the default
+recommendation otherwise, even if the HP mininotes are the ones that I
+personally like the best.
+
+Secondly, are we to a point that one of these notebooks could replace my
+laptop? Day-to-day I use my laptop in a very netbookish manner, but I
+need to be able use it as my primary computer for a couple weeks. Even
+though I got a new computer this summer, it's clear that my laptop is
+going to be needed to feed the family's obsolescence cycle sooner rather
+than later and while I'm leaning toward a Lenovo 12 inch
+ThinkPad/tablet, it is an open debate.
+
+On the one hand, a netbook would be nice and small and portable, and it
+certainly would do everything that I needed it to do, but I don't know
+how comfortable it would be to use for long stretches, and having
+something that could be a tablet from time to time would be quite good.
+At the same time, the price can't quite be beat.
+
+Thoughts? Debate?
+
+.. [1]
+Netbooks, are generally small (under 12 inches diagonal) laptop
+computers that are intended to sacrifice speed and power for smaller
+size, lower price, and more portability. This might seem like a lousy
+trade, but the truth is that we've reached a point where most
+users--even, or especially, power users--don't need super charged
+computers for their day-to-day use, and as a result a small, light
+cheap computer that's pretty good for most things.
+

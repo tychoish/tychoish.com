@@ -1,0 +1,62 @@
+=================
+Window Management
+=================
+
+.. post:: 2008-11-07
+   :author: tychoish
+
+OS X has been a really innovative force in personal computing. It's
+highly usable, lots of different kinds of users are able to work with
+it. It's compatible with lots of different standards, and it provides a
+lot of tools to developers that make even the sucky third party software
+pretty nice. I think if you look at Windows Vista, and the latest
+versions of KDE and GNOME and some of the other open source user
+interfaces, it's pretty easy to see some resonances of OS X.
+
+More importantly, probably, it proved that Unix and Unix-like operating
+systems were viable and usable for desktop use cases. While we've been
+able to run BSD and Linux on home computers for years, I don't think
+we've thought of Linux as being something that anyone could run without
+needing a lot of technical background.
+
+Ubuntu Linux followed this trend, pretty persuasively. Ubuntu makes
+desktop unix-like experience possible. Which is a really big thing.
+`Chris <http://www.cgkreality.com>`__ and I are both using Ubuntu these
+days for our primary desktop computers, and it's been really interesting
+to compare notes. One thing that we keep coming back to, is that despite
+the fact that the *core* of the OS is *great*, the user interface (UI)
+is tragic. OS X proves that it's not only theoretically possible to have
+a nice UI, but it's possible to do that on a unix-like system.
+
+As an aside, I'd bet good money that Apple has an in house version of
+Aqua/Cocoa/Carbon/CoreServices (all the UI and application frameworks
+that make OS X, OS X) running on the Linux Kernel. Betcha.
+
+And by tragic, I don't mean that GNOME and KDE are unusable, but they're
+flawed. GNOME doesn't use space efficiently, it's applications are
+functional but not exceptional (and because of the way the GNOME project
+is there aren't many 'third party' alternatives), and it feels sort of
+behind the curve. It works, and it does everything that you might want
+in a graphical user interface (GUI) but it's not exceptional.
+
+Thankfully KDE fails for completely different reasons. It's attractive
+and usable where GNOME isn't, and the interface is unique and
+exceptional where GNOME feels stale and aged. But the applications
+aren't nearly as compelling, and it suffers from having an
+interface/look that's *too* flexible, such that it's pretty easy to get
+a setup that looks like crap. Not to mention the fact that the kind of
+rich GUIs that KDE emblimizes don't mesh particularly well with the
+mostly hacker audience that Linux (and it) attracts. But that's a larger
+critique of the GUI paradigm, which isn't *quite* on topic.
+
+So where does this leave us?
+
+I'd say the biggest shortcoming of linux systems is the window
+management options. I like `Awesome <http://awesome.naquadah.org/>`__
+and I think there are a bunch of people who might really like it--but
+it's not for everyone, and I'm admittedly not up to date with enough of
+the other options to provide a really clear analysis, but I know that
+this is the *the next* big issue for open source operating systems.
+
+I'm not sure that I know enough
+

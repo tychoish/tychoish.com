@@ -1,0 +1,88 @@
+===================================
+Cooperatives, Competition, Openness
+===================================
+
+.. post:: 2009-05-06
+   :author: tychoish
+   :tags: economics, open-source
+
+`I've been thinking <http://tychoish.com/rhizome/post-bar-camp/>`__, in
+light of the Oracle purchase of Sun Microsystems, about the role of big
+companies in our economy, the role of competition, and what open source
+business models look like. This is a huge mess of thoughts and trains
+but I have to start somewhere.
+
+-  `The Hacking Business
+Model <http://askmonty.org/wiki/index.php/The_hacking_business_model>`__
+isn't so much a business model, as it is an operations model for
+hacker-run business. In that light it's a quite useful document, and
+it's understandable that it mostly ignores how to obtain "revenue"
+(and therefore, I think, falls in to the trap that assumes that new
+technology creates value which translates into income, when that
+doesn't quite work pragmatically.)
+
+I'm interested in seeing where this kind of thing goes, particularly in
+the following directions:
+
+-  Where does capital come from in these systems? For start-up costs?
+
+-  Where and how do non-technical (administrative, management, support,
+business development) staff/projects fit into these sorts of systems?
+
+-  The conventional wisdom in proprietary software (and to a lesser
+extent in free software) is that in order to develop new technology
+and improve existing technology code-bases need to compete with each
+other, and I don't really think that this is the case in open
+environments.
+
+I'm not sure that the competition between Solaris, the BSDs, and Linux
+(augmented as they all are by GNU to various extents) pushes each
+UNIX/UNIX-like operating system to improve. Similarly, I don't know that
+having vim and emacs around keeps pushing the development of the
+text-editor domain.
+
+At the same time, competition does help regulate--after a fashion--the
+proprietary market. Having Oracle's database products around help keep
+Microsoft's database products on their toes. OS X spurs development in
+Windows (usually). Without serious competition we get things like the
+ribbon interface to Microsoft Office (ugg), and telecoms.
+
+This ties into my work and thinking on distributed version control
+systems, but I think in open systems, (particularly where branching is
+supported and encouraged,) the competition can happen among a team or
+with one's own history. We pitting code bases against each other seems
+to not make a great deal of economic sense.
+
+-  I wish I had access to demographic data, but I suspect that there are
+few if any open source projects with development communities that are
+bigger than ~100-150 ([dunbar's
+number](http://en.wikipedia.org/wiki/Dunbar's\_number)), and the
+bigger projects (eg. Drupal, KDE, GNOME, the Linux Kernel, Fedora,
+Debian) solve this by dividing into smaller working projects under a
+larger umbrella.
+
+And yet, our culture supports the formation of companies that are many
+*many* times this big.
+
+I've written before about the challenges of authenticity in economic
+activity, and I wonder if having large non-cooperative institutions
+(companies) is one of the chief sources of in-authenticity is the fact
+that we can't remain accountable and connected to the gestalt of the
+most basic economic unit (the corporation).
+
+I wonder if as we learn from free software and open practices, if
+cooperative-based business are more likely to become more predominant,
+or how else our markets and economies will change.
+
+This brings us back to the revenue system in the hacking business model
+from above. In smaller operations we can imagine that some business
+opportunities would be viable that wouldn't be viable in larger
+operations. Also, because smaller co-ops can specialize more
+effectively. These factors combine to signify that competition becomes
+an internal or "vertical" issue rather than an external/horizontal
+project and in these situations generating revenue becomes easier.
+
+Thoughts?
+
+More to come?
+

@@ -1,0 +1,91 @@
+=============
+Update Rhythm
+=============
+
+.. post:: 2011-08-30
+   :author: tychoish
+   :tags: update, meta, progress-report, emacs
+
+I wonder if, at some point, this constant state of overload and flux in
+my world will begin to seem normal and I'll just adjust to that normal.
+In the mean time, exciting things are happening and I'm not quite sure
+of the best way to write about them. Perhaps soon. For now, I'm trying
+to get better about updating more regularly and I have a bunch of links
+of stuff that have happened on the wiki in the past couple of weeks that
+I'd like to share. Here we go:
+
+Discussion of Rhizomes
+----------------------
+
+[[jfm]] and I had a good
+[[exchange\|/rhizome/ideology-and-systems-administration/discourse]]
+about an old post that I wrote on "[[Ideology and Systems
+Administration\|rhizome/ideology-and-systems-administration]]."
+Basically the posts says, "systems administrators have a unique approach
+to solving technological problems," and discussed the implications of
+systems administrators background on technology development. I think our
+clarifications were useful.
+
+There are a couple of comments on my recent series on a
+[[tag/productivity]]. First, I wrote a post about [[task planning and
+creating task items\|rhizome/create-better-task-items]], and [[madalu]]
+posted a [[comment\|/rhizome/create-better-task-items/discourse]].
+Second, a number of us had an ongoing conversation on mobile
+productivity in response to the "[[Mobile Productivity
+Challenges\|rhizome/mobile-productivity-challenges]]" post
+([[link\|/rhizome/mobile-productivity-challenges/discourse]],) that
+touched on emacs (of course!) input, and context switching.
+
+Site Tweaks
+-----------
+
+This is a pretty minor point, but I've been subtly tweaking the design a
+little in the site. There are now links to the [[tag]]s page and the
+[[site-map]] in the upper right hand corner. I've also made links to
+as-of-yet-uncreated wiki pages red (according to wiki-convention.) I
+think (and hope) that red links are easier to spot when they're red.
+Feedback on the design would be most welcome. My goal is to make the
+site welcoming, easy to use, and to minimize the amount of "fussiness."
+It might be time for a full refresh, but [[feedback\|discourse]] on the
+subject might be good.
+
+Critical Futures and Wiki Fiction
+---------------------------------
+
+As a build on top of my"[[Wiki Fiction\|rhizome/wiki-fiction]]" post,
+I've moved the pages that had been located on the [[critical-futures]]
+page to [[previous/critical-futures\|previous/critical-futures]].
+Eventually the story will move to the *Critical Futures* domain, but
+that's a bit down the road. Right now I'd rather focus my time/energy on
+writing some stories, for now (on this wiki.) Infrastructure can come
+next.
+
+I hope to work on a series of posts that explore collaborative fiction
+organizing over the next few weeks. If people are interested, that is.
+
+External Links
+--------------
+
+I came across a blog from the
+[[comments\|/rhizome/make-emacs-better/discourse]] on the [[make emacs
+better\|rhizome/make-emacs-better]] post that I wanted to offer as a
+link `The Babbage Files <http://babbagefiles.blogspot.com/>`__ is a
+great cyborg/emacs/free software blog.
+
+This is probably not news to anyone, but from `John
+Wiegley <http://www.emacswiki.org/emacs/JohnWiegley>`__ I learned about
+the following two emacs gems that merit mention:
+
+-  `paredit <http://www.emacswiki.org/emacs/ParEdit>`__ which makes
+handling all of the parentheses in Lisp coding much easier.
+-  `redshank <http://www.foldr.org/~michaelw/emacs/redshank/>`__, which
+basically adds a number of tempting systems and associated tools for
+
+And in another direction, I've been playing with
+`pylookup <https://github.com/tsgates/pylookup>`__. This emacs add on
+makes it possible to access python documentation from within emacs, from
+a local copy. The interface is a little bit fiddly but it's pretty much
+heaven. More things should work like this.
+
+Onward and Upward!
+

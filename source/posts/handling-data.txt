@@ -1,0 +1,92 @@
+=============
+Handling Data
+=============
+
+.. post:: 2009-03-26
+   :author: tychoish
+   :tags: data, cyborg
+
+Data, information, in the digital context is really important. Perhaps
+the most important thing. It's a shame then, I think, that we're, on the
+whole, *so bad* at managing data and organizing information so that it
+is useful to us in the future. I keep starting to write posts on the
+topic with clever lead-ins, and within a hundred words I realize that
+I've bitten off more than I can chew. So I'll spare the introduction and
+get on with the story.
+
+A couple of weeks ago, I copied all of my music off of my backups (from
+iTunes and my days as a mac user), and onto my Linux machine. I'd never
+really looked at the files in years, becuase of course, iTunes abstracts
+all the files away, so when you play "digital music," you just play
+"tracks" rather than having to interact with the realities of the files
+themselves. This is incredibly user friendly, and I think there's
+something in the iTunes model that is pretty useful. That is, creating
+user interfaces that let users interact with intelligibly bounded *data*
+units rather than with *file* units makes a lot of sense.
+
+Having said that, what ends up happening is that the abstraction of the
+data often means that we're less in touch with what's being stored, and
+we rely on (often proprietary) tools to keep track of the meta-data
+associated with our libraries.
+
+As I was going through my Music Library, which I'm using with
+`mocp <http://moc.daper.net/>`__ and Rhythm box (minimally, for syncing,
+eventually.) I realized that my music was organized in an incredibly ass
+backwards way. Many "artists" had a number of folders given various
+alternate spellings of their names (with and with out "the" or with
+various ampersand forms), which is a trifle frustrating. And as I was
+looking over the files I realized that there were things that I
+*thought* I had deleted, but in fact hung around in my directory (this
+is a specific flaw with the "are you sure" dialogue in iTunes, but it's
+still an issue).
+
+I'm not done, but I know that the next step: going through the files by
+hand will mean that my music files will be much more well organized.
+Problems like this arise, largely, when we just rely on the computer to
+organize the files itself without input from us. While I like the
+"iTunes" way of accessing my music, I expect that my collection of music
+files is the kind of thing that I'm going to have around for the rest of
+my computer-using/music-listening life, and after only 5 years my iTunes
+has stooped being a part of my life. For sure.
+
+I guess the lesson from this is, interfaces for accessing your files
+aren't always the best for organizing the files, and don't entrust your
+organizing responsibility to a script.
+
+Another story: PDF files.
+
+When I'm doing research stuff, I have this way of collecting PDF files
+of articles. When I was in school I would make a folder for each class I
+took and then throw PDFs into one folder, title them productively
+(``author[s] - title.pdf``). This worked until I wanted to start reusing
+material, or drawing connections between various projects/class. And
+then--being a geek--I had projects that weren't *quite* class related,
+where did they go? Never mind the fact that the file names were absurdly
+long.
+
+So I switched to a new system where I keep a BibTeX database of all my
+files and name PDFs with their cite keys (which are: authorlastYEAR.pdf;
+if there are more than one paper by an author in a year I append
+alphabetical characters (eg. a, b, c) to the end in the order that they
+come into the database. If there are more than one author I take the
+first author/PI).
+
+It took a few weeks of sporadic work get the files into shape, but the
+end result of that transformation is the fact that my PDFs are
+*incredibly* useful to me, and I never have to look very hard for any
+piece of data.
+
+The lesson is to use your data no matter what the system is and make
+sure it's still working, and then, when needed don't be afraid to change
+strategies. On this level, organization really ought to be empirical.
+
+In light of these two experiences I have come to the conclusion that
+it's important to really get your hands dirty in the files. While the
+abstractions are nice, they allow us to be complacent. Touching your
+data, looking at the files, and deploying a system that is simple and
+both useful in the present and relevant looking forward is incredibly
+important. The particulars beyond that are more vague, still but we'll
+get there in future posts.
+
+Thanks for reading.
+

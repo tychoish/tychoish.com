@@ -1,0 +1,53 @@
+===================
+Write Sane Software
+===================
+
+.. post:: 2014-02-21
+   :author: tychoish
+
+*a checklist*
+
+There's a difference between software that works, software that's
+brilliant, software that's maintainable, and software that's *good*.
+This is post that begins to enumerate the kinds of things that *you* can
+do as you write software to help make it sane and possibly good.
+
+This isn't about computer science, or really even about engineering
+principals. We all have a sense of what makes a physical object
+(furniture, buildings, electronics) feel like they are well made. This
+is about making software have the same feel, and what you can think
+about when you're writing code to help give the finished product that
+feel.
+
+I'll expand on these items later, but as an outline.
+
+1. Have logging everywhere.
+
+2. Solid test code that mirrors app functionality.
+
+If you feel like you can safely make a change to the code and be
+confident that your tests will catch regressions, then you're good,
+otherwise; write more tests.
+
+3. Never more hierarchy then you need.
+
+4. Make the building infrastructure really robust.
+
+5. Have internal abstractions for internal configuration and
+persistence.
+
+Configuration and data persistence should be encapsulated by some
+internal interface and the application logic shouldn't depend on the
+implementations of how the application is configured *or* how you
+persist the data.
+
+6. Consider concurrency when possible.
+
+7. Don't confuse exceptions and conditions.
+
+8. Break long sequences of sections into groups of logical operations.
+
+9. Avoid unnecessarily tangled execution paths.
+
+Please discuss!
+

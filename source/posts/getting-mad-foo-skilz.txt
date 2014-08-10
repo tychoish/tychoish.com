@@ -1,0 +1,68 @@
+======================
+getting mad foo skilz 
+======================
+
+.. post:: 2008-01-14
+   :author: tychoish
+
+I often ask myself what separates the "real" geeks, from the rest of us?
+
+Ok, maybe not often, but sometimes.
+
+Apropos of my conversation with *ProspectiveAdvisor* this morning I've
+been thinking about the mis/remembered history of the "geek" identity. I
+mean at one point the geeks were the awkward and intense folks who were
+really good with technology and games (ok, I don't understand that, but
+we'll take it.) Being a geek wasn't a cool thing, and being a geek
+wasn't "sexy." Now at least in some circles, with the rise of the
+commercial Internet, I think it's fair to suggest that in some context
+geek and hipster have sort of meshed in some perverse way. I mean
+computers have gotten easier to use, and this means that the boundaries
+of geek is wider.
+
+My grandfather quit using computers when windows 3.1 came out because he
+thought it would open the BBSes to too many people and ruin the joy
+experience. While I wouldn't make that argument in those terms (or draw
+that line in the sand) I think I'm commenting on a parallel phenomena.
+
+But I'm getting too far afield.
+
+So now since, in a way, we're all geeks, what separates normal geek from
+uber-geek. What sorts of usage things to the real geeks do that you and
+I don't do as much?
+
+Near as I can tell, there are two major things:
+
+1. Templates 2. Automate
+
+Which boils down to basically: your computer is great at doing
+repetitive tasks, so make it do them, rather than doing it yourself. I
+think this became most clear to me as I've made the transition to using
+LaTeX for any kind of document that needs to end up on paper. LaTeX
+really powerful, and really complex, *but* figuring out like 90% of what
+makes it go, is all in the header and footer, so all I have to do is get
+templates ready for my documents, and then drop in the text that I'm
+using. Simple.
+
+In OS X, under file info (Command-I in finder) there's a little box that
+says "Stationary Pad." If you check that, every time you open that file,
+finder will *make a copy of the file and then open that one*. There are
+also ways to use templates inside of TextMate, Quicksilver, and so
+forth. Nifty. Ok, geek foo time saving skill number one. I have that.
+
+Geek foo skill number two, is automate. If you find yourself doing the
+same thing again and again, stop. Figure out a way to automate this.
+Most programs have a macro function, which I think is utterly
+misunderstood. I you have a series of find and replaces, you can just
+open up a test document, do the find and replaces, and save the macro so
+you can do it again and again. If you're a perl genius you could
+probably write it out in your sleep, but then, where's the fun in that?
+
+Ok. Nifty.
+
+So the question is, what's number 3. There has to be another trick, that
+I'm missing. Something you can do that doesn't require learning
+`Lisp <http://en.wikipedia.org/wiki/LISP>`__.
+
+Sigh.
+

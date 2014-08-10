@@ -1,0 +1,76 @@
+============
+Being a Geek
+============
+
+.. post:: 2006-09-28
+   :author: tychoish
+
+It's funny. I write TealArt enters with a very strange intended
+audience, and it's an audience that's pretty darn old. I joined a
+listserv a little while ago, and everyone on the list is having fun
+setting up their 'blogs' (blogspot affairs), and I feel like a seasoned
+pro, because not only have I been blogging for a really long time (I
+think there has some form of CA/TA blog this or blog that for, 5-6
+years, maybe more.) This is an exceptionally long time, when you think
+about the history of the blog. The end result is that I'm writing for a
+very strange audience: It's a bit detached and I attempt to establish
+some sort of authority/legitimacy. I also don't expect that there are
+many *real* people out there, which I know can't quite be the case, but
+no matter.
+
+In the past few weeks I've spent a very little amount of
+time/energy/thought, rethinking the way I use my computer. Mostly this
+has consisted of a lot of observation of usage habits, software usage,
+and nagging desires for new features/possiblities. While I was in St.
+Louis I listed off all the applications that I use regularly in a
+TealArt entry. I've subsquently changed everything I said in that entry,
+because writing that entry started a minor observation project that I've
+been working on to see what I need/want most and what I need to do to
+get this done.
+
+My biggest change has been a move *back* to Voodoo-Pad from
+OmniOutliner, because I feel like I wasn't getting the most out of the
+program (I never did get how to use columns, and I always felt like the
+formating, an aesthetic concern I'll grant you, would never behave,)
+this I think is mostly a problem with my brain and how it works in
+combination with the kind of tasks that I seem to be focusing on. I
+learned from 43Folders that there's going to be some sort of Omni kGTD
+program (a productivity methodology/application) on the heels of being
+released. Sweet.
+
+I like VoodooPad because it behaves a little better with the formating,
+and the new version (which I completely missed) has both multiple window
+and tabbed editing/browsing of your notes which is great. As is the new
+file format which allows for bigger file sizes and integration of PDF
+files (so you can have PDF articles that you get from JStor into
+VoodoWiks. It's all great. There's also a feature in the Pro version
+that allows you to set up an integrated wiki server through voodoo-pad,
+which isn't a feature I'm going to need for years, so I am without.
+
+I've also decided to give up the ghost on Microsoft applications for
+Mac, which doesn't seem to make a lot of sense. I'm using my weblog
+editor (more on that in a moment) and VoodooPad for all of my text
+drafting, and though I might turn on Office every now and then to create
+knitting patterns, between these apps and google there isn't a lot that
+I could want from Microsoft, and I hate the drain on resources to keep
+such programs open. Despite the ugly icon, I really want to use Mellel,
+because it looks really cool, and works pretty good in the demo. The
+*only* think I need such a program for is for Manuscript editing (and
+maybe some basic desktop publishing-type things, how long has it been
+since someone said "desktop publishing?"). So there's that.
+
+Zoe, my computer, is about a year and a half now, and I've just ordered
+the RAM upgrade that I promised myself that I'd get a year ago (never
+buy RAM from Apple because it's cheaper to buy the same stuff cheaper on
+your own, but then of course I never do because I'm lazy.) So that's on
+it's way, and I think it'll make the whole operation run a lot more
+smoothly. For instance, the computer I had for a couple years in high
+school and my old iBook both had less ram than this one does right now,
+for no real good reason. But I don't think that this entry is really
+about hardware much, so we'll save that for another day.
+
+And I think this has taken way too much time at this point, so I'll go
+now, and I'll try and write again very soon ;)
+
+Cheers, sam
+

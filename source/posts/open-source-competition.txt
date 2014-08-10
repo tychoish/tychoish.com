@@ -1,0 +1,105 @@
+=======================
+open source competition
+=======================
+
+.. post:: 2009-09-14
+   :author: tychoish
+   :tags: open-source, economics
+
+I've been flitting about the relm of political economics, technological
+infrastrucutre, and `cyborg <http://www.cyborginstitute.net>`__-related
+topics for a number of weeks, maybe months, and I haven't written very
+much about open source. This post is hopefully a bit of a return to this
+kind of topic, mostly because I've been staring at a blog post for
+weeks, and I finally have something that's nearly cogent to about an
+article that kind of pissed me off. Here goes
+
+The article in question seeks to inform would-be-software entrepreneurs
+`how they ought to compete against open source
+software <http://www.softwarebyrob.com/2009/08/11/how-to-compete-against-open-source-competition/>`__,
+and to my mind makes a huge mess of the whole debate. Lets do some more
+in-depth analysis.
+
+"Open source is only cheap if you don't care about time," is an
+interesting argument that sort of addresses the constant complaint that
+open source is "fussy." Which it is, right? Right. One of the best open
+source business models is to provide services around open-source that
+make it less fussy. Also I think Free Software is often "a work in
+progress," and is thus only occasionally "fully polished," and is often
+best thought of as a base component that can be used to build something
+that's fully customized to a specific contextual set of requirements.
+That's part of the value and importance of free software.
+
+I don't think we can have our cake and eat it too on this one, (the cake
+is a lie!) and in a lot of ways I think this is really a positive
+attribute of free software.
+
+The complaints regarding open source software seem to boil down to:
+"open source software doesn't come with support services, and
+installation polish" (`we're working on
+it <http://wiki.cyborginstitute.com/softwarefreedom/sygn/>`__, but this
+is a commercial opportunity to provide support around open source
+products in general.)
+
+So to consolidate the argument, the author seems to suggest that: "in
+order to beat open source software, which sucks because it's not
+polished enough and doesn't have support, I'm going to write a totally
+different code base, that I'll then have to polish and support."
+
+My only real response is. "Have fun with that."
+
+--------------
+
+Before I lay this to rest, I want to give potential "Commercial Software
+Vendors" (proprietary software vendors?) the following qualifications on
+the advice in the original article.
+
+1. **Save your users time**: Sound advice. Though I think the best way
+to save users time is probably to integrate your product with other
+related tools. Make your product usable and valuable. Provide
+support, and take advantage skilled interaction designers to provide
+intuitive interfaces. Don't, however, treat your users like idiots,
+or assume that because your product might have a learning curve it's
+flawed. The best software not only helps us solve the problems we
+know we have, but also solves problems we didn't know we had, and in
+the process creates tremendous value. Don't be afraid to innovate.
+
+Also, \*\*save yourself time\*, you can create more value for your
+customers by not reinventing the proverbial wheel. Use open source
+software to bootstrap your process, and if the value you create is (as
+it always is) in support and polish, you can do that to open source just
+as well as you can to your own software.
+
+2. **Market Hard**, might work, but it's all hit and miss. Open source
+might not be able to advertise, or send people on sales calls to
+enterprises, but open source has communities that support it,
+including communities of people who are often pretty involved in IT
+departments. Not always, mind you, but sometimes.
+
+If you're a "Commercial Software Vendor" you're going to have a hell of
+a time building a community around your product. True fact. And word of
+mouth, which is the most effective way to predict sales, is *killer
+hard* without a community.
+
+4. **Focus on features for people who are likely to buy your product,**
+is a great suggestion, and really, sort of the point of commercial
+software, as far as I can see. Custom development and consulting
+around open source if you can provide it, achieves the same goal. At
+the same time, I think a lot of open source enterprise software
+exists and succeeds on the absence of licensing fees, and so I think
+would-be-software vendors should be really wary to think of the
+enterprise as being "cash cows" particularly in the long run.
+
+So in summary:
+
+-  Create value, real enduring value. Not ephemeral profitability, or
+in-the-moment utility.
+
+-  Be honest about what your business/endeavor *really* centers on, and
+do *that* as best you can.
+
+-  Understand the social dynamics of open source, not simply the
+technological constrains of the user experience.
+
+And.... done.
+

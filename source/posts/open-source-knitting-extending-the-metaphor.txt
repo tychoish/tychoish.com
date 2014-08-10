@@ -1,0 +1,92 @@
+============================================
+Open Source Knitting: Extending the Metaphor
+============================================
+
+.. post:: 2007-09-06
+   :author: tychoish
+
+I had so much fun `last
+time <http://tychoish.com/rhizome/osk-open-knitting/>`__ talking--and
+thinking--about the connections between "open source," (software) and
+knitting, in terms of what happened in the knitting world a few months
+ago (actually, it's probably longer now), that I wanted to continue to
+think and write about these subjects. I've been listening to `FLOSS
+Weekley <http://www.twit.tv/FLOSS>`__ and also `thinking a
+lot <http://tychoish.com/rhizome/being-an-artist-and-paying-the-bills/>`__
+about the way that creative types can afford to be creative, that I
+think this is a good little project for us to consider for a while.
+Also, I hope that it will provide a chance for a lot of the ideas that
+I've been playing with for a number of months to finally start to come
+together in our minds. I recognize that my selection of topics here
+is... eclectic at best: sometimes its a good thing to pull it all
+together.
+
+Last time, I left with a number of points, that I thought needed further
+consideration, and I'm going to spend some time with the first
+(*italicized*) item today. Here they are for connivence sake:
+
+-  *Is there a layer of information that goes into knitting design and
+documentation that isn't typically exposed in "closed"/conventional
+publications? (that would be equivalent in role to source code)?*
+-  The role of editors and communities and the sometimes very
+"conventional" development models that "open" projects use.
+-  The way GPL/GFDL knitting projects can be used commercially.
+-  Technological methods of attending to such a project.
+
+In software, open source is important because without source code,
+developers are stuck perpetually recreating the wheel (or paying through
+the nose to license code) if they want to replicate a feature or
+whatever it is that programers do. Once compiled, code is basically
+secure, and though you can read it, without the source code, you can't
+edit it, or continue to develop it in anyway.
+
+In some ways, knitting is always already open source: knitting designers
+are often found selling patterns of their work, which is basically
+source code. Furthermore, a skilled knitter can look often at a
+"compiled" sweater (or sock or whatever) and be able to duplicate it
+with some degree of accuracy. And what's more, most of the time knitwear
+designers aren't designing stitch patterns, but rather combining or
+selecting patterns from libraries like the Barbara Walker treasuries, or
+the Sheila McGreggor Traditional Knitting collections. (For the
+programers out there, think "framework:" we had you beat on
+`Rails <http://www.rubyonrails.org/>`__ 50 or more years ago.)
+
+And I think this presents a problem for knitters wanting to "go open
+source," because the first assumption is that to open the knitting
+source you would have to give away polished patterns (source) so people
+could adjust the pattern (develop) and then knit their own sweater
+(compile). I'm not sure how other people design knitted things, but I
+write patterns based on notes reflection of my process (so, I basically
+design on the needles, shoot me now.) Why couldn't this be the source
+code? Then the OSKC [1]_ could develop the project (update and polish
+the pattern,) eventually compiling a finished pattern, and individual
+knitters could knit the pattern (that they could start knitting at any
+point in the development,) and create
+`forks <http://en.wikipedia.org/wiki/Fork_%28software_development%29>`__
+with any new developments that they create (their modifications might be
+submitted in the same "rough notes" format that the initial project can
+be submitted in.)
+
+My larger goal here is to create a model where the "costs" of going open
+source for knitters very low. It's my sense that knitters the world over
+are doing a lot of designing but probably not publishing it because
+while it's easy to decide to knit a sweater in a truly novel way, it's
+much harder to write instructions in a clear and consistent manner, and
+then test it properly. This is where, perhaps the largest benefit for
+Open Source is (for both knitting and software:) in the fact that there
+is--or should be--a community that can distribute a lot of the work far
+more effectively than a small closed group of developers/knitters.
+
+In my last post on this subject, I was speaking to the debate/tension
+between the creative commons projects and the idea of a GPL/GFDL
+approach. The truth is that this discussion is pretty agnostic on this
+question, which is really about project structure. You could do "OSK" in
+a CC type environment, that's for sure, but I think next time, I'll get
+onto the more into the merits of the GPL/GFDL, and business-y type
+stuff.
+
+Until then, I remain, tycho
+
+.. [1]
+Open Source Knitting Community
+

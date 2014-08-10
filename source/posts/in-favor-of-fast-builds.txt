@@ -1,0 +1,121 @@
+=======================
+In Favor of Fast Builds
+=======================
+
+.. post:: 2012-06-07
+   :author: tychoish
+   :tags: programming, build-engineering
+
+This is an entry in my loose series of posts about [[build
+systems\|build-engineering]].
+
+I've been thinking recently about why I've come to think that build
+systems are so important, and this post is mostly just me thinking aloud
+about this issue and related questions.
+
+Making Builds Efficient
+-----------------------
+
+Writing a build systems for a project is often relatively trivial, once
+you capture the process, and figure out the base dependencies, you can
+write scripts and make files to automate this process. The problem is
+that the most rudimentary build systems aren't terribly efficient, for
+two main reasons:
+
+1. It's difficult to stumble into a build process that is easy to
+parallelize, so these rudimentary solutions often depend on a series
+of step happening in a specific order.
+
+2. It's easier to write a build system that rebuilds *too much* rather
+than too little for subsequent builds. From the perspective of build
+tool designers, this is the correct behavior; but it means that it
+takes more work to ensure that you only rebuild what you need to.
+
+As a corollary, you need to test build systems and approaches with
+significantly large systems, where "rebuilding too much," can be
+detectable.
+
+Making a build system efficient isn't too hard, but it does require some
+amount of testing and experimentation, and often it centers on having
+explicit dependencies, so that the build tool (i.e. Make, SCons, Ninja,
+etc.) can build output files in the correct order and only build when a
+dependency changes. [1]_
+
+The Benefits of a Fast Build
+----------------------------
+
+1. Fast builds increase overall personal productivity.
+
+You don't have to wait for a build to complete, and you're not tempted
+to context switch during the build, so you stay focused on your work.
+
+2. Fast builds increase quality.
+
+If your build system (and to a similar extent, your test system,) run
+efficiently, it's possible to detect errors earlier in the development
+process, which will prevent errors and defects. A tighter feedback loop
+on the code you write is helpful.
+
+3. Fast builds democratize the development process.
+
+If builds are easy to run, and require minimal cajoling and
+intervention, it becomes much more likely that many people
+
+This is obviously most prevalent in open source communities and
+projects, this is probably true of all development teams.
+
+4. Fast builds promote freshness.
+
+If the build process is frustrating, then anyone who might run the build
+will avoid it and run the build less frequently, and on the whole the
+development effort looses important feedback and data.
+
+Continuous integration systems help with this, but they require
+significant resources, are [[clumsy
+solutions\|/rhizome/cron-is-the-wrong-solution]], and above all, CI
+attempts to solve a slightly different problem.
+
+Optimizing Builds
+-----------------
+
+Steps you can take to optimizing builds:
+
+(*Note: I'm by no means an expert in this, so feel free to add or edit
+these suggestions.*)
+
+-  A large number of smaller jobs that can complete independently of
+other tools, are easy to run in parallel. If the jobs that create a
+product take longer and are more difficult to split into components,
+then the build will be slower, particularly on more powerful
+hardware.
+
+-  Incremental builds are a huge win, particularly for larger processes.
+Most of the reasons why you want "fast builds," only require fast
+*rebuilds* and partial builds, not necessarily the full "clean
+builds." While fast initial builds are not unimportant, they account
+for a small percentage of use.
+
+-  Manage complexity.
+
+There are a lot of things you can do to make builds *smarter*, which
+should theoretically make builds faster.
+
+Examples of this kind of complexity include storing dependency
+information in a database, or using hashing rather than "mtime" to
+detect staleness, or integrating the build automation with other parts
+of the development tool chain, or using a more limited method to specify
+build processes.
+
+The problem, or the potential problem is that you lose simplicity, and
+it's possible that something in this "smarter and more complex" system
+can break or slow down under certain pressures, or can have enough
+overhead to render them unproductive optimizations.
+
+.. [1]
+It's too easy to use wild-cards so that the system must rebuild a
+given output if any of a number of input files change. Some of this
+is unavoidable, and generally there are more input files than output
+files, but particularly with builds that have intermediate stages, or
+more complex relationships between files it's important to attend to
+these files.
+

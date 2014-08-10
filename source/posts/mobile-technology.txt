@@ -1,0 +1,82 @@
+=====================
+Mobile Technology 2.0
+=====================
+
+.. post:: 2009-02-18
+   :author: tychoish
+   :tags: technology, cyborg, internet
+
+In the last six months or year (or two years) I've written a lot here,
+about technology open source software and related topics. In a way this
+was a new thing for me. I majored in Women's Studies and Psychology in
+college. I wrote about gender and queerness, and *knitting* for many
+years. My big thing (or one of them, at any rate) is science fiction
+literarture, where I'm interested in very historical/"soft" sub genres.
+While some SF writers feel ghettoized by the "hard"/"soft" boundary in
+the genre, I love the fact that there's (a very popular) field of
+science fiction that isn't based on firm understandings of existing
+science/technology and tightly formed elaboration thereon. I love being
+non-technical on some level. Despite my current technological musings,
+this is very much a past that I must contend with.
+
+But I digress.
+
+Before all of this hippy-drippy stuff, I wrote a lot about technology.
+Back in 1999/2000/2001 I was reasonably active in the discourse
+surrounding mobile technology. Indeed through this I discovered blogging
+itself. There are a couple of subtitles to this that I think are
+appropriate: first, the state of mobile technology about 10 years ago
+was much different than it is today. Much different. Laptops were
+significantly bigger and less portable, cellphones were much less
+"smart," and disconnected PDAs were the light of the times.
+
+But sooner rather than later, I broke down, bought a nice fountain pen
+and just kept a notebook when I was away from my computer. It worked.
+Eventually I got a cellphone, but I always tended toward the
+"dumb"-phone type that were incredibly simple. They worked. The paper
+worked. When I went away to college I got a 12 inch iBook (as my only
+computer) and it was great. Small laptops with wireless and long battery
+life seem to be a great solution to the "mobile technology" problem, and
+as--at the time--it seemed like my life/work was trending around in a
+different direction, I stared writing about different things, which when
+you think about it is all for the best.
+
+For the intervening years, I've been sort of cool toward a lot of
+gadgetry. Laptops are small enough and powerful enough and frankly cheap
+enough (considering) to account for a huge percentage of digital
+mobility, that the remaining need is actually pretty small. And it was
+my experience that mobile technology wasn't *there*, for the in between
+spaces yet. Recording bits of minutia in a usable way on a PDA was never
+quite as quick and seamless as doing it either on a computer or with
+paper.
+
+Eventually I've gotten back into writing about technology, but by this
+time it was a different kind of technology: unix/linux stuff, cyborg
+stuff, tools for writing, usage methodologies, and organization stuff.
+The technology itself (for me) has taken a backseat to the ways we use
+technology.
+
+But in the mean time the mobile technology has mostly caught up. At
+least somewhat. Cellphones became a lot smarter, the data transmission
+got cheaper (and unlimited), syncing tools through google and mobile me
+(if that's your style) make the experience much more coherent. In a lot
+of ways, the fact that cellphones and connected devices
+can--independently of host computers--interact with the internet has
+made them infinitely more useful. And the fact that, at least in my
+case, do this via protocols that we're already familiar with (REST API's
+or email) makes this even more attractive.
+
+I also think, at least in some cases, that a lot of this "web 2.0 stuff"
+makes the most sense in the context of mobile devices. While I don't
+often think about twittering, or dicking around on facebook when I'm
+sitting somewhere with just my Blackberry, the applications that connect
+with these web 2.0 services on phones are *really clever*. Maybe it's
+that limited functionality apps make more sense on phones/PDAs than they
+do on desktop computers, but that could just be me. In the end, I'm
+still dubious of all this "web stuff," but I think it at least makes
+sense now.
+
+So there.
+
+Onward and Upward!
+

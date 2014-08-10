@@ -1,0 +1,91 @@
+==================
+The Odd Cyborg Out
+==================
+
+.. post:: 2009-10-15
+   :author: tychoish
+   :tags: cyborg, lisp
+
+I said to my office mate this week, "I'm switching to
+`zsh <http://www.zsh.org/>`__," and I believe he said something to the
+effect of "oh dear, what's next."
+
+I should back up. I'm something of an odd duck when it comes to the way
+I use computers. I'm a geek, even in the context of my coworkers who are
+(also) huge geeks. I'm the only one who uses emacs. We're an OS X shop
+(for the desktop, at least) but I run Arch Linux inside of a virtual
+machine. Because I'm like that. And now, I'm switching away from the
+by-now unix standard "bash" shell to "zsh." I'm a bit weird. I'm ok with
+this.
+
+So zsh. Why should you care? Well...
+
+I'm not expert, having only really used it for a few days but there are
+a few things that have won me over:
+
+-  It's mostly backwards compatible with bash. So, except for the stuff
+that configured my prompt, I was able to copy over my old ``.bashrc``
+file pretty much as is. There's been no real "brain adjustment" from
+all my old bash habits.
+
+-  It's faster. You know, this is the kind of thing taht you don't
+believe, "my terminal is faster than your terminal" is kinda lame
+because bash is pretty peppy compared to GUI stuff. I mean what, bash
+is a 300-400 *kb*, how slow can it be? The answer is, zsh just feels
+faster. This seems to be a quasi universal experience.
+
+-  It does tab-completion within commands. This is seriously amazing,
+because while command completion and path completion is awesome in
+bash, you still have to remember all of the sub-commands. This is
+particularly rough for big commands like "``git``\ " and
+"``apt-get``\ " or "``apt-cache``\ ". Very awesome.
+
+Getting up the courage to switch and to rewrite my prompt was something
+that took a little bit of doing, but now I'm happy, and I strongly
+recommend it. If you like me live in the terminal, or have thought about
+using the command line more, give zsh a try, it's good stuff.
+
+--------------
+
+The other thing, almost certain to provoke an "Oh dear" reaction on the
+part of my geeky friends is the fact that I'm strongly considering
+switching from the `Awesome Window
+Manager <http://awesome.naquadah.org>`__ to the `Stump Window
+Manager <http://www.nongnu.org/stumpwm/>`__, or more practically StumpWM
+or just Stump. Here's some background on my adventures with tiling
+window managers:
+
+When I started using Awesome every *thing* I did with the computer lived
+in it's own little window. I was coming from the mac, so I lived with
+ten or fifteen open TextMate windows, a like number of open tabs in my
+terminal emulator, and a browser with a gazillion open tabs. I thought
+that this was sort of "the way I worked," and so I replicated this kind
+of workflow in Awesome.
+
+And here's the thing. Awesome is great for managing a *huge* number of
+windows. With 9 workspaces/tags (or more!) it was possible to keep
+twenty or thirty windows afloat... a few browsers, a few chat windows, a
+dozen terminals, a few emacs frames, and the like all happening at once.
+And the window manager made it possible for me to only have to look at 2
+or three windows at a time.
+
+Then I progressed. With emacs' server/daemon mode, I only have one
+instance of emacs and 20 or so buffers, and in an extreme moment I
+sometimes have as many as 4 frames open at once, but more often I just
+have 2 or three (org-mode, writing, and a spare for something.) And
+terminals? I've taken to using screen which multiplexes an untabbed
+terminal, so I typically have a single screen session with 8
+screen-windows, and I keep a couple of instances of that open at once
+for different contexts, so lets say another three windows. I have a
+remote screen session for IM and chat now that I connect to, and a
+single web browser.
+
+Frankly, it's sort of gotten to the point where I don't really need to
+manage very many windows, and I probably never use more than 4-5
+tags/workspaces. **My needs for a window manager changed,** and one of
+the core problems that problem that Awesome solves, is one that I've
+solved by using multiplexed applications. And that leads me to Stump.
+
+I see that I probably need to spend a little more time talking about
+this tiling window manager stuff again. Stay tuned!
+

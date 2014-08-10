@@ -1,0 +1,24 @@
+==============================================
+Slashdot | Laptop/Server Data Synchronization?
+==============================================
+
+.. post:: 2007-08-28
+   :author: tychoish
+
+`Slashdot \| Laptop/Server Data
+Synchronization? <http://ask.slashdot.org/article.pl?sid=07/08/27/2359245&from=rss>`__:
+
+I've been trying to automatically synchronize data between a laptop
+and a server. When the laptop is connected to the network, I want
+all writes to automatically propagate across to the server. When the
+laptop is disconnected I want the laptop user to continue working
+with the local data. When the laptop is reconnected, I want the data
+to automatically re-sync. The issue is, the data on the server may
+have changed as well, which needs to propagate back to the laptop.
+
+(from `Slashdot <http://www.slashdot.org>`__.)
+
+It's a good question. I think there needs to be more attention toward
+paid toward how computer users can seamlessly keep data in sync between
+multiple system. I think the best solution is to have some
+

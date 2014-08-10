@@ -1,0 +1,93 @@
+=============================
+It's A Great Time To Be Alive
+=============================
+
+.. post:: 2010-09-22
+   :author: tychoish
+   :tags: journal, update
+
+... when you're a tycho.
+
+I've not been blogging very much. There were even two weeks where I
+totally forgot to post *anything* to the blog. I'm not sure if there's
+been a hiatus of that length at any other point in the last three years.
+Strange, but not bad. I've been writing--not as much as I'd like, but
+enough--but nothing has really managed to filter through to the blog.
+Seems, then, like a good time for a general "what the hell have you been
+up to and what are you working on post?"
+
+I've been plugging away on the novel project for a while I'm in the home
+stretch: two and a half chapters to write. I know I can write a chapter
+in a couple of weeks if I put my mind to it, and have a good weekend day
+to do nothing other than sit around and write. I've discovered some
+things about the story that have made it much easier and clear for me to
+write. A character that I thought was the main is a horrible
+point-of-view character, I have a more clear idea of what I've been
+trying to get after the entire story, I've started to really like the
+project again. The problem now, is just finding time to finish it.
+
+I moved nearly two months ago: it was a good thing indeed. I'm closer to
+friends and activities that I find fulfilling. Although I'm not in the
+heart of my city, I have a train pass and am a block away from a train
+station that will get me into the city pretty much whenever I want.
+Train passes are a fantastic innovation, and my only real complaint (on
+this note) is that for varied historical reasons Tran service in America
+is woefully pathetic. But it's great to be in a place where public
+transit is a viable option for most commuting.
+
+I've recently started dating someone, which is a terribly atypical
+experience for me given how independent and quirky I am in "default
+mode." Nifty though, and utterly unintended: but there's something
+delightful about the whole deal. Who am I to argue?
+
+And by "recently started" I mean almost three months ago. Right.
+
+I got a new phone. After a long time with a Blackberry Bold, I took an
+upgrade and got the new Blackberry Torch. I had been strongly pondering
+an Android phone, but the one I wanted most (HTC EVO) is on a network
+that I'd like to avoid, and the other offerings seem lackluster.
+Blackberries have never (rarely?) been exciting, but they have worked,
+and there are some features that make sense to me (massively
+configurable ring/tone behavior, central messages feed that all
+applications can create entries in.) Having said that, I'm not wild
+about being on a closed platform, though I think we shouldn't delude
+ourselves into thinking that from the user's perspective that Android is
+an open platform.
+
+With a web browser that is basically mobile Safari, and applications to
+do the major things I need to do (IM, email, calendar, GPS, web
+browsing, address book, twitter, alarm clock, ebook reading, emergency
+ssh,) and a device that is build wonderfully, I couldn't be happier. I
+wish there was a better solution for writing/note taking/outlining for
+the Blackberry, but these things happen.
+
+It's probably a symptom of the commute as much as anything but I've had
+a hard time figuring out how to write on the train. I did ok for a
+while, and then I've had a horrible time with it for the past few weeks.
+The new plan is to do a little reboot of my organizational system and to
+switch back to using the laptop as my only computer.
+
+The first part, the organizational reboot, is important because I'm not
+used to thinking about my available time as existing in the "shape" that
+it currently exists. If I've learned one thin in the past couple of
+years, its that staying organized and on top of ones personal project is
+almost entirely dependent upon being able to successfully break apart
+big projects into "doable" pieces that you can tackle in the time you
+have. That sounds easy, but it's pretty hard to know what your project
+will require and what your near-future is going to hold enough to be
+able to get everything to line up. Sometimes it requires little reboots.
+
+The second, much more technological remedy, is mostly that while the
+separation between my work system (and tasks) and my personal system
+(and tasks) has been nice, in practice it doesn't work that well. The
+context switch between the train and the office is too hard, and not
+being able to just unplug and shut down, means that the start up/shut
+down costs for the context switches are simply too high and I'm the one
+who feels the impact. So re-merging my systems seems to be the way to
+win this game, at least for the moment.
+
+I think I'm going to ultimately invest in a hot spare laptop that's
+mostly identical to my current laptop to reduce some of the anxiety
+regarding the "what happens if my machine croaks," worry. Which is
+always a fear.
+

@@ -1,0 +1,76 @@
+==================
+personal desktop 2
+==================
+
+.. post:: 2009-07-30
+   :author: tychoish
+   :tags: technology, cyborg, productivity
+
+For a few days last week, in between the time that I wrote the `Personal
+Desktop <http://www.tychoish.com/2009/07/personal-desktop>`__ post and
+when I posed it yesterday, I had a little personal computing saga:
+
+1. One of my monitors developed a little defect. I'm not sure how to
+describe it, but the color depth suffered a bit and there was this
+*flicker* and I really noticed it. It's not major and I probably
+wouldn't have noticed it, except I look at a very nice screen all day
+at work and I had a working display right next to it, I *saw* every
+little flicker.
+
+2. I decided to pull the second monitor, and just go back to one
+monitor. While I like the "bunches of screens" approach, and think it
+has merit, particularly in tiling environments, I also think that I
+work pretty well on one screen, and with so many virtual desktops,
+it's no great loss. Not being distracted by the flicker is better by
+far.
+
+3. I pulled the second monitor and *bam!* the computer wouldn't come
+back from the reboot. Shit. No error beeps, nothing past the bios
+splash screen. No USB support. Everything plugged in. Shit.
+
+4. I let things sit for a few days. I was slamed with stuff in other
+areas of my life, and I *just couldn't cope with this*. It doesn't
+help that I really like to avoid messing with hardware if I can at
+all help it. Fellow geeks are big on building custom hardware, but
+the truth is that my needs are pretty minimal and I'd rather leave it
+up the to the pros.
+
+5. On Friday, I sat down with it, pulled the video card that I'd put in
+it when I got the machine (an old nvidia 7200 series), and I
+unplugged the hard drives and futzed with the ram, and after
+re-seating the RAM it worked. I'm not complaining, and I figure it
+was just some sort of fluke as I jostled the case.
+
+6. So now I'm back, with one monitor, no other problems have been fixed
+from the last post, but I can live with that.
+
+--------------
+
+As I was fretting with the implications of having a computer die on me
+like this, and thinking about my future computing trajectory. I realized
+that my current set up was deployed (as it were) under a number of
+different assumptions about the way I use computers. I got the desktop
+with the extra monitors when I was starting a series of remote jobs and
+needed more resources than I could really expect from my previous setup
+(a single macbook.) I also, in light of this downgraded my laptop to
+something smaller and portable that was good for short term tasks, and
+adding mobility to my setup, but that really didn't work as my only
+computer for more than a day or two.
+
+Now things look different. I'm not doing the same kind of remote work
+that I got the desktop for, and I have a killer machine at work that I'm
+only using a portion of (in a VM, no less). I have a VPS server "in the
+cloud" that hosts a lot of the "always on" infrastructural tasks that I
+needed from my desktop when I first got it.
+
+I'm not sure what the solution is. Make the desktop at home more
+"server-y" (media files, downloading stuff + writing) exchange the
+laptop at some point for: a 15" notebook that would be my primary
+machine--particularly useful for long weekend trips, un/conferences and
+so forth, and some sort of small netbook-class device, for day-to-day
+portability.
+
+It's a thought. Anyway, on to more important thoughts.
+
+Cheers!
+

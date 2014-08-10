@@ -1,0 +1,102 @@
+================
+Novel Automation
+================
+
+.. post:: 2012-12-11
+   :author: tychoish
+   :tags: programming, software-development
+
+*This post is a follow up to the interlude in the
+[[programming-tutorials]] post, which part of an ongoing series of posts
+on programmer training and related issues in technological literacy and
+education.*
+
+In short, creating novel automations is hard. The process would have to
+look something like:
+
+1. Realize that you have an unfulfilled software need.
+
+2. Decide what the proper solution to that need is. Make sure the
+solution is sufficiently flexible to be able to support all required
+complexity.
+
+3. Then sit down, open an empty buffer and begin writing code.
+
+Not easy. [1]_
+
+Something I've learned in the past few years is that the above process
+is relatively uncommon for actual working programmers: most of the time
+you're adding a few lines here and there, testing various changes or
+adding small features built upon other existing systems and features.
+
+If this is how programming work is actually done, then the kinds of
+methods we use to teach programmers how to program should hold some
+resemblance to the actual work that programmers do. As an attempt at a
+case study, my own recent experience:
+
+I've been playing with `Buildbot <http://trac.buildbot.net/>`__ for a
+few weeks now for personal curiosity, and it may be useful to automate
+some stuff for the `Cyborg Institute <http://cyborginstitute.org/>`__.
+Buildbot has its merits and frustrations, but this post isn't really
+about buildbot. Rather, the experience of doing buildbot work has taught
+me something about programming and about "building things," including:
+
+-  When you set up buildbot, it generates a python configuration file
+where all buildbot configuration and "programming" goes.
+
+As a bit of a sidebar, I've been using a base configuration derived from
+the `buildbot configuration for buildbot
+itself <https://github.com/buildbot/metabbotcfg>`__, and the fact that
+the default configuration is less clean and a big and I'd assumed that I
+was configuring a buildbot in the "normal way."
+
+Turns out I haven't, and this hurts my (larger) argument slightly.
+
+I like the idea of having a very programmatic interface for systems that
+must integrate with other components, and I *really* like the idea of a
+system that produces a good starting template. I'm not sure what this
+does for overall maintainability in the long term, but it makes getting
+started and using the software in a meaningful way, much more possible.
+
+-  Using organizing my buildbot configuration as I have, modeled on the
+"metabuildbot," has nicely illustrated the idea software is just a
+collection of modules that interact with each other in a defined way.
+Nothing more, nothing less.
+
+-  Distributed systems are incredibly difficult to get people to
+conceptualize properly, for anyone, and I think most of the
+frustration with buildbot stems from this.
+
+-  Buildbot provides an immediate object lesson on the trade-offs
+between simplicity and terseness on the one hand and maintainability
+and complexity on the other.
+
+This point relates to the previous one. Because distributed systems are
+hard, it's easy to configure something that's too complex and that isn't
+what you want at all in your Buildbot before you realize that what you
+actually need is something else entirely.
+
+This doesn't mean that there aren't nightmarish Buildbot configs, and
+there are, but the lesson is quite valuable.
+
+-  There's something interesting and instructive in the way that
+Buildbot's user experience lies somewhere between "an application,"
+that you install and use, and a program that you write using a
+toolkit.
+
+It's clearly not exactly either, and both at the same time.
+
+I suspect some web-programming systems may be similar, but I have
+relatively little experience with systems like these. And frankly, I
+have little need for these kinds of systems in any of my current
+projects.
+
+Thoughts? [[Discuss\|discourse]]!
+
+.. [1]
+Indeed this may be why the incidence of people writing code, getting
+it working and then rewrite it from the ground up: writing things
+from scratch is an objectively hard thing, where rewriting and
+iterating is considerably easier. And the end result is often, but
+not always better.
+

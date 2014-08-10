@@ -1,0 +1,82 @@
+=======================
+While I've Been Gone...
+=======================
+
+.. post:: 2013-04-05
+   :author: tychoish
+
+... from blogging. See [[/rhizome/on-my-return-to-blogging]] for the
+background.
+
+I sometimes look at other people's blogs, and think "wow, that's sharp,"
+and while I really like the current tychoish theme, there's a distinct
+lack of gradients, really polished typography, strong crisp lines, and
+elegant side bars.
+
+*Not that I have a clue what I'd put in a side bar:* Hell, I can't even
+find good things to put in the Cyborg
+Institute](http://cyborginstitute.net) side bar. But it's not just that
+my design has grown dated (I don't think it has, that much,) and more
+that the practice of blogging has changed in a few ways:
+
+The State of Blogging
+---------------------
+
+-  self-hosted blogs are the exception rather than the rule.
+
+-  it's become increasingly difficult to aggregate content, the demise
+of Google Reader, both the removal of the product and the declining
+trend it its use point to the idea that RSS isn't a user facing
+transmission method.
+
+People are getting content through other means, and publishers probably
+can't depend that users will poll *any* content, which changes the role
+of the publishing system.
+
+-  In fact, I don't have a real clue what the current state of the art
+for publishing tools for blogs is these days. My sense is that a
+greater portion of blogs are hosted on services like Tumblr and
+WordPress.com.
+
+The big "advancements," in blogging technology are probably related to
+integration and distribution of content to third party systems, which
+services can probably do better than hosted solutions.
+
+-  There are fewer long-lived personal blogs, and even fewer that stray
+beyond a single niche.
+
+Are there blogs that you read regularly? How do you know when there's a
+new post?
+
+Changes Afoot
+-------------
+
+Given these changes, and the chance to rethink how I approach this blog:
+
+-  I'm curious as to the state of commenting and discourse related to
+blogs. Do people actually comment, in anything other than exceptional
+situations? Are most conversations on hacker-news/reddit or other
+domain specific common space and other blogs?
+
+I've been thinking about the prospect of even turning off the
+discussion/discourse pages here. They don't get used, they're kind of
+weird, people don't really know how to use them, and I'm not sure they
+get used. At the same time, providing a space for conversation seems
+essential. More on this on a later post.
+
+*Edit:* I totally did this, and while I have some regrets, I think it's
+generally a good move.
+
+-  While it'd be nice to automate submitting content to various
+aggregation sites and social network-sites, I've added various
+browser extensions to do these submissions. It's a pain in the ass,
+but I guess auto-submits makes for less useful content aggregator.
+
+-  Just as tagging systems are inefficient and broken for wikis and
+"real" technical resources (see [[/rhizome/taxonomic-failure/]] for
+my thoughts,) they're not all that great for blogs. I'm considering
+completely removing the tagging system on tychoish, and just letting
+the search tool (which is pretty good) make content easy to discover.
+
+Onward and Upward!
+

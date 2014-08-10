@@ -1,0 +1,104 @@
+=====================================
+on public key encryption and security
+=====================================
+
+.. post:: 2009-07-14
+   :author: tychoish
+   :tags: security, cyborg
+
+As part of the moving process I got a bank account, and I was reminded,
+again, of how much the security systems of most online banks are
+comically flawed, which lead me to even greater anger about security in
+general. The following rant is what happened.
+
+I should say at first, that I'm not really a security expert, and I just
+dabble in this stuff. Having said that...
+
+"Security" online and in a digital context covers two pretty distinct
+aspects:
+
+-  *Identity.* In real life we can show our drivers license or passport,
+we can say "I'm [insert name here]," and in many situations another
+person is probably not too far away to be able to say, "I know them,
+they're [insert name here]." Online? Well identity is less easily and
+reliably verified. Identity is important both for individual's (and
+organizations') identity and for things that people (and
+organizations) produce/own: emails, documents, web pages, software,
+and so forth.
+
+-  *Encryption.* Basically we encrypt data so that we can be relatively
+certain that no one gains access to our data unless, by listening
+into our network connection, or gaining access to physical media.
+From encryption we get *privacy*, and as long as the encryption
+scheme works as it should and the encryption covers communications
+end-to-end, it's pretty safe to assume some measure of privacy.
+
+It turns out, from a technical perspective that encryption is reasonably
+easy to achieve. It's true that all cryptographic schemes are ultimately
+breakable, however, if we can generally assume best practices (expiring
+old keys, keeping your private keys safe, etc.) then I feel fairly safe
+in asserting that encryption isn't the weak part of the security
+equation.
+
+This leaves identity on the table. Which is sort of a messy affair.
+
+Just because someone says, "Hello my name is Alice," it doesn't mean
+that they *are* Alice. Just because they have Alice's password, doesn't
+necessarily mean that they are Alice (but that's a safer bet.) The best,
+and most reliable way to verify someones identity, it turns out, to have
+a "web of trust."
+
+Which basically means, you assert that you are who you say you are, and
+then "vouch" for other people who you "know" are who they say they are.
+Once you've vouched for someone you then "trust" that the people they've
+vouched for, and so forth. Good web-of-trust systems allow you to revoke
+trust, and provide some mechanism for propagating trusted networks of
+identities among users.
+
+The above described system is a very peer-to-peer/ad hoc system (bottom
+up, if you will), there are also more centralized (top down,) systems
+which can also function to verify identity in a digital context. These
+systems depend on commonly trusted third parties that are tasked with
+researching and verifying the identity of individuals and organization.
+So called "certificate authorities," make it possible to "trust
+identities" of without needing a personal web-of-trust network extend to
+cover people and organizations you'd come in contact with.
+
+--------------
+
+Lets bring this back to the case study of the bank,
+
+They encrypt their traffic, end to end, with SSL (eg. TLS), they pay for
+a certificate from a certificate authority with a good reputation. The
+weak part of this equation? You and Me, apparently.
+
+To verify *our* identity, we have this arcane and convoluted scheme
+where by we have to enter hard to remember passwords in stages (my last
+bank, had us enter passwords on three pages in succession) so that the
+back can be sure we're who we say we are. And the sad part is that while
+encryption and identity verification technology in secure and reliable
+ways is pretty advanced (in the big picture), we still have to send
+passwords. Here are my thoughts on passwords:
+
+-  The best passwords are the hardest to remember. The best passwords
+don't contain words, and contain numbers, letters, and punctuation.
+But these passwords are difficult to remember, and I think many
+people avoid picking truly secure passwords because of the
+difficulty.
+
+-  Passwords aren't bad, and they're--I suspect--most useful as a casual
+deterrent and a reminder to users of the potential gravity of the
+situation; but they're not exactly a reliable fingerprinting
+mechanism.
+
+-  Some sort of cryptographic handshake would be many magnitudes more
+secure, and much less painless for users.
+
+I have this theory, that security for banks (and other similar
+institutions) is more about giving the appearance of being secure
+(asking for more complex passwords, making you jump through more hoops,
+etc.) and less about doing things that would be more secure in the long
+run. But maybe that's just me.
+
+Anyway, back onto more general interest topics in the near future.
+

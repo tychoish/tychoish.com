@@ -1,0 +1,116 @@
+===========
+Lazy Sunday
+===========
+
+.. post:: 2012-06-24
+   :author: tychoish
+   :tags: update, journal
+
+I've had a nice quiet weekend, the first such weekend in quite a while.
+It's nice to be able to relax, work on projects without deadlines, and
+avoid all of the [[editing\|the-editing-hole]] that I ought to be doing.
+
+Some notable accomplishments, current projects, and other events in the
+last few weeks:
+
+-  If you ever visit `tychoish.com <http://tychoish.com>`__ in your web
+browser (as opposed to by way of its aggregation,) you'll note that
+the design has changed somewhat.
+
+This is the design that I've been using for my personal wiki for months,
+and so I'm quite used to it, but feedback is welcome.
+
+The design change has inspired a bit of introspection, hence this post,
+and perhaps some of the posts that will follow. Please bear with me.
+
+-  Months ago a friend of mine said "some of us might like to know how
+you're doing every now and then, and your blog is just stuff about
+obscure technology."
+
+Guilty as charged. Recently, I've been much more interested in using
+this blog as a scratch space for projects that I don't have quite enough
+time to pursue in appropriate depth.
+
+Having said that, I think (or hoped,) that I've calmed down a bit in
+recent months and years: My career/professional identity seems a bit
+more stable. I'm doing a better job at focusing [[big-projects]], which
+means some shorter posts and more personal posts may be in order.
+
+-  I got a new computer last week. I'm working on a post that addresses
+this in a bit more depth. In short it's great. So my largely
+unnecessary justification is:
+
+-  A smaller machine, which is better on my back when I am walking
+around.
+
+-  Beefier system, which means I can compile things quicker (and I've
+been doing more of this recently.)
+
+-  The ability to dedicate the older system to some stay at home things:
+having a working desk at home, playing music, running some buildbot
+stuff, and the like.
+
+I've realized that even though there are little things that I might like
+to change about how my computer works, and things that I'd like to setup
+and get working for the most part, *things just work*. And that's really
+great.
+
+-  There's a host of stuff that I'm working on that probably isn't
+apparent to the internet:
+
+-  My day job. I'm doing awesome documentation things for a neat New
+York City database software company/open source project that you've
+probably heard of (if you're into this kind of thing.) It's
+rewarding, interesting, and it means I can spend all most of my time
+day making things.
+
+-  I've been working on submitting documentation patches to a couple of
+open source projects: `buildbot <http://buildbot.org>`__ and
+`MediaGoblin <http://media%20goblin.org/>`__. I need to do more of
+this work.
+
+-  The editing pile. Currently on tap: a mess of blog posts, the
+prologue of my most recently drafted novel, and some of the last
+little pieces of the Cyborg Institute launch. Speaking of which that
+should happen in the next week or so.
+
+Next up? More of the novel and suggestions from frist readers of the
+systems administration book (see next item.)
+
+-  Never to be deterred, I'm hard at work on the outline for another
+novel. The plan is to have something I can start drafting in earnest
+by the end of the summer. I feel pretty good about the project,
+although as I was working on an outline last night, I changed the
+last third of the book. Oops.
+
+-  The systems administration book. Available via git today, With
+general release following shortly. All feedback as well as pull or
+merge requests with comments and suggestions are all welcome. See the
+following for git repositories
+
+-  `administration on
+git.cyborginstitute.net <http://git.cyborginstitute.net/?p=administration.git;a=summary>`__
+-  `administration on
+github.com <https://github.com/cyborginstitute/administration>`__
+
+(Both are identical.)
+
+The `cyborg institute
+listserv <http://lists.cyborginstitute.net/listinfo/institute>`__ would
+be a good place for bug/issue tracking at least for now.
+
+-  On the topic of editing, I've recently discovered `the one clause
+per-line <http://rhodesmill.org/brandon/2012/one-sentence-per-line/>`__
+formatting style.
+
+I've long attempted to keep lines short to promote cleaner diffs, but in
+truth, if you end up reflowing paragraphs, the resulting diffs are
+basically useless. I've encountered one-sentence-per-line tactics, which
+seems like a good idea, except that sentences often exceed 80
+characters.
+
+I'm not yet decided on the subject, especially for writing longer
+sections of text, but it does make editing easier.
+
+Onward and Upward!
+

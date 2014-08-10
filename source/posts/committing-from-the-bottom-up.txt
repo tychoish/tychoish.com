@@ -1,0 +1,90 @@
+============================
+Comitting From the Bottom Up
+============================
+
+.. post:: 2009-02-23
+   :author: tychoish
+   :tags: git, open-source, theory
+
+My blog reading eyes/ears tend to perk up when I see someone writing
+about `git <http://www.git-scm.com>`__ as this piece of software
+fascinates me in a potentially unhealthy sort of way. I read a post `the
+other
+day <http://fourkitchens.com/blog/2009/01/19/creating-common-branch-ancestry-hard-problem>`__
+that talked a bunch about git, and centralized SCM tools like SVN and
+CVS, as well as the *other* distributed SCM
+`bazaar <http://bazaar-vcs.org/>`__. If that last sentence was greek to
+you, don't worry, I'm heading into a pretty general discussion. Here's
+the background:
+
+Version control or source control management systems (VCS/SCM), are
+tools that programmers use to store the code of a program or project as
+they develop it. These tools store versions of a code base which has a
+lot of benefits: programmers can work concurrently on a project and
+distribute their changes regularly to avoid duplicating efforts or
+working on divergent editions code. SCMs also save your history incase
+you change something that you didn't intended to you can go back to
+known working states, or "revive" older features that you'd deleted.
+SCMs are It's a good thing, and I'd wager that most programmers use some
+sort of system to track this task. [1]_
+
+The basic unit of any version control system is the "commit," which
+represents a collection or set of changes that a given developer chooses
+to "check in" to the system. There are two basic models of VCS/SCM: the
+centralized client/server system and the distributed system.
+Centralization means that the history is stored on a server or
+centralized machine, and a group of developers all send and pull changes
+from that central "repository." Distributed systems give every developer
+in a project a copy of the full history, and give them the capability of
+sending or pulling changes from any other developer in a system.
+
+--------------
+
+There's a lot of topics about the various merits of both distributed and
+centralized version control systems, and a lot of this discussion ends
+up being hashed over technological features like speed and the various
+ease of various operations or over process features that relate to what
+a system allows or promotes in terms of workflow. While these
+discussions are interesting they're too *close* to the actual programs
+to see something that I think is pretty interesting.
+
+In centralized systems, "the commit" is something that serves the
+project's management. If done right (so the theory goes), in a
+centralized system, only a select few have access to submit changes, as
+the central server's only way of reconciling diverging versions of a
+code-base is to accept the first submitted change (poor solution) and
+the more developers you have the greater the chance of having version
+collisions. As a result there's a lot less committing that happens. In
+big projects, you still have to mail patches around because only a few
+people can commit changes and in smaller teams, people are more likely
+to "put off committing" because frequent commits of incremental changes
+are more likely to confuse teammates, and committing amounts to
+publication.
+
+In distributed systems, since the total "repository" is stored locally,
+committing changes to your repository and publishing changes with
+collaborators are separate options. As a result, there's less incentive
+for developers to avoid creating commits for incremental changes. Rather
+than have commits mark complete working states with a lot of changes in
+every individual commit, commits mark points of experimentation in the
+distributed system.
+
+This difference, is really critical. Commits in a centralized system
+serve the person who "owns" the repository, whereas in the distributed
+system they serve the developer. There are other aspects of these
+programs which affect the way developers relate to their code, but I
+think on some fundamental level this is really important.
+
+Also, I don't want to make the argument that "bottom up distribution =
+good and top down centralization = bad," as I think it's more
+complicated than that. It's also possible to use distributed technology
+in centralized workflows, and if you use centralized systems with the
+right team, the top-down limitation isn't particularly noticeable. But
+as a starting point, it's an interesting analysis.
+
+.. [1]
+So common are they, that I was surprised to learn that the Linux
+Kernel (is a *massive* project) spent many many years without any
+formal system to manage these functions. They used "tar balls and
+patches, for years" which is amazing.
+

@@ -1,0 +1,112 @@
+===================================================
+On the Purpose and Utility of Critique and Politics
+===================================================
+
+.. post:: 2008-07-22
+   :author: tychoish
+
+This post grows out of a sort of smoldering rant that I've been having
+for a while now. As I sit here at one of these synthetic moments when
+I'm trying to figure out how past interests and experiences build up to
+the future--how do the things that I loved so much in college affect
+life/me now?--the purpose of social/literary theory ("philosophy with a
+cause,") is one of these things.
+
+The internet loves polemics, and so 'theory has a venue here, but I've
+read a lot of blog posts and emails from people who seem to yield theory
+and critique like a baseball bat, rather than a toothbrush, [1]_ so it's
+been even more on my mind.
+
+What is critique? What separates "good" critique from "bad" critique,
+and what end does it serve?
+
+I think if any of you are presently reading Stephen Greenblat or Elaine
+Scary--for instance--you might have a pretty good answer for this. But
+what about the internet? There's a lot of critical work that's out there
+on the internet, a lot of people working outside of the academy who
+contribute to a discourse that attempts to analyze the world and our
+culture, often with various kinds of political goals. This is also
+critique.
+
+Now I don't want to seem like (too much of) an ass, I read a lot of crap
+on the internet that, to my mind seems like either really bad critique
+or (more likely) critique that fails to really capture the spirit of
+what I think the critical mode is.
+
+Feel free (and encouraged) to disagree, but lets do a little bit of
+brainstorming on what makes good critique or bad critique:
+
+-  *Critique is synthetic.* Critique really needs to draw together
+multiple perspectives and sources. You can't critique something
+without consulting previous critical literature (this is why theory
+is necessary, without it, we are contextually adrift), without
+consulting similar and dissimilar works. Critique is the mode through
+which all of these perspectives come together.
+
+-  *Critique is often positive.* It's very easy to assume that the
+purpose of critique is to go through some abominable text [2]_ and
+tear it to shreds, and often this is enjoyable, but it is not
+productive. "Bad" and otherwise objectionable content will either
+stand or fail on it's own, and taking a positive approach to critique
+means, I think that critique can be more politically productive,
+because, critiques can say "this good thing is good," which is more
+instructive to consumers and producers of content. This doesn't mean
+that critique has to be unequivocally positive--far from it--but if
+there isn't a substantial positive outlook, the critique suffers.
+
+-  *Critique doesn't pass judgement;* critique that passes judgment is
+called "review" and I think "review" has a different role and mold.
+It's unfortunate that people who produce in both modes are called
+"critics."
+
+-  *Critique is contextual:* This is sort of an adjunct statement to the
+first, but I think it's important to realize that critique that
+doesn't contextualize both the works in question, and the moment of
+critique is useless. This is also, potentially controversial, but I
+don't suspect we have very many New Critics in the audience. Texts
+and critics don't exist in a vacuum, and criticism can't either. From
+this principal springs a couple of subsidiary values:
+
+-  Paradoxically, readers of criticism need not be familiar with the
+texts your addressing, though they are likely familiar with the
+larger body of work that the texts belong to.
+
+-  Critics can't hold individual works accountable for "their times,"
+nor can critics rise above the constraints of *their times* in
+criticism. Attempts to violate these rules are almost always tragic.
+
+-  *Critique has an agenda:* People don't create texts or critique those
+texts without an agenda. Period.
+
+-  *Critique has data,* that is to say "texts." One cannot critique
+abstract objects, or at least I doubt that it could do that very
+well. Particularly when specific texts are at the *heart* the
+critics' work. For instance you can't critique victorian gender
+norms, but you can critique the ways that legislation, and fashion
+standards vis a vis a sewing manual shaped gender norms during a
+period. You can't critique a political campaign, but you can critique
+the marketing strategy vis a vis the advertising of various
+candidates.
+
+-  Often the more specific the data is the better.
+-  Often it's hard to get all the data surrounding contemporary texts
+and phenomena. This requires special considerations.
+
+-  *Critique is a pathway to understanding:* Looking for and elucidating
+mechanisms behind particular literary/artistic/cultural phenomena is
+one of the most powerful and important goals of critique.
+
+That's enough for now, but I'm interested in seeing what you all have to
+contribute...
+
+.. [1]
+This is to say, that critique is a tool for getting the grit off of a
+surface of something that's obscured, generally for the purpose of
+making it look bright and nice. It's delicate, and precise, and has
+important effects, but it doesn't change things fast. Baseball bats
+hit and break things, they hurt people and evoke strong reaction when
+swung in public spaces.
+
+.. [2]
+I use text in the broadest sense possible.
+

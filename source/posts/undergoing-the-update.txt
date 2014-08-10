@@ -1,0 +1,13 @@
+=====================
+Undergoing the Update
+=====================
+
+.. post:: 2004-08-05
+   :author: tychoish
+
+Ok, this is a really rough update, which i'm not even offering the basic
+plesentries of route spell check. I've updated quarto, and asuming this
+posts correctly, it all looks to work right. There are a few things that
+I need to do yet, but we're almost there. Bear with me. I'll edit this
+later, as updates are forthcoming.
+

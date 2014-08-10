@@ -1,0 +1,93 @@
+===================
+un-creative writing
+===================
+
+.. post:: 2008-07-31
+   :author: tychoish
+
+I have never, really, taken a creative writing class.
+
+When I talk to people about writing, I think people always assume that I
+studied creative writing, or that the whole graduate school thing was
+about writing programs or some such.
+
+And while I respect and `a
+number <http://en.wikipedia.org/wiki/Samuel_R._Delany>`__ `of
+people <http://wildflowerfeever.livejournal.com>`__ who are involved in
+the discipline of "creative writing," I am not terribly enticed either
+by the possibilities of the field as a dialogue, or by the utility of
+the training for myself.
+
+This might be a personal short coming, as I have always (since I was a
+teenager) been pretty resistant to "formal writing education," and it
+might be a genre thing (science fiction doesn't fare terribly well in CW
+programs on the whole, often relegated to "children's and popular
+literature" tracks, if not totally spurned.) In any case this was
+highlighted by `an article I read last
+week <http://chronicle.com/jobs/news/2008/07/2008071501c.htm>`__ that
+suggested, what I thought was an utterly flawed writing methodology.
+
+The basic idea was that as a general practice, you rewrite everything,
+on the theory that you basically can never get something right the first
+time, no matter how much time and effort you spend on it, and that the
+second time you sit down with a piece that you've written, only then can
+you really get it *right.*
+
+Now, the technicality is that she's probably right on some level. Ground
+up rewrite's shouldn't be feared, and there are a lot of times when this
+can fix something that's "stuck." For example, I'm told that Tolkein sat
+down and wrote the *Lord of the Rings,* (the whole thing, not just
+specific books) until he got stuck. And then he started over from the
+beginning. The entire trilogy, every time he got stuck, until finally
+Frodo *et al* got to sail into the sunset. That might be extreme.
+
+The problem is, I think, that we are incredibly inaccurate judges of our
+own work. This is why we have editors and readers, and that interaction
+is so valuable. So yeah, if someone says "this doesn't work," sure,
+rewrite rather than try and salvage, if that's your speed. But as a
+rule? I'm suspicious of such unequivocal methodological imperatives.
+
+I've heard `Cory Doctorow <http://craphound.com/>`__ say something to
+the effect of, "some days you write and it feels divinely inspired and
+the words just flow out, and other days it's like pulling elephant
+teeth, but two weeks later, when you're reading over the back you can't
+tell the difference." This is, I think why editors of all sorts are so
+valuable. And, since on the day-to-day level it's probably crap shoot
+anyway, the key is to try and try often. If you think that first drafts
+are always to be thrown out, even after editing them as the article
+suggests you may do, then--time being finite--you write less, but I
+doubt that you write twice as well. And I am unabashedly of the mind
+that practicing productivity and developing good habits and experiences
+is more important than developing perfectionism. Your milage might vary.
+
+And then it struck me--after the outrage passed--that this came from a
+*writer.* Someone who is professionally obligated to be invested more in
+the precession of words on the page than of the ideas that they
+represent. [1]_ Which is, the core, I guess, of my *personal* unease
+with creative writing: I'm way more interested in studying the ideas,
+the people, the history of what I write about than the words on the
+page, again this arcs back to `what ira
+said <http://tychoish.com/rhizome/ira-glass-on-creativity/>`__ the way
+to get good at something is to do it, and do it often, and not always
+"getting it right." And maybe if an academic program is the way to
+motivate you to write a lot, then that's great [2]_ but `having a
+blog <http://criticalfutures.com>`__ might achieve a similar goal.
+
+.. [1]
+I'm exactly not making a case for sloppy prose--except maybe I am. My
+preference is strong characters, plot, and/or conceptual work over
+pretty, or even sharp language. Always. And I think people who are in
+the process of figuring out how they write and write best, are much
+more likely in need of figuring out how to do the conceptual work,
+not the mechanics, which comes with practice, and is, I'm convinced a
+numbers game, "the million words of crap," and all that. If nothing
+else mandatory rewriting, confuses the conceptual development that I
+think grows from working with a lot of different ideas/stories; and
+the technical development that grows from attention, editing
+(rewriting), and time.
+
+.. [2]
+it's also a route to a job that you wouldn't necessarily be able to
+get otherwise, but that's another story that I'm not interested in
+telling.
+

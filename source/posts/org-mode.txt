@@ -1,0 +1,125 @@
+========
+org mode
+========
+
+.. post:: 2009-02-09
+   :author: tychoish
+   :tags: org-mode, emacs
+
+It takes me a while to adapt to new things with the computer. While I
+pick things up pretty quickly, I'm aware that it takes a while for me to
+adapt to new ways of working with the computer. I like to settle into a
+system before I start changing the key bindings or writing scripts
+(which I always think will be more successful than they are). This seems
+reasonable, and is generally something that I'd recommend to other
+people looking to learn "cool new stuff." Go slow.
+
+In light of this realization this post will be a review of some of my
+more recent adventures with `org-mode <http://www.orgmode.org>`__. For
+the uninitiated, org-mode is really a *subsystem* of the
+`emacs <http://www.gnu.org/software/emacs/>`__ text editor. [1]_ It's
+really powerful, and has a lot of disparate features that combine to do
+something really kind of magical. On one level, org-mode is just an
+outlining program: it provides some shortcuts and interfaces that make
+writing structured text really productive and pleasurable (e.g. easy
+navigation, block folding). On another level, org-mode is a fully
+featured calendaring and task/project management tool. The brilliance,
+is that it isn't *just* and outliner or a task manager, but it provides
+accessory tools (like a great calendar, and even a table/spreadsheet
+functionality) that integrate the environment.
+
+I found about this two months ago, and I've slowly started to ease into
+using it. This past week, however, I think I crossed some sort of
+boundary, because I started using org-mode for most of my note-taking
+and project planning/organization work. And now that I'm here, I think a
+small series of blog posts is in order.
+
+I'll start, I think with "mistakes I made," as I couldn't hope to
+explain everything the system does, and explaining how I'm working
+*right now* isn't nearly as interesting.
+
+My first approach was to keep an org-mode file in all of my project
+directories, so that the .org file would be close to the files where the
+actual work was going on.
+
+Wrong.
+
+Turns out, keeping all your org-mode files together seems to work a lot
+better. Org's calendar/project planning features work by generating
+"agenda views" of todo items and time-specified events. While the system
+*could* pull from a half dozen different project directories. Keeping
+things centralized means that you can add new files willy-nilly, it
+makes it easy to keep things synchronized between machines.
+
+My second approach was to keep one org-mode file and divide projects
+using the hierarchical nature of the file to keep things straight.
+
+Wrong.
+
+Turns out, that while we can represent all of our projects
+hierarchically [2]_ beyond a certain level it doesn't make a lot of
+sense to implement "categories" or project headings in this way.
+Org-mode provides a tagging infrastructure and the aforementioned agenda
+tool to tie together files, so while you can go overboard in creating
+new org files, you're probably not incredibly likely to for a while. Use
+outline hierarchies to represent information, use files and tags to
+categorize and sort your headlines.
+
+When I discovered the agenda capabilities, I made todo items out
+everything and started giving all of my tasks dates so that they'd be
+sorted into the agenda view.
+
+Wrong.
+
+Turns out, you can get agenda to generate a list of undated todo items
+before the agenda view, and that--at least for the way I work--setting
+soft deadlines and scheduling tasks just confuses the point rather than
+facilitating action. Org-mode also has a system for task
+priorities--which I haven't felt the need for--but I think the larger
+lesson here is *don't attach arbitrary information to items in your
+org-mode files.* Let the agenda mode do it's work, and you do yours, and
+it'll work out.
+
+I started my ``~/org/`` directory [3]_ by creating ``.org`` files for
+all of the major projects in my life. Fiction writing, day-job, the
+blog, academic work, so that I'd be able to collect similar kinds of
+notes and todo-lists together in files.
+
+Wrong.
+
+Turns out, that while some of the setting up big sphere-based org-mode
+files is unavoidable, the truth is that given the power of the agenda
+filter, putting a lot of information that is only casually connected in
+the same file doesn't make much sense when tagging can provide needed
+meta-data. There's a happy medium between "dividing things too much to
+the point where there's too much 'system' to manage," and "not dividing
+enough so that you have to build informal systems in the outline which
+complicates the organization." In my experience "too much division" is
+much harder to reach, and "not dividing enough," is quite easy.
+
+I'll be blogging more about org-mode in the coming days and weeks. Stay
+tuned :)
+
+Onward and Upward!
+
+.. [1]
+There's this joke about emacs, that "it's a good operating system,
+but it lacks a good text editor." I think the truth is that, emacs is
+an *ok* (but not exceptional) text editor, but it opens so many other
+possibilities for interacting with text in *amazingly* productive
+ways, that it's managed to garner the loyalty of people like me.
+
+.. [2]
+I'm not positive of this, but emacs itself might owe it's existence
+to this kind of work, as it's built around an lisp interpreter, which
+is a language used by AI researchers in the 60s because it could
+reflect the way we think. Or so the theory goes.
+
+.. [3]
+Really, it's not a directory, as much as it is a git repository. And
+this is I think this is a point where text-file geeks will say *oh!
+dude! that's cool*, because really org-mode provides interfaces to
+parse together text files, which you can: take everywhere, version
+and sore easily, save forever, and hell branch if you need to. A
+*calendar*. Dude!
+

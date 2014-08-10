@@ -1,0 +1,14 @@
+=======================================
+\tFive Reasons to Build a \"Hackintosh\
+=======================================
+
+.. post:: 2007-11-20
+   :author: tychoish
+
+1. You *really* don't like ubuntu.
+2. You think beige is the new black.
+3. You don't have the balls for FreeBSD.
+4. You don't have any concept of the value of your own time.
+5. You miss your 286's boot disks.
+
+

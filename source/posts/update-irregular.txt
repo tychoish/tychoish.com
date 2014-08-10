@@ -1,0 +1,155 @@
+================
+Update Irregular
+================
+
+.. post:: 2011-11-04
+   :author: tychoish
+   :tags: update, progress-report
+
+I'm sorry that I've not posted here very much recently and also that the
+links in this post will be pretty unadorned. I'll make up for it with
+table of contents:
+
+[[!toc startlevel=2 levels=3]]
+
+Ok, so it's not much, but lets get started.
+
+Discussions, Ongoing
+--------------------
+
+There's been discussion, and largely discussion that I've not attended
+to as well as I would have liked. If you commented on any of these
+posts, I've tried to respond in someway:
+
+-  [[pedagogy discussion\|pedagogy/discourse]]
+-  [[writing teaching
+discussion\|rhizome/teaching-writing-skills/discourse]]
+-  [[dropbox-replacements
+discussion\|rhizome/is-dropbox-the-mobile-file-system-standard/discourse]]
+-  [[wiki and collaborative fiction discussion\|rhizome/wiki-fiction]]
+-  [[vpn
+discussion\|rhizome/remote-accessibility-reverse-tunneling-super-dynamic-dns/discourse]]
+
+New Posts
+---------
+
+While my posting volume has gone down, I have posted *something* since
+the last update post.
+
+-  [[/rhizome/teaching-writing-skills]]
+-  [[/rhizome/is-dropbox-the-mobile-file-system-standard]]
+-  [[/rhizome/why-you-dont-want-programers-to-write-your-documentation]]
+-  [[/rhizome/remote-accessibility-reverse-tunneling-super-dynamic-dns]]
+
+Rest assured that there's more stuff in the pipeline.
+
+Funny Quotes and Submissions
+----------------------------
+
+For lack of a better place to put it, I've been collecting some funny
+quotes from conversations with a friend of mine in the [[submissions]]
+file here. For your amusement:
+
+-  [[submissions/hate-meetings]]
+-  [[submissions/not-clicking-that]]
+
+If you have any funny exchanges of your own, or have some content that
+you think I ought to see and you want to avoid sending me an email (*for
+whatever reason*) the submissions bin is always open. And if you're
+interested in a less-editorialized content keep an eye in that category.
+
+Lost Posts
+----------
+
+For some reason, that I haven't figured out and don't really care to,
+for a number of months, my posts from July of 2009 went missing. Usually
+this wouldn't even be worth mentioning, except I July of 2009 was a big
+month for me writing wise--I'd just moved to the east coast, I had my
+first real tech job and my mind was full and I felt on fire. I consider
+a couple of these posts to be "tychoish classics." The good news is I've
+found them, so here they are:
+
+-  [[/rhizome/are-web-standards-broken]]
+-  [[/rhizome/distribution-habits-and-change]]
+-  [[/rhizome/fa-sol-la]]
+-  [[/rhizome/infrastructural-commerce]]
+-  [[/rhizome/multiple-computers-and-singular-systems]]
+-  [[/rhizome/my-workstation-choices]]
+-  [[/rhizome/new-workstation-trials]]
+-  [[/rhizome/on-package-management]]
+-  [[/rhizome/on-public-key-encryption-and-security]]
+-  [[/rhizome/org-mode-pitfalls]]
+-  [[/rhizome/personal-desktop]]
+-  [[/rhizome/personal-desktop-2]]
+-  [[/rhizome/stars-in-my-torchwood-pocket]]
+-  [[/rhizome/technology-as-infrastructure-act-one]]
+-  [[/rhizome/technology-as-infrastructure-act-two]]
+-  [[/rhizome/technology-as-infrastructure-act-three]]
+-  [[/rhizome/the-blog-is-dead-long-live-the-blog]]
+-  [[/rhizome/why-arch-linux-rocks]]
+
+They seem to be arranged alphabetically rather than sequentially, Sorry
+about that!
+
+Contra Dancing Feature
+----------------------
+
+A contra dancing friend of mine solicited an email from me a few weeks
+ago about a couple of contra related topics, which have worked their way
+into posts that you can read below.
+
+-  `Part one: Gender
+Swaping <http://www.contrasyncretist.com/1/post/2011/10/contra-shenanigans-part-i-thoughts-on-dancing-the-other-role.html>`__
+-  `Part two: Improv
+Contra <http://www.contrasyncretist.com/1/post/2011/10/contra-shenanigans-part-ii-thoughts-on-chaosshenaniganswildfill-in-term-of-choice-here-sets.html>`__
+
+The Internet is A Cool Place: Tablet/Cloud Computing
+----------------------------------------------------
+
+I found the following link on twitter from a few of my awesome (former)
+coworkers. It's a blog post about a programmer who is using an iPad, a
+remote server, and a computer to do all of his work. `read
+more <http://yieldthought.com/post/12239282034/swapped-my-macbook-for-an-ipad>`__
+
+It's an interesting possibility, frankly and I could probably make the
+shift easily enough if I wanted. Having said that, I feel like I'm a
+little too sensitive to TCP/SSH hiccups and I feel weird throwing all of
+my (potential?) productivity into something totally network dependent.
+
+An Emacs Tip Interlude
+----------------------
+
+I picked up the following little bit of emacs configuration, that I
+think is wicked cool. It removes some of the limitations on m
+mini-buffers, which gives them a lot of pretty cool features. It seemed
+like the kind of configuration that I should have known about and
+didn't, so maybe some of you don't know either.
+
+::
+
+(setq shell-command-default-error-buffer t)
+(setq enable-recursive-minibuffers t)
+
+Git, not Hypertext, Is the tool by which we experience becoming Nomad
+---------------------------------------------------------------------
+
+I'm not entirely sure why I'm following `Stephen
+Ramsay <http://twitter.com/sramsay/>`__ on twitter, but I am. The other
+day I saw the following exchange, and I feel like it's worth recording:
+
+::
+
+<sramsay> Back in the day, it was fashionable to say that
+hypertext enacted certain theories associated
+with postmodernism (Deleuze, etc.)
+<sramsay> We had it totally wrong.  *Git* is the tool
+by which we experience becoming nomad.
+
+I love this idea, and I've been saying variants of this for a while, but
+it's nice to get reinforcements. At the same I think it's possible to
+easy to loose sight of how git is *actually* used of git when focusing
+on its transformative aspects. Which makes the theory read a little more
+hollow.
+
+Onward and Upward!
+

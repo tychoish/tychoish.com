@@ -1,0 +1,109 @@
+===================================
+Against the No-Derivatives License 
+===================================
+
+.. post:: 2008-06-26
+   :author: tychoish
+
+So these `Creative Commons Licenses <http://creativecommons.org/>`__ are
+pretty popular with the kids today. And they are. Creative commons is a
+great way to compensate for some of the short fallings of the
+contemporary copyright system that tends to privilege corporations
+rather than individual content creators. I'm a big fan, and I often find
+myself talking about the goodness that is CC in the world, so this is
+not a critique of the copyleft movement or *anything,* but rather a
+critique of the mood that a specific kind of Creative Commons license.
+
+Lets back up. The basic idea of a creative commons license is to grant
+permissions to do things like distribute/share or create derivative
+works (e.g., video adaptations, audio books, fan fiction, and so forth.)
+which under a standard copyright would be infringing behavior and
+technically illegal. In some situations this seems perfectly absurd,
+after all if someone likes your work enough to *put creative energy into
+a related project,* they're probably not the kind of people you want to
+sue. Creative Commons licenses amend this situation by explicitly
+allowing behavior that doesn't harm the creators business model. [1]_
+The hope is that by explicitly allowing certain kinds of usage, "the
+commons" benefits, and possibly as a secondary effect the original
+creator benefits even more (by gaining greater attention and then
+selling more of whatever it is that they sell.)
+
+Creative Commons gives you lots of options in terms of licensing, so
+that you can customize whatever you want. You can allow commercial usage
+(like the `GNU-GPL <http://www.gnu.org/licenses/gpl.html>`__ and the
+`GFDL <http://en.wikipedia.org/wiki/GNU_Free_Documentation_License>`__
+which wikipedia uses) [2]_, you can choose to allow derivative works (or
+not) or as long as the derivatives are distributed under a compatible
+licensee ("Share Alike;" this is akin to the "viral" aspect of the GPL),
+and you can choose to require attribution with all future distributions
+or allow people to distribute without attribution. Or any combination of
+the above.
+
+One combination that I've seen a lot of recently forbids commercial use,
+forbids derivative works, and allows redistribution with attribution.
+This is probably the *most* restrictive CC option around, and it seems
+to be the default. This isn't in and of itself a bad thing, this is a
+great license for anthologies where the producer of the specific work
+might not have total control over all the works--for instance--or other
+works where it's *really crucial* for the body of work remain together
+as a unit. I don't think it makes a particularly good general purpose
+license. In effect what it says is "I own it, and if you want to do my
+marketing work for me, thanks--not that you would have asked anyway, and
+not that I would have complained elswise--sorry if you want to do
+anything more..." While it's a step in the right direction, I'm not sure
+that the gift to the commons is very great.
+
+I think I'd be more comfortable if the derivative-attribution were more
+default for more people, with or without the share-alike. It just
+strikes me that the really exciting thing about CC is the clauses
+allowing derivative works. Particularly with attribution and
+no-commercial clauses, the derivative works do *nothing* to hurt the
+original creator that I can possibly fathom, and are often a boon to the
+original creators. Most importantly, it seems that the opportunity to
+inspire new work and/or act as a substrate for new work is a *huge* gift
+to the commons.
+
+So I guess what I'm objecting to is the sort of feeling of being
+put-upon as the the only benefit of the license is doing a favor for the
+creator. Which hardly seems fair, particularly if the creator is also
+selling the content in some capacity. Creative Commons, at the core--at
+least for me--is about creating a more cooperative/collaborative
+relationship between creators and consumers, and the no-derivatives
+license seems to run counter to that.
+
+Just my gut feeling, I apologize if it's a little raw. I think in
+fairness I'm not entirely sure that the ramifications of this work are
+always very thought out, that people assume a connection between
+commercial use and derivatives, or *something,* so I don't think a lot
+of creators are always making this decision based on all the facts, but
+I think it's paramount that when people use Creative Commons and other
+free licences that they think about all of the ramifications.
+
+.. [1]
+So lets take television shows. The business model for TV is get
+revenue from advertisements during original airing, to sell DVDs, and
+to sell syndication rights eventually. Though technically illegal fan
+fiction, as a derivative work, people writing fic doesn't really
+intersect with the TV business. This is the kind of situation that
+begs for some sort of CC-like licensing scheme. Same thing goes for
+people who design knitting stitch patterns. They make their money
+selling swatches to design houses, and compendiums of stitches.
+Allowing individuals to design sweaters using their stitches wouldn't
+hurt their business at all. This is a situation that begs for
+something less restrictive. I'm sure we can imagine many more such
+examples if we put our heads together.
+
+.. [2]
+So I think people who don't write software--not that I do, but I can
+see the argument so bear with me--often scowl at the notion of
+allowing commercial use. After all, the instinct to say "I don't want
+other people to make money off of my hard work [*particularly if I'm
+not because I'm giving it away for free*\ ]," is really strong. To
+this I would answer: if you're working on something where the
+copyright is held by a group, or shared by a number of different
+people, in situations where a sole creator could license the work
+commercially, a fragmented collective creator can't change liscenced
+with any ease (if at all.) So in these group situations if you don't
+allow commercial use, you're stuck with a work that *cannot ever*
+generate income.
+

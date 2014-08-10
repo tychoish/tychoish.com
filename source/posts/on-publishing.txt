@@ -1,0 +1,82 @@
+=============
+On Publishing
+=============
+
+.. post:: 2009-11-19
+   :author: tychoish
+   :tags: economics, publishing
+
+I've been thinking about publishing and the publishing industry of late.
+I'm sure some of it is related to my `wanting of a
+kindle <http://criticalfutures.com/2009/11/on-wanting-a-kindle>`__ and
+my resulting thoughts on
+`consolidation <http://criticalfutures.com/2009/11/the-dangers-of-consolidation>`__,
+and maybe some small measure of it has to do with the fact that
+sometimes it easier to think about publishing and the future of
+publishing than it is to think about ones own creative projects. So be
+it.
+
+First, "*what is there to think about?*\ " you ask? Well, lots of
+things: I've written about `wanting a
+kindle <http://criticalfutures.com/2009/11/on-wanting-a-kindle>`__, and
+some thoughts about
+`consolidation <http://criticalfutures.com/2009/11/the-dangers-of-consolidation>`__,
+and finally some thoughts on `digital
+publishing <http://criticalfutures.com/2009/11/owning-bits.>`__ More
+recently I've been thinking more about the "work" of publishing and
+content creation, apart from the changing business models and
+technological context.
+
+Publishers (of any kind, and their editorial departments), by
+contemporary convention are responsible for reading through the slush
+and figuring what's good and what not. Ideally publishers are the
+stewards of taste, and the people who figure out whats "good" and what
+people want to read. On some fundamental level, publishers are curators.
+The second main function of publishers are as the provider and organizer
+around services. Publishers contract with copy editors, with design and
+layout people, they get the cover art, they do promotional work, and the
+million other things it takes to turn a manuscript into a book.
+
+As the traditional publishing model has... deteriorated, I think a lot
+of people have been interested in figuring out "what happens next?"
+myself as much as anyone. Having said that, *the way* in which the
+traditional publishing model has deteriorated has shaped how we think
+about *what comes next.* This makes sense of course, but I want to
+challenge myself to think about things more broadly (and you, dear
+friends as well, but I'm sure you've already figured this one out.)
+
+I mean, it's not like the old media died in a day. The blogging
+phenomena started, and writers/etc. were able to promote their work
+directly in ways that they hadn't managed to before. Margins on book
+sales went down, which has cut into promotional budgets (as much as
+anything). Also, thanks to developments in technology the size of most
+first runs is *much* smaller than it used to be. This is probably a good
+thing, but it also means that the capital investment on new authors and
+books is much less than it used to be. ...and the end result of this is
+that we're prone to seeing publishing companies as "Authors Services"
+companies.
+
+As a model for "what comes next," services for authors is a huge part of
+what we need from the publishing companies. Centralizing and connecting
+authors with people who can provide big-picture editing, with people who
+do copy editing and proof reading, with people who do the cover art and
+layout of the book itself, and with people who can do the promotional
+work, getting the book plugged into the distribution channels. These are
+real needs, that aren't going to evaporate any time soon.
+
+But what about the editorial and curatorial roles of publishers? What
+about the branding associated with publishing houses? I think there's
+probably some future for critical discourse in blogs and in digital
+forums, which will provide some of these functions, but that's not the
+full answer, and I'm not sure what the full answer is.
+
+As `I wrote,
+earlier <http://criticalfutures.com/2009/11/owning-bits>`__, I think
+figuring out some sort of subscription system to support content
+creation and distribution. I think having the economic superstructure in
+place, or at least worked out conceptually is really important before we
+start working on new technologies, like ebook readers, and digital
+content distribution channels.
+
+It's an interesting time to be around, that's for sure.
+

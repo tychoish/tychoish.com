@@ -1,0 +1,61 @@
+=======================================
+Productivity Blogging and Effectiveness
+=======================================
+
+.. post:: 2008-12-17
+   :author: tychoish
+
+For the past few years I've had a `productivity
+tag <http://tychoish.com/tags/productivity>`__ to organize/centralize
+all of the thinking and writing I've been doing on topics related to how
+we work. User experience stuff and technology, work-flow management and
+design, "life hacks," stuff about the processes of writing, and so
+forth.
+
+The truth is that the "productivity" blogging niche is pretty big.
+`LifeHacker <http://lifehacker.com/>`__,
+`43Folders <http://www.43folders.com>`__, and many other smaller blogs
+seem to address these issues with a greater attention to detail than I
+am able to muster. Also while I think it's interesting, and useful to
+deliberate on these issues, there's little--if any--intrinsic interest
+in this kind of thing. Outside of the human factors engineering aspects,
+which I think I'm probably the only one who geeks out on that stuff.
+
+My other issue with doing "productivity" blogging, is that I don't
+really feel like we need to be any more productive. This article about
+`the relationship between productivity and standards of
+living <http://users.ipfw.edu/ruflethe/american.html>`__, has weighed on
+my mind a lot in the past couple of months. The challenge shouldn't be
+how we can be "more productive," because we're already pretty damn
+productive, but rather how can we be more effective at accomplishing the
+things that we want to do.
+
+This is a problem that writers or "wanna be writers" seem to have most
+often. After a certain point the issue isn't that we don't have time (a
+problem that can be solved with priorities and being more productive in
+our other tasks), or skill based (writing is tough, but it's also a
+learning process and after a while one starts to get it) but rather how
+to use the time that we have to write *effectively* on the projects that
+are important to us. I suspect other types of creative folk experience
+this in different ways.
+
+Where as productivity seems to focus around the conversion from raw time
+to whatever the output is, I think effectivity is more about how
+enviroment, stress management, sleep management, and project planning
+combine and interact to make it easier for creative types to "do their
+work." A lot of the lifehacks that are popular these days, focus on how
+to get more functionality out of your computer, or how to multi-task
+more efficently, or organize your todo lists better. And so forth.
+
+In contrast, I think "Effectivness-based lifehacks," would revolve
+around how to manage your sleep more effectively, or how to order your
+routine so that you have enough "down time" to recharge so that you can
+be effective durring your "up time."
+
+I'm not proposing anything new that I don't think happens already, but I
+think there's a big distinction between these approaches to personal
+organization and workflow, and I'm throwing my hat in the pile behind a
+focus on effective rather than productive behaviors.
+
+So there.
+

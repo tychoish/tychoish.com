@@ -1,0 +1,83 @@
+=================
+Objective Whatsis
+=================
+
+.. post:: 2010-04-13
+   :author: Sam Kleinman
+   :tags: programming
+
+Ok, confession time, I don't really *get* object orientation. So in an
+effort to increase my understanding, I'm going to write some overview
+and discussion in an effort to understand things a bit better. Hopefully
+some of you will find this helpful. I've tinkered with programing for a
+long time. I read a huge chunk of a popular Python introductory text,
+and I've read a chunk of `Practical Common
+Lisp <http://gigamonkeys.com/book/>`__, but people start talking about
+objects and I loose track of everything. I think there's something
+slightly unconventional--at least initially--about object orientation.
+
+We understand procedural programming pretty easily. There's a set of
+steps that you need to perform, and you tell the computer what they are,
+and then data gets handed off to the program, it runs, and the steps are
+performed at the end. Or, conversely, someone calls your program and
+says "I want data" (perhaps implicitly) and the program says "ok, to go
+get data, I need to do these things," and then it runs and at the end
+you see data.
+
+Object orientation turns this sort of sideways and says "lets build a
+representation of our data (objects) then write code that says what
+happens to those objects." Ok, that almost makes sense, data happens to
+your program and you write code to provide behaviors and responses to
+all of the things that will happen when your program runs. So you feed
+objects (data) into your program it does its thing in response to those
+objects and different data (probably) exists on the other end.
+
+I hope I haven't lied yet! To continue...
+
+The thing that always confused me, given my utter lack of background is
+this whole "methods," and "classes," thing that programmer types launch
+into almost immediately. To overview:
+
+**Objects** as I said above, are just another way to think about data.
+It's a "thing," that the program has to deal with. **Classes** really
+just represent the structure of a program. We hear "objects are
+instances of classes," but this feels sort of backwards, it feels more
+intuitive to say that classes provide a framework for interacting with
+objects: they describe the loose "shape" of their objects and then
+create a place for behaviors to exist. **Methods**, then, are those
+behaviors. Often methods "belong" to classes (either literally in the
+structure of the code, or just conceptually) and they define what
+happens to objects as the program runs.
+
+Thus the role of an object oriented runtime (or compiler? I think that's
+the right word for the program that executes the program,) is to take
+data that comes in, figure out what class (or classes) the object "fits
+into," and then apply the methods that belong to that class.
+
+Whew! So, how'd I do?
+
+Assuming my understanding is correct, allow to offer the following
+analysis:
+
+-  By using multiple methods, in given sequence you can reuse code
+within a class, rather than needing to define and redefine a set of
+increasingly complex procedures.
+
+-  At the same time there's a much higher start up cost for object
+oriented code. Because we think about getting things done in programs
+we--or I--tend to think in terms of procedures, rather than objects,
+it takes a bit of extra brainpower to do the object oriented way. And
+for most tasks--which are pretty small--creating classes and creating
+methods seems like a lot of stuff to have to hold in your head when
+you're figuring out what needs to done?
+
+It sort of seems like, in order to do object orientation *right*, you
+have to already know what has to happen in the program. Otherwise,
+classes fail to properly describe the data/methods that you need.
+
+-  Ok, so now that I, more or less, understand what's going on here,
+might we be better off calling it class-oriented programming? Or
+"class-centered" programming?
+
+Thoughts?
+

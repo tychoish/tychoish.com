@@ -1,0 +1,66 @@
+=========
+ishnesses
+=========
+
+.. post:: 2007-07-27
+   :author: tychoish
+
+I did a computer restart a few days ago [1]_, and never reopened
+NetNewsWire. This means that I haven't been reading blogs for a few
+days: pathetically, this doesn't mean that I'm any more behind than I
+typically am, alas. As a consequence I don't have as many funny things
+to post for you.
+
+Having said that, to restart, I wanted to be able to close bunches of
+tabs and have a record of where I was. I think I was offline at the time
+of the restart. So I made a text file and copy and pasted the urls.
+Given that I have nothing else to post, here it is. After all,
+`tychoish <http://tychoish.com/>`__ is my notebook. Right?
+
+Enjoy!
+
+LaTeX/Geek Things:
+------------------
+
+-  LaTeX Beamer Class - http://latex-beamer.sourceforge.net/
+
+-  bsag LaTeX drawing -
+http://www.rousette.org.uk/blog/archives/on-the-lure-of-the-user-manual-for-a-geek/
+
+-  http://dopointoh.com/ - todo list web2.0 goodness
+
+-  http://monkeybreadsoftware.de/Freeware/CombinePDFs.shtml - PDF
+management tool for OS X
+
+-  http://www.yepthat.com/ - a pottentially better PDF
+reading/management program. Maybe the "iTunes for PDF"?
+
+-  http://www.scifihifi.com/podworks/ - a new/better ipod ripping
+program. just `read about it
+here <http://www.gusmueller.com/blog/archives/2007/07/podworks_2.9_is_out.html>`__,
+haven't actually followed the link.
+
+-  http://areasofmyexpertise.blogspot.com/2007/07/if-you-are-interested-in-websites-that.html
+opened the link, no clue. check on it later, tycho
+
+Podcast Culture/Geek:
+---------------------
+
+-  `This Day in Alternmeate History <https://www.lulu.tv/>`__
+
+-  `Voice's Anthology by Mur
+Laferty <http://www.podiobooks.com/title/voices-new-media-fiction>`__
+
+-  Shannon Oakley's Knitting Podcast.
+
+Hypertexts
+----------
+
+-  http://iam.upsideclown.com/
+
+-  http://masochuticon.com/
+
+.. [1]
+It's funny that this is such a noteworthy sort of event. I routinely
+stay up for 3-4 weeks, sometimes more I think.
+

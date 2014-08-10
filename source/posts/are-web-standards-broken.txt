@@ -1,0 +1,69 @@
+========================
+are web standards broken
+========================
+
+.. post:: 2009-07-23
+   :author: tychoish
+   :tags: technology, cyborg, new-media
+
+When I started doing this website thing on the eve of the millennium,
+the burgening buzzword of the time was "web standards." All of us in the
+know were working on learning and then writing to web standards like
+HTML 4.0 and eventually XHTML 1.0 along with CSS 1 and 2. And we were
+all hankering for browsers that implemented these standards in a
+consistent way.
+
+Really all we wanted was for our web pages to look the same no matter
+who was viewing the page.
+
+This pretty much never happened. Web browsers are pretty good these
+days, or they at least--in many ways--don't suck as much as they used
+to, but they're all a bit quirky and they all render things a bit
+differently from each other. And on top of that they've got poor
+architectures, so as programs they're really bloated, and prone to
+crashing and the like. I've written before about being "against"
+websites, webapps, and the like and I think my disdain for the "web"
+grows out of the plan and simple fact that:
+
+the web browser is broken, beyond repair.
+
+--------------
+
+So where does this put the cause of web standards in web design?
+Thoughts and questions:
+
+Do we write to standards which aren't going to get adopted usefully? Is
+ad hearing to standards a productive use of time?
+
+Do we write to clients (specific browser implementations) that are
+broken, but at least assure that content looks "right?"
+
+When the previous goals two goals aren't compatible which wins?
+
+Will HTML 5 and CSS 4 fix these problems, or is it another moving target
+that browsers won't adopt for another 10 years, and even then only
+haphazardly?
+
+Are there other methods of networked content delivery that bypass the
+browser that might succeed while the browser space (and the content
+delivered therein) continues to flounder? I'm thinking object/document
+databases with structured bidirectional, and limited hierarchy (in the
+system, objects might have internal hierarchy)?
+
+Is the goal/standard of pixel-perfect layout rendering something which
+the browser is incapable of providing? Might it be the case that CSS is
+simply too capable of addressing problems which are outside of the ideal
+scope for defining a consistent style for a page: Let me run with this
+idea for a moment:
+
+Maybe the problem with XHTML and CSS isn't that it's implemented
+poorly, but rather that we're trying to use CSS classes and IDs and
+div tags in an attempt to make pixel-perfect renderings of pages,
+which is really beyond CSS's "mission." What would web standards and
+the state of the browser look like, if you dropped CSS IDs (eg.
+``#id-name{ }``) and made single instance classes (eg.
+``.class-name{}``) verboten? Aside from crashing and burning and
+completely killing off browser-based applications?
+
+I look forward to hearing your thoughts on the subject.
+

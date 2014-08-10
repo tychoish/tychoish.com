@@ -1,0 +1,52 @@
+==================
+2011 Retrospective
+==================
+
+.. post:: 2012-01-26
+   :author: tychoish
+   :tags: update, meta
+
+For the most part, I'm quite happy with everything that I was able to
+accomplish last year. I've moved cities (for the second year in a row)
+and last year I changed jobs *twice*: in both cases, I think the current
+will stick for a while. And I'm working on other projects, with some
+impressive speed. Last year wasn't been great for finishing things, but
+I guess there's room for improvement this year.
+
+After a fair amount of professional angst I'm finally doing pretty much
+exactly what I want to be doing: I'm writing a substantial/total
+revision of a software manual for a company developing an open source
+database system. I'll leave you to figure out the details, but it's
+great.
+
+A couple years ago, I said to myself, that I wanted to be a "real
+technical writer," which is to say, work with engineering teams, write
+documentation and tutorials for a single product or group of products,
+and operate on a regular release schedule. I've done a great deal of
+writing for technology companies: from project proposals and journalism,
+to tutorials and content for distributors, to white papers, marketing,
+and sales materials. Delightfully, I've managed to get there, and in
+retrospect it's both somewhat amazing, and incredibly delightful.
+
+A while back, I had dinner with a friend who's been doing the same thing
+I do for a long time (we know each other through folk dance and
+singing,) and by comparing our experiences it was great to learn that my
+experience is quite typical, both in terms of the work I'm doing and the
+procedural engineering practice frustrations (e.g. "*What do you mean
+you changed the interface without telling me?!?!*\ ")
+
+--------------
+
+At work we have this thing where we send in an account of what we did
+during the day so that other people know what we're working on, and so
+that we can keep our team on the same page. After all, when you're all
+looking at computer screens all day, and in a few different time zones,
+it's easy to loose track of what people are working on.
+
+At the bottom of these emails, we're prompted to ask "what are your
+blockers and impediments." Often I say something clever like "Compiler
+issue with Spacetime interface or Library." Or something to that effect.
+It feels like a good description of the last year.
+
+Onward and Upward!
+

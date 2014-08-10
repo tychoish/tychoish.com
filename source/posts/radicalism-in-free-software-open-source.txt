@@ -1,0 +1,166 @@
+========================================
+Radicalism in Free Software, Open Source
+========================================
+
+.. post:: 2009-11-04
+   :author: tychoish
+   :tags: cyborg, open-source
+
+The background:
+
+-  `zonker on Selling vs.
+Shaming <http://www.dissociatedpress.net/2009/10/10/selling-vs-shaming/>`__
+
+-  `bkuhn on Denouncing vs. Advocating: In Defense of the Occasional
+Denouncement <http://www.ebb.org/bkuhn/blog/2009/10/11/denouncing-v-advocating.html>`__
+
+-  Various other conversations on `identi.ca <http://www.identi.ca/>`__
+over the past few weeks.
+
+--------------
+
+In light of this debate I've been thinking about the role and
+manifestations of radicalism in the free software and open source world.
+I think a lot of people (unfairly, I think in many cases) equate
+dedication to the "Cause of Free Software," as the refusal to use
+anything *but* free software, and the admonishment of those who *do* use
+"unpure" software. To my mind this is both unfair to Free Software as
+well as the radicals who work on free software projects and advocate for
+Free Software.
+
+First, lets back up and talk about RMS [1]_. RMS is often held up as the
+straw man for "free software radicals." RMS apparently (and I'd believe
+it) refuses to use software that isn't free software. This is seen as
+being somewhat "monkish," because doesn't just involve using GNU/Linux
+on the desktop, but it also involves things like refusing to use the
+non-free software written for GNU/Linux, including Adobe's Flash player,
+and various drivers. In short using the "free-only" stack of software is
+a somewhat archaic experience. The moderates say "who wants to use a
+computer which has been willfully broken because the software's license
+is ideologically incompatible," and the moderates come out looking
+rational and pragmatic.
+
+Except that, as near as I can tell, while the refusal to use non-free
+software might be a bit traumatic for a new convert from the proprietary
+operating system world, for someone like RMS, it's not a huge personal
+sacrifice. I don't think I'm particularly "monkish" about my free
+software habits, and the *only* non-free software I use is the adobe
+flash player, and the non-open-source extensions to Sun's Virtual Box.
+I'm pretty sure I don't even need the binary blob stuff in the kernel.
+For me--and likely for RMS, and those of our ilk--sticking to the pure
+"free software" stuff works better and suits the way I enjoy
+working. [2]_
+
+In short, *our ability to use free software exclusively, depends upon
+our habits and on the ways in which we use and interact with
+technology.*
+
+To my mind, the process by which the pragmatic approach to free software
+and open source radicalizes people like RMS, is terribly unproductive.
+While we can see that the moderates come away from this encounter
+looking more reasonable to the more conventional types in the software
+world, this is not a productive or useful discussion to entertain.
+
+In any case I think there are a number of dimensions to the free
+software (and open source world,) that focusing on "how free your
+software" is distracts us from. Might it not be useful to think of a few
+other issues. They are, as follows:
+
+1. **Free software is about education, and ensuring that the users of
+technology can and do understand the implications of the technology
+that they use.**
+
+At least theoretically, one of the leading reasons why having "complete
+and corresponding source code" is so crucial to free software is that
+with the source code, users will be able to understand how their
+technology works.
+
+Contemporary software is *considerably* more complex than the 70s
+vintage software that spurred the Free Software movement. Where one
+might have imagined being able to see, use, and helpfully modified an
+early version of a program like Emacs, today the source code for Emacs
+is *eighty megabytes*, to say nothing of the entire Linux Kernel. I
+think it's absurd to suggest that "just looking at the source code" for
+a program will be educational in and of itself.
+
+Having said that, I think free software can (and does) teach people a
+great deal about technology and software. People who use free software
+know more about technology. And it's not just because people who are
+given to use free software are more computer literate, but rather using
+free software teaches people about technology. Arch Linux is a great
+example of this at a fairly high level, but I think there's a way that
+Open Office Firefox plays a similar role for a more general audience.
+
+2. **There are a number of cases around free software where
+freedom--despite licensing choices--can be ambiguous. In these cases,
+particularly, it is important to think about the economics of
+software, not simply the state of the "ownership" of software.**
+
+I'm thinking about situations like the "re-licensing" such as that
+employed by MySQL AB/Sun/Oracle over the MySQL database. In these cases
+contributors assign copyright to the commercial owner of the software
+project on the condition that the code *also* be licensed under the
+terms of a license like the GPL. This way the owning copy has the
+ability to sell licenses to the project under terms that would be
+incompatible with the GPL. This includes adding proprietary features to
+the open source code that don't get reincorporated into the mainline.
+
+This "hybrid model" gives the company who owns the copyright a lot of
+power over the code base, that normal contributors simply don't have.
+While this isn't a tragedy, I think the current lack of certainty over
+the MySQL project should give people at least some pause before adopting
+this sort of business model.
+
+While it might have once been possible to "judge a project by the
+license," I think the issue of "Software Freedom" is in today's world so
+much more complex, and I'm pretty sure that having some sort of economic
+understanding of the industry is crucial to figuring this out.
+
+3. **The success of free software may not be directly connected to the
+size of the userbase of free software**
+
+One thing that I think Zonker's argument falls apart around is the idea
+that free software will only be successful if the entire world is using
+it. **Wrong**.
+
+Lets take a project like `Awesome <http://awesome.naquadah.org/>`__.
+It's a highly niche window manager for X11 that isn't part of a Desktop
+Environment (e.g. GNOME/KDE/XFCE), and you have to know a thing or two
+about scripting and programing in order to get it to be usable. If there
+were much more than a thousand users in the *world* I'd be surprised.
+This accounts for a minuscule amount of the desktop window management
+market. Despite this, I think the Awesome project is *wildly
+successful.*
+
+So what marks a successful free software project? A product that creates
+value in the world, by making people's jobs easier and more efficient. A
+community that supports the developers and users of the software
+equally. Size helps for sure, particularly in that it disperses
+responsibility for the development of a project among a number of
+capable folks. However, the size of a projects userbase (or developer
+base) should not be the sole or even the most important quality by which
+we can judge success.
+
+There are other issues which are important to think about and debate in
+the free software world. There are also some other instances where the
+"hard line" is over radicalized by a more moderate element, nevertheless
+I think this is a good place to stop for today, and I'm interested in
+getting some feedback from you all before I continue with this idea.
+
+Onward and Upward!
+
+.. [1]
+Richard Stallman, founder of the Free Software Foundation and the GNU
+Project, original author of the GNU GPL (perhaps the most prevalent
+free software license), as well as the ever popular gcc and emacs.
+
+.. [2]
+Arguably, it's easier for software developers and hacker types like
+myself to use "just free software" because hackers tend to make free
+software to satisfy their needs (the "scratch your own itch"
+phenomena), and so there's a lot of free software that supports
+"working like a hacker," but less for more mainstream audiences.
+Indeed one could argue that "mainstream computer using audiences" as
+a class is largely the product of the "proprietary software and
+technology industry."
+

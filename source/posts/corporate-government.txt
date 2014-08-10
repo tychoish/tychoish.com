@@ -1,0 +1,74 @@
+====================
+Corporate Government
+====================
+
+.. post:: 2010-01-06
+   :author: tychoish
+   :tags: politics, economics
+
+I was talking to someone, probably a coworker, and I was saying
+something about a "government," except I slipped and said "corporation."
+An easy mistake, if not a common one, perhaps, and certainly somewhat
+telling. In this post I want to discuss a number of ideas that have been
+lingering about in my thoughts regarding the role of corporations on
+culture and technology, and the role of corporate structures on the
+conveyance of cultural values.
+
+In a lot of ways this post is the successor to my posts on: `Martian
+Economics <http://tychoish.com/rhizome/martian-economics/>`__ and
+`Transformational
+Economics <http://tychoish.com/rhizome/praxis-and-transformational-economics/>`__
+
+Maybe that's a bit much for one blog post. In brief:
+
+1. **Corporations and Governments**
+
+We can think of both corporations and governments fall into the larger
+category of "formal social institutions," or "formal collective
+institutions." They are both, at least in theory, productive beyond the
+ability of a single individual, and both dominate the shape and course
+of our lives to significant degrees.
+
+2. **Corporate Structure and Cultural Transmission**
+
+How corporations, and governments more obviously, are structured and
+behave is--I would argue--a means of creating and transmitting cultural
+values.
+
+3. **Praxis and IBM: Autonomy and Bottom Up Organization**
+
+I use these two examples--one fictional, one actual--as possible
+illustrations of a different sorts of ways of thinking about corporate
+organization. Both of these examples represent large institutions
+engaged in diverse operations, that are organized (I think) with a great
+number of quasi-autonomous operations and divisions, which contribute to
+common project but have the freedom to operate independently and
+encapsulated ways. This strikes me as a unique modality.
+
+This leads to a lot of questions, and not very many good answers. I
+suppose that's not intrinsically a bad thing.
+
+-  One of the biggest problems with corporations as far as I'm concerned
+is that by virtue of their fiduciary responsibility they have no
+obligation to operate in a sustainable manner or in the common
+interests of either their employees or the public.
+
+*Can the potentially harmful potentials inherent in corporate
+person-hood be offset by certain types of organization?*
+
+-  *Is there a better way to manage and organize our political society
+that balances the power of governments, corporations, that is
+sustainable and efficient?*
+
+-  We talk, and think, a lot about how the Internet affects how people
+use technology, and how the Internet creates new possibilities for
+business. *How does the Internet change the way we organize our work
+lives?* Has technology made smaller corporate operations more
+sustainable and able to compete?
+
+-  Are the alternatives loose and autonomous-cells in corporate
+organizations that might be able to address the concerns regarding
+efficiency and sustainability?
+
+And so forth...
+

@@ -1,0 +1,11 @@
+========================
+no regexp will find this
+========================
+
+.. post:: 2007-07-25
+   :author: tychoish
+
+for the file of "gross miss-spelings Amiri Baraka's name:"
+
+Perry Barocca
+

@@ -1,0 +1,65 @@
+==============
+iPad Reactions
+==============
+
+.. post:: 2010-02-09
+   :author: tychoish
+   :tags: cyborg
+
+Ok, as a self-respecting geek, I think I have to say something about
+this whole "iPad" thing.
+
+I'm not as much of an Apple geek as I used to be, that's for sure. It's
+not that I don't think that Apple's doing something quasi-innovative and
+useful in the world of technology and the business around consumer
+technology. I think bringing UNIX to the hands of "mass market" desktop
+users was a *great* move. Although the iTunes Store is not without it's
+issues and concerns, the fact that Apple was able to create a viable
+environment and market that allowed people to exchange money for
+software and content is probably a good thing. And Apple has brought to
+a general public a number of hardware configuration (in recent years)
+that I think make a lot of sense: the mini-tablet (iPhone/iPod Touch),
+laptops with usable battery lives, the pocket jukebox (iPod Classic,)
+and so forth.
+
+*Deep breath*. Having said that... I'm not terribly impressed with the
+iPad, or moved by it's potential at the moment. I know Apple often takes
+a few generations to make something really *work*, and so I think it's
+important to not say "this implementation sucks, and so the whole notion
+sucks, and is with out merit." Of all the things that I've heard (or
+said,) in the past few weeks of the iPad the following two threads have
+stood out:
+
+-  I'm really quite interested to see what other makers are going to be
+doing in this space. What's the Lenovo tablet going to look like? HP?
+One of the leading complaints about the iPad (and iPhone) is Apple's
+total-lock-down over the platform, and I think an Android tablet, or
+a super Nokia N900 is likely to be much more open and killer awesome.
+
+-  I'm interested to see what the iPad platform looks like in a revision
+or two. Add an SD slot? Multi-tasking? Additional input methods? It
+could look really awesome, and while I have misgivings (see below) I
+don't want to write it off entirely.
+
+At the same time, I don't really feel like there's an in-between device
+that I don't currently have that I'd like to have. In a lot of ways,
+even I feel like I have too many devices, too many inboxes (of one sort
+or another), and too much technology to manage. I'm not complaining. The
+truth of the matter is that my laptop gets great battery life, isn't
+very big at all, and does *everything* I need of a computer, and almost
+everything I need of technology in general. iPods are better for playing
+music if I'm moving around or in the car, and the Kindle is great for
+what it is, and I do sort of have a Blackberry habit.. but...
+
+My technological challenge at the moment is that I don't have enough
+time to get done that which I would like to get done, not that I have a
+situation where I could be more productive if I only I had a device that
+would do something more." That's not something that seems to cross my
+mind very much. It might be nice to have a slightly more accessible
+emacs instance that I could use to enter snippets of text and work on
+things in the kinds of moment. I'm thinking a Nokia N900 might fit that
+bill pretty well, but I'm not sure.
+
+If you're thinking about getting an iPad, what's the niche that you see
+it filing? Do you have a niche that seems like it might be iPad sized?
+

@@ -1,0 +1,76 @@
+========================
+infrastructural commerce
+========================
+
+.. post:: 2009-07-21
+   :author: tychoish
+   :tags: economics, technology
+
+I think I've touched on this question before but with the last
+`technology as infrastructure
+post <http://www.tychoish.com/2009/07/technology-as-infrastructure-act-three/>`__
+it seems like another opportunity to talk about the intersections
+between this topic--thinking about technology as infrastructure--and
+about the sort of `small scale/cooperative
+economics <http://www.tychoish.com/2009/05/land-institutions-and-organization/>`__
+that I was writing a lot about a couple of months back.
+
+The question on my mind at the moment is, "What do the business models
+of technology firms look like, in a software-freedom-loving,
+non-corporate/cooperative-business way?"
+
+And I'm not sure what the answers to this question are. Not really. I've
+been thinking about business models for the producers of
+software/technology services during earlier moments.
+
+We have the example of the 70s and 80s when the prevailing technology
+companies were ATT and IBM. ATT made their money selling phone service,
+and licensing UNIX. IBM made their money selling mainframes. In the
+eighties and nineties we had the prevailing Microsoft lead "proprietary
+software licensing" business models, where consumers paid for the legal
+write to run code on their computers.
+
+In the nineties and early naughties the successful business models were
+either from people buying hardware (ie. Sun Microsystems and IBM) or
+people buying support for operating systems (ie. RedHat). We've also
+seen some more stable business models centered around
+subscriptions-for-services (this seems to be what all the successful
+startups are doing), and more of the time honored selling hardware, and
+there are some support-services based companies that remain successful
+(eg. RedHat), the support market consolidated a lot recently. And it's
+not like the Microsoft-consumer model doesn't still exist.
+
+So when we look at "infrastructural technology" it sure looks like there
+are some kinds of businesses that will continue to flourish:
+
+-  The people making mainframes/servers and the high level computing
+systems that provide the infrastructure.
+
+-  The people who provide the tools that make low level tools successful
+and useful to users. (eg. What UbuntuOne provides on top of SSH and
+rsync; What gmail provides on top of IMAP; What MobileMe provides
+ontop of WebDAV/CalDAV/IMAP).
+
+These strike me as rather conventional business models, given the
+history. Does infrastructural computing also:
+
+-  further the development of subscription-based businesses?
+
+-  create a new kind of challenge in customizing solutions for
+organizations and groups that translate raw resources into "finished
+output?" Is this too much like IMAP --> Gmail?
+
+-  [other possibilities created by you, here]
+
+I'm trying to approach this by asking myself "what creates value in this
+market," rather than "where's the money." It strikes me that value
+exists in making systems "work" in a way that's customized to the task
+at hand. It strikes me that value is created when individuals and
+organizations are able to take ownership of their own data and
+computing. Gmail is valuable, but running my own IMAP server is more
+valuable. Running my own IMAP server without the fuss of needing to
+personally manage the hardware and software of the server is even more
+valuable.
+
+What else does the hive mind have for us?
+

@@ -1,0 +1,56 @@
+==============================================
+Simple Beret Pattern (a Free Knitting Pattern)
+==============================================
+
+.. post:: 2005-11-26
+   :author: tychoish
+
+Ok folks. You want to make a beret? Like to knit. Well I have a pattern
+worked out that is perhaps the simplest pattern on the face of the
+earth, that's very very flexible. It's so flexible that I don't even
+need to give you a number to cast on, and you'll still get a good hat in
+the end. I promise.
+
+Cast On an *even* number of stitches, the precise number of your
+choosing, onto your smaller circular needle (I cast on using the large
+needle and then switch to the smaller, but whatever you prefer.) This
+needs to fit around your head. 90 is a good default, or starting point
+but alter depending on your needle size, head size, and yarn size.
+
+Knit in K1 P1 ribbing for 5 rounds.
+
+In the next round K4, M1 around.
+
+Knit 4.5-6 inches in st st.
+
+In the next round, K3 K2tog around. Knit 5 rounds even in st st.
+
+In the next round, K2 K2tog around. Knit 5 rounds even in st st.
+
+In the next round, K1 K2tog around. Knit 2 rounds even in st st.
+
+In the next round, K2tog around. Knit 1 rounds even in st st.
+
+In the next round, k2tog around, and draw yarn through remaining
+stitches.
+
+Block/Felt/Full the hat as you see fit. For me this generally involves
+rubbing it vigorously in hot soppy water in the kitchen sink for about
+fifteen minuets, but I have experience with flat felting so it might
+take people without that experience a bit longer. I don't generally
+trust the washing machine for small things like this. Whatever method
+you use, when it has felted down enough stretch the hat over an
+appropriately sized dish. Let it dry about half way, then take it off
+the dish and shape the brim so that the entire hat is round and lays
+flat. At this point you need to pay attention to the size of the head
+hole. Don't use a measuring tape, but the dish tends to malform the
+shape a little and this needs to be corrected. With a steam iron, steam
+the hat in this shape, and let it dry the rest of the way.
+
+And there you have it. A beret.
+
+Read on for notes about the needle size I generally do the ribbing one
+or two needle sizes smaller than the main body of the hat. I've had good
+results using size 3s for the ribbing, and size 5s for the body. I've
+also had success with size 5s for the ribbing and size 8s for the body.
+

@@ -1,0 +1,67 @@
+================
+personal desktop
+================
+
+.. post:: 2009-07-29
+   :author: tychoish
+   :tags: technology, productivity, cyborg
+
+I wrote a series of posts `about setting up my new work
+computer <http://www.tychoish.com/2009/07/new-workstation-trials>`__ as
+a way to avoid blathering on and on about how the movers *lost the
+cushions for my couch*, and other assorted minutia that seem to dominate
+my attention. What these posts didn't talk about were what I was doing
+for "tychoish" and related computing.
+
+About a week and some change, before I moved, I packed up my desktop
+computer and started using my laptop full time. It's small, portable,
+and sufficient, if not particularly speedy.
+
+I can do everything with the laptop (a ThinkPad x41t, which is a
+2005-vintage 12" tablet) that I can do on any other computer I use, and
+while I often prefer it because small screen means that it's really easy
+to focus intently on writing *one thing* at a time. This, inversely,
+means that it doesn't work very well for research intensive work, where
+I need to switch between contexts regularly. It's a fair trade off, and
+I did OK for weeks.
+
+But then, having been in town for two and a half weeks, I decided it was
+time to break down and get my personal desktop setup and working. And
+it's amazing. The thing, works just as well as it always has (which is
+pretty good,) and it's nice to have a computer at home that I can do
+serious writing on, and the extra screen space is just perfect. I've
+been able to be much more productive and comfortable with *my own*
+projects since this began.
+
+There are some things that I need to address with this computer, that
+have been queuing up. In the spirit of posting my todo lists for the
+world to see...
+
+-  I need to get a new keyboard. My "fancy" "`Happy Hacking Lite
+2 <http://pfuca-store.stores.yahoo.net/>`__\ " keyboard is at work,
+as I'm comfortable with it, I do a *lot* of writing at work, and I
+set up that keyboard first (and the current default Mac keyboard
+sucks.)
+
+I'm thinking of either, getting another Happy Hacking keyboard, or more
+likely at this point, getting a `das keybaord
+ultimate <http://www.daskeyboard.com/>`__ because how could I turn down
+blank keys and variable-pressure mechanical switch keys. And writing is
+what I do, so totally worth it.
+
+-  I need to install Arch on this computer. I feel like cruft is
+beginning to accumulate here, I've never quite been happy with the
+ubutnu experience, and there are some things that I can't get to work
+right (namely mounting of USB-mass storage devices) My concerns are
+that getting dual monitors setup on this box was *a royal pain*. But
+that might have been ubuntu related. I'm not sure.
+
+-  My current thought is that I'll buy a new (small) hard drive (eg. 80
+gigs) to run a clean operating system install on (arch) and then use
+the current drive as storage for the stuff that's already there
+(music, video). But I might just get a larger additional drive and do
+it in reverse. I dunno. The current situation isn't that bad, and I
+think that I'll archify the laptop first.
+
+Annnyway...
+

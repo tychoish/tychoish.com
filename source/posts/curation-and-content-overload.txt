@@ -1,0 +1,61 @@
+=============================
+Curation and Content Overload
+=============================
+
+.. post:: 2009-04-02
+   :author: tychoish
+   :tags: new-media
+
+There's a lot of content on the Internet. This as pretty much always
+been the case, but it's especially true these days. There's so much
+content that it's difficult to comprehend the amount of content on
+*this* (very small) website, let alone the content of "all the blogs" or
+other kinds of sites.
+
+In the early days of blogging, the largest archives included a hundred
+or even two hundred posts, no more than a year or two of archives, and
+if you read the dozen or two dozen blogs in the general network that you
+covered, you could be pretty sure that you were reading some significant
+portion of the "weblog discourse" *and* all the same blogs that the
+people writing the blogs were reading. When you found a new blog, the
+chance is that you could read the entire archive in an hour or two if
+you were so inclined.
+
+It's a different world now. Blogs have many years of archives, hundreds
+upon hundreds of posts, what we read is only a drop in the bucket of
+whats out there.
+
+Success, (a relative concept indeed) as content creators on the
+Internet, in this saturated market requires a very different strategy.
+Pumping out more content, just further saturates our websites, we need
+some other approach. It doesn't help that the publication systems we use
+to power content on the web (wordpress, drupal, blogger) are designed
+for an earlier era.
+
+I would propose that success in the next era will revolve around,
+individuals and technological solutions that make "curation" easier and
+more effective. Curation you ask? In museums we see the display of only
+a fraction of the material held in the collection. Likely 10% or less.
+What you do see is selected (regularly) by curators who know and manage
+the collection, and take those materials and display them in such a way
+as to convey some sort of broader message about the subject of an
+exhibit.
+
+The same thing can (and **should**) happen on the web, with content. We
+need content producers to go through their writing and say "read this
+first for an introduction to my work/ideas," we need to connect content
+producers with curators who synthesize posts (with links) to great
+content that's "out there" (like tumble logs), we to integrate tools and
+structures that make curation easier in existing content-management
+software.
+
+The truth is that many of these things are starting to happen: I've seen
+some bloggers who attempt to filter their posts for their readers (and
+I'm going to be doing more of this,) tumble logs, when well done are
+curatorial. The software is here in bits and pieces, but the truth is
+that curation has to be a mostly manual task (which is the source of its
+value), so I think it'll be a while before we work out the kinks so that
+the software facilitates this kind of work. In the mean time...
+
+Work as if you Live in the Early Days of a Better Nation.
+

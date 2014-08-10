@@ -1,0 +1,79 @@
+=============
+of the system
+=============
+
+.. post:: 2009-02-11
+   :author: tychoish
+   :tags: cyborg
+
+Systems. This is an extension of exploratory writings about information
+management, and related ideas. When I talk about "systems," I mean
+whatever technological or intellectual methods we use to store
+information and get work done. If you use Microsoft Outlook and Word
+with an Access database for citation management, that's a *system*, what
+I've hacked together for myself with git, BibTeX, emacs, LaTeX,
+org-mode, and Markdown is a system. There are others.
+
+Many are pretty bad, as computer tools are designed with a task in mind,
+and the truth of the matter is that what most of us need isn't exactly
+what they do. With a few exceptions. Like a lot of people use Excel but
+most of us use to make *lists* of tabular data, but few of us use it to
+store numbers, let alone do any sort of calculations with that
+data. [1]_ And lets not get started talking about Microsoft Word [2]_ or
+any of the myriad of task management organizational software packages.
+
+So when I say "the system" I'm really talking about that magic step
+between the world your trying to represent in some sort of software
+application. And we all do some crazy stuff here, like scheduling
+appointments to manage tasks, or using a system of filters and secret
+email addresses to take notes. Not that I've done either of those
+things. *Ahem*
+
+This set of practices and informal logical rules are interesting, not
+intrinsically but insofar as they are at the heart of the human-computer
+(cyborg?) interaction. While this isn't specifically a problem of open
+source/free software/hacking, thinking about cyborg-issues dovetail with
+the software-freedom ethic of *knowing your technology*: so it makes
+sense.
+
+Playing around with different systems, is *one of those things I do*,
+and have done for a while, but it's something that I try to avoid.
+Because it takes a lot of time, it gets in the way of *getting things
+done*, and while I derive some perverse pleasure in it, I like to keep
+from being *quite so meta*. But the sad truth is that as we learn about
+new tools, as technology develops, as our projects develop, as we learn
+more about ourselves and our work-flows systems need to change.
+
+Sometimes this is as simple as moving some files around (changing the
+informal logic) or getting a new system and importing data. Sometimes
+it's more intense.
+
+My blogging about `org-mode <http://www.org-mode.org>`__ recently, is as
+part of one of these system changes. I'd been using a private wiki for
+most of the last year, and while I really liked the system, it got to be
+non-trivial to adapt he system (my internal representation the
+organization of the files) to add content to the wiki in a way that made
+sense. Maybe other people are a bit better at this than I am, but after
+many weeks of just *not touching* the files, I realized that I needed a
+better system. So I'm trying something else. It's a good thing. Not to
+happen casually, though. The good thing that happens when you do a
+"system review," is you get a chance to clear out cruft bad or
+antiquated logic from your system, and that's almost always a good
+thing.
+
+I'll be in touch.
+
+.. [1]
+I'm speaking generally rather than specifically. I know lots of
+people use excel for what it was intended for, and maybe you've
+worked with different people than I have, but I'd say the vast
+majority of the spreadsheets that I deal with mostly have text in
+them.
+
+.. [2]
+It's a document preparation tool. For laying out shorter documents.
+It doesn't have a lot of (good) support for structured writing, and
+it provides functionality for displaying and formatting your text,
+but it's sort of limited along the lines of things that help writing
+(search capabilities, notes management, block folding, and so forth)
+

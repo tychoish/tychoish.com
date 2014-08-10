@@ -1,0 +1,37 @@
+======================
+Michael Tolliver Lives
+======================
+
+.. post:: 2007-09-04
+   :author: tychoish
+
+So I just finished reading `Michael Toliver
+Lives <http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=221x53046>`__
+By Armistead Maupin.
+
+I think the words I'm looking for are "fucking amazing".
+
+I stretched the first half of the book over many weeks, and possibly a
+few months, but the second half I've read in the past couple of days,
+mostly today. And it's good, and very heart wrenching, and good. As much
+as I'd like to see what happens next, I don't know if my soul can handle
+seeing any (more) of these characters that I care so much about die, and
+I fear that the longer that the story goes on, the more likely that is
+to happen.
+
+In other news, I upgraded to `MarsEdit
+2.0 <http://www.tuaw.com/2007/09/04/marsedit-2-0/>`__, and it's
+brilliant. I've never been really satisfied with the way that the
+Text-Mate handles blog posting. Not enough polish, to much room for
+operator error, and so forth, so I've kept using MarsEdit (and I think
+the version I was running was a slightly out of date version.) It
+connected well with TextMate, and I've been happy.
+
+While I like the redress job, I have to say that there's only so many
+things that an XML-RPC weblog client can do, period (because there are
+only so many things that XML-RPC can do), and the version 1.x did all of
+them, and delightfully so does 2.0. And the redress is great (and it
+exposes a few features that were a little buried,) but...
+
+Here's hoping tomorrow is a bit more productive than today.
+

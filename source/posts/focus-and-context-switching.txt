@@ -1,0 +1,95 @@
+===========================
+Focus and Context Switching
+===========================
+
+.. post:: 2010-07-08
+   :author: tychoish
+   :tags: productivity
+
+This post is inspired by `Cory Doctorow's Inventory about the technology
+he uses for his
+work <http://www.locusmag.com/Perspectives/2010/07/cory-doctorow-what-i-do/>`__
+and ongoing personal angst and `gadget
+lust </2010/07/gear-mongering/>`__.
+
+For the past six months or so I collapsed my entire computing existence
+into one, single, computer. It's a nifty Thinkpad x200, a small laptop
+with just the right balance of usable screen space, sufficient computing
+power, and great build quality. And when I say "everything," I mean it.
+I hook it up to a monitor and keyboard at the office and do my day-job
+(technical writing/sys admin stuff) on this system, I have a similar
+"desktop" situation at home, and I write fiction, do all of my email,
+write and blog posts, off of this system. I even have development web
+servers running here.
+
+In a number of ways it's great, and I wouldn't trade this for the world.
+Everything just works the way I want it to, and I never have to worry
+that I've left some important edits to a file on a system elsewhere.
+Everything is always with me.
+
+Now to be fair, I have additional computers. My old(der) desktop at home
+keeps backups of files, plays music, and does a number of other tasks. I
+have (and use) the server that this and other websites run on for some
+tasks, and I have another instance at the office that manages some work
+functions, but despite their varying physical distance from me at any
+given point, my interactions with these computers is always as if
+they're remote. When I use a computer, it's this one.
+
+Now there isn't a *real* problem here, except that from a workspace and
+mindspace perspective the context switching can be somewhat complicated
+and frustrating. While I've got most of the kinks worked out of the
+docking (monitors and keyboards) process figured out, it takes me a few
+moments to settle into or out of "laptop-mode" or "workdesk-mode" or
+"homedesk-mode." While not having to worry if my files are all up to
+date, it's also somewhat distracting for all my different projects to be
+open all the time. The article I'm working on for work is always open
+and a few key presses away from the novel I'm working on or the latest
+in-progress blog post.
+
+Again, this isn't a really huge issue, but it means that when I get
+somewhere and want to begin working I have to take a deep breath, and
+spend a moment or two getting going again. These do fit into the
+category of "first world problems," and I'm not sure if there's a really
+easy solution. I've toyed with a number of resolutions to this angst:
+
+-  Distribute my existing machines such that I have a machine that lives
+at work and a machine that lives at home so that I can just sit down
+at a desk and start working without shenanigans. Given the available
+hardware, this might mean that I'd spend most of my time using
+systems that I'm not particularly fond of.
+
+-  I've toyed with having a "tycho writing laptop" that wouldn't have a
+web browser installed, for more distraction free writing. I've got my
+old laptop set up to do this, but I'm not likely to take it anywhere
+(i.e. for the commute,) so it might make sense to get a little
+netbook for the train for this function, but that seems like
+overkill.
+
+-  I might redistribute more of my workload to servers rather than doing
+everything on the laptop. I'm thinking about having the terminal
+sessions that I use for email *primarily* live in screen sessions
+elsewhere.
+
+-  I've thought about getting a second laptop, (like my main system at
+the moment,) both for redundancy and to help reduce the cost of
+switching between various contexts.
+
+As I've been toying with this, I've been making a number of tweaks to my
+work flow to help address the pain of context switching, most of which
+are too trivial and too specific to outline here. Mostly I've been
+tweaking some customizations, improving how I use virtual desktops.
+While these tweaks have improved things greatly, better internal system
+management doesn't solve the underlying issues: it takes time to
+reconnect to networks, to close tabs in the web browser, to get to the
+relevant files open in emacs, and navigate to the proper desktop. All
+the while *other contexts* (other files, other virtual desktops,) lurk
+nearby.
+
+And figuring out how to solve this problem involves a certain amount of
+"head game" for me: avoiding having "the old laptop" be the primary
+computer for a given task, making sure that I don't need a network
+connection for essential tasks. Assorted other weirdnesses.
+
+If anyone recognizes features of this angst that in their own work
+they've managed to resolve, I'd love to hear about your setup.
+

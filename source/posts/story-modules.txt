@@ -1,0 +1,71 @@
+==============
+Story Modules 
+==============
+
+.. post:: 2008-01-27
+   :author: tychoish
+
+Some thoughts on the writing project.
+
+So I've begun working on the Breakout hypertext, and I think all of my
+tedious regular expressions work actually made this work out pretty
+well. I'm really happy with the software, which is
+something--particularly given the digital nature of this project--that
+shouldn't be ignored. Technology and I need to be working with each
+other not against each other. And I think that's the case.
+
+What I'm thinking about/working through at this point is a structural
+concern. My hope is that the sort of "first layer" of the document will
+be very encyclopedic, in a sort of lighthearted and friendly parody of
+wikipedia way. That structure, organized mostly around the ships,
+years/time periods, and characters is all set up and fairly
+straightforward. (Note, I'm mostly just thinking about the naming
+schemes at this point.)
+
+Another layer of this project are what I'm thinking of as supporting
+documents, things written in character's own voices, or other things
+that are "in-world" texts. These are all associated with an encyclopedic
+article, and numbered sequentially, by order of creation. So I have an
+article for one of the key characters named "frank" and a supporting
+document named "frank001" [1]_.
+
+The next layer, that I don't have figured out is the "fictionalized"
+story that I'm writing. I want the document to have a lot of little
+scenes linked into the supporting documents and to the encyclopedic
+"articles." I don't have any notion of how to name these things. Here
+are my concerns:
+
+-  If I associate them with characters, how do I decide that X scene
+with 2 or 3 characters is associated with a particular character?
+*Particularly, in a way that will make sense to me in 6 weeks and 6
+years.*
+
+-  If this is the case, how do I distinguish in the namespace between
+supporting documents and fictionalized narratives?
+
+-  How do I give short meaningful names that are distinct and thus
+identify scenes but that have some sort of systematic scheme.
+Furthermore how maintain some sort of order without forcing them into
+a sequential order. Again, using the namespace. So we can't have
+scene001, scene002, and so forth.
+-  While I don't need the pages to be strictly ordered to reflect the
+linear story lines, there needs to be some way to organize/grep
+through the page titles. I'm thinking using the location titles as a
+way to organize that and then use hidden dotfiles to keep track of
+the story and the files for my own notes, and then integrate links to
+the scenes from other pages, using my notes, once I have more meat,
+as it were, lying around to work with, and there's a little bit of a
+Catch-22 here: you need data to play around and get a structure that
+makes sense, and it's also hard to write without that structure.
+
+I might have answered my question this is the problem of being an
+extrovert and a blogger: If you start a question for the crowd, by the
+end of your post you've probably answered it. I would still like input
+if you have it ;).
+
+.. [1]
+These names are mostly for my purposes of keeping the morass in
+order, and not the way that people will be interacting with these
+documents. This is important because I already have 20+ pages just
+with the initial structure, not yet counting much of the text.
+

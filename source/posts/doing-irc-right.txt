@@ -1,0 +1,104 @@
+===============
+Doing IRC right
+===============
+
+.. post:: 2008-07-17
+   :author: tychoish
+
+A couple of weeks ago (wow, it's been a couple of weeks!), a new
+`twitter <http://twitter.com/>`__-like service called
+`identi.ca <http://identi.ca/>`__ started up. It's open source, and
+incorporates a lot of "duh" features that twitter doesn't yet have, so
+I'm a fan in general, but I think it's doomed to fail ultimately because
+it doesn't have the community that twitter has--yet, and I don't think
+that it will, ever.
+
+With another new 140-character micro blogging service I had a series of
+conversations with `bear <http://code-bear.com/bearlog/>`__ about these
+kids of sites, the social niche that they occupy and the technology
+that's behind them.
+
+I should start by saying that I really like twitter, and I think that
+the ultra-short form totally has a niche. I think the problem with
+`identica <http://www.identica.com/>`__, which it inherited from
+twitter, is that their social plan is out of sync with their
+technological plan. [1]_
+
+Twitter has, of course, been plagued by horrible scaling problems. I
+think initially twitter expected everyone to *actually* answer the
+framing question "What are you doing?" So that each individual's stream
+would be like a more or less isolated "microblog." And their software
+was developed in this direction.
+
+And then "the community," happened, and it turns out that what people
+*really* want from their twitter-like services is not a place where they
+can record "what they're doing," but talk publicly with a group of
+friends.
+
+Enter the "fail whale:" the problem with this usage model is that people
+check it much more regularly, they update more regularly, and with the
+site not really built for this kind of usage, there are a lot of error
+messages, lost messages, and the like. While it's taken twitter a while
+to sort this out--and they are getting better--the problem remains that
+twitters users and twitters initial designers have/had two very
+different sites in mind. And because of the problems that twitter's had
+(and because of it's great success) there have been a lot of sites that
+basically duplicates twitters functionality.
+
+This is all fine and good *except* that the fact that twitter is the
+wrong thing to copy. My conclusion from the post-identi.ca-launch
+discussion was that, "the next twitter-like service to make it *isn't*
+going to get twitter right, for once and for all; but rather, the next
+twitter 'killer' will get
+`IRC <http://en.wikipedia.org/wiki/Internet_Relay_Chat>`__ right, at
+last."
+
+IRC is the original internet chat platform. It's not without it's
+problems, both social and technical. Basically you have to have a live
+connection to use IRC, there's no "offline." It also doesn't scale
+*much* more effectively than twitter, and there's no way to
+filter/organize the community on IRC except through really route
+tools[^socirc]. The really interesting thing is that people are more
+prone to using twitter like IRC, and less like blogger or live journal
+(which you have to imagine is what they thought that it would be like.)
+[^socirc]: The issue is that if a channel on IRC gets overridden with
+spam, or annoying people, or just volume, the only option is to start
+kicking people out, or to start a new channel, which can be sort of
+draconian.
+
+So what would "a better IRC be?" I don't know, I'm just a guy, right,
+but here's what I'd like to see:
+
+1.  Integration with the web in a way that doesn't suck. There have
+always been webapplets for IRC, but they have always sucked. This
+can't continue.
+2.  You shouldn't have to be online to record a conversation.
+3.  Unlike twitter, the offline apps need to be as good if not better
+than the web site.
+4.  Arbitrary rooms, "moments" and streams need to be constructed on the
+fly by users. The randomness of twitter is something new, that--now
+that we know it's there--is something we want.
+5.  Everyone should be able to intuitively construct filtering
+mechanisms.
+6.  Chat "moments" and cork-board "moments" should both be possible to
+construct, but
+7.  No one should have to think about the infrastructure (this is a
+problem for both IRC and twitter.)
+8.  Identity needs to be managed coherently.
+`Jabber <http://www.jabber.org/>`__/`XMPP <http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol>`__
+seems like an ideal tool for this project.
+9.  Also identitiy management and community organization seems like the
+"niche" for private enterprise to fill, rather than infrastructure,
+which I think can be decentralized.
+10. Threaded conversations. It's a must.
+
+Anyone have anything to add to this?
+
+Onward and `Upward <http://criticalfutures.com>`__!
+
+.. [1]
+In a way, I suspect this qualifies as "writing a job for yourself,"
+in to your analysis. My secret superpower, it seems is to look at
+what people are doing, and then talk to the engineers about the
+social realities. Any web 2.x people who want this, be in touch ;)
+

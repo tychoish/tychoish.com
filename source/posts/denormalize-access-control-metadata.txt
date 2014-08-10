@@ -1,0 +1,144 @@
+==========================
+Denormalize Access Control
+==========================
+
+.. post:: 2012-09-24
+   :author: tychoish
+   :tags: infrastructure, information-management, security
+
+Access control is both immensely useful and incredibly broken.
+
+Access control, or the ability to constrain access to data and programs
+in a shared system is the only way that we, as users of shared systems,
+can maintain our identities, personal security, and privacy. Shared
+systems include: databases, file servers, social networking sites,
+virtualized computing systems, vendor accounts, control panels,
+management tools, *and so forth* all need robust, flexible, granular,
+and scalable access control tools.
+
+Contemporary access control tools--access control lists (ACL,) and
+access control groups--indeed the entire conceptual framework for
+managing access to data and resources, don't work. From a theoretical
+practice, ACLs that express a relationship between *users* or *groups*
+of users and *data* or *resources*, represent a parsimonious solution to
+the "access control problem:" *if properly deployed* only those with
+access grants will have access to a given resource.
+
+In practice these these kinds of relationships do not work. Typically
+relationships between data and users is rich and complex and different
+users need to be able to do different things with different resources.
+Some users need "read only" access, others need partial read access,
+some need read and write access but only to a subset of a resource.
+While ACL systems can impose these kinds of restrictions, the access
+control abscration doesn't match the data abstraction *or* the
+real-world relationships that it supposedly reflects.
+
+Compounding this problem are two important factors:
+
+1. Access control needs change over time in response to social and
+cultural shifts among the users and providers of these resources.
+
+2. There are too many pieces of information or resources in any
+potential shared system to allocate access on a per-object or
+per-resource basis, and the volume of objects and resources is only
+increasing.
+
+Often many objects or resources have the same or similar access control
+patterns, which leads to the "group" abstraction. Groups make it
+possible to describe a specific access control pattern that apply to a
+number of objects, and connect this pattern with specific resources.
+
+Conceptual deficiencies:
+
+-  There's a volume problem. Access control data represents a
+many-to-many-to-many relationship. There are many different users and
+(nested) groups, many different kinds of access controls that systems
+can grant, and many different (nested) resources. This would be
+unmanageably complex without the possibility for nesting, but nesting
+means that the relationships between resources and between groups and
+users are also important. With the possibility for nesting access
+control is impossible.
+
+-  ACLs and group-based access control don't account for the fact that
+access must be constantly evolving, and current systems don't contain
+support for ongoing maintenance. (we need background threads that go
+through and validate access control consistency.) Also all access
+control grants must have some capacity for automatic expiration.
+
+-  Access control requirements and possibilities shift as data becomes
+more or less structured, and as data use patterns change. The same
+conceptual framework that works well for access control in the
+context of a the data stored in a relational database, doesn't work
+so when the data in question is a word processing document, an email
+folder, or a spread sheet.
+
+The fewer people that need access to a single piece of data, the easier
+the access control system can be. While this seems self evident, it also
+means that access control systems are difficult to test in the really
+large complex systems in which they're used.
+
+-  Group-based access control systems, in effect, normalize data about
+access control, in an effort to speed up data access times. While
+this performance is welcome, in most cases granting access via groups
+leads to an overly liberal distribution of access control rights. At
+once, its too difficult to understand "who has access to what" and
+too easy to add people to groups that give them more access than they
+need.
+
+So the solution:
+
+1. **Denormalize all access control data,**
+
+2. *don't grant access to groups,* and
+
+3. *forbid inheritance.*
+
+This is totally counter to the state of the art. In most ways,
+normalized access control data, with role/group-based access control,
+and complex inheritance are the gold standard. Why would it work?
+
+-  If you have a piece of data, you will always be able to determine who
+has access to data, without needing to do another look-up.
+
+-  If you can deactivate credentials, then a background process can go
+through and remove access without causing a large security problem.
+(For partial removes, you would freeze an account, let the background
+process modify access control and then unfreeze the account.)
+
+The down side is that, potentially, in a large system, it may take a
+rather long time for access grants to propagate to users. Locking user
+accounts makes the system secure/viable, but doesn't make the process
+any more quick.
+
+As an added bonus, these processes could probably be independent and
+wouldn't require any sort of shared state or lock, which means many such
+operation could run in parallel, and they could stop and restart at
+will.
+
+-  The inheritance option should be fuzzy. Some sort of "bucket-based"
+access control should be possible, if there's a lot of data with the
+same access control rules and users.
+
+Once things get more complex, buckets are the wrong metaphor, you should
+use granular controls everywhere.
+
+Problems/Conclusion:
+
+-  Denormalization might fix the problems with ACLs and permissions
+systems, but it doesn't fix the problems with distributed identity
+management.
+
+As a counterpoint, this seems like a cryptography management problem.
+
+-  Storing access control information *with* data means that it's
+difficult to take a user and return a list of what these credentials
+have access to.
+
+In truth, centralized ACL systems are subject to this flaw as well.
+
+-  A huge part of the problem with centralized ACL derives from nesting,
+and the fact that we tend to model/organize data in tree-like
+structures, that often run counter to the organization of access
+control rights. As a result access control tools must be arbitrary.
+
+

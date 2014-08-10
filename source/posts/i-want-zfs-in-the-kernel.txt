@@ -1,0 +1,72 @@
+========================
+I want ZFS in the Kernel
+========================
+
+.. post:: 2010-04-21
+   :author: tychoish
+   :tags: file-systems, linux
+
+The background:
+
+Sun Microsystems developed this file system called "ZFS," which is
+exceptionally awesome in it's capabilities and possibilities. The
+problem, is that it was developed and released as part of the Open
+Solaris project which has a licensing incompatibility with the Linux
+Kernel. Both are open source, but there is a technical (and not all
+together uncommon) conflict in the terms of the license that makes it
+possible to combine code from both licenses in a single executable.
+
+Basically the GPL, under which the Linux Kernel is distributed, says if
+you distribute a binary (executable) under the terms of the GPL, the
+source code is *all files that you used to make that binary*. By
+contrast ZFS's license says "here are all the files that we used to make
+this binary, if you change them when you make your binary and give that
+binary to other people you have to give them, but if you add additional
+files, you don't have to give those out to people."
+
+Apparently the idea behind the ZFS license (i.e. the CDDL, and the MPL
+from whence it originated,) is that it allows for easier embedding of
+ZFS (and other technologies) in proprietary code because the resulting
+binary isn't list covered by the CDDL in most cases. Even though the
+CDDL is incredibly confusing, apparently it's more "business friendly,"
+but I diverge from my original point.
+
+And so if Linux users want to run ZFS, they have to run it as a
+user-space process (i.e. not in the kernel,) which is suboptimal, or
+they have to run Solaris in a vitalized environment (difficult,) or
+*something*. There's also a ZFS-like file system called "btrfs," which
+can be included in the kernel (interestingly, developed by Oracle who of
+course now own ZFS itself,) but it is not production ready.
+
+What I'm about to propose is an end run around the GPL. Because it seems
+to me that combining the source code violates neither license,
+distributing source code violates no license. Compiling the source code
+for your own use violates no license. I mean it's annoying and would
+require a bit of bootstrapping to get a Linux+zfs system up and running,
+but this is the kind of thing that `Gentoo
+Linux <http://www.gentoo.org/>`__ users do all the time, and isn't a
+huge technological barrier.
+
+It feels a bit creepy of course. but I think it works. The logic has
+also been used before. We'll call it the "PGP loophole."
+
+PGP is an encryption system that's *damn good* so good in fact, that
+when it was first released, there were export restrictions on the source
+code because it qualified as military-grade munitions in America. Source
+code. How peculiar. In any case there were lawsuits, and PGP source was
+released outside of America by printing it in a *book.* Which could be
+disassembled and scanned into a computer and then compiled. Books were
+never and--as far as I know--are not classified as munitions, and so
+they could be exported. Of course I'm not a lawyer, but it strikes me
+that linux+zfs and PGP in the 90's may be in analogous situations.
+
+And I think, because this proposal centers around the distribution of
+source code *and only source code* this kind of distribution is fully
+within the spirit of free software. Sure it's pretty easy, even for the
+"good guys," to run a foul by distributing a binary, but this would be
+easy to spot, and there are already suitable enforcement mechanisms in
+place, for the Linux kernel generally, and Oracle's legal department
+which we can assume will take care of itself.
+
+Or Oracle could release ZFS under GPL. Either solution works for me.
+

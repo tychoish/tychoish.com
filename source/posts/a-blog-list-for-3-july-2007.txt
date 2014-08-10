@@ -1,0 +1,79 @@
+===========================
+a blog list for 3 July 2007
+===========================
+
+.. post:: 2007-07-03
+   :author: tychoish
+
+Title: Listing Instead of Blogging
+
+Ok, so with `TealArt <http://tychoish.com>`__ broken for the present
+interval, (they say it should be working soon, but who knows,) [1]_ I'm
+going to turn back to blogging here. It's interesting, the lack of the
+blog, or at least the possibility of having a blog around drove me kind
+of batty. And frankly sucked some of the wind out of the launch, such as
+it was, of `tychoish.com <http://tychoish.com>`__.
+
+In lieu of a proper blog entry I present to you a list.
+
+- I continue to be quite enamored of
+  `TextMate <http://macromates.com/>`__. It's like *the* app to
+  beat/use. Someday I'd like to have a firmer grasp of vim, but for
+  now. TM all the way.
+
+- I sort of jury-rigged a script thing for work using a Macro (which
+  suprisingly enough I'd never done) a (**very simple**) `regular
+  expression <http://en.wikipedia.org/wiki/Regular_expression>`__ and
+  TextMate that saved me probably hours of my time. So I'm pretty
+  happy.
+
+- I need/want to find some way to set up and start using an off site
+  `subversion <http://subversion.tigris.org/>`__ repository for all of
+  my most important text files and what not. I have some learning to do
+  on the subject, but this kind of things needs to happen.
+
+- I'm running off to knitting camp on thursday, it's going to be
+  *awesome*, and I'll try to blog about it. Here, if not on
+  TealArt. [2]_
+
+- I'm going to have a post on
+  `Zimmermania <http://zimmermaniacs.blogspot.com/>`__ tomorrow
+  morning.
+
+- I had a really encouraging conversation with the editor of another
+  group blog. I might be able to blather somewhere else soon!
+
+- I'm starting to get into the zen of my job, and while I think its
+  still a deeply weird experience that I suspect will provide plenty of
+  writing material for the rest of my life. But that's how I tend to
+  think of summer activities.
+   
+At this point in my writing of this list, TealArt has returned. I think
+my plain is: put up my monday post with an adendum tonight, station
+keeping tomorrow, knitting pictures on thursday, and Deleuze on friday,
+and we'll return to our regularly scheduled program next week.
+
+- I still want to write that Gatsby take off that I was thinking about
+  last summer.
+
+- My knitting for this weekend is almost done. The bottom part of a
+  sleeve (the faster part), another 2 rounds on the body of a sweater,
+  and some work on an all new sweater just for fun.
+
+- I've realized that very shortly I'm going to have a lot of sleeves to
+  knit. I hate knitting sleeves in the summer.
+
+- I remain pretty freaked out about next year, and what with it being
+  july, I think that I need to focus more on this. Sigh. Denial is
+  kicking out.
+
+- We'll be in touch, I'll be blogging throughout tomorrow.
+
+.. [1] Frankly I think it's kind of weird that tychoish.com works and
+   tealart.com doesn't. There's not a lot of good reason as to why this
+   should be the case. Nevertheless, I will take what I can get.
+
+.. [2] If any of you are worried that my acquisition of another domain will
+   in some way affect my participation in TealArt, fear not, its being
+   down is a definite drain, and I'm very anxious to get it back.
+

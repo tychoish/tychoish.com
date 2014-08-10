@@ -1,0 +1,62 @@
+=======
+OS Wars
+=======
+
+.. post:: 2007-11-29
+   :author: tychoish
+
+Lest you think this is yet another mac versus linux versus windows
+versus OS/2 Warp FreeBSD post, it's really about moves to "Operating
+Systems," that exist within programs, not operating systems in the
+classic sense.
+
+--------------
+
+So I posted a while back about how there seems to be an `application
+development trend <http://tychoish.com/rhizome/browseros/>`__ away from
+desktop operating systems and towards developing applications that can
+be used online in a web browser.
+
+Basically I thought that though exciting, a lot of these apps were slow,
+hard to use, and that truth be told most browsing software was flawed
+(slow, non-standardized,) and so forth. Despite the fact that there's
+more bandwidth floating around and the fact that people have gotten
+better at writing server side and host side applications.
+
+Also earlier I posted a, mostly comical, list of five things that you
+can do in emacs but probably shouldn't. To subtitle this a little bit,
+emacs is one of the grand old text editors, written around a program
+language from the 50s (LISP), it's incredibly powerful, customizable
+program, it's free, and it's a program that a lot of the people who
+write programs use. So even though, the best word I have to describe it
+is *absurd*, it gets a lot of attention. Anyway, long story short,
+people have written extensions (in
+`LISP <http://en.wikipedia.org/wiki/Lisp_(programming_language)>`__!)
+that gets emacs to do all sorts of things in addition to writing
+text/code. Like, there are scripts to check your email in emacs, games
+that you can play in emacs, scripts that fetch web pages in emacs, IRC
+clients that run inside of emacs, and so forth. If I were a huge enough
+dork, I think actually I could probably get some of the functionality of
+every program I'm running at this moment, as a script inside of emacs.
+
+I hope you're seeing where this is going, at least a lot faster than I
+did. While I'm not a huge emacs dweeb, I have a certain sort of respect
+for working that way: once you learn your text editing system (and after
+all, most of what we do is edit text) you don't want to move out of this
+environment. Particularly if there's a learning curve as steep as emacs.
+
+Initially I thought that the shift towards using the web browser as a
+sort of lack luster runtime for "new" applications, was about lazy
+programers, and a sort of mass delusion, but really, I think it has more
+to do with people not wanting to leave their comfort zone, the
+application that they already spend a lot of time in, in the same way
+that *urdweebs* don't want to leave emacs (or vim, and so forth.)
+
+Anyway, it's cool that clicked, I'm back to figuring out how to install
+`mutt on OS X <http://linsec.ca/Using_mutt_on_OS_X>`__ so I can more
+automatically integrate my mail drafting into TextMate, and be done with
+Mail.app for once and for all. Maybe after I'm done with the semester.
+Heh.
+
+Onward and Upward
+

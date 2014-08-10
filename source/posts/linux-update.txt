@@ -1,0 +1,46 @@
+============
+Linux Update
+============
+
+.. post:: 2008-10-20
+   :author: tychoish
+
+So I, um, bought a computer last Friday.
+
+People who followed the lead up to the purchase of my current
+computer--which took six months, or a year depending on who you
+ask--will be surprised that this happened so quickly.
+
+For a while now I've wanted to have a computer that would be able to
+always be on so that I could download big files when I needed to without
+needing to fuss with making sure that my laptop could be on all night,
+or similar such concerns. I wanted to have a computer that I could add
+cheap drives to as needed. I want to be able to have a computer
+connected to a couple of IRC channels without needing to worry about my
+computer dropping on and off-line constantly (which is a politeness that
+I worry about.)
+
+The thing is that it never seemed feasible. Macs are expensive
+computers, and this wasn't a premium sort of use case. For many years of
+my life I was *really* mobile and having a desktop computer never made
+much sense. Now that this new job has started to settle down, and as
+I've gotten more into linux, it's becoming more and more clear that
+having a desktop computer with lots of screen space is going to be
+really valuable to me in this next stage anyway, and the truth is that I
+spend a good deal of my computing time (with my laptop) at my desk, so a
+desktop made a lot of sense.
+
+And with this growing interest in open source
+technology/community/history it makes a lot of sense to gather some
+greater familiarity with the environment. So between the new usage
+profile, the fact that the hardware isn't nearly as expensive in
+practice, and the fact that having a linux box would be a good
+ethnographic experience, I just hunkered down and bought it, after only
+a few weeks of dithering on the subject. I even splurged and got a
+second monitor so that I could run dual monitors, even so it cost less
+than the souped up MiniMac (which is sans monitor). I'm psyched.
+
+While I'll spare you the unboxing photos, I think its highly likely that
+I'll be writing about my experiences with this new computer as I settle
+in. Stay tuned...
+

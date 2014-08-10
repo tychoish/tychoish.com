@@ -1,0 +1,105 @@
+====================================
+adventures in systems administration
+====================================
+
+.. post:: 2009-05-26
+   :author: tychoish
+   :tags: update, technology, open-source
+
+I'm beginning to write this in the evening after a long day of system
+administration work. For birthday (though, really, it's been on my todo
+list for a long time), I ordered and set up a server from `these fine
+folks <http://www.linode.com>`__ to serve as the technological hub of my
+activities. While I've been quite fond of `those fine
+folks <http://www.dreamhost.com/>`__ for quite a long time, there was a
+growing list of things that I always wished worked better with
+dreamhost, and it was finally starting to limit the kinds of projects I
+could undertake in. So I bit the bullet and went ahead and ordered the
+server and spent some time getting everything straightened out.
+
+For some background: the server is just an instance running inside of a
+Xen hypervisor, which runs other servers together on the same hardware:
+this is good, I couldn't really use a server *that* powerful all by my
+lonesome (and I wouldn't want to have to pay for it all either). It's
+also way more powerful that what I had before, and the vitalization
+allows me to act with impunity, because it's as if I'm running my own
+server, really. I've been doing computer administration and web
+development for a long time, but I've never had to do anything like this
+so it's been an experience to learn how DNS records really work, how all
+the different kinds of server applications work, how really cool the
+Apache web server really is. It's a great learning experience, and I
+think it would be prudent (and potentially helpful for you) to reflect
+on the experience. So here are my notes on the adventure:
+
+-  I've been running Ubuntu on my personal/desktop machines since the
+great Linux switch, and I've been pretty pleased with it. Not totally
+wowed by it: it works, but my tendencies are toward the more
+minimal/lightweight systems. But more than anything, I'm really drawn
+to systems that *just work* more than I am to systems that *work
+perfectly*, and I'm pretty good at keeping systems working. In 5
+years of OS X usage I installed an OS twice, and since I got things
+stable and running, the only installations I've done have been to put
+ubuntu on new machines.
+
+In any case, this server was a chance for me really explore debian
+stable (lenny), which I hadn't ever done before. It's so cool. It's not
+sexy or daring or anything but in a server you don't want that, and it
+just works. I think it probably also helps matters somewhat lenny was
+released only a few months ago, rather than nearly two years ago, but in
+any case I'm quite enamored of how well it works.
+
+-  Email is much more complicated than I think any of us really give it
+credit for. There's all sorts of complicated mess with regards to how
+DNS servers identify mail servers to help fight spam, and then
+there's all the filtering and sorting business, and even the "modern"
+email servers are a bit long in the tooth. I hope that it's a "set it
+and forget about it" sort of thing, though to be truthful I just got
+it all running and set up initially, but there's a lot of further
+setup to do, before I move it all around.
+
+-  I'm pretty proud of the fact that as i was going thought the set up
+process, I go to the point where it said "ok, now set up the FTP
+server, and I said 'meh' and moved around." Turns out that I can do
+everything I need to do in terms of getting files onto the server
+with git/scp/ssh/rsync and FTP is just lame and old. Welcome to the
+new world, where file transfers are shorter, versioned, and more
+secure.
+
+This isn't particularly new, I couldn't tell you the last time I used
+FTP, but I think this represents both the utility in moving to a "real
+server," and a larger shift in the way we think about webservers. FTP
+assumes that the main purpose of the webserver is to store and serve
+files. the ssh/rsync/git model assumes that your webserver exists to be
+"your computer in the sky." Which it is. We interact with the computers
+on our desks in really complex ways; there's no reason to interact with
+our computers in the sky by just copying files to and from it.
+
+-  I'm convinced that systems-administration work will increasingly be
+the "hard currency" (basis for exchange) for the networked computing
+age. It's sort of onerous work, there are skills and knowledge that
+most people who need network service don't have and don't need to
+have, there are actual costs, the need is ongoing, and success is
+quantifiable.
+
+There's definitely space here for people (like me, and others) to
+provide these kinds of services to people. Sort of "boutique" style.
+Clearly I have more to learn and more thinking to do on the subject, but
+it's a start.
+
+-  Ejabberd is peculiar, and the Debian package is... less than ideal. I
+knew going in that there was a "web administration" interface which
+sounds cool until you realize that, it's... not an administration
+panel as much as it is a sort of "web dashboard." You still have to
+tweak the configuration file which is written in Erlang, and wow.
+That's pain right there.
+
+Having said that, it seems to work just fine, without much fussing, and
+I'm want the jabber-server to do a very limited set of things: host my
+own IM account and transports; host muc-chats (created by me); and
+that's about it. I'm a bit worried that it might be a bit too heavy for
+this.
+
+--------------
+
+That's about all. More to come, I'm sure.
+

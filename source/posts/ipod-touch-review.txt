@@ -1,0 +1,106 @@
+=================
+iPod Touch Review
+=================
+
+.. post:: 2008-08-05
+   :author: tychoish
+
+I have `amazon
+kindle <http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA/tychoish-20>`__
+envy, I'm not going to lie. I've `written about the
+kindle <http://tychoish.com/rhizome/digital-distrobution/>`__ before,
+and I don't think my opinion has changed that much: it's a great idea,
+and with some changes it could be *really* amazing. I'm not going to get
+one of course: between the ugly, the price tag, the price scheme for the
+books, and the DRM there doesn't seem to be much reason. I still have
+envy.
+
+This abated this past week when I *figured out* the iPod Touch. When I
+got my new computer lo these many weeks ago, I got an ipod touch,
+because apple was/is running a promotion for student types (which I
+still qualify as). 100 Bucks for 16 gbs of flash memory, is a pretty
+good deal, all things considered. But I had no clue how to use it.
+\*This is a common problem with new technology/devices, it looks great
+and we can **feel** that it's going to be useful but until it we fit it
+into our workflow, it's virtually useless.
+
+Basically when I got this ipod, [1]_ I fooled around with it for a
+while, set it up to sync a bunch of stuff included my "oft
+listening/hits" playlists, a bunch of podcasts and videos, and sort of
+left it at that.
+
+Now I have an older 80gb ipod, that I typically use constantly. It has
+all my music that I care to listen to, enough podcasts to keep me busy
+for months, and I really like it. I didn't and still don't really need
+another iPod, so this *thing* didn't do me a lot of good.
+
+And then I got the 2.0 firmware, and a program called
+`stanza <http://www.lexcycle.com/>`__, and
+`evernote <http://evernote.com/>`__ (though to be fair, I mostly just
+look at evernote) I took almost all of the music off, and suddenly I
+have a really amazing device that serves a pretty useful niche, and now
+I don't have kindle envy any more.
+
+Here's what I love about the touch:
+
+-  It's incredibly tiny. The screen is big, but it's in a super thin
+package. Back in the day I had PDAs which were bulky and huge and
+just as hard to get data into, but they weren't "slip into the back
+pocket" kind of things. I could have a stack of five ipod touches for
+the size of one Palm 3.
+
+-  It's incredibly sturdy. PDAs of old were plastic affairs, with
+finicky touch screens. This thing has a metal back and it feels
+sturdy, which means a lot.
+
+-  The software is robust. I think users can really respect and enjoy
+the fact that the software that runs on this platform is basically
+the same as the software that runs on Mac desktop. The developers
+know how to write the programs already, and the programs work and
+feel like the best desktop apps from the get go.
+
+-  All the best apps have syncing built in, and are focused around
+moving your data from ipod to the cloud to your computer. This is
+cool because it's not the kind of thing where you sync the whole
+system and hope for the best, a la windows mobile and active sync,
+but you have a lot of control over what syncs and when. With the
+built in WiFi, it's fast and independent. Can't argue with that.
+
+-  The ebook reading program has great library support a good (mac only)
+converter, and the interface is nearly perfect (if a bit slow).
+
+What I don't like:
+
+-  It doesn't have bluetooth. I'd love to be able to do away with the
+sync cable, and be able to selectively sync things over the air. This
+also opens up the possibility for more sophisticated input methods.
+
+-  The ebook reader seems to have to recomplie/reflow the entire book
+every time you change the orientation of the device, or load a new
+book. This is painfully slow, and pretty unnecessary.
+
+-  Cut and Paste.
+
+-  I want there to be a text editor that uses a git repo as a file
+system. This is a pipe dream, I suppose.
+
+I guess the biggest thing that I learned is that as an ipod this thing
+kind of sucks. Most of the time when I'm using an ipod I want the
+ability to change the volume/track without looking, which is damn hard
+with the touch. The solution? Don't put music on this device. Also, I
+think having more music on an ipod makes the "random" work better. The
+end result is that I sync the touch every day or two and I almost never
+sync the big ipod, and it all works great. I can imagine, if I had an
+iphone and a live connection all the time, that I would never really
+sync it to a computer.
+
+Thoughts? Does anyone else have one of these? I realize that stanza
+makes a pretty weird killer app, so does anyone else have something
+better?
+
+Onward and `Upward <http://criticalfutures.com>`__!
+
+.. [1]
+I should point out that I got the ipod touch before the 2.0 firmware
+was available so that might have hindered my process a bit.
+

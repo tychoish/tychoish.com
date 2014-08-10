@@ -1,0 +1,30 @@
+============
+Work Logging
+============
+
+.. post:: 2012-08-19
+   :author: tychoish
+   :tags: productivity
+
+`Joey Hess' blog of his work on
+git-annex-assitant <http://git-annex.branchable.com/design/assistant/blog/>`__
+has been a great inspiration to me. Basically, Joey had a very
+successful Kickstarter campaign to fund his work on a very cool tool of
+his that he wants to expand to be a kind of drop-box replacement. As
+part of the project, he's been blogging nearly every day about the work,
+his progress, and the problems he's faced.
+
+I really admire this kind of note taking, and think it's really
+interesting to see how people progress on cool projects. More than that,
+I think it's a cool way to make yourself accountable to the world, and
+help ensure things get done.
+
+By the same token, when your project work is writing, increasing daily
+workload by writing notes/posts rather than actually doing work is a
+problem, on the other hand, given the right kind of templates, and a
+good end of day habit, it might be easy and a good habit.
+
+Anyone else interested in this? Thoughts on using [[rhizome]] versus
+some other area of `tychoish.com <http://tychoish.com/>`__? So many
+choices!
+

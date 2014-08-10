@@ -1,0 +1,41 @@
+===================
+Grasping For Straws
+===================
+
+.. post:: 2009-05-02
+   :author: tychoish
+   :tags: update
+
+At the time of writing, I've been going through a rough spot in my
+(day-to-day) travels and have had some trouble focusing on writing
+things. I suspect it will pass, but as I've been going through my todo
+list and my brain for things to write about, in the mean time I've noted
+something of a pattern in the way that I lead in my blog posts.
+
+Even though I read something a few years ago that said, basically, the
+way to be successful at blogging is to write your posts like newspaper
+articles: strong lead, details to follow, everything but elaboration in
+the first paragraph. The thought is that this style of writing is the
+most effective way to reach people and hook them into what you're
+saying. Expecting reader efficiency. It's a good idea.
+
+I'm remarkably bad at this. I blog like I talk, I fear, and so my posts
+are often bottom heavy and meander around to the point. I know my flaws.
+
+In any case, I think I've uncovered a (small) list tropes for the way
+that I begin posts:
+
+-  I mention that something has been on my todo list and then write
+about something that's tangentially related.
+
+-  I tell some sort of semi-funny, self deprecating introductory story,
+and get to the point at the beginning of the second paragraph.
+
+-  I talk about previous posts that serve as background to the post that
+I'm writing now. May or may not include links.
+
+-  Some sort of abrupt but not all together straight forward beginning,
+eg. "So I was thinking that..."
+
+Did I miss any?
+

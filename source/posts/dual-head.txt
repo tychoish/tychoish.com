@@ -1,0 +1,78 @@
+===============
+Dual Head Setup
+===============
+
+.. post:: 2009-02-17
+   :author: tychoish
+   :tags: technology, cyborg
+
+Before I made the switch to linux, my only computer was a single
+macbook. Great machine, and in addition to not being able to (really)
+use `Awesome <http://awesome.naquadah.org/>`__, I was pretty frustrated
+by the lack of screen space. I was (and do) need to filter through lots
+of different kinds of documents and I felt like I was spending half my
+time sorting through any of the several dozen (!) windows that I kept
+open. As a result one of my chief requirements for the new system was
+having the ability to run a 2 monitor (dual head) setup.[^DH] I was even
+willing to sacrifice [1]_ some raw power for this.
+
+So here I was with a dual head setup, and a sort of lackluster idea of
+how to use all this new space, aside from the visceral knowledge that
+needed *more room*. I've tried `a few
+things <http://tychoish.com/rhizome/n-plus-one/>`__ to try and use the
+space, but I continue to feel as if I haven't found the *right* way to
+use this space.
+
+I should preface this by saying a word about `my window management
+software <http://awesome.naquadah.org>`__: it revolves around the notion
+of "tags," which are similar to virtual desktops, so while I only look
+at 1-5 windows on each monitor there are many more than 5 windows open
+and running at anyone time.
+
+My first attempt was to create task-centric virtual desktops, so that
+there were tags for windows that had to do with work, tags that had to
+do with fiction writing, tags for browsing the web, tags for chatting,
+tags for interacting with the system and so forth. This was an epic
+failure, as the joys of a multi-tasking operating system are that they
+allow you to have a number of different processes running in parallel,
+and if you have you window manager setup to constrain your to one task
+per screen then you've basically shackled your computer into only being
+able to do two things at once. Which is both distracting (as you end up
+hiding needed windows, or disregarding the established tagging systems.
+I also found that in an attempt to use both windows, I ended up using
+the middle half of each monitor more than I used the outer half.
+
+My second attempt was to have a primary/secondary monitor setup, with my
+keyboard in front of the left screen which had most "action" related
+tasks (writing, email, etc.) and the right screen was for reference
+materials (web, chat, pdfs, etc,) and I've tried both organizing tags
+based on task/sphere, and also based on window type (so that "work"
+happened in more ad-hoc spaces). Neither works particularly well.
+
+My current attempt is still largely based on the main/reference mode of
+operation, except I've made things a bunch less rigid, and mixed things
+up a bit to see if this makes things a bit easier to work with. I have
+background processes on the left monitors: email, web, file management
+on the left; org-mode files, and chat on the right. And then, I have
+writing spaces and adhoc workspaces on the left, with work and some
+project-specific workspaces on the right.
+
+I'm not sure that this is the best thing. There's a `dynamic
+workspace/window tagging
+library <http://awesome.naquadah.org/wiki/index.php?title=Shifty>`__,
+but I haven't really tried it out, and I want to test things out on the
+laptop (one screen) first.
+
+There's got to be a better way of doing this. On one level this is a
+problem of riches, (how do I use all this space I have), but on another
+it's a much more simple problem that addresses focus and the way that we
+present/organize information on our screens Thoughts?
+
+Onward and Upward?
+
+.. [1]
+It turns out that monitors these days cost a quarter of what they
+cost 5 years ago. In point of fact I was able to get both monitors
+*and* a new computer for what a single LCD cost the last time I had a
+desktop computer. Imagine that.
+

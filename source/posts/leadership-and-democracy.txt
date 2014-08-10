@@ -1,0 +1,106 @@
+========================
+Leadership and Democracy
+========================
+
+.. post:: 2008-04-25
+   :author: tychoish
+
+I was listening to `FLOSS Weekly <http://www.twit.tv/FLOSS>`__ this week
+as I was running about, and there was a bit in one of the episodes about
+leadership and organization of open source projects.
+
+Not being much of a programer *at all*--but being very interested in,
+for lack of a better term, the anthropology [1]_ of open source
+projects--this sparked a larger interest. Lets back up for a moment.
+
+Some of the larger (and apparently smaller ones as well?) open source
+projects like Perl, Python, and the Linux Kernel are lead by sort of
+"benevolent dictator," types who guide development, make decisions about
+release dates, provide vision, and are generally responsible for some
+major part of the code. [2]_ These are typically the people that started
+the project, though I think there are some second/next generation
+leaders of projects, (Matt Mullenweg of WordPress [3]_ for one.)
+
+And this is interesting, because we generally think of open source as
+being this incredibly democratic space where users and developers can
+all sit on the same level and say "this is what I think," and have their
+voices heard. [4]_ Right? I mean isn't being able to shape the direction
+and tools of your (technological) experience, sort of what democracy (in
+this sphere) is about?
+
+Of course it is. Democracy isn't about voting and contentious power
+struggles with small margins, democracy is about a group of people
+making it possible for different perspective to be heard. So to put it
+in parliamentary terms: it's the debate/discussion, not the vote that
+matters.
+
+And here you thought I was going to post something about the current
+american political debacle? Pass. Not because I don't have opinions (I
+do,) or because it's not fascinating (it is,) but because *there's
+absolutely nothing to say.* That kind of "democracy," isn't by this
+definition particularly democratic and doesn't have as much impact on
+the way we live our lives as the other kinds of "micro-political"
+democracies that we are constantly participating in. Many kinds of work
+environments are democratic in this way, after a fashion, and many other
+small groups, like dancing, craft-related, not for profits, grassroots
+organizations, have strong (and potentially static) leadership and
+vibrant discussion, which nets a very democratic result.
+
+I think this is a continuation of some of my earlier postings on open
+source, but I think will also be part of a new (irregular) series of
+posts on leadership, because there's so much to talk about and so little
+room (and time.)
+
+I think the major ideas that are running through my head are:
+
+-  the difference between power and leadership
+-  how democracies scale up and scale down to different group sizes.
+-  the symbols associated with democracy, and the power of those symbols
+(maybe this could develop into a post for `the theory
+blog <http://www.theorysmucks.com/>`__, nu?)
+
+I really enjoy thinking (and talking!) about these sorts of *political*
+notions, but I'm always disappointed by the shape that most "political
+discussions" take. So here's my attempt to take back the night and start
+a more frank (and productive discussion.) What's leadership to you, and
+what kinds of successes and failures do you all see in your own
+microdemocraies? [5]_
+
+So, anyway, think about that, I look forward to hearing from you, and
+there'll be more knitting content soon; I promise.
+
+.. [1]
+I suppose this could be the sociology of open source, I'm
+uncommitted, particularly at the moment, on the subject. I'm just
+interested--idly mostly--in how these communities organize and
+motivate themselves. With some exceptions this kind of organizational
+structure isn't really supposed to work, but is so clearly does. It's
+not my *thing*, but it's interesting.
+
+.. [2]
+They said that these were all "first name people," as they're really
+well known, and generally pretty well liked in the community, and
+thus refered to only by their first names. eg, "Lary," "Guido," and
+"Linus."
+
+.. [3]
+He'd be a good one for FLOSS Weekly. Hrm.
+
+.. [4]
+I think your chances of being able to get mysql to add/support a new
+feature that you want (even if you have to write it yourself) is
+light years beyond the chances of getting Oracle, for instance, to
+add the new feature.
+
+.. [5]
+So, one thing that I want to squash immediately is a discussion of
+interpersonal drama, which though often political in content,
+particularly in numerically small groups is not particularly
+political in nature. For instance, the rumor is that there's
+generally a lot of "kernel politics," and drama in the linux kernel
+development (and other sorts of drama in other parts of the linux
+world,) and while this *might* be a product of these communities
+growing too large or of weak(er) leadership than is required, it's
+probably the case that this kind of drama is a byproduct of
+"community" rathe than the byproduct of any particular organization.
+

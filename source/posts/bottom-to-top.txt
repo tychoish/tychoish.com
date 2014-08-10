@@ -1,0 +1,64 @@
+=============
+Bottom to Top
+=============
+
+.. post:: 2007-09-27
+   :author: tychoish
+
+I was listening today, as I am wont to do to an old addition of the
+Boing Boing Boing, a podcast from the editors of Boing Boing. It's good
+stuff, and even though it's not relevant to the news of the day, I
+usually don't care. So `the guy they were talking
+to <http://www.boingboing.net/2006/10/18/steven-johnsons-new-.html>`__,
+wrote a book on the 1854 Cholera Epidemic, which is interesting, but his
+previous work is on dynamic systems theory--more or less.
+
+So here's the interesting thing. In systems work on cities, the sort of
+"cutting edge" as it were is analyzing the bottom up
+stuff--neighborhoods, informal communities that build around places like
+playgrounds, schools, and market places, and other contact [1]_
+interactions--rather than top down stuff like governments and cultural
+factors. (Sorry about that sentence folks!)
+
+In cognitive psychology, the more cutting edge models, the ones that
+probably do the best to explain psychological reality are the top-down
+ones. They're epistemologically difficult because it's hard to isolate
+variables in top-down systems, but the bottom up systems don't tend to
+scale well [2]_, and don't mirror some key experiences. Clearly both
+have to work at the same time (and most cognitive systems include a
+black box, to be fair) so there's a lot left to be discovered.
+
+I guess what this post is all about is the fact that I never really
+thought to take cognitive-style systems theory out of the mind, nor did
+I think that when I did, the "radical" positions would be reversed. Part
+of the issue is that psychology has always been a very bottom-up field,
+Wundt was a bottom uper and Skinner was the very picture of a
+bottom-upper. [3]_
+
+The key part of the distinction between top-down and bottom-up is what
+you take for the unit in the system, of course. Chunks of information in
+your mind, is way different that a person in a city, or a city block on
+the city, or an IRC channel online.
+
+Anyway. That's what I've been crunching through. Hope you're interested.
+
+.. [1]
+To borrow a model from Samuel Delany's *Times Square Red: Times
+Square Blue*. Contact is the random, unplanned interactions that
+happen as a result of urban living, and is in contrast to
+"networking," which is a goal-based social activity designed to
+further specific goals in specific situations.
+
+.. [2]
+Bottom up explanations tend to work best when you have cognitive
+systems that work on very simple kinds of problems, and very simple
+inputs. When you get into "real" life situations its hard to imagine
+that even the brain in all it's glory, can parse everything that it
+needs to.
+
+.. [3]
+...And if you leave out *Totem and Taboo* and *Civilization and it's
+Discontents*, you could probably make the argument that Freud's work
+was bottom-up for the most part. But I don't know if that's even
+worthwhile.
+

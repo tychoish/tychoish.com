@@ -1,0 +1,27 @@
+=======================
+Mail.app Export in OS X
+=======================
+
+.. post:: 2007-09-11
+   :author: tychoish
+
+Do any of you, wise readers, have a good program that will take a bunch
+of messages in a mail.app mailbox and export them to a plain text file.
+I want to be able to take a lot of the messages that I don't use most of
+the time, and be able to back them up, and also grep through them,
+without having them clog up my mail program.
+
+I want something that will export headers and everything, and that will
+make one long text file rather than 10,000 separate files.
+
+I have spent a little bit of time today, deleting messages that I don't
+want to archive and getting my mail program organized in a more coherent
+way. I'm down from about 25 mailboxes and 20 rules, to about 13 rules
+and 15 mail boxes. This is an improvement. I also only have four emails
+in my inbox, which is also an improvment from my usual number around 20.
+
+But I should be doing other things.
+
+Also, somehow, I have a working onsite subversion repository. How'd that
+happen?
+

@@ -1,0 +1,88 @@
+=======================
+Weekend Accomplishments
+=======================
+
+.. post:: 2013-05-05
+   :author: tychoish
+
+(**Note**: *Because I'm terrible at remembering to post entries during
+the week, this post is actually from last week. But it's still
+interesting!*)
+
+The past few weeks have been somewhat disjointed for me. I'd been
+working a lot to wrap up a long expected release, followed by a vacation
+without a project plan, and a few more busy weeks. On top of this, I
+spent a bunch of time working on wrapping up, or at least releasing a
+few personal project to assuage some guilt.
+
+After all that, I found myself at loose ends: I didn't have new projects
+because I hadn't had enough time to think about them or more importantly
+I was so interested in finishing something that I'd been trying to
+suppress thinking about new projects.
+
+Well that was a great idea. Not. Now, finally after spending too long
+lolling about and trying to restart the creative (and project planning)
+engines, I've actually done some things:
+
+RstCloth
+--------
+
+Basically this the first break at a very *very* simple API for
+generating
+`reStructuredText <http://docutils.sourcpeforge.net/rst.html>`__. It's
+modeled on the interface for my
+`buildcloth <https://pypi.python.org/pypi/buildcloth>`__ which does the
+same sort of thing for generating Makefiles.
+
+reStrucutredText exists to make text easier for humans to write well
+formed documents, which is great and useful for about 95% of use cases:
+human editable text formats for machine parsing are an *amazing* boon to
+documentation productivity.
+
+There are cases, where it makes more sense to store content in a regular
+format, like JSON or YAML and build the content programatically, tabular
+data, integrating content from external sources. If most of your tool
+chain uses reStructuredText, then something like RstCloth is probably
+exactly what you need.
+
+And because it's a second-generation \*Cloth tool, I already have most
+of the awkwardness worked out.
+
+It's still dev, and I'll be getting documentation, a readme, and some
+examples nailed out in the next few weeks. In the meantime:
+
+-  `rstcloth on pypi <https://pypi.python.org/pypi/rstcloth>`__
+
+-  `rstcloth on github <https://github.com/cyborginstitute/rstcloth>`__
+
+tumblr -- m.tycho.co
+--------------------
+
+I reactivated my `tumblr <http://tumblr.com>`__ account, hooked it up to
+the awesome `tumblesocks <https://github.com/gcr/tumblesocks>`__ plugin
+for emacs, and have attached it to the concise
+`m.tycho.co <http://m.tycho.co>`__ domain. I'm also mirroring the
+content at `tychoish.com/micro <http://tychoish.com/micro/>`__.
+
+I'm going to try to avoid over thinking this, but:
+
+-  While I've had some struggles with the emacs integration, it's
+generally really idiomatic.
+
+-  I really like that you can queue posts. This is the feature that I
+miss the most about systems that I've used in the past to host
+tychoish.
+
+-  I like that there are some community features, and that the tagging
+isn't worthless in light of being able to use tags to jump to
+relevant posts from other people.
+
+While I like self-hosted websites, and am kind of freaked out by the
+whole "my blog is a service," I think that the connection to a
+community/audience is useful and powerful, and is not to be overrated.
+
+-  I like that tumblr does automatic integration with facebook and
+twitter. You can sort of do this manually, but baking things in leads
+to a better experience.
+
+

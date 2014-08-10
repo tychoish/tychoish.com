@@ -1,0 +1,70 @@
+=======================
+Ira Glass on Creativity
+=======================
+
+.. post:: 2008-07-09
+   :author: tychoish
+
+.. raw:: html
+
+<object width="425" height="344">
+
+.. raw:: html
+
+<embed
+src="http://www.youtube.com/v/-hidvElQ0xE&hl=en"
+type="application/x-shockwave-flash" wmode="transparent" width="425"
+height="344"></embed></object>
+
+**Via:** `43Folders <http://www.43folders.com>`__ and
+`Mur <http://www.murverse.com>`__
+
+So this video popped up a couple of times in my news reader today, and I
+think it's good enough to repost with some additional comments. It's a
+video with Ira Glass talking about how creative people who are getting
+started doing something now need to give themselves permission to make
+crap *and* that the most important thing is to *keep doing it,* because
+the only way to learn is to make a lot of crap.
+
+This has become a virtual mantra for me, and I think it's good to have
+people remind us of this from time to time. This is why I'm starting a
+fiction blog. That's why I write blog entries every day.
+
+I think it's true of knitting, as well. I have scores of horrible
+sweaters, and while most of my sweaters work now (and the ones that
+don't are ill conceived from the beginning,) that's a technical skill
+that I worked pretty hard for. So I'd say, not only does Ira Glass have
+it correct [1]_ for things like writing and audio/video production, but
+I think that he succeeded in expressing it in a way that's applicable to
+*everyone* that makes something.
+
+--------------
+
+Today I edited the first sequence of the novella I wrote nearly a year
+ago. While I've been dreading this for a long time, I think it went off
+really well. I added a line that a test reader (whose unfamiliar with
+the work) really liked, I tweaked some things in a way that tie this
+scene (which I went back and added later) into the story more closely.
+
+I made this one sequence better in fairly concrete ways, and I think
+every previous time that I'd tried to do this before I hadn't been good
+enough to make it better. But a year later, I am enough better than I
+was that I was able to do this one thing better. I don't think I've
+"made it" or anything, but it's nice to have some sort of verification
+of improvement.
+
+This scene that I talk about will be part of `critical
+futures <http://criticalfutures.com/>`__ at some early point in that
+sites' development. Maybe a week from today?
+
+Stay tuned.
+
+.. [1]
+I've sort of been thinking about this as a maxim of "success on the
+internet," because I think it's particularly true from an
+online/independent business perspective, given that online ventures
+have trivial costs, aside from "time making crap." But I think the
+video makes the point that this is true in all sorts of contexts
+where creative proficiency is the goal. So then, it's more a maxim of
+"success in creativity."
+

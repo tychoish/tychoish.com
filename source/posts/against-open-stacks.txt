@@ -1,0 +1,53 @@
+===================
+Against Open Stacks
+===================
+
+.. post:: 2010-12-13
+   :author: tychoish
+   :tags: cyborg, technology, open-source
+
+I have misgivings about `Open Stack <http://openstack.com/projects/>`__.
+Open Stack is an open source "Cloud" or infrastructure/virtualization
+platform, that allows providers to create on-demand computing instances,
+as if "in the cloud," but running on their own systems. This kind of
+thing is generally refereed to as "private clouds," but as all things in
+the "cloud space," this is relatively nebulous concept.
+
+To disclose, I am employed by a company that does work in this space,
+that *isn't* the company that is responsible for open space. I hope this
+provides a special perspective, but I am aware that my judgment is very
+likely clouded. As it were.
+
+Let us start from the beginning, and talk generally about what's on the
+table here. Recently the technology that allows us to virtualize
+multiple instance on a single piece of hardware has gotten a lot more
+robust, easy to use, and performant. At the same time, for the most part
+the (open source) "industrial-grade" virtualization technology isn't
+particularly easy to use or configure. It can be done, of course, but
+it's non trivial. These configurations and the automation to glue it all
+together--and the quality therein--is how the cloud is able to
+differentiate itself.
+
+On some level "the Cloud" as a phenomena is about the complete
+conversion of hardware into a commodity. Not only is hardware *cheap*,
+but it's so cheap that we can do most hardware in software, The open
+sourcing of this "OpenStack" pushes this barrier one step further and
+says, that the software is a commodity as well.
+
+It was bound to happen at some point, it's just a curious move and
+probably one that's indicative of something else in the works.
+
+The OpenStack phenomena is intensely interesting for a couple of
+reasons. First, it has a lot of aspects of some contemporary commercial
+uses of open source: the project has one contributor and initial
+development grows out of the work of one company that developed the
+software for internal use and then said "hrm, I guess we can open source
+it." Second, if I'm to understand correctly, OpenStack isn't software
+that isn't already open source software (aside from a bunch of glue and
+scripts), which is abnormal.
+
+I'm not sure where this leads us, and I've been milling over what this
+all means for a while, and have largely ended up here: it's an
+interesting move, if incredibly weird and hard to really understand
+what's going on.
+

@@ -1,0 +1,44 @@
+==========
+Hyperlinks
+==========
+
+.. post:: 2011-07-08
+   :author: tychoish
+   :tags: links, emacs
+
+Though short, this week has been pretty good. I've been doing cool
+things at work, I've been writing and posting blog entries, *and*
+fiction(!), I'm on top of email, and the sweater is growing. I hope this
+isn't just a fluke and that I can keep this up and also expand slightly
+into doing a bit more reading. Small steps.
+
+I've done a little bit of work on the wiki and site. Notably, selected
+entries are mirrored on `Planet Emacsen <http://planet.emacsen.org>`__.
+Also consider the following links to updates on the wiki and other
+sites:
+
+-  [[Discussion of "Make Emacs
+Better"\|rhizome/make-emacs-better/discourse]], which has been
+incredibly productive and an interesting discussion of emacs adoption
+and use by non-programmer niches. I think this discussion and the
+[[original post\|rhizome/make-emacs-better]] connect pretty well with
+a post that made the rounds a few weeks ago: `Lets Just Use
+Emacs <http://beastwithin.org/users/wwwwolf/fantasy/avarthrel/blog/2011/05/lets-just-use-emacs.html>`__
+
+-  [[Cyborg History\|cyborg/history]] - a link from my father on the
+history of computing. I replied to him with `Code Quarterly Interview
+with Hal Abelson <http://www.codequarterly.com/2011/hal-abelson/>`__.
+
+-  I've also collected a few [[LaTeX System links\|latex-system/links]],
+of related projects, ideas and collaborators. I've also had a few
+conversations that I need to transcribe into the wiki. Watch this
+space.
+
+-  Then there's
+`emacs-instapaper <https://bitbucket.org/jfm/emacs-instapaper/src/6b135e2a6f91/instapaper.el>`__,
+which isn't exactly a FaiF web service, but the functionality is
+great for the subway, and I like being able to keep Firefox closed
+more of the time.
+
+That's all for now!
+

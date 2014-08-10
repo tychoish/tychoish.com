@@ -1,0 +1,93 @@
+================================
+Tumblr Killed the Tumblelog Star
+================================
+
+.. post:: 2010-02-23
+   :author: tychoish
+   :tags: new-media, cyborg, writing
+
+A few years ago, highly citational, link/youtube video blogs came back
+into style *again.* This time rather than calling them blogs, we called
+them "tumblelogs." I never really got into it, though I tried, and even
+my original inspiration for starting
+`tychoish.com <http://tychoish.com/>`__ was to do a more
+"tumblelog-esque" blog.It never quite worked out. Then I read `this post
+by Michael
+Coté <http://www.redmonk.com/cote/2010/01/05/newwebwriting/>`__ which
+inspired a few things:
+
+First, it got the following title to stick in my head and refuse to get
+out. Second, it left me with the idea that, although successful, sites
+like `tumblr <http://www.tumblr.com/>`__ and to a different extent
+`posterous <http://posterous.com/>`__ basically ruined the tumblelogging
+revival.
+
+Here's the thing about tumblelogs: they worked and worked so well
+because they were efficient, because the people creating tumblogs were
+doing something unique and had unique voices, because you could keep
+your pulse on most of a single discourse by watching only a few
+sites/rss feeds. And then it became, very suddenly, trivial to make a
+tumble log. And so everyone had a tumblelog, and it was like blogging
+was new again, except things "meme'd out" at an epic pace and it became
+difficult to track what anyone was saying. It was like a distributed
+denial of service attack on our attention spans.
+
+And as the dust settled, tumblelogs, at least as far as I could see,
+became less about a sort of delightful amalgamation of interesting
+content and more about templates, about piping in a fire hose of content
+from delicious/twitter/etc. So not only were there *too many*
+tumblelogs, but the style had devolved somewhat into this weird
+unedited, awkwardly template-ed mass of "crap" that is (in my opinion)
+quite hard to read or derive value from.
+
+What Made Tumblelogs Work Originally
+------------------------------------
+
+-  The systems that powered them were kludgy but they made it very
+possible to post content easily. That's a good thing.
+
+-  They used a unique sort of web design where design elements
+(tables/grids/CSS magic,) reflected and accented the content type.
+
+-  They were largely editorial functions. People followed tumblelogs
+because their authors were able to filter though content with
+exceptional speed and grace, and in the process of filtering provide
+real value.
+
+-  They were multimedia, and incorporated many different kinds of
+content. Not just links, not just embedded youtube videos, but
+snippets of IM and IRC conversations, song lyrics, pictures from
+flickr, and so forth.
+
+-  `projectionist <http://project.ioni.st/>`__ one of the first and
+best, was a group effort: when group blogs work, they really work.
+The tumblelog, seems like an ideal platform for group blogging.
+
+How We Can Make Tumblelogs Work Again
+-------------------------------------
+
+-  We use publishing systems and tools that are unique and that stretch
+and bend the form. A tumblelog theme for Wordpress, will probably
+always reek like wordpress. Same with other popular content
+management systems. Tumblelogs work because they're not just *blogs*,
+they need to distinguish themselves both visually, and in terms of
+how their authors write the content.
+
+-  We undertake tumblogs as a collaborative effort. Group projects
+complicate things, of course, but they also create great
+possibilities.
+
+-  Vary content, intentionally, post quotes, chat excerpts, links,
+videos, lyrics, etc. Make sure that there's a great deal of diversity
+of content. This is perhaps a problem to be solved in software, at
+least in port.
+
+-  Emphasize and cultivate editorial voice, and create an interface that
+forces authors and editors to touch the data.
+
+Thoughts? Suggestions?
+
+**ETA:** I've started to work on `this wiki page outlining a "tumble
+manager" tool <http://cyborginstitute.com/wiki/tumblemanager/>`__. I
+also did a bit of textual refactoring on February 27, 2010
+

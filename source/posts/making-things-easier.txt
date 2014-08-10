@@ -1,0 +1,48 @@
+====================
+Making Things Easier
+====================
+
+.. post:: 2012-05-08
+   :author: tychoish
+   :tags: productivity, technology
+
+I spent a lot of time in the past few months thinking about
+"automation," as a project to take things that take a long time and
+require a lot of human intervention into things that *just do
+themselves,* and I think this is the wrong approach.
+
+While total automation is an admirable, it's difficult, both because it
+requires more complex software to deal with edge cases, but also because
+it's hard to iterate *into* a fully automated solution.
+
+*Let's back up for a moment and talk about automation in general.*
+
+Computers are great at automating things. When you figure out *how
+exactly to accomplish something digitally* (i.e. polling an
+information source for an update, transforming data, testing a
+system or tool,) writing a program to perform this function is a
+great idea: not only does it reduce the workload on actual people
+(i.e. you.) **I think the difference between people who are "good
+with computers," and people who are "great with computers," is the
+ability to spot opportunities for these kinds of automations, and
+potentially implement them..**
+
+To my mind the most important reason to automate tasks is to ensure
+consistency and to make it more likely that tedious tasks get done.
+
+Having said this, rather than develop complete task automations for
+common functions, the better solution is probably to approach automation
+on the bottom up: instead of automating a complete process, automate
+smaller pieces particularly the most repetitive and invariable parts,
+and then provide a way for people to trigger the (now simplified) task.
+
+The end result, is a system that's more flexible easier to write, and
+less prone to failure under weird edge cases. Perhaps this is a
+manifestation of "`worse is
+better <http://c2.com/cgi/wiki?WorseIsBetter>`__\ "
+`also <http://en.wikipedia.org/wiki/Worse_is_better>`__.
+
+[[Thoughts\|discourse]]?
+
+Onward and Upward!
+

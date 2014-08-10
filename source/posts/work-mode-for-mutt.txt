@@ -1,0 +1,90 @@
+==================
+Work Mode for Mutt
+==================
+
+.. post:: 2008-09-22
+   :author: tychoish
+
+So I have a new quandry. I have one computer (a nice, pretty new MacBook
+Black, that does everything I want and then some.) and I have two lives.
+No not like that, but my computer is both the place where my paying work
+gets done, and it's the site of much of my creative output happens. Now,
+keeping work and play separate is a challenge for many people, even when
+who have different tools, but it's a particular challenge in my
+enviroment.
+
+My biggest concern is that if I'm constantly aware of what's happening
+in my work email box, I feel like I'm always working, and it makes it
+hard to concentrate on writing these blog posts. And the inverse is true
+too: if I get a message to a non-work related listserv it's hard to let
+that linger when I'm working.
+
+Now arguably the solution to this would be to have two different email
+accounts and systems. Except that I use `mutt <http://www.mutt.org/>`__,
+and `procmail <http://www.procmail.org/>`__ and my favorite `text
+editor <http://www.macromates.com/>`__ to write email and I really would
+have a hard time abiding by another solution. Also adding the need to
+check another email box wouldn't really fix my problem, because there's
+a chance that I could miss something crucial in real life if I unplugged
+from one email or the other. So the two accounts solution is basically
+out of the question.
+
+I just need a simple way to control my "context" (in the *Getting Things
+Done* terminology) vis a vis my email box. So here's what I cooked up. I
+should disclaim that I use the `mutt-ng <http://mutt-ng.berlios.de/>`__
+build of mutt which includes a sidebar in the mutt interface.
+
+Basically what you need to do is have two different .muttrc files (where
+your settings live), one for "work" and one for "play" (I called it
+"standard") But rather than have two possibly divergent files, here's
+what I've done.
+
+Split your .muttrc into two parts. The first includes everything that
+includes refrences to mailboxs. Those lines look like this:
+``mailboxes =<mailboxname>``. In a second file put everything esle.
+
+Name the everthing else file .muttrc\_core and put it either in your
+mail folder or in your home dirrectory. Duplicate the mailbox folder so
+there are two copies, and edit each one to suit. You probably want your
+drafts/sent/inbox folders in both contexts, but not your work mailboxes
+or your hobby listservs. Lets name the files, .mailboxes\_work and
+.mailbox\_standard, and put them in the same place as the "core" file.
+
+Now here comes the trickery. In $HOME/.muttrc put the following:
+
+::
+
+# All the good Mutt settings
+source /path/to/.muttrc_core
+# which mailboxeses to list in the sidebar
+source /path/to/.mailboxes_standard
+
+And in a file named .muttrc\_work
+
+::
+
+# All the good Mutt settings
+source /path/to/.muttrc_core
+# which mailboxeses to list in the sidebar
+source /path/to/.mailboxes_work
+
+Now, the trickery, open up your .bash\_profile or .bashrc (which ever
+you use...)
+
+::
+
+alias muttw='mutt -F /path/to/.muttrc_work'
+
+And you're done. Now you have to intentionally open up your work email,
+so you don't feel like you're always on call, but you get the
+delightfullness of only having to worry about one email account,
+particularly if you're good about choosing which email boxes go in which
+folders, and about using procmail to filter out most of your email in
+the right ways.
+
+You might also imagine how you could use a similar fix to control how
+you address email based on work/home context, or even estabilish
+different commands for various key bindings based on context, and the
+best part is that al all of your core settings stay the same and are
+centrally located in one place. How nifty is that?
+

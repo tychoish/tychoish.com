@@ -1,0 +1,70 @@
+======================
+Awesome Window Manager
+======================
+
+.. post:: 2008-09-09
+   :author: tychoish
+   :tags: cyborg, technology, productivity, open-source
+
+Aside from doing
+`semi-perverse <http://tychoish.com/rhizome/git-mail/>`__ things with my
+email retrieval system, one of my most recent technical/digital
+obsessions has been with a X11-based window manager called
+`awesome <http://awesome.naquadah.org>`__. It's a tiling window manager,
+and it's designed to decrease reliance on the mouse for most computer
+interaction/system navigation purposes.
+
+Unless you're in the choir, your first question is probably "What's a
+tiling window manager?" Basically the idea is that awesome takes your
+entire screen and divides all of it into windows that are a lot like the
+windows that OS X, Windows, GNOME, and KDE users are the same. Awesome
+also has the possibility for what it calls "tags," but which are akin to
+virtual desktops (and I think of as slates) which make it possible to
+have a great number of windows open and accessible which maximizes
+screen efficiency and multi-tasking while minimizing distractions and
+squinting.
+
+The second question you might have, given the prevalence of the
+mouse-pointer paradigm in computing lo these 30 years, why would you
+want a system that's not dependent on the mouse? Long time readers of
+the 'blag might remember some blogging I did earlier this year about the
+second coming of the command line interface. The basic idea is that the
+more you can avoid switching between the mouse and the keyboard, the
+more efficient you can be. Keystrokes take fractions of seconds, mouse
+clicks take many seconds, and this adds up. The more complex idea is
+that text-based environments tend to be more scriptable than GUIs and
+coded more efficiently with less mess in between you and your data/task.
+After all, coding visual effects into your text/word processing
+application is probably a sign that `someone is doing their job horribly
+wrong <http://xkcd.com/463/>`__.
+
+One of my largest complaints about using GNOME is that it's terribly
+inefficient with regards to how it uses screen space. Maybe this is the
+symptom of using a laptop and not having a lot of space to go around,
+but most applications don't need a menu bar at they top of every window,
+and a status bar at the bottom of every window, and a nice 5 pixel
+border. I want to use my computer to read and write words, not look at
+window padding (I suppose I should gripe about GNOME at some point, this
+is an entry onto itself.) Awesome fixes this problem.
+
+I'm not jumping in to Awesome full time, but I am starting to use it
+more and learn about it's subtleties, and hopefully I'll be able to
+contribute to the documentation of the project (it needs something at
+any rate). For a long time I've flirted with Linux, but haven't ever
+really felt that it offered something that I couldn't get with OS X, and
+this changes that pretty significantly.
+
+One of the things that I need to do first is explore Linux equivalents
+to my remaining OS X-only apps. The most crucial is the news reader, I'm
+a big fan of NetNewsWire, and I've never used a news reader which can
+top it. As it turns out, between vim and Cream, I'm pretty set in the
+text editor department (though I need to port over the most important of
+my scripts and snippets to vim), and although Adium is a port of Pidgin,
+using Pidgin is painful by comparison, particularly in awesome.
+
+But I have time. I'm doing this becasue it's interesting interested and
+weirdly enough, it's kind of fun.
+
+That's my story and I'm sticking to it, I'll be posting more on the
+subject as I learn more.
+

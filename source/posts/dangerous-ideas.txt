@@ -1,0 +1,24 @@
+===============
+Dangerous Ideas
+===============
+
+.. post:: 2006-01-14
+   :author: tychoish
+   :tags: quotes
+
+Ok, this was fascinating. From my stash of cool academic blogs..
+
+`The end of
+insight? <http://www.marginalrevolution.com/marginalrevolution/2006/01/the_end_of_insi.html>`__
+
+"In my own field of complex systems theory, Stephen Wolfram has
+emphasized that there are simple computer programs, known as
+cellular automata, whose dynamics can be so inscrutable that there's
+no way to predict how they'll behave; the best you can do is
+simulate them on the computer, sit back, and watch how they unfold.
+Observation replaces insight. Mathematics becomes a spectator
+sport."
+
+(Quoted in `Marginal
+Revolution <http://www.marginalrevolution.com/marginalrevolution/>`__.)
+

@@ -1,0 +1,58 @@
+====================
+The Voice of TealArt
+====================
+
+.. post:: 2007-07-23
+   :author: tychoish
+
+It's (just after midnight at the time of writing on) Monday, and that
+means I'm already late for my "what's coming up this week in TealArt
+post." The answer: great new things.
+
+There's a station keeping story that I adore coming up, of course. I
+also, have to say that we're gearing up for the "season" finale and I'm
+rather excited. It's going to be a lot of fun to write, and I've put the
+ball in motion. I think that's about all I'm going to say now. But I
+also spent a great deal of time this weekend working on Station Keeping
+stuff, and I have a really fun story (it's a screen play, for reading,
+but still) that's almost ready, and another one that's all ready to
+write.
+
+I've learned a lot from this season of Station Keeping, there are things
+that I'm going to do differently next season (but particularly in the
+season that follows), and I'm pretty excited about that. While I think I
+was hopeful that it would happen in a slightly different way, I think it
+was good that it happened the way it did, and we'll see how it develops.
+
+I spent a lot of time writing this weekend, particularly, a somewhat
+lengthy treatise on toe-up/stranded socks. This is a paying project, so
+I'm excited about that, and in reflection, while I was a bit cranky
+about my output this weekend, I'm realizing that I probably wrote about
+5,000 words, which is nothing to sneeze at.
+
+But you probably care more about what's coming up on TealArt, and less
+about what I'm doing, becuase you'd be reading
+`/tychoish <http://tychoish.com>`__ if you wanted to know what the tycho
+was up to. Right? Right. Ok moving on.
+
+There'll be more regular experssioning this week. I do so love those,
+and as I learn more about Regexp, I'm getting better and writing
+"jokes," so that's good too.
+
+I have something for Friday, but no great promises about what and how
+much, yet. These things happen.
+
+And finally, I wrote up some `particpation/submissions guidelines for
+TealArt <http://tychoish.com/participate>`__, to outline and explain all
+the ways that you, yes you, can participate and contribute to the
+ongoing project of TealArt.
+
+Thanks for being here,
+
+tycho
+
+ps. I'm extremely wiped (see the aforementioned 5,000 words, upon second
+count, I think it might have been more like 7,000 words, though I make
+no claims about the quality), and so if some of the capitalization is
+*ahem* particularly "18th century", I apologize.
+

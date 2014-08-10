@@ -1,0 +1,81 @@
+=================================
+Refactoring and Linear Production
+=================================
+
+.. post:: 2008-04-29
+   :author: tychoish
+
+I've probably beaten the discussion about linear and non-linear writing
+methods, wikis, and the computer programing metaphor to the ground and
+you're all probably tragically bored with this, particularly if you're
+here for the next crumb of the pattern for the `latvian
+dreaming <http://tychoish.com/tag/latvian-dreaming/>`__, but no matter,
+here we are. I listened to the `interview <http://twit.tv/floss27>`__
+with `ward cunningham <http://c2.com/cgi/wiki?WikiDesignPrinciples>`__
+recently, and I've been thinking about these things for a while so it
+surfaces yet again.
+
+I've said a few times that I have a hard time "writing non-linearly,"
+that I feel as if I'm too story/narrative focused to really be effective
+in writing stories and essays in a modular or nonlinear sort of way.
+I've also had a hard time working on using wiki-like software as a
+personal notebook because alone I don't tend develop ideas and thoughts
+in the right sort of way to make these systems useful for any meaningful
+length of time. In fact I think I started this blog (almost a year ago)
+because I thought that the blog was a format for notebook that mirrored
+the way that I often thought about things (and indeed my paper notebooks
+are very blog-like).
+
+But I wanted to cover new ground in this entry. I've been turning over a
+couple of new ideas in the past few days. First is the notion of
+"refactoring" in agile/extreme programing. Basically, this is the notion
+that when writing code, if you're not writing linearly, it's important
+to go through the code and "refactor" or reevaluate older code to make
+it more efficient and work better as the larger program changes and
+develops. Cunningham said (and it's true) that once you've written it
+once, going back and moving chunks (scenes/objects) around so that they
+make more sense. I've always thought about editing in terms of passes,
+and because I've never really written modularly, I don't really edit
+modularly (which is, near as I can tell the only way to do it.) [1]_
+
+The second concept, this comes from wiki "theory" for lack of a better
+term is the notion that nonlinear documents (like wikis) grow and
+develop structure as they need it. Cunningham, on the podcast said,
+"wikis always seem to be as big as they need to be," [2]_ and while I
+don't know nearly enough about chaos theory to be fully articulate about
+this, I think that this is a very bottom-up or "chaotic" system that
+asserts itself over the larger document is pretty powerful and useful,
+if you're not fighting it. In my experience wiki's that I've tried to
+build have all fallen down as I've tried to create structure before
+creating content, or anticipate my organizational thinking ahead of
+time. The lesson? Let organizational systems develop organically, even
+if you don't trust this, and adjust later rather than forcing a system
+that probably will cause collapse which is in the end more work for less
+payoff than the first option.
+
+I think both of these lessons (refactor early and often, let nonlinear
+documents structure themselves) are ones that I can take to both my
+writing and digital note taking projects in the future. Maybe these were
+things that you all had figured out already, alas, maybe this is why
+this is my blog and not yours!
+
+Just saying.
+
+Onward and Upward!
+
+.. [1]
+I've read my fair share of books about writing, and many of them
+clearly say that you should focus on getting something written,
+because there's time enough in the world for editing. I'm not
+rejecting the notion that burying yourself in editing too soon is
+good practice, but an unwritten manuscript is only *slightly* less
+likely to get you a book contract than an unedited one.
+
+.. [2]
+To be fair, Cunningham spoke a little bit to the complex dynamic
+between community size, total number of pages, and community age.
+That for a while wiki communities need to focus on growing so that
+there is some "there there," but after a while the community/writer
+needs to attend to deleting and editing the content on old pages, so
+that it doesn't get stale.
+

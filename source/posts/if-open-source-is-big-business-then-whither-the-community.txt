@@ -1,0 +1,93 @@
+==========================================================
+If Open Source is Big Business Then Whither the Community?
+==========================================================
+
+.. post:: 2010-03-09
+   :author: Sam Kleinman
+   :tags: cyborg, open-source, cyberculture
+
+I've been thinking recently about the relationship and dynamic between
+the corporations and "enterprises" which participate in and reap
+benefits from open source/free software and the quasi-mythic
+"communities" that are responsible for the creation and maintenance of
+the software. Additionally this post may be considered part of my
+ongoing series on `cooperative
+economics <http://tychoish.com/archive/cooperatives/>`__.
+
+When people, ranging from business types, to IT professionals, to
+programmers, and beyond, talk about open source software we talk about a
+community: often small to medium sized groups of people who all
+contribute small amounts of time to creating software. And we're not
+just talking about dinky little scripts that make publishing blogs
+easier (or some such), we're talking about a massive amount of software:
+entire operating systems, widely used implementations of nearly all
+relevant programing languages, and so forth. On some level the core of
+this question is who are these people, and how do they produce software?
+
+On the surface the answer to these questions is straightforward. The
+people who work on open source software are professional programmers,
+students, geeks, and hacker/tinkerer-types who need their computers to
+do something novel, and then they write software. This works as model
+for thinking about who participates in open source, if we assume that
+the reason why people contribute to open source projects is because
+their individual works/contributions are too small to develop business
+models around. This might explain some portion of open source
+contributions, but it feels incomplete to me.
+
+There are a number of software projects that use open source/free
+software licenses, with accessible source code, supported by
+"communities," which are nonetheless developed almost entirely by single
+companies. `MySQL <http://www.mysql.com/>`__,
+`Alfresco <http://www.alfresco.com/>`__, and
+`Resin <http://www.caucho.com/>`__ among others serve as examples these
+kinds of projects which are open source by many any definitions and yet
+don't particularly strike me as "community," projects. Is the fact that
+this software provides source code meaningful or important?
+
+Other questions...
+
+1. If there are companies making money from open source code bases,
+particularly big companies in a business directly related to
+software, does this effect participation of people who are *not*
+employed by that company in the project?
+
+In my mind I draw distinctions between technology businesses that
+use/sell/support open source software (e.g. Red-Hat, the late MySQL AB,
+etc.) and businesses that do something else but use open source software
+(i.e. everyone with a Linux server in the basement, every business with
+a website that runs on Apache, etc.)
+
+2. Does corporate personhood extend to the open source community. Are
+corporate developers contributing as people, or as representatives of
+their company?
+
+I largely expect that it's the former; however, I'd be interested in
+learning more about the various factors which affect the way these
+contributors are perceived?
+
+3. Do people participate in open source because it is fun or for the
+enjoyment of programming,
+
+4. Has software become so generic that open source is a current
+evolution of industry standards groups. Do we write open source
+software for the same reason that industries standardized the size
+and threading of bolts?
+
+5. Are potential contributors disinclined to contribute to software that
+is controlled by a single entity, or where projects
+
+6. Is the cost of forking a software project too high to make that a
+realistic outcome of releasing open source software?
+
+Conversely, were forks ever effective?
+
+7. Do communities actually form around software targeted at "enterprise"
+users, and if so in what ways are those communities different from
+the communities that form around niche window p managers or even
+community projects like Debian?
+
+I don't of course have answers yet, but I think these questions are
+important, and I'd love to hear if you have any ideas about finding
+answers to these questions, or additional related questions that I've
+missed.
+

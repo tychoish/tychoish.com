@@ -1,0 +1,33 @@
+===============
+In Favor of PDF
+===============
+
+.. post:: 2012-08-17
+   :author: tychoish
+   :tags: rant
+
+This is really a short rant, and should come as a surprise to no one.
+
+I hate DOC files, and RTF files, to say nothing of ODF, DOCX, and their
+ilk because they have two necessarily conflicting properties:
+
+1. They're oriented at producing documents on paper. Which is crazy.
+Paper is an output, but it's not the only output in common use, so
+it's nuts that generic document representation formats would be so
+tightly coupled with paper.
+
+2. The rendering of the content is editor specific, particularly with
+regards to display options. If I compile a document and send it to
+you, I have no guarantee whatsoever about the presentation or display
+of the document on your system, particularly if I'm not certain that
+your system is similarly configured. Particularly with respect to
+fonts, page breaks, etc.
+
+This is particularly idiotic with respect to 1.
+
+It's not that PDF is great, or especially usable, but it's consistent
+and behaves as expected. Furthermore, it does a good job of
+appropriately expressing the limitations of paper.
+
+So use PDF and accept no substitutions.
+

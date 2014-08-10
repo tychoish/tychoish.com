@@ -1,0 +1,112 @@
+===============
+Coding Pedagogy
+===============
+
+.. post:: 2012-08-10
+   :author: Sam Kleinman
+   :tags: programming, pedagogy, technical-writing
+
+There are two parts to this post: first, the relationship or
+non-relationship between the ability to write code and technical
+literacy; and second, the pedagogical methods for teaching people how to
+program/code.
+
+In some ways, I've been writing about this and related topics for quite
+a while: see [[/rhizome/objective-whatsis]] for an earlier iteration in
+this train of thought.
+
+Programming and Technical Literacy
+----------------------------------
+
+Programmers and other technical folks talk a lot about teaching young
+people to code as the central part of any young technical person's
+education and basic computer literacy. Often this grows out of nostalgia
+for their own experience learning to program, but there are other
+factors at play. [1]_
+
+In some cases, they even start or point to projects like
+`Codecademy <http://www.codecademy.com/>`__. Which are, in truth, really
+cool ideas, but I think that effectively equating the ability to write
+code with technical literacy is fraught:
+
+-  There are many different kinds of technical literacy and writing code
+is really such a small part. Sure code gives us a reasonable way to
+talk about things like design and architecture, but actually writing
+code is such a small part of developing technology.
+
+-  Writing code isn't that important, really. In a lot of ways, code is
+just an implementation detail. Important as a way of describing some
+concepts pretty quickly, important because it's impossible to iterate
+on ideas without something concrete to point to, but the
+implementation isn't nearly as important as the behavior or the
+interface.
+
+-  For the last ~40 years, code has been the way that people design
+behavior and specify interfaces for software. While there are a lot
+of reasons why this predominantly takes the form of code, there's not
+particular reason that we can't express logic and describe interfaces
+using other modalities.
+
+There are many people who are very technically literate and productive
+who don't write code, and I think that defining literacy as being able
+to write code, is somewhat short sighted. Also, there is another group
+of people who are actually programmers who don't think of the things
+they do as "programming," like people who do crazy things with
+spreadsheets, most librarians, among others. These non-coding
+programmers may shy away from programming or are mostly interested in
+the output of the program they write and less interested in the
+programming itself.
+
+This is a huge problem. I hope that this
+[[/rhizome/computer-literacy-project]] that I've been planning will
+start to address some of these issues, but there's even more work to do.
+
+How to Teach People to Code
+---------------------------
+
+(*This section of the post derives from and summaries the "[[How to
+Teach People to Program\|/technical-literacy/teaching-programming]]"
+wiki page.*)
+
+Most of the way that programming books and courses teach programming are
+frustrating and somewhat dire, for a few reasons:
+
+-  Most examples in programming books are dumb.
+
+-  Basic computer science/engineering knowledge is fundamental to the
+way that accomplished programmers think about programming but aren't
+always required to teach people how to program.
+
+-  Syntax isn't that important, but you can't ignore it either.
+
+-  Slow reveals are really frustrating.
+
+-  The kinds of code that you write when learning to programming bear
+little resemblance to the actual work that programmers do.
+
+The solutions to these problems are complex and there are many possible
+solutions. As a starting point:
+
+-  Separate the way you present core concepts (i.e. data structures,
+typing, functions, classes, etc.) from actual code examples and from
+actual explanations of the syntax.
+
+Interlink/cross reference everything, but if you give people the tools
+to answer their own questions they'll learn what they actually need to
+know, and you can then do a better job of explaining the syntax, basic
+concepts, and practical examples.
+
+-  Provide longer examples that aren't contrived.
+
+Examples don't need to start from first principals, and don't need to be
+entirely self contained. Programming work rarely starts from first
+principals (relative,) and is rarely actually self contained. It's
+foolish, then to use these sorts of pedagogical tools.
+
+Thoughts?
+
+.. [1]
+In addition there's a related fear that many people who don't have
+experience with the technology of the 1980s and 1990s won't have the
+required technological skills to innovate in another 10 or 20 years.
+

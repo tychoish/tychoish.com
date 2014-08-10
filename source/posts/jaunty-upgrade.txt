@@ -1,0 +1,57 @@
+==============
+jaunty upgrade
+==============
+
+.. post:: 2009-05-04
+   :author: tychoish
+   :tags: open-source, technology
+
+So I've upgraded to the latest version of Ubuntu, 9.04 "Jaunty
+Jackalope," and I thought I'd post some thoughts on the matter.
+
+On my desktop the upgrade (eg. ``sudo apt-get dist-upgrade``) was a bit
+touch and go, but I managed to save things (logging in running the old
+kernel into a root shell to fix the upgrade which mysteriously held back
+some packages it shouldn't have) and here I am. The laptop was easier to
+upgrade, and I suspect this has something to do with the blob video card
+drivers I'm using on the desktop.
+
+On the whole, I can't say I've toyed with the updates to gnome terribly
+much so I don't know what to say, but I suspect that they are in fact
+newer, better, and worthwhile if you're using intrepid and or interested
+in trying out ubuntu. It's really a great OS, and it does a great
+job--in my experience--of just working with minimal fussing.
+
+I'm not sure that I'd choose an Ubuntu distribution again knowing what I
+know today. At the same time, I don't know that I'd know as much as I do
+about Linuxes today without it, and given that this still works, I'm not
+switching.
+
+My jaunty upgrade, however, inspired a few changes to my setup, and I'm
+*quite* happy with those improvements. They are:
+
+-  I switched to using rxvt-unicode as a terminal emulator (I had been
+using gnome-terminal). I really like this, because the terminal is
+low resource (and can run demonized, so you can have a lot of windows
+open). It's hard as hell to setup (in my experience,) but `you can
+learn from my .Xdefaults
+file <http://dotfiles.org/~tychoish/.Xdefaults>`__ if you're
+interested.
+
+-  I started (finally) using gnome-color-chooser and gtk-chtheme (debian
+package names) to remove gnome-settings-daemon from my list of
+background programs, while still having windows that don't look like
+1992.
+
+-  I stopped using vimperator in firefox, opting instead for firemacs
+(to control keybindings) and LoL for keyboard navigation (hit-a-hint
+links). Having access to the Awesome bar is a good thing indeed.
+
+Still on the list of things to update?
+
+-  I need to upgrade to the latest awesome version, as I'm behind.
+
+-  I need to actually ditch gdm, which irritates me still.
+
+
+

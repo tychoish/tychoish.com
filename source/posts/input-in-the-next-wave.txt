@@ -1,0 +1,86 @@
+======================
+Input in the Next Wave
+======================
+
+.. post:: 2010-03-10
+   :author: tychoish
+   :tags: cyborg
+
+In response mostly to my own `comentary of the
+iPad <http://criticalfutures.com/2010/02/ipad-reactions/>`__ I'd like to
+lead a collective brainstorming of input and computer interact
+modalities in "the next wave."
+
+What's the next wave? That thing that's always coming "soon," but isn't
+quite here yet, the thing that we are starting to see glimpses of, but
+don't really know. Accepting for a moment that things like Blackberries,
+netbooks, Kindles, iPads, iPhones and the like are these "harbingers" of
+the next wave.
+
+The "make or break" feature of all these new and shiny things is the
+input method: how we get stuff from our heads into a format that a
+computer can do something with. While I'm a particularly... textual sort
+of guy, the "input question," is something everyone who uses technology
+will eventually come to care about. Blackberry's sell because they speak
+"messaging," and because most of them have hardware keyboards. The iPad,
+with its bigger onscreen keyboard and external keyboard dock, is--to my
+mind--an admission that the little onscreen keyboard of the iPhone
+doesn't work if you want enter more than 50 or 60 characters at any
+given time.
+
+I love a good hardware keyboard. A lot, and I'm not just talking about
+the kind on the blackberry, but a *real* keyboard. The truth is I can't
+even quite bring myself to justify one of the little "netbooks" on the
+principal that *everything* I do involves massive amounts of typing. And
+fundamentally, at the moment there doesn't seem to be a good replacement
+for getting data into a computer system, that doesn't involve a
+keyboard. Clearly this can't hold out forever, and so I'd like to pose
+two questions:
+
+1. **What kind of computer interfaces will replace the command line?**
+
+So in 2010 most people interact with their computers by way of the mouse
+and a lot of pretty pictures. Even mobile environments like the
+iPhone/iPad/etc. and the Blackberry have some sort of a pointer that the
+user has to manipulate.
+
+But the truth is that this kind of modality has always been inefficient:
+switching between the mouse and the keyboard is the greatest time sink
+in current user interfaces. Graphical environments require increasingly
+sophisticated graphics hardware, they require users to memorize
+interfaces in a visual way that may not be intuitive (even if we're
+accustomed,) and they have incredibly high development costs relative to
+other kinds of software. Furthermore, most of us use a lot of text-based
+interfaces weather we know it or not. Google is a command line
+interface, as are most web browser's address bars. And although my
+coworkers and I are hardly typical, we all have a handful of terminals
+open at any given time.
+
+Clearly shells, (e.g. bash, zsh, and the like) are not going to be
+around forever, but I think they're going to be around *until* we find
+some sort of solution that can viably replace the traditional shell. We
+need computer interfaces that are largely textual, keyboard driven,
+powerful, modern, lightweight, fast, and designed to be used
+interactively. I'm not sure what it looks like, but I know that it needs
+to exist.
+
+2. **What kind of interfaces will replace the keyboard for data entry?**
+
+When I was writing the iPad reflection, I thought it might be cool to
+have an input device that was mostly on the back of the device, so that
+you hold the device in both hands, your fingers make contact with some
+sort of sensors on the back, with your thumbs touching something on the
+front, and there's some sort of on-screen interface that provides
+feedback to make up for the fact that you can't see "the keys."
+
+I'd be inclined to think that this would be QWERTY derived, but that's
+as much a habit as it is anything. I'm a pretty good touch typist, not
+perfect, and not the *fastest*, but I don't have to think at all about
+typing *it just happens*. But I don't know or think that the QWERTY
+keyboard is going to be the interface modality of the future. While I
+*do* want to learn DVORAK typing--but haven't managed to really feel
+inspired enough to do that--I think its more productive to think about
+replacements for the keyboard itself rather than alternate layouts.
+
+Thoughts?
+

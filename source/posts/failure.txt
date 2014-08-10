@@ -1,0 +1,77 @@
+=======
+Failure
+=======
+
+.. post:: 2007-11-30
+   :author: tychoish
+
+Today has been one of those days where nothing really seems to go right.
+The knitting is all fouled up, and I had
+
+My knitting got caught on something and sprung a little catch. It's
+actually kind of disappointing, and reveals that I have no clue as to
+how to graft or kitchner pieces of knitting together. I think it has
+something to do with knitting backwards and having the stitches mounted
+in the wrong dirrection. The best I can ever hope for is reverse
+stocking stitch grafting, and even that it's sort of spotty.
+
+I'm so going to be that person in 30 years who comes in to a yarn shop
+and pays one of the gurus to graft stuff. It's sort of pathetic. I knit
+on the grey sweater today, and I find it intoxicatingly relaxing: How
+weird is that? Plain stocking stitch. On very small needles with very
+small yarn. I'd say, I probably have less than two inches to go until
+the neck shaping starts, and then less than 3 inches from there until
+the shoulder straps start. And like I said it's intoxicating.
+
+But enough about the knitting, perhaps the larger issue is that in my
+paper writing today I ran into a few issues with LaTeX when I went to
+compile everything, and I still don't have a real clue what went wrong.
+
+Here's what I can tell:
+
+1. I installed latex2rtf from MacPorts a few weeks ago, because it
+seemed lie a good tool for interfacing in the rest of the world.
+MacPorts, installed a different installation teTeX (or something),
+where I had previously been using the macTeX distribution, or maybe I
+was using something from Fink. UNIX nerds will probably disown me for
+having a really crappy set of paths and install locations. Sorry. It
+is coming back to bite me in the ass.
+2. Whatever happened, all of the bibTeX stuff (thats the package that
+handles the bibliographic database and complies all the references
+and what not,) and it appears the APA formating style file is also
+gone, or at least not accessible to whatever TeX engine that I'm
+using.
+3. This of course can be fixed by throwing the .cls file in the same
+directory as .tex file that I'm trying to compile. The same thing
+goes for the citation packages. I've been using the nat-bib, or at
+least I think I've been using the nat-bib citation package because it
+works a little more clearly and flexibly than apacite. Again, I got
+something that made really pretty APA manuscripts and I didn't mess
+with it. Not sure what's up with that.
+4. My paper printed and for some reason jammed the cite-key in front of
+all the reference page items. To which I can only say "WTF?"
+Furthermore it errored (ok, ok, it produced an error) on line 214 of
+apa.cls (the bibliographynewpage flag/option or some such, monkeying
+with that code did nothing from what I could tell.
+
+I finally just gave in and let it be, but I'd really like to be able to
+have the ability to produce clear and straightforward documents. Really
+really like to be able to do that.
+
+Also, my email isn't healthy at all, and I don't have the clue as to
+what caused this. Gmail released new features today (group chat, don't
+you all get up at once now,) and if that's the reason that it's been all
+screwy, I'm going to be pissed. Very Pissed. Also very sorry if you're
+trying to get a hold of me. If you try the email, and it isn't working,
+leave a comment here, and I should see it pretty quick.
+
+To add insult to injury AIM is being cranky, and since I use AIM the way
+most people use the phone, this adds an additional layer of frustration
+to the day.
+
+I think I'm going to get a book at hope that I don't run into a paper
+cut issue.
+
+Other work continues apace, I suppose. Sorry for posting the entries
+today out of order.
+

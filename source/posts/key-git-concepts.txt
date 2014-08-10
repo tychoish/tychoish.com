@@ -1,0 +1,160 @@
+================
+Key Git Concepts
+================
+
+.. post:: 2010-09-30
+   :author: Sam Kleinman
+   :tags: git
+
+`Git <http://git-scm.com>`__ is a very... *different* kind of software.
+It's explicitly designed against the paradigm for other programs like it
+(version control/source management) and to make maters worse most of
+it's innovations and eccentricities are very difficult to create
+metaphors and analogies around. This is likely because it takes a
+non-proscriptive approach to workflow (you can work with your
+collaborators in any way that makes sense for you) and more importantly
+it lets people do away with linearity. Git makes it possible, and
+perhaps even encourages, creators to give up an idea of a singular or
+linear authorship process.
+
+That sounds great (or is at least passable) in conversation but it is
+practically unclear. But even when you sit down and can interact with a
+"real" git repository, it can still be fairly difficult to "grok." And
+to make matter worse, there are a number of very key concepts that
+regular users of git acclimate to but that are still difficult to grasp
+from the ousted. This post, then, attempts to illuminate a couple of
+these concepts more practically in hopes of making future interactions
+with git less painful. Consider the following:
+
+The Staging Area
+----------------
+
+The state of every committed object (i.e. file) as of the last commit is
+the ``HEAD``. Every commit has a unique identifying hash that you can
+see when you run ``git log``.
+
+The working tree, or ``checkout``, is the files you interact with inside
+of the local repository. You can checkout different branches, so that
+you're not working in the "master" (default or trunk) branch of the
+repository, which is mostly an issue when collaborating with other
+people.
+
+If you want to commit something to the repository, it must first be
+"staged" or added with the ``git add`` command. Use ``git status`` to
+see what files are staged and what files are not staged. The output of
+``git diff`` generates the difference between the ``HEAD`` plus all
+staged changes, and all unstaged changes. To see the difference between
+all staged changes and ``HEAD`` use the "``git diff --cached``\ ".
+
+The staging area makes it possible to construct commits in very granular
+sorts of ways. The staging area makes it possible to use commits, less
+like "snapshots" of the entire tree of a repository, and rather as
+discrete objects with that contain a single atomic change set. This
+relationship to commits is enhanced by the ability to do "squash merges"
+and squash a series of commits in a rebase, but it starts with the
+staging area.
+
+If you've staged files incorrectly you can use the ``git reset`` command
+to reset this process. Used alone, ``reset`` is a non destructive
+operation.
+
+Branches
+--------
+
+The ability to work effectively in branches is the fundamental function
+of git, and probably also the easiest to be confused by. A branch in
+git, fundamentally, is just a different ``HEAD`` in the same repository.
+Branches within a single repository allow you to work on specific sets
+of changes (e.g. "topics") and track other people's changes, without
+needing to make modifications to the "master" or default branch of the
+repository.
+
+The major confusion of branches springs from git's ability to treat
+every branch of every potentially related repository as a branch of each
+other. Therefore it's possible to push to and pull from multiple remote
+branches from a single remote repository *and* to push to and pull from
+multiple repositories. Ignore this for a moment (or several) and
+remember:
+
+A branch just means your local repository has more than one "HEAD"
+against which you can create commits and "diff" your working checkout.
+When something happens in one of these branches that's worth saving or
+preserving or sharing, you can either publish this branch or merge it
+into the "master" branch, and publishes these changes.
+
+The goal of git is to construct a sequence of commits that represent the
+progress of a project. Branches are a tool that allow you to isolate
+changes within tree's until you're ready to merge them together. When
+the differences between ``HEAD`` and your working copy becomes to
+difficult to manage using ``git add`` and ``git reset``, create a branch
+and go from there.
+
+Rebase
+------
+
+Rebasing git repositories is scary, because the operation forces you to
+rewrite the history of a repository to "cherry pick" and reorder commits
+in a way leads to a useful progression and collection of atomic moments
+in a project's history. As opposed to the tools that git replaces, "the
+git way" suggests that one ought to "commit often" because all commits
+are local operations, and this makes it possible to use the commit
+history to facilitate experimentation and very small change sets that
+the author of a body of code (or text!) can revert or amend over time.
+
+Rebasing, allows you to take the past history objects, presumably
+created frequently during the process of working (i.e. to save a current
+state) and compress this history into a set of changes (patches) that
+reflect a more usable history once the focus of work has moved on. I've
+read and heard objects to git on the basis that it allows developers to
+"rewrite history," and individuals shouldn't be able to perform
+destructive operations on the history of a repository. The answer to
+this is twofold:
+
+-  Git, and version control isn't necessarily supposed to provide an
+consistently reliable history of a projects code. It's supposed to
+manage the code, and provide useful tools to managing and using the
+history of a project. Because of the way the staging area works,
+sometimes commits are made out of order or a "logical history object"
+is split into two actual objects. Rebasing makes these non-issues.
+
+-  Features like rebasing are really intended to happen *before* commits
+are published, in most cases. Developers will make a series of
+commits and then, while still working locally, rebase the repository
+to build a useful history and *then* publish those changes to his
+collaborators. So it's not so much that rebasing allows or encourages
+revisionist histories, but that it allows developers to control the
+state of their present or the relative near future.
+
+Bonus: The git stash
+--------------------
+
+The ``git stash`` isn't so much a concept that's difficult to grasp, but
+a tool for interacting with the features describe above that is pretty
+easy to get. Imagine one of the following cases:
+
+You're making changes to a repository, you're not ready to commit, but
+someone writes you an email, and says that they need you to quickly
+change 10 or 12 strings in a couple of files (some of which you're in
+the middle of editing,) and they need this change published *very soon.*
+You can't commit what you've edited as that might break something you're
+unwilling to risk breaking. *How do you make the changes you need to
+make without committing your in-progress changes?*
+
+You're working in a topic branch, you've changed a number of files, and
+suddenly realized that you need to be working in a different branch. You
+can't commit your changes and merge them into the branch you need to be
+using that would disrupt the history of that branch. *How do you save
+current changes and then import them to another branch without
+committing?*
+
+Basically invoke ``git stash`` which saves the difference between the
+index (e.g. ``HEAD``) and the current state of the working directory.
+Then do whatever you need to do (change branches, pull new changes, do
+some other work,) and then invoke ``git stash pop`` and everything that
+was included in your stash will be applied to the new working copy. It's
+sort of like a temporary commit. There's a lot of additional
+functionality within ``git stash`` but, that's an entirely distinct bag
+of worms.
+
+Onward and Upward!
+

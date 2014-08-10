@@ -1,0 +1,103 @@
+======================================
+Window Sizes in Tiling Window Managers
+======================================
+
+.. post:: 2009-12-01
+   :author: tychoish
+   :tags: cyborg, productivity, open-source
+
+There's an issue in tiling window managers, that I think a lot folks who
+are used to floating window managers never expect. I wrote a post to the
+`Awesome <http://awesome.naquada.org/>`__ listserv a while back
+explaining this to someone, and it seems to have struck a chord (I saw
+the post linked to last week). I thought I'd write a brief post here to
+explain what's going on in a more clear and general way.
+
+The Problem
+~~~~~~~~~~~
+
+When tiled, windows don't seem to take up all the space that's available
+to them. This creates weird "gaps" between windows. But only some
+windows: Firefox is immune to this problem, while terminal emulators
+like xterm, and
+`urxvt <http://software.schmorp.de/pkg/rxvt-unicode.html>`__, and
+`gVim <http://vim.org/>`__, and
+`emacs <http://www.gnu.org/software/emacs/>`__ get all *funky*.
+
+What's Happening
+~~~~~~~~~~~~~~~~
+
+The application that are affected by this draw their windows based upon
+a number of fixed width columns. We'll note that terminal emulators, as
+well as GUI versions of programmer's text editors like vim and emacs,
+all used fixed-width fonts and often allow you to set window sizes based
+on the number of columns (of characters).
+
+As a result, these applications are only able to use space on the screen
+in increments of full characters. Most of the time, in floating window
+managers, we never really notice this limitation.
+
+In tiling window managers you *do* notice, because the window manager
+forces the windows to use all available space, except in some windows it
+leaves these weird gaps at the bottom and right of the window. Sometimes
+the gaps end up in the window, as unusable buffers, and sometimes they
+end up between windows. It looks funny, pretty much no matter how you
+slice it.
+
+What You Can Do About It
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The truth? Not much.
+
+The Awesome Window Manager, by default shows the gaps between the
+windows. I always found this to be the "more ugly" option. You can alter
+this behavior by searching your configuration file for
+``size_hints_honor`` and making the line look like this:
+
+::
+
+c.size_hints_honor = false
+
+This tells Awesome to ignore windows (client's) when they say "I want to
+have these dimensions." It doesn't fix the problem but it does get rid
+of the gaps.
+
+The real solution is to tweak text sizes, fonts, and any buffering
+elements (like a status bar, mode line, or widget box), and window
+borders so that the windows aren't left with extra space that they don't
+know how to cope with.
+
+By real solution, I really mean "only option:" it's really impossible to
+get all of your fixed width applications to have exactly the right
+number of pixels. You can get close in a lot of situations, and I've
+always found this to be much less annoying than using floating window
+managers.
+
+The Original Post
+~~~~~~~~~~~~~~~~~
+
+Just for giggles, I've included a quoted portion of what I posted
+original to the listserv on the topic.
+
+The one big of information that might be important: The urxvt terminal
+emulator, when not "honoring size hints," is unable to really properly
+draw the "extra space" with the proper background. I suspect this is a
+bug with the pseudo-transparency system they use. As a result there are
+often a few pixels with the background in an inverted color scheme. Same
+problem as above, but it looks funny if you're not used to it.
+
+What's happening is that urxvt (like many terminal emulators) can
+only draw windows of some specific sizes based on the size of the
+characters (eg. x number of rows, and y number of columns.) So while
+you may have larger and the equivalent of say 80.4x20.1, urxvt can't
+do anything with this extra space.
+
+If you honor size hints, the windows will end wherever they can, and
+use as much space as they can, but leave gaps between windows if the
+total space isn't properly divisible. If you don't honor size hints,
+the windows themselves take up the extra room (but they can't do
+anything with the extra room, so they just leave it blank, and
+sometimes the transparency is a bit wonky in those "buffers").
+
+So there you have it. I hope this helps!
+

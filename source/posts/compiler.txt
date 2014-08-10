@@ -1,0 +1,89 @@
+==============
+Compiler Model
+==============
+
+.. post:: 2008-06-24
+   :author: tychoish
+
+Here's another post in my general theme of "using a technology/comp-sci
+metaphor for creativity, new media and productivity" ... In the generous
+sense.
+
+For the non technical: compilers are computer programs that take raw
+computer code and turn it into something binary that a computer can run.
+This makes it much easier to write programs, because compilers let
+programers abstract certain functionality [1]_, and because compilers
+can do some consolidation and tuning as they run.
+
+While traditional compilers are used for the heavy duty code situations
+and applications written in C (and C++ and Objective-C, and so forth),
+when you think about it there are lots of situations where creators, in
+the digital world, are making something that is then processed by a
+computer script. In a way, web pages are like that, (though that happens
+every time their accessed rather than once.)
+
+The wiki program that I use, `ikiwiki <http://ikiwiki.info/>`__, works
+in this way by taking a directory of files and turning into web pages
+that I can read in the browser. This is basically how the wonderful
+LaTeX typesetting engine works. Also, interestingly, I suspect this is
+how most pro-level video/audio editing apps like FinalCut work (make a
+lot of edits and then render something out. Edits are made as a series
+of instructions to XML file, which the program then renders or
+compiles.)
+
+So what's the benefit to this? Here's what I've come up with:
+
+-  It makes it easier to write software that works with your data.
+Editing text is easy, particularly when that text is created either
+by you or by a program in a regular and expected way.
+-  Compiler modeled systems are less taxing generally on the system.
+Most of the time, what you're doing with the computer is just editing
+a text file. That's low power. Then when it comes time to compile it
+just has to crunch through some data. And then it's done. In WYSIWYG
+and live editing, the computer has to be working constantly to get
+from you to what you see.
+-  Any repetitive task can be automated or template, and the chances are
+that there are a very limited repertoire of *kinds* of documents that
+you're making. I write academic papers in APA format, (or did),
+formal letters, and full page knitting patterns. That's about it. I
+have templates on hand that mean that I can push the same block of
+text into a template and get a perfectly formated document. I can
+push the same block of text between the wiki and the blog and it'll
+compile (basically) the same way.
+-  It makes it more feasible to work in smaller files. I wrote a book in
+Word, and while I started writing the chapters in separate files, it
+quickly became apparent (and I think this holds true). If you're
+using a program like Word, the best bet is to make really long files,
+and keep projects together in one file. On the other hand, if you're
+working in plain text [2]_ it's trivial to mash-up a bunch of text
+files, and this makes it easier to edit and organize a project.
+
+So more than anything working in this way makes a lot of sense. Though I
+think to be fair there is a learning curve (but isn't there always?).
+The question I'm asking myself (and you, dear reader) is other than the
+general improved efficiency and cleaner workflow, is there a bigger
+extrapolation or application of this that we (or I) could apply to
+another phase of the creative/productive process? Rather than just
+automating the presentation, is could someone take the model where some
+sort of raw file is "put together" later and have that assumption shape
+the way that they create content?
+
+I'm not sure what that would look like, or even if it's a good idea, but
+its something to think about.
+
+.. [1]
+So most computer programs don't tell the hardware of a computer what
+to do, that takes a lot of time, forces programers to reinvent the
+wheel constantly, and is difficult to trans\ *port* from one type of
+machine to another. So most programs really just tell other programs
+(like operating systems, databases, web-servers, and so forth) to do
+things. The further you get from the actual hardware ("the metal")
+the more abstracted the program is. Right? This concludes your
+ill-informed computer science lesson of the day.
+
+.. [2]
+I suppose in a certain sense, I'm making an argument for using markup
+languages and text rather than more complex solutions, or compilers
+specifically, but I said that this was an "inspiration by technology"
+piece rather than something more specifically.
+

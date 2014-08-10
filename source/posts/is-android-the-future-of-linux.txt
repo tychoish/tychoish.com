@@ -1,0 +1,80 @@
+===============================
+Is Android the Future of Linux?
+===============================
+
+.. post:: 2011-09-06
+   :author: tychoish
+   :tags: mobile-technology, android
+
+By now, several weeks ago, in correspondence [[madalu]] wrote that he
+thought Android was probably future of Linux," mostly as a throw away
+line. This feels like a really bold statement, [1]_ and I've enjoyed
+thinking about Android and "the future of Linux." [2]_
+
+On the face of it, Android *is* the future of Linux. Android is the
+Linux that most people will interact with before all others in a
+concrete manner. In all likelihood The future of Linux is probably
+mostly in running web servers, virtualization hosts, and any other
+server that matters. At this point, Linux's platform support and use
+cases is far less interesting than its prevalence: the ubiquity of
+Linux, GNU, and BusyBox, is more import an that the fact that Linux runs
+everywhere in hundreds of different usage profiles.
+
+And really, "desktop Linux" or even "Linux for end-users," is something
+of a distraction. We don't all have to use Linux on the machines beneath
+our fingers for Linux to be successful. I'm a desktop Linux user because
+it's the right system for the work I do, and I can't work the way I need
+to with any other kind of system. But I use my systems in a very
+peculiar way and the thing that makes Linux ideal for me (and the people
+who are good at building Linux systems,) is not necessarily the
+qualities that make the best Linux distributions for most users.
+
+As someone who cares about Linux adoption and the use of free software,
+I don't want my argument to lead to the very common "let non-technical
+users use Macs" argument. Although it's true that OS X can be a
+convincing introduction to power and use of having a full UNIX-like
+system on your lap: this was my root (as it were.) Rather, I think that
+*the way to encourage Linux adoption is to increase computer literacy
+until users respect and value and power that Linux-based systems offer.*
+
+Easier said than done, of course.
+
+If this is the case, then Android isn't a very good introduction to
+Linux-based operating systems. Not because it's bad software, but
+because the kernel is pretty irrelevant to the overall user experience,
+or the interface that most users have.
+
+Regardless, while madalu is probably right, I don't think it matters.
+Android is largely orthogonal to the adoption of Linux. The bigger
+questions are:
+
+-  Does Microsoft have a tablet strategy? Really? The last time Linux
+made headway into users' hands (i.e. netbooks,) Microsoft changed
+strategies, and not only pushed Linux-based systems out of the
+market, but they also basically killed the device class. Netbooks
+really aren't a thing anymore.
+
+-  How close are we to tablet-like (or tablet-derived) devices from
+replacing general purpose computers for some classes of day to day
+activity. I suspect corporate machines will be the first to fall
+(more constrained/specific use cases; tablet systems give IT
+administrators more control, and increasingly work happens in web
+apps.)
+
+If corporate fleets are the first to fall, the first question becomes
+much more important. In any case, stay tuned, I'm working on collecting
+the rest of my thoughts on these questions. In the mean time, I'd [[look
+forward to hearing from you\|discourse]].
+
+Onward and Upward!
+
+.. [1]
+I would like to fully apologize ahead of the time if I'm
+characterizing the argument unfairly.
+
+.. [2]
+Though mostly ceremonial to mark the 20th anniversary, and because
+there have been 39 releases of the 2.6.x series kernel which is
+absurd to keep track of after a while, Linux is getting a version
+boost to version 3.x.
+

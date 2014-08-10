@@ -1,0 +1,75 @@
+================
+Tablet Adventure
+================
+
+.. post:: 2008-12-01
+   :author: tychoish
+
+So, after all my talk the other week about
+`netbooks <http://tychoish.com/rhizome/netbooks/>`__ and such things, I
+broke down and got a new computer. Which wasn't exactly needful, but
+it's quite nice, and I think it'll feature rather heavily in m posts
+this week. Sorry if this is too far afield for some. I hope suspect that
+it'll make sense in the end.
+
+Rather than wait until one of the other computers in the house died,
+(which would call forth my macbook in as part of the obsolescence
+cycle), I got a used ThinkPad x41 tablet on ebay (from a local vendor).
+This is probably about 3 years old, but in it's day it was a damn nice
+computer and although it's a bit puny in many regards its former glory
+shines through. It has a gig of ram, the construction is sturdy, and it
+has a lot of the features that are common place now like bluetooth and
+an SD card slot. So it's good hardware.
+
+And it's tiny. There's something about a 12 inch laptop that's *just*
+the right size. You can fit two standard withds of text next to each
+other on the screen, the keyboard is fullsized without sacraficing very
+much, and just like a netbook, any hit in performance is compensated for
+by the fact that your tasks are likely to be pretty minimal.
+
+One thing that I realized while I was away a couple weeks ago, was that
+there's something really good about the `Awesome Window
+Manager <http://awesome.naquadah.org/>`__ and the way that it tends to
+focus my attention and keep me from checking LiveJournal constantly.
+Which I'm very prone to doing when I'm using the Mac. So it made some
+sense to me to work on having a laptop that I could be more productive
+on. And it helps that this model has some other features that I think
+are nifty. Like it doesn't have a touch pad (opting for the "nipple"
+button between the 'g' and 'h' keys) and it's a Tablet, which makes it
+ideal for `reading
+things <http://tychoish.com/rhizome/reading-stuff/>`__
+
+One thing that I had been really worried about before hand was the ease
+of getting linux onto this system. Laptops are fineky, or they can be
+and on a laptop, if the hardware you have isn't supported, there's not a
+lot of recourse. And it would kind of suck to have a laptop with a video
+card that was unsupported, or a wireless card, say. Thankfully, I was
+able to crib off of someone else in this case, as I knew that `Emperor
+Linux <http://emperorlinux.com/>`__ had sold this computer in the past
+with linux preinstalled and they were able to get all the hardware to
+work. So I figured I was fairly safe.
+
+What I didn't expect is for the instalation to go so *well*. I
+downloaded a utility that would make an install-stick (as this machine
+doesn't have an optical drive) on my desktop, and that took some time,
+but but the instaliation itself maybe took half an hour. And then it
+just worked. There was a lot of messing around to be done, tweaking to
+Awesome for the smaller screen, and it took me some time to get all my
+data downloaded and setup, but not particularly long. And now it all
+works. Just like that.
+
+It's not perfect: the battery only has about 90 minutes on it at best, I
+can't get the tablet to work when the screen's upside down in tablet
+mode, there's an accelerometor that should reorient the screen, but that
+might just take some elbow greese. The biggest problem, frankly, was
+remapping the keyboard so that it was both comfortable for tycho useage
+(ie. getting rid of the Caps\_Lock key and making it another Control
+Key) and making the keyboard suitable for awesome (ie. taking the normal
+control keys and making them "mod4" or "Windows" keys for all the custom
+keybindings). That'll also take a litle bit of work to get right, as a
+few things appear to be wonky. Who knows.
+
+Anyway, what I really need is a suitable sticker to cover up the IBM
+logos. Which, unlike an Apple logo, isn't the kind of thing that one
+might show off with pride. Suggestions?
+

@@ -1,0 +1,27 @@
+=================
+Do Y'all Use RSS?
+=================
+
+.. post:: 2009-04-17
+   :author: tychoish
+   :tags: cyborg, new-media
+
+I just wanted to check to see if you all use RSS, and if so I have a few
+questions:
+
+-  Is one of the primary ways you interact with content on the web?
+
+-  What software do you use to read feeds? (Google Reader? NetNewsWire?
+Lifrea? Newsbeuter? FeedGator/FeedDemon? LiveJournal?).
+
+-  What's your biggest pet peeve about the RSS ecosystem? (including
+feed readers, feed parsers, variations in feed
+generation/publication, under/over adoption).
+
+Thanks.
+
+(my answers? yes; google reader; non-full text feeds and generally
+lackluster reading options.)
+
+I look forward to hearing what you have to say.
+

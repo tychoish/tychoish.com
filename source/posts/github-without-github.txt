@@ -1,0 +1,76 @@
+=====================
+Github without Github
+=====================
+
+.. post:: 2013-01-02
+   :author: tychoish
+
+Github is great, and I think they've done a lot--for the better--to
+change and shape the way that everyone uses and does really awesome
+things with git.
+
+But I worry about lock-in, I worry about having a project that relies on
+some feature of github that can't be easily accomplished on another
+platform.
+
+This post is an index of "git ecosystem" tools that let you get
+something that looks a bit like github on your own servers. Feel free to
+edit this page (it's a wiki!) if you have other tools you like or can
+recommend!
+
+Permissions Control
+-------------------
+
+-  `Gitosis <http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way>`__
+-  `Gitolite <https://github.com/sitaramc/gitolite>`__
+
+Wiki / Pages
+------------
+
+Github has a wiki system that's open source. I've never played around
+with it, because there's `ikiwiki <http://ikiwiki.info/>`__ which is
+better anyway.
+
+Their page's functionally is also open source, it's Jekyll there's no
+particular shortage of programs that do this kind of thing, and most
+aren't that good but that's an orthogonal point.
+
+Hosted Solutions
+----------------
+
+There are about a million different repository viewers, but the magic of
+the github website is that there's a lot of other integrated
+functionality (bug tracking, merge request queues, automatic
+forking/branching/etc.
+
+-  `gitorious <https://gitorious.org/gitorious>`__ - functional but
+inelegant.
+
+-  `gitlab <http://gitlabhq.com/>`__ - promising but untested.
+
+-  `repo.or.cz <http://repo.or.cz/>`__ - functional but not practical
+for casual administration.
+
+Web hooks
+---------
+
+I've only recently found
+`notify-webhook <https://github.com/metajack/notify-webhook>`__, but it
+basically implements something like github's service hooks, as a
+traditional git ``post-recieve`` hook.
+
+The Rest
+--------
+
+There's no great stand alone merge (pull) request system. Other code
+review tools are uneven, but the truth is that pull requests are not a
+sufficiently advanced code review tool.
+
+`Patchwork <http://jk.ozlabs.org/projects/patchwork/>`__ might work, but
+its a bit rustic for contemporary workflows.
+
+Integrated issue tracking, hell any kind of issue tracking, remains an
+unsolved problem, but I think github's approach is a good start, and
+that feature set isn't as easily available from other
+projects/products/tools.
+

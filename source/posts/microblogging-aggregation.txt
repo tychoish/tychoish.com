@@ -1,0 +1,40 @@
+=========================
+Microblogging Aggregation
+=========================
+
+.. post:: 2009-04-08
+   :author: tychoish
+   :tags: new-media, cyberculture
+
+When `Jaiku <http://www.jaiku.com>`__ gave microbloggers (ie users of
+services like `identi.ca <http://identi.ca/>`__
+`twitter <http://www.twitter.com/>`__, etc.) the ability to aggregate
+their content onto Jaiku from blogs, flickr, delicious, and of course
+twitter as well, I noted that it wouldn't take much for the Jaiku to
+become a ghost town, where no one would have to actually create new
+content or read in order for new content to filter through the site.
+While syndication allows people to do some really amazing things with
+content, without filtering, context, and moderation it's really easy to
+become overwhelmed. Frankly Jaiku provide(s/ed) enough filtering ability
+to make this useful but this "problem" continues:
+
+There are services like `ping.fm <http://www.ping.fm>`__ which let you
+type once and send widely to a whole host of audiences on a bunch of
+different websites. Which is great: it lets you be present without
+taking up all your time, it allows you to reach a very fractured
+audience. Good stuff. Right?
+
+Except not so much. The thing about "social media" and these new very
+conversational media is that they're not so much about sending widely.
+They're great for reaching people, *in the moment*, but they're really
+more about having conversations with a community.
+
+So we need something better. Because being shut off from your friends
+because you use different websites is bad; but what amounts to using AM
+radio cranked up loud to talk to your friends in a couple of different
+coffee houses is worse. I think open micro blogging (like identi.ca and
+laconica) is a step in the right direction, better independent profiles
+and curatorial tools would be another.
+
+Thoughts?
+

@@ -1,0 +1,59 @@
+==========================================================
+Better Living through Regular Expressions: A Dramatic Work
+==========================================================
+
+.. post:: 2007-07-18
+   :author: tychoish
+
+G: My life is over!
+
+H: What? Liar, How can you say that?
+
+G: Huh?
+
+H: You're talking to me anyway?
+
+G: But I cant find my files.
+
+H [blank stare].
+
+G: Ok, ok, I found the files, but there are a lot of them and they are
+huge. This is the problem with never throwing anything awa--
+
+H: Regular Expressions.
+
+G: Wha? My expressions are quite regular right now. I just can't find
+any of the right--
+
+H: I meant like Perl.
+
+G: Oh, you would. Swine.
+
+H: Whatever, at least I can find anything in an instant?
+
+G: An instant? Really, and instant?
+
+H: Well, theoretically.
+
+G: Famous last words. Show me!
+
+H: Ok! [pause] let me get my books.
+
+G: Don't bother. (Sigh.)
+
+H: Now whose being melodramatic?
+
+G: Just get over here and write the danm shell script.
+
+H: Ok, ok. Where does it start?
+
+G: ^.
+
+H: ?
+
+G: Oh Sh[aeiou]t...
+
+H: that doesn[]t make sense.
+
+G: If you knew how to type it would.
+

@@ -1,0 +1,58 @@
+===================
+City Infrastructure
+===================
+
+.. post:: 2011-03-17
+   :author: tychoish
+   :tags: cyborg, infrastructure
+
+I'm always interested in how the lessons that people learn in IT trickle
+down to other kinds of work and problems. This is one of the reasons
+that I [1]_ am so interested in what developers are interested in: if
+you want to know what's happening in the technology space, it's best to
+start at the top of the food chain. For this reason `this article from
+IBM, which addresses the use of IT/Data Center management tools outside
+of the data
+center <http://www-03.ibm.com/press/us/en/pressrelease/33945.wss>`__ was
+incredibly interesting for me.
+
+When you think about it, it makes sense. IT involves a lot of physical
+assets, even more virtual assets, and when projects and systems grow big
+enough, it can be easy to lose track of what you have, much less what
+*state* it's in at any given time. Generalized, this is a prevalent
+issue in many kinds of complex systems.
+
+As an aside, I'm a little interested when software that provides asset
+management and monitoring features, will scale down to the personal
+level. That'll be interesting too. There are the beginnings of this kind
+of thing (e.g. iTunes, and
+`git-annex <http://git-annex.branchable.com/>`__) but only the
+beginnings.
+
+I'm left with the following questions:
+
+-  Obviously moving from managing and monitoring networked devices to
+managing and monitoring infrastructure objects like water filtration
+systems, storm water drainage, the electrical grid, snow removal,
+etc. presents a serious challenge for the developers of these tools,
+and this adaptation will likely improve the tools. *I'm more
+interested in how cities improve in this equation.* And not simply
+with regards to operating efficiencies. *What do we learn from all
+this hard data on cities?*
+
+-  Will cities actually be able to become more efficient, or will they
+need to expand to include another layer of management management,
+that nullifies the advances. There are also concerns about additional
+efficiency increasing the "carrying capacity of cities," into
+unsustainable levels.
+
+-  Can the conclusions from automated city-wide reporting lead to
+advancements in quality of service, if we're better at determining
+defective practices and equipment. In this vein, how cities share
+data between them will also be quite interesting.
+
+[[I'd love to hear from you\|discourse]]!
+
+.. [1]
+`RedMonk <http://redmonk.com/>`__ also use a similar argument.
+

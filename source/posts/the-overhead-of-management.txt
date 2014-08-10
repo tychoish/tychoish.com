@@ -1,0 +1,81 @@
+==========================
+The Overhead of Management
+==========================
+
+.. post:: 2010-07-01
+   :author: tychoish
+   :tags: organization, politics, systems-administration
+
+Every resource, every person, every project, every machine you have to
+manage comes with an ongoing cost. This is just as true of servers as is
+it is of people who work on projects that you're in charge of or have
+some responsibility for, and while servers and teammates present very
+different *kinds* of management challenges, working effectively and
+managing management costs across contexts is (I would propose) similar.
+Or at least similar enough to merit some synthetic discussion.
+
+There's basically only one approach to managing "systems administration
+costs," and that's to avoid it as much as possible. This isn't to say
+that sys admins avoid admining, but rather we work very hard to ensure
+that systems don't *need* administration. We write `operating
+systems <http://www.debian.org/>`__ that administer themselves, we
+script procedures to automate most tasks as much as possible (the Perl
+programing language was developed and popularized for use of easing the
+administration of UNIX systems,) and we use
+`tools <http://www.puppetlabs.com/>`__ manage larger systems more
+effectively.
+
+People, time, and other resources cannot be so easily automated, and I
+think in response there are two major approaches (if we can create a
+somewhat false dichotomy for a moment:)
+
+On the one hand there's the school of thought that says "admit and
+assess management costs early, and pay them up front." This is the
+corporate model in many ways. Have (layers upon layers of) resources
+dedicated to `managing management
+costs <http://tychoish.com/rhizome/managing-management-costs/>`__, and
+then let this "middle management" make sure that things get done in
+spite of the management burden. On servers this is spending a lot of
+time choosing tools, configuring the base system, organizing the file
+system proactively, and constructing a healthy collection of "best
+practices."
+
+By contrast, the other perspective suggests that management costs should
+only be paid *when absolutely necessary*. make things, get something
+working and extant and then if something needs to be managed later, do
+it then and only as you need. On some level this is inspiring philsophy
+behind the frequent value of favoring "working code" over "great ideas"
+in the open source world. [1]_ Though I think they phrase it
+differently, this is the basic approach that many hacker-oriented start
+ups have taken, and it seems to work for them. On the server, this
+approach is the "get it working," approach, and these administrators
+aren't bothered by having to go in every so often to "redo" how things
+are configured, and I think on some level this kind of approach to
+"management overhead" grows out of the
+`agile <http://agilemanifesto.org/>`__ world and the avoidance of
+"premature optimizations."
+
+But like all "somewhat false dichotomies," there are flaws in the above
+formulation. Mostly the "late management" camp is able to delay
+management most effectively by anticipating their future needs (either
+by smarts or by dumb luck) early and planning around that. And the
+"early management" camp has to delay *some* management needs or else
+you'd be drowned in overhead before you started: and besides, the MBA
+union isn't that strong.
+
+We might even cast the "early management" approach as being "top down,"
+and the "late management" camp as being "bottom up." If you know, we
+were into that kind of thing. It's always, particularly in the
+contemporary moment to look at the bottom-up approach and say "that's
+really innovative and awesome, that's better," and view "top-down"
+organizations as "stodgy and old world," when neither does a very good
+job of explaining what's going on and there isn't inherent radicalism or
+stodginess in either organization. But it is interesting. At least
+mildly.
+
+Thoughts? Onward and Upward!
+
+.. [1]
+Alan Cox's `Cathedrals, Bazaars and the Town
+Council <http://slashdot.org/features/98/10/13/1423253.shtml>`__
+

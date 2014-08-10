@@ -1,0 +1,19 @@
+=============================
+Google Earth flight simulator
+=============================
+
+.. post:: 2007-09-02
+   :author: tychoish
+
+`Google Earth flight
+simulator <http://feeds.feedburner.com/~r/boingboing/iBag/~3/151043102/google-earth-flight.html>`__:
+
+Many BoingBoing readers have sent in word of a "hidden" flight
+simulation feature in Google Earth that's making the blog-rounds.
+TechCrunch has a post on how to use it here. (thanks Chris and
+others)
+
+(from `Boing Boing <http://www.boingboing.net/>`__.)
+
+How flippin' cool is that?
+

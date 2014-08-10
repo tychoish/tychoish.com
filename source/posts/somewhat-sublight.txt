@@ -1,0 +1,69 @@
+=================
+somewhat sublight
+=================
+
+.. post:: 2008-08-14
+   :author: tychoish
+
+I got my `hair cut last
+friday <http://flickr.com/photos/tychoish/2744789963/>`__ and while I
+was waiting for my turn in the chair, I did a little writing with my
+`ipod touch <http://tychoish.com/rhizome/ipod-touch-review/>`__, which
+was an experience onto itself. [1]_ But this is a post about what I
+wrote, not how I wrote it...
+
+In recognition of `my need to work on a new
+story <http://tychoish.com/rhizome/in-between-ness/>`__ I began to work
+on developing a new story. For the past year or so I've been working in
+a much "harder" context than I might otherwise be prone to. No
+`FTL <http://en.wikipedia.org/wiki/Faster-than-light>`__, no aliens, and
+if we ignore station keeping, no alien worlds, no terraforming, and
+nothing more than say 500 years in the future. I mean I'm not
+particularly rigorous from a technical perspective, and while I have a
+rough grasp of `Hohmann Transfer
+Orbits <http://en.wikipedia.org/wiki/Hohmann_transfer_orbit>`__ and
+`Lagrangian points <http://en.wikipedia.org/wiki/Lagrangian_Point>`__ I
+don't exactly do the math to check if there'd be a fuel efficient launch
+window arriving on Mars in "late 2542."
+
+Also at issue is the experience of my first-highschool-era novel which
+was very FTL/military/alien worlds/terraforming/etc and as I went back I
+found all that absurd.
+
+So I figure, I have a fiction blog, I could write something short, play
+with a world briefly with hyperspace and aliens and what not, and if it
+sucks, it'd be over soon enough. So I sat down, and began to write some
+notes for the world and for the character that I want to (re)use.
+
+Guess what?
+
+No FTL. Alien worlds and terraforming, and outlandish technology on the
+interstellar ships, but no FTL.
+
+It seems that no matter what I do I *really* want to write stories about
+isolated populations of people, because that's where cool things
+surrounding group identities/histories develop, and if people can hop on
+a ship and be "home" in a week or two, the creation of new worlds
+doesn't provide a cultural situation that is fundamentally unique from
+our current globalized world.
+
+Sigh.
+
+Thoughts?
+
+Onward and Upward!
+
+.. [1]
+So it went well. I'm clearly not very fast with the keyboard, and I
+don't think that I'm missing something by not having hardware keys,
+but once I learned to just "go with it," rather than worry about
+accuracy, I think I got more accurate, because the corrections were
+spot on. It's smart. Here's the thing that sucks. There's no good
+text editing program. I'm using `Endnote <http://www.endnote.com/>`__
+which has good syncing but but it's a bit... rough. I think in the
+future, if I try and break from my "take notes in one giant text
+file," it might work a little better.
+`Alan <http://macromates.com/>`__, it wouldn't be too much to ask for
+for an ipod textmate? maybe with git hooked up as a plugin? Thought
+so. Anyway.
+

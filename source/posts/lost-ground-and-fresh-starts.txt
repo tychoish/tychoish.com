@@ -1,0 +1,29 @@
+============================
+Lost Ground and Fresh Starts
+============================
+
+.. post:: 2002-12-15
+   :author: tychoish
+   :tags: update, tealart
+
+Something unfortunate has happened dear readers. The entire databases
+for this site as well as CollectiveArts were lost. When all, or most, of
+the content of a site is stored in a mySQL database, site management
+becomes really easy and the file structure becomes clean and logically
+arranged: it's great. When you're old hosts sever craps out and you must
+move to a nicer facility with out a database dump: it's a pain in the
+ass.
+
+Nothing's changed, and everything works as it should, unfortunately, all
+of that old content is here. I should be moping around and fighting like
+hell to get a fairly recent backup of the database, but I'm not. Its ok,
+and Chris and I will be able to move forward. After all a fresh start
+that clears out all of that start that I've started to get a little
+embarrassed about is an okay thing. I'm not celebrating it, but it's not
+a bad thing. I've posted two of the entries from my personal archive
+that I'm rather proud of (and I did postdate one), and we'll continue
+from here.
+
+After a month of not having a working website, I'd think that it's good
+to be back.
+

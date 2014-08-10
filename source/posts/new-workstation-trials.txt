@@ -1,0 +1,83 @@
+======================
+New Workstation Trials
+======================
+
+.. post:: 2009-07-03
+   :author: tychoish
+   :tags: arch-linux, cyborg
+
+Rather than bore you with minutia of my move (eg. shit, I need to get a
+shower curtain; why is all my toilet paper on the moving truck; I'm
+getting really sick of sitting on the floor while I wait for the moving
+truck) I thought I'd talk a little bit about something that seems to
+occupy a bunch of my thinking these days: how I'm setting up my
+work-desktop computer. It's trivial, an on going process, and of minimal
+interest to most other people.
+
+So I think I'll make a series of it. There's this post, and another that
+I've written, and a few other thoughts that I think fit in. And the
+truth be told, I've been spending so much time recently packing things,
+attending to chores and dealing with other *crap*, that it'll be good to
+have an excuse to do some writing again.
+
+--------------
+
+Here's the setup: I have an iMac of contemporary vintage for a
+workstation, which is of course running OS X 10.5 Leopard, by default.
+Here are the challenges I found myself facing:
+
+-  OS X is a great operating system, but I'm not a mac guy anymore, much
+to my surprise. I installed quicksilver pretty early on, but the
+truth is that my head isn't shaped that way any more. The mouse
+frustrates me, and all the things that make OS X great I don't really
+use.
+
+-  All my other machines and working environments for the past while
+have been linux based, and I've basically come to the conclusion that
+having *one* environment that's shared between a large number of
+boxes is preferable to having different and unique operating
+environments.
+
+For a long time, I got the unified operating environment by virtue of
+only using one portable computer; now I just keep my laptop and desktop
+the same (more or less) get a very similar result. This is probably
+worth it's own post, but I was vary wary of having a work machine that
+was too radically different from what I'm used to and what I use
+personally.
+
+So if I need to run Linux, there are really only three options:
+
+1. Level OS X and just run ubuntu/debian/etc.
+
+2. Set up a dual boot OS X/Linux system, and switch as I need to.
+
+3. Run Linux in some sort of virtual machine environment like VM Ware or
+VirtualBox.
+
+Option one is simple, and I liked the thought of it, but it seems like
+such a waste and what if there was some mac-specific app that I wanted
+to try? And it removes the option of using OS X as a back up... While
+I'm no longer a mac guy, I do think that OS X's desktop environment is
+superior to any non-tiling window manager for X11/Linux.
+
+Option two works, certainly, but I hate rebooting, and in a lot of ways
+option two would be functionally like option one, except I'd have less
+accessible hard drive space, and I'd have to reboot somewhat frequently
+if it turned out I actually needed to use both. Best and worst of both
+worlds.
+
+Option three is frustrating: virtual machines give some sort of minor
+performance hit, integration between host and guest is difficult and
+confusing sometimes, and guest operating stability is largely dependent
+upon host operating system stability.
+
+Ultimately I chose option three, and as I used the machine, the fact
+that performance suffers a hit is totally unnoticeable, and though it
+took a bunch of futzing, I think I've finally settled into something
+that shows a lot of promise of working. (*Ed. note that I've got a bit
+of a production lag on the blog.*)
+
+--------------
+
+I think that's sufficient introduction. There'll be more, don't worry.
+

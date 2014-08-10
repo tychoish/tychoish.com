@@ -1,0 +1,63 @@
+=================
+Philosopher Kings
+=================
+
+.. post:: 2009-01-05
+   :author: tychoish
+
+So this is totally a "just for fun" post. As you might have noticed from
+all the blogging I've done about rearranging computers, switching to
+Linux and getting a new phone, the second half of 2008 has had a lot of
+computer acquisitions and changes. I try to thematically name
+computers/partitions and hard drives, and I've been through a couple of
+naming schemes, but I have a new one that I kind of like: Great names in
+western philosophy.
+
+Now technically, the best name schemes for networked computers are
+groups of related nouns. So in a big network, you'd have printers named
+after flowers (violet, daisy, petunia) and laptops named after sheep
+(merino, finn, coopworth, jacob) and desktops named after crops (corn,
+wheat, soybean, tobacco) say. Actually these are pretty bad choices, but
+choosing common, inoffensive, and generic nouns is probably idea. This
+way, if you're browsing a network you can tell what things are pretty
+quickly, and you won't run out of names and have to have more than one
+system.
+
+So knowing that drawing every name from the same pool is probably the
+wrong thing to do, here's the list of my little collection.
+
+-  Leibniz: the desktop
+-  Spinoza: cellphone/blackberry
+-  Hegel: the ThinkPad
+-  Levi-Strauss: the wireless access point.
+-  Deleuze: the linux partition of the macbook
+-  Guatteri: the OS X partition of the macbook
+
+My knowledge of modern and 19th century philosophy is way more limited
+and touch and go than my knowledge of 20th century. You could of course
+make the argument that Levi-Strauss was more of an anthropologist than a
+philosopher, but I tend to cast a pretty big net, and think that
+Clifford Gertz would even qualify for the list too. I suppose that I
+could have made had laptops be German philosophers, and desktop be
+French philosophers; or I could have divided it up by centuries. Anyway,
+it's fun, and here's a list of possible names for future gear:
+
+-  Gertz
+-  Derrida
+-  Spivak
+-  Marx/Engels
+-  Ricoeur
+-  Foucault
+-  Kierkegaard
+
+You'll notice that I didn't include Nietzsche on the list. I think it's
+poor planning to name a computer (or anything) after someone whose known
+for being crazy. I include Foucault out of personal fondness, but have
+avoided other neo-Marxists, though I suppose that would open things up
+to Gramsci and Althusser (if he hadn't gone crazy) or Merleau-Ponty (but
+I never spell that one right on the first go).
+
+Other suggestions of favorite philosophers are of course welcome.
+
+Do you have a naming scheme? If so, what is it?
+

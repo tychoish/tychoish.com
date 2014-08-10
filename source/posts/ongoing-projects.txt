@@ -1,0 +1,124 @@
+================
+Ongoing Projects
+================
+
+.. post:: 2009-09-07
+   :author: tychoish
+   :tags: journal, update
+
+I've been talking with people recently about "what I'm working on," and
+I've realized two things. First, that I'm beginning to get spread thin;
+and second, that I haven't really used this blog as an effective tool to
+track these projects and facilitate ongoing work on these projects. So
+I'm going to write an "ongoing projects update." So there.
+
+While I don't think there's sense in making this a "weekly feature" I
+think taking the opportunity to check in with you all about my projects,
+to mention cool things that are going on with these projects.
+
+1. **The Novel**
+
+I've not managed to make this into the habit that I want it to be.
+Having totally missed my goal of finishing the draft in August, I've set
+a more tentative goal of getting it done in time for NaNoWriMo this
+year. I don't know if I'll do a NaNo project this year--probably not,
+I'm too contrary--but it seems like a good and doable goal.
+
+What has me hung up at the moment, is I have a few scenes that I need to
+be written by a particular character that I've come to despise, not
+because he's a bad character, I just find him frustrating to write. This
+is mostly interesting, insofar as I initially thought that he'd be the
+*easy* character to write in the story.
+
+Despite this hang up, I'm really quite close to being done with this
+monster. Three or four more chapters, and some editing across the board.
+Not a huge deal. I just need to *do it*. That's a lot of what this Labor
+Day weekend has been about.
+
+2. **This Blog**
+
+You're all aware of this project, I trust. I've been able to keep up my
+"mostly daily" schedule for a long time now. Two or three years and
+counting. Since I've started the new job, and since my posting entries
+(if not actually writing them,) is a manual task (with Wordpress, I
+could queue things to Autopost). I'm not as good as I once was about
+getting entries posted in the morning as I would like to be. But it gets
+there.
+
+Also, while I'm not cruising toward the A-List like I might have dreamed
+about when I was a teenager and getting started with this whole blogging
+thing, I'm actually pretty pleased with how this blog is going. Most
+entries evoke some sort of response that I see: on identi.ca, on
+facebook, or in comments. I get to have cool email conversations with
+you all. I'm pretty pleased. I'm still trying to figure out how to do *a
+little better*, because I think it'll be awesome for all of us, if there
+are more voices and conversations going on, but I *love* blogging, and
+I'm really pleased with this project.
+
+3. **Cyborg Institute and Sygn System**
+
+This is the project that I've started with
+`deepspawn <http://www.valkertown.org>`__, to create a distributed
+social networking and "user generated database engine." `Notes and other
+work <http://wiki.cyborginstitute.net/softwarefreedom/sygn/>`__ related
+to this project are starting to come together on the `Cyobrg Institute
+Wiki <http://wiki.cyborginstitute.net/>`__, and it's something that I
+put a lot of work into a few weeks ago, but I haven't really given it
+the kind of love in the past two weeks that its needed.
+
+My list at the moment, for Sygn related projects is to do some
+reorganization of the wiki (the constant struggle), to announce and
+promote the `xmpp muc for the sygn
+project <xmpp:sygn@conference.cyborginstitute.net>`__ (a chat room), to
+help people develop a basic reference implementation (and maybe learn
+some Python in the process?), and generate a few more use cases, to help
+folks understand the implications and possible utility of the project.
+
+4. **Cyborg Institute Systems Administration**
+
+One of my contentions about *the future* (of technology specifically,
+but I think it's generalizable to some extent) is that as "previously
+scarce resources" like data connectivity, storage space, and software,
+become less scarce, the one thing that will continue to have concrete
+value is systems administration. Having people in the world who are
+really good at keeping larger systems running, at making sure all of the
+pieces talk to each-other, at making sure the people who need
+technological services have the right kind of service that they need.
+There's real value in that.
+
+And that's a huge part of what the "Cyborg Institute" project is about.
+Sure there's a lot of cyborg-related content and theorizing that I'm
+interested in working and developing, but really I can do that here on
+`tychoish <http://tychoish.com/>`__, what Cyborg Institute lets me (and
+you!) do is make this conversation much larger, it lets us work together
+and it allows me to help people do awesome things.
+
+While the product of this work isn't particularly visible, and I don't
+really have the ability to say "I did X, Y, and Z for CI" this week,
+there are a lot of little things, and I think it's definitely a
+worthwhile project.
+
+5. **`Critical Futures <http://criticalfutures.com>`__
+`Relaunch <http://wiki.criticalfutures.com/>`__**
+
+This is definitely a Cyborg Institute project: it's running on CI
+servers, we're using CI tools, and I think the project--a collaborative
+fiction wiki--is very much one of these new technology-things that makes
+the whole "cyborg moment" so interesting.
+
+I should point out that [brush][] is largely spearheading this. I'm just
+doing a bit here and there, and making sure the system runs well. I'm
+excited about this, and I'm glad that Critical Futures is going to get
+some love. There'll be some other projects of mone--the novel, and so
+forth--on Critical Futures as well someday, but that's down the road I
+think. Good to do something here, no?
+
+6. **Knitting**
+
+I think it's a good day when you can be like "You know tycho, you should
+watch more TV." my current knitting project is very much a "do it whilst
+watching television" kind of project, and I'd very much like to be able
+to create a space in my day(s) to get more work on this done.
+
+That seems about good for now. What are you working on? :)
+

@@ -1,0 +1,82 @@
+=====================
+Jekyll and Automation
+=====================
+
+.. post:: 2010-06-08
+   :author: Sam Kleinman
+   :tags: software, open-source, publishing, internet
+
+As this blog ambles forward, `albeit
+haltingly <http://criticalfutures.com/2010/05/the-schedule/>`__, I find
+that the process of generating the site has become a much more
+complicated proposition. I suppose that's the price of success, or at
+least the price of verbosity.
+
+Here's the problem: I really cannot abide by dynamically generated
+publication systems: there are more things that can go wrong, they can
+be somewhat inflexible, they don't always scale very well, and it seems
+like horrible overkill for what I do. At the same time, I have a huge
+quantity of static content in this site, and it needs to be generated
+and managed in some way. It's an evolving problem, and perhaps one that
+isn't of great specific interest to the blog, but I've learned some
+things in the process, and I think it's worthwhile to do a little bit of
+rehashing and extrapolating.
+
+The fundamental problem is that the rebuilding-tychoish.com-job takes a
+long time to rebuild. This is mostly a result of the time it takes to
+convert the Markdown text to HTML. It's a couple of minutes for the full
+build. There are a couple of solutions. The first would be to pass the
+build script some information about when files were modified and then
+have it only rebuild those files. This is effective but ends up being
+complicated: version control systems don't tend to version ``mtime`` and
+importantly there are pages in the site--like archives--which can become
+unstuck without some sort of metadata cache between builds. The second
+solution is to provide very limited automatically generated archives and
+only regenerate the last 100 or so posts, and supplement the limited
+archive with more manual archives. That's what I've chosen to do.
+
+The problem is that even the last 100 or so entries takes a dozen
+seconds or more to regenerate. This might not seem like a lot to you,
+but the truth that at an interactive terminal, 10-20 seconds feels
+interminable. So while I've spent a lot of time recently trying to fix
+the underlying problem--the time that it took to regenerate the
+html--when I realized that the problem wasn't *really* that the rebuilds
+took forever, it was that I had to *wait* for them to finish. The
+solution: background the task and send messages to my IM client when the
+rebuild completed.
+
+The lesson: don't optimize anything that you don't *have* to optimize,
+and if it annoys you, find a better way to ignore it.
+
+At the same time I've purchased a new domain, and I would kind of like
+to be able to publish something more or less instantly, without hacking
+on it like crazy. But I'm an edge case. I wish there were a static site
+generator, like my beloved
+`jekyll <http://wiki.github.com/mojombo/jekyll/>`__ that provided great
+flexibility, and generated static content, in a smart and efficient
+manner. Most of these site compilers, however, are crude tools with very
+little logic for smart rebuilding: and really, given the profiles of
+most sites that they are used to build: this makes total sense.
+
+--------------
+
+I realize that this post comes off as pretty complaining, and even so,
+I'm firmly of the opinion that this way of producing content for the web
+is the most sane method that exists. I've been talking with `a
+friend <http://christopherjacoby.com/>`__ for a little while about
+developing a way to build websites and we've more or less come upon a
+similar model. Even my day job project uses a system that runs on the
+same premise.
+
+Since I started writing this post, I've even taken this one step
+further. In the beginning I had to watch the process build. Then I
+basically kicked off the build process and sent it to the background and
+had it send me a message when it was done. Now, I have rebuilds
+scheduled in cron, so that the site does an automatic rebuild (the long
+process) a few times a day, and quick rebuilds a few times an hour.
+
+Is this less efficient in the long run? Without a doubt. But processors
+cycles are cheap, and the builds are only long in the subjective sense.
+In the end I'd rather not even think that builds are going on, and let
+the software do all of the thinking and worrying.
+

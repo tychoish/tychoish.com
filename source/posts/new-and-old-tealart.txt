@@ -1,0 +1,79 @@
+===================
+New and Old TealArt
+===================
+
+.. post:: 2008-01-29
+   :author: tychoish
+
+**Update:** *I totally take this entire post back, I said, "oh, let me
+try this little thing out, and see what happens, and broke the whole
+thing, in a way that will take me awhile to fix, but will avoid running
+thousands of instances of wordpress. Sorry about this. Cheers, tycho"*
+
+**Second Update:** *Ok, I have a working installation of WordPress MU
+installed on tealart, and everything seems to work pretty well. In fact,
+really quite well. Including the site that I talked about in this post.
+Redirects are in place but, check it out at http://tychoish.com/micro/,
+which is a good place for it.*
+
+So after much hemming and hawing about Drupal, I finally gave up on the
+sort of grandiose plan that I had been laboring under and just installed
+a new clean instance of wordpress, the same software that I used before,
+and continue to use on tychoish.com
+
+What changed? `This "Prologue"
+Theme <http://wordpress.com/blog/2008/01/28/introducing-prologue/>`__
+from some of the makers of wordpress.
+
+It's a really cool idea. Basically, it's a self-hosted
+`twitter <http://www.twitter.com/tychoish/>`__ kind of site, *except*
+the posts can be a little longer, there are comments, and you can do it
+more as a performance piece with a group of other people.
+
+Usually I'm not much of a fan of the people who try and get software
+like wordpress to do things that it really wasn't designed for. But for
+some reason I rather like this particular usage, and don't mind the fact
+that what's happening behind the scenes is semi-kludgy.
+
+Actually what's happening behind the scenes is even more kludgey because
+even the version hosted on wordpress.com doesn't have a loop in it.
+Loops are the wordpress way of getting the template to run a number of
+times so that you get a web *log* of posts. What this means is, I cannot
+for devil, on stock version, get the template to show more than one
+post.
+
+Thankfully I'm a WP genius in the real world and I was able to hack
+something together that works. For those of you who are playing around
+at home, it seems like the whole design is based on nested unordered
+lists. Which is kind of maddening for those of us who love using
+bulleted lists in our blog posts, but no matter.
+
+Anyway, so yes. There's a new `TealArt <http://tychoish.com/>`__. It's
+not "for real yet" as I need to find people who want to do this with me.
+I'm looking at you: `vaugish <http://vaugish.livejournal.com/>`__,
+`subjunctus <http://subjunctus.livejournal.com/>`__,
+`composerscott <http://composerscott.livejournal.com>`__, and of course
+`Chris <http://www.cgkreality.com>`__ and
+`Dave <http://www.soliloqueer.com>`__). Anyone else who wants in and
+thinks they could post, should just leave a comment and a way for me to
+get a hold of you and I'll get you set up. It'll be fun. No really, it
+will.
+
+The downside of this is that while my old plan for TA revision hinged
+around having a site that "did it all," and would serve as a home for
+Station Keeping (which is still mostly homeless) and some knitting
+projects and patterns (which I can run out of what's already around on
+tychoish.com pretty effectively.)
+
+My thought for station-keeping at the moment is that I'll throw another
+instance of Wordpress on tealart.com, probably at tealart.com/serial,
+and throw redirections site/duplications up at /hanm and
+/station-keeping. I need to stew on this for a little while.
+
+This is a really lame journal entry, so I'll try and post again. But
+there are things to be done.
+
+Hope to hear from you soon!
+
+Onward and Upward!
+

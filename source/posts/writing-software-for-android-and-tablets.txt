@@ -1,0 +1,50 @@
+===============================
+Constraints for Mobile Software
+===============================
+
+.. post:: 2011-11-07
+   :author: tychoish
+   :tags: writing, technology, software, android, productivity
+
+This post is mostly just an overview of
+`Epistle <http://kooklab.com/epistle.html>`__ by `Matteo
+Villa <http://twitter.com/_swanz>`__, which is--to my mind--the best
+Android note taking application ever. By the time you read this I will
+have an Android Tablet, but it's still in transit while you read this
+and that's a topic that dissevers it's own post.
+
+Epistle is a simple notes application with two features that sealed the
+deal:
+
+1. It knows `markdown <http://daringfireball.net/projects/markdown>`__,
+and by default provides a compiled rich text view of notes before
+providing a simple notes editing interface. While syntax highlighting
+would be nice, we'll take what we can get.
+
+2. It's a nice, simple application. There's nothing clever or fancy
+going on. This simplicity means that the interface is clean and it
+just edits text.
+
+For those on the `other side <http://apple.com/ios/>`__ there's
+`Paragraft <http://itunes.apple.com/app/paragraft/id412998778?mt=8>`__
+that seems similar. While in my heart of hearts I'm probably still
+holding out for the tablet equivalent [1]_ of emacs. In the mean time, I
+think developing a text editing application that provide a number of
+paradigmatic text editing features and advances for the touch screen
+would be an incredibly welcome development.
+
+In the end there's much work to be done, and the tools are good enough
+to get started.
+
+.. [1]
+I want to be clear to say equivalent and not replacement, because
+while I'd like to be able to use emacs and have that kind of
+slipstream writing experience on an embeded device, what I really
+want is something that is flexible and can be customized and lets me
+do all the work that I need to do, without hopping between programs,
+without breaking focus, that makes inputting and manipulating text a
+joy. And an application that we can trust (i.e. open source, by a
+reputable developer,) in a format we can trust (i.e. plain text.)
+Doesn't need to be emacs and doesn't need lisp, but I wouldn't
+complain about the lisp.
+

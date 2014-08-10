@@ -1,0 +1,57 @@
+===============
+Cloud Computing
+===============
+
+.. post:: 2008-10-07
+   :author: tychoish
+
+rms, Mr. `GNU Project <http://www.gnu.org/>`__ himself, `recently
+interviewed with the
+Guardian <http://www.guardian.co.uk/technology/2008/sep/29/cloud.computing.richard.stallman>`__
+and came out against "cloud computing." While there wasn't a great
+"splash" on the blogs I read--no one was surprised, a lot of people
+disagreed respectfully, and we all went along our ways--but I think he
+raises an important point that we/I should discuss.
+
+rms' argument is that "cloud computing" services, like
+`gmail <http://www.gmail.com>`__, `twitter <http://twitter.com/>`__,
+`livejournal <http://www.livejournal.com/>`__ lock people into their
+services and force computer users to give up control of their computing
+and data, and that this is as bad or worse than using proprietary
+software.
+
+I too have been a pretty big opponent of some "cloud computing"
+developments, not simply because they restrict freedom in the sense that
+rms is speaking of, but also because in a lot of cases, it's not a very
+good or user friendly environment for a lot of tasks. And I'm pretty
+stubborn about not trusting my data to a format that I'm not positive
+I'll be able to export into an open and useable format.
+
+As it turns out there are a number of cloud services which are "more
+open," than others. That allow users lots of very standard/open access
+to their data. It's not the same as open source, of course, but I think
+it's important to suggest that all "cloud" services aren't created
+equal. Here's a brief review:
+
+1. GMail provides full pop and IMAP access to their accounts. They also
+make it easy for you to use your gmail account to send "from" other
+accounts. While you get more freedom from hosting your email on a
+server you control, gmail isn't less free (in my estimation) than
+using the email address supplied by your ISP or employer.
+2. Gcal similarly exports to ical format, which is the default calendar
+standard format, among others.
+3. Most "cloud" news readers export OMPL files of all the feeds,
+similarly the "make RSS feeds of everything," mentality of web 2.0
+means that a lot of data is pretty open to access.
+
+There are of course some web-apps where data is opaque and not
+easily/openly exportable. Twitter is a great example of this, and I'm
+blanking on a more extensive list, but I'm sure that you, dear readers,
+can come up with many more examples.
+
+I think what this means in the end is that the problem of freedom in
+software in the age of service-based computing rests more on user
+education than on a legalistic mechanisms (like copyleft) or open source
+code. Not that the later isn't important, but I think it's worth
+considering.
+

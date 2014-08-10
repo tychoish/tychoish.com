@@ -1,0 +1,61 @@
+==========
+N Plus One
+==========
+
+.. post:: 2008-11-20
+   :author: tychoish
+
+I'm finally getting my `list of things to do with
+linux <http://tychoish.com/rhizome/production-ready/>`__ that I've
+heretofore done with OS X down to only a few items. I need to set up
+`xampp <http://www.apachefriends.org/en/xampp.html>`__ for the web
+development work I use and for hosting my local wiki, and I need to sort
+out something with RSS reading (which isn't so much a technological
+problem as it is a fact that I'm majorly behind and disorganized on
+RSS). Everything else is either a matter of linux programs being a
+little rough around the edges (pidgin? really?) or additional things
+that I never could do with my laptop (eg. fileservering for the house,
+dyndns, etc.)
+
+At the moment, however, my biggest "linux transition" thought is a
+workflow issue. Basically I'm thinking about how I'm incorporating both
+a dual monitor setup and a laptop into my workflow. Because of the way
+that `Awesome <http://awesome.naquadah.org/>`__ works there's a sense in
+which both of my monitors really can function as two different
+computers. Not to mention the fact that I also have this really rather
+awesome (and capable) laptop.
+
+My first approach to using two monitors was to put them right next to
+each other, and I arranged my windows such that I put half of all the
+tasks on each screen an what I found, was that I used the "middle" half
+of both screens" almost exclusively, rather than balancing my computing
+evenly across both screens.
+
+So my second strategy has been to position the screens so that I have a
+primary screen dead in front of my keyboard, and then a secondary screen
+on my right at a forty five degree angle. The primary screen has things
+like writing projects (work, fiction, blogging, research) and my email
+and IM client on the main screen. Then "refrence" things on the second
+screen, so like the web browser lives there, my notebook (also a
+web-browser, but to a local site), IRC and microblogging, and the
+Calendar app all love over there. I'm not sure that this is totally
+ideal yet, but it's a good start.
+
+As an aside, I'd love to hear how people with more than one monitor make
+use of all the extra screen space. Particularly Awesome users.
+
+My second issue/question is that my desk is too small to hold both the
+new monitors and the laptop, so I tend to have the laptop stacked off to
+the side and take it down when I want to go in the other room or do
+something that's still mac-centric. I wonder how people who have two
+distinct computers (laptops and desktops) deal with and make use of
+having two computers. The data synchronization isn't an issue, I think I
+have that pretty well sorted out, it's the work-flow issue. Particularly
+in a couple of weeks when the computers are functionally equivalent.
+
+Thoughts? Suggestions? I can't fathom that this is something that
+people, far smarter and more creative than I, haven't already solved. I
+can't wait to hear it!
+
+Onward and Upward!
+

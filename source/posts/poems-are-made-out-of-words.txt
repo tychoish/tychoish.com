@@ -1,0 +1,90 @@
+===========================
+Poems are Made out of Words
+===========================
+
+.. post:: 2009-12-16
+   :author: tychoish
+   :tags: writing, academia, literature
+
+I remember having this epic fight conversation with a poet-friend from
+college about aesthetics and art and literature. I'm not sure exactly
+what brought it on, or particularly why I thought my side of the
+argument was in any way defensible, but it came back to me recently. So
+as I'm wont to do, here's a post in review of these thoughts.
+
+Act One: Poems are Just Words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I think in the first iteration of the argument, I took the opinion that
+poems existed (mostly) to transcend the experience of the written word
+on the page. That the project of poetry was about getting past words and
+constructing some sort of image or transcendent experience, or
+*something*.
+
+Did I mention that I wasn't a poet? I'm not. Not at all. I'm not even
+particularly good at reading poetry. I've sometimes written poems, and
+even *I* am a good enough reader to tell that they're crap.
+
+In any-case, H.S.'s argument was that poems were just words on paper (or
+screens) [1]_ and that's it. That **writing** itself is an act of
+putting words together, and experimenting with how words come together
+in (quasi) fixed mediums. And nothing more.
+
+I don't really know what my beef in this argument was. This was
+certainly before I started writing again. I guess my argument was that
+writing was simply an imperfect means of conveying an idea, and the real
+work and creativity of "being a writer" was really in coming up with
+good ideas and practical logic that illustrates your arguments.
+
+And while that's true, from one perspective if you squint at things the
+right way, I don't think it's *really* true about writing as a whole,
+and certainly not creative projects. It might be true that that's a
+pretty good summary of academic writing, particularly entry level
+academic writing, but I'm not sure.
+
+When I find writing that I'm impressed with, I keep coming back to the
+idea that it's just "words on the page," and somehow that makes. My
+skill--insofar as I have one--and the asset that makes me employable (I
+think) is the fact that I can turn ideas and thoughts (which are thick
+on the ground) into something useful and understandable by normal folk.
+
+Act Two: Rethinking William Gibson
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+So, ok, lets be honest. I don't really like William Gibson's work very
+much. I thought Neuromancer expressed a social commentary that was
+totally obvious almost instantly, and it hadn't stood the test of time
+particularly well, and I felt it sort of read like the rehab journal of
+an addict who hadn't quite cleaned up entirely. This was just my
+reaction on reading it, and not a particularly well reasoned critique.
+
+I mean I will acknowledge the book's impact, and I think I read it too
+late which probably accounts for my reaction. And although I responded
+so poorly to it, I don't really have a lot of a problem with literature
+that is of its time. In any case, I was thinking about Gibson recently,
+and casually comparing him to some other writers, and I found myself
+saying (of another writer of the cyberpunk ilk), pretty much without
+realizing it:
+
+...which is fine, except [they] didn't have Gibson's literary chops.
+I mean Gibson's work is incredibly frustrating but his writing is
+superb.
+
+And I sort of realized after I'd said the above, that I had
+inadvertently conceded the argument from Act One, years later. Sure
+there's a lot of idealism in writing, but writers aren't differentiated
+on the basis of how awesome their ideas are. It all comes down to how
+they put the words together.
+
+--------------
+
+The side effect of this transposition is that, somehow, I've started to
+be able to read (and enjoy) short stories more than I ever was before.
+And much to my surprise, I've been writing the end of this (damned)
+novel as a sequence of short stories. At least in how I've been thinking
+of it. I could go on with more and additional examples, but I think I
+better leave it at that for now. Thoughts? Anyone?
+
+.. [1]
+Or in my case emacs buffers.
+

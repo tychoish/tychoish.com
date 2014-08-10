@@ -1,0 +1,40 @@
+==================
+A Jekylled Weekend
+==================
+
+.. post:: 2009-04-06
+   :author: tychoish
+   :tags: update, programming, open-source
+
+So I was hoping to write you this morning from a brand new blogging
+system powered by `jekyll <http://github.com/mojombo/jekyll>`__ that I
+`did a little bit of tweeking on <http://github.com/tychoish/jekyll>`__.
+Unfortunatly, all the pieces aren't all in place, yet. So tychoish is
+still a wordpress event still on wordpress. The highlights:
+
+- It seems to have not worked, because it's notion of categories isn't
+  a bit more firm than my own notion of categories (ie. coda and
+  tychoish), and there isn't any clever (or not so clever) way to get
+  around this. It's way more geeky than normal, but basically there's
+  no way (that I can figure) without categories to get an array/object
+  of some segment of the posts *without* using jeykll's categories.
+
+  The categories that jekyll has are really powerful, and my problem isn't
+  so much how they work, as it is that I have 1300-ish posts written "in
+  the old way" that I need to figure something out for. I'll do that, but
+  it'll take a bit longer, and it'll mean that there'll be a more
+  substantive update to the site.
+
+- I did something that I think improves jekyll, by adding an aditional
+  permalink format to my fork. I'm not even passingly familar with Ruby
+  (and I may have a slight professed disdain for it) and while it
+  wasn't a big change nor did it require a bunch of logic/smarts, it
+  works and I think I did it "right" for whatever that means.
+  
+  I also, in the course of this, got ``sed`` to work right, which was
+  mostly just a case of me reading the manual wrong for *years* and then
+  avoiding it. But personal victories are victories all the same.
+
+I can explain my jekyll issue/need in more detail if anyone wants to
+help me hack on this. Cheers!
+

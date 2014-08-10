@@ -1,0 +1,34 @@
+========================
+links for feburary first
+========================
+
+.. post:: 2008-02-01
+   :author: tychoish
+
+-  `Agile Authoring: Collaborative Writing with
+SVN <http://www.ics.mq.edu.au/~alexei/agile_authoring/#conflicts>`__
+It's a good introduction to SVN that I think I'll probably pass on to
+the first person that wants to write a paper with me. Also, it has
+the most clear description of how merging/conflict resolution
+happens. I think if I were collaborating with people and I'd want to
+use git, though.
+-  `unphotographable <http://www.unphotographable.com/>`__ There's
+something about this site, pictures that didn't get taken are
+described in 150-300 words, that strikes me as so very *Internet
+circa late 1990s* in an endearing sort of way. Poet friends might be
+entertained or horrified. Cant decide which.
+-  `feminist sf blog <http://blogs.feministsf.net/>`__ - I'm going to
+start blogging every now and then to this group blog on feminist
+science fiction. I've been reading it for many many months, and I
+really like what this blog does, and I'm looking forward to
+contributing. It also means that that I won't post quite so
+obsessively here, but then you never know.
+-  `tealArt micro <http://tychoish.com/micro/>`__ - the microblogging
+thing that I wrote about a few days ago, is almost ironed out for
+prime time in the new system. Now I just need to get the rest of the
+site setup.
+
+**Late Breaking news**: Positive feedback from a graduate school program
+that I'm pretty excited about. Nothing definitive. More news as it
+develops (slowly.)
+

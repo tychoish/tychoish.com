@@ -1,0 +1,73 @@
+=============
+Collaboration
+=============
+
+.. post:: 2007-10-22
+   :author: tychoish
+
+So I've had this kooky idea for a while to set up a sort
+clearinghouse/repository for GFDL and other open source style knitting
+patterns. The idea would be that a community of knitters could probably
+do a pretty good job of maintaining a collection of frameworks that
+would be really useful for people who want to get in and do design work,
+teach classes, and so forth. The truth is that most knitting patterns
+follow only a handful of different models, and there are only so many
+ways to actually knit a particular shape, so we're stuck recreating the
+wheel time and time again, rather than creating new things.
+
+Furthermore, because we're always working from scratch, we're more
+likely to make silly errors. We may know that we always do sleeve
+decreases on every third row, but if we write on the 4th row, the
+chances of you or a tech editor catching it is probably pretty slim.
+Linus Torvalds' (or someone similar) suggest that one of the benefits of
+open source is that "with enough eyeballs, all bugs are shallow." And I
+think this is also true of knitting patterns. If enough people read
+through a pattern, the bugs will get sorted out, and the patterns can be
+of a consistently higher quality. Which is a reputation and a strength
+that can be transferred to any manner of derivative works.
+
+It seems like a great idea. Even after a number of weeks since I wrote
+the initial series of TealArt entries on the subject, I still feel like
+it's a great idea.
+
+The problem is, I have no idea of how to organize it.
+
+I mean, I think I know how to work with people to have it done, there
+are organizational and logistical concerns that I don't have the
+foggiest idea about how to organize it. My notion is to set up a
+framework, and seed a collection of publicly liscenced patterns, and
+then work to build a community around this. The ish is that I haven't a
+clue as to the kind of framework and standards to set up in the
+beginning to make sure that it makes sense.
+
+I fear I'm starting too in the middle for this to make sense. I sketched
+out some rough ideas on the subject that are still up at the `knitting
+section <http://tychoish.com/knitting/>`__ of TealArt, for starters. The
+kinds of framework that I'm up in the air about are:
+
+-  how do we categorize and sort patterns so that they make sense to
+both the contributors and to the people who might be using the
+repository?
+-  what format do we write patterns in? What kind of stylistic standards
+do we establish?
+-  when is a pattern completed, and when is a pattern considered still
+in progress?
+
+Thankfully there are plenty of really powerful community tools that
+allow for the right kind of collaboration, and I think that I can--with
+time--get it together so that it makes sense for people, the issue is
+more of a data structure problem.
+
+I think that `KnitML <http://www.knitml.com>`__ will answer a lot of
+these questions at least in terms of the formating and style (which is
+the hardest issue.) We're still a ways away on this, but there's
+progress and I don't think I'm much closer than KnitML to getting the
+project off the ground, so that's safe. The second group of issues,
+relating to simply organizing the patterns, I'm thinking less is
+probably more here, the fewer categories there are the less there is
+that will make me/us say "wtf" in six months...
+
+Anyway, I've blathered long enough, I'm going to go visit theBoy and
+maybe get some reading done. We'll see. Here's to more productivity in
+the future!
+

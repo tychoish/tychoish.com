@@ -1,0 +1,49 @@
+=====================
+vim with your thumbs!
+=====================
+
+.. post:: 2007-09-06
+   :author: tychoish
+
+News flash it turns out that the `n800 does have
+VIM <http://tychoish.com/rhizome/new-computer/>`__. And nano, if you
+want it. Frankly, I think that's pretty darn swell, and I think running
+nano with your thumbs would be a lot easier and more desireable than
+learning vim, though I could see the appeal, if you had
+
+I wonder, though if you can do subversion checkouts through it, and thus
+use subversion as a synch tool. I mean who needs to wait for .mac
+integration when you can cook up some simple shell scripts?
+
+I like the idea that `jeff
+suggests <http://www.jeffkirvin.net/2007/09/03/coffee-and-waffles/>`__
+where through bluetooth and a portable keyboard you can sort of force
+the internal editor to turn off. Now I do this with my laptop, more or
+less all the time, so it's not a big concern for me, and I can imagine
+in a situation like this VIM wouldn't be the tool you wanted, but none
+the less, having this kind of capability in a mobile device would be
+simply killer.
+
+I think the new `iPod
+Touch <http://www.engadget.com/2007/09/05/ipod-touch-gets-official/>`__
+is a great piece of technology, and while I don't really see a need for
+anything new in terms of a music player until I outgrow my current ipod,
+which will take a while. Having said that, `buddy
+dave/will <http://www.soliloqueer.com>`__ suggests that apple will come
+out with some sort of tablet in the next year. Which makes sense,
+they're so close, and they could totally pull that off, in terms of
+technology, and I think there's demand, and for many of the same reasons
+that the n800 appeals, that appeals more.
+
+Full sized touch screen keyboard on a tablet? With the ability to use
+TextMate and TextExpander? Anyone? I think the kicker would be if it
+were all flash based, think they could probably get about 40 gigs for
+something reasonable in the next year, which would be plenty for
+something like that, if production isn't a problem.
+
+Anyway, enough geek fantasy for right now, I'm going to get some fiction
+writing of my own done before I have to do real work. And drink tea,
+must remember to drink tea.
+
+Have a good day, I'm sure I'll stay in touch. :)
+

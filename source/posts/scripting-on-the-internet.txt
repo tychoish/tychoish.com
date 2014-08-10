@@ -1,0 +1,79 @@
+=========================
+Scripting on the Internet
+=========================
+
+.. post:: 2009-03-04
+   :author: tychoish
+   :tags: programming, internet, new-media
+
+I recently read the `anti-web
+manifesto <http://port70.net/webless/antiweb.html>`__, which I found
+refreshing. If you haven't read it, go do so. If your too lazy to read
+it, the gist is that we're trying to get the web to do too much (ie. run
+applications, pixel-perfect layouts) and that quality browsers can't
+exist, because what we use the web for these days is beyond the scope of
+what the web was intended to do. The document is also refreshingly
+snarky, in the long tradition of both hacker writing and the genre of
+manifestos in general, but don't let that offend.
+
+I've been known to say, "I hate the web," which is an ironic thing to
+say given my line of work, but I think it's mostly true. To be fair, I
+don't hate the web, I just hate what it's become: the only way to access
+what happens on the Internet. It's great for publishing and accessing
+content, but for applications? Somewhat less great.
+
+The Manifesto centers on the notion that the perfect web-browser is
+impossible to implement: Browsers have to implement inefficient
+scripting languages, and multiple implementations of the various web
+standards (because you have to implements both "how it should be done,"
+and "how the old, broken implementations that everyone wrote pages to,
+did it," with the end result being that browsers themselves *suck.* And
+it's not a case of just writing the perfect browser because, current
+expectations of the technology is flawed.
+
+The course of action (theses?) are to:
+
+-  Eliminate CSS; use a little basic HTML formatting instead. Let the
+text stay in its natural format.
+
+-  Only basic font faces ([sans]serif, monospace), relative sizes to be
+supported.
+
+-  Eliminate scripting.
+
+-  Separate information from empty multimedia content: use Flash for the
+latter.
+
+--------------
+
+I'm not sure that I agree with this solution. I think HTML 5 will take
+care of the multimedia content, and I think flash should be avoided. I
+think scripting should be the first causality of the post-web Internet.
+I don't see CSS as a problem, (the author sees it as a symptom of design
+orientation in website creation), though I'd concede that it's used
+improperly most of the time.
+
+--------------
+
+Given this, I think four bullet points from tycho regarding "The
+'Post-Web' Web" are in order:
+
+-  Eliminate JavaScript and all scripting in web-environments.
+JavaScript is the table of the 'aughts and 'teens.
+
+-  Develop/concentrate efforts on alternate (ie. non HTTP) protocols to
+facilitate the movement of dynamic information across the Internet,
+including well implemented clients.
+
+-  Develop robust/lightweight cross platform frameworks for developing
+applications on the desktop. Where's GTK-on-Rails?
+
+-  Write a HTTP server that provides navigational meta-data
+automatically with pages, and a browser with the ability to construct
+site navigation based on this information. This way the architecture
+of the site depends on the file layout and a configured file, but is
+generated locally. Basically gopher, except designed in the casual
+manner of the 'aughts.
+
+Any takers?
+

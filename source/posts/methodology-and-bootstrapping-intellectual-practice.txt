@@ -1,0 +1,125 @@
+===================================================
+Methodology and Bootstrapping Intellectual Practice
+===================================================
+
+.. post:: 
+   :author: tychoish
+   :tags: writing, career, research
+
+Continuing from the discussion regarding [[intellectual
+practice\|intellectual-practice]], I've been talking with a number of
+people (my father in particular) about graduate school and the prospect
+of "bootstrapping" a scholarly practice using "new media," like
+blogging, and wiki making. I want to explore both my thoughts graduate
+school and bootstrapping with new media, and as you'd expect both of
+these ideas are rather intertwined. My initial gloss follows:
+
+Bootstrapping for Success
+-------------------------
+
+The "new media," even 10 or more years on, is still quite new. The media
+shift and technological changes have had a pretty clear impact on
+economic and industry practices. At the same time, reading,
+participation, and writing are still in flux. People say, "oh look,
+blogging and wikis; we can use this as a teaching and learning tool!"
+and then there are classes, tools, and software to integrate blogging
+into courses and learning management systems, but the media itself is
+still in flux and I'm not sure that *anyone* has blogging and wikis (as
+an example) figured out.
+
+While the changes in new media are important, the changes to education
+itself is probably more important. Educators of all kinds have begun to
+take this we begin to think about the was that traditional education has
+changed and will change. Given new media, a changing job market, and the
+shifting economics of education it's hard to think that education isn't
+changing.
+
+I'm not sure it's changing that much.
+
+There are cases of successful auto-didacts, and people who've been able
+acheive success
+
+I'd love to be wrong about this, but I'm pretty sure that the only
+people who blog/wiki and have found real success in fields are people
+with some other more conventional route to success: people who are
+already successful and figure out how to use new media, people who have
+conventional training or have achieved success in traditional media and
+then moved to using blogs:
+
+Some examples: Cory Doctorow began publishing fiction conventionally
+*and* doing freelance work for Weird magazine, and became a blogger and
+used that to multiply existing success. John Scalzi (and Tobias Buckell)
+published non-fiction and had successful professional writing careers
+before beginning to blog and write and publish fiction. `The
+Valve <http://www.thevalve.org/>`__ is a successful academic
+blog/publication/forum, but as near as I can tell all of the
+contributors have traditional literary training, and all/most have
+academic postings. `Bitch, Ph.D. <http://bitchphd.blogspot.com/>`__
+has/had a formal background.
+
+Samuel Delany doesn't have formal training but has had a scholarly
+career, and while his is an inspiring story there's not much that's
+reproducible from it given some historical constraints: he started
+publishing before the demise of SF pulp magazines and Ace Double,
+because creative writing hadn't been established when he entered the
+academy, etc.
+
+I'm certainly willing to believe that my sample is skewed, and that
+people have been able to move in the other direction (from online
+success to conventional success, or been able to bootstrap their own
+success online,) but I can't think of a single anecdote. I'd love to be
+proved wrong here. ([[discourse]]).
+
+Disciplining and Formal Education
+---------------------------------
+
+I think that working as a [[technical writer\|technical-writing]] is
+something to which I am very suited, something that provides a great
+deal of value, gives me access to the kinds of people that I'm
+interested in talking with (software developers, admins.) And writing
+experience and skill is largely fungible, so the skill I'm honing and
+developing is very transferable.
+
+So, while I'm not opposed to doing academic work eventually, I'm pretty
+sure that no matter what kind of industry work I end up doing (product
+management, community management/organization, training, etc.) I'll sill
+basically be a technical writer. And here's the thing, if graduate
+school has no effect on my career except dominating my time and earning
+potential for a few years? It becomes *very* difficult to justify.
+
+The equation that keeps going through my head is: two job searches
+within a few years years [1]_ and a hundred thousand dollars or
+more, [2]_ for what amounts to a personal betterment project. It's not
+getting any easier to justify.
+
+Here's the catch: I'm a decent writer and I'm getting better all the
+time can I write or help people write books, articles, essays, stories,
+and a whole host of more specific forms. I'm not really sure that I
+could write a quality academic paper without an unreasonable amount of
+effort. I don't know the process, I don't know how to start, which
+literature to look at for resources, or for models, I'm not sure where
+the line between concision and complexity is in academic prose, and so
+forth. *That's* the kind of knowledge that I'm certain I could get out
+of graduate education. And perhaps I've been a technical writer for too
+long, but I think not being able to "write like a scholar" makes it hard
+to participate in scholarly discussions.
+
+The Remains of the Practice
+---------------------------
+
+I'm not sure where this leaves me. I'm thinking about seeing if I can
+take a seminar and a methods class at CUNY in the next year I might be
+able to get what I need. The right collaborative project might be a good
+way to build the required skills, but that's even more complicated. As
+far as using the blog/wiki to build and participate in a conversation
+about new media practices, collaboration, and digital labor practices...
+there is much work left to be done.
+
+.. [1]
+i.e. getting into graduate school, getting a post-graduate school
+job.
+
+.. [2]
+the 100k number is mostly opportunity costs, and assumes a
+funded/cheap 2 year masters program.
+

@@ -1,0 +1,149 @@
+===========================
+the mainframe of the future
+===========================
+
+.. post:: 2009-09-08
+   :author: tychoish
+   :tags: cyborg, technology
+
+It seems really popular these days to say, about the future of
+computing, that "in a few years, you'll have a supercomputer in your
+pocket." [1]_ And it's true: the computing power in contemporary
+handheld/embedded systems is truly astounding. The iPhone is a great
+example of this, it runs a variant "desktop operating system," it has
+applications written in Objective-C, it's a *real* computer (sans
+keyboard and a small screen). But the truth is that Andriod and
+Blackberries are just as technically complex. And lets not forget about
+how portable and powerful laptops are these days. Even netbooks, which
+are "underpowered," are incredibly powerful in the grand scheme of
+things.
+
+And now we have the cloud, where raw computing power is accessible and
+cheap: I have access to an always-on quad-core system, for something
+like 86 cents a day. That's *crazy* cheap, and the truth is that while I
+get a lot for 86 cents a day, I never run up against the processor
+limitations. Or even gotten close. Unless you're compiling
+software/graphics (gaming) the chances of running into the limits of
+your processor for more than a few seconds here and there, are
+*remarkably slim*. The notable exception to this rule, is that the speed
+of USB devices is almost always processor-bound.
+
+All this attention on processing power, leads to predictions about
+"supercomputers in your pockets," and the slow death of desktop
+computing as we know it. This is, while interesting and sexy to talk
+about, I think it misses some crucial details that are pretty important.
+
+The thing about the "supercomputers in your pocket" is that mobile gear
+is almost always highly specialized and task specific hardware. Sure the
+iPhone can do a lot of things, and it's a good example of a
+"convergence" device as it combines a number or features (web
+browsing/email/http client/phone/media viewer) but as soon as you stray
+from these basic tasks, it stops.
+
+There are general purpose computers in very small packages, like the
+Nokia Internet tablets, and the Fujitsu ultra mobile PCs, but they've
+not caught on in a big way. I think this is generally because the form
+factor isn't general purpose and they've not yet reached the commodity
+prices that we've come to expect for our general purpose computing gear.
+
+So while I think the "how we'll use pocket-sized" supercomputers still
+needs to be worked, I think the assertion that computing power will
+continue to rise, while the size will continue to shrink, at least for a
+few more years. There are physical limits to Moore's Law, but I think we
+have a few more years (10?) before that becomes an issue.
+
+The question that I've been asking myself for the past few days isn't
+"what are we going to do with new supercomputers," but rather, "what's
+that box on your desktop going to be doing."
+
+I don't think we're going to stop having non-portable computers, and
+indeed, as laptops and desktops have functionally converged in the last
+few years: the decision between getting a laptop and a desktop is mostly
+about economics, and "how you work." While I do think that a large part
+of people's "personal computing" going to happen on laptops, I don't
+think desktops are going to just cease to exist in a few years, to be
+replaced by pocket-sized supercomputers.
+
+It's as if we've forgotten about mainframe computing while we were
+focused on supercomputers.
+
+The traditional divide between mainframes and supercomputer is simple,
+while both are *immensely powerful* supercomputers tend to be suited to
+address computationally complex problems, while mainframes are designed
+to address comparatively simple problems on massive data-sets. Think
+"supercomputers are processors" and "mainframes are input/output."
+
+My contention is that as, the kinds of computing that day-to-day users
+of technology starts to level off in terms of computational complexity
+(or at least is overtaken by Moore's Law), the mainframe metaphor
+becomes a more useful perspective to extend into our personal computing.
+
+This is sort of the side effect of thinking about your personal
+computing in terms of "infrastructure" [2]_ While we don't need
+super-powerful computers to run our Notepad applications, finding better
+ways to isolate and run our tasks in parallel seems to make a lot of
+sense. From the perspective of system stability, from the perspective of
+resource utilization, and from the perspective of security,
+parallelizing functionality offers end users a lot of benefits.
+
+In point of fact, we've already started to see this in a number of
+contexts. First, mutli-core/multi-processor systems are the contemporary
+standard for processors. Basically, we can make processors run insanely
+fast (4 and 5 gigahertz clock speeds, and beyond) but no one is ever
+going to use that much, and you get bottlenecks as processes line up to
+be computed. So now, rather than make insanely fast processors, (even
+for servers and desktops) we make a bunch of *damn fast* processors (2
+or 2.5ghz is still pretty fast) that are all accessible in one system.
+
+This is mainframe technology, not supercomputing technology.
+
+And then there's virtualization, which is where we run multiple
+operating systems on a given piece of hardware. Rather than letting the
+operating system address all of the hardware at once as one big pool, we
+divide hardware up and run isolated operating system "buckets." So
+rather than having to administer one system, that does everything with
+shared resources, and having the headache of making sure that the
+processes don't inter-fear with each-other, we create a bunch of
+virtualized machines which are less powerful than the main system but
+only have a few dedicated features, and (for the most part) don't affect
+each other.
+
+This is mainframe technology.
+
+Virtualization is huge on servers (and mainframes of course,) and we're
+starting to see some limited use-cases take hold on the desktop (e.g.
+Parallels desktop, VMware desktop/fusion), but I think there's a lot of
+potential and future in desktop virtualization. Imagine desktop
+hypervisors that allow you to isolate the functions of multiple users?
+That allow you to isolate stable operations (eg. fileserving, media
+capture, backups) from specific users' operating system instances, from
+more volatile processes (eg. desktop applications). Furthermore, such a
+desktop-hypervisor would allow users to rely on stable operating systems
+when appropriate and use less stable (but more feature rich) operating
+systems on a per-task basis. There are also nifty backup and portability
+related benefits to running inside of brutalized containers.
+
+And that is, my friends, really flippin' cool.
+
+The technology isn't yet there. I'm thinking about putting a hypervisor
+and a few guest operating systems on my current desktop sometime later
+this year. It's a start, and I'll probably write a bit more about this
+soon, but in any case I'm enjoying this little change in metaphor and
+the kinds of potentials that it brings for very cool
+`cyborg <http://www.cyblog.org/>`__ applications. I hope you find it
+similarly useful.
+
+Above all, I can't wait to see what happens.
+
+.. [1]
+Admittedly this is a bit of a straw-man premise, but it's a nifty
+perception to fight against.
+
+.. [2]
+I wrote a series of posts a few weeks ago on the subject in three
+parts:
+`one <http://tychoish.com/rhizome/technology-as-infrastructure-act-one>`__,
+`two <http://tychoish.com/rhizome/technology-as-infrastructure-act-two>`__,
+and
+`three <http://tychoish.com/rhizome/technology-as-infrastructure-act-three>`__
+

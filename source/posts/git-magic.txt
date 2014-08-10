@@ -1,0 +1,113 @@
+=========
+git magic
+=========
+
+.. post:: 2010-01-20
+   :author: tychoish
+   :tags: git
+
+The following, mostly accurate conversation (apologies for any
+liberties) should be a parable for the use of the ``git`` version
+control system: As I was about to leave work the other day...
+
+**tycho:** I pushed today's work to our repository, have at, I'm headed
+out.
+
+**Coworker A:** Awesome. I did too. (*pause*) wait. It's screwed up. I
+deleted a file I didn't mean to. (*pastes link to diff into chatroom*)
+
+**tycho:** Oh, that's easy to fix. You can reset back to before the
+file, add all the changes that are in you're repository, except the
+deletion of the file, commit, and then "``git reset --hard``\ " and then
+publish that.
+
+**Coworker A:** But your changes...
+
+(*as an aside, the original solution should still work, I think*)
+
+**tycho:** Oh. Hrm. Right. Well... Rebase to remove the bad commit and
+then add the file in question back on top of my changes.
+
+**Coworker A:** Wait, what?
+
+**tycho:** (*looks at clook*). Shit, I'll do it. (*turns to Coworker
+P*), have you pulled recently?
+
+**Coworker P:** Nope I'll do that no--
+
+**tycho:** Dont't!
+
+**Coworker P:** Alright then!
+
+**tycho:** (*mumbles and works*)
+
+--------------
+
+At this juncture, I pull out crazy ``git`` commands and rebase the
+repository, back a few commits to pull out a single changeset. And then
+recommit the file with the changes worth saving (which I had copied into
+``~/`` before beginning this operation.)
+
+One thing I've learned about using ``git rebase`` is that you always
+have to go back a commit or two before I think I need to, pick out the
+hash for the last good commit. Also when using "``git rebase -i``\ " I
+find that the commits are listed in the reverse order that I want them
+to be listed in.
+
+Another great hint: Issue the following command if you're an emacs user
+and you don't want git to open rebase editing sessions in ``vim``.
+
+::
+
+git config --global core.editor "emacsclient -t -a emacs -NOW"
+
+The one issue here is that I had to rewrite the history of an already
+published series of changes. This is why I didn't want **P** to pull.
+When I was done, and the state of my repository was as it should have
+been, my next push (predictably failed), as it needed to be a
+"``git push -f``\ ", which is something of a scary operation. It worked
+out, and when everyone pulled the next time everything was fine: I knew
+it would be for **P** because their local repository never knew about
+the first iteration of the history. I was less sure if **A**'s would
+adjust so seamlessly, but it did.
+
+--------------
+
+**tycho:** Ok, done. Pull **A**.
+
+**Coworker A:** All better! I have no clue what happened.
+
+**tycho:** It's cool, don't sweat it. There's very little that isn't
+fixable. As long as you don't hard reset changes, and don't do crazy
+rebasing stuff, you should be ok.
+
+**Coworker A:** Like what you just did?
+
+**tycho:** Pretty much.
+
+--------------
+
+Here are the lessons:
+
+-  "``git push``\ " and "``git pull``\ " would seem like parallel
+operations but they're not. Pull with abandon, it never hurts to
+pull. But if lots of people are pulling from the same repository, and
+you push a change that you don't mean to push, it's *really* hard to
+take that change back in a logical and productive way. So push with
+caution.
+
+-  Rebasing is a tool that has great power shouldn't be feared even
+though theoretically you can screw stuff up with it. The git way says
+"commit your changes early and often," is great, but it can be sort
+of anti-social, as individual commits become sort of meaningless, and
+change logs can get hard to manage. Rebasing, though scary, can make
+it possible to both commit as often as you need to, and then rebase
+to be presentable.
+
+-  Fear forced pushes.
+
+-  Everything in git can be changed, so play with things, and then only
+publish changes when the repository is in a good working state.
+
+Onward!
+

@@ -1,0 +1,70 @@
+==============
+Wiki Questions
+==============
+
+.. post:: 2008-08-13
+   :author: tychoish
+
+Though I've never asked directly about this, I have sort of hinted
+around the edges and thought about it a bit, so I figure, it's worth
+bringing up. Here's the question:
+
+**You install a new wiki somewhere, and you have a blank "welcome to
+your wiki page." How do you go about editing these pages and developing
+a wiki from there?**
+
+The idea behind a wiki is that it provides a quick way to edit and
+create web pages, without needing to know very much about HTML and
+associated technologies. Right?
+
+In addition to radically de-centering authorship, wikis also have
+profound effects on the structure and organization of
+websites/documents. While much attention has been paid to the former on
+a social and software level, [1]_ I think the latter has been mostly
+ignored.
+
+I think the tendency is to think of the organization of data within a
+wiki as being largely emergent phenomena. I think this is more true when
+there are a lot of people starting a wiki and when the size/growth of
+the wiki is appropriate for the community size.
+
+The truth is that I think this kind of approach ignores this huge data
+management problem because it's not an issue for 10% of
+wikis/documents/collections. I mean, if you throw up a wiki you can't
+just *let it go* the way that `Ward
+Cunningham <http://en.wikipedia.org/wiki/Ward_Cunningham>`__ did for the
+first wiki (because the people who would contribute and the internet
+would come to the wiki from a much different place), and sites like
+wikipedia have a lot of very intentional structure. And while I like the
+idea of emergent structure, I'm not sure that it actually works in
+practice. [2]_
+
+And I'm not sure the question of\ *what* is in the wiki matters a lot
+for the organization, because I'm more interested in how much and what
+kind of structure people create when they're editing in this kind of
+document, rather than specifics about naming schemes or the rationale
+behind a classification system. I guess, if I had to break this question
+down further I'd be interested in:
+
+-  What kind of metadata (categories, tags) do you use?
+-  How hierarchical is your document. Too much hierarchy and pages get
+lost at the end of trees, not enough and you have a mess of files and
+no way to tell them apart.
+-  Do you use natural phrase WikiWord titles for pages, or do you have a
+less natural naming scheme?
+-  How much do you use talk/discussion/commentary pages?
+-  CamelCase Wiki words or not?
+-  What kind of search tools do you use? Does this help?
+
+Your thoughts are much appreciated.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+
+.. [1]
+Particularly in terms of administrative tools/responsibilities,
+social norms, and spam control which can be shaped and influenced by
+the engineering.
+
+.. [2]
+Particularly when the contributor base is on the small side
+

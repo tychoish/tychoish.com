@@ -1,0 +1,72 @@
+====================
+Open Source Research
+====================
+
+.. post:: 2008-02-26
+   :author: tychoish
+
+I mentioned in `my last post <http://tychoish.com/rhizome/new-laptop>`__
+that I took a break from writing to look at the `academic/research
+software on the apple
+website <http://www.apple.com/downloads/macosx/math_science/>`__. I
+opened a bunch of tabs (I'm looking for qualitative data analysis tools
+and the like,) and I found a few things that were pretty interesting,
+opened some tabs on the promise that I'd get back to evaluate these
+pieces of software.
+
+I did.
+
+My response?
+
+Meh.
+
+Here's the issue: this is a pretty small market there are maybe a dozen
+programs that are designed to help social scientists with the things
+that they do. And they all perform very different tasks. Some will run
+cognitive psych experiments, there are statistics packages, there are
+data mining tools. You get the idea. There isn't a lot of competition.
+
+So the end result, is that these places charge hundreds of dollars for a
+piece of software that is old, out of date, [1]_ and for the most part
+very proprietary.
+
+So there's really nothing to be done. This isn't software that I really
+need at the moment, so I'm not buying anything, but it's really
+frustrating that not only are there not better options, but that there
+are no open source options. While I'm a big proponent of Open Software,
+there are a lot of cases where I'm not sure that it's entirely
+necessary. Or, at least in cases where there's enough competition to
+support a number of viable options.
+
+*He said, looking at his list of running applications and realized
+that indeed, most of them were open source applications.*
+
+So maybe, then, open source is the way to spur development in areas too
+small for proprietary models to really work--such as they do. In any
+case, I do think that there's a big difference between big open source
+projects like Linux or Mozillia and smaller projects like
+`R-Project <http://www.r-project.org/>`__. Maybe it's just me but I
+think that having free/open software options for research is more
+crucial than having free/open operating systems. I'm so going to get
+filleted for that one, I understand that you can't have the former
+without the later, but we can have this fight later, if people really
+want to have it. The short story is niche/not obviously profitable
+products/projects need to be open source (like server operating systems,
+like research software), and if apple is any indication user-level
+operating systems don't.
+
+Ok, Done ranting.
+
+And then I did some more serious googling. This, program, `TAMS Analyzer
+for OS X <http://tamsys.sourceforge.net/osxtams/>`__ came up, it's
+`GPL <http://www.gnu.org/copyleft/gpl.html>`__-ed and I'm going to spend
+some time playing with it to see what I can make it do. But it's
+*awesome* looking. I'm putting tinkering wit this on the todo list.
+
+.. [1]
+So, I draw the distinction between old and out of date because its
+important. Some of these programs aren't that old, but they're coded
+in a paradigm that is, or they hard wire assumptions in a way that I
+think is probably not ideal. It feels like computing circa 1988-1992,
+even if the code has been ported to OS X.
+

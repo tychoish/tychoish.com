@@ -1,0 +1,78 @@
+==================
+Announcement Cycle
+==================
+
+.. post:: 2012-08-14
+   :author: Sam Kleinman
+   :tags: update
+
+Things you should know about, dear readers:
+
+1. I published a book and released a *mess* under the banner of the new
+`Cyborg Institute <http://cyborginstitute.org>`__. These projects
+are:
+
+-  `Systems Administration for
+Cyborgs <http://cyborginstitute.org/projects/administration/>`__
+
+This is a high level guide that introduces key systems administration
+knowledge domains and concepts. Possible subtitles include: "How to
+think like a systems administrator," or "Just add ``man`` pages."
+
+Read it now. Tell your friends. And please, send feedback and
+comments.
+
+-  `Taskfile <http://cyborginstitute.org/projects/taskfile>`__
+
+Rather than use `org-mode <http://orgmode.org>`__, I've taken to
+using a sort of hacked together makefile that aggregates task items
+from other textfiles. It works surprisingly well.
+
+-  `stl <http://cyborginstitute.org/projects/stl>`__
+
+The idea behind this script is that it would provide a good way to
+report activity in a regular way so that I'd be able to look back
+over a log file and see how much I'd written (i.e. report word
+counts,) and also do a bunch of other straightforward reporting and
+logging.
+
+I plan to do a revision of this that's a bit less complicated and a
+bit more modular, but it's a nice proof of concept.
+
+-  `stack <http://cyborginstitute.org/projects/stack>`__
+
+I've been meaning to publish this for a long time, but this project
+contains configuration files for emacs and StumpWM, with other
+systems to follow.
+
+2. I've made a bunch of wiki pages on [[Information
+Debt\|/technical-writing/information-debt]]. Current pages include:
+
+-  [[/technical-writing/books]]
+-  [[/technical-writing/taxonomy]]
+-  [[/technical-writing/wiki]]
+-  [[/technical-writing/document-management]]
+-  [[/technical-writing/hierarchy]]
+
+3. I was planning on speaking at the `Open Help
+Conference <http://openhelpconference.com/>`__, on August 10-15th,
+2012. But then, United Airlines canceled my flight and I spent the
+day in Terminal C of Newark Airport and ultimately couldn't make it
+for the conference. Which is a huge shame. My talk was going to be is
+about involving developers in documentation processes, about
+maintaining documentation, and about working with documentation "as
+code."
+
+The site I made for the talk is at:
+
+http://tychoish.net/oh-2012
+
+And the last draft of the slides are at:
+
+http://tychoish.net/oh-2012/slides/
+
+(*I was speaking on behalf of `10gen <http://10gen.com/>`__, my
+employer, `MongoDB <http://docs.mongodb.org/>`__ `documentation
+project <http://docs.mongodb.org/>`__ that I work on by day (and
+sometimes night.)*)
+

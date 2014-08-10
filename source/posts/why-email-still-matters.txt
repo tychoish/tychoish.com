@@ -1,0 +1,114 @@
+=======================
+Why Email Still Matters
+=======================
+
+.. post:: 2010-11-11
+   :author: Sam Kleinman
+   :tags: email
+
+There are so many sexy topics in computing and information technology
+these days. In light of all this potential excitement, I'm going to
+write about email. Which isn't sexy or exciting.
+
+This isn't we should be clear, to say that email doesn't matter, because
+it seems that email still matters a great deal. Rather that email is
+still a relevant and useful paradigm. What's more, the email system
+(i.e. SMTP and associated tools) remains in many ways superior to all of
+the technologies and platforms that have attempted to replace email.
+
+The Good
+--------
+
+Email works. The servers (e.g. Postfix, Exim, Sendmai, but most Postfix)
+are stable, known, and very functional. While there are flaws in a lot
+of email clients, there are a lot of tools that exist for processing and
+dealing with email, and that makes it possible for everyone to interact
+with their email on their own terms, in a variety of contexts that make
+sense the them. And email is such that we can all use it and interact
+with each other without requiring that we all participate in some
+restrictive platform or interface.
+
+In short, email is open, decentralized, standard, lightweight,
+push-based, and multi-modal.
+
+Compare this to the systems that threaten to replace email: Facebook and
+social networking utilities, twitter, text messaging, real-time chat
+(i.e. IRC, IM, and Jabber). The advantages of email on these crucial, I
+think, dimensions are pretty clear.
+
+The Bad
+-------
+
+The problem, of course, with email is that it's terribly difficult to
+manage to keep current with one's email. Part of this problem is spam,
+part of the problem is "bacon," or legitimate (usu sally automated)
+email that doesn't require attention or is difficult to process, and
+it's undeniable that a big part of of it is that most end user email
+clients are inefficient to use. And there's the user error factor: most
+people aren't very good at using email effectively.
+
+It Gets Better
+--------------
+
+No really it does. But I don't think we can wait for a new technology to
+swoop in and replace email. That's not going to happen. While I'm not
+going to `write a book on the subject <http://43folders.com/>`__, I
+think there are some simple things that most people can do to make email
+better:
+
+1. Do use search tools to make the organization of email matter less.
+Why file things carefully, when you can quickly search all of your
+email to find exactly what you need.
+
+2. Filter your email, within an inch of it's life. Drop everything you
+can bare to. Put email lists into their own mail boxes. Dump "work"
+or "client" email into its own folders. Successful filtering means
+that almost nothing gets to your "inbox."
+
+3. Use your inbox as a hotlist of things that need attention. Move email
+that needs responses to your inbox, and move anything that got
+through your filters to where it ought to be.
+
+4. Use multiple email addresses that all redirect to a single email box.
+You only want to ever have to check one email system, but you
+probably want multiple people in multiple contexts to be able to
+reach you via email. This makes email filtering easier, and means
+that you just spend time working rather than time switching between
+email systems and wondering where messages are.
+
+5. When writing emails, be brief and do your damnedest to give the
+people you're writing with something concrete to respond to. Emails
+that expect responses but are hard to respond to are among the worst
+there are, because you have to say something there's nothing worth
+saying.
+
+6. Avoid top posting (i.e. responding to an email with the quoted
+material from previous exchanges below your respone.) When
+appropriate interleave your responses in their message to increase
+clarity and context without needing to be overly verbose.
+
+7. Email isn't real time. If you need real time communication use some
+other medium. Don't feel like you need to respond to everything
+immediately. Managing expectations around email is a key to success.
+
+That addresses most of the human problem. The technological problem will
+be solved by addressing spam, by building simpler tools that are easier
+to use effectively and support the best kind of email behaviors.
+
+Why Email will Improve
+----------------------
+
+1. Email is great in the mobile context. It's not dependent upon having
+a net connection which is good when you depend on wireless.
+
+2. Email is a given. Having email is part of being a digital citizen and
+we mostly assume that everyone has an email. The largest burden with
+most new technologies is often sufficient market share to make a
+"critical mass" rather than some sort of threshold of innovation.
+
+3. Email is both push-based (and delivery times are pretty fast) and
+asynchronous. Though this doesn't sound sexy, there aren't very many
+other contemporary technologies that share these properties.
+
+Onward an Upward!
+

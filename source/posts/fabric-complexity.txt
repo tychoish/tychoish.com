@@ -1,0 +1,85 @@
+=================
+Fabric Complexity
+=================
+
+.. post:: 2014-05-11
+   :author: tychoish
+
+I've been a big fan of `fabric <http://fabfile.org/>`__ which is a
+Python tool for deployment orchestration: deploying a new release of an
+application, uploading files, deploying new configurations to a group of
+hosts in a cluster. Before fabric, the options were either to write
+fragile shell scripts that often didn't do a good job of handling
+multiple hosts, or use more heavy weight configuration management tools,
+which had a lot of overhead and bother.
+
+Fabric is great. Make a python module called "fabfile," write idiomatic
+Python, stick anywhere, and then you can call functions in that module
+using the ``fab`` command. And it includes a lot of helpers for
+interacting with groups of hosts and dealing with remote and local
+resources that is designed for takes into consideration common
+contemporary application development.
+
+For a while, I basically thought that fabric, or tools like it would
+completly obviate the need for shell scripting
+
+I think there are two major problems with using fabric as a framework
+for general purpose scripting:
+
+1. Global state can get messy.
+
+This isn't only an issue with Fabric, but I think the *fab* solution
+isn't great here. Fabric has this ``envy`` object that you can import
+and then use to track the settings or set custom "global" data values.
+It's better than having actual global data, maybe, but you end up having
+to use it too much, particularly it for communication between different
+related operations and you end up using tasks and global state to
+run-time configuration.
+
+2. There's no real overriding abstraction to guide code organization.
+
+In a lot of ways ``fab`` scripts are just a way of writing a large
+number of scripts within a single code base and a command line interface
+for specifying different entry points. It would be nice to be able to
+express relationships between tasks, or centralize the registry of tasks
+in some of non-adhoc.
+
+I actually don't think that these are problems with fabric, itself, but
+I think it's probably the case that we need a few different kinds of
+tools and patterns to help support the authorship of useful and
+maintainable shell scripts and build systems.
+
+-  a good, usable, non-procedural way manage argument parsing.
+
+In python, I like ``argprase`` and think it works really well, so I'm
+not saying we need some set of tools to actually parse the arguments
+that people input on the command line. But I think when you're writing a
+script, ``argparse`` is too low level, and pretty soon there are a few
+hundred lines of declarative code, and you still have to connect this up
+with the actual code, which leads to maintenance headaches and all sorts
+of dumb errors.
+
+-  a good framework for expressing multi-stage tasks and their
+dependencies and relationships.
+
+This may basically be `waf <https://code.google.com/p/waf/>`__, but I
+think we can do something similar. I made an attempt at this with
+`buildcloth <https://pypi.python.org/pypi/buildcloth/>`__ but I think I
+ended up with something that's too much of a (meta) build automation
+tool, and not enough of a general purpose paradigm for organizing code
+to perform related tasks in a clean, modular, and well organized sort of
+way.
+
+These aren't fabric specific problems, or Python-specific problems, of
+course. But they are particularly relevant to Python moderatly sized
+Python code bases in general and most fabric implementations that I'veb
+seen. Maybe Python and fabric make writing useful code easy enough that
+we start to see complexity problems earlier than we would otherwise. Not
+sure.
+
+As you may have been able to guess at this point, I am somewhat burdened
+by a large and somewhat overgrown fabric-based project, that needs
+refactoring. Thankfully, matters are not critical, but I do want to
+figure out the right way to solve this kind of problem before I start
+hacking.
+

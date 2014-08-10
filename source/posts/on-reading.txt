@@ -1,0 +1,75 @@
+======================
+On Reading and Writing
+======================
+
+.. post:: 2009-08-21
+   :author: tychoish
+   :tags: technology, cyborg
+
+I may be a huge geek and a hacker type, but I'm a writer and reader
+first, and although while I'm blathering on about my setup it might
+seem like all I do is tweak my systems, the writing and reading are
+really more "my thing."
+
+I wrote that sentence a few weeks ago, and I've written a great many
+more sentences since then, but I've felt that *that* sentence needs some
+more exploration, particularly because while it seems so obvious and
+integrated into what I do from behind the keyboard, I think it bares
+some explanation for those of you playing along at home.
+
+What "I do" in the world, is write. And that's pretty clear to me, and
+has only gotten more clear in the last few years/months. There are a
+couple of important facts about what "being a writer" means to me on a
+"how I work" on a day to day basis. They are:
+
+-  There's a certain level of writing output that's possible in a day,
+that I sometimes achieve, but it's not sustainable. I can (and do) do
+the binge thing--and that has it's place--but I can't get up, pound
+out two thousand or more words every day on a few projects and go to
+bed happy. Doesn't work like that.
+
+-  Getting to write begets more writing, and it's largely transitive. If
+I write a few hundred words of emails to blog reader, collaborators,
+and listservs in the morning, what happens in the afternoon is often
+more cogent than if I spend the morning checking twitter.
+
+-  Writing is always a conversation, between the writer and other
+writers, between the writer and the reader, between the writer and
+future writers. I find it very difficult to write, even the most
+mundane things, without reading the extant discourse on the subject.
+
+-  Writing is an experimental process. I've said at work a number of
+times, "you can't edit something that isn't there," and in a very
+real sense, it is hard to really know "what you want" until you see
+the words on the page. Written language is like that I suppose.
+That's what the blog is about, I guess.
+
+-  *Ideas aren't real until they're written down.* I'm not much of a
+Platonist, I guess, and I think writing things down really helps
+clarify things, it helps point out the logical flaws in an argument,
+and it makes it possible for other people to commend and expand on
+the work that you've done. That's a *huge* part of why I blog. It's
+very much *not* publication in the sense that I've created something
+new and I've finished and I'm ready for other to consider it. Rather,
+I blog what I'm thinking about, I use the blog *to* think about
+things.
+
+Though I think it's not clear to me (or to you) at this point, I'm very
+much in the middle of a larger project at the nexus of open source
+software communities, political economies, and units of authentic social
+organization. The work on free software that I've been blogging, the
+stuff about economics, the stuff about co-ops. I'm not sure how that's
+all going to come together, but I'm working on it. Now, four months into
+it, it's beginning to be clear to me that this is all one project, but
+it certainly never started that way.
+
+The technology that I write about is something that I obviously think
+has merit on it's own terms--hence the `Cyborg
+Institute <http://www.cyborginstitute.com>`__ Project--but it's also
+very true that I use technology in order to enable me to write more
+effectively, to limit distractions, to connect with readers and
+colleagues more effectively, to read things more efficiently.
+Technology, hacking, is mostly a means to an end.
+
+And I think that's a really useful lesson.
+

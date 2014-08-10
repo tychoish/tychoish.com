@@ -1,0 +1,57 @@
+==================
+iPhone thoughts...
+==================
+
+.. post:: 2007-07-14
+   :author: tychoish
+
+Once again, I'm going to reply to a post that Jeff Kirvin has made in my
+own blog, because I'm too lazy to register to post on his. Forgive me
+Jeff:
+
+`Is Apple crazy like a
+fox? <http://www.jeffkirvin.net/2007/07/07/is-apple-crazy-like-a-fox/#comments>`__:
+
+Okay, by now you guys know I’m not a fan of the iPhone. There are
+some things I like about it (battery life, durability, music UI) but
+I don’t think it’s a very good phone. The lack of 3G, inexplicable
+inconsistencies in the UI (different themes, different gesture
+effects) and the crippled Bluetooth profiles make the iPhone a
+non-starter for me. But what if there’s a method to the madness? Bob
+Cringely has an interesting column up where he talks about how Steve
+Jobs should know better than to release a device on hype alone:
+
+We’ve all heard that the iPhone shipped with EDGE because the
+battery drain from current 3G chips was too high. But what if that’s
+a smokescreen? The iPhone’s battery life is off the charts, and a
+lot of the problems the iPhone has could be fixed by moving to 3G.
+Not just the data speed, but 3G allows a better voice codec as well,
+meaning better call quality. Add the bump to 3G to “fixes” to the UI
+consistency, minor bug fixes (why do you really think every Apple
+employee got an iPhone? product testing) and roll it all out the
+same time as Leopard, just in time for the Xmas shopping frenzy. And
+you could also use that opportunity to add things like
+copy-and-paste and the iWork office suite that is supposedly the
+real delay in getting Leopard out the door.
+
+(from `JeffKirvin.net <http://www.jeffkirvin.net>`__.)
+
+I think it's pretty clear that 3G isn't something that can be done in
+firmware, so that hope's out, but your other complaints: UI
+consistencies, bluetooth, etc. *are* things that can be changed with a
+forced (or not) update, and things that I suspect will be changed. Also,
+I suspect that in October when Leopard ships, we'll see some
+improvements to other complaints: note syncing and ToDo's seem like
+logical first steps, but I also have to imagine that we'll see some sort
+of 3rd party widgets at some point.
+
+Some sort of iPhone-WikityWidget, or just about anything that `the
+OmniGroup <http://www.omnigroup.com/>`__ could write, I think would make
+folks like Jeff and me really happy.
+
+My prediction: a firmware update coming soon, Leopard and a slightly
+beefed up Phoneless-iPhone in time for x-mas, and iphone v2.0 ready by
+MacWorld next year.
+
+cheers!
+

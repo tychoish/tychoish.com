@@ -1,0 +1,71 @@
+====================
+Doing versus Talking
+====================
+
+.. post:: 2013-04-02
+   :author: tychoish
+
+In [[On my Return to Blogging\|/rhizome/on-my-return-to-blogging]] post
+I attributed the fact that I'd taken a break from blogging because I
+wanted to get out and *do* things rather than just spend my free time
+writing and thinking about things.
+
+A Critique
+----------
+
+The problem with this kind of statement is that it evokes a certain kind
+of anti-intellectualism: *thinking isn't as good as doing things*, which
+is counter productive. Actions, creation, feed and grow out of thinking
+(and vice versa.)
+
+In light of this it's difficult to re-calibrate ones practice without on
+the one hand taking an anti-intellectual stance or becoming too
+ungrounded in practice.
+
+Cogitative Side Effects
+-----------------------
+
+I read an article a while back (source lost to the depths of the
+internet,) that mentioned the following effect; when you talk about
+something publicly the recognition and validation you get from talking
+about it is pretty much the same as the recognition and validation you'd
+get from actually doing something. The result is, if you talk about
+doing something, you become less likely to actually do it because you've
+already experienced most of the gratification of doing something.
+
+(Sorry for the poor translation.)
+
+In any case, it seems plausible, and certainly worth testing. So when I
+say "I want to spend time doing things," rather than theorizing about
+possible future projects or talking about things I want to work on, as
+has been my wont, I'm just not.
+
+This is an interesting conundrum for free software/open source: how do
+you start developing a project in a community centered way without
+shooting yourself in the proverbial foot. Sometimes it works (e.g. `GNU
+MediaGoblin <http://mediagoblin.org/>`__,) but often people hack a
+working prototype (and often a lot more) before talking about the
+project. There are too many examples to list.
+
+There are also a large number of examples of projects that started that
+languish because they were clearly announced too soon. On the other
+hand, maybe early-public discussion or announcements is purely
+epiphenomenal and early public discussion is just a symptom of an always
+already weak project, that you're more interested in talking about
+something that doing something. (Which might just prove the point?)
+
+The Take Away
+-------------
+
+-  Don't blog about something until it exists, and is in a form that
+you'd be willing to share and discuss.
+
+*Corollary:* code names are probably the same as real names.
+
+-  Strive for balance between "project work," and meta-work. The ideal
+proportions are unclear.
+
+-  Avoid anti-intellectualism when possible.
+
+
+

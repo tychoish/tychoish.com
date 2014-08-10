@@ -1,0 +1,27 @@
+==============
+Fact File Code
+==============
+
+.. post:: 2009-04-08
+   :author: tychoish
+   :tags: emacs, org-mode, cyborg, research
+
+In my post about my `fact
+file <http://tychoish.com/rhizome/fact-file-and-orbital-mechanics/>`__ I
+said that I was going to "try things out and see how it goes" before I
+posted code to see how things work in the system. Well, I think things
+are pretty stable (I haven't tweaked much), so I'm going to post my
+remember template, for the system described in that post.
+
+::
+
+(setq org-remember-templates
+'(("data" ?d "* %^{Title} %^g \n :PROPERTIES:\n :date:
+%^t\n :cit e-key: %^{cite-key}\n :link: %^{link}\n
+:END:\n\n %x %?"  "~/org/data.org")))`
+
+If you want to tweak further, check out the `relevant section of the org
+manual <http://orgmode.org/manual/Remember-templates.html>`__.
+
+Enjoy and collect facts with abandon!
+

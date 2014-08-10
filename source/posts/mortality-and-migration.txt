@@ -1,0 +1,42 @@
+=======================
+Mortality and Migration
+=======================
+
+.. post:: 2007-05-16
+   :author: tychoish
+
+I've been thinking that, while the articles I write for TA are great and
+should continue to be a pillar of the site, shorter and more pithy posts
+are also worthy content. Also, I do a crappy job of interacting with
+other blog posts. So here's something I saw whilst plowing [1]_ through
+my blog posts today: expect more.
+
+`Things Change <http://weblogs.swarthmore.edu/burke/?p=373>`__:
+
+"As I was working out in the garden today, my first thought was that
+as a society, we still haven’t figured out how to manage the
+intersection of mortality and migration."
+
+(from `Easily Distracted <http://weblogs.swarthmore.edu/burke>`__.)
+
+I think this is an incredibly well put observation. The internet, and
+aviation, make the world smaller in a lot of important ways, but it's
+still a big place that most of us find difficult to move from place to
+place. As a developmentalist-to-be this is right up my ally and I think
+a quite interesting location for some interesting research some day.
+Very quickly though, my next thought is of a few science fiction books
+that deal with some of these issues. `Kim Stanley Robinson's Mars
+Trilogy <http://en.wikipedia.org/wiki/Mars_trilogy>`__, address the
+migration issue (among other things), and Cory Doctrow's *`Eastern
+Standard Tribe <http://www.craphound.com/est/>`__* looks at the effect
+of the internet (and "world shrinking") on another "material reality:"
+sleep. Interesting stuff.
+
+Discuss!
+
+Cheers, tycho
+
+.. [1]
+In fairness, I think my method of weblog reading as described by the
+word "plow," might account for my lack of communication.
+

@@ -1,0 +1,78 @@
+=========================
+Getting Other Things Done
+=========================
+
+.. post:: 2007-01-20
+   :author: tychoish
+
+As some of you might know, starting last semester (and continuing on
+this semester) I've been rethinking my personal "system," the way I
+organize all of the "data" (writ large) in my life. This includes things
+like RSS reading, email, academic articles in PDF format, notetaking, my
+to-do lists and other project planning related data,
+appointments/schedule, and so forth. In this effort I've paid a lot of
+attention to what Merlin Mann and the community at 43 Folders as well as
+the LifeHack.org Blog. In part this is because Merlin is a Mac geek and
+since I am too, this works pretty well, but generally I agree with
+Merlin's aesthetic and approach to these kinds of things.
+
+One of the things that is huge on 43f, and in much of the "geek"
+productivity community has been GTD or getting things done, a
+"methodology" developed by David Allen. While there are many aspects of
+GTD that I find really interesting and fairly common sense, and I have
+enjoyed the technological interpretations that Merlin and others have
+helped develop, I'm putting forth something of a criticism of the
+hegemony of this system, because I think other ways of thinking about
+personal and group productivity are in order. Particularly as it relates
+to some audiences (like academics) where the system is not particularly
+suited.
+
+Among the threads that I've followed more carefully at the 43Folders
+forms, has been one on GTD implementation for University Students. One
+common theme in this thread is the difficulty of using this kind of
+system for university students. GTD was, as best I can tell, developed
+for applied fields (ie. business and consulting), for people whose daily
+routine incorporates a variety of different situations and
+tasks/projects, but to be clear, people for whom most of their work
+happens in an office situation of one sort or another. (If people have a
+different interpretation then feel free to offer it).
+
+GTD uses basic organization efficiency principals to encourage its
+partakers to: complete short tasks firsts (ie. tasks that would take
+anywhere from less than 2 minutes to 5 minutes), to split large
+projects/taks into smaller actions that take anywhere from about 5
+minutes to about 20 minutes. Once tasks are broken up and organized each
+"action" is then reogranized so that "to-do" lists are generated for
+different contexts. Contexts in tern cover all of the material and
+situational requirements for a given task. A fairly typical context list
+might include contexts like "errands" and "phone" and "internet" and
+"home-office" and "work," so that you can always take advantage of your
+situation and know immediately what needs to be done.
+
+In fairness Merlin has from time to time remarked that there are only so
+many contexts when 80% of your tasks require you to be in front of your
+computer with your hands on your keyboard, and I think this is a problem
+that's particularly true for academics, but ignoring this for a moment,
+I would also emphasize that I think there's a point (like GTD for
+computer people) where the system can only be stretched so far before it
+starts to break down. When organizational systems of any kind break
+down, the results are never pretty: we either become engaged in an
+endless cycle where we're thinking about maintaining the system on the
+same level as we're thinking about what's in the
+system--over-thinking--or, complete breakdown which creates massive
+disorganization as information begins to fall through the system.
+Neither of these outcomes are, to my mind, acceptable.
+
+Given that, and the fact that I think this entry has gone on too long
+already, and I'm not yet out of things to say, I think I'm going to turn
+this into a little mini-series in the academia section of TealArt. It'll
+show up, as usual, on the home page as well. The series will include
+topics that I find particularly relevant to students and other people
+working in the academy; although I suspect that writers and creative
+folk will probably find this useful as well.
+
+Keep in touch, and feel free to comment here or by email to
+tycho.at.tealart.dot.com.
+
+Cheers, tycho
+

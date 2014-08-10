@@ -1,0 +1,49 @@
+=========================
+Documentation Inheritance
+=========================
+
+.. post:: 2014-02-23
+   :author: tychoish
+
+I'm interested in using metaphors and methods from programming and
+engineering to make documentation *better*. There are some obvious
+elements that are ripe for stealing in terms of process (scrum,
+iteration, etc.) as well as tooling (issue tracking, version control.)
+As I've continued to explore the connections and metaphors have become
+less obvious, but remain very helpful.
+
+Recently I've been thinking about and using the idea of inheritance to
+help address content duplication issues. The new approach to
+[[tutorial]] content is one of these applications. Actually, this is a
+bit of retroactive intellectualizing: the need for reuse came first, and
+relating this back to inheritance is an idea that I want to explore.
+
+I'm thinking about inheritance in the same way that we talk about the
+inheritance of classes in object oriented programs.
+
+In the past, I've talked about the failure of the promise of single
+sourcing to solve the complexity problems in documentation as being
+related to the failure of object oriented programming styles to resolve
+code duplication and promote widespread code reuse. Or, if not related,
+symptoms of related causes.
+
+For code, I think the issue is that while there are a couple of
+applications for inheritance (i.e. representing trees, some basic
+templating,) it's not a universally applicable metaphor. The mantra
+*composition over inheritance* draws attention to the fact that "has a"
+relationships are more prevalent and useful than "is a" relationships.
+
+Tactically, speaking, using inheritance rather than simple inlining or
+inclusion is quite helpful for thinking about content reuse in
+documentation. Inlining is technically easy to implement, but doesn't
+actually help facilitate content reuse because it's hard to write
+content for inclusion that's sufficiently "context free," whereas using
+inheritance makes it possible to reuse structures and portions of
+content without requiring writers to write context-free content.
+
+Inheritance isn't perfect of course: if you have to overload *all* or
+most inherited elements you end up with a confusing mush that's hard to
+untangle, but it's a decent starting point.
+
+Onward and upward!
+

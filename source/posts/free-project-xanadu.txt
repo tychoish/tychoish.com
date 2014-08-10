@@ -1,0 +1,117 @@
+===================
+free project xanadu
+===================
+
+.. post:: 2009-05-19
+   :author: tychoish
+   :tags: cyborg, open-source
+
+It's my hope that this post will combine the following ideas:
+
+1. The concept of "General Information" As Posited Samuel Delany's 1984
+novel *Stars in my Pocket Like Grains of Sand.*
+
+2. The hypertext system, Project Xanadu, as described by Theodor Holm
+Nelson in his book *Literary Machines* (and elsewhere) which I've
+`discussed on this blog
+recently <http://tychoish.com/rhizomelamenting-xanadu/>`__.
+
+3. The contemporary idea of distributed network service, as described in
+the `Franklin Street
+Statement <http://autonomo.us/2008/07/franklin-street-statement/>`__,
+and enacted by technologies like `git <http://www.git-scm.com>`__,
+`xmpp <http://www.xmpp.org>`__, `laconi.ca <http://www.laconi.ca>`__
+and `open microblogging <http://www.openmicroblogging.com/>`__, and
+others.
+
+--------------
+
+We value the Internet--really the "web"--as it is to today, because it's
+diverse, and flexible. Web pages can look like anything, can do
+virtually anything from present the text of a book or newspaper to
+fulfill most of the functionality of your desktop computing needs.
+What's more all this is indexed and made accessible with google search.
+That's pretty cool.
+
+While the web's ad-hoc and disorganized structure has made many things
+possible, there's no reason to assume that the future development of the
+web will continue in the current direction.
+`microformats <http://microformats.org/>`__, and the proliferation of
+`rss <http://en.wikipedia.org/wiki/RSS>`__ in "Web 2.0," not to mention
+human generated portals like `Mahalo <http://www.mahalo.com/>`__ (or
+google knoll, and even various WikiMedia Foundation Projects), all seem
+to point to a larger trend toward more structured, hand curated
+information.
+
+As an aside, I think it's interesting that hand-curation (more human
+involvement) in information networks while structured data means less
+human involvement those networks.
+
+I should also clarify that by "more structured" I basically mean an end
+to web-design as we know it now. Rather than allow designers and--well,
+people like me--to have a say with regards to how pages are organized,
+information would be collected in containers with specific structures
+(headings, lists, tables, metadata, etc.) and the design or display
+would happen on the client side in the form of specialized browsers,
+Site specific browsers, but also domain specific browsers. (eg. use this
+program to view blags and microblog pages, and this program for reading
+pages from the news services, and this program to view x-new-class of
+sites). In short, adding structure to content wouldn't limit the realm
+of possibility, but it would separate content from this stream of
+thought.
+
+Structure is one part of the Xanadu-model of hypertext/content, and
+perhaps the most lamented by those of us who are... professionally
+frustrated by the lack of structure in the contemporary web, but I think
+it's distribution and federation concepts are too often overlooked, and
+are quickly becoming relevant to contemporary technology.
+
+Federation, to subtitle, is the set of technologies technologies that
+allow network services to function without always-on and real-time
+network. Federation avoids two other technical problems with distributed
+network services: first, it removes the need for centralized servers
+that provide canonical versions of content. Secondly, in a distributed
+environment federation removes the need for local nodes to contain
+complete copies of the entire network. Xanadu had provisions for the
+first aspect by not the second while the Internet (more or less) has
+provisions for the second, but not the first, and free network
+services--in some senses--attempt to bring the second form of federation
+to the web and to the Internet.
+
+Federation, for free network services, means finding ways of
+communicating data between websites so that networks of information can
+be built in the same way that networks of computers have already been
+built.
+
+--------------
+
+In *Stars in my Pocket Like Grains of Sand* Delany's "Internet" is a
+service called "General Information" or GI which exists in a neural link
+for some of the characters. GI isn't always complete, or accessible in
+it's most up to date format--and it's users know this--and accept it as
+a price for living in an interstellar society, but it is accessible on
+an interstellar level. GI, like free network services is built (either
+implicitly or explicitly) with the notion that a node on the network
+could go offline, continue to develop and be useful, and then go back
+on-line later, and "sync" with it's peer nodes, thus creating some
+measure of resilience in the network.
+
+The contemporary network uses a resilient routing system to "get around"
+nodes that drop offline, whereas a truly federated system would store
+diffs across time and use this "temporal" information to maintain a
+consistent network. This sort of consistency is going to be really
+useful--not only because it would allow individuals and small groups to
+provide their own networked computing services locally, but also because
+providing data connectivity that is free, always-accessible, fault
+tallerant, **and** high speed, is unlikely to appear universally...
+ever, and certainly not for a long time.
+
+--------------
+
+I suppose the next step in this train of thought is to include some
+discussion of my friend `joe's <http://www.josephspiros.com/>`__ project
+called
+"`haven <http://josephspiros.com/2009/02/05/prelude-to-haven>`__," which
+would tie this to the discussions I've been having with regards to
+databases. But that's a problem for another time.
+

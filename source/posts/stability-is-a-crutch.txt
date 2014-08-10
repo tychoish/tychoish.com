@@ -1,0 +1,44 @@
+=====================
+Stability is a Crutch
+=====================
+
+.. post:: 2013-01-23
+   :author: tychoish
+
+I don't think the tension between having good, robust, and bug-free
+software and having software with new features and capabilities is
+solvable in the macro case. What follows is a musing on this subject,
+related in my mind to the [[On Installing
+Linux\|/rhizome/installing-linux-the-hard-way]] post.
+
+--------------
+
+I'm not exactly making the argument that we should all prefer to use
+unstable and untested software, but I think there is a way in which the
+stability [1]_ of the most prevalent Linux distributions is a crutch.
+Because developers can trust that the operating system will effectively
+never change, there's no need to write code that expects that it might
+change.
+
+The argument for this is largely economic: by spacing updates out to
+once a year or once every 18 months, you can batch "update" costs and
+save some amount of overhead. The downside here is that if you defer
+update costs, they tend to increase. Conversely, its difficult to move
+development forward if you're continuously updating, and if your
+software is too "fresh," you may loose time to working out bugs in your
+dependencies rather than your system itself.
+
+The logic of both arguments holds, but I'm not aware of comparative
+numbers for the costs of either approach. I'm not sure that there are
+deployments of significant size that actually deploy on anything that
+isn't reasonably stable. Other factors:
+
+-  automated updating and system management.
+-  testing infrastructure.
+-  size of deployment.
+-  number and variety of deployment configurations.
+
+.. [1]
+Reliably updated and patched regularly for several years of
+maintenance, but otherwise totally stable and static.
+

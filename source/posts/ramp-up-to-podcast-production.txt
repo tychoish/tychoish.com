@@ -1,0 +1,36 @@
+=============================
+Ramp Up to Podcast Production
+=============================
+
+.. post:: 2006-06-27
+   :author: tychoish
+
+It's come to my attention (thank you, mother dearest) that the TealArt
+commenting software is not working as it should. As I get ready to start
+pod-casting, this is going to the top of my list of things to work on.
+
+I have recently, augmented Wordpress (my delightful back-end software
+package), in order too accept the pod-cast more graciously. I also
+cleaned off the web-space a little so I should be able to get underway
+before I run out of space completely. I've also drawn up notes for the
+test episode, that would of course be (Episode 0).
+
+I want to have a little segment that I can read, I'm thinking one of the
+short stories I wrote before/durring the circle games draft. Not the
+horror one (g-d, what was I thinking?), but the protest-y one. It has a
+line that refers to a few people as "would-be spider-men," which I was
+always particularly fond of. And while, it's not Circle Games proper, it
+could be. So much of the world/'verse, is sort of temporally
+non-descript, which is why I like it, and why I hope others will too.
+
+Anyway, I want most of my discussion of CG to be in the pod-cast, so
+there won't be a lot of chatter regarding it here. One of the things I'm
+working on for the proper first episode is a creative commons license
+for circle games, likely of the attribution-share-alike variety, but I
+need to think through how that will work.
+
+And that's about all I have for now. I'll keep in touch, but now I have
+to fix the commenting. And find a blasted pair of headphones which work.
+
+Cheers, sam
+

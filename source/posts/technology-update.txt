@@ -1,0 +1,124 @@
+=================
+Technology Update
+=================
+
+.. post:: 2009-11-16
+   :author: tychoish
+   :tags: cyborg, update
+
+I fear I've been posting too many posts in the vein of "so here's what
+I'm up to folks," rather than you know writing about things that may be
+interesting to folks out there in Internet land. Nevertheless, here's
+another slightly more technical post.
+
+I've mentioned in passing a few times over the past few months that:
+
+-  I've been interested in shifting to Arch Linux. While I've been
+running Arch in a VM on my work desktop, I have been quite slow to
+move additional machines over to Arch. It's not for lack of wanting,
+but I have a hard time disrupting something that works when it's
+already working.
+
+-  Also on the software front, I've switched to using the Stump Window
+Manger, and while I've talked a bit about this on the blog, I've done
+virtually no reporting of my ongoing progress with this.
+
+-  I missed the days when I only had one computer and it went everywhere
+with me. While I like having all this computing possibility around,
+I'm moving around enough these days that it doesn't make sense to be
+tied down to a desktop. I like sitting on the couch and writing, and
+I like being able to go off for a weekend and be able to work on the
+projects that I really need/want to work on. That's hard when you
+have a desk and an "office."
+
+This post provides updates with regards to these subjects.
+
+Moving to Arch Linux and StumpWM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A few weeks ago, I had this massive cascade of software issues. Mostly
+things were provoked by the switch to Stump. Basically, the issue was
+that Stump wasn't embedded in all of the desktop frameworks that are so
+popular these days, there were a number of system resources that just
+didn't work with the new Window Manager.
+
+The thing was that my systems were running a terribly hacked up version
+of Ubuntu. I was running weird kernels, I'd mostly given up on the
+display managers, and the systems were just messy. So the problem wasn't
+so much with Stump, as it was with the way that Ubuntu packages and
+manages certain aspects of the system inside of desktop functionality.
+I'm thinking specifically of the ways that networking and sound are
+managed by dbus. If that didn't make sense to you, don't worry.
+
+Since the chief problem boiled down to "this system is too complex for
+me to be able to manage," and it no longer became an effective use of my
+time to maintain the system as it was... I wiped everything and finally
+put Arch on the laptop.
+
+And it went on smoothly, and everything worked. Arch is a tinkerers
+distribution, there's no doubt about that. Since I did have Arch
+experience it wasn't a terribly traumatic experience. It took a little
+while to figure out how to make Suspend and Resume work (i.e. for the
+laptop when the lid closes,) and manually managing network connections
+isn't incredibly straightforward until you get the hang of it, but it
+all works now. And I couldn't be happier
+
+The Experience of StumpWM
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This isn't really a full report, but more a note to say that my brain
+has really adapted to Stump, and I'm quite happy with the experience.
+Stump doesn't *in and of itself* increase the ways I'm able to be
+productive, but... I do think that I work more efficiently when using
+Stump.
+
+There's still a lot left to be done with regards to the tweaking of
+stump for me. I need to play some more with the MPD (music player)
+integration, and there are a number of other contributed Lisp packages
+that I really want to play with. Also, I finally figured out how the Key
+Binding Map works when I had gotten my basic keybidning needs taken care
+of and I haven't touched it since then. Now I know how I use the system
+and I'm ready to tweak things again, but I haven't gotten around to it.
+
+Additional thoughts regarding Stump, from a more "objective"
+perspective: it is incredibly stable, and while it's not blindingly
+lightweight, it lives in 20 megs of ram *and that's about it*. I never
+need to restart the window manager or X anymore, and that's kind of
+nice.
+
+So in short, the Stump WM is a great thing and I need to write a bit
+more about the actual using of it. But first I need to do a little more
+tinkering. Because I'm like that.
+
+The Consolidation of the Gear and Laptops
+-----------------------------------------
+
+What a strange heading. In any case. I gave in and bought a new laptop,
+last week. I found a great deal on a used Lenovo x200 with great specs,
+and I thought that it would solve the majority of my issues with my
+existing technology.
+
+First, it was considerably newer than the laptop I have been using for
+most of the past year: more RAM, dual core system, bigger and faster
+hard drive. Second, it had all of the qualities of the old laptop that I
+adored: it's a 12" laptop which means very portable without making
+sacrifices, and it forgoes a trackpad for a "ThinkPad Nipple" for a
+mouse. Finally (and perhaps most importantly,) the screen resolution is
+1200x800 (up from 1024×768) which makes it possible to comfortably tile
+two windows next to each-other at once. This is the same resolution as
+my 15" PowerBook G4 (and I think all of the 13 inch MacBooks). It's a
+good size, and I was really aching for the increased screen space.
+
+It turns out that all of these concerns were addressed fully with this
+new system. The screen is perfect, it's peppy. it's also nice to return
+to the modern computing world. I continue to be mightily impressed with
+the build quality, design, and functionality of IBM/Lenovo hardware.
+
+My computer consolidation isn't yet complete: my desktop hasn't yet been
+backed up and converted to Arch, but it's getting there. I'm also not
+quite sure what happens with the old laptop. I'm thinking of keeping it
+around as a spare, but if anyone has a need for a really awesome
+ThinkPad x41 they should be in touch.
+
+Onward and Upward!
+

@@ -1,0 +1,62 @@
+=================================================
+Thoughts on the Table of Contents of Anti-Oedipus
+=================================================
+
+.. post:: 2007-07-13
+   :author: tychoish
+
+Ok friends, so given my general lack of acomplishment this week, I don't
+really have a proper Delueze essay for you this week. I browsed the
+first several pages of the chapter I had planed to read this week, and
+it didn't really work for me. The third major division (part?) of the
+book is titled "Savages, Barbarians, and Civilized Men" and basically
+covers the formation of Oedipal [1]_ structures on the social/cultural
+level. While this is important, this part of the text is hard to get
+through, of decreasing utility, and oblique.
+
+I have to say that this is probably *exactly* the kind of project that
+psychoanalytical terms and frameworks are ill suited to. We can talk
+about normative ideas, and cultural organization really well without
+imposing the tangentially useful Analytic crap. There's plenty of room
+and need for it, but right here, I really can't imagine ever coming back
+to it. I keep stalling out on this section of the book, I think this
+should be a hint to me.
+
+So this brought me back to the table of contents so that I can think of
+how to proceed. I do want to keep reading Deleuze, but I need to find
+something that works better. My first impulse is to go to DR (which is
+what Jared of `SportiveThoughts <http://sportivethoughts.com/>`__
+Recommends), but I have half a mind to just skip 4 sections in *AO* and
+read 8. "The Urstaat," and 10. "Capitalist Representation," and then
+move on to the final part, which is "Introduction to Schizoanalysis."
+
+In an effort to give this post a little meaning, as a follow up to the
+list of reason why I thought *AO* was important/worthwhile, I'd like to
+present a list of possible applications/uses. Next week, I'll have
+something more substantive.
+
+.. raw:: html
+
+<!--more-->
+
+-  structural models (machines), are inherently incomplete and flawed.
+Deleuze and Guatteri's discussion of this concept, can be helpful in
+exploring and explaining social practices which we may be tempted to
+assume as being somehow *a priori,* like memory, or gender.
+-  I think I'm going to, at some point, use Deleuze and Guatteri's
+discussion of recording machines as part of a justification for
+studying memory. Same for the section that I quoted in `Culture,
+Memory and
+Lanague <http://tychoish.com/rhizome/deleuze-culture-memory-and-language/>`__.
+-  Once I find more of the nomadic subject/multipicity of subjectivity's
+stuff, I think that would be very helpful to my cause.
+
+I think that's just the surface, but a start. Have a good weekend.
+
+Cheers, tycho
+
+.. [1]
+the missing piece that I haven't added in right now, is that this
+becomes much more useful if we read "normative" in the place of
+oedipus.
+

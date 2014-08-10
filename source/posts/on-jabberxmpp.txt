@@ -1,0 +1,107 @@
+==============
+On Jabber/XMPP
+==============
+
+.. post:: 2008-10-14
+   :author: tychoish
+
+I've posted a bit a while back about Jabber and my trials with `finding
+a good client <http://tychoish.com/rhizome/the-mutt-of-im/>`__, and how
+`I think that jabber is the
+key <http://tychoish.com/2008/09/micro-jabbering/>`__ to making
+`microblogging <http://www.identi.ca/tychoish>`__ really work. As I've
+been dealing with these issues/ideas in greater detail, I've had some
+more thoughts on the subject that I think I'll collect here.
+
+First off, a subtitle and introduction to XMPP:
+
+The easiest way to understand XMPP (or jabber, which I'll use
+semi-interchangeably) is that it's like email: everyone can run their
+own server, there's a specified message metadata (like a header) that
+makes it possible for lots of servers to talk to each other. Non-jabber
+IM systems have a central server, which everyone authenticates with and
+that receives and distributes all messages/statuses between users. So
+why is distributed good? It solves a lot of scale issues, if most
+individual servers only need to handle the traffic for a very limited
+number of users, scaling becomes a horizontal (more servers) rather than
+a vertical problem (bigger servers.) Also distributed in this case means
+more individual control over computer usage without sacrificing
+potentially huge (or at least [dunbar's
+number](http://en.wikipedia.org/wiki/Dunbar's\_number "Dunbar's number -
+Wikipedia, the free encyclopedia") sized) social networks.
+
+While this is all very interesting truth be told, this stuff has been
+around for a decade or more, and for a long time jabber has been the
+kind of thing that you used a little and then went back to
+`AIM <http://en.wikipedia.org/wiki/AOL_Instant_Messenger>`__ because the
+clients all sucked, no one really understood or used it, and frankly AIM
+worked better. In the `last year or two things have really started to
+come
+together <http://metajack.im/2008/10/05/it-feels-like-the-beginning/>`__,
+I think, and XMPP is starting to seem really cool, and really powerful.
+Truth be told, I think this has a lot to do with critical mass, and the
+fact that google's IM platform (Gtalk) is XMPP/Jabber based and
+interoperable, and so there are a lot more people who are now jabber
+capable.
+
+I think it also has to do with the fact that jabber gives web based
+software developers a way to offer push based access without resorting
+to polling APIs which doesn't scale well and gets ugly pretty fast.
+
+The breakthrough moment for me--or moments--have to do with multi-user
+chats. Now the internet has been doing group chats longer, I think, that
+we've been doing one-on-one chats, but IRC--the typical mode--is also
+centralized, or it's distributed, in the sense that there are lots of
+servers, but the servers aren't interoperable, and it doesn't scale well
+at all, and it requires IRC specific software that most people tend to
+just *use* (anymore), and that means multi-person conversations aren't
+incredibly common-place.
+
+While XMPP multi-user-chats or "MUCs" aren't too common yet, and
+(probably) have a host of problems which I'm totally incapable of
+addressing, I think there are a number of reasons that MUCs are really
+cool and already beat out IRC in a number of ways. The two biggest
+"pros" are the fact that users only have to sign into one *thing,* with
+an account that most folks already have, [1]_ and that since servers are
+interoperable, you don't have to manage a bunch of different connections
+with centralized servers. [2]_ I'm convinced that the scaling problems
+of both IRC and XMPP (as technologies,) are nothing in compared to the
+scaling problems of human-text-based conversations.
+
+And as if that wasn't enough `friend of the
+blog <http://www.metajack.im/>`__ is putting together the web-based
+`front end/xmpp group chat service <https://speeqe.com/>`__ that might
+just make this all make sense to everyday users. While I might not be a
+big fan of the web-based service for day-to-day computing, there are
+times when it makes a lot of sense (particularly for capturing new
+users).
+
+There'll be more thoughts, as there always are, but I think that does it
+for now. I try and sprinkle the really-geeky posts in with the more
+accessible posts because I think it helps me to understand things more
+clearly, and because I know the geek-quotient varies a good deal. If any
+of you want more details or have a particular interest in pushing me in
+one direction or another, I'd love to hear it.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+
+.. [1]
+I hate the "to do this really cool thing you need to fill out a
+membership application," mentality that a lot of cool things on the
+internet have. Particularly since google gives away jabber IDs with
+all their accounts, this becomes even more awesome.
+
+.. [2]
+The argument in favor of centralized servers is that they simplify
+the message/data routing problem, so that individual clients needn't
+be able to find each-other as long as each client can find the
+server. The problem is that we use programs like
+`adium <http://www.adiumx.com/>`__/`pidgin <http://www.pidgin.im/>`__
+or `colloquy <http://colloquy.info/>`__ that allow us to connect to a
+bunch of different servers all at once. Which is clearly not
+advantageous, or ideal. Most of the time I'm connected to at least 4
+different IM services, and at least a few IRC networks
+(freenode/oftc/undernet are most regular in that order, but
+ircnet/xkcd/sff/wyldryde are all on my list), which really, when you
+think about is kind of outlandish.
+

@@ -1,0 +1,42 @@
+=============
+Reading Stuff
+=============
+
+.. post:: 2008-11-28
+   :author: tychoish
+
+In lieu of an actual essay on this quasi-holiday, I have a funny
+exchange from earlier in the week. Continue to have a good holiday, and
+I'll see you on Monday.
+
+--------------
+
+**tycho:** so I was thinking about getting an old(er) ThinkPad x41
+tablet and linuxifying it, so I'd have a linux portable and we'd have
+another computer around here because most of the computers in the house
+are older and the last time an old computer went south, there was major
+familial strife.
+
+**chris:** ah which is the x41
+
+**tycho:** [*passes a link*\ ]
+
+**chris:** you really do obsess over some of the strangest hardware.
+It's kinda slow and old.
+
+**tycho:** it runs emacs and stuff, it should do fine.
+
+**chris:** trufax. I forget little you demand of your computers. Why
+would you want a tablet though?
+
+**tycho:** reading stuff.
+
+**chris:** I just don't see the point of sacrificing performance for a
+nebulously useful tablet functionality.
+
+**tycho:** Well, why are you looking at net books *constantly*?
+
+**chris:** reading stuff.
+
+[*silence*\ ]
+

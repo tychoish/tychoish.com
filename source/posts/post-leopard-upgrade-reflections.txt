@@ -1,0 +1,84 @@
+================================
+Post-Leopard Upgrade Reflections
+================================
+
+.. post:: 2008-06-16
+   :author: tychoish
+
+So I got a new computer last Monday, and I haven't reflected upon this
+very much, and I think it's worth reflecting on. So here goes.
+
+My first reaction is to say: this was incredibly worth it, and I made
+the right decision. Both in terms of timing, and in terms of economy.
+While my old computer worked, in a certain sense, it had a number of
+limitations which this computer doesn't have. The battery was basically
+shot, the operating system needed upgrading, the computer was dead.
+Getting all that up to snuff would have been 25% of the cost of the
+upgrade. And all of the main components which would be prone to sudden
+failure (screen, hard drive, internals) would have still been 3 years
+old.
+
+And there are some great perks to having a new computer. Its lighter,
+which is easier on the back. Its thiner which is easier on my wrists, it
+has a much larger hard drive which means I can keep my music collection
+onboard, at least for the next year or so, which solves my space
+problem. It can crunch through data faster. The camera lets me make
+stupid youtube videos of the cats.
+
+The truth is, that 80% of what I do with my computer deals with a bunch
+of pretty small text files and a command line. I made a joke in a
+meeting this week defending my choice of ruby for a few scripts that I
+wrote a year ago on the grounds that while it's a bit slower than the
+alternatives, [1]_ I didn't have a great need to load-ballance my
+laptop, and that really hasn't changed.
+
+The upgrade was really smooth, I ran the migration assistant, and so in
+some ways, I'm a little disappointed that I didn't get more of a chance
+to install programs with *better practices*\  [2]_, as the migration
+seemed to take care of this for me, but I think its testament to Apple
+that it feels like I've had this computer for much longer than just a
+week at this point.
+
+Also, because Leopard, OS X 10.5, is a year old now, and I'm just really
+using it for the first time I have a few responses/reactions. First of
+all, I'm liking it. It's not a ground breaking change, of course, but
+the updates to core programs like Mail.app, iCal, and preview are quite
+nice. Quite nice: useful I also really like the tabbed interface in
+Terminal. Terminal is basically where iTerm was for 10.4 except that the
+method of switching between tabs is a bit more asinine. But I'll get
+over it.
+
+The biggest change is spaces, the multi-desktop ability in Leopard.
+Linuxes have had this for years, and there was even an add on for 10.4
+that would let you do this. I must admit that every previous attempt at
+using more than one desktop space has ended in failure. I just can't
+seem to grok it, and at least this time around I'm more prone to just
+pile most things into one "space" and then use expose, (OS X's little
+trick to get a birds eye view of all your windows at a glance. I'm
+really good at letting expose allow me to feel comfortable with 15+ open
+windows. Though, these days, I rarely get more than 10 open.
+
+Expose + Spaces is sort of cool, and I think I would probably be able to
+grok it better if spaces would have come out before expose. As it is,
+I'm not really using it, though when I start doing more (scientific)
+literature reviewing/perusing I can imagine how spaces would come in
+handy.
+
+And I think this is the lesson that I take from thinking about
+technology: more half the battle is getting your brain around the
+solution, the rest is just making the computer act as a suitable
+substrate for your activities. While there's a little give and take, of
+course, the human interaction bit is crucial.
+
+Over and out.
+
+.. [1]
+I think that speed is the consistent complaint about ruby in contrast
+to languages like perl and python. I've heard some stuff about how it
+treats classes like objects, or something, but not a huge problem for
+me, right now. While the speed issue might be true, it's *so* not my
+concern right now.
+
+.. [2]
+Sorry, I seem to be turning into a librarian, more on this later.
+

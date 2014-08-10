@@ -1,0 +1,45 @@
+==========
+Link Storm
+==========
+
+
+I have a bunch of links that have been hanging around *too long*, that
+I'd like to share with you, so here they are. Enjoy!
+
+-  `Distrust Simplicity <http://distrustsimplicity.net/>`__ is a great
+short form blog, that I'm really liking.
+
+-  The `Singularity Summit <http://www.singularitysummit.com/>`__ is a
+cyborg/futurist event that a reader wrote me a note about *a rather
+long time ago*. If you're interested in the singularity and issues
+and ideas related to that.
+
+-  `Hypo <http://github.com/dto/hypo>`__ a literate programing (with
+org-babel) based asset management system for game development. (`hypo
+example <http://github.com/dto/hypo/raw/master/hypo.org>`__.
+
+-  `Common Lisp Support in
+Org-Babel <http://github.com/dto/org-babel-lisp/blob/master/org-babel-lisp.el>`__.
+I feel like there's probably a joke here.
+
+-  `Mango.io <http://mango.io/about/>`__ a markdown-based CMS, using
+Python tools. I'm not sure if it's the kind of thing that I'm likely
+to ever want to use *myself* but it's an idea.
+
+-  `A New York Times Article about Podcasting and Leo Laporte's TWiT
+Network <http://www.nytimes.com/2010/12/27/technology/27podcast.html>`__
+While the content of this article is interesting in it's own right,
+there are a couple of "bigger" picture things happening. First, the
+old media (i.e. "the Times") covering the new media (i.e. "TWiT,") is
+always interesting. Secondly, and less obviously, it's interesting
+how the biggest successes in the "New Media," are by veterans of the
+"Old Media," (like Laporte, who had a career in Radio and television
+before doing TWiT.)
+
+-  `Social Text Journal: The Dramatic Face of
+Wikileaks <http://www.socialtextjournal.org/blog/2010/12/the-dramatic-face-of-wikileaks.php>`__,
+is a meta-meta-meta look at wikileaks and the "new media" moment that
+it represents.
+
+
+

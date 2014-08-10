@@ -1,0 +1,84 @@
+========================
+Persistent Emacs Daemons
+========================
+
+.. post:: 2012-02-02
+   :author: tychoish
+   :tags: emacs
+
+I've been subject to a rather annoying emacs bug for months. Basically,
+when you start emacs with the ``--daemon`` switch, and the X11 session
+exits, *and* any emacs frames are open, then the emacs process dies. No
+warning. The whole point, to my mind, of the daemon mode is to allows
+emacs sessions to persist beyond the current X11 session.
+
+This shouldn't happen. I think
+`this <http://lists.gnu.org/archive/html/bug-gnu-emacs/2011-04/msg00261.html>`__
+is the relevant bug report, but I seem to remember that the issue has
+something to do with the way that `GTK <http://www.gtk.org/>`__
+interacts with the X11 session and emacs's frames. It's something of a
+deadlock: the GTK has no real need to fix the bug (and/or it's a
+behavior that they rely on for other uses,) and it might not really be
+possible or feasible for emacs to work around this issue. [1]_
+
+I also think that it's probably fair to say that daemon mode represent a
+small minority all emacs usage.
+
+Regardless, I've figured out the workaround:
+
+.. don't use GTK.
+
+Turns out, it's totally possible to build `GNU
+emacs <http://gnu.org/s/emacs>`__ without GTK, by using the "Lucid"
+build. Which is to say, use the windowing system kit built for Lucid
+Emacs (i.e. XEmacs,) rather than GTK. I was able, using the code below,
+to get an emacs experience with the new build that seems identical [2]_
+to the one I used to get with GTK, except without the frustrating
+crashes every time that X11 spazzed when I decided to unplug a monitor
+or some such. A welcome improvement, indeed.
+
+The following emacs-lisp covers all of the relevant configuration of the
+"look and feel" of my emacs session. Install the
+`Inconsolata <http://levien.com/type/myfonts/inconsolata.html>`__ font
+if you haven't already, you'll be glad you did.
+
+::
+
+(setq-default inhibit-startup-message 't
+initial-scratch-message 'nil
+save-place t
+scroll-bar-mode nil
+tool-bar-mode nil
+menu-bar-mode nil
+scroll-margin 0
+indent-tabs-mode nil
+flyspell-issue-message-flag 'nil
+size-indication-mode t
+scroll-conservatively 25
+scroll-preserve-screen-position 1
+cursor-in-non-selected-windows nil)
+
+(setq default-frame-alist '((font-backend . "xft")
+(font . "Inconsolata-14")
+(vertical-scroll-bars . 0)
+(menu-bar-lines . 0)
+(tool-bar-lines . 0)
+(alpha 86 84)))
+
+(tool-bar-mode -1)
+(scroll-bar-mode -1)
+(menu-bar-mode -1)
+
+Hope this helps you and/or anyone else that might have run into this
+problem.
+
+.. [1]
+I'd like to add the citation and more information here, but can't
+find it.
+
+.. [2]
+To be fair, I mostly don't use the GUI elements in emacs, though
+having emacs instances outside of the terminal is nice for displaying
+images when using emacs-w3m, and for having a little bit of
+additional display flexibility for some more rich modes.
+

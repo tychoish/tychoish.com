@@ -1,0 +1,60 @@
+============
+Readjustment
+============
+
+.. post:: 2008-01-19
+   :author: tychoish
+
+Today's entry starts with a discussion of my sleep habits, and goes from
+there. Hope that's not too boring. That's what this whole web log/online
+journal thing is really about, after all: gratuitous sharing of
+information.
+
+The general malaise that I've been referencing for the past few
+weeks--and that I think I'm finally getting over--did a number on my
+sleep schedule. I think this is in part a sort of normal response
+sessional light differences, and the fact that I don't have anything to
+do in the mornings, so I don't absolutely *have* to get up in the
+morning. I should, in any case.
+
+The sort of frustrating thing, was that while I had a few days with a
+semi-irregular sleep pattern, the past four nights have been eerily
+predictable. (Sleep at 12:30, awake at 9.) I even tried a couple of
+times to go to bed earlier, and spent an hour or more trying to fall
+asleep (generally if I don't fall asleep in 20 mins, I get up and knit
+or read for a while until I'm tired enough to give it another go.)
+
+So given that I had a long weekend. I thought that it might be good to
+shock my body back into a normal sleep schedule. So, no naps today. I
+also have a plan for adjusting my sleep schedule so that I can get into
+a 11-7, or 10:30-6:30 habit, and use the extra morning time to write and
+read and *do things that I should do.* I work really well in the
+morning, and I think I'm better at being tycho when I have that time.
+Even if I sleep the same amount, being awake at night is never as
+productive or happy-making for me.
+
+So what did I do last night, while I was trying to trick my body into
+going into something more reasonable? I knit. A lot. And watched more
+Enterprise. The `turkish
+tile <http://tychoish.com/rhizome/im-not-knitting-this/>`__ is now a
+total of 20 inches long, which means I'm somewhere between 1.5 and 2
+inches away from beginning the neck shaping. When the neck shaping
+start, I'll have 35 rounds and 9 sets of short rows left on the body.
+The countdown begins.
+
+I also did some drupal tinkering. I got things set up pretty much the
+way I want them, I think. The goal now is to get the content into the
+system, and then make sure that it all works out right. Then we go live.
+
+Exciting times.
+
+Onward and Upward!
+
+tycho out.
+
+ps. someone mentioned a wordpress error regarding comment posting. I
+tried and wasn't able to replicate any error, so if you're using
+tychoish.com and get some sort of error, copy and paste it into an
+email, so I can attend to it. Reach me at garen@tychoish.com about
+errors or anything, I'd love to hear from folks.
+

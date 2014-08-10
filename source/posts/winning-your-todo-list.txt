@@ -1,0 +1,53 @@
+======================
+Winning Your Todo List
+======================
+
+
+I kind of want to title this piece "the remains of the day," but I'll
+spare you.
+
+This week I found myself doing something sort of different with my task
+list. Since I use `org-mode <http://orgmode.org>`__ to manage my todo
+list, my explanation will include a bit of "introduction to org-mode,"
+but I think this practice may be generally applicable regardless of the
+software you use.
+
+In `org-mode <http://orgmode.org>`__ you can take elements of an
+outline--any outline--and turn it into a "todo" item, and using the
+agenda feature, generate views of these tasks. This is great because you
+can do planning and brainstorming in a manner that makes sense for you,
+and when you're ready to start working, the list that you work from is
+organized in way that's conducive to *doing things.* It's a great
+system.
+
+When you create a task, org-mode provides the ability to schedule it for
+a particular day or set a deadline. You can generate agenda views
+organized by day. This is how I work, most of the time. In the morning
+(on the train) I open the agenda and I see about five things per day,
+and I start working. The key to success, for any situation, but
+particularly fragmented situations like mine, is figuring out how to
+structure your projects and tasks such that there's always a task that's
+"small enough" no matter how short your free time is.
+
+This works pretty well, except sometimes, you run out of free time,
+something takes longer than you'd like, or you reprioritize. The system
+of scheduling tasks breaks. Solution, at the end of your work day (or
+evening,) spend a moment or two going though the remains of the day's
+tasks and figuring out:
+
+-  If you couldn't get to a task was it because you simply didn't have
+time, or because there was an unforeseen dependency.
+
+-  Which tasks can be rescheduled for another day (and what days would
+be best for this.)
+
+-  What no longer needs to be done?
+
+At the end of the process there should be nothing left on your todo
+list. Now you may be tempted to engage in a little "productivity
+theater," but the goal is less to "get everything done," and more to
+check in with yourself more regularly, and make sure everything is on
+track. Also, I'm convinced being faced with scads of overdue tasks,
+particularly tasks that have grown stale is hardly a wining strategy
+either.
+

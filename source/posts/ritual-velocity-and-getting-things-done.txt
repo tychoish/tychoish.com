@@ -1,0 +1,81 @@
+=========================================
+Ritual, Velocity, and Getting Things Done
+=========================================
+
+.. post:: 2010-04-15
+   :author: Sam Kleinman
+   :tags: writing, productivity
+
+I finished chapter eight of the novel that I've been working on for...
+Oh? Way. Too. Fucking. Long. And you want to know how I'm even
+comfortable asserting that I'm done with the initial draft of Chapter 8?
+I wrote an entire scene from Chapter 9 without saying "wow, I need
+another scene in Chapter 8 so that the story works out." Because I've
+finished Chapter 8 at least three times, but this time I'm pretty sure.
+There are a couple of interesting, or at least quasi interesting factors
+that I think are worth some attention.
+
+For starters, I made some progress on the novel. I know that I don't
+have endless time to write fiction, and in addition to a day job that
+requires a bunch of my time and brain cycles, I write the blog, and work
+on other side projects: fiction, programming related things, the `Cyborg
+Institute <http://www.cyborginstititute.com>`__, dancing, singing, and
+occasionally sleeping. These are all projects that are important to me,
+and I think create value for me (and I hope in their own ways, you as
+well) so I don't want to sound as if I'm complaining about being too
+busy and overextended (perhaps I am), but as a result I think I'm being
+pragmatic to accept a slower pace of development.
+
+At the same time, *damn* I need to finish this thing. It's good, I'm
+finally back in a place where I don't hate the story, but at the same
+time I'm very aware that I've learned a lot.
+
+And perhaps that's the problem with taking so long to finish novels. Not
+so much that writing is a race, but if you aren't able to pull it off in
+a reasonable period of time, say 12 months, or so by the time you get to
+the end, you know so much more about the way you work about how to put
+together stories, and how to *write*, that creating a cohesive work
+becomes an actual challenge. At least for me, the thing I probably want
+more than anything right now, is a chance to work on other fiction
+projects, to take the lessons that I've learned from writing this story
+and apply them to writing other projects. I have a great idea for a new
+story laying around in a text file, but I'm not touching it yet.
+
+The two most important things about being a writer, as far as I'm
+concerned, are actually writing things (done!) and finishing things (at
+which I think I get a middling B). So just starting new projects at
+whim, isn't exactly an option either. So in light of all this, what's my
+strategy? Fairly simple...
+
+I've set a recurring task in my `org <http://orgmode.org>`__ system to
+write 100 words a day on the novel. Just 100 words. And if I know it's
+not going to happen I can mark the task as "skipped" or do it "late."
+But the truth is that 100 words is the kind of thing I can do in only a
+few moments, so it's not only a regular reminder to write, but also an
+eminently reasonable goal. Not only do 100 word segments add up (in a
+way that 0 word segments never do,) but the real trick is that in my
+mind I'm not trying to write very much, just enough to get started. If I
+don't, at least I've made a little progress. If I *do*, then all the
+better.
+
+In addition to the regular writing task for the fiction project, I've
+also started keeping a journal using `this
+method <http://metajack.im/2009/01/01/journaling-with-emacs-orgmode/>`__.
+I've also created a recurring tasks for keeping the journal, and I find
+this method tends to have a positive effect on my productivity. To-do
+lists are great for remembering and prioritizing tasks when you have a
+lot of balls up in the air, but they often fail at tracking real life in
+a reasonable way. The journal provides a good way to keep track of, and
+recognize the importance of all the things that we spend time doing, but
+that don't often have an opportunity to be captured into the to-do list
+before they get done. I think of it as a sort of inverse-to-do list.
+
+It doesn't always work, of course. There are days when I don't get to
+either one of these tasks, and there are some days where I catch up on
+one or the other of them. But it's a good practice, and I focus on the
+things that are important: actually producing something and then also
+building and maintaining a habit.
+
+Because I don't know how else things get done. Not that I'd be unwilling
+to listen if you have a better solution. See you in comments...
+

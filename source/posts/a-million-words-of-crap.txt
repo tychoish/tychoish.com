@@ -1,0 +1,36 @@
+=======================
+A Million Words of Crap
+=======================
+
+.. post:: 2007-11-24
+   :author: tychoish
+
+So there's this saying that floats around, and there might be science
+fiction lore that surrounds this, but it says, basically that every
+writer has about a million words of crap in them that they just have to
+get out. After you write the first million, the thought is that you've
+written a certain number of words, you've learned how to write, found
+your voice, learned what you're interested in and gotten over your
+youth, which makes you prone to writing all manner of foolishness.
+
+Now it's of course a rough estimate--your milage may vary--but I think
+being ok with the fact that I'm still learning, that it's ok to not be
+perfect, because after, I'm still under my million words. If I'm still
+writing crap at 1,500,000 words I might get a little ticked, but where I
+am right now, it's ok.
+
+I have an informal tally of my fiction writing at about 150k. `I wrote a
+novel in high school that was
+100k <http://tychoish.com/rhizome/full-circle/>`__, I have this novella
+(32k), I have about 10k in station keeping, and about 20k in the the
+project that preceded station keeping, not to mention, a couple of
+assorted little projects that never panned out. It seems like a good
+number.
+
+I, on a whim, installed plugins that basically do a worcount on your
+wordpress (blog) postings and archives. In the past five years of
+TealArt, we have amassed a total of 269k words, 214k of which are mine.
+In four months of tychoish, I've written 69k words.
+
+I think it's time to readjust the crapo-meter a bit.
+

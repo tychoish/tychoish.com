@@ -1,0 +1,20 @@
+=======================
+of instant messaging...
+=======================
+
+.. post:: 2007-08-11
+   :author: tychoish
+
+While I'd probably be perfectly happy if the rest of the world subsisted
+only on IRC and email for digital communication, I've long given up and
+accepted the role of instant messengers in our lives. Nevertheless, I am
+left with an important question:
+
+While I think Jabber/Gtalk is probably ideal, I recognize that AIM
+is a defacto standard. I'm not happy about this, but.... why doesn't
+this platform after probably 10 years, have offline messaging? other
+services have it, and have had it for ever. Hell, AOL bought and
+integrated ICQ which had it, so why isn't there real support for it?
+
+*end rant*
+

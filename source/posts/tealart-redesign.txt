@@ -1,0 +1,25 @@
+================
+tealart redesign
+================
+
+.. post:: 2007-08-10
+   :author: tychoish
+
+I guess, in retrospect, I've been working on this redesign of tealart
+for a few days, but I have it the final push tonight, and I'd like to
+present you with a completely overhauled, and completely original [1]_
+`TealArt <http://tychoish.com>`__. It's pretty nifty.
+
+I'd like to hear what you all think. It's a very simple design, and it
+doesn't have any fancy web 2.0 crap stuff happening, which think is just
+as well. It's all CSS and XHTML.
+
+My biggest concern is that there's too much happening, and that there's
+not enough whitespace. My second biggest concern is that people won't
+see the mono-spaced font for the comforting kitsch that I see in it.
+
+.. [1]
+In so far as I hand coded everything more or less by hand in a text
+editor, rather than tweaking an existing template. I'm pleased with
+the result.
+

@@ -1,0 +1,70 @@
+=======================
+Whiteness and Diversity
+=======================
+
+.. post:: 2011-12-22
+   :author: tychoish
+   :tags: literature, philosophy, politics
+
+This post is a follow up to my earlier [[post on diversity and
+representation\|representation-and-race-futurism]]. In short, while I
+think it's great that we're beginning to talk and write about race and
+representation in our fiction and field, I think we [1]_ need to expand
+our analysis of whiteness.
+
+Whiteness in Science Fiction
+----------------------------
+
+I'm still working on figuring out what this means, and I'm sorry that I
+haven't developed my thinking sufficiently to be more clear on this. In
+light of that here are a collection of my thoughts on representation:
+
+-  Whiteness is multiple and I think it's possible (and important) to
+*depict whiteness and white characters critically and without
+recapitulating normalization*. At the same time, it's important to
+avoid falling victim to a lot of the normalization to which
+uncritical representations of racial diversity often fall pray.
+
+-  The theory around race and representation must deal with issues
+around assimilation. More diversity is useful, but to move forward on
+issues of representation, the field needs to better understand the
+process of assimilation. *I want to see stories that help us unpack
+assimilation.*
+
+-  Whiteness is complex and a major problem with stories that "don't do
+race well," is not just that the characters aren't explicitly of
+color, but that whiteness isn't portrayed very well. This is part of
+the struggle of privilege, but *not only does science fiction need to
+be better about diversity and representation of non-white characters,
+but we the thinking on whiteness needs to continue to evolve apace.*
+
+Diversity and Quotas
+--------------------
+
+Discussions about diversity and representation in fiction often lead the
+under-informed to ask "So what, do you want to impose some sort of quota
+system? Does that mean diversity is more important than quality?"
+
+The answer is almost always no.
+
+I'd also like to point out that this is one of those cases where
+whiteness and systematic bias conspire to define "quality," in unuseful
+ways. But this is another argument for another time.
+
+The canonical answer is: there's a great deal of amazing work written by
+people of color and a lot of great fiction that incorporates and
+addresses the experiences of people of color. This is great, and if
+we've learned anything in the last couple of years, it's that if you
+look for this work it's there. The real challenge revolves around
+cultivating that work so that there's *more* of it, and promoting [2]_
+that work so that there's a large audience.
+
+[[Comments? Suggestions?\|discourse]]
+
+.. [1]
+The science fiction writing/reading/editing community.
+
+.. [2]
+Promoting and marketing literature is by no means a solved problem
+under any conditions.
+

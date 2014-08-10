@@ -1,0 +1,45 @@
+==============
+Browser Survey
+==============
+
+.. post:: 2009-04-13
+   :author: tychoish
+   :tags: software, internet
+
+Long story, short punch line. I was developing a website the other day,
+and I realized that I had to do some compatibility testing with other
+browsers. While I have a webkit-based browser lying around for these
+purposes I had to turn to `BroswerShots <http://www.browsershots.org>`__
+to see what the site looked like in certain windows only browsers. this
+lead me on something of a little mystery hunt.
+
+I did some checking on my stats and I found that a majority of the
+visitors to this site are firefox/mozilla (gecko users) and there's a
+sizable minority that uses Webkit browsers (Safari/Chrome/Etc.). That
+takes care of about 75% percent of you. The remaining portion uses
+Internet Explorer (IE).
+
+So be it, really, I mean, I'd try
+`Chrome <http://www.google.com/chrome/>`__, or
+`Firefox <http://www.firefox.com>`__ if you can, but the truth is that
+by now IE 8 (and even 7) render pages more or less the way they should,
+and I don't have a big gripe about that (which accounts for 3/4s of all
+IE useage). There are, however, a quarter of the IE users (so 6% of
+you,) that are using IE 6. Which actually, can't seem to render any
+pages correctly, from what I can tell.
+
+Since I already know what browsers you use the survey then should be:
+
+-  Why do you use the browser you use, particularly if its IE or IE 6
+
+-  Do you prefer a brwoser that's fast, but light on features (All
+WebKit browsers henceforth deployed), or a slower but featured filled
+browser (Firefox?)
+
+-  Are you trying to use your browser less than you currently do (taking
+work offline,) or more (putting more things into the cloud)?
+
+-  What do you think the "next big thing in browsers is?"
+
+
+

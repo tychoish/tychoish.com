@@ -1,0 +1,48 @@
+===================
+Bad Org-Mode Habits
+===================
+
+.. post:: 2011-04-26
+   :author: tychoish
+   :tags: productivity, emacs, org-mode
+
+Org-mode is great. Org is this super-task management package that merges
+outlining and structured document editing abilities with task management
+glue. It sounds like a weird combination at first, when you realize that
+it means that you can effectively do work and organize your work in the
+same set of files without needing to "switch modes," between a
+planning/task list interface and a "doing things" interface, the effects
+are amazing.
+
+I'll leave "the awesomeness org-mode" to other people and other posts,
+and spend time here focusing on why "org-mode is awesome but won't do
+your work for you," and "if you're new to org-mode you will probably
+want to do things in a certain way, but don't" issues. Org-mode is great
+and it can be even better if you avoid developing a few bad habits.
+
+**Use `org-capture <http://orgmode.org/manual/Capture.html>`__ as much
+as possible**. Org-capture is a quick interface within emacs that lets
+you open a temporary buffer, take a few notes, and save the notes into a
+file. It has advanced features for more complex data entry features and
+data types. The temptation is to use it as a "quick entry" tool for task
+list items, but don't just use it to capture new tasks. Capture links
+and bookmarks, store notes and important information, If org-mode is
+your outboard emacs-based brain, then org-capture is it's main input
+device. Fighting it, means that your org files end up being less useful.
+
+**Avoid using org-mode as a simple task list**, and particularly avoid
+constructing the content in your org files to "game" your agenda view.
+The agenda compiles a working task list for your actionable notes,
+working backwards from this means your notes are less than useful things
+can get lost and all of the *really* cool things that org lets you do
+aren't accessible to you.
+
+This may just be the application of a good general information
+management practice, but: **distribute information evenly throughout all
+levels of the organizational hierarchy of the file**. Use the
+``org-narrow-to-subtree`` function to focus your current work on a
+specific portion of a file, and don't bury information or have it
+sitting around in one big unorganized pile.
+
+Hope this helps!
+

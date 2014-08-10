@@ -1,0 +1,70 @@
+===========================
+Wikis are not Documentation
+===========================
+
+.. post:: 2010-09-14
+   :author: Sam Kleinman
+   :tags: technical-writing, cyborg, technology
+
+It seems I'm writing a minor series on the current status (and possible
+future direction?) of technical writing and documentation efforts. Both
+in terms of establishing a foundation for my own professional relevancy,
+as well as in and for itself because I think documentation has the
+potential to shape the way that people are able to use technology. I
+started out with `Technical Writing
+Appreciation </2010/09/technical-writing-appreciation/>`__ and this post
+will address a few sore points regarding the use of wikis as a tool for
+constructing documentation.
+
+At the broadest level, I think there's a persistent myth regarding the
+nature of the wiki and the creation of content in a wiki that persists
+apart from their potential use in documentation projects. Wiki's are
+easy to install and create. It is easy to say "I'm making a wiki, please
+contribute!" It is *incredibly* difficult to take a project idea and
+wiki software and turn that into a useful and vibrant community and
+resource. Perhaps these challenges arise from the fact that wiki's
+require intense stewardship and attention, and this job usually falls to
+a very dedicated leader or a small core of lead editors. Also, since
+authorship on wikis is diffuse and not often credited, getting this kind
+of leadership and therefore successfully starting communities around
+wiki projects can be very difficult.
+
+All wikis are like this. At the same time, I think the specific needs of
+technical documentation makes these issues even more prevalent. This
+isn't to say that wiki software can't power documentation teams, but the
+"wiki process" as we might think of it, is particularly unsuited to
+documentation.
+
+One thing that I think is a nearly universal truth of technical writing
+is that the crafting of texts is the smallest portion of the effort of
+making documentation. Gathering information, background and experience
+in a particular tool or technology is incredibly time consuming.
+Narrowing all this information down into something that is useful to
+*someone* is a considerable task. The wiki process is really great for
+the evolutionary process of creating a text, but it's not particularly
+conducive to facilitating the kind of process that documentation must go
+through.
+
+Wikis basically "here's a simple editing interface without any
+unnecessary structure: go and edit, we don't care about the structure or
+organization, you can take care of that as a personal/social problem."
+Fundamentally, documentation requires an opposite approach, once a
+project is underway and some decisions have been made, organization
+isn't the kind of thing that you want to have to manually wrestle, and
+structure is *very* necessary. Wikis might be useful content generation
+and publication tools, but they are probably not suited to supporting
+the work flow of a documentation project.
+
+What then?
+
+I think the idea of a structured wiki, as presented by
+`twiki <http://twiki.org/>`__ has potential but I don't have a lot of
+experience with it. My day-job project uses an internally developed
+tool, and a lot of internal procedures to enforce certain conventions. I
+suspect there are publication, collaboration, and project management
+tools that are designed to solve this problem, but I'm not particularly
+familiar with anything specific. In any case, it's not a wiki.
+
+Do you have thoughts? Have I missed something? I look forward to hearing
+from you in [[comments\|discourse]]!
+

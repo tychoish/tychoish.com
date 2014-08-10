@@ -1,0 +1,120 @@
+====================
+lessons from fiction
+====================
+
+.. post:: 2009-05-05
+   :author: tychoish
+   :tags: writing, cyborg, science-fiction
+
+In the last several days, I've spent a lot of time writing and working
+on this new novel that seems to be capturing too much of my attention.
+It's a nifty story, definitely the best piece of fiction that I've
+written henceforth, despite all my worry, dread, and seemingly limitless
+self-doubt in relation to the project. Despite the gremlins on my
+shoulder saying "why aren't you working on short fiction; why aren't
+your characters having more sex; do you really think you can float such
+a disjointed/complex narrative; do you have a clue where this is going?
+...and so forth," I've learned a few rather interesting things from this
+story this past week.
+
+It's a time travel story, stupid!
+---------------------------------
+
+Yeah, I'm well into the 7th chapter (of about 12?) and I finally figured
+out that I was, at it's core telling a time travel story. No, it's not a
+case of getting several tens of thousands of words on paper and
+realizing that you're writing the wrong story, but rather that I've
+always thought of it as a quirky space opera, and just this week I
+realized that what makes it quirky is that it's fundamentally a time
+travel story.
+
+Right.
+
+My goal in this project was to write about history and how "history"
+emerges from "a collection of things that happen" to something more
+coherent and recognizable as such.
+
+In a weird way, my fiction (since I started writing again in early 2007,
+at least) have always addressed the issues at the very kernel of my
+academic/scholarly interest. I'm interested in how communities form, and
+how people negotiate individual identities amongst groups of people.
+Open source software, cyberculture in general, and hackers are one way
+of looking at this that is very much the center of how I'm looking at
+these questions. Queerness is another. Same kernel.
+
+In any case, history--however defined or used--is a key part of this
+community-identity-individual loop. Can you participate in the
+emacs/emacs-lisp community without knowing about the history of the
+XEmacs fork? Linux without knowing a little about the early days with
+Minix and UNIX? Git without knowing a little about CVS and the bitkeeper
+story? If you can, not for very long. There are other more mainstream
+culture examples as well, Americans and the great depression
+(particularly Roosevelt's fireside chats, say?). Queers and stonewall?
+Etc.
+
+This stuff is, to my mind, an incredibly important factor in "who we
+are" and how we all exist in our communities and the world at large. And
+because I'm who I am, I'm writing a story about this.
+
+The science fictional effect, at play is relativity--lacking fantastic
+super-liminal (FTL; faster than light) space-drives--our characters must
+endure some pretty intense time dilation during transit: it takes them
+*t* weeks to get from planet A to planet B but meanwhile, it's *t*
+**years** later on both of the planets who more or less share a common
+time line.
+
+Now I don't do the math right, for it to work out as being sub-light
+speeds (exigencies of plot; interstellar spaces are *really* big), but
+the time dilation is a huge feature of the story and of (many) main
+characters place in the world, particularly in contrast to each other.
+
+And thus, in a manner of speaking, it's a time travel story. Albeit
+where the time travel is one way (future bound,) linear, based on
+Einsteinian principals, and common place.
+
+And it took me half the book or more to recognize the story as such,
+which will--if nothing else--allow me to explain the story a bit better.
+
+In the future `Project Xanadu <http://tychoish.com/rhizome/lamenting-project-xanadu>`__ Worked
+----------------------------------------------------------------------------------------------
+
+I'll probably touch on this later, but I realized (and this might not be
+particularly unique to my story) but that my characters were interacting
+with "the database" in the world. An internet-like system, only more
+structured, and more distributed, easier to search, easier to operate
+locally.
+
+Which was basically Project Xanadu, on an interstellar scale. The
+features that my characters take advantage of:
+
+-  **Distribution and federation of copies:** I have ansible technology
+in the story, but even so, given the trajectories of data storage
+technology it makes more sense to store local copies of "the
+database" than it does, to route requests to the source of the data,
+or even your nearest peer for records. Assume massive storage
+capability, advanced rsync (a contemporary tool synching huge blobs
+of data across a network), and periods of, potentially, years when
+various ships, outposts, and systems would be out of contact with
+each-other. Nah, store stuff locally.
+
+-  **Versioning** Having a data store that stores data along a temporal
+axis (versions across time) is handy when you're working on your
+computer and you accidentally delete something you didn't mean to.
+It's absolutely essential if you have lots of nodes that aren't
+always in constant contact. It means you don't loose data after
+merges, it solves some concurrency problems, interstellar data would
+*require* this.
+
+-  **Structure:** The contemporary world wide web (The Web) is able to
+function without any real structure, because we've imported data
+visualization from (more) analog formats (pamphlet layout/design;
+pages; index-like links, desktop metaphors), and we've developed some
+effective ad-hoc organizations (google, tags, microformats) which
+help ameliorate the disorganization, but the truth is that the
+web--as a data organization and storage tool--is a mess. My shtick
+about curation addresses this concern in one way. Creating a "new
+web" that had very strict page-structure requirements would be
+another. In the novel, their database grew out of the second option.
+
+The future is here folks, but you knew that.
+

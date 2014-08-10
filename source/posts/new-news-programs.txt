@@ -1,0 +1,62 @@
+===================
+New News (Programs)
+===================
+
+.. post:: 2005-06-10
+   :author: tychoish
+
+I'd like to take a moment to recognize the fact that there are 450
+entries on this site. That's a lot. Well I suppose it could/should be
+more, but I think its worth noting. It's yet another fact that draw
+attention to the idea that, we've been around for a REALLY long time.
+*shrug*.
+
+I think my new computer and I have finally bonded. I think it generally
+takes one trying design process to bond with a computer. Graphics, web
+pages, long form prose writing, etc. Its like you need to push yourself
+to some limit with the computer to be able to trust it, to know it's
+limits and yours, and then it becomes easier to work with it in the
+future. So I think we're there. Now all I need to do is send off the
+last thing for the rebate, and I'll be really happy.
+
+The other thing, and what I initially intended to post here about, is
+the fact that, pretty much without my realizing it, Ranchero Software
+released a new version of NetNewsWire, which has been my news reader of
+preference. The interface is more Tiger-Esque, which is just fine by me
+(now if we can only get Mac to drop this steel look on finder, we'll be
+good). But the really cool thing is that it will cope with Atom feeds.
+Basically it's yet another RSS, except not as simple (RSS stands for
+really simple syndication.) I think it works great frankly it doesn't
+matter much to me, except Blogger supports Atom and only Atom. Whereas
+before, I wouldn't dedicate the time to reading Blogger powered weblogs,
+because my news reader wouldn't cope with it, now my only reasoning is
+pure snobbery. Blogger, like LiveJournal, Xanga, etc. tend to be too
+easy for people to use, so EVERYONE gets one, which inspires *even more
+people* to get them. And it's a downward spiral. I've had to put a lot
+of time into getting tealart to work the way it does. Not to mention
+money/work for the domain name and the hosting account, and I'd like to
+think that this kind of commitment leads to a higher level of quality,
+and I think this is confirmed. It doesn't matter much which program you
+use, but blogs that are powered by freestanding software packages tend
+to be better than website services. And I'll go ahead and lump TypePad
+in with the freestanding packages, even though it's not, really. But I
+digress.
+
+In addition to the new and better version of NetNewsWire, I've also
+found that Ranchero has what I think is a rather good offline blog
+editor. I've seen all manner of these programs, and they tend to be
+rather crappy. Now this isn't all the developers fault. It's taken a
+while for the protocols that allow such offline programs to connect with
+site to develop into allowing communication of enough features. But I
+think everything is starting to line up. Which is a very good thing
+indeed. So yeah. I've found what passes for blogging nirvana, for the
+moment.
+
+But, and I think I'll save this thought for later. Have you noticed how
+so called "traditional/old" media have been fascinated with the the
+development of the *"blog"*? I can't help but think that they're missing
+something. Or maybe they have it all right, and it just stings, but when
+ever I read or see one of those pieces, I cringe.
+
+Anyway, Stay Tuned.
+

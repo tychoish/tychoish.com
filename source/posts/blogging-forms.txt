@@ -1,0 +1,86 @@
+==============
+Blogging Forms
+==============
+
+.. post:: 2009-08-24
+   :author: tychoish
+   :tags: cyberculture
+
+One of the aspects of "BloggingFail" [1]_ during the most recent
+technology/new media bubble, is the emergence of "blog post formulas,"
+which are basic post formats that people use to provide structure to a
+post, and produce content in a way that's more readable for casual
+visitors, and better for search engines.
+
+Interestingly, not all of these formats are as bad as the BlogFail that
+they helped create, and I've been interested in collecting/creating a
+few new and different formats for blog posts. This is a collection of
+those post templates.
+
+The "N Things Post"
+~~~~~~~~~~~~~~~~~~~
+
+This is big, and very mainstream we see this a lot as filler, and I
+think it grows out of the kinds of articles you see on news stands.
+Basically the gimmick (and I think it works) is that it promises a post
+that will be easy to read, provide information in clear ways, and won't
+encumber a collection of information with complicated rhetoric.
+
+It works, there was a long time when `digg <http://www.digg.com>`__ was
+filled with "N Things posts" of dubious merit. Having said that, it's a
+great format for presenting some kinds of information.
+
+**Tip:** While we're at it, it helps if the N is a prime number (eg. 5,
+7, or 11 make good Ns for N Things Posts)
+
+The RedMonk Interview
+~~~~~~~~~~~~~~~~~~~~~
+
+This is mostly `Stephen O'Grady's <http://redmonk.com/sogrady/>`__
+invention, though I've seen it elsewhere. The basic idea is that you ask
+yourself a bunch of questions and then answer them yourself.
+
+While this might sound contrite by my description, the posts that result
+are often quite successful at communicating information. In a sort of
+not-very-subtle way, you're able to frame your discussion by
+communicating to your reader what questions you think are the most
+important. It again wins by stripping away potentially complex and
+linear rhetoric, and lets you sort of jumpstart the conversation that
+inevitably follows.
+
+The Synthetic Review
+~~~~~~~~~~~~~~~~~~~~
+
+I've started doing this more, and it's a form I've totally yanked from
+Academic journals and other similar sorts of outlets. Basically, you
+take two or three articles--potentially related, sometimes not--put
+links to them at the top of the post and then respond to each post and
+to the juxtaposition created by putting the links together in one post.
+
+The questions I (try to) ask myself are both "what do I think of each of
+these articles," and "what would these articles say about each other."
+
+The Pattern/Tutorial
+~~~~~~~~~~~~~~~~~~~~
+
+This is the "here's how to do something" post. We see this in a lot of
+genres, from knitting, to technology, to cooking and back again. These
+posts tend to be both extremely popular and successful, but they are
+also quite useful to readers, new and old.
+
+When I got into blogging, we were much closer to the "journal" end of
+the spectrum (as a community), but I think the transition to being about
+providing/creating value is something that's really emerged in blogging
+in the last ten years, in part because of the prevalence of a class of
+posts like this. So there you have it.
+
+.. [1]
+This is, in my estimation, what happened as a result of the hype
+around "new media," "social media," and "search engine optimization,"
+that resulted in an explosion in the number of blogs between 2006 and
+2009. Blogs which are mostly designed to generate advertising
+revenue, rather than stimulate useful conversation. This isn't to say
+that there's nothing good out there, but I think we've all come
+across blogs that fall into this category, and it's always apparent.
+In my weaker moments, I call it the ProBlogger phenomena.
+

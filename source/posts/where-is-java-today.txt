@@ -1,0 +1,93 @@
+====================
+Where is Java Today?
+====================
+
+.. post:: 2010-03-15
+   :author: tychoish
+   :tags: cyborg, programming
+
+A few weeks ago a coworker walked into my office to talk about the
+architecture of a project, complete with diagrams, numbers I didn't
+grasp (nor really need to,) and the examples of potential off the shelf
+components that would make up the stack of the application at hand. I
+asked scores of questions and I think it was a productive encounter.
+Normal day, really. I seem to be the guy developers come to and pitch
+ideas to for feedback. Not sure why but I thin think that the experience
+of talking through a programing or design problem tends to be a
+productive learning experience for everyone. In any case the details
+aren't terribly important
+
+What stuck in my head is that an off the self, but non-trivial part of
+the system was written in Java.
+
+We all inhaled sharply.
+
+--------------
+
+I don't know what it is about Java, and I don't think it's just me, but
+the moment I find out that an application is written in Java, I have a
+nearly visceral reaction. And I don't think it's just me.
+
+Java earned a terrible reputation in the 90s, because although it was
+trumped as *the next big thing* every user facing application in Java
+sucked: first you had to download a lot of software (and hope that you
+got the right version of the dependency) and then when you ran the app
+it took a while to start up and looked like crap. And then your system
+ground to a halt and the app crashed. But these problems have been
+fixed: the dependency issue is more clear with the GPLing of Java, GUI
+bindings for common platforms are a bit stronger, computers have gotten
+*a lot* faster, and perhaps most importantly the hopes of using Java as
+the cross platform application development environment have been dashed.
+I think it's probably fair to say that most Java these days runs on the
+server side, so we don't have to interact with it in the same sort of
+hands on way.
+
+This isn't to say that administering Java components in server
+operations is without problems: Java apps tend to run a bit hot (in
+terms of RAM,) and can be a bit finicky, but Java applications seem to
+fit in a bit better in these contexts, and certainly have been widely
+deployed here. Additionally, I want to be *very clear*, I don't want to
+blame the language for the poor programs that happen to be written in
+it.
+
+Here are the (hopefully not too leading) questions:
+
+1. Is the "write once run everywhere," thing that Java did in the
+beginning still relevant, for server-based applications? It's a
+server application after all, you wouldn't be loosing much by
+targeting a more concrete native platform.
+
+2. Is the fact that Java is statically typed more of hindrance in terms
+of programmer time? And will the comparative worth of Java's
+efficiency wear off as computers continue to get more powerful
+
+Conventional wisdom being that while statically typed apps "run faster,"
+but take longer to develop. This is the argument used by
+Python/Perl/Ruby/etc proponents, and I don't know how the dynamics of
+these arguments shift in response to the action of Moore's Law.
+
+3. One of the great selling points of Java is that it executes code in a
+"managed" environment, which provides some security and safety to the
+operator of the system. Does the emergence of system-level
+visualization tools make the sandboxing features of the JVM less
+valuable?
+
+4. I don't think my experiences are particularly typical, but all of the
+Java applications I've done any sort of administrative work with have
+been incredibly resource intensive. This might be a product of the
+problem domains. Using Java is often like slinging a sledge hammer
+around, and so many problems these days don't really require a sledge
+hammer.
+
+5. At this point, the amount of "legacy" Java code in use is vast. I
+sometimes have trouble understanding if Java current state is the
+result of all of the tools that have already been invested in the
+platform or the result of actually interesting and exciting
+developments in the platform. Like Clojure. Is Clojure (as an
+example,) popular because Lisp is cool again and people have finally
+come to their senses (heh, unlikely) or because it's been
+bootstrapped by java and provides a more pain free coding experience
+for Java developers?
+
+Anyone have ideas on these points? Questions that you think I'm missing?
+

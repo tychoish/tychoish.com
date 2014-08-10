@@ -1,0 +1,81 @@
+=======================
+Strategies for Upsizing
+=======================
+
+.. post:: 2008-05-06
+   :author: tychoish
+
+Here's another informational piece for people interested in knitting the
+Latvian Dreaming sweater.
+
+After the cardigan modification, the most requested mod to this sweater
+is "how can I increase the stitch count," for people who want to knit
+the sweater at small gauges (8 stitches to the inch) but need larger
+sizes. Since I'm awkwardly small I made a point of knitting this at a
+particularly small gauge (9.5 stitches per inch) to help make the
+pattern more accessible for the more normally-sized.
+
+But there's only so much that one can do with guage, particularly if you
+come into a project with a yarn picked out and a comfortable gauge
+established. This is further complicated by an important design
+principal that we are all wise to follow: keep the patterns centered.
+That is, make sure that the design is symmetrical on all sides. In
+practical terms this means that for every stitch you add or subtract to
+`the chart <http://www.lulu.com/content/2470929>`__, you have to add or
+subtract 4 to the total stitch count. As the repeats have 16 stitches,
+adding even half a repeat to the pattern means adding 32 stitches total.
+
+*Note: there's already one stitch in background color that is **not**
+included in the chart before stitch number 1 on both sides.*
+
+But don't fear, armed with a clear notion of your gauge and your desired
+size, we can tweak the stitch count to something more useable. Here are
+a few of these strategies:
+
+-  Put in stripes in the side panels. If you add stitches under either
+underarm you only need to add two stitches, and if you keep them in
+alternating colors the floats will be secured, and all will be well.
+You can add anywhere from 1 to 5 or 6 (2 to 10 or 12 total) stitches
+to the number of stitches. This option can be combined for fine
+tuning with any of the other options.
+-  As a side stripe, add stitches 9 to 16 from the chart to the
+beginning of both sides. You can drop the uncharted background stitch
+*or* add a second stitch on the other side of the panel This will
+allow the first pattern to balance on the side more clearly. This
+will bring the total number of stitches to: 356 (if you add the
+second border stitch) or 352 (if you omit border stitches). If you
+take out border stitches there will be a jog at the beginning of the
+round.
+-  Replace the uncharted side stitch with stitches 24 through 44. This
+brings the total number of stitches to 378.
+-  If you need to size (either as part of fine tuning or as part of
+making it smaller) down stitch 24 and 44 on the chart can be dropped
+without much error, and (this brings the stitch count down to 336).
+If you're after 338 stitches, dropping stitch 44 on the chart
+shouldn't disrupt anything (actually, I sort of wish that I'd done
+this, because I think it would look better).
+-  If you need to resize the pattern in a more massive way. then by all
+means add a repeat of stitches 45 through 60 on the chart before
+stitch 45, though this will bring the stitch count up to 404.
+-  Similarly you could consider adding a repeat of stitches 57-60 from
+the chart before stitch 45. This would bring the stitch count to 356.
+-  You may consider adding a half repeat of stitches 53 through 60 on
+the chart before stitch 45, though if you do this, I might recommend
+beginning the sweater/repeat on row 9, rather than row 1.
+-  Consider adding stitches or even additional patterns between stitch
+24 and 25 and/or stitch 43 and 44. Remember that each stitch you add
+at one of these points accounts for a change in 4 total stitches. Buy
+`Joyce's Book <http://www.schoolhousepress.com/gen_books.htm>`__ for
+many great ideas for additional patterns.
+
+My design intention with this is to have the main interlocking pattern
+of stitches 45-85 cover the majority of the center of the design. I've
+been hesitant to suggest major modifications to the first pattern
+repeat, though you may feel more than welcome to toy around in this
+space if you want to add repeats. I included the Microsoft Excel file
+that I used to mock up the charts with `the project
+materials <http://www.lulu.com/content/2470929>`__ and I encourage you
+to experiment (and share) your modifications.
+
+I hope this helps you reach a pattern that fits you better.
+

@@ -1,0 +1,95 @@
+========================================
+Writing and Producing Hyper(digital)text
+========================================
+
+.. post:: 2007-04-06
+   :author: tychoish
+
+I realized that my `schpeal last
+time <http://tychoish.com/rhizome/reading-and-consuming-hyperdigitaltext/>`__
+on reading hypertext sounded more like a complaint than an endorsement
+of a way of writing, but I don't mean to come off like that. While I
+think it's true that the advancement of technology: better portable text
+display, better design practices and standards, better fonts, better
+industry adoption, and so forth, would help digital text, I don't don't
+think we can blame it all on the technology.
+
+I should also say, as a disclaimer that I'm not particularly interested
+in the artistic implications of hypertext. This isn't to say that they
+aren't there, more that, I don't have any particular expertise or
+experience aside from, of course, the ongoing experiment of
+`TealArt.com <http://tychoish.com>`__, and my own experience as a writer
+in several different contexts. Actually I think it's more complicated
+than that, but I think that would need to be unpacked a bit more in a
+different context. What drew me to this topic, is more the prospect of
+paperless publishing and communicating, in concern with discussions
+about `OpenAccess <http://www.earlham.edu/~peters/fos/overview.htm>`__,
+a nagging interest in ergonomics, and not "oh cool, look at this new way
+to be creative." *Just so you know.*
+
+As I've been thinking about it, the discussion of "writing" or producing
+hypertext is so very closely tied to the publishing of digital, and the
+discussion is further muddied by
+
+One of the things that people like a great deal about dead tree versions
+is the the fixty of type on a page. I've learned to remember passages in
+books by location on the page, and while the ability to search
+ameliorates this slightly, this *cognitive* ability is something that I
+think hypertexters would be wise to work with. While there are ways to
+break up text: images, column(s) and width, generally I suspect that
+people will engage the most with your text if they can absorb it in
+chunks that are about 500-750 words. This works out to be 3-4 good
+paragraphs, and all the usual edicts and suggestions regarding
+white-space remain relevant.
+
+I'm also concerned with the issue of citation digital text. Not only is
+it hard to give precise citations for digital text, but footnotes and
+what not are equally difficult to produce in an authentic and
+appropriate format. I think we might be inclined to trace this at least
+in part to the development of the web (and more importantly) mark up
+languages (HTML/XML/etc) by people in the sciences where close textual
+referencing is not particularly common. Amongst bloggers, citation is
+achieved through linking, often to wikipedia (another debate for another
+day), and while this model increases the interconnectivity of the 'blog
+community, but forces curious readers to jump through more hoops than
+perhaps is necessary, and is downright inconvenient if you're
+citing/linking to a longer page. I suspect the next version of
+`Markdown <http://daringfireball.net/projects/markdown/>`__, will have
+some sort of allowance for footnotes, but I think there's still a lot of
+room to think about how the practice of citing others' work gets
+translated into digital formats. I like the
+`MultiMarkdown <http://fletcherpenney.net/MultiMarkdown/>`__, solution,
+but have ended up using the `PHP Markdown Extra
+Format <http://www.michelf.com/projects/php-markdown/extra/>`__ and some
+sort of XML format probably the solution. *I'm starting to realize that
+so many of my problems could be solved with a much greater larger
+understanding of XML and some basic Perl or Python abilities.*
+
+But that's a diversion, and I'll bring us back around to the question of
+the week: How do we, as digital text creators, produce text (words etc.)
+that "work" best digitally. I definitely think manageable chunks are the
+way to go, and the weblog framework definitely pushes us towards a
+natural serialization, but thats as much cultural as anything. My second
+series of thoughts relates to an idea of genres. The kinds of things
+that seem to be the most succesful in digital formats are non-fiction
+things (manuals, essays on blogs, scientific/academic articles,
+correspondence etc.) and even though I think blogs might lend themselves
+particularly well to fiction, there isn't a large community that I'm
+aware of, though I'd love to be corrected. I think length plays a role
+here, as does the general reticence to "curl up with a computer" for
+pleasure reading, but I think there's something larger here. Part of it
+is without a doubt the fact that there's something about the way we
+think of novels (ie. the structure and story telling technique) that is
+very tied to *the book*, and I also think that in a way the boundary
+between truth and fiction is somewhat blurry online, because of the way
+we tend to represent ourselves. Not that the same issues aren't present
+in non-digital formats, but that we're more sensitive to them in digital
+formats.
+
+I hope this these fairly random thoughts can provide some inspiration.
+I'd like to be more coherent, and more focused with regards to some of
+the other subjects on my list to cover. I know that there are folks out
+there reading this, and I also know that I'm just a guy with a domain,
+and an overactive sense of opinion, so I'd love to hear what you think
+about these ideas/subjects.
+

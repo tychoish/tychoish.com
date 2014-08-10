@@ -1,0 +1,157 @@
+======================================
+DRM, eBooks, iTunes, and the Next iPod
+======================================
+
+.. post:: 2006-10-15
+   :author: tychoish
+
+So I just read an article, that reviewed a new ebook reader (which seems
+to have a really nifty display technology) and comes to the conclusion
+that books won't succeed because the reading technology isn't as good as
+paper (he's mostly right, though this is the secondary argument), but
+that content producers can't manage the DRM the right way. DRM is copy
+protection, that restricts users ability to rip off and redistribute
+digital files, and eat dangerously into the publisher's (and artists)
+money making ability.
+
+We've always had some sort of copy protection, with paper printing, it
+takes the form of hassle. You can photo-copy entire books (and most of
+us, particularly in the academy, I suspect), but it's a hassle, and I
+know I would generally rather fork over the 10 bucks and get a book out
+of the operation, than spend a a long time with a photocopy machine that
+never works. When books are out of print, particularly short, and time
+is short, it happens. I doubt very much that I'm crimping anyone's
+profit margin though. It's possible to scan in books, (I've restrained
+myself to articles,) but the process is tedious as well, and again
+hassle and tedium keep the work safe.
+
+There is no such thing as a full proof DRM, any code can be cracked, or
+even worked around. Like with print, the key for content producers, is
+to make it easier to buy the content from the source, than it is to
+"beat" the DRM. Perhaps the key to the ultimate DRM system is not one
+that is *particularly* harsh and limiting, but one that makes it hard
+enough to "work around" the protection that it's worth buying it new.
+
+Lets take the iTunes music store. There's one really easy way to beat
+the encryption of the itunes music store: burn the songs to cd (as a
+music CD) and then import the songs back into iTunes: DRM disappears.
+And now you have a copy to play in your home stero system, or in your
+car. If you don't want to waste the CD media, use a CD-RW and you're
+still DRM free. The thing about this, is that it's a pain in the ass,
+given that you can play the song of 5 different computers at the same
+time (and as long as you keep back ups, if an authorized computer
+crashes with one of your five authorizations, you can reauthorize all
+the computers, which also gives you a way to "beat" the drm with a flash
+drive and an unnetworked machine... But you get the idea. The other
+**big** selling point of the system, is that if you're on an authorized
+machine (which we've established is easy enough) and you've bought a
+song, it behaves *exactly* like a song that isn't copy protected, to the
+point where you would forget that there's copy protection. The system
+isn't full proof, but it throws up road blocks that say, "hey, wouldn't
+you rather pay an extra buck to not have to go through with this?" and
+the answer is frequently "yes."
+
+The other key for successful digital content is price/feature benefits.
+Digital media, is "better" than print media, it takes up less space, it
+is searchable, more readily indexable, and can be interactive, among
+other benifits (depending on what kind of content it is). Digital
+content must harness these features, otherwise, why bother. Beyond that,
+the content is *significantly* cheaper to produce and distribute than
+traditional media, because there isn't any material costs. All you have
+to pay is production costs, royalties, and bandwidth/server costs. The
+first two expenses are the same, the second costs a fraction of what the
+paper does. So digital media, I think, should be cheaper than the
+traditional format. Again, in iTunes, songs cost a buck, albums cost 10
+dollars, with some allowances made for EPs and the like.
+
+Even still, I think songs should cost even less, as I suspect that even
+after royalties and hosting, cost is between 10-30 cents, if that, but a
+dollar is ok. Would-be-ebook producers should take note. There is a
+magic price point, for this, and I suspect it's under 5 bucks for a
+book, probably more like 2.50 or 3. Remember for a moment that book
+files are *tiny*, easily 25%, and in most cases less than 10% of the
+average iTunes song, so distribution is *even easier*. Then, If ebooks
+are ever to succeed they have to be affordable enough, they have to be
+full featured, and any DRM has to be transparent and unobtrusive. I'm
+just saying....
+
+.. raw:: html
+
+<hr width="20%" />
+
+The last iPod update was really incremental. Lots of folks were
+predicting a phone, widescreen, or wireless capabilities, and we didn't
+see that. I frankly can't see apple getting into the phone market, I
+think that we'll see bluetooth eventually on an iPod, but that's not a
+major step up in functionality. Likewise, a larger screen is probably in
+store (likely in terms of pixels rather than area), but I suspect that
+keeping a small form factor is more important that huge strides in
+functionality. If you want a much larger screen, get an iTV or some
+similar TV integration device. The iPod succeeds because it does one
+thing *really* well, not because it is the height of convergence
+technology. The next big feature of the iPod, will fit into this
+somehow. Why? Because it's apple, and that's what they do.
+
+So having said that: I think the next feature will be etext capability.
+Here are some reasons:
+
+.. raw:: html
+
+<ul>
+<li>
+
+iPod already has limited PIM (contacts, calendar, notes) functionality.
+Apple appears to be of the opinion that entering data in a mobile device
+is less then effective on all sorts of levels, but that viewing it
+whilst mobile, is much more effective. Because of that I don't suspect
+that they will go down the PDA road, they're already there.
+
+.. raw:: html
+
+</li>
+<li>
+
+iTunes has functionality for managing PDFs, it's a rather dinky feature
+for it to be coded just for the odd album booklet, so there's probably
+more code just under the surface.
+
+.. raw:: html
+
+</li>
+<li>
+
+If they're going to make the screen a little bit bigger for videos which
+I think is a demand (if you made the scroll wheel a bit smaller, you
+could probably fit a 2.5x2 screen on an ipod in the same form, you have
+a pretty good sized screen for eBook reading.
+
+.. raw:: html
+
+</li>
+<li>
+
+The iPod is a device that is *built* around scrolling, and this is the
+main control that you would want in an ebook device. It seems like all
+the pieces are there.
+
+.. raw:: html
+
+</li>
+<li>
+
+By establishing themselves as a successful content provider for music
+and television content, I think Apple will likely be able to--through
+the iTunes (anyone else waiting for the rename to: iMedia?) convince the
+print publishers that they have the market, and DRM system that will
+make content producers willing to come on board. And this is the key, of
+course. It always is.
+
+.. raw:: html
+
+</li>
+</ul>
+
+We'll see.
+
+Cheers!
+

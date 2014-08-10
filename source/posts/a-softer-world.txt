@@ -1,0 +1,11 @@
+==============
+A Softer World
+==============
+
+.. post:: 2006-01-05
+   :author: tychoish
+
+`A Softer World <http://asofterworld.com>`__, is a delightful little web
+comic, in the vein of post-secret (at least in my mind). It's poetic in
+a way I can get. Shame they don't have an RSS feed. Enjoy.
+

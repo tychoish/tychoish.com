@@ -1,0 +1,91 @@
+========
+Emacsen 
+========
+
+.. post:: 2008-11-26
+   :author: tychoish
+
+Ok, so you (and by you, I mean `jack <http://metajack.im>`__) will be
+happy to hear, that I've mostly settled on being an emacs user. I mean,
+I'm not killer good at it, but this evening as I moved back to my Mac
+exclusively for a few days (I'm writing this during a quick jaunt out of
+town and my mac is the laptop) I downloaded a GUI version of emacs,
+because... well, I think the less that's said the better.
+
+This is strange for me, because for a long time, I thought that moving
+to linux would be all about an adaptation to vi(m)--for those of you
+playing along at home, vim is the "competing" text editor to emacs.
+Emacs was always that overly complicated editor that did too much, and
+vim's modal [1]_ design is kinda brilliant, and I was taken.
+
+But as I've `said
+before <http://tychoish.com/rhizome/editor-crisis/>`__, vim is great,
+but it's not perfect for what I'm doing. My MO in TextMate has been to
+use it to do as many things as I can. Which is more inline with the way
+that people tend to use emacs. So I switched (haven't started to use it
+for writing emails, yet), and it's mostly pretty great, but it's hard to
+get used to.
+
+I was going to say "it's just a bit weird," or "things seem hard to
+find," or "functionality isn't as standardized as it is in TextMate,"
+but I'm not sure that this is really true. I mean, there are some clear
+differences between emacs and TextMate, but TextMate is *very clearly*
+influenced [2]_ by emacs, so it's not that alien. And the M-x command
+line makes things *really* easy to find, so that's not an issue. So
+maybe my only complaint is that the various modes for emacs aren't as
+consistent as the languages/bundles for TextMate. This might be the
+case, but it also might be the fact that I don't edit many different
+kinds of text, so I'm not a great judge of this.
+
+So while I'm on this subject, let me make a list of the *kinds* of text
+files that I edit. Because it's my blog, and I can:
+
+-  Markdown Documents: I use markdown formating a lot (with longlines
+and flyspell minor modes in emacs). These documents tend to range
+from about 1,200 to 4,000 words, and I write them for work
+(technicalish documents) and also my fiction is all written in these
+kinds of files.
+-  Blog posts. Also in markdown these are shorter, but in TextMate at
+least these have email style headers that interface with the
+blog-posting client. In emacs, I've been using these headers (as I
+don't like the blogging mode very much.
+-  Screen Plays. There's a great mode in emacs for screenplays that
+doesn't have some of the nifty completions that the TextMate
+counterpart has, but I think overall the interface is better.
+-  Occasional PHP/css/html files. I do websites, this is a necessary
+thing, and this is the most "programer" thing that I do. Even really
+sucky text editors do this pretty well. I might also from time to
+time edit shell scripts and hopefully do some python stuff in the
+future, but again, not a big issue.
+-  Outlining/Journaling. I'm not a big "one giant text file" kind of
+guy, but doing some kind of structured document outside of basic
+markdown formated text is nice. I've been using a "journal" bundle
+for TextMate for this, and there are a few others.
+-  Editing LaTeX documents. I haven't done a lot of this recently, but
+one of my "things" is using LaTeX to do all of my "production"
+document editing. For most things I tend to write in markdown and
+then translate to LaTeX for production, but I have a couple of LaTeX
+documents and templates that I just do in LaTeX. I need to explore
+this more, but I've touched on it a bit, and I'm a fan so far.
+
+Are there other emacs modes that I should be checking out that I'm not,
+seemingly, aware of? Thanks in advance!
+
+.. [1]
+So the basic idea in vi/vim is that the editor has two basic modes:
+the "normal" mode allows you to use all the keys to communicate with
+the editor itself, while the "insert" mode allows you to insert text,
+and the end result is that the interaction with the program is very
+ergonomic. It's also incredibly frustrating for writing prose but
+amazing for editing jobs of almost any length, because navigation is
+really simple.
+
+.. [2]
+The key bindings are mostly the same, and follow very similar
+patterns. I'd say that the biggest difference (other than open
+source/closed source) is that TextMate doesn't lock you into (e)lisp
+and doesn't favor a particular scripting language. Which someone else
+(whose more of a programer) could debate more clearly. To be honest,
+(e)lisp syntax doesn't bug me nearly as much as ruby, and there's a
+lot of ruby-bias in the TextMate community.
+

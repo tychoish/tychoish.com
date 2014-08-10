@@ -1,0 +1,81 @@
+========================================
+Reading And Consuming Hyper(digital)text
+========================================
+
+.. post:: 2007-03-23
+   :author: tychoish
+
+By the very fact that you're reading this weblog now, it's clear that
+this isn't your first exposure to digital text, or to hypertext, so I
+think by hook or by crook we've all adapted to reading text on the
+computer. What I want to think about here, with you at the moment is not
+so much "how to read" hypertext, but rather, how hypertext changes the
+way we read and interact with text. So for our purposes in this
+discussion I'm going to take the term "text" and "hypertext" to mean the
+digital representation of letters and words on a computer; perhaps this
+was obvious to you, but I've been living with English Majors and
+cultural studies folks for long enough that I feel the clarification is
+worthwhile.
+
+I've long said that the digital text or hypertext presents a number of
+key features in contrast to "dead tree" text. Hypertext is searchable,
+easily replicated, easily referenced, and easily modified for a maximum
+degree of accessible. These are all, too my mind, *good things.*
+
+One of the common design assumptions of presenting text on the internet
+has been to just throw text on a page in long swaths of text. Though
+various organization or heading levels are theoretically useful for
+organizing texts, these features are frequently not used uniformly and
+can sometimes be hard for the eye to find. The quick move to digital
+text, got removed a couple of very important features of printed/hard
+copy text: defined column width and the page to constrain the
+presentation of text, and the organizational factor of the chapter or
+section. The act of looking at a page of text in a book or a magazine
+requires a completely different mindset from looking at a web-page. But
+this isn't a call to return to old ways of reading, but rather a call to
+re-think the way that we consume hypertext.
+
+For instance, one thing I've realized is that weblog entries work better
+when they're about 750 words, and vertical columns of text work best
+when you don't have to scroll up and down to read adjacent columns.
+While my current goal of keeping all the entries each of my current
+TealArt series under 1000 words, helps (I think) make these easier to
+read, the issue that I'm struggling with--and I think this is a key
+issue of reading on a computer screen--is the idea that we are
+completely to scroll down and down forever, but less willing to scroll
+side to side for additional programs. I think the program
+`Tofu <http://amarsagoo.info/tofu/index.shtml>`__, for OS X is a welcome
+advancement, but in general we need to put some thought in to this.
+
+I also don't want to subsume a concern regarding length in a discussion
+of text presentation, nor do I want to collapse a discussion about what
+kind of forms work best for the internet, into a discussion of
+"shrinking attention spans" in the digital age. Not only would this not
+be particularly constructive, I think that the issue is that we can't
+assume that "print" content will function the same way digitally that it
+will on pulp.
+
+So for example, I don't think that "click next" page options like the
+way that the `New York Times <http://www.nytimes.com/>`__ presents its
+articles is quite the answer either. And to be fair, I don't know that
+there are concrete answers to any of the issues that I'm presenting
+here, other than "we need to think about reading behavior some more."
+
+My last thought on the subject (for this week) bridges the border
+between reading and writing,which I hope to cover next time. This is the
+issues of citationality, more simple than just a pagination issue, one
+of the things that we are able to do as readers of pulp is say. "X
+passage, located *here* in a text," but because the location of
+particular passages in hypertext is more fluid, we can't do this. I'll
+speak more to the academic/scholorly impact of this on writing next
+time, but in a sense the difficulty of conversational citationality
+(lets call it, for now) in hypertext, definitely affects how we interact
+with words on our computers.
+
+I'll see you all next week, and I'm fully aware that this is a topic
+that deserves a little more than a laundry list of complaints. Keep this
+in mind, because I hope that next week's discussion of writing will help
+resolve some of these concerns and ideas. Stay tuned!
+
+Read Well, tycho(ish)
+

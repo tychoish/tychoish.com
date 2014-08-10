@@ -1,0 +1,42 @@
+======================
+Upgrade SBCL and SLIME
+======================
+
+
+This is a little bit of documentation/technical writing around an issue
+that I had for a while. `SBCL <URL>`__ is a Common Lisp implementation
+that I use, and would recommend as a good starting point for people
+interested in tinkering with Common Lisp. `SLIME <URL>`__ is an
+emacs-based development tool kit that lets you interact with a lisp
+session in real time.
+
+SLIME works as you're writing code and makes it possible to connect to
+(potentially any) running lisp process and execute code and access
+documentation, among other functions. The connection between Emacs/Slime
+and the running application is provided by a connector called "Swank."
+Lisp is pretty cool, Common Lisp is really nifty, but SLIME is what
+makes working with Lisp fun/easy and really powerful.
+
+Ok. Here's what happens. You upgrade SBCL (which happens every now and
+then for me with Arch Linux,) and you probably have to recompile a
+number of things to work with the new package. That's a bit annoying,
+but it's not a huge burden. Then you try and load Swank, and it bombs.
+You reinstall Slime but no dice, and you still can't connect to your
+application in slime.
+
+This is where I lingered for about 3 months. No working Slime meant
+going back to interacting with my lisp applications in the conventional
+manner, which kind of sucked.
+
+Here's the fix, and it's *crazy* simple. In emacs run "``M-x slime``\ "
+Restart the application or reload the swank loader, and *then* try and
+connect to the application with Slime. Bingo.
+
+Turns out that Slime (and therefore swank) build a few ``.fasl`` files
+that are version specific to SBCL that hang around after the upgrade.
+The only way these files are rebuilt is if you load slime, which you may
+only do by way of swank, which won't work unless you reload slime. It's
+a chicken and egg issue.
+
+Problem solved. Sorry it wasn't more interesting: most aren't terribly.
+

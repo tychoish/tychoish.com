@@ -1,0 +1,104 @@
+========================
+Loops and Git Automation
+========================
+
+.. post:: 2012-03-15
+   :author: tychoish
+   :tags: linux, programming, technology
+
+This post provides a few quick overviews of cool bits of shell script
+that I've written or put together recently. Nothing earth shattering,
+but perhaps interesting nonetheless.
+
+Making a Bunch of Symbolic Links.
+---------------------------------
+
+I have two collection of Maildir folders to store my mail. One in a
+``~/work/mail`` folder for my work mail, and ``~/mail`` for my personal
+projects. I want the work mailboxes to be symbolically linked to the
+personal ones (some work email, notably from GitHub comes to a personal
+address, and I want to be able to refile as necessary.) I moved the work
+maildirs last week, so I needed to create about 15 symbolic links, and
+so I wrote the following little loop:
+
+::
+
+cd ~/mail
+for i in `find ~/work/mail -maxdepth 1 -mindepth 1`; do
+ln -s $i work.`echo $i | cut -d / -f 6`
+done
+
+Should be useful, no?
+
+Commit all Git Changes
+----------------------
+
+For a long time, I used the following bit of code to provide the inverse
+operation of "``git add .``\ ". Where "``git add .``\ " adds all
+uncommited changes to the staging area for the next commit, the
+following commit automatically removes all files that are no longer
+present on the file-system from the staging area for the next commit.
+
+::
+
+if [ "`git ls-files -d | wc -l`" -gt "0" ]; then
+git rm --quiet `git ls-files -d`
+fi
+
+This is great if you forget to use "``git mv``\ " or you delete a file
+using ``rm``, you can run this operation and pretty quickly have ``git``
+catch up with the state of reality. In retrospect I'm not really sure
+why I put the error checking ``if`` statement in there.
+
+There are two other implementations of this basic idea that I'm aware
+of:
+
+::
+
+for i in `git ls-files -d`; do
+git rm --quiet $i
+done
+
+Turns out you can do pretty much the same thing with the following
+statement using the ``xargs`` command and you end up with something
+that's a bit more succinct:
+
+::
+
+git ls-files --deleted -z | xargs -0 git rm --quiet
+
+I'm not sure why, I think it's because I started being a Unix nerd after
+Linux dropped the argument number limit, and as a result I've never
+really gotten a chance to become familiar with ``xargs``. While I
+sometimes sense that a problems is ``xargs`` shaped, I almost never run
+into "too many arguments" errors, and always attempt other solutions
+first.
+
+A Note About ``xargs``
+----------------------
+
+If you're familiar with ``xargs`` skip this section. Otherwise, it's
+geeky story time.
+
+While this isn't currently an issue on Linux, some older UNIX systems
+(including older versions of Linux,) had this limitation where you could
+only pass a limited number of arguments to a command. If you had too
+many, the command would produce an error, and you had to *find another
+way*.
+
+I'm not sure what the number was, and the specific number isn't
+particularly important to the story. Generally, I understand that this
+problem would crop up when attempting to take the output of a command
+like ``find`` and piping or passing it to another command like ``grep``
+or the like. I'm not sure if you can trigger "too many arguments" errors
+with globbing (i.e. ``*``) but like I said this kind of thing is pretty
+uncommon these days.
+
+One of the "other ways" was to use the ``xargs`` command which basically
+takes very long list of arguments and passes them one by one (or in
+batches?) to another command. My gut feeling is that ``xargs`` can do
+some things, like the above a bit more robustly, but that isn't
+experimentally grounded. Thoughts?
+
+Onward and Upward!
+

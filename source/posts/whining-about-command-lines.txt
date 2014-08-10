@@ -1,0 +1,91 @@
+===========================
+Whining about Command Lines
+===========================
+
+.. post:: 2007-04-19
+   :author: tychoish
+
+It's Thursday, and it looks like I'm back with another tech-related
+whine.
+
+I'm a `quicksilver <http://quicksilver.blacktree.com/>`__ user, and I
+have to say that I adore this program more than just about any other on
+my computer, and it's one of the reasons why I'm always so insistent
+about using my computer: it's downright unsettling to use a computer
+that doesn't have QS on it.
+
+What's quicksilver? It's a nifty little application launcher that lets
+you interact with your computer via text inputs. Do a google search and
+you'll learn way more than I could really hope to tell you here. Anyway
+it's awesome, and it's free. If you use a mac, get it now. If you don't
+there are some things that are close in some of the functionality, but
+the truth is that so much of what makes QS so good, is the fact that it
+draws on all kinds of unity that already exists in the mac, and makes
+all that connectedness appear at your finger tips without having to futz
+through menus and folders and so forth.
+
+So this got me thinking: modern computing (ie. the last 20 years) has
+been centered around the GUI (graphical user interface) that represents
+file structures via pretty pictures. So most people are used to
+interacting with their computers via pictures and what not. (You UNIX
+nerds, be quiet!) And this is really good for letting people intuitively
+figure out how to make a computer work. It's the reason that most people
+don't have a real problem moving between Macs and PCs these days. The
+down side: it's really *fracking* slow for a good deal of what we do.
+
+There are a couple other pieces of this mind puzzle that I really don't
+remember the source for, and I'm sorry for that, but they added to the
+mileux of this whine.
+
+The first is that I saw an article that noted how in the hands of a
+skilled user the address bar of
+`Firefox <http://www.mozilla.com/en-US/firefox/>`__ can function like a
+rather smart command line: If you type in a collection of words,
+depending on your settings Firefox will take you to the first google
+search result (which is often what you wanted) or it will take you to
+the google search result for those terms. You can augment this by adding
+extra codes in the settings, so that prefacing a string of terms/search
+operators with a key (like wiki for wikipedia) will perform a certain
+kind of search. It's pretty nifty, and to be honest I think it was an
+article in a blog that I glazed over because I'm not using firefox these
+days (it's all about `Camino <http://www.caminobrowser.org/>`__ for me!)
+
+The second thought was that someone mentioned, again in a blog or
+podcast, that if you watch "power" users even if they're not working in
+a command line environment don't tend to use the mouse very much. It's
+inefficient, it takes too long, it can be hard on your wrists, and it's
+a lot easier to hit control/comannd+C, control/comand+V to copy and
+paste than it is to interact with the edit menu. The truth is that most
+of the commonly used features have associated commands and by just
+studying this, you can use the mouse a lot less frequently.
+
+I don't want to give up all GUI features, and go back to olde school
+command lines, mind you, as there are some things that just work better
+with mouse actions: Web browsing. Document Preparation. Graphics
+manipulation. Sound Editing (sometimes). And so forth. But file
+manipulation? Task switching? Text editing? Command lines are way better
+for that.
+
+Do I have a solution? Of course not. I think something a lot like
+quicksilver but that had the permanency of the menu-bar in OS X would be
+ideal [1]_. I think the real challenge though is finding a way to make
+this kind of human-computer interaction seem as intuitive as pointing
+and clicking. I think with some smart technology it could be done.
+
+do you have a whine about technology? send it in or leave a comment.
+I've written this for two weeks in a row, and I didn't quite intend this
+to be another series, so if you like it, it might be up to you to
+continue...
+
+best, tycho
+
+.. [1]
+I mean what I seem to be calling for is a re-imagination of computer
+interface, and I think the *window* paradigm is something that might
+need rethinking, as part of this process. Because if we have a list
+of running/active windows/programs/applications that is easily
+accessible from some sort of text input, do we really need to have
+such a confusing graphical representation of the fact that our
+computers are doing all of these things at the same time? Arguably
+not. Just a thought.
+

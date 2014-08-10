@@ -1,0 +1,83 @@
+================
+Awesome Projects
+================
+
+.. post:: 2008-10-24
+   :author: tychoish
+
+This is part three, in my ongoing series on the `Awesome window
+manager <http://awesome.naquadah.com/>`__. For an `introduction to what
+Awesome is, read part one <>`__, and for some of my `complaints/gripes
+about Awesome <>`__. This post is more a collection of "things that
+should be done about awesome."
+
+In a lot of ways this post brings up a number of points that aren't
+necessarily specific to Awesome, but rather provide a good (start) to
+and an idea of what people who aren't programers can contribute to open
+source projects.
+
+User Guides/Documentation Most open source projects need help
+-------------------------------------------------------------
+
+writing documentation, so anyone whose good at understanding technical
+concepts (or figuring them out, which is, I think a good chunk of my
+remaining readership,) can probably write pretty good documentation.
+Perhaps most difficult in open source projects is editing old
+documentation to reflect changes and revisions/expansion. If you're
+interested in doing this, you can basically take your pick of any open
+source project and go to town. Everyone needs help with documentation
+just about, and to publish a `GNU
+GFDL <http://www.gnu.org/copyleft/fdl.html>`__/`BSD-Style <http://en.wikipedia.org/wiki/BSD_license>`__
+manual isn't the kind of thing you need to get approval for.
+
+The truth is that programs like Awesome don't need formal documentation.
+The `man pages <http://en.wikipedia.org/wiki/Manual_page>`__ are pretty
+complete with all the formal functions/features pretty well documented.
+The problem is that the initial learning curve is pretty tough, and the
+man pages can be pretty unsympathetic. The truth of the matter is that a
+lot of times what isn't needed *as much* as formal documentation, but
+rather shorter more accessible documents that explain key features and
+help new users get acclimated to the system. Let's call them "user
+guides," and Awesome needs them.
+
+More Configuration Files Configuration files in unix/linux programs
+-------------------------------------------------------------------
+
+are almost always these really simple, straightforward lists of various
+settings and key-bindings. In awesome, you have to describe and create
+the interface in the configuration file, so configuration is
+non-trivial. While I think there are various merits to this kind of
+setup, like it allows more flexibility and the user base is pretty high
+level so super-usability isn't a big concern, the down side is that it's
+hard to know where to start.
+
+To this end, I think it would be really great if there were (even more)
+different and well commented example configuration files so that
+interested users could "try out" a number of different settings, and
+have a basis for starting to modify their own config files. I proposed
+in a previous entry that I thought a more modular/segmented approach to
+the config file might be good to separate widgets, key bindings, and
+hooks/etc. into separate files, and while this might be a good idea, I
+think having examples around would make this easier.
+
+Special Use Case Reports Aside from the initial learning curve, I'd
+-------------------------------------------------------------------
+
+say the biggest problem with Awesome is the name. Odd complaint you say?
+Well it makes it really hard for google to index information about
+Awesome. So it's hard for users like you and me to find blog posts about
+how to do cool things with awesome. Outside of the `Awesome
+Wiki <http://awesome.naquadah.org/wiki/>`__, its hard to figure out what
+cool things folks are doing with Awesome, or even how most awesome users
+are overcoming every-day-use challenges.
+
+I'm calling these sorts of things "special use case reports," but it's
+really just blogging. I'd love to hear and be able to collect
+discussions and blog posts from other Awesome users about what they're
+doing with the software. I think the collection of this knowledge would
+be a great resource.
+
+--------------
+
+Thoughts?
+

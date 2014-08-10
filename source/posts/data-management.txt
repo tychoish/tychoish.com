@@ -1,0 +1,81 @@
+===============
+Data Management
+===============
+
+.. post:: 2008-06-19
+   :author: tychoish
+
+As I continue to adjust to the new computer, I'm realizing that there's
+something I want to be doing my computer that I don't quite have the
+tools and/or cognitive capacity for.
+
+I've sometimes joked that I have no business having such a powerful
+computer because the truth is that 80% or more of my digital work is a
+dealing with text files, plain text files that are technologically the
+same as text files from 30 years ago. *For this we don't need a dual
+core processors, or 250 gigabyte hard drives.*
+
+But this is a digression. Probably the second biggest (in terms of
+import) collection of *stuff* I have on this computer is data and texts
+of one form or another. Lots of PDFs of academic articles and resources,
+lots of notes of my own creation, that sort of thing.
+
+While I've tried almost all of the "personal database" managers over the
+past few years, I settled on using an interesting solution. That is
+programs like DEVONthink Pro, Mori, EagleFiler, that attempt to provide
+an additional layer of database management to all of the "things" in
+your digital life. They're good programs, but the truth is that they all
+provide a common set of very OS X-y tools, and they're all closed
+source, and they tend to obscure the organization of the data. [1]_
+
+I use `BibDesk <http://bibdesk.sourceforge.net/>`__ to index all of the
+published documents that I have on my computer, BibDesk is a great
+program for managing citations and frankly I use it for a *lot* less
+then its capable.
+
+Anyway so there are a bunch of programs that do this kind of thing, and
+I used `Devon Think <http://www.devontechnologies.com>`__ at one point
+in the past, and I like it, but the database is proprietary and it's
+having a problem with a file extension I use [2]_.
+
+In any case here are a list of features that I consider important for
+such a program and the task that I hope to accomplish with said
+features:
+
+-  *Web Cliping* when I run across something on the internet that is
+important to a project I'm working on, I want to be able to capture
+it to the database for later reference. The clip should capture key
+bibliographic data (URL, time, title, etc.) and keep this exposed to
+me so I can easily incorporate the information into what I'm working
+on without needing to either have a connection to the internet or
+trace down the source for a second time.
+-  Mange *multiple formats*, including PDF, HTML, and plain text.
+-  Needs to *rely on external editing/viewing programs*. I really like
+the programs I use to edit files, and don't really want to use some
+special wrapper on top of TextEdit.
+-  Needs to keep the *data/files exposed* to the directory structure,
+and keep synchronized with this. If I change a file name/title in the
+database it needs to propagate down the line. DTP will *almost* do
+this, if you index files, but it means keeping a finder open window.
+-  *Something not Kludgey.* As I've been writing this, I managed to hack
+together a shell script that does like eighty percent of what I need
+(in concert with `ikiwiki <http://ikiwiki.info/>`__, which I already
+use), but it's ugly, and doesn't do a very good job of capturing the
+citation information automatically. If someone knows how to get a url
+for the top most safari window into the shell as a variable, this
+will obviously be a lot easier, as it is, I think I can hack it.
+
+Is there some solution that people are using for this sort of task? Do
+you have recommendations? I'd love to hear them.
+
+.. [1]
+So, in part I'm predisposed to liking open source solutions, but in
+this case, it's particularly crucial, because I don't want to spend a
+lot of time working on organizing and managing the data in a database
+only to have that work obsoleted or destroyed when I want to move to
+another system/platform.
+
+.. [2]
+I have plain text files with different file extensions for
+organizational purposes and what not.
+

@@ -1,0 +1,39 @@
+==================
+Aria for Lost Tabs
+==================
+
+.. post:: 2006-01-03
+   :author: tychoish
+
+Over the past few months I've reacquainted myself with the Opera Web
+Browser. I'd used it before in previous iterations, and wasn't pleased
+with the way that it parsed web pages. Displays were off, it was
+minimally customizable, and seeing that the only thing it offered at the
+time, was marginally faster browsing, I went sulking back to Mozilla, or
+IE, or whatever I thought was the gold standard at that point.
+
+I've taken back to Oprea, after Chris told me about their 10th
+anniversary. What with the variable speeds of downloads and Wi-Fi
+(haven't plugged in in months) the little speed boost is nice, but I
+really like the fact that if the computer or program crashes, it can
+recover your lost tabs. And if you close a tab accidentally, there's a
+"trash" can where closed tabs from a window can be recovered. The
+program still borks on tables, from time to time, but there are a lot
+fewer tables on the internet these days, and there are a couple of minor
+features that I'm still waiting on, but it's become my favorite browser.
+
+I've also started saving tabs much more aggressively than I used to.
+I'll open a window, open anywhere from 10 to 60 tabs and then read them
+over the next few weeks. It's replaced bookmarking, and it lets me
+survive away from an active connection for a while. Since, Opera saves
+tabs for ever, basically, there are some tabs that I've had open for a
+while, and as the title of this post suggests, I lost a huge mess of
+them a few days ago.
+
+Let this message be both an endorsement for a great program, and a
+warning against personal stupidity. Save your sessions (oh, did I
+mention, Oprea lets you do that too!), and don't click the "No" button
+by default.
+
+Cheers, sam
+

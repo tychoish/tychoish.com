@@ -1,0 +1,23 @@
+==============
+Massive Update
+==============
+
+.. post:: 2004-11-06
+   :author: tychoish
+
+Ok, So even though I said we wouldn't do it. Even though I really didn't
+want to do it. I did. We've compleatly changed databases, and CMS. This
+time you probably *can* notice the difference.
+
+Eventually you probably won't notice, but for now things are a little
+ruff and most of the functions don't work or have been disabled while we
+get the other pages to work.
+
+For a number of weeks, all the old pages will work, and all your old
+links should continue to function. Eventually they won't but for now I'm
+leaving things up.
+
+Just So you know.
+
+Cheers, Sam
+

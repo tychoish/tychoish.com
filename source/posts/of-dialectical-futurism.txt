@@ -1,0 +1,89 @@
+=======================
+Of Dialectical Futurism
+=======================
+
+.. post:: 2009-11-30
+   :author: tychoish
+   :tags: academia, meta
+
+A while back, lets say, in August or so [1]_, I redid the design of this
+site and added a new subtitle: "Dialectical Futurism." The dweeby,
+philosophy geek in me really enjoys this, just as an idea. As it's sat
+at the top of the page, I've also thought more and more that the
+subtitle is actually a pretty good summary of what I'm trying to
+accomplish here. This post is an attempt to do two things:
+
+1. Concisely summarize my "blogging project" and thus explain what
+dialectical futurism means.
+
+2. To do a bit of a status update on the blog, as a sort of "self
+report," of what I think seems to be working and what doesn't.
+
+--------------
+
+Part One: What "Dialectical Futurism" Meas In Practice.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's always risky, I think for a self-claimed "Science Fiction" writer,
+to declare themselves a "Futurist" of any sort. Because of the genre's
+link to the future, I think there the danger that people might think
+that we're putting forth our stories as works of prediction.
+
+While I think my interest in futurism comes from a similar place as the
+interests that drive my fiction, the practice of futurism (in the form
+of this blog) and the practice of fiction are very different.
+Ultimately, both are historical endeavors and futurism is tends to be
+much more tightly focused on the recent history. At least for me.
+
+Dialectical futurism, is about a conversation between me, and the past,
+and me and the possible future, it's an attempt to synthesize a
+pragmatic view of what will happen, with an optimistic view of what I
+would like to happen. It's about `putting all of the topics I blog
+about <http://tychoish.com/rhizome/building-the-argument/>`__ like Open
+Source, Free Software, Cooperative structure, Economics, and the "New
+Media" in conversation with each other and seeing what kind of cool
+innovative things happen.
+
+Part Two: The Status of the Project
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The project of `being a
+writer <http://tychoish.com/rhizome/i-am-a-writer/>`__ is one of
+constant self improvement, I think. One thing that I didn't mention in
+`that post <http://tychoish.com/rhizome/i-am-a-writer/>`__ is that no
+matter how awesome you are as a writer, you're always trying to get
+better at writing. There's always some improvement to make, some
+short-falling in your ability to communicate that you're working at
+improving.
+
+I have the sense that I am getting better, if that's a meaningful
+judgment. One improves as a writer, I'm convinced, by writing, and
+writing *a lot*, and as I write a bunch for this site and a bunch for
+work, and a bunch for other projects, I think I'm starting to get
+better. Also, I get a lot of feedback from coworkers on my writing,
+which I think has been helpful. Editors are a good thing indeed.
+
+I think I've gotten better at figuring out how to write good blog
+entries--it still takes time, but I get into the grove more quickly. I'm
+getting better feedback, and I'm reasonably happy with where the traffic
+is. I mean, there's always room for improvement, but things are headed
+in the right direction.
+
+My short term goals are two fold:
+
+1. To focus my energies on reading and improving my background knowledge
+in a number of areas. I want to be more contextually grounded in
+existing conversations regarding economics, anthropology, and
+cyborg-related materials.
+
+2. To spend a lot more time on fiction writing. This means developing
+new habits, adjusting priorities, and spending some serious time
+making fiction projects work. So there.
+
+We'll see how this goes, and thanks as always for reading and putting up
+with me.
+
+.. [1]
+I'm just guessing here. I could go back and check, but August sounds
+right.
+

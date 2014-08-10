@@ -1,0 +1,91 @@
+==============================
+Mobile Productivity Challenges
+==============================
+
+.. post:: 2011-07-25
+   :author: tychoish
+   :tags: productivity, mobile-technology
+
+I've never really figured out how to do work with anything less than a
+full computer. I've tried everything: Palm Pilots and Pocket PCs in the
+early 2000s, laptops, and eventually I just settled on just dragging a
+(smaller) laptop almost everywhere circa 2005. I get the feeling that,
+most people who have been thinking about mobile technology and
+productivity assume that the only impediments to mobile productivity are
+better hardware and software. Contemporary (multi)touch screen devices
+are the current embodiment of this theory.
+
+I'm convinced that the theory is wrong.
+
+Having better and more powerful technology doesn't hurt anything. I'm a
+huge fan of the smaller, integrated, and more powerful devices. Software
+written specifically with mobile users in mind does improve the
+potential for productivity. These technological improvements, however,
+make the underlying problem more apparent.
+
+The challenge of getting things done when mobile has little to do with
+the capabilities of the mobile platform, and more with the way people
+think about and plan work when mobile. Not only is this hugely
+frustrating to users, but technological capability that people can't use
+threatens the ongoing development and adoption of new technology.
+
+Using Mobile Technology More Effectively
+----------------------------------------
+
+The solution, here, I think is two-fold:
+
+Fully Integrated Applications
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Let's develop integrated applications, not just integrated devices with
+different applications. Just as we didn't need separate devices for
+every mobile function: telephony, music playing, book reading, mobile
+internet, and so forth. We don't need different applications for every
+function: calendaring, messaging, email, contact management, notes,
+reading, and so forth.
+
+At the very least applications need to be highly interoperable, so that
+users can send data between application functions easily, and
+synchronize data back to desktop and web portals seamlessly.
+
+Task Planning Strategies for Mobile Productivity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I don't think that the "user stories" for mobile technology are really
+fully developed, and as a result any interaction with a mobile device
+that isn't responsive (i.e. there's an alert of a new event, and people
+respond to it,) is either "twiddling nobs" (i.e. non productive,) or
+entertainment focused (i.e. playing music, video, or opening a book.)
+Perhaps that's enough for some uses, but these this kind of workflow
+covers a small percentage of what people do with computers.
+
+If mobile technology is going to replace a general purpose laptop, ever,
+even in limited situations, we need to figure out how to work in
+different ways. I know that I am loosing a great deal of time, when I'm
+using my phone switching between the notes app, the reader, the task
+list, and the calender. This task switching gets in the way of doing
+things to a much larger extent than similar behavior does when using a
+conventional computer. I would even posit that, *the cost of context
+switching is inversely related to the size of the interface.*
+
+Better application integration will help this, but I think the real
+solution is providing a method for people to organize their mobile time
+more effectively. The task list that we build for ourselves when we're
+doing "conventional" work (i.e. things that we need to remember to do,
+open projects, open issues,) aren't particularly useful or usable when
+we're looking at a tablet or a phone. If we don't know *what* we ought
+to be doing, it doesn't matter what the device or software is capable of
+in theory.
+
+There are probably a dozen or more solutions to this problem, but here's
+my first stab at it. What if there was a way to "forward tasks" to
+ourselves when we're on the run, but have a few moments? We all loose
+time waiting in queues, or waiting for trains, and these seem like ideal
+phone times. If we had a way to queue things for ourselves, so we could
+spend the time *doing something*. Even better, would be software that
+would not only collect and display the queue but would also connect with
+the application where whatever needed to be done was and then record the
+results and send the back to our desktops when we were done.
+
+[[Thoughts\|discourse]]?
+

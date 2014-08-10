@@ -1,0 +1,77 @@
+=====================
+Of Poetry and Geekery
+=====================
+
+.. post:: 2003-11-25
+   :author: tychoish
+
+Well it's certianly been an eventfull evening. My instalation of windows
+which I've probably been using for the past nine or more months has
+finally bitten the dust. Mind you, my data is all nice and safe and it
+can stay there. It's nerve wracking becasue I've agreed to go out of
+town this weekend, and my computer situation is compleatly up in the
+air.
+
+See I want to instal Gentoo Linux on my PC and have that be my primary
+operating system. I really do have a lot of affection for Windows and
+all, but there's little reason not to change, and I'd like something a
+little less touchy. For the moment (becasue the instalation of windows
+that I've been using for the past several months is dying slowly), I'm
+reduced to Knoppix, the bootable CD linux distrabution. It's a nifty
+idea, and lets people get used to the idea of linux, and is a great
+diagnostic operating system that'll quickly let people know that it
+really is Windows messing up, and not their processor blowing out.
+
+As for primary OS aplications, it doesn't work so well. My issue with it
+is that I have three NTFS drives, and no way to write data anywhere...
+even to a flopy disk. Now two of those three drives are backed up and
+ready to be formated for the eventual arival of Gentoo, and I'd really
+be happy to turn one or both of them into FAT drives, but, I can't
+figure out how to do that right now.
+
+Having said that, linux is prety nice, I must admit. The longer I sit
+here looking dumbfounded at the whole thing the less excited I get about
+the whole matter, but it'll be nice. I hope. I've wanted to at least put
+on a linux distrabution for just in case, and I know that if I just
+layer over the old windows install with new stuff (becasue the problem
+is totally not that serious I think) I'll never do it. So maybe some of
+this torture is self imposed, but I could find out that Gentoo is really
+awsome and that I'll end up liking it and wanting to not go back to
+windows perminatly afterwords. But first I have to figure out what a
+stupid tar.bz2 file has to do with anything and how I get a CD to
+install from.
+
+In any case, I bet you're wondering why I'm going into geek babble on
+the Times of TealArt (it still feels a bit funny to call the main log
+that, but it's kinda cool). Well I thought it might be nice to get a
+little more bloggy out here just in genereal, but also becasue I have an
+actual art acomplishment thing to talk about.
+
+I've gotten myself involved with my school's writing lab. It's a nifty
+little thing... stay after school for a few hours and get work done in a
+nice enviroment, help other people think about their writing, and enjoy
+the company. The nice thing is taht, since people at my school are
+slackers and don't really show up for this kind of 'lab', I get an
+English teacher at my disposal for a few hours a week, which is really
+nifty.
+
+There's this poetry contest that this english teacher was telling
+someone else (whose writing/poetry I'm not particularly fond of) about
+this really nifty and quaint poetry contest. So I thought, what the
+hell, I can pull together a few poems and submit them.
+
+So I started writing a Poem, or at least trying to. It's been a long
+process, and it's taken a while, from the point of the first line, to a
+theme, to a couple of revisions, to some intresting developments interms
+of literary neatnesses. The end result is prety awsome, I think. So I'm
+going to have to put a little more effort into such projects in the near
+future.
+
+I'm not so sure I'll be posting this stuff here, but we'll see. Also I
+should apologize now. There's a prety neat wordprocessor in Knoppix (two
+or three actually, but one that I'm suited to; anyway,) the problem is
+they couldn't fit the spellcheck dictionary onto the CD, which is really
+ok, given all the other things that they fit in around here. So this
+entry is assuredly rougher than you're used to. Sorry about that folks.
+Some semblence of normalicy will return in due time.
+

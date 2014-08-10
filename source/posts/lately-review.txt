@@ -1,0 +1,78 @@
+=============
+Lately Review
+=============
+
+.. post:: 2011-08-05
+   :author: tychoish
+   :tags: links, progress-report, journal
+
+It's Friday and I have a bunch of links, notes, and accomplishments to
+share.
+
+First up, [[jfm]] and I have been continuing the [[discussion we had
+about task lists\|rhizome/better-task-lists/discourse]] in a new
+[[discussion\|/rhizome/mobile-productivity-challenges/discourse]] of the
+[[/rhizome/mobile-productivity-challenges]]. I've also imported some
+[[conversation from
+facebook\|rhizome/cyborg-analysis-and-technology-policy/discourse]]
+following up on the [[Cyborg Analysis and Technology
+Policy\|rhizome/cyborg-analysis-and-technology-policy]] post that I made
+this last week. I'm really *really* proud of the extent to which the
+comments and edits that I've gotten have made my writing and thinking
+clearer on these subjects.
+
+Also, a thanks to the people who have done things like fix links and
+correct stupid typos. Sorry to have caused the trouble, and I'm
+eternally grateful for the helping hand.
+
+Next up, I wrote a [[document\|documentation]] for a reader who
+commented in the [[Make Emacs
+Better\|rhizome/make-emacs-better]][[thread\|/rhizome/make-emacs-better/discourse]].
+The question addressed how to load optional functionality and
+"contributed" lisp code in emacs, and I wrote [[a little tutorial on how
+to load .el files in
+emacs\|documentation/managing-emacs-configuraiton-and-lisp-systems]]. I
+think of this as a very basic and straightforward piece of customizing
+emacs; but it's sufficiently complicated and counter-intuitive enough
+that I think a little bit of documentation is in order.
+
+The above also marks the debut of a [[documentation]] section within the
+wiki, like the [[code]] section, that I hope to update every now and
+then as I write tutorials and reference material that I think someone
+may be able to use. No promises, and feel free stash content here as
+well. It's all gravy.
+
+Speaking of the [[code]] section, I wrote a little script that I use as
+``dbl``, that I describe in the [[Epistle Linker\|code/epistle-linker]].
+Basically this little function goes through a directory and creates
+symbolic links to that directory in a specified directory and mangles
+the names of the file (prepends a few charters and changes the
+extension.) [[Read the code\|code/epistle-linker]], but it makes it
+possible to use a service like Dropbox without disrupting your local git
+setup and file organization. There's a known issue with Dropbox that
+makes it slightly less than ideal, but what can you do.
+
+When I was posting [[code/epistle-linker]], I realized that I had
+probably forgotten to mention the fact that I have this nifty little bit
+of glue that uses a procmail filter (you *do* use procmail, don't you?)
+to deposit note to a particular email address (configurable) into an
+org-mode file for filtering. This is ideal for emailing your brain (i.e.
+org-mode) an item from your phone or tablet, say.
+
+And finally: I have an external link. I think this follows nicely from
+the "how to work and 'live' in the mobile world." Apparently
+`ecl <http://ecls.sourceforge.net/>`__, an embeded [[!wikipedia
+Common\_Lisp]] implementation, has been built to run on
+`Android <https://github.com/ageneau/ecl-android>`__ and
+`iOS <https://github.com/kriyative/ecl-iphone-builder/tree/elf>`__. How
+awesome is that?
+
+That's all I have. I (finally) finished the April/May issue of Asimov's,
+I subscribed to `Clarkesworld <http://clarkesworldmagazine.com/>`__, as
+if I needed more short fiction to read and distract me from everything
+else. been I've reading Iain M. Banks'
+`Excision <http://www.amazon.com/Excession-Iain-Banks/dp/0553575376/>`__,
+which has been a great deal of fun.
+
+Other than that. It's been a pretty quiet couple of weeks.
+

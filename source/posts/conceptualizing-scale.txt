@@ -1,0 +1,120 @@
+=====================
+Conceptualizing Scale
+=====================
+
+.. post:: 2010-03-08
+   :author: tychoish
+   :tags: cyborg, economics
+
+I've been thinking about how ideas, projects, and ideas scale a bit in
+the past few weeks, and as usual, I wanted to collect a few of these
+thoughts. This post is generally in my series of posts of
+"Extrapolations from Systems Administration." Inspirations and origins
+of these ideas come from, in part:
+
+-  My `Tumblr Killed the Tumblelog
+Star <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__
+post.
+
+-  My Google reader unread count.
+
+-  `Savage Minds Post on Social Enterpernurship and
+Anthropology <http://savageminds.org/2010/02/11/from-anthropology-to-social-entrepreneurship/>`__
+post.
+
+-  All the television I **don't** watch.
+
+-  `The nginx HTTP Proxy
+module <http://wiki.nginx.org/NginxHttpProxyModule>`__.
+
+-  `Seeing the Forest for the
+Brand <http://redmonk.com/sogrady/2010/02/10/analyst-branding/>`__
+
+The internet is a big place, you don't need me to tell you this, but I
+think that it's really incomprehensibly big. Even the small corners of
+the internet that we (well, I at least,) inhabit contain vast amounts of
+information and it's very difficult to keep your head above water, to
+feel like you're in touch with what's happening. Strategies for managing
+this information successfully are as concerned with "figuring out what
+to ignore," as they are about figuring out how to absorb information
+successfully.
+
+Scaling an idea or a concept (like a blog, or a piece of software or a
+web server) to be able to address problem sets (like an audience, or a
+given set of data, or both) of different sizes is just as difficult.
+It's tough to get a web server to be able to host really large loads,
+its difficult to be able to write a blog that appeals to a huge
+audience: the this nexuses of related problems are quite large.
+
+I think, however, we can begin to draw some conclusions. I do hope that
+you'll be able to help me add to this list. Perhaps in a
+`wikish </wikish/>`__ page.
+
+1. **Be the biggest fish in the smallest possible pond.**
+
+The core strategy here is to avoid having to figure out how to scale up
+to "full speed," by reframing the problem set. You don't have to become
+the most popular or widely consumed blogger/novelist: you just have to
+become the most popular blogger about cyborg philosophy, or the
+political economics and philosophy of the open source world. You have to
+become the most popular post-colonial historiography space opera
+novelist.
+
+2. **Don't participate in the proliferation of crap: only build/use what
+you need to.**
+
+I see lots of people say something along the lines of "I want to make a
+websites for all of the people interested in what I'm interested in, and
+we'll need a wiki and some discussion forums, and some sort of blogs,
+maybe a lot of blogs, and..." This inevitably leads to a bunch of
+organization and building of things for their websites, and then
+everything is built and... no one is interested in using the crap.
+
+This is a classic premature optimization problem. Don't build things
+that you think you might need later. Build things that you need now. Or
+things that you really needed last week. Focus on the thing you do, and
+build the infrastructure as you need it, when you need it.
+
+3. **Work in a scalable and sustainable manner, and assume that other
+people will need to pick up on your projects.**
+
+While you shouldn't expend the effort to scale before you need to,
+because that could end in failure, it's common sense to approach your
+projects with the assumption that other people might have to finish them
+for you, if things take off and you need to delegate later you'll be
+ready for them. Consider the possibility that you might need to scale a
+project when you're in the initial planning stages and avoid getting
+backed into a corner by a decision.
+
+4. **Ignore everything you can possibly stand to.**
+
+There are so many things that you could be doing with your time. There
+are so many distractions. Email lists, RSS feeds, the work of other
+people in your field. Charity projects of one sort or another. All of
+these things are important and you should participate fully in the
+communities that surround your work, but be fully aware that humans as
+individuals don't scale well, and succeeding at [your project] is
+dependent upon your ability to ignore everything that you can stand to.
+
+5. **Consume information on your terms, in the formats that make the
+most sense to you.**
+
+As a corollary to the above, the way to successfully engage and manage
+everything that you can't possibly stand to ignore is to as much as
+possible engage on your terms. Figure out what your terms are first, and
+then work to consume content in these terms.
+
+6. **Use technology and media to build relationships rather than
+accumulate information.**
+
+Too often, I think, the geekier among us (and I count myself among this
+number) are interested in technology because it's *cool*, and we're
+tempted to solve technological problems and learn about the inner
+workings of stuff because they interest us. And that's okay, as a hobby:
+in the pursuit of doing work, technology is only useful insofar as it
+allows you to get things done. And in most cases, the core function that
+technology provides is to enable relationships. So focus on that, and
+fiddle with the technical underpinnings, only when you must.
+
+Onward and Upward!
+

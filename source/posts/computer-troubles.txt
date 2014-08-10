@@ -1,0 +1,66 @@
+====================
+Computer Troubles(?)
+====================
+
+.. post:: 2007-11-19
+   :author: tychoish
+
+One of the side benefits of finishing the novella edit effort this
+weekend was that it meant that I could now restart my computer without
+fear. (There was a file open that I didn't want to loose my place in, a
+minor thing, but none the less).
+
+Now to the windows users out there, this might seem a bit odd, by I
+probably hadn't rebooted Zoe--that's the computer for those of you
+playing along at home--in at least a month, and maybe more like two or
+three. And I'm not even using the newest and bestest version of the
+operating system! But anyway...
+
+I can tell that a new computer isn't, in the grand scheme of things,
+that far off. Zoe is great, except that there's a bunch of stuff that I
+don't do because Zoe doesn't have the power to handle. Like pod-casting
+and any sort of video editing; and frankly image editing is something
+that I'm trying to do as little of as possible, because it's a bit of a
+strain. Although I have
+`R.app <http://cran.r-project.org/bin/macosx/>`__, the open source
+SAS/statstics package, and even an old version of SPSS, I really can't
+fathom a situation where I would want to run such a program for more
+than a moment or two. And though I would open Excel if I needed it, I'm
+trying not to need it.
+
+Anyway, so a new computer is something that I'm thinking about. Because
+of my leading comment, we can imagine that I'm probably not likely to
+stop using a mac, and frankly I really love these laptops. But after 2
+and a half years with a 15 inch pro-level computer, I'm not seeing the
+great benefit to going with the bigger machine this time around. As near
+as I can tell the Pro-line has: nicer screens (not just bigger ones, but
+nicer ones), a card slot which I've never used on my present computer
+(though, with EV-DO becoming cheaper/more available, it's something to
+consider), a slightly faster processor (but not considerably), firewrire
+800 (something I do actually use), better graphics (but again, sometimes
+I watch DVDs and youtube, I don't need power graphics). In contrast the
+consumer line has: a better (but less familiar) keyboard, a cooler
+closure, it's smaller and lighter, it's a thousand dollars cheeper. The
+only thing I'd miss is the firewire 800, which isn't really so big of a
+loss.
+
+This leads me to the other computer related thought that I've had
+recently: There are a bunch of tasks that I do with my computer which,
+are by normal standards, insane. I run a bit torrent client, my
+subversion repository is locally hosted (I have a backup repo, never
+fear), I organize and manage a small herd of hard drives, also doing
+production work (image/video/sound), even web design work on a laptop,
+is kind of crazy. Buying a Mac desktop is really out of the question,
+but I've figured that a Ubuntu/Linux could probably do a pretty good job
+with this. I priced one of the Dell Ubuntu boxes for about 500, which
+seems really quite good by my standards. Not counting a monitor, but
+this is the kind of box that probably wouldn't get a lot of direct use:
+I'd probably just ssh/telnet in and mount the drives over the network.
+If it were stuck doing all the things that the laptop couldn't/shouldn't
+deal with, I think I'd be a happier camper. And, you're (I'm) still
+under the price of the pro-level desktop.
+
+Anyway, that's enough for me.
+
+Onward and Upword!
+

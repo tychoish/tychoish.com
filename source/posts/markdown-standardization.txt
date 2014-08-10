@@ -1,0 +1,147 @@
+========================
+Markdown Standardization
+========================
+
+.. post:: 2013-01-20
+   :author: tychoish
+
+I (mostly) lurk on the `markdown discussion
+list <http://six.pairlist.net/mailman/listinfo/markdown-discuss>`__,
+which is a great collection of people who implement and develop projects
+that use `markdown <http://daringfireball.net/projects/markdown/>`__.
+And there's been a recent spate of conversation about standardization of
+markdown implementations and syntax. This post is both a reflection on
+this topic *and* a brief overview of the oft-forgotten history.
+
+A History of Markdown Standardization
+-------------------------------------
+
+Markdown is a simple project that takes the convention that most people
+have been using to convey text formatting and style in plain text email,
+and providing a very minimalist and lightweight script that translates
+this "markup" (i.e. "markdown") into HTML. It's a great idea, and having
+systems that make it possible for people to focus on writing rather than
+formating is a great thing.
+
+**People should never write XML, HTML, or XHTML by hand. *Ever*.**
+
+Here's the problem: the initial implementation is a Perl script that
+uses a bunch of pattern matching regular expressions (as you'd expect)
+to parse the input. It's slow, imprecise, there are a few minor logical
+bugs, there's no formal specification, and the description of the
+markdown language are ambiguous on a few key questions. Furthermore,
+there are a number of features that are simple, frequently
+requested/desired, with no official description of the behavior.
+
+As people have gone about developing markdown implementations and
+extensions in other languages, to fix up the inconsistencies, to provide
+markdown support in every programming language under the sun, without a
+formal specification and disambiguation of the open question, the result
+is fragmentation: all the implementations are subtly different. Often
+you'll never notice, but if you use footnotes (which are non-standard,)
+or want to have nested lists, you will end up writing
+implementation-dependent markdown.
+
+The result is that either you tie your text to a specific
+implementation, or you go blithely on with the knowledge that the
+markdown that you write or store *today* will require intervention of
+some sort in the future. If you need to extend markdown syntax, you
+can't without becoming an implementer of markdown itself.
+
+That's an awful thing. And there's no real path out of this: the
+originator of markdown has publicly stated that he has no interest in
+blessing a successor, continuing development of the reference
+implementation, or in contributing to a specification process. Insofar
+as he controls the authoritative definition of markdown, the project to
+standardize markdown is dead before it even begins.
+
+The problem is that while most people involved (implementers,
+application developers, etc.) in markdown want some resolution to this
+problem: it's bad for users and it makes implementing markdown difficult
+(which markdown flavor should you use? should you reimplemented bugs for
+consistency and compatibility, or provide a correct system that breaks
+compatibility?) At the same time, markdown implementations are not
+commercial products and were built to address their author's needs, and
+none of those maintainers really have the time or a non-goodwill
+interest in a standardization process.
+
+If markdown standardization weren't doomed from the start, the fact that
+the only people with any real ability to rally community support for a
+standardized markdown, are not inclined to participate in a
+standardization process.
+
+Markdown Isn't For Text That Matters
+------------------------------------
+
+If markdown were better, more clear, and more rigorously defined and
+implemented, this wouldn't be a problem, but the truth is that
+markdown's main role has been for README files, blog posts, wikis, and
+comments on blog posts and in discussion forms.
+
+It's a great "lowest common denominator" for multi-authored text that
+needs rich hypertext features but needs markdowns simplicity and
+intuitiveness. Big projects? Multi-file projects? Outputs beyond single
+files?
+
+Sure you can hack it with things like
+`maruku <http://maruku.rubyforge.org/>`__ and
+`multi-markdown <http://fletcherpenney.net/multimarkdown/>`__ to get
+LaTeX output, and footnotes, and more complex metadata. And there are
+some systems that make it possible to handle projects beyond the scope
+of a single file, but they're not amazing, or particularly innovative,
+particularly at scale.
+
+To recap, markdown is probably not an ideal archival format for
+important text, because:
+
+-  The implementation-dependency means that markdown often fails at
+genericism, which I think is supposed to be it's primary features.
+
+Generic text representation formats are a must.
+
+-  If you need output formats beyond HTML/XHTML then markdown is
+probably not for you.
+
+You can get other formats, but it's even *more* implementation specific.
+
+The Alternatives
+----------------
+
+Don't standardize anything. While markdown isn't perfect the way it is
+now, there's no real change possible that wouldn't make markdown worse.
+There are two paths forward, as I see it:
+
+1. Give up and use reStructuredText for all new projects.
+
+RST is fussy, but has definite and clear solutions to the issues that
+plague markdown.
+
+-  It has support for every major output format, and it wouldn't be too
+hard to expand on that.
+
+-  It's fast.
+
+-  In addition to the primary implementation, Pandoc supports python and
+there are early stage Java/PHP implementations. Most tools just wrap
+the Python implementation, which isn't really a problem.
+
+-  There are clear paths for extending rst as needed for new projects.
+
+2. Design and implement a new markdown -like implementation. I think
+reMarkdown would be a good name. This will be a lot of work, and have
+the following components:
+
+-  a complete test suite that other implementations could use to confirm
+compatibility with reMarkdown.
+
+-  a formal specification.
+
+-  a lexer/parser design and reference implementation. With an abstract
+XML-like output format. We want a realistic model implementation that
+isn't overly dependent upon a single output format.
+
+-  an explicit and defined process for changing and improving the
+syntax.
+
+
+

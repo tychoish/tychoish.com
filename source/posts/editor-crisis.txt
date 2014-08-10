@@ -1,0 +1,87 @@
+=============
+Editor Crisis
+=============
+
+.. post:: 2008-10-31
+   :author: tychoish
+
+When I got the Linux rig, I was pretty sure that I was going to live in
+`vim <http://www.vim.org/>`__--probably mostly the console
+version--while I work on weaning myself off of my
+`TextMate <http://www.macromates.com/>`__ dependency. It's not that I
+don't love TextMate, or that I can't afford it, but I think Linux/open
+source is where I'm headed, and in the short term I think I'd like one
+editor for both platforms, and that means open source. The problem? Vim
+is great, but I find it sort of tedious for day to day editing...
+
+This is probably the result of the fact that most of my personal text
+processing (like 80%) is prose of one form or another, with the
+remainder being very limited code-related things. Vim is great if most
+of what you're doing is jumping around in a file, re-factoring code, and
+hunting for little bugs to tweak. It's not so good if you're writing a
+novel or a story and you only put carriage returns after each paragraph.
+I like vim a lot for short editing tasks, for writing email, for proof
+reading a document. For heavy duty lifting? I'm not yet decided.
+
+I should introduce another character/factor into this story: my editing
+habit. Basically rather than grouping similar files into one
+window/buffer and toggling between various files, I really like having a
+bunch of different windows open. A bunch might understate it. At this
+moment I have 4/5 TextMate windows open, and I should probably have at
+least 7 (if I were more on top of my tasks) and more like 10-15 wouldn't
+be out of the norm.
+
+Console vim works *great* with this usage paradigm, open a bunch of
+terminal windows, open them to the documents that they need to edit, and
+tag the terminals properly in
+`Awesome <http://awesome.naquadah.org/>`__, and I'm good go, except we
+run into problem 1 (editing prose in vim is bothersome). I've tried (and
+quite like) a GUI vim called
+"`Cream <http://cream.sourceforge.net/>`__\ " that totally fixes problem
+1, but utterly fails at problem 2 (the usage paradigm).
+
+So this leaves me? Using a hodge podge of solutions. I've taken to using
+gedit--of all things--for most prose writing. Gedit is the Gnome editor,
+and if you customize it right, it's reasonably functional. I haven't
+been able to hack Markdown support into it (and I haven't bothered with
+vim, so I must not be to keen upon it), and it won't post blog entries
+like TextMate, but it's decent, and I can have a number of different
+container windows, so I don't end up with a window with 20 different
+tabs open that I can't find anything in, and I use vim for anything that
+it seems like I can get away with.
+
+`Jack <http://www.metajack.im/>`__ has been pestering me to convert to
+emacs for a while now, and after all this fuss, it's tempting. Emacs can
+handle blog posting, it's fundamentally a bit more like TextMate, [1]_
+with "longlines-mode" it seems to handle prose pretty well, and the
+quirky things that I like about TextMate like its `Screenwriting
+Bundle <http://code.google.com/p/screenbundle/>`__ and LaTeX support
+seem to be handled a bit better in emacs. The multi-window usage
+paradigm is counter to the general emacs way of thinking, so that might
+be an issue. But the largest problem by far, is that to a newbie [2]_
+like me it's like an alien world. Surprisingly enough, (e)lisp code is
+pretty easy to read, and the key commands are pretty easy to deal
+with. [3]_ So who know, I might make the switch yet.
+
+Stranger things have happened.
+
+.. [1]
+It's like we're not so much reliving the editor wars, as seeing
+resonances/shockwaves from them. For instance the key bindings have a
+lot of emacs in them, while Google Reader definitely seems like it
+was made by vim users. I think we should start a game of trying to
+figure out which apps and environments were inspired by which editor.
+
+.. [2]
+I somehow manage to be both a huge advanced geek, (I live in
+terminals, I bought a linux desktop to run a tiling window manager, I
+almost live in text editors, etc.) And also I'm not a programer, and
+I don't have any background in that sort of thing, so the most
+rudimentary of coding things can confuse me terribly. It's a weird
+boundary to walk, and I should probably expand on it later.
+
+.. [3]
+I've had my caps-lock key mapped to "control" for years now. I think
+I should probably--for maximum emacs foo--remap my right shift key to
+alt, but I'm withholding judgement for the moment.
+

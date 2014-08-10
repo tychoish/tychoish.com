@@ -1,0 +1,9 @@
+=======================
+more stuff on my lolcat
+=======================
+
+.. post:: 2007-06-27
+   :author: tychoish
+
+because, once wasn't enough, here's another stuff on my lol cat...
+

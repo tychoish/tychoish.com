@@ -1,0 +1,42 @@
+==============
+Flaws with SSH
+==============
+
+.. post:: 2011-04-25
+   :author: tychoish
+   :tags: security, 
+
+In response to [[9 Awesome SSH Tricks\|9-awesome-ssh-tricks]] some
+posted the following quote (on the old commenting system):
+
+The workarounds have become smoother and some of the things we can
+do with networks of Unix machines are pretty impressive, but when
+ssh is the foundation of your security architecture, you know things
+aren't working as they should.
+
+-- `Rob Pike,
+2004 <http://interviews.slashdot.org/story/04/10/18/1153211/Rob-Pike-Responds>`__
+
+So let's clarify things a bit. SSH is *great* as an end user protocol,
+and great for dealing with the realities of our distributed computing
+environment in an exigent manner, SSH lets us:
+
+-  connect securely to remote systems.
+
+-  quickly establish tunnels through remote machines.
+
+-  admister remote systems securely.
+
+-  provide end-users with key-based authentication.
+
+SSH is *great* for providing end users with a secure way of interacting
+with computer systems in networked environment. It's not, however, the
+magic bullet for security policy. If you or your organizations security
+practices revolve entirely around SSH tunnels, then you're probably in
+trouble or about to be in trouble. Use traditional VPNs and TLS/SSL when
+it makes sense and develop a sane security policy.
+
+But don't forget SSH and if you do use SSH, know that there are some
+really [[awesome\|essay/9-awesome-ssh-tricks]] things that OpenSSH makes
+possible.
+

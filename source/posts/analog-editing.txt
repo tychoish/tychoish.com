@@ -1,0 +1,133 @@
+==============
+Analog Editing
+==============
+
+.. post:: 2012-07-04
+   :author: tychoish
+   :tags: writing, productivity
+
+After doing the first pass of editing on my technical book, "`Systems
+Administration for
+Cyborgs <https://github.com/cyborginstitute/administration>`__\ " on a
+screen and feeling utterly buried by it, (See: [[the-editing-hole]],)
+and I'm considering different approaches for the next book.
+Specifically, for this novel I have, I'm thinking about getting the
+novel printed *somehow* and then editing it "analog style."
+
+I'd love to hear feedback from anyone who has done this, particularly
+recently. Particularly from people who are very digitally savy. Here's
+my pro/con list:
+
+Pros:
+-----
+
+-  It might be nice to have a different "editing context," to help me
+keep focus on the project without the distractions of the internet
+and current writing projects.
+
+-  Having marked-up pages gives me an actual marker of progress, rather
+than a list of commits or diffs.
+
+-  It might be nice to get some practice writing longhand again. It's
+embarrassing when someone hands me a pen and I've basically forgotten
+how to use it.
+
+-  It gives me a start to a collection of paper ephemera that I can
+burden some archivist with at some point.
+
+Cons:
+-----
+
+-  Context switching, from a computer, to paper, to a tablet, or
+whatever is annoying and eats time/focus.
+
+-  Paper would force a more linear editing process, which may get me to
+focus on the story and characters more closely at the possible
+expense of seeing "broken sentences," and other things that may be
+distracting to the next readers/editors/etc.
+
+-  If I edit on paper, I have to go through and apply those changes to
+the actual text. Which adds a step, and probably a number of
+additional weeks to the editing process.
+
+-  I'm awful writing things out long hand and I pretty much haven't
+written anything long hand in 4 or 5 years.
+
+Reflections
+-----------
+
+There's also another little thorny problem: I'm not sure what the future
+of this book is: The prologue stands alone, and I want to try shopping
+it around. If I can get that published as a short that might be the hook
+to getting the rest of the book published.
+
+Initially my plan was to have a friend read it as a podcast, and attempt
+to publish the prologue as a short, and then try and for-real publish
+the next book. The podcasting idea, while nice, wouldn't work out as
+originally planned (long story.) Besides, it really depended on having
+someone else to the reading (I have neither the time, technical skills,
+nor the real ability to do the reading.) Which leaves me without a plan,
+and the following thoughts about the publication of this text:
+
+-  I feel like my writing career [1]_ is in good (enough) shape that my
+identity as a writer depends on publishing this novel in a particular
+way.
+
+-  On the other hand, getting the novel (or parts of it published) would
+be a great thing, and validates all this time/energy/interest that I
+have in writing science fiction.
+
+-  I'm not opposed to self publishing, except that it means more work
+for me for what is probably less impact (i.e. readers.)
+
+-  It took me embarrassingly long to write this novel. And knowing how
+much better my writing has gotten in the last three or four years,
+means that I'm pretty worried that this is really a cold pile of
+shit. I recognize that this is probably *more* reason to get the
+novel out to first readers, but I also feel like I should do them the
+favor of at least a little editing.
+
+Printing in the Digital Age
+---------------------------
+
+As an aside, this has given me some time to do research on getting
+things printed, which I'd like to record here and share with you:
+
+(*Given a 325-350 page manuscript*)
+
+-  I don't own a printer, and have no particular interest in owning one,
+but a good color laser (in the 300-400 USD) or a good black and white
+(200-300 USD) becomes much more economical if analog editing becomes
+*a thing*.
+
+The downside of printing things yourself is that you still need some way
+to bind things. And there are maintenance and supply costs not factored
+into the above.
+
+-  The price to get printing/binding done at Staples is in the 35-40
+range. Chances are that these copies are likely to be the highest
+quality, quickest turn around, and the web interface--though
+annoying--is probably the most straight forward.
+
+-  You can use `Lulu.com <http://lulu.com>`__ to order prints. The same
+book costs 15 bucks. It's also spiral bound (which seems preferable
+to perfect binding for writing.) I'm not sure what "lulu standard"
+paper is like quality wise, but I suspect it will be ok. If you're ok
+with a fussy online interface, a weird approach to covers (no really,
+I'd just like transparent covers,) and turn around time, the price
+seems unbeatable.
+
+Also, Lulu's cover making interface makes it really hard to get a plain
+cover that doesn't look like a joke.
+
+I did some hunting around for local copy shops (I swear it seems like I
+pass several on my walk to work,) but had difficult finding a shop who
+would be able to do a very small order, and has the digital setup to
+accept a PDF for printing via email or a web site.
+
+.. [1]
+I have a full time job writing and editing. While its not the same as
+writing fiction, it *is* rewarding and economically viable, and I'm
+working on the kinds of projects that I want to work on. Can't argue
+with that.
+

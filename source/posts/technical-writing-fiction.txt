@@ -1,0 +1,43 @@
+=========================
+Technical Writing Fiction
+=========================
+
+.. post:: 2011-12-21
+   :author: tychoish
+   :tags: technical-writing, science-fiction
+
+On `Outer Alliance Podcast
+#8 <http://blog.outeralliance.org/archives/853>`__, `David
+Levine <http://www.bentopress.com/sf/index.html>`__ talked about having
+worked as a technical writer for some 15 years and then said something
+to the effect of "It's a point of great personal pride that I've never
+put a bulleted list in a piece of fiction."
+
+I laughed out loud. Perhaps frightening a woman walking her dog nearby.
+
+In most ways, the kind of writing that I do for work, API references,
+tutorials, administration overviews, best-practice descriptions, is very
+different from the kinds of things I write away from work, or at least I
+like to think so.
+
+The truth is that I've learned a bunch about writing and about
+communicating in general from writing documentation. While my
+"professional background," doesn't include formal technological
+training, I definitely "broke in" because I was familiar with technology
+and could write, rather than being a particularly skilled or trained
+writer. Any more (just 2.5 years on,) I think the inverse is *more
+true*, but that's conjecture.
+
+Technical writing has definitely shaped the evolution of my taste: a
+couple years ago, I found myself most drawn to complex tightly
+constructed prose in fiction. These days I mostly go for sparse clear
+concise prose that isn't particularly ornamented. Perhaps it's only
+really possible to tune the internal editor for one kind of style at a
+time.
+
+Having said that, I will confess to feeling--and resisting--the urge to
+put a bulleted list or some other structured convention of software
+manuals in fiction.
+
+It's the little things, really.
+

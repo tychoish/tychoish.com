@@ -1,0 +1,37 @@
+=================================
+These Shoes Were Made for Cyborgs
+=================================
+
+.. post:: 2011-06-06
+   :author: tychoish
+   :tags: cyborg
+
+"Do eye glasses make us all cyborgs?" Someone asked me a few days ago.
+
+I was annoyed more than anything.
+
+Of course they do. Corrective lenses are a non-biological technology
+that shape our experience of the world and of our bodies. By this logic,
+pretty much every tool developed as a product of "technology" (applied
+science; otherwise known as tinkering with stuff,) renders us cyborgs.
+
+I like the notion that cyborgism is the rule and not the exception in
+the course of human history, but it makes the conversation about the
+cyborg moment more banal. A more banal cyborg moment makes it harder to
+think about the parts that I think are most interesting: the internet,
+distributed collaboration, free software and open source, and the impact
+of technology on literature and reading/writing.
+
+As a retort, I said something like, "Perhaps, but if you accept that eye
+glasses create cyborg beings, then you'd have to accept that shoes also
+create cyborgs. And the effects of shoes are much more interesting."
+
+Shoes affect how far people can walk, the speed of independent
+locomotion, they prevent all sorts of awful injuries, and probably
+lengthen the lifespan as a result. Shoes probably also change our feet
+and make us dependent upon wearing shoes, and more prone to certain
+kinds of injuries when barefoot. Fascinating stuff.
+
+All other things being equal, I'm going to stick to internet and the
+cyborgs resulting from the encounter of humans and *that* technology.
+

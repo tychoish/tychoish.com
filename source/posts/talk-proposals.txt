@@ -1,0 +1,65 @@
+==============
+Talk Proposals
+==============
+
+.. post:: 2011-04-06
+   :author: tychoish
+   :tags: conferences, open-source
+
+At `POSSCON <http://posscon.org/>`__ there were a lot of talks, most of
+which did little to interest me. I don't think this was the fault of the
+conference: I'm a weirdo. I tend to be developer-grade geeky, but am
+still not a developer and I wasn't otherwise representative of the
+general audience. By the end, I was starting to think that the thing
+*most* people talk about at conferences isn't very cutting edge. I don't
+think it's just POSSCON (surely not!) but I've not been to enough
+conferences to be able to speak definitively. In any case, I'd like to
+propose in open forum (i.e. this wiki,) a number of conference
+presentations that I'd like to see or would be willing to present.
+
+If you're interested in any of these presentation, or want to
+help/inspire me to work up notes, please create or add to the wiki pages
+linked to below.
+
+Emacs Productivity and Production, Org-Mode and Beyond
+------------------------------------------------------
+
+Emacs, with its extensive feature list, endless customizations, and
+arcane approach to user interface, is often the butt of many jokes.
+While some of this is certainly valid, there are many incredibly
+innovative and intensely useful pieces of software written for Emacs.
+This talk would center on the org-mode package, but would branch out to
+talk workflows and automation in Emacs and using Emacs to help people
+make awesome work.
+
+[[Emacs Productivity\|rhizome/talk-proposals/emacs-productivity]]
+
+The Year of The Linux Desktop: Amazing Window Manager Paradigms
+---------------------------------------------------------------
+
+I'm always distraught by the way that discussion of "The Linux Desktop"
+revolves around convincing people that the major desktop environments
+(KDE/GNOME) either: are feature comparable to the Windows/OS X desktop
+*or* are able to "out-Windows" and "out-OS X" each other/Windows/OS X.
+Both of these propositions seem somewhat tenuous and unlikely to be
+convincing in the long run, and do little to inspire enthusiasm for the
+platform. This is sad because there is a lot of very interesting
+activity in the Linux desktop space. This talk would present and explore
+a couple of projects in the tiling window manger space and explain why
+this kind of software is what should drive adoption of the Linux
+desktop.
+
+[[Linux Desktop\|rhizome/talk-proposals/linux-desktop]]
+
+Cloud Independence, Infrastructure, and Administration
+------------------------------------------------------
+
+The "cloud computing" paradigm and the shift to thinking about
+technology resources as service based raises some interesting questions
+about software/computing freedom and the shape of data ownership in the
+contemporary moment. This talk would address these questions, provide an
+overview of how to "go it alone," and how to be responsible for managing
+and administering for your own personal "cloud infrastructure."
+
+[[Cloud Independence\|rhizome/talk-proposals/cloud-independence]]
+

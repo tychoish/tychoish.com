@@ -1,0 +1,24 @@
+==============
+dear microsoft
+==============
+
+.. post:: 2007-08-26
+   :author: tychoish
+
+dear Microsoft Mac office design team,
+
+On the whole I am successful in my project to avoid using your products,
+because they are, as tools, not particularly suited to the kinds of ways
+that I use my computer. Nevertheless, particularly with regards to
+programs like Excel, this is unavoidable. Good job there guys.
+
+Nevertheless, I would like to say that it would be really nice if you
+could stop having your program dump temporary files in my documents
+folder. I understand your intentions here, but really think that the
+"Application Support" folder remains the customary place for such files,
+and I'm getting tired of deleting this folder.
+
+thank you for understanding.
+
+warmest regards, tycho
+

@@ -1,0 +1,126 @@
+===================
+On Wanting a Kindle
+===================
+
+.. post:: 2009-11-11
+   :author: tychoish
+   :tags: cyborg
+
+I have a confession to make. *I really want a Kindle*. Bad.
+
+No really. I do. The DRM scares me, and I think the books are just the
+other side of "too expensive," and because I come from a long line of
+"book collecting people" I think there are a lot of books that I would
+want to own in the paper. Furthermore, I have a great laptop for reading
+books (a small tablet), and I have a *very long* history of using small
+form computing devices (think palm pilots and pocket pcs) to read books.
+And yet, I returned to paper a few years ago, and don't feel really bad
+about that.
+
+I'm not going to get a Kindle, at least not yet. I want to see what the
+Barnes and Nobel "Nook" looks like. I need to upgrade the laptop more,
+and I think something like the Nokia n900 might end up being a better
+device in this space and even if it isn't, I think we're going to see a
+lot of development in the "tablet" space in the next year, and it seems
+premature to buy now. For me.
+
+Given all these caveats, I think its interesting to think about why I
+want the Kindle so bad. Here are some questions and answers:
+
+**So given all these caveats, why do you want a Kindle so bad?**
+
+I've held one on a number of occasions, and I've always been struck with
+how *nice* they feel. They're solid and they're thin. The text is clear
+and readable, the page advance buttons fall wonderfully under your
+thumbs. The experience, at least on these second generation devices, is
+really quite good.
+
+I've rather famously, taken an entire bag of books along with me for a
+long weekend trip. A weekend where, I ended up reading about two and a
+half pages. So, the fact that you can take a whole pile of books *or*
+more properly the potential for getting the one right book you want, is
+appealing in a practical way.
+
+**Is this just about the hardware, or is there more?**
+
+I think the Kindle is the ideal distribution mechanism for periodical
+literature. The *codex* is likely to be of enduring importance for quite
+while, but I'm almost certain that the magazine and newspaper *isn't*.
+While blogs are great, don't get me wrong, I think there's a need for
+publications that are in-between the "book" and the "blog," and I think
+the Kindle is a great space for those kinds of texts. Practically, I'd
+like to read more content of that sort, and if I had a kindle, I suspect
+that I'd get a lot of use out of it.
+
+The instant distribution model is a huge plus, and I really like to
+read. `Cory Doctorow <http://www.craphound.com/>`__ says something to
+the effect of "Ebook readers will fail, because a 'good' ebook reader
+would need to remove distractions and malfunction possibilities as
+effectively as paper, and devices that 'only' read books, won't sell
+very well next to devices which also check your email and play games."
+And I think that's probably a true observation, but it looks like the
+Kindle does single-function pretty well. I think the next year, or so,
+will be really interesting as we see more tablets in the market.
+
+**You're obviously not going to get one today, so what would make you
+change your mind?**
+
+The DRM and the price of the books. The DRM really needs no additional
+condemnation. I think 10 dollars is a bit steep for books, particularly
+because it's so flat rate, and while it's cheaper than the hardcover
+(and that's good,) it's also more than a paperback in most cases. And at
+least in a paperback you have something on your shelf. And the DRM
+really adds insult to injury. If they distributed the files in plain
+text/html and some weirdass XML format that would be one thing, but they
+give you a blob that is certain to be next to useless in a year or two.
+If books were 3 bucks, or 5 bucks, or even 6 or 7 bucks--even if the
+device was 300--or there was some sort of subscription service, I
+wouldn't mind the DRM, but as it is... the DRM makes the economics
+difficult for me to compute.
+
+**If the DRM is such an issue why have you gotten this far?**
+
+A lot of times in the paper-book world you buy a book. Read a hundred
+pages (or maybe twenty?), and then are so disgusted by the book that you
+can't bare to read any more, and you set it aside. And often times a
+trip to the bookstore (particularly in advance of a trip) means buying a
+number of books, when only some of these books will be of worth (to you)
+to justify their expense.
+
+These situations are *less* likely to happen with a Kindle. There are
+significant samples, and you carry the bookstore around with you. I
+suspect the chances are that you only really need to "buy" the books
+that you read, which might end up being significantly cheaper in the
+long run.
+
+The Kindle is a physical manifestation of a shift away from the
+physicality of information, but it's only really a symptom and not a
+leading cause this shift, right? If you accept this, if you accept that
+most information and knowledge only exists as bits and photons, then all
+of the rituals that we build around books (collections, libraries,
+shelves) are less important.
+
+**What about the *Nook*?**
+
+The nook is a more impressive platform. For sure, it fails the *Doctorow
+test* of (potentially) being too interesting for tasks that aren't
+*reading books*.
+
+I think I probably have some more writing to do on this subject, but, in
+general I think Amazon is a better and smarter company than Barnes and
+Nobel, and if the name of the game in ebook readers is "vendor lock-in"
+then I trust Amazon a bit more. In a lot of ways, I hold B&N responsible
+for the ongoing/impending collapse of the publishing industry. [1]_
+
+In any case, mostly, at the moment I just want to wait and see before I
+make any sort of decision on the subject.
+
+Thoughts?
+
+.. [1]
+The consolidation that B&N and Borders organized for the sale of
+books collapsed a lot of the niche markets that were maintained by
+niche booksellers, and the much lamented disappearance of the midlist
+and backlist. The current "blockbuster supported" book industry isn't
+sustainable beyond the next 5 to 10 years or so.
+

@@ -1,0 +1,77 @@
+====================
+Open Source Userland
+====================
+
+.. post:: 2009-02-04
+   :author: tychoish
+   :tags: open-source, free-software, cyborg
+
+Free software and open source users/developers are a sort of evangelical
+bunch. I think a lot of this is because hackers what other people to use
+the software that they spend their time working on, and of course some
+of this is because of the `ethical systems that pervade the free
+software
+movement <http://tychoish.com/rhizome/ethics-of-free-software/>`__. And
+of course we want to both expand the user base of certain pieces of
+software within the open source world (eg. getting vim users to use
+emacs) as well as getting people using proprietary systems (like
+Windows/OS X/Microsoft Office) to use free/open systems (like
+Linux/BSD/emacs).
+
+The biggest challenge in the second project is
+`usability <http://tychoish.com/rhizome/where-innovation-happens/>`__,
+and I think both prospective users and developers (and people like me)
+often wonder "Is open source usable for non-technical users?" This is a
+question that I don't have an answer for. On the one hand, yes,
+GNOME--for instance--is really usable. I don't think it's particularly
+innovative software, nor is it clever in the way that OS X sometimes is,
+but it is on the whole very functional.
+
+Very often open source, in its entirety, is judged on the basis of its
+usability, which strikes me as pretty ironic, as I'd wager most open
+source projects--and without a doubt the most influential ones--are not
+"user applications." In terms of importance, the kernels, the programing
+languages, the libraries, the servers, and the frameworks are way more
+successful, powerful, and robust than programs like "Open Office," or
+"GNOME," or even--frankly--"Firefox."
+
+I suspect this is the case because lower level stuff is either to get
+right, and because hackers end up working with computers on a very low
+level, so it makes sense that the itches they're scratching with open
+source would work on a lower level. And the "cause of free software," is
+more directly served by these lower level projects: open source depends
+on users recognizing the value of hacking on code, which is more likely
+to be realized in low level projects.
+
+Which makes the project of evangelizing non-technical users more
+difficult, because the argument isn't exactly "switch programs to
+(potentially) better ones," but rather "become more involved the
+technology you use," which is a much different argument. And I think the
+"usability" question often serves as point of mystification in this much
+different argument.
+
+--------------
+
+My original intent with this post to explore how some of the biggest
+open source user-applications were in fact sponsored by really big
+companies (in whole or in part). Novell puts some considerable resources
+into GNOME and KDE; Sun obviously backs Open Office; Firefox and Mozilla
+grew out of Netscape/AOL and get a lot of money from Google.
+
+More than anything, I wonder what to make of this. Certainly there is
+also backing for lower level projects: Sun and Java/mySQL; countless
+companies and kernel development; 37 Signals and Ruby-on-Rails; and so
+forth, but it feels more substantial for user applications, somehow.
+
+I wouldn't go so far as to suggest that corporations are attempting to
+re-mystify technology in open source. I think it's much more likely that
+business know that having viable desktop environments will be
+advantageous to them in the long run, and that since hackers are less
+likely (on the whole) to work in the user-application space key
+contributions of corporate-backed developers are more noticeable.
+
+But maybe there's something else there too. I'm not sure, isn't the
+world grand?
+
+Onward and Upward!
+

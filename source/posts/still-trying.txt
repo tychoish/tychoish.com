@@ -1,0 +1,23 @@
+============
+still trying
+============
+
+.. post:: 2007-07-29
+   :author: tychoish
+
+I futzed around with `this
+idea <http://tychoish.com/rhizome/someone-make-this-work/>`__ for a bit
+using php bloxsom, and well, I got it to handle markdown the way I want
+it to, and the page header stuff. but other than that. not so much.
+sigh. well what's time anyway.
+
+I think the problem with this is that bloxsom is too blog-oriented, and
+for that, wordpress does a slightly better job, or at least, I'm more
+comfortable with it, even if I don't need very many of the features.
+
+Though I have to say, for the notebook idea, which is what tychoish is
+supposed to be, I think bloxosm is better, I just don't feel like
+fucking around with it.
+
+anyone with better ideas?
+

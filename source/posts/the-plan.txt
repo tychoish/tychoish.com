@@ -1,0 +1,88 @@
+========
+The Plan
+========
+
+.. post:: 2008-07-23
+   :author: tychoish
+
+Hey friends!
+
+So I might have mentioned that I'm going to `knitting
+camp <http://www.schoolhousepress.com/>`__ at the end of the week. A
+long drive on Thursday leaving *far* to early in the morning. Followed
+by four whole days of intensive knitting, and then a drive back. As a
+result the blog schedule will be a bit--disrupted. Last year when I was
+at camp I posted a fair piece, and I suspect that I'll want to
+opportunity to recount camp stories a bit as they happen.
+
+At the same time, I *probably* won't have the time to do my usual
+writing cram over the weekend to make sure that there are fun and
+interesting posts for you during the week. So here's the deal:
+
+-  There'll be new `critical futures <http://criticalfutures.com/>`__
+stories posted every weekday for the next two weeks. *This won't
+change*, fear not. - I'll post new things here, through the weekend.
+- I'll probably take a brief tychoish vacation for a couple of days
+next week, I think there'll be three posts, but I'm not sure when
+they'll hit yet. It's a blog, after all. Don't be worried.
+
+--------------
+
+Because I doubt that administrivia is what you all came here to read, I
+think I'll pass along some links and thoughts and questions that you
+might enjoy.
+
+-  The cats are still nibbling toes. This remains *not cute,* though
+they haven't gotten this memo yet.
+-  Though I'm only really interested in talking about electoral politics
+in the `historical
+sense <http://tychoish.com/rhizome/johnson-or-bush/>`__, or as a
+venue for placing friendly bets, [1]_ but I'm not going to lie `this
+is
+funny <http://seantevis.com/kansas/3000/running-for-office-xkcd-style/>`__.
+"*This is the **internet**!*\ " heh. Actually I'm more worried that
+someone has cracked `Randall's <http://xkcd.com/about/>`__ secret
+sauce
+-  A `git-wiki <http://atonie.org/2008/02/git-wiki>`__ that really
+rocks. It's still early on development, and it's lacking some
+features that would make it useable *for me* at the moment, but I can
+totally see a place for such a thing for some future projects.
+
+-  The ruby guys are totally awesome, and I like a lot of ruby
+projects, and I think that in some ways ruby is going to be the
+"next php," even I have a soft spot in my heart [2]_ for Python,
+but I said to `chris <http://www.cgkreality.com/>`__ the other day
+that "ruby is the visual basic of our generation."
+
+-  I'm thinking of starting to hard wrap columns in my text files,
+because it would make running diffs and file histories easier,
+grepping is easier, it makes the text more spatially consistent, it
+would make using vim easier, and so forth but I seem to *really*
+enjoy changing the window size a lot, and
+`he <http://www.leancrew.com/all-this/2008/01/window-wrapping-in-textmate/>`__
+is probably right, there's *very little* practical value, and hitting
+^Q for a vestige seems ill advised. That doesn't mean I won't try it,
+you read my post about my email after all.
+-  I just finished reading "`Star Surgeon
+podiobooks <http://www.podiobooks.com/title/star-surgeon>`__," a
+delightfully quirky public domain science fiction novel by Alan E.
+Norse, and read by my friend `Scott
+Farquhar <http://www.scottfarquhar.com/>`__ of `Promethesus Radio
+Theatre <http://prometheus.libsyn.com/>`__, which was delightful even
+if it wasn't a fine example of tightly structured prose. Scott's next
+book is `"Black Star Passes" by John W.
+Campbell <http://www.podiobooks.com/title/black-star-passes/>`__,
+which I intend to start while I'm driving to camp.
+
+.. [1]
+I have, for months been trying to figure out what the bet *is* for
+the various party's VP candidate. It's a fun game, because its not an
+ideological discussion, but it's almost always very historically
+grounded. It also calls attention to the deeply farcical nature of
+the entire performance.
+
+.. [2]
+and brain, as well, actually, because damned if I can really make it
+do anything--that's not true, but it feels like it sometimes--but I
+do love the concept of and rationale for python.
+

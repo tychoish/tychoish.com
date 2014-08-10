@@ -1,0 +1,19 @@
+====================
+everyone has a story
+====================
+
+.. post:: 2006-01-04
+   :author: tychoish
+
+I'm not compleatly ready to push this to prime time, but everyone has a
+story is another TealArt sub-website. Again it's the same code as the
+knitting and (re)ping id but this 'site' will cover ideas concerning
+narrative as a tool for exploring 'culture,' cognition, thought,
+community, with a focus on queer and virtual communities. I'm
+comendeering the old "Where We Ought to Be" category, and I intend for
+this to be more of a collection of resources than any serious musing on
+the subject. The wwotb story project isn't something I think I'm in the
+right place to complete, but the underlying interest in narratives,
+community, personal agency, and life history remains, so it seems
+fitting. Stay tuned for more developments!
+

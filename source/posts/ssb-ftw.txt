@@ -1,0 +1,121 @@
+===============================================
+Site Specific Browsers For the Win (eg, SSBFTW)
+===============================================
+
+.. post:: 2008-09-11
+   :author: tychoish
+
+I've written about how much I hate *hate* web-based applications on this
+site so much that I don't even want to begin to hunt through the
+archives to find a representative sample of entries on the topic. But
+let me summarize.
+
+Browsers, on the whole, well, suck. They hog system resources and they
+crash a lot, and they have the most ass-backwards feature model I can
+think of. "My browser lets you install plugins so that you can make it
+do all the things that I didn't code into it." [1]_, also did I mention
+that they crash a lot? [2]_
+
+On a more conceptual level: as a class of applications they are
+inconsistent in their implementation of any number or combination of 3
+major different standards (and minor ones I'm sure, but I'm thinking
+about HTML, CSS, and JavaScript.) They're slow. For most things they
+require a live internet connection (which is one hell of a dependency
+for a program if you ask me,) and oh yeah there's like an anti-HIG, so
+nothing's consistent and there's a huge learning curve where there
+needn't be.
+
+So with that critique under our belts, it should be said that there are
+some things which do work best in browsers or browser-like interfaces.
+Basically programs that rely on the many-interlinked pages mode of the
+web, or programs that need to visualize data as it changes in real time.
+Wikis, are a great example of this and they don't really work inside of
+desktop apps anyway. I mean, I'm not opposed to the internet, or the
+web, but I want my *applications* and my *work* to happen in different
+kinds of software/environments as a general rule. And the truth of the
+matter is that there are times when web-based applications are worth
+using.
+
+Enter site specific browsers (SSB) like
+`Fluid.app <http://fluidapp.com/>`__\  [3]_. Here's the problem: you
+have a few web apps that you use a lot, you want your apps to be
+sandboxed [4]_ but can't/won't use google chrome, and you don't really
+need or want all of the browser-centric interface crap. SSBs basically
+raise a website to the level of an application just like all your other
+applications. And it's sandboxed. Besides finding `alternatives to
+web-based applications <http://tychoish.com/rhizome/git-mail/>`__, this
+is totally the best option around. Fluid has a lot of nifty features
+like control over what kind of URLs it'll open or send to your browser,
+and what it does when you "close" a window, and special/custom key
+commands, and so forth.
+
+What this means in practice: All of the websites that I used to
+habitually keep open in my browser? They have their own "apps," now, and
+I sometimes (shh!) *close my web browser* (which helps the browser run
+better, which is crazy when you think about it.) It also means that I
+can use tabs more efficiently, and reference documents don't get lost.
+It's a great thing. Try it out, it's all free in some sense.
+
+Here's the tycho-style second hack, particularly for laptop users:
+install a web-server and run as much of the the web-based software as
+you can locally. Need access to a personal wiki? Run it locally, and
+then you always have access to it, even when the wireless flakes out. I
+mean clearly if you want to have a "live journal app"/SSB, this won't
+work, but in some cases it strikes me as both possible and highly
+preferable.
+
+That's it, though I can't deside of SSBs are stopgaps until the web 4.0
+or 5.0, where the revolution is about *great* syncing and sturdy clients
+that run on your local machines and on your virtualized cloud computers.
+
+Oh and,
+`DNI <http://en.wikipedia.org/wiki/Brain-computer_interface>`__\ s while
+we're at it. That'd be *awesome,* well the open-source second generation
+DNIs. No one's putting proprietary 1.0 or beta grade hardware in my
+head, *thank*\ you\ *very*\ much.
+
+.. [1]
+Admittedly I'm not opposed to the plugin model, and there are a lot
+of `Firefox <http://www.mozilla.com/firefox/>`__ plugins that I lust
+after, but the truth is that Firefox--because of plugins--runs
+interminably slower than it really should, which brings us back to
+the notion of, if the browser could do it from the beginning without
+the plugins...
+
+.. [2]
+So much that most good browsers now have a "*when* I crash, I'll save
+your state as best I can, so you only have to wait a long time and
+almost be back where you were before I panicked." Remember how many
+years it took them to think of that? Imagine if other programing
+environments or operating systems did that. `Google
+Chrome <http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html>`__
+fixes this by sand-boxing each web page instance, (good going), but
+really now. Geeze. Also a word here about Chrome: I can't wait to be
+able to use it when they release it for OS X (and Linux). The
+sand-boxing is cool, the speedyness, the good UI (Did
+`Alcor <http://twitter.com/alcor>`__ have something to do with
+that?), the fact that it's likely to be *about* as open source as
+Mozilla/WebKit in the end? A win. But anyway, If browsers are what
+amounts to a runtime, or programing environment, then they are in no
+way stable enough. If they're just remote file viewers, it'd be fine,
+but they're not. Not anymore.
+
+.. [3]
+I like this one, it's free as in beer, but not speech, and is mostly
+a wrapper around WebKit/safari, which is... free-ish. Again, not with
+the caring. If you're not a Mac user, check out `Mozillia
+Prisim <http://developer.mozilla.org/En/Prism>`__, which is a firefox
+offshoot/plugin that does a very similar thing.
+
+.. [4]
+Wow, this is going to be the post with all the footnotes. I also
+realized that I've used this term a lot without subtitling it
+properly. Ideally applications don't crash, but if/when they do, you
+don't want them to crash your entire system. And this is true of
+different programs, largely, but if an application is host to another
+group of applications/processes (like multiple windows/tabs, for
+instance,) you don't want what you do in window 2 tab 14 to affect
+(ie. end) what's happening in window 3 tab 6, or any other
+tab/window. Except that in the browser world, this happens all the
+time.
+

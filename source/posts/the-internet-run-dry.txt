@@ -1,0 +1,39 @@
+====================
+the internet run dry
+====================
+
+.. post:: 2008-04-04
+   :author: tychoish
+
+I seem to be getting really efficent when it comes to reading all of my
+usual "reads," Like, I can get through my eighty feeds and my LJ friends
+page, and other internet checking in twenty minutes or so. I check both
+throughout the day, ususally, so it's not like thats the only time I
+spend on the interent (ha!) but it means that I don't have as much time
+to get the brain rolling in the morning as I used to.
+
+A couple of points. While I'm sticking with Mars Edit, for this post
+too, I'm not quite sure that I'm ready to jump ship back from my
+`TextMate blogging
+bundle <http://blog.macromates.com/2006/blogging-from-textmate/>`__ and
+`subversion <http://subversion.tigris.org/>`__ bundle that I've been
+using for many months now. I really like keeping the subversion archive
+as it works with all of my other work/backup etc. At the same time, it's
+totally overkill and it's not like, in the last six months, I've ever
+really gone in and done anything with the backups that I'm keeping in
+subversion, and it would make my checkout quicker if I didn't have so
+many blogging files.
+
+But as I was thinking about this I discovered soemthing interesting that
+I want to share with you: since I've been writing my entries this way,
+I've amassed nearly *two megabytes* of text files containing blog
+entries. And I should point out that I'm closing in on *four hundred
+thousand words* blogged in the last two years.
+
+Good g-d folks. That's absurd.
+
+Speaking of absurdity, I have today off, so there will be knitting and
+there will be writing about it. And other things too.
+
+Onward and Upward!
+

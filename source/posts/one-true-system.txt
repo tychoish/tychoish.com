@@ -1,0 +1,86 @@
+===============
+One True System
+===============
+
+.. post:: 2009-02-19
+   :author: tychoish
+   :tags: cyborg, productivity
+
+So I've been `posting about cyborg
+systems <http://tychoish.com/rhizome/of-the-system/>`__ on tychoish,
+about the informal logical systems we use to interface our
+lives/reality/thoughts/work into digital systems to organize what we
+accomplish with our computers. It's a topic of some interesting to me,
+and I'm going to provide a simple piece of advice in this post:
+
+Try your damnedest to only use one system. For as much of your data
+as you possibly can.
+
+This might be an odd piece of advice, you say, coming from someone who
+proudly supports the Unix philosophy of "use tools that do *one* thing
+well." I think, however, that the question of *tools* and *systems* are
+fundamentally different. Having tools that do lots of things (poorly)
+means that you have ineffective tools. Having more than one system to
+organize your data means that things get lost.
+
+Joseph Spiros, a friend of mine from way back, wrote an essay that I
+think serves as a pretty good introduction to some of these ideas. Read
+`Prelude to
+Haven <http://josephspiros.com/2009/02/05/prelude-to-haven>`__ and come
+back when you're done.
+
+Back?
+
+Great. Lets continue.
+
+Having *one system* that houses everything is a great boon to our
+representation. If you know, from the very beginning, what kind of data
+you're going to be dealing with, and develop some sort of organizational
+system based on this knowledge then it's really hard for files to get
+lost, for things to be double classified and without reference.
+Basically, for any given *thing*, there should be only one given place
+that you should have to look for this.
+
+This is of course pretty difficult to do. So maybe I don't mean "only
+have one system for *everything*" but, rather "have *one* system for any
+given thing." More concretely:
+
+-  Only have one email account. If you get mail at more than one
+address, use a client that allows you to view/send email from more
+than one address (eg. gmail) or forward multiple accounts to one
+address. This way, if you're looking for an email there's only one
+bucket to look in.
+
+-  Organize data by **either** projects, subjects, or kind, but not more
+than one of these categories. Projects would be spheres of your work
+that form a body onto themselves: if you wrote books, a project would
+be a book and you'd collect notes, drafts, and versions related to a
+book in one "pile" [1]_. Subjects can get dicey (as they require you
+to sort your data into a given number of subject-based piles and then
+be able to recall that sorting again. Kind-based organizations
+require you to keep all your notes in one pile, drafts in another,
+final copies in another which can grow unwieldy depending on subject,
+but greatly decreases the chance of misfiling.
+
+-  For data manipulation standardize your practices on specific tools:
+tasks go in one place, project files go in another, references in
+another, and so forth. If you track two todo-lists that don't
+synchronize with each other, then the chance of loosing track on some
+things in one when they should have gone in the other system. One
+"OK" system is superior to 2 or more excellent systems.
+
+-  Use search tools to your advantage, but avoid the google-method of
+relying search to be smarter than the index of files. Search is good,
+and there are a lot of times when searching for something is helpful
+(lost files, finding a specific quote), but often times they take a
+lot of system resources to build a gross index that likely doesn't
+contain the kind of information your looking for.
+
+And that's *it*. One more step on the road to a better, more fulfilling
+cyborg experience.
+
+.. [1]
+I've deliberately avoided using terms like "folders," or
+"categories," or "tags," as these abstractions aren't in and of
+themselves useful metaphors.
+

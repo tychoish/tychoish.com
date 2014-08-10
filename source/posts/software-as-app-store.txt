@@ -1,0 +1,95 @@
+======================
+Software as app Store 
+======================
+
+.. post:: 2010-03-03
+   :author: tychoish
+   :tags: cyborg, software
+
+This post represents two major ideas, first of "`app
+stores <http://tychoish.com/rhizome/package-mangement-and-why-your-platform-needs-an-app-store/>`__,"
+and second of "Sass" or "software as a service," which seems to be the
+prevailing business model for contemporary technology companies that
+aren't stuck in the 80s. With reflection on free software, open source,
+and the technology industry as a whole. Because that's sort of my
+*thing*.
+
+On the one hand the emergence of these tightly controlled software
+distribution methods represent a fairly serious threat to free software,
+as does SaaS particular insofar as SaaS exploits a GPL loophole. On the
+other hand these models, potentially, represent something fundamentally
+awesome for the technology and software world, because it represents a
+commonly accepted paradigm where users of software recognize the value
+of software, and the creators of software can get compensated for their
+work. It's not without its flaws, but I think it opens interesting
+possibilities.
+
+Free and Freedom
+~~~~~~~~~~~~~~~~
+
+Obviously app stores present a quandary for those of us involved in the
+free software world. On the one hand app *stores* are not free, which is
+a trivial complaint. It's not the cost, around which "free software" is
+*truly* centered, the true failing here is that creators of software
+cannot choose to participate in an app store system and distribute
+source code: the interaction and relationship between developers and
+users is very scripted and detached. These issues all grow out of the
+reality that app stores--by design--are they're controlled by a single
+institution or organization.
+
+Which isn't itself a bad thing--there are contexts where centralized
+organization means *things get done more effectively*, but centralized
+authority is not without *risk*. So while this question isn't resolved,
+it's also the kind of question that requires ongoing attention and
+reflection.
+
+Paying for Software
+~~~~~~~~~~~~~~~~~~~
+
+At the same time, I think it's very true that the "app store model" and
+indeed the more successful "Web 2.0" business models (e.g. new
+businesses on the web, post-2003/2004) have posited that:
+
+**Software is a thing of value that users should expect to pay
+for.**
+
+And that's not, at least to my mind, a bad thing for the software world.
+Free or otherwise. Or not *always* a bad thing, particularly for
+end-user software. For larger pieces of software (in the "Enterprise")
+money is largely exchanged for support contracts and for services
+related to the software: custom features, IT infrastructure, etc. For
+end user software, support contracts and custom features don't tend to
+make a lot of sense in context: so perhaps moving back to the exchange
+of money for software isn't a bad thing.
+
+The connection between "value" (which software almost certainly
+creates), and currency in the context of software is fraught. Software
+isn't scarce, and will never be (by nature.) At the same time it does
+have value and I think it's worth considering how to arrange economies
+that involve exchanging money for software. There are a lot of factors
+that can effect the way that app stores might work, and I think given
+the possibility for causing interesting things to happen we shouldn't
+dismiss them out of hand.
+
+Related Reading
+~~~~~~~~~~~~~~~
+
+Despite my (potential) lack of clarity at the moment, I think the
+following posts reflect some of my earlier thoughts on this subject.
+
+-  `Package Management and why your Platform Needs and App
+Store <http://tychoish.com/rhizome/package-mangement-and-why-your-platform-needs-an-app-store/>`__
+
+-  `iPad
+Reactions <http://criticalfutures.com/2010/02/ipad-reactions/>`__
+
+-  `Free Network
+Businesses <http://tychoish.com/rhizome/free-network-businesses/>`__
+
+-  `There's a Widget for
+that <http://criticalfutures.com/2010/02/theres-a-widget-for-that/>`__
+
+-  `Owning Bits <http://tychoish.com/rhizome/owning-bits/>`__
+
+
+

@@ -1,0 +1,84 @@
+================================
+All the Jazz That's Fit to Print
+================================
+
+.. post:: 2008-10-02
+   :author: tychoish
+
+My New Year's resolution was to make a list of all the things
+(particularly fiction) that I read. Not to read more, but just to keep
+track of it. Part of my insecurity as a writer is the fact that I don't
+feel particularly well read, in light of all the books that I want to
+read this is a particularly stark problem.
+
+Just keeping a text file with everything on the list, seemed (and is) a
+great way to keep track of things and provide a clearer record of what
+happens.
+
+I've mostly kept up with this, I deleted the file for a while (thanks to
+`git <http://git.or.cz/>`__ I was able to rescue it, and I'm back in
+business,) but it's all up to date. Also throughout the year, I've kept
+writing little notes about what I've finished reading, with some rough
+thoughts. It's my blog after all.
+
+I finished--a few weeks ago--Melissa Scott's *The Jazz*, which I really
+enjoyed reading. Melissa is a contact from another context [1]_, which
+makes reading her work even more fun. Reading this book lead me to do
+some thinking about the state of the cyberpunk sub-genre.
+
+I liked the book, the characters, and more importantly how it was able
+to take the "cyberpunk" sub-genre in a much more contemporary feeling
+story. While cyberpunk stories are great fun, the fact that by, say
+1993, it was clear that the early cyberpunk (which set the mold for the
+genre) misunderstood the internet in all but the most fundamental ways.
+*The Jazz,* fixes this problem deftly. [2]_ At the same time, however,
+it brings a couple other problems with the genre to bare.
+
+When I finished the book I was left with the feeling that the ending was
+a little bit flat, or it felt a little rushed, or something. And then I
+remembered that I felt the same way about Neuromancer (Gibson), and even
+"Trouble and Her Friends," Scott's probably most oft
+`recommended <http://tychoish.com/rhizome/book-recommendations/>`__ book
+(at least by me). And then it struck me, that the biggest flaw with
+cyberpunk is that the action and dramatic tension derive from the
+*mythology* of the cyberpunk setting.
+
+But it's *science fiction,* you say. And, indeed, it is. But here's a SF
+secret, I think in most/the best cases the SFnal elements of a story
+don't provide dramatic tension but just set up. Lets take a couple of
+examples: In John Scalzi's *`Old Man's
+War <http://www.amazon.com/Old-Mans-War-John-Scalzi/dp/0765315246/tychoish-20>`__*
+the tension comes from a very conventional war, from mystery about what
+happens to the main character's wife, from the main characters
+friendships, and so forth. The fact that it's a space opera and they
+have computers implanted in the heads is... background, and a device to
+put the characters in the right situations. In say *Neuromancer*,
+without the mythology (cyberspace, AIs, etc.) the characters would have
+been high the *entire* story rather than just most of it.
+
+The end result is that the resolutions to the conflicts are very
+unsatisfying because there's something that feels totally contrived in
+the cyberpunk story. In *Neurmancer* I disliked the characters and the
+plot/setting, and the "hard to pin down" feeling about the ending was
+too wrapped up in this, while in *The Jazz,* I loved the characters and
+the story, and I learned something pretty important about cyberpunk and
+dramatic tension. Can't argue with that.
+
+I've read more things recently, but I've run out of room in this post,
+so I'll get to some of the other ones later.
+
+Onward and `Upward <http://criticalfutures.com>`__!
+
+.. [1]
+Complete with a "holy shit! you're *that* Melissa Scott," moment
+which I think I was able to mostly keep to myself.
+
+.. [2]
+This isn't to say that it got everything right, but it got things
+like spam more or less right, as well as the sort of interesting
+identity-based concerns of the internet. I'm not particularly
+interested in how effective fiction is at predicting the future, but
+there are times when a poor conception of the future reflects a poor
+understanding of the present. Which a 98-00 era traditional cyberpunk
+story would have been. This wasn't that, and I really enjoyed that.
+

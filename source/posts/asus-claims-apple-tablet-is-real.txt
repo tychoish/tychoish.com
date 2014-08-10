@@ -1,0 +1,28 @@
+================================
+Asus Claims Apple Tablet Is Real
+================================
+
+.. post:: 2007-11-06
+   :author: tychoish
+
+`Asus Claims Apple Tablet Is
+Real <http://apple.slashdot.org/article.pl?sid=07/11/06/1327230&from=rss>`__:
+
+Can Apple turn the Tablet PC into a success when previous attempts
+have failed? The short answer is 'yes'. Any company that can make a
+mobile phone with no buttons, no picture messaging, slow Web access
+and no video capture into the most desirable phone on the planet can
+easily make tablets popular.'"
+
+(from `Slashdot <http://slashdot.org/>`__.)
+
+I look forward to this device, but I think the point is pretty funny.
+
+Meanwhile, *Zoe*, my trusty Tiger-running Powerbook G4, continues to
+perform admirably, though the top plate on the lower left hand corner
+continues to rattle worrisomely. The current plan is to wait until WWDC
+and see what things are looking like then. I've toyed with the idea of
+buying/building a beige boxed ubuntu "server," but *who knows*, things
+work great the way they are, so I'm in no particular hurry. For the
+record, I got Zoe (nee Mona Ramsey) in May of 2005.
+

@@ -1,0 +1,38 @@
+======================
+the debate over eBooks
+======================
+
+.. post:: 2009-03-25
+   :author: tychoish
+   :tags: new-media, writing, reading
+
+I read something a few weeks ago (the problem with being slow to process
+things from blogs that post regularly), `about digital ebook readers and
+the future of digital
+books <http://futurismic.com/2009/03/11/progress-the-ebooks-debate-rumbles-on/>`__.
+
+I guess my thoughts are best summed up in a couple of points, basically
+that electronic texts will succeed as they: develop unique and
+presentation methods (hardware and software), and as the
+commerce/distribution models become more transparent.
+
+1. Words on screens don't work like words on paper. They just don't, and
+we need to develop new ways of reading/writing that engage the medium
+better. We got prose out of the transition to bound-books, novels out
+of printing press (loosely;) the success of ebooks, I think will
+require some sort of new way of writing/reading/interacting with
+text, and no ebook implementation has gone there.
+
+2. The potential for profit of digital goods is immense:
+distribution/production costs are much lower than their material
+counterparts, because printing, delivery, etc. aren't factors for
+digital things. There is, however, value and work that goes into
+publishing texts, and we need some way of supporting creators. I'm
+not sure that the existing publishing/content industry's models make
+a good example to follow, and "micropayments" (the stock alternate
+response) don't seem to really work. I tend to think that fellowships
+funded by a subscription model/tax on connectivity is more the way to
+go. But that's me.
+
+
+

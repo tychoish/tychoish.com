@@ -1,0 +1,67 @@
+=============================
+Topic Based Authoring Failure
+=============================
+
+.. post:: 2013-07-21
+   :author: tychoish
+
+I wrote a long time ago, about http://[[atomic
+documentation\|/technical-writing/atomic]] which (more or less) is the
+same as *topic based authoring*. Both describe the process of breaking
+information into the smallest coherent blocks and then using the
+documentation toolkit to compile the kind resource.
+
+Topic based approaches to documentation promise reduced maintenance
+costs and greater documentation reuse. I'm not sure if anyone's used
+"ease of authorship," as an argument in favor of topic based approaches
+(they're conceptually a bit difficult for the author,) but you get the
+feeling that it was part of the intention.
+
+The obvious parallel is object orientation in programming, and I think
+the comparison is useful: they both present with optimism about reuse
+and collaboration through modularity and modern tool chains. While
+object oriented programming predates topic based authoring, both have
+been around for a while and even if you aren't an adherent of object
+orientation or topic-based authoring, I think it's impossible to
+approach programming or documentation without being influenced by either
+of these paradigms.
+
+Unless you're working with a really small resource, without some
+topic-based you end up with redundant documentation that looses
+consistency and a maintenance nightmare.
+
+The downfalls of "topics," don't negate it's overall utility, but they
+are significant:
+
+-  topic based authoring makes it harder for non-writers to contribute
+to the documentation. This makes it more challenging to keep
+documentation up to date and can hurt overall accuracy.
+
+-  topics force writers to focus on the "micro" documentation at the
+expense of the "macro" documentation experience. The content is
+clear, the completeness is good, but the overall experience for users
+is awful.
+
+-  topic-centrism sometimes leads to deeper hierarchies which leads to
+duplicated content across the hierarchy as "cousin" nodes address
+related concepts.
+
+What's the solution? I'm not sure there is a single one, but:
+
+-  it's important to avoid duplication, by having great support for
+"single sourcing" (inlining/inclusion,) and simple cross referencing.
+
+-  isolate all content in concrete topical units.
+
+-  start with flat global organization and add interpage hierarchy only
+when necessary.
+
+-  use as much intrapage organization and hierarchy as you need, and
+allow intrapage hierarchy.
+
+-  build great reference material first. Everything else is gloss, and
+you should layer the gloss on top of strong reference rather than try
+and build reference under an existing structure.
+
+
+

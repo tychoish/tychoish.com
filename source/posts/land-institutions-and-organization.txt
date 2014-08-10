@@ -1,0 +1,125 @@
+====================================
+land, institutions, and organization
+====================================
+
+.. post:: 2009-05-21
+   :author: tychoish
+   :tags: politics, economics
+
+As I mentioned in my `link collection
+post <http://tychoish.com/rhizome/link-collection/>`__, my thinking
+about co-operative economics has taken a brief foray into the area of
+leadership and governance, both on the small scale (eg "How do we
+organize our project, to acomplish our goals") and on the larger scale
+(eg. "How do provide institutional support for the governance of our
+civilization"). Both are important and relevant questions, but it's all
+complicated of course. Also, we should probably start of with a brief
+interlude of what an individuals labor/work activity might look like in
+a post-corporate economy, and then I'll move into two interludes about
+leadership and government. Seat-belts fastened?
+
+Post-Corporatism and Labor
+--------------------------
+
+We're seeing some post-corporatism in the forum of an explosion of
+freelance and independent consultancies of various stripes and colors.
+Some key observations:
+
+-  Many if not most people working in this don't work full time for one
+employer, splitting their time and energies between a number of
+projects.
+
+-  Freelance work allows people to develop flexible careers where growth
+isn't dependent on moving into management careers.
+
+-  Traditional "benefits" of employment (eg. health insurance, office
+resources, data connectivity, etc.) are increasingly procured either
+through ad-hoc agreements: eg. Marriage for health insurance,
+Co-working spaces, "Freelancers' Unions" and so forth.
+
+Leadership and Co-Operative Governance
+--------------------------------------
+
+The question that I think I've failed to really address in during all of
+this "co-op" conversation is **If corporations are replaced by
+cooperative organizations, how are projects managed and where does
+leadership come from?** Indeed one of the biggest benefits/strengths of
+the corporation (top-down) model, is that corporations are really (or at
+the least reasonably) well organized and constituted, so if we're doing
+away with the corporation, how do we remain organized and productive.
+
+I should, as an interlude, reiterate that I've advocated for cooperative
+organizations on the basis that they're more effective at creating real
+and authentic value, than the American/multinational corporation as we
+now know it. Furthermore, I'm totally convinced in the necessity and
+utility of effective leadership and management, for our productivity.
+The post-corporate economy isn't a world without management, but rather
+a world with a smarter, more distributed system for management.
+
+Part of the distribution of management comes from the fact that labor
+itself is to be more distributed. Just as we bring on engineers,
+artists, manufacturing in an often ad hoc way, we might also bring on
+project management and other "logistical professionals" to promote
+productivity. (*Remember that coops are organizations that are unlikely
+to involve the direct labor of more than 100 or 150 people at any given
+time.*) Higher level administration and guidance can be provided by
+small elected/nominated executive councils (a la, the KDE project, the
+Squeak Project, or the Debian Project) or in the "benevolent dictator"
+model (eg. Linus' for Linux, Larry Wall for Perl, Guido for Python,
+Dries for Drupal, Matt Mullenweg for WordPress, Rasmus for PHP, etc.)
+
+Another "inherent" solution for providing management derives from the
+fact that cooperatives have a more pervasive project-based and goal
+oriented focus. Cooperatives, then, like open source software
+development projects, work on *making something of value,* (or providing
+valuable services,) don't need to expend resources maintaining
+solubility. When a co-op finishes it's project, the members move on to
+other projects and co-ops.
+
+I think creative thinking about leadership in new environments requires
+a few basic assumptions:
+
+-  Democracy is created by participation rather than by elections.
+
+-  Management/logistical overheads grow geometrically while operations
+grow arithmetically.
+
+-  Co-ops would exist to both create value, and serve the interests of
+its members. Corporations exist to serve the interests of the
+investors. The dissolution of a cooperative isn't antithetical to the
+purpose of a cooperative in the way that it totally antithetical to
+the purpose of a corporation.
+
+Land and the Problem of Government
+----------------------------------
+
+I'm persistently convinced that the "State" (as in the United States) or
+province (in the Canadian/Australian sense) is probably a really
+ineffective way to organize and structure a government. A lot of the
+people who are object to the American government advocate for
+states-rights and taking power and authority from the federal government
+and handing it to the states (eg. Libertarians). This has always struck
+me as sort of foolish.
+
+Not because I think local control is a bad thing, or I have any great
+love of the institutions of liberal democracy, but rather because
+**States** themselves fail to convey meaningful/practical/useful
+administrative or political units. A co-operative ethos would require
+(and need, though not--strictly speaking--depend upon,) a system where
+institutions and governance transpired along meaningful and practical
+political units.
+
+Greater metropolitan areas make sense as administrative units (including
+those that straddle existing borders) in a way that states themselves
+don't really. Gary Indiana and the City of Chicago have a lot more in
+common than Chicago and Carbondale Illinois. At the same time there's a
+big problem with the city-state, as "the unit of government:" it fails
+to account for, integrate, capture, and empower people in less urban
+areas. Which is given the importance of food, is incredibly crucial.
+
+I'm interested in thinking about how, particularly with new
+technologies, we might be able to conceptualize geographically based
+political units that integrate populations that fairly represents the
+interests/needs of people who live in areas with lower population
+densities.
+

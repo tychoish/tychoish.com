@@ -1,0 +1,70 @@
+======
+Casbah
+======
+
+.. post:: 2007-12-30
+   :author: tychoish
+
+So, I'm really bad at this whole "posting pictures" part of blogging. I
+don't have a good excuse, thought I will admit that if there was a good
+way to manage the Wordpress uploads via XML-RPC, in a standard easy to
+manage sort of way. Actually, if someone could give me a more clear way
+of naming and organizing pictures on the server, with points for the
+fewest steps, and/or greatest automation. Anyway, I've gotten off my
+duff and I'm ready to actually post some pictures.
+
+These are all on my `flickr <http://flickr.com/photos/27647132@N00/>`__
+and of course also on `Ravelry <http://www.ravelry.com>`__, where I'm,
+not surprisingly known as tychoish. Today, we're going to get pictures
+of the Morocco sweater in it's current state. (Hence the title of the
+post). Lets remember that the name "Morocco" is a sort of inside joke,
+because although it looks Moorish, the pattern is taken from a Latvian
+weaving pattern. The design is from Joyce William's *Latvian Dreams*,
+though I must admit that I have not yet really read the pattern, so much
+as copied the chart and inspected the picture in the book closely. I
+seem to enjoy it better that way.
+
+Here's a good picture of the bottom rear of the sweater. Note that the
+ugly green yarn and the curling will be gone when the sweater's finished
+as I intend to undo the provisional cast on and knit a turned hem. I've
+even bought a 60" Size 0 needle:
+
+.. figure:: http://farm3.static.flickr.com/2236/2148834829_e949ae1eb8.jpg?v=0
+:alt: bottom border
+
+bottom border
+(It's a jacket/cardigan, so the middle front is obstructed at the
+moment.) Here's a closer view of the back of the sweater in total. It's
+about 30-32" long from shoulder to lower edge.
+
+.. figure:: http://farm3.static.flickr.com/2247/2149629190_990ba6e72a.jpg?v=0
+:alt: back overview
+
+back overview
+You can probably see from that, how the sleeve's are set it, and the
+armholes are shaped. I'm not doing it in one piece, but it's cool none
+the less. Look at this:
+
+.. figure:: http://farm3.static.flickr.com/2087/2148835583_7b6cd80ece.jpg?v=0
+:alt: shoulder view 1
+
+shoulder view 1
+I picked up stitches holding two colors, continuing the patterns on
+their sides. Also the shaping is occurring the top/sides of the sleeves
+rather than at the bottom. Here's a better shot of this from the top.
+
+.. figure:: http://farm3.static.flickr.com/2344/2149629484_dc88998424.jpg?v=0
+:alt: shoulder view 2
+
+shoulder view 2
+I'm probably most proud of this. Look how the patterns meat from the
+shoulder. You can see the "seam," and I think the half stitch
+discrepancy that grafting would have provided wouldn't have been
+preferable in this situation. It looks good and it'll look better when
+it's blocked. Also the way it shifts direction without much fuss is
+pretty cool as well.
+
+But as you can see I have a lot to go on this sleeve. Better get to it!
+
+Onward and Upward!
+

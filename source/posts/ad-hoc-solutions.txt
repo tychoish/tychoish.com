@@ -1,0 +1,80 @@
+================
+Ad Hoc Solutions
+================
+
+.. post:: 2008-03-18
+   :author: tychoish
+
+First off, a couple of status reports
+
+*Days on the Waitlist:* **7**
+
+I'm not sure how to report my current state of mind. I've been rejected
+from graduate schools long enough and consistently enough that I'm not
+incredibly optimistic feeling, even if I'm reasonably optimistic
+thinking. It could be over tomorrow, or it could take another four
+weeks. I'm working on job search things, which is daunting, but
+reassuring. Nothing I'm really looking at would further a career in
+academia, which is disappointing. Oh angst.
+
+*Sweater Status:* Binding off the Hem
+
+I'll probably finish all knitting on this sweater this evening, and wait
+a few days before I start blocking and sewing things up. Or I could
+start on that tomorrow. I'm pretty close, and that feels good. I'm so
+close. That's kind of cool.
+
+*New Computer Status* Not ordered!
+
+I got really close to ordering a new computer today: the "T" key on my
+laptop broke (it falls off every other time I press t). I think the
+problem is with the molding/wear on the catch on the upper right hand
+corner of the key. I was overly distraught by this: the "T" key gets a
+lot of use, and this basically rendered my computer non-mobile, which is
+something that I've come to really enjoy about having a laptop. Well I
+discovered a couple of things. First: you can order new keys on ebay for
+under ten bucks (which I've done), and secondly that I use the "Q" key
+significantly less than the "T" key, so in the mean time I've swapped
+them out and that helps some. It's of course not ideal, but it renders
+the computer useful for a while longer.
+
+I'm starting to think that I'll just hold off on getting a new computer
+till the next rev of the macbook line, because this isn't a necessity,
+and I derive some perverse pleasure from keeping this computer working
+and running slim. I'll never produce a podcast with it, but, such things
+are overrated anyway, and I was a long way off from doing that anyway.
+I've probably just jinxed it, so I'm backing up the essentials offsite
+as I write this
+
+I installed the normal old Ubuntu (GNOME) on the extra machine and it
+looks like it's running well. I haven't put it through the rounds, but
+it's in good shape. I need to find a good monitor to use with it (the
+one I have is 10 years old and a 15" CRT). I haven't hooked it up to a
+network, nor have I tested it with the internet, but I'm optimistic. I
+also managed to get through the install routine with the keyboard
+accidentally set on a turkish layout, which is a testament to it's ease,
+I suspect.
+
+Because I'm still using OS X 10.4 and don't have the nifty new terminal
+with tabs, I switched today to
+"`iTerm <http://iterm.sourceforge.net/>`__\ " which is a nifty terminal
+program that I think will help me stay a little more organized and what
+not. I also had a couple of VIM related breakthroughs: I discovered
+MacVim a decent (heh!) port/install of VIM to OS X that's more native
+and less crappy which gVIM always has been in my estimation. There's a
+windows linux program called
+"`Cream <http://cream.sourceforge.net/>`__\ " that I've always thought
+is pretty nifty, but it really doesn't work at all with OS X (I've
+tried. A lot,) but from what I can tell this MacVim does most of the
+things that I'd want from cream. I also upgraded the system vim to the
+latest version, rather than the 6.2 (or whatever) that OS X seems to
+come with (about time). So I think I'm making at least a little progress
+in VIM learning.
+
+That's all the geek news that isn't, there hasn't been much else to
+report, other than angst and resume writing.
+
+Stay well. That's an order.
+
+Onward and Upward!
+

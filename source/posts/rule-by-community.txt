@@ -1,0 +1,37 @@
+=================
+Rule By Community
+=================
+
+
+When Oracle acquired Sun Microsystems, there was a lot of (warranted)
+concern for what would happen to the Open Source projects that Sun
+started, supported, and championed. Though the acquisition began years
+ago, now, I think we're still in the process of figuring out how all of
+this filters down. The concern, largely grows from the fact that while
+Sun licensed a lot of work under free and permissive terms, and was an
+active contributor to communities, Sun (and now Oracle) remains the
+ultimate owner of that work moving forward. Thus, Free Software/Open
+Source projects are somewhat stranded because the leadership of these
+projects were supported by Sun, are supported by no one.
+
+In response, there's been a lot of movement among these projects to
+formally establish "rule-by-community" systems, that give community
+contributors authority and voice in the management of these projects.
+
+Nevertheless, it feels a lot like writing policy to save oneself from
+the mistakes of the past. It also seems like an action of democracy
+fetish rather than bottom up democratic organization. I'm always struck
+by how **not** democratic open source projects are, in practice, and how
+little this matters. Python and Perl are iconic examples of this, but
+most other projects have one or two people who are in charge of
+everything, and while they know that their "rule" is subject to the
+confidence of the community, their leadership isn't terribly democratic.
+I think `this recent event in the org-mode
+community <http://www.mail-archive.com/emacs-orgmode@gnu.org/msg33385.html>`__
+is a particularly useful example.
+
+Maybe Sun was inflating an Open Source bubble of sorts, maybe
+corporate-sponsored open source, and community/consultancy-sponsored
+open source are different things that need different sorts of
+approaches.
+

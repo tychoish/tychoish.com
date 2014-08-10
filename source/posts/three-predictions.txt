@@ -1,0 +1,113 @@
+=================
+Three Predictions
+=================
+
+.. post:: 2009-12-28
+   :author: tychoish
+   :tags: technology, cyborg, mobile-technology
+
+Ok folks, here we go. I've put the word futurism is in the title of the
+blog and its near the end of the calendar year, so I think it's fair
+that I do a little bit of wild prediction about the coming year (and
+some change.) Here goes:
+
+Open technology will increasingly be embedded into "closed technology"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The astute among you will say, "but that is already the case:" The
+Motorola Razor cell phone that my grandmother has runs the Linux Kernel
+(I think.) And there's the TiVo, lets not forget the TiVo. Or, for that
+matter the fact that Google has--for internal use, of course--a highly
+modified branch of the Linux Kernel that will *never* see the light of
+day.
+
+That's old news, and in a lot of ways reflects the some of the intended
+and unintended business models that naturally exist around Open Source.
+
+I'm not so much, in this case talking about "openness" as a property of
+code, but rather openness as a property of technology, and referring to
+long running efforts like XMPP and OpenID. These technologies exist
+outside of the continuum of free and proprietary code but promote the
+cyborg functioning of networks in an transparent and networked way.
+
+XMPP says if you want to do real time communication, here's the
+infrastructure in which to do it, and we've worked through all the
+interactions so that if you want to interact with a loose federation
+(like a "web") of other users and servers, here's how.
+
+OpenID solves the "single sign on" problem by creating an infrastructure
+for developers to be able to say "If you're authenticated to a third
+party site, and you tell me that authenticating to that third party site
+is good enough to verify your identity, then it's good enough for us."
+Which makes it possible to preserve consistent identity between sites,
+it means you only have to pass credentials to one site, and I find the
+user experience to be better as well.
+
+In any case, we've seen both of these technologies become swallowed up
+into closed technologies more and more. Google Wave and Google Talk use
+a lot of XMPP, and most people don't know this unless their huge geeks
+(compared to the norm.) Similarly, even though it's incredibly easy to
+run and delegate OpenIDs through third parties, the main way that people
+sign into OpenID sites is with their Flickr or Google accounts.
+
+I'm not saying that either of these things are bad, but I think we're
+going to see a *whole* lot more of this.
+
+A major player on the content industry will release a digital subscription plan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I think, perhaps the most viable method for "big content" to survive in
+the next year or so, will be to make content accessible as part of a
+subscription model. Pay 10 to 20 dollars a month and have access to some
+set quantity of *stuff*. Turn it back in, and they give your more bits.
+Someone's going to do this: Amazon, Apple, Comcast, etc.
+
+It's definitely a hold over from the paper days when content was more
+scarce. But it gets us away from this crazy idea that we own the stuff
+we downaload with DRM, it makes content accessible, and it probably
+allows the of devices to shoot down (to nominal amounts). While it
+probably isn't perfect, its probably sustainable, and it is a step in
+the right direction.
+
+Virtualization technology will filter down to the desktop.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We have seen tools like `VirtualBox <http://www.virtualbox.org/>`__ and
+various commercial products become increasingly prevalent in the past
+couple of years, to decrease the impact of operating system bound
+compatibility issues. This is a good thing, but I think that it's going
+to go way further, and we'll start to see this technology show up on
+desktops in really significant ways. I don't think desktop computing is
+in need of the same kinds of massive parallelism that we need on
+servers, but I think we'll see a couple of other tertiary applications
+of this technology.
+
+First, I think hypervisors will abstract hardware interfaces away from
+operating systems. No matter what kind of hardware you have or what it's
+native method of communication is, the operating system will be able to
+interact with it in a uniform manner.
+
+Second, there are a number of running image manipulation functions that
+think operating system developers might be able to take advantage of:
+first the ability to pause, restart, and snapshot the execution stat of
+a running virtual machine has a lot of benefit. A rolling snapshot of
+execution state makes suspending laptops much easier, it makes
+consistent desktop power is less crucial. And so forth.
+
+Finally, system maintenance is much easier. We loose installation
+processes: rather than getting an executable that explodes over our file
+system and installs an operating system, we just get a bootable image.
+We can more easily roll back to known good states.
+
+Not to mention the fact that it creates a lot of economic benefits. You
+don't need IT departments maintaining desktops, you just have a guy
+making desktop images and deploying them. Creating niche operating
+system images and builds is a valuable service. Hardware vendors *and*
+operating system vendors get more control over their services.
+
+There are disadvantages: very slight performance hits, hyepervisor
+technology that isn't *quite* there yet, increased disk requirements.
+But soon.
+
+Soon indeed.
+

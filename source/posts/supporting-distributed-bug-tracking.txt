@@ -1,0 +1,202 @@
+========================
+Distributed Bug Tracking
+========================
+
+.. post:: 2012-04-30
+   :author: tychoish
+   :tags: software-development, programming
+
+The free software/open source/software development world needs a
+distributed bug tracking story. Because the current one sucks.
+
+[[!toc startlevel=2 levels=3]]
+
+The State of the Art
+--------------------
+
+There are a number of tools written between 2006 and 2010 or so that
+provide partial or incomplete solutions to the problem. *Almost* isn't
+quite good enough. The "resources" section of this post, contains an
+overview of the most important (my judgment,) representatives of the
+current work in the area with a bit of editorializing.
+
+In general these solutions are good starts, and I think they allow us
+(*or me*) a good starting point for thinking about what distributed bug
+tracking *could* be like. Someday.
+
+Bug tracking needs are diverse, which creates a signifigant design
+challenge for any system in this space. There are many existing
+solutions, that everyone hates, and I suspect most would-be developers
+and innovators in the space would like to avoid opening this can of
+worms.
+
+Another factor is that, while most people have come to the conclusion
+that distributed source control tools are the "serious" contemporary
+tool for managing source code the benefits of distributed bug tracking
+hasn't yet propogated in the same way. Many folks have begun to come to
+terms with the fact that some amount of *tactical* centralization is
+inevitable, required, and even desirable [1]_ in the context of a issue
+tracking systems.
+
+Add to this the frequent requirement that non-developer users often need
+to track and create issues, and the result is that we've arrived at
+something of an impasse.
+
+Requirements
+------------
+
+A distributed bug tracking system would need:
+
+-  A good way to provide short, unique identifiers for individual issues
+and comments so that users can discuss issues canonically.
+
+-  An interface contained in a single application, script, or binary,
+that you could distribute with the application.
+
+-  A simple/lightweight web-based interface so that users can (at least)
+review, search, and reference issues from a web browser.
+
+Write access would also be good, but is less critical. Also, it might be
+more practical (both from a design and a workflow perspective,) to have
+users submit bugs on the web into a read-only "staging queue," that
+developers/administrators would then formally import into the project.
+This formalizes a certain type of triage approach that many projects may
+find useful.
+
+-  To be separable from the source code history, either by using a
+branch, or by using pre-commit hooks to ensure that you never commit
+changes to code/content *and* the bugs at the same time.
+
+-  To be editable, and to interact with commonly accessible tools that
+users already use. Email, command line tools, the version control
+systems, potentially documentation systems, build systems, testing
+frameworks and so forth.
+
+-  Built on reliable tools. [2]_
+
+-  To provide an easy way to customize your "views" on bugs for a
+particular team or project. In other words, each team can freely
+decide which extra fields get attached to their bugs, along with
+which fields are visible by default, which are required, and so on --
+without interfering with other projects.
+
+The Future of the Art
+---------------------
+
+1. We (all) need to work on building new and better tools to help solve
+the distributed issue tracking problem. This will involve:
+
+-  learning from the existing attempts,
+
+-  continuing to develop and solidify the above requirements,
+
+-  (potentially) test and develop a standard (yaml/json?) based data
+storage format that is easy to parse, and easily merged that multiple
+tools can use.
+
+-  Develop some simple prototype tools, potentially as a suite of
+related utilities (a la early versions of git.) that facilitate
+interaction with the git database. With an eye towards flexibility
+and extensible.
+
+2. While there are implications for free software hosting as well as
+vendor independence and network service autonomy (a la *`Franklin
+Street
+Statement <http://autonomo.us/2008/07/franklin-street-statement/>`__*.)
+I think the primary reason to pursue distributed bug tracking has
+more to do with productivity and better engineering practices, and
+less with the policy. In summary:
+
+-  Bug database systems that run locally and are *fast*\  [3]_ and
+always available.
+
+-  Tools that permit offline interaction with issue database.
+
+-  Tools that allow users to connect issues to branches.
+
+-  Tools that make it possible to component-ize bug databases in
+parallel with software
+
+Resources
+---------
+
+(*With commentary,*)
+
+-  `dist-bugs mailing
+list <http://kitenet.net/cgi-bin/mailman/listinfo/dist-bugs>`__
+
+This is the canonical source for discussion around distributed bug
+tracking.
+
+-  `Bugs Everywhere <http://bugseverywhere.org/>`__
+
+This is among the most well developed solution speaking holistically.
+"be" is written in Python, can generate output for the web. It uses its
+own data format, and has a pretty good command line tool. The HTML
+output generate is probably not very fast at scale (none are,) but I
+have not tested it.
+
+-  `Ditz <http://ditz.rubyforge.org/>`__
+
+Ditz is a very well developed solution. Ditz: implemented in Ruby, has a
+web interface, has a command line tool, uses a basic YAML data format,
+and stores data *in branch*. Current development is slow, getting it up
+and running is non-trivial, and my sense is that there isn't a very
+active community of contributors. There are reasons for this, likely but
+they are beyond the scope of this overview.
+
+-  `pitz <http://pitz.tplus1.com/>`__
+
+Pitz is a Python re-implementation of Ditz, and while the developer(s?)
+have produced a "release," the "interface" is a Python shell, and to
+interact with the database you have to, basically write commands in
+Python syntax. From a data perspective, however, Pitz, like Ditz is
+quite developed. Pitz while it stores data in-tree, I think it's
+important source of ideas/examples/scaffolding.
+
+-  `Artemis <http://www.mrzv.org/software/artemis/>`__
+
+This is a really clever solution that uses Maildirs to store issues. As
+a result you can interact with and integrate Artimis issues with your
+existing email client. Pull down changes, and see new bugs in your
+email, without any complicated email and list server setups.
+
+The huge caveat is that it's implemented as a plugin for Mercurial, and
+so can't be used with git projects. Also, all data resides in the tree.
+
+-  `git-issues <https://github.com/jwiegley/git-issues>`__
+
+In most ways, git-issues is my favorite: it's two Python files, 1700
+lines of code, stores issues outside of the source branch, and has a
+good command line interface. On the downside, it uses XML (which
+shouldn't matter, but I think probably does, at least in terms of
+attracting developers,) and doesn't have a web-based interface. It's
+also currently un-maintained.
+
+-  `Prophet <http://syncwith.us/>`__/`sd <http://syncwith.us/sd/>`__
+
+SD, which is based on a distributed database named Prophet, is a great
+solution. The primary issue is that it's currently unmentioned and is
+not as feature complete as it should be. Also a lot of SD focuses on
+synchronizing with existing centralized issue trackers, potentially at
+the expense of developing other tools.
+
+.. [1]
+It seems that you *want* centralized issue databases, or at least the
+fact that centralized issue databases appear *canonical* is a major
+selling point for issue tracking software in general. Otherwise,
+everyone would have their own text file with a bunch of issues, and
+that would suck.
+
+.. [2]
+Because I don't program (much) and it's easy to criticize
+architectural decisions from afar, I don't want to explicitly say "we
+need to write this in Python for portability reasons" or something
+that would be similarly unfounded. At the same time, adoption and
+ease of use is crucial here, both for developers and users. Java and
+Ruby (and maybe Perl,) for various reasons, add friction to the
+adoption possibilities.
+
+.. [3]
+"Is Jira/Bugzilla/etc. slow for you today?"
+

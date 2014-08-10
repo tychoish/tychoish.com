@@ -1,0 +1,57 @@
+=========================
+free and open terminology
+=========================
+
+.. post:: 2009-05-18
+   :author: tychoish
+   :tags: free-software, academia, writing
+
+As, I'm sure many of you know, language and "what we call things" in the
+free software/open source world is a huge thing. Some people will
+probably get mad for my use of the slash in the previous sentence. This
+post, is mostly for my own good, as an experiment (and for future
+reference) to see where I stand on various word-choice questions in this
+area. I'm going to organize the post as a series of (brief) reflections
+a couple of key words.
+
+Free Software
+-------------
+
+I think free software, addresses and represents the core of what this
+whole mess is about. Free software--as an idea--addresses the
+communities, the "hacking spirit," the ideological goals, the political
+and philosophical elements of the community.
+
+It's also horribly confusing in English, and no matter how often we say
+"free as in speech" or "free as in freedom," it's not really going to
+get better. I think, also, "libre" is a poor use of the English
+language, and I cringe a lot when I read it. I've taken, when possible
+to refer to "ideas about software freedom" and "the movement for
+software freedom," which works as long as you don't need to refer to a
+specific piece of software.
+
+In those cases, I often cave and say "**open source** software" because
+it open source is a more clear adjective. I also think that open source
+describes "the thing" and the "process" more clearly, and that's an
+advantage. I dislike that open source, means "not scary to big
+businesses," and disregards the fact that this (free/open source)
+software is better/more valuable than proprietary/closed software
+because it is free and open source not simply because it happens to be
+better in quality.
+
+GNU/Linux
+---------
+
+I tend to say GNU/Linux, because--at least in my use cases--the kernel
+isn't nearly as important to how I think about my operating system as
+all the tools that surround them, and if the next big thing in the
+Unix-like (open source) operating system was a
+`Debian <http://www.debian.org>`__ or
+`Arch <http://www.archlinux.org>`__-like system with GNU parts around
+the FreeBSD kernel or the Solaris kernel, I'm *there*.
+
+I switched from OS X to GNU/Linux mostly because I wanted: better
+package management and (oddly enough) to be able to run an X11 desktop.
+The truth was, I was basically running a GNU(ish) system around Darwin
+(OS X's kernel), anyway.
+

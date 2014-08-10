@@ -1,0 +1,71 @@
+================================
+Representation and Race Futurism
+================================
+
+.. post:: 2011-12-08
+   :author: tychoish
+   :tags: science-fiction, literature, writing, politics
+
+I had an item on my list of blog posts to write for a couple of years to
+write something reflecting on "RaceFail," and finally a gave up, because
+I didn't want to write a book, I didn't know what to say, and I was more
+interested in the actual discourse itself than finding the "side of
+right," in a conversation that was both way too simple and way too
+complex all at once.
+
+So rather than reboot the conversation, which has ended in some senses
+and continues on in others, I want to start writing a bit here about
+race and representation in fiction, but also discussing the way that
+conversations transpire online. Here's part one. I'll figure out some
+way to index them all together once they're posted and assembled.
+
+--------------
+
+I wrote this scene a while back where a character who grew up on a
+small [1]_ outpost visits a space ship. Given relativistic space travel,
+from the character's perspective, the crew of the space ship are 750
+years old or so, despite being in their subjective early forties. That
+means the character's 31st-great-grandparents (roughly) were cousins of
+the people he's looking at.
+
+He notices a few things: the people on the ship are all taller than he
+is and also taller than everyone from the outpost. He also notices that
+there's more more skin tone variation amongst the people on the ship
+than there is among the people in the outpost.
+
+There are a bunches of problems with this story. Including the fact that
+its not finished and that there are parts of the execution that I think
+need a lot work. But this part, I quite like. For this story (and I
+think in general,) I've drawn the following conclusion:
+
+-  Race is temporally constrained. We understand racial difference and
+our own racial experiences in terms of our current reality. This
+changes.
+
+-  The aspects of race which are the result of lineage (skin color, bone
+structure,) are likely to change over time as lineages continue. We
+can assume that these kinds of changes will be pronounced in smaller
+populations over longer periods of time.
+
+To a large extent the tension between the "outpost people" and the "ship
+people" is the core of the conflict in this story. I've been thinking in
+this story about the impact of colonialism (and race as a result) on
+societies and political outlook. It's almost certainly not perfect, but
+I enjoy the possibilities, the story has its moments, and I'm finding
+the theory building productive.
+
+--------------
+
+I'm circling around a point: in-story diversity, particularly, diversity
+that reflects late 20th/early 21st century notions of difference alone
+cannot further thought race and racism. In other words, diversity is not
+criticism. There are many ways to productively further the discussion of
+difference in (genre) fiction, lets not stop with representation.
+
+I'll be writing more about this in the future. This site is a wiki, so
+feel free to edit and [[discuss\|discourse]], or even this page, but
+attempt to attribute your own comments just for clarity sake.
+
+.. [1]
+Under a billion people.
+

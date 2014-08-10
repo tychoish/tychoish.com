@@ -1,0 +1,88 @@
+==============
+Dumb Terminals
+==============
+
+.. post:: 2008-09-12
+   :author: tychoish
+
+I make a point of staying on top of trends in technology. It's sort of
+my "thing" and it's more fun than say, the hair colors and marital
+statuses of the rich and famous.
+
+So like most geeks, I've been hearing more and more about "cloud
+computing," which is supposedly an evolution of Web 2.0 technologies
+(Web 2.1? 2.5?) and this whole "internet thing," where software and data
+is something that runs on a server somewhere else, and your computer
+(via your `browser <http://tychoish.com/rhizome/ssb-ftw/>`__) is a
+window on the "cloud." Let me back up:
+
+Lets start of with the model traditional personal computing. People have
+computers, they run software, and they store data. If they have network
+connection, the network is primarily a tool for pulling new data to be
+stored and processed using the software and hardware that's sitting on
+the users desk.
+
+Where as on the desktop you might use a program like Word or Open
+Office, "in the cloud" a program like "Google Documents," is probably
+the app of choice. And web/cloud apps have been replacing desktop email
+clients for *years*.
+
+And this is important and noteworthy because it's a fundamental change
+in the way that we use computers, and largely we are all accustomed to
+this mode of operation. The interesting thing, is that the underlying
+technologies that support cloud computer:
+`mySQL <http://www.mysql.com/>`__, `PHP <http://www.php.net/>`__,
+`python <http://www.python.org/>`__,
+`ruby <http://www.ruby-lang.org/>`__-on-`rails <http://www.rubyonrails.org>`__,
+and even AJAX are really nothing particularly new. I suspect that the
+largest contributing factor to the emergence of cloud computing *is the
+fact that network connectivity in the last year or two has improved
+dramatically.*
+
+Having a connection to the internet isn't something that you do for a
+few moments or even hours a day anymore, but is practically a requisite
+part of computer usage: the "internet" is always on. And networks are
+pretty darn fast for most things.
+
+The geeky and historically astute among you, given the title, can
+probably see where this is going...
+
+The personal computing modality (run applications and store data
+locally) came about when computing power and storage finally got to be
+small enough (it could fit on your *desk*!) and powerful enough (whole
+*kilo*\ bytes!) that it became reasonable for non-specialists to run and
+operate them.
+
+Before this, computers were pretty large, too powerful by the standards
+of the day for one person to run themselves, very expensive and very
+finicky to run, so they ran in secure/controlled locations operated by
+specialists, and users had "dumb terminals," which included some sort of
+connectivity interface (RJ-11 or coax likely), a monitor a keyboard, and
+a chip board that was just enough to tie it all together and send the
+single back to the real computer where all the processors and data
+lived. [1]_
+
+And then computers got smaller and faster than the network connections
+could keep up with. Hence desktop computing. I'm just saying that things
+cycle through a bit, and everything that's old is new again.
+
+Thinking about cloud computing as an old modality rather than as a new
+modality makes it a much more exciting problem, because a lot of the
+nitty gritty problems/interface questions were solved in the 70s. For
+instance, X11, the windowing system that most
+`\*NIX <http://en.wikipedia.org/wiki/Unix-like>`__ systems use, is
+*designed* to run this way and in fact sort of acts as if instances
+where windows appear on a screen attached to the computers running the
+applications is an interesting coincidence. Which is pretty logical and
+makes a lot of very cool things possible, but is admittedly kind of
+backward in the contemporary perspective.
+
+Anyway, cool stuff. Have a good weekend, and if you have any thoughts on
+this subject, I'd love to hear them.
+
+.. [1]
+In fairness these connections were, I believe almost always over
+intranets, rather than over some sort of public internet, though as I
+think about it, there were probably some leftovers of this in the
+BBS-days, with regards to terminals and what not.
+

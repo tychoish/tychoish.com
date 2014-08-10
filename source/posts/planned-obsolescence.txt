@@ -1,0 +1,62 @@
+================================
+Planned Obsolescence and Gadgets
+================================
+
+.. post:: 2010-04-08
+   :author: tychoish
+   :tags: cyborg
+
+I've had a tab open for most of last week for a 128 gig solid state hard
+disk that would fit my laptop, and that had a list price that I was
+comfortable with, and a maker that I tend to consider reputable. I
+haven't ordered if for a number of reasons (not ready to swap drives,
+I'm using the wrong kind of file systems, given that my current drive
+works fine it's a bit more than I want to spend at the moment.) But the
+fact that these things are "affordable," and cost half what I thought
+they did, I've been thinking about my current stable of gear. This is,
+as those of you who think about technology in a way similar to me, not
+surprising. Here's what's on my mind in terms of new gadgets:
+
+Netbooks, the small laptops are awfully sexy and I kind of want one.
+This isn't logical: my real laptop is both small (12 inches,) has a full
+sized keyboard, decent resolution, and is totally functional: I use it
+for everything from the writing and production of this blog, to most of
+my day job, to all of my entertainment computing. I take my laptop
+everywhere, so a notebook doesn't make a lot of sense. Also the relative
+(and ongoing!) cost of maintain a full "tycho-stack" on more than one
+machine is difficult and not something I want to get into. This doesn't
+mean that I don't find all the netbooks extremely cute and desirable but
+I don't really need one. I suppose the interest in the SSD is part of an
+effort to make the existing laptop into more of a netbook.
+
+Also on the stack I'm approaching the time in my cell phone contract
+when it's time to upgrade again. I've been debating the Nokia N900 for
+some time. Though I've not played around with the n900 I think all of my
+"I wish my phone could do X," problems could be solved by using a phone
+that actually uses Debian. Except I've learned in the last week that the
+screen on the n900 is resistive, like all of the old Palm Pilots (say,)
+and not capacitive like the iPhone/iPod Touch/Android phones. Big
+bummer. Not only is the phone not subsidized, and expensive, but it uses
+outmoded technology for the most important component. Fail.
+
+At the same time it looks like Android phones are finally starting to
+make it to ATT. I'm not a good candidate for the iPhone (not being a
+reliable Mac User) and while I'm not sure about the enduring
+possibilities of the Android Platform, it seems like the best option at
+the moment.
+
+I like my blackberry, really, but the replacement for the blackberry I
+have at the moment? The same phone. Really. Well, I think it has a
+different model number and a slightly different trackball, but
+otherwise, it's the same. I mean... Throw me something here? Upgrades
+are supposed to be upgrades. I wonder if Blackberry smart-phones are
+today's Nokia S60.
+
+In any case, dithering about cell phones, netbooks, and SSDs aside,
+nothing else in my technology stable needs changing really. I geeked out
+a few weeks ago, and reorganized some of my mail config (but not much of
+it!), and I think if I had free time, I might redeploy the server to use
+nginx and prosody which are a bit more lightweight that my current
+stack, but that's all minor and will totally wait. It's a good place to
+be.
+

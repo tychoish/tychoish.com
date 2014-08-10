@@ -1,0 +1,68 @@
+==================================
+The Cathedral and the Bazaar Today
+==================================
+
+.. post:: 2008-12-24
+   :author: tychoish
+
+Just about everyone who spends any time studying open source is familiar
+with Eric S. Raymond's "[The Cathedral and the Bazaar]
+(http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain)."
+So familiar that both are generally known by abbreviations: esr and CatB
+respectively.
+
+To recap, it was a ground breaking essay written in the mid nineties
+that really drew attention to how novel the development of the Linux
+Kernel really was, and outlined a number of powerful "open" development
+practices that--because of the Internet--changed the way that the open
+source was able to function. It's a powerful essay, and my own interest
+in the direction that open source takes, stems directly from the ideas
+that esr presents here.
+
+The biggest problem with the CatB argument is that it's wrong.
+
+Strictly speaking, not wrong, so much as a bit logically fuzzy. What I
+mean, is that the argument tends to be a bit too idealistic and a bit
+too broad. So that, when working in its legacy it becomes (more)
+difficult to reject some of the assumptions that esr takes for granted.
+
+This isn't really a fatal problem: movements need documents and essays
+that are powerful and idealistic, and I think insofar as CatB encouraged
+the free software and open source movement to adopt more distributed and
+"open" practices, it was wildly successful.
+
+As the foundation of an intellectual study... it's less good. I do think
+that it would be useful--for me, for other people--to think about the
+nuisances that esr avoided, and thinking about ways that we can build
+upon those arguments.
+
+1. Examine the role of "commiter" rights, or "core" teams on the
+development process. While these "institutions" might not have the
+same sort of effect that outright "cathedral building," has on an
+open source project, but all projects have this sort of top-down
+organizing influence, and it's important to consider.
+
+2. Consider "distribution," and "federation," of both ownership and
+process, in open source. This means think about source management
+strategies (I think git is really important here) and the role of
+having a code base that's owned by one person/company/institution (a
+la GNU, Mozilla, and so forth) and the effect that having ownership
+be distributed (like the Kernel and many smaller projects.)
+
+3. Think about modular design and extensibility. I had a conversation
+with `Dan <http://www.brickswithoutclay.com/>`__ in the comments of
+my essay on
+`innovation <http://tychoish.com/rhizome/where-innovation-happens/>`__,
+and he brought up extensibility, which is worth bringing up again in
+a new context. Though its not a new idea, it's possible to write
+software so that nearly all of the customizations that a user might
+want to do are possible through an add-on system. Emacs has
+emacs-lisp, TextMate exposes the shell in the editor (and the bundles
+make TextMate very open-source like), firefox has extensions, Drupal
+has modules. I think these kinds of designs have a big impact on the
+kind of involvement an open source community is likely to develop.
+
+Have I missed anything?
+
+Onward and Upward!
+

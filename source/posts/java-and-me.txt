@@ -1,0 +1,45 @@
+===========
+Java and Me
+===========
+
+
+`Stan <http://schwertly.com>`__ reminded me recently that I have now
+written *two* posts about the Java programing and software development.
+For something that I admittedly don't particularly care for, and don't
+know a great deal about I've sure ranted a lot about it. I think I keep
+returning to think about Java because of how incredibly important Java
+is to the technology we use and how prevalent Java development remains.
+
+Maybe I've read too much by `Red Monk <http://redmonk.com/>`__ folks,
+but they tend take a very productive approach to these kinds of things.
+For reference, my posts on the subject are:
+
+-  `Caring about
+Java <http://criticalfutures.com/2011/02/caring-about-java/>`__ and
+
+-  `Where is Java
+Today <http://criticalfutures.com/2010/03/where-is-java-today/>`__
+
+Most "end-users" don't really care much about things like Java except
+when it doesn't work, as is the case when some component of the Java
+platform isn't present when you want to run a Java program or when you
+run a "cross platform" java application that doesn't really work as
+indented on your platform. For a long time these two issues were
+prevalent enough that being written in Java was a decernable quality of
+an application. In most situations, computer programs are just computer
+programs.
+
+With one exception.
+
+The way software developers use computers and interface with technology
+leads and constrains the technological reality for the rest of us. For
+instance, in Google Reader you can scroll up and down using the "j" and
+"k" keys, which is derived from interaction paradigm of the Vi text
+editors. It's great, but was almost certainly put into the software
+because a developer on the project was a Vi user. While a most features
+are driven by formal design processes, so much of the way software works
+is lead by the way developers think about software.
+
+Ultimately Java developers are what make Java is important, not just for
+me but for everyone.
+

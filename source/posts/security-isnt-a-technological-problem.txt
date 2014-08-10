@@ -1,0 +1,73 @@
+======================================
+Security Isn't a Technological Problem
+======================================
+
+.. post:: 2011-06-08
+   :author: tychoish
+   :tags: security, cyborg
+
+Security, of technological resources, isn't a technological problem. The
+security of technological resources and information is a problem with
+people.
+
+There.
+
+That's not a very ground breaking conclusion, but I think that the
+effects of what this might mean for people *doing security*\  [1]_ may
+be more startling.
+
+Beyond a basic standard of "writing and using quality software" and
+following sane administration practices, the way to resolve security
+issues is to fix the way people use and understand the implications of
+their use.
+
+There are tools that help control user behavior to greater or lesser
+degrees. Things like permissions control, management, auditing, and
+encryption, but they're just tools: they don't solve the human problems
+and the policy/practice issues that are the core of best security
+practice. Teaching people how their technology works, what's possible
+and what's not possible, and finally how to control their own data and
+resources is the key to increasing and providing security services to
+everyone.
+
+I think of this as the "free software solution," because it draws on the
+strengths and methods of free software to shape and enhance people's
+user experience and to improve the possible security of the public
+network as a whole. One of the things that has always drawn me to free
+software, and one of its least understood properties, deals with the
+power of source code to create an environment that facilitates education
+and inquiry. People who regularly use free software, I'd bet, have a
+better understanding of how technology works than people who don't, and
+it's not because free software users have to deal with less polished
+software (not terribly true), but has something to do with a different
+relationship between creators and users of software. I think it would be
+interesting to take this model and apply it to the "security problem."
+
+With luck, teaching more people to think about security processes will
+mean that users will generally understand:
+
+-  how encryption works, and be more amenable to managing their own
+cryptography identities and infrastructure. (PGP and SSH)
+
+-  how networking works on a basic level to be able to configure, set,
+and review network security. (LAN Administration, NetFilter)
+
+-  how passwords are stored and used, and what makes strong passwords
+that are easy to remember and difficult to break.
+
+-  how to control and consolidate identity systems to minimize social
+engineering vulnerabilities. (OpenID, OAuth, etc.)
+
+There's a lot of pretty basic knowledge that I think most people don't
+have. At the same time, I think it's safe to say that most of the
+difficult engineering questions have been solved regarding security,
+there's a bunch of tooling and infrastructure on the part of various
+services that would make better security practices easier to maintain
+(i.e. better PGP support in mail clients). In the mean time....
+
+Stay smart.
+
+.. [1]
+Security, being a process, rather than a product.
+`Cite <http://www.schneier.com/crypto-gram-0005.html>`__.
+

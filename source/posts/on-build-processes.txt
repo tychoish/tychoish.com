@@ -1,0 +1,46 @@
+==================
+On Build Processes
+==================
+
+.. post:: 2012-06-05
+   :author: tychoish
+   :tags: technology, programming
+
+I've found myself writing a fair number of Makefiles in the last few
+weeks: In part because it was a tool, hell a class of tools, that I
+didn't really understand and I'm a big sucker for learning new things,
+and in part because I had a lot of build process-related tasks to
+automate. But I think my interest is a bit deeper than that.
+
+Make and related tools provide a good metaphor for thinking about
+certain kinds of tasks and processes. Build systems are less about
+making something more efficient (though often it does do that,) and more
+about making processes reproducible and consistent. In some respects I
+think it's appropriate to think of build tools as.
+
+I've written here before about the merits of
+[[/technical-writing/compilation]] for documentation, and I think that
+still holds true: build processes add necessary procedural structure.
+Indirectly, having formalized build process, also makes it very easy to
+extend and develop processes as needs change. There's some up-front
+work, but it nearly always pays off.
+
+While I want to avoid thinking that everything is a Makefile-shaped
+nail, I think it's also probably true that there are a lot of common
+tasks in general purpose computing that are make shaped: format
+conversion, extracting and importing data, typesetting (and all sorts of
+publication related tasks,) archiving, system configuration, etc.
+Perhaps, more generic build tools need to be part of basic computer
+literacy. That's another topic for a much larger discussion.
+
+Finally, I want to raise (or re-raise) the question, that another
+function of build systems is reduce friction on common tasks and
+increase the likelihood that tasks will *get done*, and that people will
+need less technical background to do fundamentally mundane tasks. Build
+systems are absolutely essential for producing output from any really
+complex process because it's hard to reliably produce builds without
+them; for less complex processes they're essential because no one (or
+fewer people) do those tasks without some kind of support.
+
+Rough thoughts as always.
+

@@ -1,0 +1,84 @@
+===========================================
+The Blog is Dead, Long Live the (micro)Blog
+===========================================
+
+.. post:: 2009-07-24
+   :author: tychoish
+   :tags: cyberculture, blogging
+
+"I'm giving up blogging because twitter has more energy and satisfies my
+online media needs these days." I here *yet another* person say, as they
+give up the blog that they've been working on sporadically for the last
+4 or five years for a twitter account.
+
+*I'm* certainly not giving up blogging any time soon, but I hear people
+say these things. Not always so explicitly, and less often now that
+twitter has become more established, and less of a novelty. Nevertheless
+I think its high time to take a step back and take an account of "the
+state of blogging."
+
+While I think we need to consider the impact of twitter on the current
+state of blogging, I think the past five years and maybe the past seven
+or eight years (most of which have been without twitter) have had an
+even larger impact on the forum.
+
+I'm not sure, exactly, what the state of things are, but the following
+are the questions I'm asking myself.
+
+-  Are blogs simply the default way of publishing serialized/periodical
+content and updates to websites?
+
+-  Blogging, at least in my mind, grew out of online-journal
+communities, and while there's a lot of division between "bloggers"
+and "journalers" there's a lot of connection. Blogs can be
+self-referential, and first-person, and they can drift between
+multiple threads of the author(s) life. What's the state of
+blogging/journaling?
+
+-  Are blogs things that people grow, develop, and build over a long
+time, or are blogs commodities that serve a specific purpose attached
+to some other purpose. In other words, do people say, I want to
+create a blog, and they have a blog which meanders and continues for
+years, or have blogs become something that people start on a whim in
+response to communities or current events, and then discard when the
+mood passes?
+
+-  Do people read blogs? I have a good excuse for being more than a
+thousand post behind on my feed reader (moving across the country,
+starting a new job) but I'm pretty sure that blog reading isn't
+exactly flourishing. There are some really well read blogs, of
+course, but I don't know if people are really reading.
+
+My answers, if not obvious are: yes, strained and under-appreciated,
+more commodity and ephemeral than they used to be as a result of
+software development, and readership hasn't grown with the growth of the
+web.
+
+And then we introduce twitter.
+
+I've always seen twitter as an evolution of the "chat room" of "IRC" and
+phenomena like that, rather than an evolution of the blog, though it
+makes sense to think about twitter and related formats as being
+"microbiology." At the same time, I think microblogging becomes a viable
+format because it makes it "OK" for folks to post lots of little
+ephemeral thoughts, which is hard in conventional blogging, both in
+terms of time/energy, but also in terms of what the software and social
+convention will allow.
+
+In order for a blog post--just one--to be "successful," in today's
+world, it needs to be clever and well written, and it needs to hang
+around for long enough for people to notice it. It might also need to
+provide a useful analysis in combination with some useful information.
+
+In order for a post to twitter to be successful, it needs to be and
+timely (so that people see it), it probably needs to include some sort
+of link, and other people need to "Retweet" it a lot (which has got to
+be the most annoying thing in the short history of the medium).
+
+I don't think the "short form" is going to kill the long form, or that
+that has even begun to happen, but might twitter kill off some of the
+cruft that that's built up around commodity blogging? Does twitter
+reintegrate the journal-form with the more-objective form?
+
+Maybe. We'll see in a little while.
+

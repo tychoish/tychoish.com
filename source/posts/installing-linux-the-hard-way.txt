@@ -1,0 +1,64 @@
+===================
+On Installing Linux
+===================
+
+.. post:: 2013-01-08
+   :author: tychoish
+
+(*alternately, "Installing Linux the Hard Way*")
+
+I've had the occasion to install Linux on three systems in the recent
+past. People don't really install Linux anymore, it seems: with "cloud"
+instances and provisioning that's based on images means that no one
+really has to install Linux as such. My experiences have been mostly
+awful:
+
+-  I couldn't make my current laptop do a full LCM boot for the life of
+me. I partitioned the hard drive in the conventional way, and while
+the system works fine, I think non-abstracted disk volumes are bad
+practice.
+
+Disk partitioning and bootloaders remain the most difficult and
+frustrating aspect of the installation process, and there's no
+automation to support this work. Furthermore, even if it takes you a day
+to get it right, usually you don't have to mess with it for a year or
+two. Which makes it difficult to improve practically.
+
+The Debian installer will do this pretty well, but you can't get the
+auto partitioning tool to *not* use the full disk. Or I can't figure it
+out.
+
+-  I recently tried to install Arch Linux on an infrastructural system.
+Apparently in the last couple of months Arch totally did away with
+the *installation system*. So it dumps you into a mostly working
+shell and provides a couple of shell scripts to "automate" the
+installation.
+
+It's a great idea, as long as you never have to use it.
+
+Conversely, it's a great idea if you're *constantly* running
+installations.
+
+If you install Arch once every year or two, as I suspect is the most
+common case, good luck.
+
+I need to do it again: to update an older laptop to the 64-bit version
+of Arch, and I fear this is going to be terribly painful. I'm left with
+**two** main questions:
+
+1. Have we given up on the idea that desktop Linux may be viable for
+people who aren't already familiar with Linux, or who aren't software
+developers (or the next best thing?)
+
+2. Does the desktop experience actually matter?
+
+I'm asking this in a more narrow line of questioning. There's computer
+usage that revolves around things that happen in the browser, which is
+(probably) better suited for embeded systems (i.e. Android and iOS based
+devices,) and it's not clear where the line between that and "General
+Purpose" computing will fall.
+
+If we end up using embeded systems for most of the computers that we
+actually touch, this fundamentally changes the desktop experience as we
+know it, particularly for things like installation.
+

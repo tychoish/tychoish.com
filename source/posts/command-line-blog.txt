@@ -1,0 +1,44 @@
+=================
+Command Line Blog
+=================
+
+.. post:: 2008-09-24
+   :author: tychoish
+
+Ok, this is going to be a quick post, I swear.
+
+Truth is I do most of my blogging in
+`TextMate <http://www.texmate.com/>`__ using the amazing `blogging
+bundle <http://blog.macromates.com/2006/blogging-from-textmate/>`__.
+Basically it means that if I use the right template (which looks a lot
+like an email header, really), I can hit three keys and a few seconds
+later the post appears here on tychoish.
+
+Right.
+
+As part of tycho's great march torwards linux, I'm looking for something
+to fill this niche in my workflow.
+
+So basically does anyone know of/know how hard it would be to write a
+script that takes posts written in a specific format (to specify title,
+categories, tags, etc) and send them via xml-rpc to a given blog.
+
+Command line only is fine/preferable, and really I think the blogging.rb
+file in the TextMate bundle would probably make for a good core to write
+a script around, and I'm mostly interested in being able to send posts,
+editing as I archive posts on my machine, and I don't mind the web
+interface for editing. Getting the sending done would be mighty nice.
+
+This might make more sense if you've used the blogging bundle, as I
+think about it. Basically, the files when you pust get a ``Post: id``
+field, which if you post a file with that ID a second time, is treated
+as an edit.
+
+So in short:
+
+-  Simple text-based file format.
+-  Easy, non-editor specific posting commands.
+-  Multiple Blog support (again the TM bundle does this.)
+
+Yeah, that's about it. Thoughts?
+
