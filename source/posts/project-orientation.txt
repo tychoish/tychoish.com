@@ -49,29 +49,27 @@ to show for it:
 - I don't actually want to work as a blogger, and
 
 - most importantly the work I've done here doesn't really build to
-anything more than a half-dozen or so blog posts.
+  anything more than a half-dozen or so blog posts.
 
-While there are themes throughout all of the posts, the work isn't very
-rigorous, and it lacks a certain kind of depth.
+  While there are themes throughout all of the posts, the work isn't very
+  rigorous, and it lacks a certain kind of depth.
 
-So here I am, writing books-like objects things about technology that I
-hope are and will be useful for both technical and non-technical
-audiences, as well as compiling the little things that I hack on for
-other people to improve and benefit fromm, and writing fiction (that I
-may try and publish conventionally, but I may end up self-publishing
-using a similar proccess.) The goal is to:
+  So here I am, writing books-like objects things about technology that I
+  hope are and will be useful for both technical and non-technical
+  audiences, as well as compiling the little things that I hack on for
+  other people to improve and benefit fromm, and writing fiction (that I
+  may try and publish conventionally, but I may end up self-publishing
+  using a similar proccess.) The goal is to:
 
 - Write things with more rigor, including better citations and
-research.
+  research.
 
 - Work on projects that address topics more comprehensively.
 
 - Produce, document, and maintain scripts and other programs that I
-write rather than endlessly critique existing tools and approaches.
-In short, less talking about stuff and more *making stuff*.
+  write rather than endlessly critique existing tools and approaches.
+  In short, less talking about stuff and more *making stuff*.
 
 Let's see how this goes!
 
-.. [1]
-All content management systems are gnarly.
-
+.. [1] All content management systems are gnarly.

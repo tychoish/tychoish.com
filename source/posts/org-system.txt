@@ -127,11 +127,9 @@ Remember changes that, and it's great.
 
 Next time? Code. Cheers!
 
-.. [1]
-This terminology is going to drive me crazy. Basically, in the emacs
-world, "frame" refers to what most computer users would call a
-window. Ironically, in the `awesome window
-manager <http://awesome.naquadah.org/>`__ world, windows are called
-"clients." As if this weren't enough, a "window" in the emacs world
-refers to any given division of a frame.
-
+.. [1] This terminology is going to drive me crazy. Basically, in the
+   emacs world, "frame" refers to what most computer users would call
+   a window. Ironically, in the `awesome window manager
+   <http://awesome.naquadah.org/>`__ world, windows are called
+   "clients." As if this weren't enough, a "window" in the emacs world
+   refers to any given division of a frame.

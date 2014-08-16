@@ -65,8 +65,6 @@ otherwise, I'll see you next week.
 
 Cheers, tycho
 
-.. [1]
-I posted a bit about the Station Keeping project there, and would
-like to welcome anyone whose happened along this post and TealArt
-from there.
-
+.. [1] I posted a bit about the Station Keeping project there, and
+   would like to welcome anyone whose happened along this post and
+   TealArt from there.

@@ -49,23 +49,23 @@ it, I'm thinking that the display will be Chris' province.
 Now here's what we have to do:
 
 - Make the Archives Page More organized, probably using periodical
-(monthly) archives, drop down lists and the like. Right now the
-archive page is just a modified main index page, set to show all the
-entries.
+  (monthly) archives, drop down lists and the like. Right now the
+  archive page is just a modified main index page, set to show all the
+  entries.
 
 - Fix the categories page somehow.
 
 - Find some way to merge the linkage and main page log into one line of
-data. This will probably require some hacking to do properly.
+  data. This will probably require some hacking to do properly.
 
 - Implement Trackbacks. This one is for Chris' amusement only. The
-database has a trackback table, but the support hasn't been written
-into the file.
+  database has a trackback table, but the support hasn't been written
+  into the file.
 
 - Update the Entry page, and get commenting to work properly.
 
 - Get (more…) links to work so that extended entry text doesn't get
-shown on the main page.
+  shown on the main page.
 
 That list will be updated as we find new things to do, and hopefully as
 we complete old items.
@@ -85,4 +85,3 @@ the same thing. Where I was going with this train of though, is that
 writing an import script is going to be one major pain in the rear.
 
 So that's where we are now. Stay tuned (as always)!!
-

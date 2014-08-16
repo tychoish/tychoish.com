@@ -54,10 +54,12 @@ room (and time.)
 I think the major ideas that are running through my head are:
 
 - the difference between power and leadership
+
 - how democracies scale up and scale down to different group sizes.
+
 - the symbols associated with democracy, and the power of those symbols
-(maybe this could develop into a post for `the theory
-blog <http://www.theorysmucks.com/>`__, nu?)
+  (maybe this could develop into a post for `the theory
+  blog <http://www.theorysmucks.com/>`__, nu?)
 
 I really enjoy thinking (and talking!) about these sorts of *political*
 notions, but I'm always disappointed by the shape that most "political
@@ -69,38 +71,32 @@ microdemocraies? [5]_
 So, anyway, think about that, I look forward to hearing from you, and
 there'll be more knitting content soon; I promise.
 
-.. [1]
-I suppose this could be the sociology of open source, I'm
-uncommitted, particularly at the moment, on the subject. I'm just
-interested--idly mostly--in how these communities organize and
-motivate themselves. With some exceptions this kind of organizational
-structure isn't really supposed to work, but is so clearly does. It's
-not my *thing*, but it's interesting.
+.. [1] I suppose this could be the sociology of open source, I'm
+   uncommitted, particularly at the moment, on the subject. I'm just
+   interested--idly mostly--in how these communities organize and
+   motivate themselves. With some exceptions this kind of organizational
+   structure isn't really supposed to work, but is so clearly does. It's
+   not my *thing*, but it's interesting.
 
-.. [2]
-They said that these were all "first name people," as they're really
-well known, and generally pretty well liked in the community, and
-thus refered to only by their first names. eg, "Lary," "Guido," and
-"Linus."
+.. [2] They said that these were all "first name people," as they're really
+   well known, and generally pretty well liked in the community, and
+   thus refered to only by their first names. eg, "Lary," "Guido," and
+   "Linus."
 
-.. [3]
-He'd be a good one for FLOSS Weekly. Hrm.
+.. [3] He'd be a good one for FLOSS Weekly. Hrm.
 
-.. [4]
-I think your chances of being able to get mysql to add/support a new
-feature that you want (even if you have to write it yourself) is
-light years beyond the chances of getting Oracle, for instance, to
-add the new feature.
+.. [4] I think your chances of being able to get mysql to add/support a new
+   feature that you want (even if you have to write it yourself) is
+   light years beyond the chances of getting Oracle, for instance, to
+   add the new feature.
 
-.. [5]
-So, one thing that I want to squash immediately is a discussion of
-interpersonal drama, which though often political in content,
-particularly in numerically small groups is not particularly
-political in nature. For instance, the rumor is that there's
-generally a lot of "kernel politics," and drama in the linux kernel
-development (and other sorts of drama in other parts of the linux
-world,) and while this *might* be a product of these communities
-growing too large or of weak(er) leadership than is required, it's
-probably the case that this kind of drama is a byproduct of
-"community" rathe than the byproduct of any particular organization.
-
+.. [5] So, one thing that I want to squash immediately is a discussion of
+   interpersonal drama, which though often political in content,
+   particularly in numerically small groups is not particularly
+   political in nature. For instance, the rumor is that there's
+   generally a lot of "kernel politics," and drama in the linux kernel
+   development (and other sorts of drama in other parts of the linux
+   world,) and while this *might* be a product of these communities
+   growing too large or of weak(er) leadership than is required, it's
+   probably the case that this kind of drama is a byproduct of
+   "community" rathe than the byproduct of any particular organization.

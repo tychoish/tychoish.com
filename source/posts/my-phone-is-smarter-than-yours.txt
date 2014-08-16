@@ -26,78 +26,78 @@ comparison to how other phones work, I'm pretty happy with the way
 things are. Here are the Pros:
 
 - I like that I can run applications in the background on the
-Blackberry. Being able to get alerts when emails come in. Being able
-to leave a message that I'm writing, and go respond to another
-message, or make a call, or get an instant message or twiddle with
-Google maps, is really great.
+  Blackberry. Being able to get alerts when emails come in. Being able
+  to leave a message that I'm writing, and go respond to another
+  message, or make a call, or get an instant message or twiddle with
+  Google maps, is really great.
 
 - I enjoy that the phone is messaging centric. Furthermore, I really
-like that all messaging: Blackberry Messaging (IM), GoogleTalk
-(jabber), SMS Texting, and email all appear in one great queue.
-There's one big list of things, to check and that's *it*. The key to
-making this work is good filtering, but that's another point.
+  like that all messaging: Blackberry Messaging (IM), GoogleTalk
+  (jabber), SMS Texting, and email all appear in one great queue.
+  There's one big list of things, to check and that's *it*. The key to
+  making this work is good filtering, but that's another point.
 
 - I really enjoy the ecosystem of applications available for the phone.
-Blackberries like many smartphones (including the Android platform,
-after a fashion) use the J2ME (java) platform, which means and the
-platform is rather established. Sure the sexy things that people do
-with iPhones aren't there for my phone, and there are applications
-that I wish I had (better SSH, a text editor, some sort of file
-synching ability,) but the apps I have all work well, are stable, and
-integrate well with the system (ie. the messaging thing.)
+  Blackberries like many smartphones (including the Android platform,
+  after a fashion) use the J2ME (java) platform, which means and the
+  platform is rather established. Sure the sexy things that people do
+  with iPhones aren't there for my phone, and there are applications
+  that I wish I had (better SSH, a text editor, some sort of file
+  synching ability,) but the apps I have all work well, are stable, and
+  integrate well with the system (ie. the messaging thing.)
 
 - There are host of little things that are great. The charging cradle
-is an awesome thing. The fact that it's "smart" enough to alter its
-behavior based on if it's in the case or not in the case, so that if
-it's on your belt it does something different than if it's laying on
-your desk. It also has a "bedside" mode which I think is similarly
-brilliant. Not a *huge* feature, but exceedingly useful.
+  is an awesome thing. The fact that it's "smart" enough to alter its
+  behavior based on if it's in the case or not in the case, so that if
+  it's on your belt it does something different than if it's laying on
+  your desk. It also has a "bedside" mode which I think is similarly
+  brilliant. Not a *huge* feature, but exceedingly useful.
 
 - So Google does this thing with their `Sync
-Tools <http://www.google.com/mobile/products/sync.html#p=default>`__
-where your contacts from Gmail end up on your phone, and the sync is
-pretty seamless. No more futzing around with adding people by hand,
-no more worrying about backing up your database. I'm not thrilled
-about this reliance on Google, but it just works, and that is an
-intensely good thing. I do kind of wish that more things on the phone
-were like this.
+  Tools <http://www.google.com/mobile/products/sync.html#p=default>`__
+  where your contacts from Gmail end up on your phone, and the sync is
+  pretty seamless. No more futzing around with adding people by hand,
+  no more worrying about backing up your database. I'm not thrilled
+  about this reliance on Google, but it just works, and that is an
+  intensely good thing. I do kind of wish that more things on the phone
+  were like this.
 
 What I don't like?
 
 - The twitter apps don't integrate well into the messaging, and I can't
-think of a sane way to use twitter with my phone.
+  think of a sane way to use twitter with my phone.
 
 - There is no real XMPP/Jabber application aside from Google Talk that
-I've found to be useable. (Though I'd love to be proven wrong.) It
-would be nice to be able to connect to my general use XMPP account
-under a different resource and go from there.
+  I've found to be useable. (Though I'd love to be proven wrong.) It
+  would be nice to be able to connect to my general use XMPP account
+  under a different resource and go from there.
 
 - I think, as an interaction modality the trackball is a horrible idea,
-and I think something more joystick-like would be a much more useful
-and quick. Even, perhaps something that used the keyboard more
-effectively. As it is, all navigation and system operation uses the
-trackball, and that's kind of annoying. It's done as well as it
-could, but I think it could be better.
+  and I think something more joystick-like would be a much more useful
+  and quick. Even, perhaps something that used the keyboard more
+  effectively. As it is, all navigation and system operation uses the
+  trackball, and that's kind of annoying. It's done as well as it
+  could, but I think it could be better.
 
 - Email filtering is non-intuitive and difficult. Possible, certainly,
-but difficult. I'd like an interface to be able to exclude and block
-various senders on the phone itself.
+  but difficult. I'd like an interface to be able to exclude and block
+  various senders on the phone itself.
 
 - Configuration options are Byzantine and difficult to navigate. There
-are *so* many options particularly around the various noises that the
-phone will make that I've not bothered to really modify any of them.
-I might load up the beginning of "Thick as A Brick" for my ring tone
-(and part two for the alarm clock?), but for the most part there are
-too many chirps and chatters that the damn thing does, that it's hard
-to really modify it in any real way. It makes it interesting to be in
-close proximity to other Blackberry users for any length of time,
-because those noises get embedded in your consciousness.
+  are *so* many options particularly around the various noises that the
+  phone will make that I've not bothered to really modify any of them.
+  I might load up the beginning of "Thick as A Brick" for my ring tone
+  (and part two for the alarm clock?), but for the most part there are
+  too many chirps and chatters that the damn thing does, that it's hard
+  to really modify it in any real way. It makes it interesting to be in
+  close proximity to other Blackberry users for any length of time,
+  because those noises get embedded in your consciousness.
 
 - The Blackberry is pretty unfriendly to Free Software stuff, which is
-a shame, partly because of the whole lack of freedom issue, but
-almost more because *everything else I do with technology* uses free
-software stuff, that it's annoying that my existing stuff doesn't
-work right on the phone.
+  a shame, partly because of the whole lack of freedom issue, but
+  almost more because *everything else I do with technology* uses free
+  software stuff, that it's annoying that my existing stuff doesn't
+  work right on the phone.
 
 Would I get another Blackberry? Probably. Though the lack of a good SSH
 client is a bother, and I'd like something that did a bit better with
@@ -109,4 +109,3 @@ some sort of "non-smartphone:" this just seems, to me, to be "the way a
 phone should work." That's a pretty strong endorsement, I'd say.
 
 Onward and Upward!
-

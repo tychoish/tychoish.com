@@ -54,9 +54,7 @@ So there!
 
 Onward and `Upward <http://criticalfutures.com>`__!
 
-.. [1]
-One of my problems is that I often forget that short stories don't
-have to be super short--I sometimes just assume that short stories
-have to be 2000 words or less--for example, it's not unusual for a
-short story to be about 6,000 words.
-
+.. [1] One of my problems is that I often forget that short stories don't
+   have to be super short--I sometimes just assume that short stories
+   have to be 2000 words or less--for example, it's not unusual for a
+   short story to be about 6,000 words.

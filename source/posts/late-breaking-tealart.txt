@@ -26,10 +26,10 @@ for you all, and if you have any recommendations, I'm going to be making
 a few tweaks over the next week or so. On my list already is:
 
 - A template for static pages (ie. our profiles, that our outside of
-the loop) like our profiles.
+  the loop) like our profiles.
 - Narrow the comment entry field so that it doesn't spill over.
 - Make an adjustment to the category pages so that they display a
-complete, rather than a partial list of entries in a given category.
+  complete, rather than a partial list of entries in a given category.
 
 Anything else to add to this list is of course welcome. And if you have
 an idea about how to use a cool font that isn't Verdana, Times, or
@@ -79,4 +79,3 @@ the day in earnest. Have a good week, and I'll see you tomorrow for a
 new *Station Keeping.*
 
 Cheers, tycho
-

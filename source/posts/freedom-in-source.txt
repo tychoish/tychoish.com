@@ -58,14 +58,12 @@ ways for years to come, but you have to start somewhere.
 
 Onward and Upward!
 
-.. [1]
-The conventional wisdom is that this divide is represented by the
-division between the Free Software Foundation (in the freedom from
-corner) and the BSD/Apache Software Foundation (in the freedom to
-corner). This is of course simplifies the position of both of these
-institutions in the community, as both BSD folks and FSF folks
-advocate the "opposite" argument. For example, RMS' pro-hacker
-arguments are very much "freedom to" and I think the inspiration for
-BSD-style projects is often very much a "freedom from" kind of
-proposition
-
+.. [1] The conventional wisdom is that this divide is represented by
+   the division between the Free Software Foundation (in the freedom
+   from corner) and the BSD/Apache Software Foundation (in the freedom
+   to corner). This is of course simplifies the position of both of
+   these institutions in the community, as both BSD folks and FSF
+   folks advocate the "opposite" argument. For example, RMS'
+   pro-hacker arguments are very much "freedom to" and I think the
+   inspiration for BSD-style projects is often very much a "freedom
+   from" kind of proposition.

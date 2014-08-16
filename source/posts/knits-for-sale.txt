@@ -20,9 +20,8 @@ too small for other male bodied people, and many women as well.
 In fact, here's a picture of it on a dress form at the yarn store:
 
 .. figure:: http://farm3.static.flickr.com/2187/2149410325_a5f8d25308.jpg?v=0
-:alt: sweater
+   :alt: sweater
 
-sweater
 And it fit a friend, and she wanted it and was willing to pay me for it.
 And you know, given the fact that I was never going to use it... I sold
 it to her. For a honest sum, but still significantly less than what I
@@ -67,4 +66,3 @@ Or am I full of hot air and I should look for a real job, and just knit
 for fun
 
 Cheers, tycho
-

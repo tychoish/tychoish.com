@@ -63,49 +63,47 @@ In response, I've made a couple of tweaks to how I'm doing... pretty
 much everything. That is:
 
 - I've moved most of my open projects into a locally ruining and
-compiling `ikiwiki <http://ikiwiki.info>`__ instance. Both laptops
-have this setup, and there's a central remote to keep both (all?)
-machines in sync.
+  compiling `ikiwiki <http://ikiwiki.info>`__ instance. Both laptops
+  have this setup, and there's a central remote to keep both (all?)
+  machines in sync.
 
 - I'm using [[code/ikiwiki-tasklist]] to basically replicate the
-functions of ``org-agenda``. Basically this crawls the entire wiki
-looking for lines that begin with certain keywords and generates a
-"todo" page based on these notes. Really simple, incredibly useful
-and it solves much of my aggregation needs.
+  functions of ``org-agenda``. Basically this crawls the entire wiki
+  looking for lines that begin with certain keywords and generates a
+  "todo" page based on these notes. Really simple, incredibly useful
+  and it solves much of my aggregation needs.
 
 - I still have some stuff in org-mode: notes for the nearly-finished
-novel, lots of random old (legacy) data, 12 various open tasks, and
-org-capture. I'm thinking of pointing various org-capture templates
-at files in the wiki but haven't gotten there yet.
+  novel, lots of random old (legacy) data, 12 various open tasks, and
+  org-capture. I'm thinking of pointing various org-capture templates
+  at files in the wiki but haven't gotten there yet.
 
 - I've basically taken the "lots of little files," approach to my
-writing and work. I've not over-leaded the system yet. Each major
-project gets a page in the root level of the wiki for overview and
-planing, and then sub-pages for all related project files (if/as
-needed)
+  writing and work. I've not over-leaded the system yet. Each major
+  project gets a page in the root level of the wiki for overview and
+  planing, and then sub-pages for all related project files (if/as
+  needed)
 
-- It turns out that the
-`markdown-mode <http://jblevins.org/projects/markdown-mode/>`__ for
-emacs has gotten a few improvements since the last time I downloaded
-the file, including better support for wiki-links that are *mostly*
-compatible with ikiwiki. Also from the same developer
-`deft <http://jblevins.org/projects/deft/>`__ which implements a
-pretty nifty incremental search for text files in a given directory.
-So between these tools, ikiwiki, and the ``ikiwiki-tasklist`` there's
-support for the most important things.
+- It turns out that the `markdown-mode
+  <http://jblevins.org/projects/markdown-mode/>`__ for emacs has
+  gotten a few improvements since the last time I downloaded the file,
+  including better support for wiki-links that are *mostly* compatible
+  with ikiwiki. Also from the same developer `deft
+  <http://jblevins.org/projects/deft/>`__ which implements a pretty
+  nifty incremental search for text files in a given directory.  So
+  between these tools, ikiwiki, and the ``ikiwiki-tasklist`` there's
+  support for the most important things.
 
 - In terms of publishing, beyond ikiwiki for tychoish.com and the
-personal organization instance, I have a couple of other smaller
-wikis (also ikiwiki powered,) and I've been playing with
-`Sphinx <http://sphinx.pocoo.org/>`__ as publishing for more
-structured documents and resources (i.e. documentation, novels, and
-collections,) particularly those that need multiple formats and
-presentations.
+  personal organization instance, I have a couple of other smaller
+  wikis (also ikiwiki powered,) and I've been playing with
+  `Sphinx <http://sphinx.pocoo.org/>`__ as publishing for more
+  structured documents and resources (i.e. documentation, novels, and
+  collections,) particularly those that need multiple formats and
+  presentations.
 
 I'm sure there will be more shifts in the future, I'm sure. I think this
 is a good start. [[Thoughts, suggestions or discussion\|discourse]]?
 
-.. [1]
-This has pretty much always been the case. I think of it as a
-personal quirk.
-
+.. [1] This has pretty much always been the case. I think of it as a
+   personal quirk.

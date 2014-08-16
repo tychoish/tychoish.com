@@ -77,7 +77,5 @@ documentation, but there is much work yet to be done.
 
 Onward and Upward!
 
-.. [1]
-I should thank, or perhaps blame, a coworker for planting this idea
-in my mind.
-
+.. [1] I should thank, or perhaps blame, a coworker for planting this idea
+   in my mind.

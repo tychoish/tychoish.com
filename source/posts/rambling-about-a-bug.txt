@@ -25,26 +25,26 @@ migrating content to staging and production environments.
 Essentially the build happens in three-parts:
 
 1. In the first step, we generate a bunch of content from structured
-sources. Then we have to assemble a dependency graph of all the
-content and update the time stamp (i.e. ``mime``) all files that
-depend on files that have changed so that Sphinx will actually
-rebuild the files that need it.
+   sources. Then we have to assemble a dependency graph of all the
+   content and update the time stamp (i.e. ``mime``) all files that
+   depend on files that have changed so that Sphinx will actually
+   rebuild the files that need it.
 
-Most of this work happens in some sort of parallel execution model. I'll
-rant about concurrency in Python in a bit. Hold your questions.
+   Most of this work happens in some sort of parallel execution model. I'll
+   rant about concurrency in Python in a bit. Hold your questions.
 
 2. In the second step Sphinx runs. For testing purposes, this just
-builds one output (i.e. HTML), but our production builds need to
-build multiple output formats. When there are multiple builds, this
-runs each build in its own *thread*. Builds execute as sub-processes.
-Sphinx's processing has a two-phase approach: there's a read phase
-and a write phase. The read phase happens in one linear execution,
-but writing files can happen in a processing pool (if sphinx needs to
-write large numbers of multiple files.)
+   builds one output (i.e. HTML), but our production builds need to
+   build multiple output formats. When there are multiple builds, this
+   runs each build in its own *thread*. Builds execute as sub-processes.
+   Sphinx's processing has a two-phase approach: there's a read phase
+   and a write phase. The read phase happens in one linear execution,
+   but writing files can happen in a processing pool (if sphinx needs to
+   write large numbers of multiple files.)
 
 3. Finally we do a bunch of post-processing on the builds to move the
-files into the right places. This happens (typically) in a process
-pool that runs within the thread where the build executed.
+   files into the right places. This happens (typically) in a process
+   pool that runs within the thread where the build executed.
 
 See [[my overview of concurrency, and rant on Python
 concurrency\|/software-development/python-concurrency-rant]] for some
@@ -71,29 +71,29 @@ As I think about it, I've observed intermittent deadlocks from time to
 time, but they've gotten much worse recently:
 
 - We weren't doing automated building for a few weeks, for an unrelated
-reason and the problem shows up more frequently in automated builds.
+  reason and the problem shows up more frequently in automated builds.
 
 - We moved the execution of the Sphinx process to thread pools from
-process pools: they were already running in yielding operations, no
-need to double the overhead.
+  process pools: they were already running in yielding operations, no
+  need to double the overhead.
 
 - A few more operations moved to threads as well, again, mostly
-operations with lots of yielding, to reduce the overhead of processes
-and in one situation when a task was incompatible with processes
-(i.e. not pickelable.)
+  operations with lots of yielding, to reduce the overhead of processes
+  and in one situation when a task was incompatible with processes
+  (i.e. not pickelable.)
 
 Attempts
 --------
 
 - Make sure that the output of the sphinx build isn't filling the
-output buffering that subprocess is doing. Write output to a
-temporary file rather than using the buffer. (see
-`tempfile <http://docs.python.org/2/library/tempfile.html>`__)
+  output buffering that subprocess is doing. Write output to a
+  temporary file rather than using the buffer. (see
+  `tempfile <http://docs.python.org/2/library/tempfile.html>`__)
 
-- Use
-`Popen.poll() <http://docs.python.org/2/library/subprocess.html#subprocess.Popen.poll>`__
-to figure out when an operation is done rather than using a blocking
-call which might prevent the thread from ever waking up.
+- Use `Popen.poll()
+  <http://docs.python.org/2/library/subprocess.html#subprocess.Popen.poll>`__
+  to figure out when an operation is done rather than using a blocking
+  call which might prevent the thread from ever waking up.
 
 Current state.
 --------------
@@ -114,4 +114,3 @@ automated testing, so I consider it a (minor) success. Longer term, I
 think we need to streamline the execution and process management, but
 this is not crucial now s we can continue to increment toward that
 solution.
-

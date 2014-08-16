@@ -89,38 +89,38 @@ well, there are a number of inspirations for my switch. Some of them
 have to do with Awesome itself, but most of them have to do with me:
 
 - I want to learn Common Lisp. While I know that emacs' lisp, and
-Common Lisp aren't the same there are similarities, and Lua was
-something that I've put up with and avoided a lot while using
-Awesome. Its not that Lua is hard, quite the opposite, it's just that
-I don't have much use for it in *any other context*, and while I know
-enough to make awesome really work for me, my configuration is
-incredibly boring.
+  Common Lisp aren't the same there are similarities, and Lua was
+  something that I've put up with and avoided a lot while using
+  Awesome. Its not that Lua is hard, quite the opposite, it's just
+  that I don't have much use for it in *any other context*, and while
+  I know enough to make awesome really work for me, my configuration
+  is incredibly boring.
 
-Not that I think Common Lisp is exactly the kind of thing that is going
-to be incredibly useful to me in my career in the future, but like I
-said: I like the way Lisp makes me think, and it's a language that *can*
-be used for production-grade types of things, and it's a standard, it's
-not explained from a math-centric [1]_ perspective, and like I said
-reading lisp code makes sense to me. Go figure.
+  Not that I think Common Lisp is exactly the kind of thing that is
+  going to be incredibly useful to me in my career in the future, but
+  like I said: I like the way Lisp makes me think, and it's a language
+  that *can* be used for production-grade types of things, and it's a
+  standard, it's not explained from a math-centric [1]_ perspective,
+  and like I said reading lisp code makes sense to me. Go figure.
 
 - There are several of quirks with Awesome which get to me:
 
 - If you change your configuration, you have to restart the window
-manager. Which wouldn't be a big problem except...
+  manager. Which wouldn't be a big problem except...
 
 - When you restart, if you have a window that appears in more than one
-tag, the window only appears on one tag.
+  tag, the window only appears on one tag.
 
 - The commands for awesome are by default pretty "vimmy," and while my
-current config has been properly "emacsified," you have to do a lot
-of ugliness to get emacs-style chords (e.g. "C-x C-r o a f" or
-Control-x, Control-R, followed by o, a, and f.) which I kind of
-like.)
+  current config has been properly "emacsified," you have to do a lot
+  of ugliness to get emacs-style chords (e.g. "C-x C-r o a f" or
+  Control-x, Control-R, followed by o, a, and f.) which I kind of
+  like.)
 
 - Because one of my primary environments is running a virtual machine
-(in Virtual Box) on an OS X host, I've run into some problems around
-using the Command/Windows/Mod4 key, and there's no really good way to
-get around this in awesome.
+  (in Virtual Box) on an OS X host, I've run into some problems around
+  using the Command/Windows/Mod4 key, and there's no really good way
+  to get around this in awesome.
 
 So that's my beef, along with the change in usage pattern that I talked
 about last time, which is probably the biggest single factor. I'm not
@@ -129,13 +129,11 @@ terms of thoughts, but I've been tinkering in the laptop, and it fits my
 brain, which is rather nice. I'll post more as I progress. For now I
 think I better cut this off.
 
-.. [1]
-This is my major problem with haskell. It looks awesome, I sort of
-understand it when people talk about it, but every "here's how to use
-haskell" guide I read is fully of what I think are "simple" math
-examples, of how it works, but I have a hard time tracking the math
-in the examples, so I have a hard time grasping the code and
-programming lessons because the examples are too hard for me. This is
-the problem of having geeked out on 20th continental philosophy in
-college and not math/programming, I think.
-
+.. [1] This is my major problem with haskell. It looks awesome, I sort
+   of understand it when people talk about it, but every "here's how
+   to use haskell" guide I read is fully of what I think are "simple"
+   math examples, of how it works, but I have a hard time tracking the
+   math in the examples, so I have a hard time grasping the code and
+   programming lessons because the examples are too hard for me. This
+   is the problem of having geeked out on 20th continental philosophy
+   in college and not math/programming, I think.

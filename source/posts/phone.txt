@@ -8,14 +8,6 @@ Phone
 A Conversation with friend Andy (but, not we should point out, `this
 andy <http://tychoish.com/chris/>`__.)
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 **Andy:** You know we've never talked on the phone.
 
 **tycho:** yes, blessedly. Don't take this personally but the phone is
@@ -41,4 +33,3 @@ behavior could get you locked up.
 historical crime I'd much rather it be sodomy...
 
 **Andy:** Amen.
-

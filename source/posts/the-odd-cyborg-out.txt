@@ -24,21 +24,21 @@ I'm not expert, having only really used it for a few days but there are
 a few things that have won me over:
 
 - It's mostly backwards compatible with bash. So, except for the stuff
-that configured my prompt, I was able to copy over my old ``.bashrc``
-file pretty much as is. There's been no real "brain adjustment" from
-all my old bash habits.
+  that configured my prompt, I was able to copy over my old
+  ``.bashrc`` file pretty much as is. There's been no real "brain
+  adjustment" from all my old bash habits.
 
 - It's faster. You know, this is the kind of thing taht you don't
-believe, "my terminal is faster than your terminal" is kinda lame
-because bash is pretty peppy compared to GUI stuff. I mean what, bash
-is a 300-400 *kb*, how slow can it be? The answer is, zsh just feels
-faster. This seems to be a quasi universal experience.
+  believe, "my terminal is faster than your terminal" is kinda lame
+  because bash is pretty peppy compared to GUI stuff. I mean what,
+  bash is a 300-400 *kb*, how slow can it be? The answer is, zsh just
+  feels faster. This seems to be a quasi universal experience.
 
 - It does tab-completion within commands. This is seriously amazing,
-because while command completion and path completion is awesome in
-bash, you still have to remember all of the sub-commands. This is
-particularly rough for big commands like "``git``\ " and
-"``apt-get``\ " or "``apt-cache``\ ". Very awesome.
+  because while command completion and path completion is awesome in
+  bash, you still have to remember all of the sub-commands. This is
+  particularly rough for big commands like "``git``\ " and
+  "``apt-get``\ " or "``apt-cache``\ ". Very awesome.
 
 Getting up the courage to switch and to rewrite my prompt was something
 that took a little bit of doing, but now I'm happy, and I strongly
@@ -88,4 +88,3 @@ solved by using multiplexed applications. And that leads me to Stump.
 
 I see that I probably need to spend a little more time talking about
 this tiling window manager stuff again. Stay tuned!
-

@@ -22,67 +22,75 @@ is often decided by features in a number of key locations. In list form
 they are:
 
 - **Sleeve length**: sleeves that are even a smudge too short irritate
-me. It's harder to make a sleeve too long than it to make it too
-short. As a corollary to this, it's also important that sleeves not
-be too narrow: a sleeve that can't comfortably accommodate a layer or
-two can be problematic.
-- **Collar**: I'll touch on this more in another issue, but I find that
-collars that are too tall or that fit too closely, make sweaters feel
-too warm, and/or itchy, and are thus to be avoided. In fact I
-"developed" an open collar or placated collar (I've seen them called
-"Henley necked" as well) style that helps alleviate this issue.
-- **Riding up in the back**: It's a little known fact that your back is
-slightly narrower and slightly longer than your front. It's one of
-those quirks of how we are shaped. To compensate, for this, when ever
-possible I think it's useful to make the back of a sweater slightly
-longer than the front. Typically I do this with short-rows, but there
-are other possible methods.
+  me. It's harder to make a sleeve too long than it to make it too
+  short. As a corollary to this, it's also important that sleeves not
+  be too narrow: a sleeve that can't comfortably accommodate a layer
+  or two can be problematic.
+
+- **Collar**: I'll touch on this more in another issue, but I find
+  that collars that are too tall or that fit too closely, make
+  sweaters feel too warm, and/or itchy, and are thus to be avoided. In
+  fact I "developed" an open collar or placated collar (I've seen them
+  called "Henley necked" as well) style that helps alleviate this
+  issue.
+
+- **Riding up in the back**: It's a little known fact that your back
+  is slightly narrower and slightly longer than your front. It's one
+  of those quirks of how we are shaped. To compensate, for this, when
+  ever possible I think it's useful to make the back of a sweater
+  slightly longer than the front. Typically I do this with short-rows,
+  but there are other possible methods.
+
 - **Gussets**: These are little diamonds that you can insert in your
-sweater/knitting to create a little extra room to accommodate
-anatomical features. Most people know about gussets from knitting
-socks, where gussets are frequently added to help accommodate the
-ankle/heel. Additionally, I find gussets greatly increase the
-wearability of a sweater when they're included at the base of the
-underarm. This increases the mobility of the sleeve, and can help
-prevent sweaters from being pulled up when you move your arms about.
+  sweater/knitting to create a little extra room to accommodate
+  anatomical features. Most people know about gussets from knitting
+  socks, where gussets are frequently added to help accommodate the
+  ankle/heel. Additionally, I find gussets greatly increase the
+  wearability of a sweater when they're included at the base of the
+  underarm. This increases the mobility of the sleeve, and can help
+  prevent sweaters from being pulled up when you move your arms about.
+
 - **Cuffs**: This is, I suppose a corollary of *sleeve length*, but
-having a cuff that I'm comfortable with is generally pretty important
-to me. I'm not one for bell sleeve cuffs, so if you are you might
-want to ignore this matter of personal taste. I like it when cuffs
-are noticeably tighter than the reset of the sleeve, and furthermore,
-I like it when the sleeve, doesn't need the cuff in order to be long
-enough. This can be over done, on both counts, but honest to god
-cuffs are important to me. Rant over.
+  having a cuff that I'm comfortable with is generally pretty
+  important to me. I'm not one for bell sleeve cuffs, so if you are
+  you might want to ignore this matter of personal taste. I like it
+  when cuffs are noticeably tighter than the reset of the sleeve, and
+  furthermore, I like it when the sleeve, doesn't need the cuff in
+  order to be long enough. This can be over done, on both counts, but
+  honest to god cuffs are important to me. Rant over.
+
 - **Vertical Lines**: A lot of knitting, the notable exception being
-cable work/aran sweaters, tend towards strong horizontal lines. This
-follows from the fact that we tend to knit in rows or rounds that
-cross the sweater in horizontal rounds. If you change colors
-regularly, horizontal stripes are produced, for instance. If you
-select a handful of patterns and knit them successively, once again,
-horizontal stripes are produced. This can be overcome, through a
-number of clever techniques: adapting patterns so that you
-rows/rounds wrap around the sweater in vertical lines (easier than
-you might think, conceptually, but I've never had the desire myself),
-or by knitting ribbing patterns which tend to have a vertical
-element, or by arranging different patterns across a garment and
-stacking them (like cables). It's more or less true that some people
-look better than other people with horizontal lines, but I'd say its
-even more true that all people look better in garments that have
-vertical lines than in garments that have horizontal lines.
+  cable work/aran sweaters, tend towards strong horizontal lines. This
+  follows from the fact that we tend to knit in rows or rounds that
+  cross the sweater in horizontal rounds. If you change colors
+  regularly, horizontal stripes are produced, for instance. If you
+  select a handful of patterns and knit them successively, once again,
+  horizontal stripes are produced. This can be overcome, through a
+  number of clever techniques: adapting patterns so that you
+  rows/rounds wrap around the sweater in vertical lines (easier than
+  you might think, conceptually, but I've never had the desire
+  myself), or by knitting ribbing patterns which tend to have a
+  vertical element, or by arranging different patterns across a
+  garment and stacking them (like cables). It's more or less true that
+  some people look better than other people with horizontal lines, but
+  I'd say its even more true that all people look better in garments
+  that have vertical lines than in garments that have horizontal
+  lines.
+
 - **Yarn Quality**:I often find myself falling into the trap wherein I
-say to myself "you knit because it's fun, not to produce things, and
-it doesn't matter what yarn you use, so buy something cheap because
-you're broke." And in truth, I am a college student, so I don't
-exactly have money coming out of my ears, but I think there is a
-difference between making all your sweaters out of crap yarn, and
-knitting exclusively in quiviet and cashmere. There is a lot of very
-solid yarn out there, that's of good quality, that's reasonably
-affordable. Be smart, and know that spending 10-20 dollars more on a
-sweater's worth of yarn, can make the difference between a sweater
-that you love to wear, and a sweater that you're ambivalent about.
-I've found, that keeping my yarn stash fairly slim, and buying yarn
-for only the next project (and sometimes two) makes this a lot
-easier.
+  say to myself "you knit because it's fun, not to produce things, and
+  it doesn't matter what yarn you use, so buy something cheap because
+  you're broke." And in truth, I am a college student, so I don't
+  exactly have money coming out of my ears, but I think there is a
+  difference between making all your sweaters out of crap yarn, and
+  knitting exclusively in quiviet and cashmere. There is a lot of very
+  solid yarn out there, that's of good quality, that's reasonably
+  affordable. Be smart, and know that spending 10-20 dollars more on a
+  sweater's worth of yarn, can make the difference between a sweater
+  that you love to wear, and a sweater that you're ambivalent about.
+  I've found, that keeping my yarn stash fairly slim, and buying yarn
+  for only the next project (and sometimes two) makes this a lot
+  easier.
 
 These are my "wines" and sensitive points regarding knitting sweaters
 for myself. In a lot of respects these wines/concerns form the basis of
@@ -94,4 +102,3 @@ about sock knitting, or other objects too. And as always, I'd love to
 hear your input or suggestions, in the comments or by email.
 
 Be well and Be Warm, tycho(ish)
-

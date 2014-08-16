@@ -33,13 +33,10 @@ Since I already know what browsers you use the survey then should be:
 - Why do you use the browser you use, particularly if its IE or IE 6
 
 - Do you prefer a brwoser that's fast, but light on features (All
-WebKit browsers henceforth deployed), or a slower but featured filled
-browser (Firefox?)
+  WebKit browsers henceforth deployed), or a slower but featured filled
+  browser (Firefox?)
 
 - Are you trying to use your browser less than you currently do (taking
-work offline,) or more (putting more things into the cloud)?
+  work offline,) or more (putting more things into the cloud)?
 
 - What do you think the "next big thing in browsers is?"
-
-
-

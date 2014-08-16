@@ -83,12 +83,9 @@ sure.
 
 cheers, tycho
 
-.. [1]
-*whadda want?* it's a blog, consider it off the cuff theorizing.
+.. [1] *whadda want?* it's a blog, consider it off the cuff theorizing.
 
-.. [2]
-Project Gutenberg publishes all of their public domain texts using
-ASCII text, which while arguably the most accessible digital format,
-doesn't have a lot of the "rich" formating, or the paper-like
-qualities that you might want.
-
+.. [2] Project Gutenberg publishes all of their public domain texts using
+   ASCII text, which while arguably the most accessible digital format,
+   doesn't have a lot of the "rich" formating, or the paper-like
+   qualities that you might want.

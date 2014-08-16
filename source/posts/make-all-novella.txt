@@ -23,9 +23,9 @@ So I have this script that:
 - Copies the source files into the publication directory.
 
 - Generates: full html files for every chapter, plain text files for
-every chapter, a full html edition of the complete text, a plain text
-edition of the complete text, a minimally styled html edition of the
-complete text.
+  every chapter, a full html edition of the complete text, a plain text
+  edition of the complete text, a minimally styled html edition of the
+  complete text.
 
 - Keeps these editions synchronized.
 
@@ -43,4 +43,3 @@ text <http://git.cyborginstitute.com/?p=knowing-mars.git;a=summary>`__
 consider the
 `gitweb <http://git.cyborginstitute.com/?p=knowing-mars.git;a=summary>`__.
 I would be very grateful for any feedback or input.
-

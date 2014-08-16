@@ -27,16 +27,16 @@ workstation, which is of course running OS X 10.5 Leopard, by default.
 Here are the challenges I found myself facing:
 
 - OS X is a great operating system, but I'm not a mac guy anymore, much
-to my surprise. I installed quicksilver pretty early on, but the
-truth is that my head isn't shaped that way any more. The mouse
-frustrates me, and all the things that make OS X great I don't really
-use.
+  to my surprise. I installed quicksilver pretty early on, but the
+  truth is that my head isn't shaped that way any more. The mouse
+  frustrates me, and all the things that make OS X great I don't really
+  use.
 
 - All my other machines and working environments for the past while
-have been linux based, and I've basically come to the conclusion that
-having *one* environment that's shared between a large number of
-boxes is preferable to having different and unique operating
-environments.
+  have been linux based, and I've basically come to the conclusion that
+  having *one* environment that's shared between a large number of
+  boxes is preferable to having different and unique operating
+  environments.
 
 For a long time, I got the unified operating environment by virtue of
 only using one portable computer; now I just keep my laptop and desktop
@@ -52,7 +52,7 @@ So if I need to run Linux, there are really only three options:
 2. Set up a dual boot OS X/Linux system, and switch as I need to.
 
 3. Run Linux in some sort of virtual machine environment like VM Ware or
-VirtualBox.
+   VirtualBox.
 
 Option one is simple, and I liked the thought of it, but it seems like
 such a waste and what if there was some mac-specific app that I wanted
@@ -80,4 +80,3 @@ of a production lag on the blog.*)
 --------------
 
 I think that's sufficient introduction. There'll be more, don't worry.
-

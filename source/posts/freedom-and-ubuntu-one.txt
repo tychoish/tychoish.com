@@ -17,21 +17,21 @@ same time there's been a lot of hubbub in the community over this
 release. It's complex but the issues in the complaint are:
 
 1. UbuntuOne is a non-free project, in that, the software that's
-powering the service (on the servers) is not being distributed (in
-source, or binary) to the users of the service. While the client is
-being open sourced, the server component is crucial important to
-`users' autonomy <http://www.autonomo.ux>`__.
+   powering the service (on the servers) is not being distributed (in
+   source, or binary) to the users of the service. While the client is
+   being open sourced, the server component is crucial important to
+   `users' autonomy <http://www.autonomo.ux>`__.
 
 2. Ubuntu, if we are to believe what Canonical says, is the name of a
-community developed Linux distribution based on Debian. Canonical, is
-a for-profit organization, and it's using the Ubuntu name (the
-trademark to which it owns) for a non-free software project.
+   community developed Linux distribution based on Debian. Canonical, is
+   a for-profit organization, and it's using the Ubuntu name (the
+   trademark to which it owns) for a non-free software project.
 
 3. Canonical has also gone back on a promise to release the software
-that powers `LaunchPad <http://www.launchpad.net>`__ under the AGPL.
-While this isn't directly related to the flap surrounding Ubuntu One,
-it allows us to (potentially) contextualize the ongoing actions of
-Canonical with regards to network services.
+   that powers `LaunchPad <http://www.launchpad.net>`__ under the AGPL.
+   While this isn't directly related to the flap surrounding Ubuntu One,
+   it allows us to (potentially) contextualize the ongoing actions of
+   Canonical with regards to network services.
 
 My response comes in three parts.
 
@@ -61,13 +61,13 @@ together something to keep your files synced between more than one
 machine just requires a few pieces:
 
 - something that runs on your computer in the background that keeps
-track of when files change so that it can send the changes to the
-server. Conversely this component can also just run on a timer and
-send changes ever x amount of time (five minutes? if the computer
-isn't idle.)
+  track of when files change so that it can send the changes to the
+  server. Conversely this component can also just run on a timer and
+  send changes ever x amount of time (five minutes? if the computer
+  isn't idle.)
 
 - something that runs on the server that can send changes to other
-computers when the other computers say ("Has anything changed?").
+  computers when the other computers say ("Has anything changed?").
 
 Done. I'm no programmer--as I'm quick to attest--but I think that I
 could probably (with some help,) pull together a tutorial for how to get
@@ -137,28 +137,27 @@ weeks now, but I swear it all fell into my lap here. Some basic
 thoughts, as conclusion for this already too lengthy essay:
 
 - The UbuntuOne service, like most free network service, is at it's
-core providing a systems administration service rather than some sort
-of software product. The software, is relatively trivial compared to
-making sure the servers are running/accessible/secure
+  core providing a systems administration service rather than some sort
+  of software product. The software, is relatively trivial compared to
+  making sure the servers are running/accessible/secure
 
 - The way to offer users' autonomy is to develop easy/free systems
-administration tools, and to educate them on how to run these
-systems.
+  administration tools, and to educate them on how to run these
+  systems.
 
 - Corporations, while important contributors to the free software
-community, also inevitably serve their own interests, while it's
-disappointing to see Canonical go down the proprietary track, it's
-neither surprising nor a betrayal. Canonical has put on a good show
-and accomplished a great deal, but in retrospect we can imagine a
-number of things that they could have done differently from *way
-back* that would have changed the current situation. (eg. Worked
-within the Debian Project, developed a tighter business model, etc.)
+  community, also inevitably serve their own interests, while it's
+  disappointing to see Canonical go down the proprietary track, it's
+  neither surprising nor a betrayal. Canonical has put on a good show
+  and accomplished a great deal, but in retrospect we can imagine a
+  number of things that they could have done differently from *way
+  back* that would have changed the current situation. (eg. Worked
+  within the Debian Project, developed a tighter business model, etc.)
 
 - Free software, is very pro-business, but it's not very
-pro-big-business, as "native free software business models" are built
-on personal reputations rather than tangible products. It translates
-to making an honest living pretty well, but it doesn't convert very
-well into making a lot of money quickly.
+  pro-big-business, as "native free software business models" are built
+  on personal reputations rather than tangible products. It translates
+  to making an honest living pretty well, but it doesn't convert very
+  well into making a lot of money quickly.
 
 Anyway, I better get going. Food for thought.
-

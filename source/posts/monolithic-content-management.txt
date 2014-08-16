@@ -67,17 +67,15 @@ Thoughts?
 
 Cheers!
 
-.. [1]
-As I understand it, the debate is: micro kernels have sophisticated
-and elegant designs, that are highly modular and flexible, but suffer
-from poor performance (increased communications overhead) and more
-places where fault can occur (as there are more "places"). In
-contrast, monolithic kernels are "old school" and not innately
-flexible or modular, but they're fast, and once sufficiently
-developed, they either work well or they don't work at all. The
-design difference is that monolithic kernels provide all sorts of
-services (networking, file systems, display drivers) themselves in
-their own "space," while micro-kernels just handle the lowest level
-internally and rely on other programs to do things like networking,
-and file systems, and device drivers. As I understand it.
-
+.. [1] As I understand it, the debate is: micro kernels have sophisticated
+   and elegant designs, that are highly modular and flexible, but suffer
+   from poor performance (increased communications overhead) and more
+   places where fault can occur (as there are more "places"). In
+   contrast, monolithic kernels are "old school" and not innately
+   flexible or modular, but they're fast, and once sufficiently
+   developed, they either work well or they don't work at all. The
+   design difference is that monolithic kernels provide all sorts of
+   services (networking, file systems, display drivers) themselves in
+   their own "space," while micro-kernels just handle the lowest level
+   internally and rely on other programs to do things like networking,
+   and file systems, and device drivers. As I understand it.

@@ -5,14 +5,6 @@ Queer Moments
 .. post:: 2007-09-07
    :author: tychoish
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 1
 -
 
@@ -57,4 +49,3 @@ something. I dunno, there's a paper in there for someone, but in any
 case, while I might have nodded and smiled along, I didn't really say
 anything, despite sort of wanting to "join rank." as it were. Which felt
 almost as awkward as the moment in the first class.
-

@@ -22,48 +22,47 @@ suggestions\|discourse]] on this topic would be most appreciated.
 So what have I been up to? Well...
 
 - I got back into writing fiction this week after several weeks away. I
-was in a difficult part of the story and life got very... full... and
-I stopped writing regularly. These things happen, but it's good to be
-back at least some.
+  was in a difficult part of the story and life got very... full... and
+  I stopped writing regularly. These things happen, but it's good to be
+  back at least some.
 
-After the work I did just last night, I realize that I'm much closer to
-the end of this novel than I had thought. Even if things go very slowly
-for the next few months, I think I'll be able to get this thing done by
-the end of May. I just have to write about a thousand words to finish
-Chapter 11, and there are three to four little vignettes in chat per 12
-to wrap the whole thing up. And it's going to be *awesome*.
+  After the work I did just last night, I realize that I'm much closer to
+  the end of this novel than I had thought. Even if things go very slowly
+  for the next few months, I think I'll be able to get this thing done by
+  the end of May. I just have to write about a thousand words to finish
+  Chapter 11, and there are three to four little vignettes in chat per 12
+  to wrap the whole thing up. And it's going to be *awesome*.
 
-I'm super excited to be done with this project and to be able to spend
-some time cleaning it up and making it an awesome text, but also being
-able to work on making other things I've written better, and to *be able
-to write new things*, with my undivided attention.
+  I'm super excited to be done with this project and to be able to spend
+  some time cleaning it up and making it an awesome text, but also being
+  able to work on making other things I've written better, and to *be able
+  to write new things*, with my undivided attention.
 
 - I've updated the [[essay/anti-rodentia]] and the associated
-[[essay/anti-rodentia/discourse]] page with some changes that I think
-make the system work much better.
+  [[essay/anti-rodentia/discourse]] page with some changes that I think
+  make the system work much better.
 
 - I've upgraded to Firefox 4, which I really like a lot: it's much
-faster, it's much more minimal (visually) which is great. Also all of
-my plugins and extensions work without issue. Good job!
+  faster, it's much more minimal (visually) which is great. Also all of
+  my plugins and extensions work without issue. Good job!
 
 - I went through a blast from my past when I pulled together the
-[[queer-theories]] page, which does some--at this point utterly
-redundant--definitional work about what it means to be queer, and
-potential limitations on queer identity/politics in the era of a
-broadly defined queer.
+  [[queer-theories]] page, which does some--at this point utterly
+  redundant--definitional work about what it means to be queer, and
+  potential limitations on queer identity/politics in the era of a
+  broadly defined queer.
 
 - I've started adding recurring tasks to keep me on track with writing
-and posting entries to this post. This means I don't end up posting
-things *months* after I write them. As was the case with [[Mutt Sucks
-Less\|essay/mutt-sucks-less]], a post I wrote many months ago and
-posted with some revisions last week.
+  and posting entries to this post. This means I don't end up posting
+  things *months* after I write them. As was the case with [[Mutt Sucks
+  Less\|essay/mutt-sucks-less]], a post I wrote many months ago and
+  posted with some revisions last week.
 
 - I made a [[folk]] page for frequent comm enter and discourse
-participant [[matt\|madalu]] that includes a snippet which makes a
-list (and RSS feed!) of all pages that link to "madalu" or are tagged
-with "madalu" (his handle). You can see this by editing the page, and
-use it when making your own [[folk]] pages. Which you should
-*totally* do.
+  participant [[matt\|madalu]] that includes a snippet which makes a
+  list (and RSS feed!) of all pages that link to "madalu" or are tagged
+  with "madalu" (his handle). You can see this by editing the page, and
+  use it when making your own [[folk]] pages. Which you should
+  *totally* do.
 
 Have a good weekend!
-

@@ -88,33 +88,32 @@ Which was basically Project Xanadu, on an interstellar scale. The
 features that my characters take advantage of:
 
 - **Distribution and federation of copies:** I have ansible technology
-in the story, but even so, given the trajectories of data storage
-technology it makes more sense to store local copies of "the
-database" than it does, to route requests to the source of the data,
-or even your nearest peer for records. Assume massive storage
-capability, advanced rsync (a contemporary tool synching huge blobs
-of data across a network), and periods of, potentially, years when
-various ships, outposts, and systems would be out of contact with
-each-other. Nah, store stuff locally.
+  in the story, but even so, given the trajectories of data storage
+  technology it makes more sense to store local copies of "the
+  database" than it does, to route requests to the source of the data,
+  or even your nearest peer for records. Assume massive storage
+  capability, advanced rsync (a contemporary tool synching huge blobs
+  of data across a network), and periods of, potentially, years when
+  various ships, outposts, and systems would be out of contact with
+  each-other. Nah, store stuff locally.
 
 - **Versioning** Having a data store that stores data along a temporal
-axis (versions across time) is handy when you're working on your
-computer and you accidentally delete something you didn't mean to.
-It's absolutely essential if you have lots of nodes that aren't
-always in constant contact. It means you don't loose data after
-merges, it solves some concurrency problems, interstellar data would
-*require* this.
+  axis (versions across time) is handy when you're working on your
+  computer and you accidentally delete something you didn't mean to.
+  It's absolutely essential if you have lots of nodes that aren't
+  always in constant contact. It means you don't loose data after
+  merges, it solves some concurrency problems, interstellar data would
+  *require* this.
 
 - **Structure:** The contemporary world wide web (The Web) is able to
-function without any real structure, because we've imported data
-visualization from (more) analog formats (pamphlet layout/design;
-pages; index-like links, desktop metaphors), and we've developed some
-effective ad-hoc organizations (google, tags, microformats) which
-help ameliorate the disorganization, but the truth is that the
-web--as a data organization and storage tool--is a mess. My shtick
-about curation addresses this concern in one way. Creating a "new
-web" that had very strict page-structure requirements would be
-another. In the novel, their database grew out of the second option.
+  function without any real structure, because we've imported data
+  visualization from (more) analog formats (pamphlet layout/design;
+  pages; index-like links, desktop metaphors), and we've developed some
+  effective ad-hoc organizations (google, tags, microformats) which
+  help ameliorate the disorganization, but the truth is that the
+  web--as a data organization and storage tool--is a mess. My shtick
+  about curation addresses this concern in one way. Creating a "new
+  web" that had very strict page-structure requirements would be
+  another. In the novel, their database grew out of the second option.
 
 The future is here folks, but you knew that.
-

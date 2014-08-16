@@ -68,13 +68,13 @@ grow.
 The current state of the art isn't great:
 
 - My current blogging solution, `ikiwiki <http://ikiwiki.info>`__ does
-incremental rebuilds but doesn't rebuild in parallel.
+  incremental rebuilds but doesn't rebuild in parallel.
 
 - `Sphinx <http://sphinx-doc.org/>`__ does incremental rebuilds, though
-it's spotty in cases, and for the\ *write phase only* works in
-parallel (latest version only). The
-`tinkerer <http://tinkerer.me/>`__ blog tool is built on top of
-Sphinx.
+  it's spotty in cases, and for the\ *write phase only* works in
+  parallel (latest version only). The
+  `tinkerer <http://tinkerer.me/>`__ blog tool is built on top of
+  Sphinx.
 
 I think it's possible to do *most* of the work of the build in parallel,
 and I'm interested in writing a site compiler that uses a concurent
@@ -94,4 +94,3 @@ reStructuredText, though I think it would be useful to attempt to port
 the system to Go at some point, no plans for that at the moment.
 
 Onward and Upward!
-

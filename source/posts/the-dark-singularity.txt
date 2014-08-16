@@ -19,29 +19,29 @@ too distant, and will only be recognizable in retrospect.
 From reading Vinge's comments, I've come to several realizations:
 
 - Vinge's concept of the singularity is pretty narrow, and relates to
-effect of creating human-grade information technology. Right now,
-there are a lot of things that humans can do that machines *can't*,
-The singularity then, is the point where that changes.
+  effect of creating human-grade information technology. Right now,
+  there are a lot of things that humans can do that machines *can't*,
+  The singularity then, is the point where that changes.
 
 - I liked how--and I find this to be the case with most "science
-theory," but the scientists often have very narrow theories and the
-popular press often forces a much more broad interpretation. I think
-we get too caught up with thinking about the singularity as this cool
-amazing thing that is the nerd version of "the second coming," and
-forget that the singularity would really mark the end of society and
-culture as we know it now. That it's a rather frightening
-proposition.
+  theory," but the scientists often have very narrow theories and the
+  popular press often forces a much more broad interpretation. I think
+  we get too caught up with thinking about the singularity as this
+  cool amazing thing that is the nerd version of "the second coming,"
+  and forget that the singularity would really mark the end of society
+  and culture as we know it now. That it's a rather frightening
+  proposition.
 
 - Vinge's comparison of the singularity to the development of the
-printing press is productive. He argues that the printing press was
-conceivable before Gutenberg (they had books, the effects, however
-were unimaginable, admittedly), in a way that the singularity isn't
-conceivable to us given the current state of our lives and
-technology. In a lot of ways, the technological developments required
-in the Singularity, without attending to the social and cultural
-facts. The singularity is really about the outsourcing of cognition
-(writing, computers, etc.) rather than cramming more computing power
-onto our microchips.
+  printing press is productive. He argues that the printing press was
+  conceivable before Gutenberg (they had books, the effects, however
+  were unimaginable, admittedly), in a way that the singularity isn't
+  conceivable to us given the current state of our lives and
+  technology. In a lot of ways, the technological developments
+  required in the Singularity, without attending to the social and
+  cultural facts. The singularity is really about the outsourcing of
+  cognition (writing, computers, etc.) rather than cramming more
+  computing power onto our microchips.
 
 As i begin to understand this a bit better--as it's pretty difficult to
 grok--I've begun to think about the singularity and post-singular
@@ -74,4 +74,3 @@ response should be on some visceral level "I'd really like to avoid
 that," rather than, "Wouldn't it be cool if this happened."
 
 And somehow that's pretty refreshing. At least for me.
-

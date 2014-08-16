@@ -27,10 +27,6 @@ and because I want this to take a while. I need about 1000-1200 yards of
 each color. I've thought about having one variegated strand against one
 black strand. So that's where it stands
 
-.. raw:: html
-
-<ul><li>
-
 **Elann Alpaca Option:** I'm really a huge fan of alpaca. Its such a
 nice fiber, and really I'd like to try and use it when possible. I'm not
 going to pay a lot out of my way to use it, but given the nature of this
@@ -40,10 +36,6 @@ Blue combination, or a Pearl Grey Tweed/Saxony Blue. The total price
 would come to $49.84, before shipping. Pros: price, fiber content. Cons:
 color.
 
-.. raw:: html
-
-</li><li>
-
 **Knit Picks Andean Treasure Alpaca Sport:** This has been the alternate
 to the yarn that I would find in the shop. I've not actually experienced
 it, but I trust Knit Picks' reputation. I'm leaning towards Summer
@@ -51,10 +43,6 @@ Sky/Mystery color combo, with a fog/granite option running a close
 second. Total Cost: $75.80. Pros: Fiber, Color, Free Shipping. Cons:
 Price, Slightly Limited Color Options, and heat (too warm to work on in
 the summer).
-
-.. raw:: html
-
-</li><li>
 
 **Top of The Lamb Sport:**\ I've been really fond of this Brown Sheep
 Yarn for a while. It's sport weight, knits up real nice. It's like their
@@ -67,10 +55,6 @@ Total Cost: ~$52. Pros: Color, Cool Looking Yarn, Possibility for
 leftovers (and not having to worry about running out); Cons: Just plain
 old wool, less portable.
 
-.. raw:: html
-
-</li><li>
-
 **Webs Option:**\ The colors aren't great, but gosh the price is. If I
 can go into an order with someone, webs gives 20% off orders over 60
 dollars. It wouldn't take a lot of convincing for me to get a cone of
@@ -79,10 +63,6 @@ isn't a good color for this sweater. Anyway, I digress. The colors are
 limited but I'm thinking about Sage/Teal or Blue/Moss. Total Price: $3o.
 Pros: Price! Cons: Limited Color Selection, don't know how it feels,
 maybe a very slightly bit bulkier than I want.
-
-.. raw:: html
-
-</li></ul>
 
 I think that's all the options at the moment. The Elann Alpaca option
 seems to combine a number of good features, but I'm unsure about the
@@ -96,4 +76,3 @@ Anyway, I expect people to comment and give me strong advice, none of
 this "you'll decide the best option" stuff. Be firm, if I don't like it,
 I won't listen to the advice, but I need help here. So yeah. There you
 go. Cheers.
-

@@ -35,28 +35,25 @@ list of reason why I thought *AO* was important/worthwhile, I'd like to
 present a list of possible applications/uses. Next week, I'll have
 something more substantive.
 
-.. raw:: html
-
-<!--more-->
-
 - structural models (machines), are inherently incomplete and flawed.
-Deleuze and Guatteri's discussion of this concept, can be helpful in
-exploring and explaining social practices which we may be tempted to
-assume as being somehow *a priori,* like memory, or gender.
+  Deleuze and Guatteri's discussion of this concept, can be helpful in
+  exploring and explaining social practices which we may be tempted to
+  assume as being somehow *a priori,* like memory, or gender.
+
 - I think I'm going to, at some point, use Deleuze and Guatteri's
-discussion of recording machines as part of a justification for
-studying memory. Same for the section that I quoted in `Culture,
-Memory and
-Lanague <http://tychoish.com/rhizome/deleuze-culture-memory-and-language/>`__.
-- Once I find more of the nomadic subject/multipicity of subjectivity's
-stuff, I think that would be very helpful to my cause.
+  discussion of recording machines as part of a justification for
+  studying memory. Same for the section that I quoted in `Culture,
+  Memory and Lanague
+  <http://tychoish.com/rhizome/deleuze-culture-memory-and-language/>`__.
+
+- Once I find more of the nomadic subject/multipicity of
+  subjectivity's stuff, I think that would be very helpful to my
+  cause.
 
 I think that's just the surface, but a start. Have a good weekend.
 
 Cheers, tycho
 
-.. [1]
-the missing piece that I haven't added in right now, is that this
-becomes much more useful if we read "normative" in the place of
-oedipus.
-
+.. [1] the missing piece that I haven't added in right now, is that
+   this becomes much more useful if we read "normative" in the place
+   of oedipus.

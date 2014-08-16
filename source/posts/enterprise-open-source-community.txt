@@ -68,22 +68,20 @@ eighties and nineties, than what seems to prevail at the moment.
 So to summarize the questions:
 
 - What, as a company, does it mean to say that the software you develop
-(and likely own all the rights to,) is "open source," and "supported
-by a community?"
+  (and likely own all the rights to,) is "open source," and "supported
+  by a community?"
 
 - What does it mean to participate in and contribute to a community
-around a commercial product that you don't have *any* real stake in?
+  around a commercial product that you don't have *any* real stake in?
 
 - How does the free software community, which is largely technical and
-hacker centered, transcend to deal with and serve end users?
+  hacker centered, transcend to deal with and serve end users?
 
 - How do we legitimize projects that aren't funded with venture capital
-money?
+  money?
 
 Onward and Upward!
 
-.. [1]
-I think and hope this is the post I meant to write when I started
-writing `this post on the work of open
-source <http://tychoish.com/rhizome/analyzing-the-work-of-open-source.mdwn>`__
-
+.. [1] I think and hope this is the post I meant to write when I started
+   writing `this post on the work of open
+   source <http://tychoish.com/rhizome/analyzing-the-work-of-open-source.mdwn>`__

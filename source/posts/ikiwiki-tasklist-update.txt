@@ -14,22 +14,22 @@ parsing it:)
 
 ::
 
-ARG=`echo "$@" | sed -r 's/\s*\-[c|p|s]\s*//g'`
-WIKI_DIR="`echo $ARG | cut -d " " -f 1`"
-if [ "`echo $ARG | cut -d " " -f 2 | grep -c /`" = 1 ]; then
-TODO_PAGE="`echo $ARG | cut -d " " -f 2`"
-elif [ "`echo $ARG | cut -d " " -f 2 | grep -c $EXT`" = 1 ]; then
-TODO_PAGE="$WIKI_DIR/`echo $ARG | cut -d " " -f 2`"
-else
-TODO_PAGE="$WIKI_DIR/`echo $ARG | cut -d " " -f 2`.$EXT"
-fi
+   ARG=`echo "$@" | sed -r 's/\s*\-[c|p|s]\s*//g'`
+   WIKI_DIR="`echo $ARG | cut -d " " -f 1`"
+   if [ "`echo $ARG | cut -d " " -f 2 | grep -c /`" = 1 ]; then
+      TODO_PAGE="`echo $ARG | cut -d " " -f 2`"
+   elif [ "`echo $ARG | cut -d " " -f 2 | grep -c $EXT`" = 1 ]; then
+      TODO_PAGE="$WIKI_DIR/`echo $ARG | cut -d " " -f 2`"
+   else
+      TODO_PAGE="$WIKI_DIR/`echo $ARG | cut -d " " -f 2`.$EXT"
+   fi
 
 This is from the section of the script that processes the arguments and
 options on the command line. Previously, commands were issued such that:
 
 ::
 
-ikiwiki-tasklist [-c -p -s] [DIR_TO_CRAWL] [OUTPUT TODO FILE NAME]
+   ikiwiki-tasklist [-c -p -s] [DIR_TO_CRAWL] [OUTPUT TODO FILE NAME]
 
 My goal with the options was to have something that "felt like" a normal
 command with option switches and had a lot of flexibility. The two
@@ -67,4 +67,3 @@ I've made a few additional changes to the scripts, but most of these
 feel more trivial and can be described as "I learned how to write
 slightly tighter shell scripts. so if you're using it you might want to
 update: the [[code/ikiwiki-tasklist]] page is up to date.
-

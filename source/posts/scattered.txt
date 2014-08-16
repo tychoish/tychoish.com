@@ -28,9 +28,10 @@ couple of little quirks still in the design that I want your feedback
 on:
 
 1. The permalinks on the `home page <http://tychoish.com>`__ don't work.
+
 2. On http://tychoish.com/blog/, and pages lower in that hierarchy the
-menu in the top corner has two links to http://tychoish.com, when
-logically the top link, should be to http://tychoish.com/blog.
+   menu in the top corner has two links to http://tychoish.com, when
+   logically the top link, should be to http://tychoish.com/blog.
 
 I think that the first issue should work itself out as there get to be
 more posts in the system (coming soon enough). And I think the second is
@@ -49,4 +50,3 @@ Anyway, I have writing things to do. And showering. Oh Showering. So I'm
 going to go. I'll post another entry today, I *promise*.
 
 Onward and Upward!
-

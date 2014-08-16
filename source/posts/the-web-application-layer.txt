@@ -80,21 +80,19 @@ accessible, but it sucks that APIs can be so proprietary *and* I'm not
 convinced that HTTP is the "right" or "best" protocol for this
 technology. But these things happen.
 
-.. [1]
-You may think that I'm simply being pessimistic, and you might say
-that IE 7 and 8 are a huge step in the right direction and I think
-that this might be true, but the only reason to create and maintain a
-browser (to my mind) are: masochism, to get people to use your search
-engine, and to be able to implement special proprietary (and
-non-standard) features. The competitive advantage comes from the
-unique enhancements that a given browser is able to offer over the
-other browsers in the market. For a while (e.g. 1999-2007?) the more
-standards compliant a browser was the better pages looked in it. I'm
-not sure that will continue to hold true.
+.. [1] You may think that I'm simply being pessimistic, and you might
+   say that IE 7 and 8 are a huge step in the right direction and I
+   think that this might be true, but the only reason to create and
+   maintain a browser (to my mind) are: masochism, to get people to
+   use your search engine, and to be able to implement special
+   proprietary (and non-standard) features. The competitive advantage
+   comes from the unique enhancements that a given browser is able to
+   offer over the other browsers in the market. For a while
+   (e.g. 1999-2007?) the more standards compliant a browser was the
+   better pages looked in it. I'm not sure that will continue to hold
+   true.
 
-.. [2]
-This is a simplification, but lets think of this as the obligatory
-API that all web-services provide today: from twitter to flickr, to
-YouTube, and beyond. These allow programmers to connect to the
-service using the HTTP protocol
-
+.. [2] This is a simplification, but lets think of this as the
+   obligatory API that all web-services provide today: from twitter to
+   flickr, to YouTube, and beyond. These allow programmers to connect
+   to the service using the HTTP protocol

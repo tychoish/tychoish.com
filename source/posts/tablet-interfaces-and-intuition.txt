@@ -52,7 +52,6 @@ Future of Linux\|rhizome/is-android-the-future-of-linux]]?" post.
 
 I fully expect that both lines of development can expand in parallel.
 
-.. [1]
-I also found the base configuration of FBReader (for the tablet, at
-least) to be horrible, but with some tweaking, it's a great app.
-
+.. [1] I also found the base configuration of FBReader (for the
+   tablet, at least) to be horrible, but with some tweaking, it's a
+   great app.

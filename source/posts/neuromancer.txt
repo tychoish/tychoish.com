@@ -42,11 +42,9 @@ Thanks for reading.
 
 Onward and `Upward <http://www.criticalfuture>`__!
 
-.. [1]
-I think this is an observer problem, because if you set a book 100
-years in the future, and 5 years later it becomes clear that it's not
-going to happen that way, everyone notices. If you set things 1000
-years in the future it's easier for people to get that it's all
-allegory, anyway. Nevertheless I think this is a challenge of SF that
-tries to be less fantastic.
-
+.. [1] I think this is an observer problem, because if you set a book 100
+   years in the future, and 5 years later it becomes clear that it's not
+   going to happen that way, everyone notices. If you set things 1000
+   years in the future it's easier for people to get that it's all
+   allegory, anyway. Nevertheless I think this is a challenge of SF that
+   tries to be less fantastic.

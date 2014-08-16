@@ -13,392 +13,277 @@ finale will start monday afternoon. Stay tuned! Cheers, tycho*
 
 .. raw:: html
 
-<hr />
+   <hr />
 
-.. raw:: html
+   <div id="screenplay">
 
-<div id="screenplay">
+   <h2>INT. ANOTHER ROUND, The Bar</h2>
 
-.. raw:: html
+   <p>Business is slow, but it is still early in the evening, and the bar
+   hasn't been open long besides. We can still see rough edges on the
+   construction. The dust hasn't settled, and some of the molding hasn't
+   been installed.</p>
 
-<h2>
+   <p>ELI BANNER takes a stool at the middle of the bar as we begin, his
+   shoulders are tense and it's clear that he's not settling in to this
+   chair. DAVID CONRAD is working at one end of the bar and CARTER is
+   working at the other.</p>
 
-INT. ANOTHER ROUND, The Bar
+   <dl><dt class="character">
+   DAVID CONRAD
+   </dt>
+   <dd>
 
-.. raw:: html
+   Fancy seeing you here. Aren't you supposed to be on duty or something.
 
-</h2>
+   </dd></dl>
 
-<p>
+   <dl><dt class="character">
 
-Business is slow, but it is still early in the evening, and the bar
-hasn't been open long besides. We can still see rough edges on the
-construction. The dust hasn't settled, and some of the molding hasn't
-been installed.
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</p>
+   I'm the skipper--well commander at any rate--I'm on duty when ever I say
+   I'm on duty.
 
-<p>
+   </dd>
+   <dd class="parenthetical">
 
-ELI BANNER takes a stool at the middle of the bar as we begin, his
-shoulders are tense and it's clear that he's not settling in to this
-chair. DAVID CONRAD is working at one end of the bar and CARTER is
-working at the other.
+   (pause)
 
-.. raw:: html
+   </dd>
+   <dd>
 
-</p>
+   It's nice to see you too.
 
-<dl><dt class="character">
+   </dd></dl>
 
-DAVID CONRAD
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dt>
-<dd>
+   </dt>
+   <dd>
 
-Fancy seeing you here. Aren't you supposed to be on duty or something.
+   I think the exact line in my lecture was "you're always on duty."
 
-.. raw:: html
+   </dd></dl>
 
-</dd></dl>
+   <dl><dt class="character">
 
-<dl><dt class="character">
+   ELI BANNER
 
-ELI BANNER
+   </dt>
+   <dd>
 
-.. raw:: html
+   That's what I said, wasn't it.
 
-</dt>
-<dd>
+   </dd></dl>
 
-I'm the skipper--well commander at any rate--I'm on duty when ever I say
-I'm on duty.
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dd>
-<dd class="parenthetical">
+   </dt>
+   <dd class="parenthetical">
 
-(pause)
+   (looks askance at ELI)
 
-.. raw:: html
+   </dd>
+   <dd>
 
-</dd>
-<dd>
+   If you say so. Sir. Just don't go getting us blown up.
 
-It's nice to see you too.
+   </dd>
+   <dd class="parenthetical">
 
-.. raw:: html
+   (points finger)
 
-</dd></dl>
+   </dd>
+   <dd>
 
-<dl><dt class="character">
+   I'm trusting you on that one.
 
-DAVID CONRAD
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   ELI BANNER
 
-I think the exact line in my lecture was "you're always on duty."
+   </dt>
+   <dd>
 
-.. raw:: html
+   So do I get to order or are you just going to rehash your old lectures?
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <p>
 
-ELI BANNER
+   DAVID extends his hands, palm up, as if to say:
 
-.. raw:: html
+   </p>
 
-</dt>
-<dd>
+   <dl><dt class="character">
 
-That's what I said, wasn't it.
+   DAVID CONRAD
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dd></dl>
+   Then order.
 
-<dl><dt class="character">
+   </dd></dl>
 
-DAVID CONRAD
+   <dl><dt class="character">
 
-.. raw:: html
+   ELI BANNER
 
-</dt>
-<dd class="parenthetical">
+   </dt>
+   <dd>
 
-(looks askance at ELI)
+   Can I have two beers. And do you have any chilled? I'm not sure I can
+   deal with the local brew at room temp.
 
-.. raw:: html
+   </dd></dl>
 
-</dd>
-<dd>
+   <dl><dt class="character">
 
-If you say so. Sir. Just don't go getting us blown up.
+   MAN AT BAR
 
-.. raw:: html
+   </dt>
+   <dd class="parenthetical">
 
-</dd>
-<dd class="parenthetical">
+   (slightly louder than necessary)
 
-(points finger)
+   </dd>
+   <dd>
 
-.. raw:: html
+   Your missing out. 'Couldn't deal with your fancy coreside crap at any
+   temp. Tastes like feets.
 
-</dd>
-<dd>
+   </dd>
+   <dd class="parenthetical">
 
-I'm trusting you on that one.
+   (makes retching noise)
 
-.. raw:: html
+   </dd></dl>
 
-</dd></dl>
+   <p>
 
-<dl><dt class="character">
+   A few people sitting nearby laugh, ELI ignores them.
 
-ELI BANNER
+   </p>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   DAVID CONRAD
 
-So do I get to order or are you just going to rehash your old lectures?
+   </dt>
+   <dd>
 
-.. raw:: html
+   Two? There's only one of you, and my stash of cold drinks isn't in
+   danger of running out.
 
-</dd></dl>
+   </dd></dl>
 
-<p>
+   <dl><dt class="character">
 
-DAVID extends his hands, palm up, as if to say:
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</p>
+   You. We're having a drink.
 
-<dl><dt class="character">
+   </dd></dl>
 
-DAVID CONRAD
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dt>
-<dd>
+   </dt>
+   <dd>
 
-Then order.
+   I'm working, and besides, you can't order me around, buster.
 
-.. raw:: html
+   </dd></dl>
 
-</dd></dl>
+   <dl><dt class="character">
 
-<dl><dt class="character">
+   ELI BANNER
 
-ELI BANNER
+   </dt>
+   <dd>
 
-.. raw:: html
+   You have staff, we're on the rim, and you are technically a civilian
+   now.
 
-</dt>
-<dd>
+   </dd></dl>
 
-Can I have two beers. And do you have any chilled? I'm not sure I can
-deal with the local brew at room temp.
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dd></dl>
+   </dt>
+   <dd>
 
-<dl><dt class="character">
+   Watch it.
 
-MAN AT BAR
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd class="parenthetical">
+   ELI BANNER
 
-(slightly louder than necessary)
+   </dt>
+   <dd>
 
-.. raw:: html
+   Just come on.
 
-</dd>
-<dd>
+   </dd></dl>
 
-Your missing out. 'Couldn't deal with your fancy coreside crap at any
-temp. Tastes like feets.
+   <p>
 
-.. raw:: html
+   DAVID turns to CARTER who is talking to patrons at one corner of the bar
+   and says:
 
-</dd>
-<dd class="parenthetical">
+   </p>
 
-(makes retching noise)
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dd></dl>
+   </dt>
+   <dd>
 
-<p>
+   Could you take care of the bar for a little while?
 
-A few people sitting nearby laugh, ELI ignores them.
+   </dd>
+   <dd class="parenthetical">
 
-.. raw:: html
+   (pause)
 
-</p>
+   </dd>
+   <dd>
 
-<dl><dt class="character">
+   --and remember what I said about mixing the drinks strong. I don't want
+   any more accidents in the lifts because you're feeling generous.
 
-DAVID CONRAD
+   </dd></dl>
 
-.. raw:: html
+   ELI dismounts the stool and walks toward an unoccupied booth along the
+   far-side of the room. It takes DAVID a moment to walk around the bar but
+   soon joins him, to take a seat where he can keep an eye on the entire
+   establishment from his seat.
 
-</dt>
-<dd>
+   </div>
 
-Two? There's only one of you, and my stash of cold drinks isn't in
-danger of running out.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-ELI BANNER
-
-.. raw:: html
-
-</dt>
-<dd>
-
-You. We're having a drink.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-DAVID CONRAD
-
-.. raw:: html
-
-</dt>
-<dd>
-
-I'm working, and besides, you can't order me around, buster.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-ELI BANNER
-
-.. raw:: html
-
-</dt>
-<dd>
-
-You have staff, we're on the rim, and you are technically a civilian
-now.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-DAVID CONRAD
-
-.. raw:: html
-
-</dt>
-<dd>
-
-Watch it.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-ELI BANNER
-
-.. raw:: html
-
-</dt>
-<dd>
-
-Just come on.
-
-.. raw:: html
-
-</dd></dl>
-
-<p>
-
-DAVID turns to CARTER who is talking to patrons at one corner of the bar
-and says:
-
-.. raw:: html
-
-</p>
-
-<dl><dt class="character">
-
-DAVID CONRAD
-
-.. raw:: html
-
-</dt>
-<dd>
-
-Could you take care of the bar for a little while?
-
-.. raw:: html
-
-</dd>
-<dd class="parenthetical">
-
-(pause)
-
-.. raw:: html
-
-</dd>
-<dd>
-
---and remember what I said about mixing the drinks strong. I don't want
-any more accidents in the lifts because you're feeling generous.
-
-.. raw:: html
-
-</dd></dl>
-
-ELI dismounts the stool and walks toward an unoccupied booth along the
-far-side of the room. It takes DAVID a moment to walk around the bar but
-soon joins him, to take a seat where he can keep an eye on the entire
-establishment from his seat.
-
-.. raw:: html
-
-</div>
-
-*"Walking Away, Part 1" was written by,
-`tycho <http://tychoish.com/tycho>`__, the creator of
-`TealArt <http://tychoish.com>`__ and [Station
-Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
-and a science fiction writer by night, you can read his work elsewhere
-on `TealArt <http://tychoish.com>`__ and at
-`~/tychoish <http://tychoish.com>`__.*
-
+   *"Walking Away, Part 1" was written by,
+   `tycho <http://tychoish.com/tycho>`__, the creator of
+   `TealArt <http://tychoish.com>`__ and [Station
+   Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
+   and a science fiction writer by night, you can read his work elsewhere
+   on `TealArt <http://tychoish.com>`__ and at
+   `~/tychoish <http://tychoish.com>`__.*

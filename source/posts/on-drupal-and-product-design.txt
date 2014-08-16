@@ -35,65 +35,62 @@ were a couple of major problems for me.
 
 1. The administrative interface was complicated and non-intuitive.
 
-- To be fair, I really don't like to interact with programs through
-a web browser, and it seems to me that all I was doing with drupal
-was clicking through page after page to try and find the one bit
-that I needed to flip, but I'm hypersensative to these things. The
-cause of this, as near as I could tell was the fact that the admin
-interface and the front end of the site are differentiated by the
-users access level *not* anything in the interface. This is
-confusing and not, I think good form, visitors to the websites and
-admins need different things.
+   To be fair, I really don't like to interact with programs through
+   a web browser, and it seems to me that all I was doing with drupal
+   was clicking through page after page to try and find the one bit
+   that I needed to flip, but I'm hypersensative to these things. The
+   cause of this, as near as I could tell was the fact that the admin
+   interface and the front end of the site are differentiated by the
+   users access level *not* anything in the interface. This is
+   confusing and not, I think good form, visitors to the websites and
+   admins need different things.
 
 2. Drupal sites reek of drupal.
 
-- Most web programing frameworks reek of themesleves, so this
-doesn't set Drupal apart, but I think it's particularly bad in the
-case of Drupal. What do I mean like reek? Well, it's that feeling
-of "oh they're running drupal/rails/etc," here that you get 7
-seconds after clicking on your first link (if not sooner). While
-this isn't a bad thing, and I suspect most users don't notice this
-very much, but I think if most independent site runners have sites
-that seem to work the same, the reader will be left with the
-impression that the sites are the same. We must think about total
-experience.
+   Most web programing frameworks reek of themesleves, so this
+   doesn't set Drupal apart, but I think it's particularly bad in the
+   case of Drupal. What do I mean like reek? Well, it's that feeling
+   of "oh they're running drupal/rails/etc," here that you get 7
+   seconds after clicking on your first link (if not sooner). While
+   this isn't a bad thing, and I suspect most users don't notice this
+   very much, but I think if most independent site runners have sites
+   that seem to work the same, the reader will be left with the
+   impression that the sites are the same. We must think about total
+   experience.
 
 3. The level of programing know-how needed for setup is non-trivial
 
-- While I think `Wordpress <http://wordpress.org/>`__, which I use a
-lot and rather like, has gone too far in the other direction, [1]_
-the fact that it's so much more complicated to get drupal from the
-box to production, means that people who want to start a site
-*now* need to break momentum to do programing (or hire someone.)
-The truth is that I think the know how needed to really use
-drupal, is like 10% less than the know how needed to build
-something in `Django <http://www.djangoproject.com/>`__. Maybe I'm
-overplaying it, but not too much.
+   While I think `Wordpress <http://wordpress.org/>`__, which I use a
+   lot and rather like, has gone too far in the other direction, [1]_
+   the fact that it's so much more complicated to get drupal from the
+   box to production, means that people who want to start a site
+   *now* need to break momentum to do programing (or hire someone.)
+   The truth is that I think the know how needed to really use
+   drupal, is like 10% less than the know how needed to build
+   something in `Django <http://www.djangoproject.com/>`__. Maybe I'm
+   overplaying it, but not too much.
 
 To be fair, I've not used the 6.x series of Drupal, but I think there's
 a few broader lessons about creating a product/content and audience,
 that comes from that nagging dread that drupal seems to create:
 
 - It's not clear that drupal knows weather it wants to be a web
-framework or a CMS. *Know what you're trying to do, and be clear
-about it.*
+  framework or a CMS. *Know what you're trying to do, and be clear
+  about it.*
 - Different tools for different jobs, rather than one swiss-army knife.
-*It's good to have related project that are integrated, of course but
-that doesn't mean that you need to only have one program for
-everything in your project.*\  [2]_
+  *It's good to have related project that are integrated, of course but
+  that doesn't mean that you need to only have one program for
+  everything in your project.*\  [2]_
 - Create low barriers to entry. I didn't stay with drupal because after
-a weeks of tinkering with it, I still didn't like what I was seeing,
-so *First impressions count.*
+  a weeks of tinkering with it, I still didn't like what I was seeing,
+  so *First impressions count.*
 
 `Onward <http://tychoish.com/>`__ and
 `Upward <http://criticalfutures.com>`__!
 
-.. [1]
-there are templating features and capabilities that were around in
-`b2/cafelog <http://cafelog.com/>`__ that have been abstracted and
-removed, and while I understand the rationale, I still miss them.
+.. [1] there are templating features and capabilities that were around in
+   `b2/cafelog <http://cafelog.com/>`__ that have been abstracted and
+   removed, and while I understand the rationale, I still miss them.
 
-.. [2]
-I'm such a `unix <http://en.wikipedia.org/wiki/Unix_philosophy>`__
-dweeb, so your milage may vary.
-
+.. [2] I'm such a `unix <http://en.wikipedia.org/wiki/Unix_philosophy>`__
+   dweeb, so your milage may vary.

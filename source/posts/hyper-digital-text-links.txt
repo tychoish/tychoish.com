@@ -15,120 +15,120 @@ that I found helpful and/or interesting. Enjoy!
 - `Steam Punk Magazine <http://www.steampunkmagazine.com/>`__
 
 - This, ironically, is what started the series. I really like what
-SPM has done, and their publication is really quite good looking.
-It's all PDF and not "digital" except under the strictest of
-technicalities. This isn't a bad thing, but when reading it I
-thought, "if this is the best digital production around these days
-and it's not really digital, what does this say about the
-possibility for digital production?" And I continue to think that
-this is an important question to ask.
+  SPM has done, and their publication is really quite good looking.
+  It's all PDF and not "digital" except under the strictest of
+  technicalities. This isn't a bad thing, but when reading it I
+  thought, "if this is the best digital production around these days
+  and it's not really digital, what does this say about the
+  possibility for digital production?" And I continue to think that
+  this is an important question to ask.
 
 - `Cory Doctorow Writes About digital
-Reading <http://www.locusmag.com/Features/2007/03/cory-doctorow-you-do-like-reading-off.html>`__
+  Reading <http://www.locusmag.com/Features/2007/03/cory-doctorow-you-do-like-reading-off.html>`__
 
 - Cory Doctorow, is I think working from the very front of a lot of
-the questions about digital media consumption and production. Most
-of his work, at least what he is known for, is all about digital
-intellectual property, but this article about reading from
-computer screens is quite good.
+  the questions about digital media consumption and production. Most
+  of his work, at least what he is known for, is all about digital
+  intellectual property, but this article about reading from
+  computer screens is quite good.
 
 - `Persistent.info <http://blog.persistent.info/>`__
 
 - This is just another blog, written by a Google employee, and I
-include it here because I like the way that the blog posts arrange
-themselves in columns if the window width gets to be too big. The
-CSS wouldn't work if the text were much longer than it is in the
-posts for this site, but it's a nifty idea, none the less.
+  include it here because I like the way that the blog posts arrange
+  themselves in columns if the window width gets to be too big. The
+  CSS wouldn't work if the text were much longer than it is in the
+  posts for this site, but it's a nifty idea, none the less.
 
 - `Textual Instruments <http://turbulence.org/Works/twotxt/>`__
 
 - A site that has a couple of nifty looking hypertexts, worth
-checking out. I haven't *actually* had time to read them yet,
-unfortunately.
+  checking out. I haven't *actually* had time to read them yet,
+  unfortunately.
 
 - `Fiction Markup
-Language <http://www.banapana.com/fiction-markup-language/>`__
+  Language <http://www.banapana.com/fiction-markup-language/>`__
 
 - This is an example of an XML-based langauge for fiction writing,
-and it has classes and items for characters, settings, as well as
-book/chapter level organization. While I really like the idea
-here, I fear that it could be really constraining in terms of
-form, and structure. At the same time, the strength of these sorts
-of things is in the parser, and I haven't seen one yet, so who
-knows. It might be a good format option for editing software like
-`Scrivener <http://www.literatureandlatte.com/scrivener.html>`__
-or other software intended for fiction-like writing.
+  and it has classes and items for characters, settings, as well as
+  book/chapter level organization. While I really like the idea
+  here, I fear that it could be really constraining in terms of
+  form, and structure. At the same time, the strength of these sorts
+  of things is in the parser, and I haven't seen one yet, so who
+  knows. It might be a good format option for editing software like
+  `Scrivener <http://www.literatureandlatte.com/scrivener.html>`__
+  or other software intended for fiction-like writing.
 
 - `Hypertext Community <http://users.cs.dal.ca/~jamie/hypertext/>`__
+
 - `Swooter, books via twitter <http://www.booktwo.org/swotter/>`__
 
 - Swooter is a script that will regularly serialize, via
-`twitter <http://twitter.com/>`__, any plain text file. Someone's
-using it to serialize James Joyce, but the implications and
-possibilities here are pretty nifty. It's like the "read classics
-via email" project, but I think the aspiring hypertext author
-could do some rather nifty things with this tool.
+  `twitter <http://twitter.com/>`__, any plain text file. Someone's
+  using it to serialize James Joyce, but the implications and
+  possibilities here are pretty nifty. It's like the "read classics
+  via email" project, but I think the aspiring hypertext author
+  could do some rather nifty things with this tool.
 
 - `institute for the future of the book
-blog <http://www.futureofthebook.org/blog/>`__
+  blog <http://www.futureofthebook.org/blog/>`__
 
 - if:book is a project out of the Annenberg Center that explores and
-works on the future of the book (I love good naming schemes), and
-their blog is really top notch.
+  works on the future of the book (I love good naming schemes), and
+  their blog is really top notch.
 
 - `Company Therapist
-Hypertext <http://www.thetherapist.com/Introduction.html>`__
+  Hypertext <http://www.thetherapist.com/Introduction.html>`__
 - `Academic Hack Open
-Access <http://academhack.outsidethetext.com/home/?p=120>`__
+  Access <http://academhack.outsidethetext.com/home/?p=120>`__
 
 - Academic Hack talks about open access, which I think could frame
-the academic discussion regarding academic publishing in a
-productive way. In a lot of ways, I've come to believe that
-however the academic publishing "problem" resolves itself will
-have important implications for how the mainstream market reforms
-in the future, and I'm pretty cofident that academic publishing
-will see reform before the mainstream. But you can argue that, if
-you want.
+  the academic discussion regarding academic publishing in a
+  productive way. In a lot of ways, I've come to believe that
+  however the academic publishing "problem" resolves itself will
+  have important implications for how the mainstream market reforms
+  in the future, and I'm pretty cofident that academic publishing
+  will see reform before the mainstream. But you can argue that, if
+  you want.
 
 - `Savage Minds: Open Access your
-Diss <http://feeds.feedburner.com/~r/savageminds/~3/45741381/>`__
+  Diss <http://feeds.feedburner.com/~r/savageminds/~3/45741381/>`__
 
 - I think the idea of making dissertations open access is a
-wonderful idea. There is so much research that gets done as part
-of people's doctoral programs that never sees the light of day.
-While I think a lot of people would cringe at the thought (and
-frankly I can't go back more than a semester without cringing), it
-seems that getting the information out there is worthwhile. If a
-dissertation is supposed to form the basis of your first
-book/series of articles, then, indeed the instinct is to clamp
-down on the diss text; but having said that I think having
-dissertations available might make it easier for people to more
-productivly move beyond that text, and that could be a good thing.
+  wonderful idea. There is so much research that gets done as part
+  of people's doctoral programs that never sees the light of day.
+  While I think a lot of people would cringe at the thought (and
+  frankly I can't go back more than a semester without cringing), it
+  seems that getting the information out there is worthwhile. If a
+  dissertation is supposed to form the basis of your first
+  book/series of articles, then, indeed the instinct is to clamp
+  down on the diss text; but having said that I think having
+  dissertations available might make it easier for people to more
+  productivly move beyond that text, and that could be a good thing.
 
 - `Making
-MediaCommons <http://www.plannedobsolescence.net/index.php?/weblog/more_on_making_mediacommons/>`__
+  MediaCommons <http://www.plannedobsolescence.net/index.php?/weblog/more_on_making_mediacommons/>`__
 
 - Kathleen Fitzpatrick, one of the creators and driving force behind
-`MediaCommons <http://www.futureofthebook.org/mediacommons/>`__,
-an interesting and very forward thinking model for academic
-publishing. At the present time, it's a Media Studies project,
-which makes a great deal of sense, but the model can and likely
-will be ported to other disciplines, and I look forward to that
-with great anticipation.
+  `MediaCommons <http://www.futureofthebook.org/mediacommons/>`__,
+  an interesting and very forward thinking model for academic
+  publishing. At the present time, it's a Media Studies project,
+  which makes a great deal of sense, but the model can and likely
+  will be ported to other disciplines, and I look forward to that
+  with great anticipation.
 
 - `Word Processors: Stupid and
-Inefficient <http://ricardo.ecn.wfu.edu/~cottrell/wp.html>`__
+  Inefficient <http://ricardo.ecn.wfu.edu/~cottrell/wp.html>`__
 
 - Allin Cottrell explains/explores the ways that the word-processor
-model is ineffective for constructing text in digital
-communication, and I think that a lot of these general themes can
-be extrapolated to a discussion of writing.
+  model is ineffective for constructing text in digital
+  communication, and I think that a lot of these general themes can
+  be extrapolated to a discussion of writing.
 
-Ok, that's all I have for this time. If you have other hypertext/digital
-(textual) media sources, I'd love to read what you have to offer. This
-entry also marks the end of the regular hypertext series here, I'll post
-a round up next Wednesday, but there'll be the intro to the new series
-next week.
+  Ok, that's all I have for this time. If you have other hypertext/digital
+  (textual) media sources, I'd love to read what you have to offer. This
+  entry also marks the end of the regular hypertext series here, I'll post
+  a round up next Wednesday, but there'll be the intro to the new series
+  next week.
 
 Thanks for Reading, tycho
-

@@ -18,54 +18,53 @@ to bear, so here we are.
 Here's a brief overview of what I've been up to and the kinds of
 projects I'm working on, and what the near future holds:
 
-- I'm going to `Dance
-Flury <http://www.danceflurry.org/festival/index.html>`__ in a couple
-of weeks. I've not done the usual dance weekend thing before, aside
-from the Morris Dance gathering I've been going to for years. I'm
-really looking forward to it.
+- I'm going to `Dance Flury
+  <http://www.danceflurry.org/festival/index.html>`__ in a couple of
+  weeks. I've not done the usual dance weekend thing before, aside
+  from the Morris Dance gathering I've been going to for years. I'm
+  really looking forward to it.
 
 - I'm trying to get a better handle on the blog. I do this binge cycle
-thing with my blog posts, that leads to situations like the one that
-I'm currently experiencing, but also doesn't *actually* mean that I
-have spare time to write fiction in a way that I might like.
+  thing with my blog posts, that leads to situations like the one that
+  I'm currently experiencing, but also doesn't *actually* mean that I
+  have spare time to write fiction in a way that I might like.
 
 - I'm working a bunch, and while every day is some kind of learning
-experience, I think I've figured out (largely) how to do what I do in
-a way that doesn't have me leaving every night feeling like a fraud.
-There will be more learning curves, for sure, but it's nice to not
-feel like I know what I'm doing.
+  experience, I think I've figured out (largely) how to do what I do
+  in a way that doesn't have me leaving every night feeling like a
+  fraud.  There will be more learning curves, for sure, but it's nice
+  to not feel like I know what I'm doing.
 
 - I've been throwing around the idea of writing poetry (hynms) vaguely
-in the tradition of the sacred harp. I'm not much of a poet, and the
-project I have in mind is a little bit peculiar (but then, this is me
-we're talking about, so lets not be too surprised.) At the same time
-I'm irrationally interested in this project, and we'll see how it
-goes.
+  in the tradition of the sacred harp. I'm not much of a poet, and the
+  project I have in mind is a little bit peculiar (but then, this is
+  me we're talking about, so lets not be too surprised.) At the same
+  time I'm irrationally interested in this project, and we'll see how
+  it goes.
 
-- I switched to using Chromium as my primary browser. There are still a
-few plug-ins that I really liked on Firefox that aren't *quite* as
-awesome or comfortable in their Chrome-equivalents, but it's *close*
-and I'm sure it'll get there. I've been looking for a viable non-Mac
-WebKit browser for a while, and am pretty happy with the Chrome.
+- I switched to using Chromium as my primary browser. There are still
+  a few plug-ins that I really liked on Firefox that aren't *quite* as
+  awesome or comfortable in their Chrome-equivalents, but it's *close*
+  and I'm sure it'll get there. I've been looking for a viable non-Mac
+  WebKit browser for a while, and am pretty happy with the Chrome.
 
 - Check out `git for writers </wikish/git-writing/>`__, wiki page that
-I've been working on over at `wikish </wikish/>`__ to try and explore
-how writers use and might use the git version control system to
-manage their writing. Contribute if you like.
+  I've been working on over at `wikish </wikish/>`__ to try and
+  explore how writers use and might use the git version control system
+  to manage their writing. Contribute if you like.
 
-- This weekend (yay! snowpocolypse) I hooked up my laptop to my desktop
-rig, and have basically abandoned my desktop as a machine that I will
-interact with directly. (I'm a server guy, so it'll get used.) This
-means I'm using xrandr with StumpWM (pretty swank,) and I must say
-that I love it. While I adore my laptop, and I really like only
-having to manage one computer, having this "desktop" setup makes it
-really perfect: I'm often most comfortable in desk chairs and I like
-the bigger screen and a real keyboard. So it works well. At some
-point I'll write up a more thorough account of how I hacked this
-together.
+- This weekend (yay! snowpocolypse) I hooked up my laptop to my
+  desktop rig, and have basically abandoned my desktop as a machine
+  that I will interact with directly. (I'm a server guy, so it'll get
+  used.) This means I'm using xrandr with StumpWM (pretty swank,) and
+  I must say that I love it. While I adore my laptop, and I really
+  like only having to manage one computer, having this "desktop" setup
+  makes it really perfect: I'm often most comfortable in desk chairs
+  and I like the bigger screen and a real keyboard. So it works
+  well. At some point I'll write up a more thorough account of how I
+  hacked this together.
 
 Ok, this document has been open on my desktop for a few day and I don't
 have anything new to add to it, so lets call it done.
 
 Onward and Upward!
-

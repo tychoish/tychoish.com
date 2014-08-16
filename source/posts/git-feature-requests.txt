@@ -7,37 +7,36 @@ Git Feature Requests
    :tags: programming, git
 
 - The ability to mark a branch "diverged," to prevent (or warn) on
-attempted merges from master (for example) into a maintenance branch.
+  attempted merges from master (for example) into a maintenance branch.
 
 - The ability to create and track dedicated topic branches, and
-complementary tooling to encourage rebasing commits in these sorts of
-branches. We might call them "patch sets" or "sets" rather than
-"branches." Also, it might be useful to think about using/displaying
-these commits, when published, in a different way.
+  complementary tooling to encourage rebasing commits in these sorts of
+  branches. We might call them "patch sets" or "sets" rather than
+  "branches." Also, it might be useful to think about using/displaying
+  these commits, when published, in a different way.
 
 - Represent merge commits as hyperlinks to the user, when possible. I
-think GitHub's "network graph" and similar visualizations are great
-for showing how commits and branches interact and relate to each
-other.
+  think GitHub's "network graph" and similar visualizations are great
+  for showing how commits and branches interact and relate to each
+  other.
 
-This would probably require some additional or modifies output from
-"``git log``\ ".
+  This would probably require some additional or modifies output from
+  "``git log``\ ".
 
 - Named stashes.
 
 - Branched stashes (perhaps this is closer to what I'm thinking about
-for the request regarding topic branches.)
+  for the request regarding topic branches.)
 
 - The ability to checkout "working copies," of different
-points/branches currently from a single repository at the same time,
-*using "native" git utilities*.
+  points/branches currently from a single repository at the same time,
+  *using "native" git utilities*.
 
-Related, "shelf" functionality is scriptable, but this too needs to be
-easier and more well supported.
+  Related, "shelf" functionality is scriptable, but this too needs to be
+  easier and more well supported.
 
-I think `legit <http://www.git-legit.org/>`__ is a step in the right
-direction, but it's weird and probably makes it more difficult to
-understand what's happening with git conceptually as opposed to the
-above features which would provide more appropriate conceptual metaphors
-for the work that would-be-git-users need.
-
+  I think `legit <http://www.git-legit.org/>`__ is a step in the right
+  direction, but it's weird and probably makes it more difficult to
+  understand what's happening with git conceptually as opposed to the
+  above features which would provide more appropriate conceptual metaphors
+  for the work that would-be-git-users need.

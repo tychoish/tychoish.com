@@ -53,17 +53,15 @@ Thoughts?
 
 Onward and Upward!
 
-.. [1]
-So it went well. I'm clearly not very fast with the keyboard, and I
-don't think that I'm missing something by not having hardware keys,
-but once I learned to just "go with it," rather than worry about
-accuracy, I think I got more accurate, because the corrections were
-spot on. It's smart. Here's the thing that sucks. There's no good
-text editing program. I'm using `Endnote <http://www.endnote.com/>`__
-which has good syncing but but it's a bit... rough. I think in the
-future, if I try and break from my "take notes in one giant text
-file," it might work a little better.
-`Alan <http://macromates.com/>`__, it wouldn't be too much to ask for
-for an ipod textmate? maybe with git hooked up as a plugin? Thought
-so. Anyway.
-
+.. [1] So it went well. I'm clearly not very fast with the keyboard,
+   and I don't think that I'm missing something by not having hardware
+   keys, but once I learned to just "go with it," rather than worry
+   about accuracy, I think I got more accurate, because the
+   corrections were spot on. It's smart. Here's the thing that
+   sucks. There's no good text editing program. I'm using `Endnote
+   <http://www.endnote.com/>`__ which has good syncing but but it's a
+   bit... rough. I think in the future, if I try and break from my
+   "take notes in one giant text file," it might work a little better.
+   `Alan <http://macromates.com/>`__, it wouldn't be too much to ask
+   for for an ipod textmate? maybe with git hooked up as a plugin?
+   Thought so. Anyway.

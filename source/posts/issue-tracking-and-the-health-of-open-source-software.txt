@@ -24,16 +24,16 @@ tolerate more investigation.
 As a starting point, I'd like to offer two conjectures:
 
 - First, that transparent issue tracking is a reasonably effective
-means of "customer service," or user support. If the bug tracking
-contains answers to questions that people encounter during use, and
-provide a way to resolve issues with the software that's productive
-and helps with support self-service. Obviously some users and groups
-of users are better at this than others.
+  means of "customer service," or user support. If the bug tracking
+  contains answers to questions that people encounter during use, and
+  provide a way to resolve issues with the software that's productive
+  and helps with support self-service. Obviously some users and groups
+  of users are better at this than others.
 
 - Second, issue tracking is perhaps the best way to do bottom-up
-project/product management and planning in the open, particularly
-since these kinds or projects lack formal procedures and designated
-roles to do this kind of organizational work.
+  project/product management and planning in the open, particularly
+  since these kinds or projects lack formal procedures and designated
+  roles to do this kind of organizational work.
 
 While the overriding goal of [[personal task
 management\|rhizome/better-task-lists]] is to break things into the
@@ -44,16 +44,16 @@ systems have requirements that are either much less important in
 personal systems or actively counter-intuitive for other uses. They are:
 
 - Task assignment, so that specific issues can be assigned different
-team members. Ideally this gets a specific developer can "own" a
-specific portion of the project and actually be able to work and
-coordinate efforts on the project.
+  team members. Ideally this gets a specific developer can "own" a
+  specific portion of the project and actually be able to work and
+  coordinate efforts on the project.
 
 - Task prioritization, so that less important or crucial issues get
-attention before "nice to have," items are addressed.
+  attention before "nice to have," items are addressed.
 
 - Issue comments and additional attached information, to track progress
-and support information sharing among teams, particularly over long
-periods of time with asynchronous elements.
+  and support information sharing among teams, particularly over long
+  periods of time with asynchronous elements.
 
 While it's nice to be able to integrate tasks and notes (this is really
 the core of `org-mode <http://orgmode.org>`__'s strength) issue tracking
@@ -70,16 +70,13 @@ and easy to use issue tracking system will be incredibly successful.
 Feel free to edit this post or the [[discourse]], if you're aware of a
 viable systems along these lines.
 
-.. [1]
-I'm thinking about using ikiwiki or org-mode to track issues, but
-ditz suffers from the same core problem.
+.. [1] I'm thinking about using ikiwiki or org-mode to track issues, but
+   ditz suffers from the same core problem.
 
-.. [2]
-Basically, they either sacrifice structure or concurrency features or
-both. Less structured systems rely on a group of people to capture
-the same sort of information in a regular way (unlikely) or they
-capture less information, neither option is tenable. Without
-concurrency (because they store things in single flat files) people
-can't use them to manage collaboration, which make them awkward
-personal task tracking systems.
-
+.. [2] Basically, they either sacrifice structure or concurrency features or
+   both. Less structured systems rely on a group of people to capture
+   the same sort of information in a regular way (unlikely) or they
+   capture less information, neither option is tenable. Without
+   concurrency (because they store things in single flat files) people
+   can't use them to manage collaboration, which make them awkward
+   personal task tracking systems.

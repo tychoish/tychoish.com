@@ -60,24 +60,23 @@ Assuming my understanding is correct, allow to offer the following
 analysis:
 
 - By using multiple methods, in given sequence you can reuse code
-within a class, rather than needing to define and redefine a set of
-increasingly complex procedures.
+  within a class, rather than needing to define and redefine a set of
+  increasingly complex procedures.
 
 - At the same time there's a much higher start up cost for object
-oriented code. Because we think about getting things done in programs
-we--or I--tend to think in terms of procedures, rather than objects,
-it takes a bit of extra brainpower to do the object oriented way. And
-for most tasks--which are pretty small--creating classes and creating
-methods seems like a lot of stuff to have to hold in your head when
-you're figuring out what needs to done?
+  oriented code. Because we think about getting things done in programs
+  we--or I--tend to think in terms of procedures, rather than objects,
+  it takes a bit of extra brainpower to do the object oriented way. And
+  for most tasks--which are pretty small--creating classes and creating
+  methods seems like a lot of stuff to have to hold in your head when
+  you're figuring out what needs to done?
 
-It sort of seems like, in order to do object orientation *right*, you
-have to already know what has to happen in the program. Otherwise,
-classes fail to properly describe the data/methods that you need.
+  It sort of seems like, in order to do object orientation *right*, you
+  have to already know what has to happen in the program. Otherwise,
+  classes fail to properly describe the data/methods that you need.
 
 - Ok, so now that I, more or less, understand what's going on here,
-might we be better off calling it class-oriented programming? Or
-"class-centered" programming?
+  might we be better off calling it class-oriented programming? Or
+  "class-centered" programming?
 
 Thoughts?
-

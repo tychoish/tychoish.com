@@ -12,14 +12,14 @@ functionality, and haven't really gotten the chance to use it properly.
 There were some flaws:
 
 - a dumb oversight means that the hash-based dependency checking
-doesn't work.
+  doesn't work.
 
 - Buildcloth is a bit complicated and designed for a general purpose.
-In practical terms, I made buildcloth to perform a task that I've
-been able to accomplish with 10% or less of the code.
+  In practical terms, I made buildcloth to perform a task that I've
+  been able to accomplish with 10% or less of the code.
 
 - There's no good separation between "the management of a build system"
-and "the build system data" in the system as it currently exists.
+  and "the build system data" in the system as it currently exists.
 
 Buildcloth is a nifty idea, and one that I'd like to expand upon. Also
 since the project is still pre-1.0, it seems reasonable to take these
@@ -29,7 +29,7 @@ This post is a collection of thoughts on what I'd like to accomplish for
 0.3:
 
 - pull out the job queue/running system from the build data
-organization.
+  organization.
 
 - collect more state in the dependency checking system/infrastructure.
 
@@ -38,11 +38,10 @@ organization.
 - remove ingestion and processing logic from the command line tool.
 
 - impose sub-module structure to make the interfaces for all of the
-different aspects of the program.
+  different aspects of the program.
 
 No clue about time frame. Feel free (and encouraged) to leave comments
 if you're interested in helping or have a feature that you'd really like
 to see.
 
 Onward and Upward!
-

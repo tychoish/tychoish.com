@@ -9,231 +9,290 @@ These are the CDs I'm taking to `KDHX <http://www.kdhx.org>`__ this
 morning for the Family Reunion Radio show from 10am-12pm. You could
 listen online, otherwise be entertained. Cheers!
 
-.. raw:: html
-
-<!--more-->
-
 Format for this week's radio show listings:
 
 - Title
 
-- artist
-- album
-- label (if I have it/etc.)
+  - artist
+
+  - album
+
+  - label (if I have it/etc.)
 
 CD 1
 ----
 
 - Cher Amis Buvons
 
-- Le Vent Du Nord
-- Maudite Misson!
-- Borealis Recording
+  - Le Vent Du Nord
+
+  - Maudite Misson!
+
+  - Borealis Recording
 
 - Quatre Poilus
 
-- Le Vent Du Nord
-- Maudite Misson!
-- Borealis Recording
+  - Le Vent Du Nord
+
+  - Maudite Misson!
+
+  - Borealis Recording
 
 - La Caille
 
-- Janet Russell and Christine Kydd
-- Dancin' Chantin'
-- GreenTrax
+  - Janet Russell and Christine Kydd
+
+  - Dancin' Chantin'
+
+  - GreenTrax
 
 - Trois Navires de Ble
 
-- Great Big Sea
-- Turn
-- Rhino / Wea
+  - Great Big Sea
+
+  - Turn
+
+  - Rhino / Wea
 
 - Les Fille Des Forges / Mairi Nighean Alastair / Up & Awa' Wi' The
-Laverock
+  Laverock
 
-- Janet Russell and Christine Kydd
-- Dancin' Chantin'
-- GreenTrax
+  - Janet Russell and Christine Kydd
+
+  - Dancin' Chantin'
+
+  - GreenTrax
 
 - Marie Blanche / Cuckoo's Nest / Old French
 
-- Barachois
-- Barachois - Acadian Music From Prince Edward Island
-- House Party
+  - Barachois
+
+  - Barachois - Acadian Music From Prince Edward Island
+
+  - House Party
 
 - Breton Dances
 
-- John Renbourn Group
-- Live in America
-- Flying Fish Records
+  - John Renbourn Group
+
+  - Live in America
+
+  - Flying Fish Records
 
 - Bastarache La Rigondaine
 
-- Barachois
-- Barachois - Acadian Music From Prince Edward Island
-- House Party
+  - Barachois
+
+  - Barachois - Acadian Music From Prince Edward Island
+
+  - House Party
 
 - Rigu Esva
 
-- Llan de Cubel
-- L'otro Llau de La mar
+  - Llan de Cubel
+
+  - L'otro Llau de La mar
 
 - Tengo De Rondar To Valle
 
-- Xeliba
-- Ferrunu
+  - Xeliba
+
+  - Ferrunu
 
 - Di Madre In Figlia - From Mother to Daughter
 
-- Fiamma Fumana
-- 1.0
-- Omnium
+  - Fiamma Fumana
+
+  - 1.0
+
+  - Omnium
 
 - Romonson De La Panera
 
-- Xeliba
-- Ferrunu
+  - Xeliba
+
+  - Ferrunu
 
 - L'otro Llau de La mar
 
-- Llan de Cubel
-- L'otro Llau de La mar
+  - Llan de Cubel
+
+  - L'otro Llau de La mar
 
 CD 2
 ----
 
 - The Balad of Serenity
 
-- Sonny Rohdes
-- Firefly
-- Fox
+  - Sonny Rohdes
+
+  - Firefly
+
+  - Fox
 
 - Fidelity
 
-- Regina Spector
-- Begin to Hope
-- Sire
+  - Regina Spector
+
+  - Begin to Hope
+
+  - Sire
 
 - Strong Women Rule us All with Their Tears
 
-- Brian McNeil
-- The Back O' The North Wind
-- Greentrax
+  - Brian McNeil
+
+  - The Back O' The North Wind
+
+  - Greentrax
 
 - When the Saint's Go Marching IN
 
-- Joseph Spence
-- Living on the Halleluja Side
-- Smithsonian Folkways
+  - Joseph Spence
+
+  - Living on the Halleluja Side
+
+  - Smithsonian Folkways
 
 - Hugan Fhathast
 
-- Rory Campbell/Malcolm Stit
-- Nusa
+  - Rory Campbell/Malcolm Stit
+
+  - Nusa
 
 - Shil Me Fein
 
-- Triona Ni Dohmhnaill
-- Triona
-- Green Linnet
+  - Triona Ni Dohmhnaill
+
+  - Triona
+
+  - Green Linnet
 
 - Nusa
 
-- Rory Campbell/Malcolm Stit
-- Nusa
+  - Rory Campbell/Malcolm Stit
+
+  - Nusa
 
 - Bonaparte Crossing the Rhine/Cross the Fence
 
-- John Skelton & Kieran O'Hare
-- Double Barreled
-- Self
+  - John Skelton & Kieran O'Hare
+
+  - Double Barreled
+
+  - Self
 
 - The Wee Lass on the Brae
 
-- Triona Ni Dohmhnaill
-- Triona
-- Green Linnet
+  - Triona Ni Dohmhnaill
+
+  - Triona
+
+  - Green Linnet
 
 - An Paistin Fionn
 
-- Niamh Parsons
-- Niamh Parsons
-- Green Linnet
+  - Niamh Parsons
+
+  - Niamh Parsons
+
+  - Green Linnet
 
 - Stor A Stor A Ghra
 
-- Triona Ni Dohmhnaill
-- Triona
-- Green Linnet
+  - Triona Ni Dohmhnaill
+
+  - Triona
+
+  - Green Linnet
 
 CD 3
 ----
 
 - Hard Luck Stories
 
-- Richard and Linda Thompson
-- Pour Down Like Silver
-- Ume Imports
+  - Richard and Linda Thompson
+
+  - Pour Down Like Silver
+
+  - Ume Imports
 
 - Robin Spraggon's Old Grey Mare
 
-- Kathryn Tikell and Friends
-- The Northuberland Collection
-- Park Records
+  - Kathryn Tikell and Friends
+
+  - The Northuberland Collection
+
+  - Park Records
 
 - Gaudete
 
-- Steleye Span
-- Below the Salt
-- Chrysalis
+  - Steleye Span
+
+  - Below the Salt
+
+  - Chrysalis
 
 - Eg E Liden Eg
 
-- Frode Nyvold
-- Skjemt Og Sjanti
-- Self
+  - Frode Nyvold
+
+  - Skjemt Og Sjanti
+
+  - Self
 
 - Sir John Fenwick's The Flower Amang Them / Sir Sidney Smith's March
 
-- Kathryn Tikell and Friends
-- The Northuberland Collection
-- Park Records
+  - Kathryn Tikell and Friends
+
+  - The Northuberland Collection
+
+  - Park Records
 
 - Black Muddy River
 
-- Norma Waterson
-- Norma Waterson
-- Hannibal
+  - Norma Waterson
+
+  - Norma Waterson
+
+  - Hannibal
 
 - The Grey Funnel Line
 
-- The Starboard List
-- Songs of Tall Ships/Cruising Around Yarmoth
-- Genes Records
+  - The Starboard List
+
+  - Songs of Tall Ships/Cruising Around Yarmoth
+
+  - Genes Records
 
 - Danse Polka
 
-- Frode Nyvold
-- Skjemt Og Sjanti
-- Self
+  - Frode Nyvold
+
+  - Skjemt Og Sjanti
+
+  - Self
 
 - Is there for Honest Poverty
 
-- Old Blind Dogs
-- Fit?
-- Green Linnet
+  - Old Blind Dogs
+
+  - Fit?
+
+  - Green Linnet
 
 - What's that I Hear?
 
-- Phil Ochs
-- All the News That's Fit to Sing
-- Collector's Choice
+  - Phil Ochs
+
+  - All the News That's Fit to Sing
+
+  - Collector's Choice
 
 - Mabel
 
-- Mike Seeger
-- Fresh Oldtime String Band Music
-- Roounder (?)
+  - Mike Seeger
 
+  - Fresh Oldtime String Band Music
 
-
+  - Roounder (?)

@@ -14,15 +14,8 @@ This is terribly cool, and has allowed me to crystalize a lot of
 thoughts I've had about my own digital (and really life) organization.
 The following are some of these thoughts.
 
-.. raw:: html
-
-<h5>
-
 Productivity
-
-.. raw:: html
-
-</h5>
+------------
 
 One thing that Merlin goes on about is David Allen's Getting Things Done
 approach. Frankly the corporate productivity slant is kind of a put off,
@@ -52,15 +45,8 @@ the "GTD Community," and what not that I think might be interesting to
 share at some point, so just keep that in the back of your mind.
 Anyway...
 
-.. raw:: html
-
-<h5>
-
 Software
-
-.. raw:: html
-
-</h5>
+--------
 
 I just discovered a GREAT novel/long project writing program. I'll putz
 around with it after break, but it seems to have a lot of great
@@ -93,15 +79,8 @@ so I don't know. In any case this new editor might answer the problem
 with long form and presentation work, without disrupting the system
 overly much.
 
-.. raw:: html
-
-<h5>
-
 Writing
-
-.. raw:: html
-
-</h5>
+-------
 
 As I've ruminated for a while on this site, and to a few of you, I kind
 of regret that I wasn't either particpating in NaNoWriMo, or in the
@@ -116,7 +95,5 @@ Delany) which I think would be inspiring. Or something.
 
 Cheers, tycho
 
-.. [1]
-ok, so maybe that's my term... by the way, weblogs need (better)
-footnote settings.
-
+.. [1] ok, so maybe that's my term... by the way, weblogs need (better)
+   footnote settings.

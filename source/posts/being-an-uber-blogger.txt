@@ -12,11 +12,8 @@ commentary*
 
 .. raw:: html
 
-<object width="425" height="350">
-
-.. raw:: html
-
-<embed src="http://www.youtube.com/v/w4S9wjuJPk8" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+   <object width="425" height="350">
+   <embed src="http://www.youtube.com/v/w4S9wjuJPk8" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
 I think this is pretty good advice, clearly, and the "hey folks, we're
 taping over here," line was priceless. Well, maybe not priceless, but
@@ -82,4 +79,3 @@ blogs, and other parts of the internet community is at least as
 important.
 
 At least I think so, we'll see how it works out.
-

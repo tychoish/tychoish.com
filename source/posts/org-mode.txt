@@ -102,24 +102,20 @@ tuned :)
 
 Onward and Upward!
 
-.. [1]
-There's this joke about emacs, that "it's a good operating system,
-but it lacks a good text editor." I think the truth is that, emacs is
-an *ok* (but not exceptional) text editor, but it opens so many other
-possibilities for interacting with text in *amazingly* productive
-ways, that it's managed to garner the loyalty of people like me.
+.. [1] There's this joke about emacs, that "it's a good operating system,
+   but it lacks a good text editor." I think the truth is that, emacs is
+   an *ok* (but not exceptional) text editor, but it opens so many other
+   possibilities for interacting with text in *amazingly* productive
+   ways, that it's managed to garner the loyalty of people like me.
 
-.. [2]
-I'm not positive of this, but emacs itself might owe it's existence
-to this kind of work, as it's built around an lisp interpreter, which
-is a language used by AI researchers in the 60s because it could
-reflect the way we think. Or so the theory goes.
+.. [2] I'm not positive of this, but emacs itself might owe it's existence
+   to this kind of work, as it's built around an lisp interpreter, which
+   is a language used by AI researchers in the 60s because it could
+   reflect the way we think. Or so the theory goes.
 
-.. [3]
-Really, it's not a directory, as much as it is a git repository. And
-this is I think this is a point where text-file geeks will say *oh!
-dude! that's cool*, because really org-mode provides interfaces to
-parse together text files, which you can: take everywhere, version
-and sore easily, save forever, and hell branch if you need to. A
-*calendar*. Dude!
-
+.. [3] Really, it's not a directory, as much as it is a git repository. And
+   this is I think this is a point where text-file geeks will say *oh!
+   dude! that's cool*, because really org-mode provides interfaces to
+   parse together text files, which you can: take everywhere, version
+   and sore easily, save forever, and hell branch if you need to. A
+   *calendar*. Dude!

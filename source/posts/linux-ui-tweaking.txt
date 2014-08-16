@@ -27,40 +27,39 @@ by it's "clunkyness," here are some suggestions to make things a little
 less painful (espically if you're the Awesome type).
 
 - Tweak and change the system fonts. As near as I can tell sub-pixel
-rendering is turnned off in GNOME by default (it's on in KDE), which
-is what makes fonts look smooth and pretty. Turning this on, and
-making the fonts smaller, made a world of difference for me. Adding
-in good fonts for screen reading (like the forbidden MS Verdana font,
-and the Google Andriod Fonts) really added something to the
-experience. I think it's easy to forget how much a really good,
-really readable font can affect the way we interact with a computer.
-First order of business.
+  rendering is turnned off in GNOME by default (it's on in KDE), which
+  is what makes fonts look smooth and pretty. Turning this on, and
+  making the fonts smaller, made a world of difference for me. Adding
+  in good fonts for screen reading (like the forbidden MS Verdana font,
+  and the Google Andriod Fonts) really added something to the
+  experience. I think it's easy to forget how much a really good,
+  really readable font can affect the way we interact with a computer.
+  First order of business.
 
 - Do something about the GNOME panel. The GNOME pannel (that would be
-all the status bars and such) by default takes a huge amount of
-screen space (particularly on smaller screens). For starters, I turn
-off "auto-expand" and move the top panel into the right or left
-corner, though there might be some advantage to moving it to the
-bottom left-or right corners, as we tend to have more horizontal
-space on our screens than vertical, but that depends a lot on your
-personal prefrence. My second move is to ditch the bottom pannel, and
-move things like the "multi-desktop" chooser, and a drop down list of
-open windows to the top pannel. Move things that you use every day to
-the pannel and take away things that you don't need to see. One of
-the reasons that I like OS X so much is that it does a pretty good
-job of focusing the UI on "content" inside the window, rather than
-the UI of the window/system itself. GNOME can do this too, but it
-doesn't automatically.
+  all the status bars and such) by default takes a huge amount of
+  screen space (particularly on smaller screens). For starters, I turn
+  off "auto-expand" and move the top panel into the right or left
+  corner, though there might be some advantage to moving it to the
+  bottom left-or right corners, as we tend to have more horizontal
+  space on our screens than vertical, but that depends a lot on your
+  personal prefrence. My second move is to ditch the bottom pannel, and
+  move things like the "multi-desktop" chooser, and a drop down list of
+  open windows to the top pannel. Move things that you use every day to
+  the pannel and take away things that you don't need to see. One of
+  the reasons that I like OS X so much is that it does a pretty good
+  job of focusing the UI on "content" inside the window, rather than
+  the UI of the window/system itself. GNOME can do this too, but it
+  doesn't automatically.
 
 - This is an elaboration of the earlier too points, but tweak the theme
-settings, which--at least in Ubunut--are cartoonish by default. I've
-found that the "Mist" interface buttons tend to take up a little less
-room, but try your hand at desiging something new. My M.O. of late
-has revolved around "making everything smaller" because I don't like
-UI bloat, but no matter what your goals are, I think everyone needs
-to spend some time customizing the finer aspects of their UI.
+  settings, which--at least in Ubunut--are cartoonish by default. I've
+  found that the "Mist" interface buttons tend to take up a little less
+  room, but try your hand at desiging something new. My M.O. of late
+  has revolved around "making everything smaller" because I don't like
+  UI bloat, but no matter what your goals are, I think everyone needs
+  to spend some time customizing the finer aspects of their UI.
 
 It's a start in the right dirrection at any rate.
 
 Onward and Upward!
-

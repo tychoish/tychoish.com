@@ -29,12 +29,12 @@ the steek looks like:
 
 ::
 
-DL D L LDL L D LD
-DD L D LDL D L DD
-DL D L LDL L D LD
-DD L D LDL D L DD
-DL D L LDL L D LD
-DD L D LDL D L DD
+   DL D L LDL L D LD
+   DD L D LDL D L DD
+   DL D L LDL L D LD
+   DD L D LDL D L DD
+   DL D L LDL L D LD
+   DD L D LDL D L DD
 
 When you're done the dark/background stitches on the side will be the
 stitches that you pick up, and the center dark stitch will be the stitch
@@ -71,4 +71,3 @@ If you have questions please do ask! I'll be in touch, and I'll get
 pictures of my progress up... soonish.
 
 Onward and `Upward <http://criticalfutures.com>`__!
-

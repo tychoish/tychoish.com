@@ -75,12 +75,9 @@ that's more complex, and the unpopular technologies shrivel up.
 What to do about it?
 
 - Learn more about the technologies you use. Even, and epically if
-you're not a programmer.
+  you're not a programmer.
 
 - Develop simple tools and share them with your friends.
 
 - Work toward task oriented computing, and away from feature
-orientation.
-
-
-
+  orientation.

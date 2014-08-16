@@ -12,10 +12,10 @@ The Context
 - `git writing on wikish </wikish/git-writing/>`__.
 
 - `haikus in
-git <http://www.snell-pym.org.uk/archives/2010/02/01/haikus-in-git/>`__
+  git <http://www.snell-pym.org.uk/archives/2010/02/01/haikus-in-git/>`__
 
 - `writing like a
-programer <http://tychoish.com/rhizome/writing-like-a-programmer/>`__
+  programer <http://tychoish.com/rhizome/writing-like-a-programmer/>`__
 
 - `git thoughts <http://tychoish.com/rhizome/git-thinking/>`__
 
@@ -31,8 +31,6 @@ weird admittedly; and as a result people on the Internet, not to mention
 my coworkers,come to me with git questions from time. This post is a
 response to a more recent change.
 
---------------
-
 How I Work
 ----------
 
@@ -46,23 +44,23 @@ like to version, but are too small *yet* for their own project
 repositories. The brief overview:
 
 - **garen** is like my home directory within my home directory, and it
-has config files, scripts. and other daily essentials.
+  has config files, scripts. and other daily essentials.
 
 - **org** stores my `org-mode <http://www.orgmode.org>`__ files.
 
 - **fiction projects**: I have five repositories in ``~/`` that store
-fiction projects, that I'm theoretically working on in some capacity,
-though I haven't touched most of them regularly.
+  fiction projects, that I'm theoretically working on in some capacity,
+  though I haven't touched most of them regularly.
 
 - **writing** holds blog drafting, and a couple of not-exactly-fiction,
-projects that I'm not quite ready to admit exist.
+  projects that I'm not quite ready to admit exist.
 
 - **website content**: `wikish </wikish/>`__,
-`tychoish.com <http://tychoish.com/>`__,
-`cyborginstitute.com <http://www.cyborginstitute.com>`__, the `cyborg
-institute wiki <http://wiki.cyborginstitute.com/>`__ and a few other
-website projects that I'm involved with have repositories to store
-their content.
+  `tychoish.com <http://tychoish.com/>`__,
+  `cyborginstitute.com <http://www.cyborginstitute.com>`__, the `cyborg
+  institute wiki <http://wiki.cyborginstitute.com/>`__ and a few other
+  website projects that I'm involved with have repositories to store
+  their content.
 
 The lesson here, about repository organization, is that git wants you to
 have distinct repositories for different projects. Its possible to merge
@@ -113,4 +111,3 @@ In any case, if you have thoughts on the subject I'd love to see your
 input on `the wikish git writing page </wikish/git-writing/>`__.
 
 Write on!
-

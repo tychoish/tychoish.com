@@ -31,20 +31,10 @@ redesigning, for the most part, TealArt has remained quite consistent
 over the past year. But I'd like to submit for your approval, a new
 banner. Nothing radical. Just a change. It's about half the size of the
 current banner (kb wise, same visual size). It also uses a font derived
-from Jane Austen's hand writing. How cool is that? Thanks to fellow
-blogger Neil (Gaiman).
-
-.. raw:: html
-
-<div align="center">
-
-.. raw:: html
-
-</div>
+from Jane Austen's hand writing. How cool is that? Thanks to Neil Gaiman.
 
 Which one do you like more? I'll orient the winner the right way when I
 decide, I'm partial to the second: I think the lines look confusing in
 the first.
 
 Cheers, Sam
-

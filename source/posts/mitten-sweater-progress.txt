@@ -5,16 +5,7 @@ Mitten (sweater) Progress
 .. post:: 2008-04-07
    :author: tychoish
 
-So I've been doing a little bit of knitting today. See below for
-evidence of this fact.
-
-.. raw:: html
-
-<div align="center">
-
-.. raw:: html
-
-</div>
+So I've been doing a little bit of knitting today.
 
 Current projection indicates that by the end of the current repeat, I
 will be at the underarm point of the sweater. If I book it, and find
@@ -35,4 +26,3 @@ crew neck.
 
 I've put the shawl away for the time being. This is probably good for my
 (knitting) health.
-

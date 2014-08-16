@@ -10,14 +10,6 @@ One of the ideas that I'm playing around with in the new project is an
 long [1]_ story, will be leaving earth and our solar system for more
 hospitable places.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 This ties in with some of the ideas that I was playing with in the last
 post, in that I think this presents an interesting perspective to talk
 about some cool issues, even if I don't think it's particularly likely
@@ -39,9 +31,7 @@ tethered to my specific instance of computer. We shall see...
 
 Cheers, sam
 
-.. [1]
-I'm using the term "long" in the same sense as the "long 18th
-century," rather than the sense that implies the story will be a
-lengthy narrative. It covers a lot of ground, but needn't take a lot
-of time if done correctly.
-
+.. [1] I'm using the term "long" in the same sense as the "long 18th
+   century," rather than the sense that implies the story will be a
+   lengthy narrative. It covers a lot of ground, but needn't take a lot
+   of time if done correctly.

@@ -119,23 +119,19 @@ love to talk. So comment!
 
 cheers, tycho
 
-.. [1]
-Admittedly, the real idea from this part of the book that carries on
-throughout this and *A Thousand Plateaus* is the "Body without
-Organs," or in many notations BwO. This is something that seems so
-simple in their explanations but that I find incredibly hard to
-explain and explore, and quite frankly, hard to apply to other
-situations, thoghts and projects. Maybe some other week.
+.. [1] Admittedly, the real idea from this part of the book that carries on
+   throughout this and *A Thousand Plateaus* is the "Body without
+   Organs," or in many notations BwO. This is something that seems so
+   simple in their explanations but that I find incredibly hard to
+   explain and explore, and quite frankly, hard to apply to other
+   situations, thoghts and projects. Maybe some other week.
 
-.. [2]
-The translators use the word "machine," throughout the book, and
-while I think this word makes a lot of sense in context of the book,
-in my own mind I've taken the word "machine" to refer to something
-more like a "mechanism" or a "widget".
+.. [2] The translators use the word "machine," throughout the book, and
+   while I think this word makes a lot of sense in context of the book,
+   in my own mind I've taken the word "machine" to refer to something
+   more like a "mechanism" or a "widget".
 
-.. [3]
-Clearly there is a space where anecdotal evidence isn't always a
-productive part of discourse, but I think this reiterates the value
-of case studies and qualatative methodologies. *Balance in all
-things, after all.*
-
+.. [3] Clearly there is a space where anecdotal evidence isn't always a
+   productive part of discourse, but I think this reiterates the value
+   of case studies and qualatative methodologies. *Balance in all
+   things, after all.*

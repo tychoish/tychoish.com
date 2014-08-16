@@ -26,11 +26,14 @@ consideration, and I'm going to spend some time with the first
 (*italicized*) item today. Here they are for connivence sake:
 
 - *Is there a layer of information that goes into knitting design and
-documentation that isn't typically exposed in "closed"/conventional
-publications? (that would be equivalent in role to source code)?*
+  documentation that isn't typically exposed in "closed"/conventional
+  publications? (that would be equivalent in role to source code)?*
+
 - The role of editors and communities and the sometimes very
-"conventional" development models that "open" projects use.
+  "conventional" development models that "open" projects use.
+
 - The way GPL/GFDL knitting projects can be used commercially.
+
 - Technological methods of attending to such a project.
 
 In software, open source is important because without source code,
@@ -87,6 +90,4 @@ stuff.
 
 Until then, I remain, tycho
 
-.. [1]
-Open Source Knitting Community
-
+.. [1] Open Source Knitting Community

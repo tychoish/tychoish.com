@@ -1,5 +1,5 @@
 ==========================
-Is there any there there? 
+Is there any there there?
 ==========================
 
 .. post:: 2008-11-06
@@ -70,13 +70,11 @@ a systemic change that will not come easily. [1]_
 
 Onward and cautiously Upward!
 
-.. [1]
-There is a minor movement in some circles of people who are
-attempting to reduce their ecological footprint, buying locally
-produced goods, opting toward organic foods, and so forth. While
-there are a lot of reasons to do this--quality/freshness, etc--this
-kind of "individualistic economic activism" requires an absurd amount
-of privilege (money/time) and access to economic resources. While
-this economy is more authentic in some ways, it's not independent or
-self-sufficient and that's *totally crucial* here.
-
+.. [1] There is a minor movement in some circles of people who are
+   attempting to reduce their ecological footprint, buying locally
+   produced goods, opting toward organic foods, and so forth. While
+   there are a lot of reasons to do this--quality/freshness, etc--this
+   kind of "individualistic economic activism" requires an absurd amount
+   of privilege (money/time) and access to economic resources. While
+   this economy is more authentic in some ways, it's not independent or
+   self-sufficient and that's *totally crucial* here.

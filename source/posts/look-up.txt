@@ -51,10 +51,8 @@ technical question and in part a taste one.
 
 So, don't delay. What do you think?
 
-.. [1]
-It's set in a distant future, space travel is technologically
-commonplace, I'm not writing something that adheres to any of the
-hard-sf ides about "strict extrapolation," though it is indeed I
-think it has a much more "realistic edge," which I assure has
-literary rather than technological/polemical inspiration.
-
+.. [1] It's set in a distant future, space travel is technologically
+   commonplace, I'm not writing something that adheres to any of the
+   hard-sf ides about "strict extrapolation," though it is indeed I
+   think it has a much more "realistic edge," which I assure has
+   literary rather than technological/polemical inspiration.

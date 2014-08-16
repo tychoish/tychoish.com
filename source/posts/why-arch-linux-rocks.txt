@@ -14,101 +14,104 @@ brief list of first impressions are in order.
 
 1. **I share values with the Arch Developers.**
 
-This is, I think, a factor of "choosing a Linux (or BSD) distribution"
-that is really hard to understand or explain. In part because the values
-that distinguish distributions are hard sometimes hard to suss out,
-particularly if you're on the outside looking in. This explains the
-phenomena of "distro hopping"
+   This is, I think, a factor of "choosing a Linux (or BSD)
+   distribution" that is really hard to understand or explain. In part
+   because the values that distinguish distributions are hard
+   sometimes hard to suss out, particularly if you're on the outside
+   looking in. This explains the phenomena of "distro hopping"
 
-My sense of the "Arch" philosophy/approach is largerly what this post is
-about, but in summary: arch is lightweight and minimal, Arch expects
-users to be sophisticate and intelligent (Arch would rather tell you how
-something works, so you can do it "right," than try and save you from
-yourself and do it in a way that might be wrong.) Arch is a community
-project, and isn't reliant on commercial interests, and arch is firmly
-dedicated to free software ideas.
+   My sense of the "Arch" philosophy/approach is largerly what this
+   post is about, but in summary: arch is lightweight and minimal,
+   Arch expects users to be sophisticate and intelligent (Arch would
+   rather tell you how something works, so you can do it "right," than
+   try and save you from yourself and do it in a way that might be
+   wrong.) Arch is a community project, and isn't reliant on
+   commercial interests, and arch is firmly dedicated to free software
+   ideas.
 
-How does this compare to other distributions you've heard of. Arch is
-community oriented/originated like slackware and Debian; Arch is
-lightweight like debian-netinst and Gentoo; Arch is minimal like Damn
-Small Linux (though not quite that minimal) and the other tiny-Linuxes;
-Arch is based on binary packages like Debian and Fedora/RedHat/CentOS;
-Arch uses linux, but takes inspiration from the BSDs in terms of system
-architecture; Arch uses a rolling release cycle like Debian testing
-branch and Gentoo.
+   How does this compare to other distributions you've heard of. Arch
+   is community oriented/originated like slackware and Debian; Arch is
+   lightweight like debian-netinst and Gentoo; Arch is minimal like
+   Damn Small Linux (though not quite that minimal) and the other
+   tiny-Linuxes; Arch is based on binary packages like Debian and
+   Fedora/RedHat/CentOS; Arch uses linux, but takes inspiration from
+   the BSDs in terms of system architecture; Arch uses a rolling
+   release cycle like Debian testing branch and Gentoo.
 
 2. **It doesn't dumb anything down, and doesn't expect users to be
-either experts *or* total beginners.**
+   either experts *or* total beginners.**
 
-I think the term they use is "Intermediate" or "Advanced Beginner" but
-in any case, but in any case I think the approach is good. Provide
-configuration in it's most basic and straightforward form, and rather
-than try to make the system easier to configure, document and hope that
-straightforward configuration setup will be easier to manage in the long
-run than a more convoluted, but "easy" set up.
+   I think the term they use is "Intermediate" or "Advanced Beginner"
+   but in any case, but in any case I think the approach is
+   good. Provide configuration in it's most basic and straightforward
+   form, and rather than try to make the system easier to configure,
+   document and hope that straightforward configuration setup will be
+   easier to manage in the long run than a more convoluted, but "easy"
+   set up.
 
-Basically Arch expects and assumes that complexity and difficulty are
-the same, and opposed and that simplicity and ease of use are similarly
-connected.
+   Basically Arch expects and assumes that complexity and difficulty
+   are the same, and opposed and that simplicity and ease of use are
+   similarly connected.
 
 3. **Arch values and promotes minimalism.**
 
-This comes from a few different aspects of Arch but in general, the
-avoidance of complexity in the configuration, and the "blank slate"
-aspect of the installation process combine to create a system that is
-minimal and that is almost entirely agnostic with regards to what you
-might want to do with the system.
+   This comes from a few different aspects of Arch but in general, the
+   avoidance of complexity in the configuration, and the "blank slate"
+   aspect of the installation process combine to create a system that
+   is minimal and that is almost entirely agnostic with regards to
+   what you might want to do with the system.
 
-Where as many linux-based systems are designed for specific tasks (eg.
-mythbuntu; medibuntu; linux mint; crunch linux, etc.) and include
-software by default that supports this goal. Arch in contrast, install
-no (or very little) software by default, and can function well for a
-wide range of potential uses, from the fully featured desktop to the
-minimalistic headless server install.
+   Where as many linux-based systems are designed for specific tasks
+   (eg. mythbuntu; medibuntu; linux mint; crunch linux, etc.) and
+   include software by default that supports this goal. Arch in
+   contrast, install no (or very little) software by default, and can
+   function well for a wide range of potential uses, from the fully
+   featured desktop to the minimalistic headless server install.
 
 4. **The Arch Wiki Rocks.**
 
-I've been thinking about wikis and what makes a wiki "work" rather than
-"not work," and I'm beginning to think that the `ArchLinux
-Wiki <http://wiki.archlinux.org/index.php/Main_Page>`__ is another
-example of a wiki that *works.*
+   I've been thinking about wikis and what makes a wiki "work" rather
+   than "not work," and I'm beginning to think that the `ArchLinux
+   Wiki <http://wiki.archlinux.org/index.php/Main_Page>`__ is another
+   example of a wiki that *works.*
 
-I used to think that wikis powered by the
-`MediaWiki <http://www.mediawiki.org/wiki/MediaWiki>`__ engine were
-always *bad*: they look too much like wikipedia (and are reasonably hard
-to customize) and as a result people tend to treat them *like* wikipedia
-which caries all sorts baggage from the tradition 19th century
-encyclopedic projects and colonialism, and fails to capture some of the
-brilliance and effectiveness of wikis outside of the world of wikipedia
-(and the MediaWiki engine by association.)
+   I used to think that wikis powered by the `MediaWiki
+   <http://www.mediawiki.org/wiki/MediaWiki>`__ engine were always
+   *bad*: they look too much like wikipedia (and are reasonably hard
+   to customize) and as a result people tend to treat them *like*
+   wikipedia which caries all sorts baggage from the tradition 19th
+   century encyclopedic projects and colonialism, and fails to capture
+   some of the brilliance and effectiveness of wikis outside of the
+   world of wikipedia (and the MediaWiki engine by association.)
 
-So despite this, the ArchLinux wiki is actually really good and provides
-helpful instructions for nearly everything to do with Arch. It looks
-good, and the more I read it all of the cool discursive/opinion-based
-modality that I enjoy the most about wikis is present on the Arch Wiki.
+   So despite this, the ArchLinux wiki is actually really good and
+   provides helpful instructions for nearly everything to do with
+   Arch. It looks good, and the more I read it all of the cool
+   discursive/opinion-based modality that I enjoy the most about wikis
+   is present on the Arch Wiki.
 
 5. **Archies are really geeky and great, and their interests and
-tendencies are reflected in the packages provided by the system:**
+   tendencies are reflected in the packages provided by the system:**
 
 Allow me to justify this with a few anecdotes:
 
 - Arch includes a "snapshot package" from emacs-23 in the main
-repository (you have to add another debian repository to get this in
-debian).
+  repository (you have to add another debian repository to get this in
+  debian).
 
 - There is a great cross over between Awesome--my window manager of
-choice--and Arch, so there are good up to date packages of Awesome.
+  nchoice--and Arch, so there are good up to date packages of Awesome.
 
 - Uzbl, (eg. useable) a super minimalistic, web-kit based browser is
-developed on/for Arch.
+  developed on/for Arch.
 
 - As I was getting my first virtual machine setup, I did a bit of
-distro hopping to see what would work best. I decided to use
-virtualbox (because it's nearly free software, and reasonably full
-featured) and I had a hell of a time getting other OSs to work right
-inside of the virtual box, but it appears that other Archies have had
-the same thought, and there were pretty good explanations on the wiki
-and it just worked.
+  distro hopping to see what would work best. I decided to use
+  virtualbox (because it's nearly free software, and reasonably full
+  featured) and I had a hell of a time getting other OSs to work right
+  inside of the virtual box, but it appears that other Archies have
+  had the same thought, and there were pretty good explanations on the
+  wiki and it just worked.
 
 How cool is that? I don't think arch is for everyone, but, if any of
 what I've talked about today sounds interesting/appealing, give it a
@@ -116,4 +119,3 @@ shot. Also, my experiences with running it under Virtual Box have been
 generally favorable, so if that's more your speed, give it a shot.
 
 Onward and Upward!
-

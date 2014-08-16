@@ -75,8 +75,6 @@ it's very minimal. This is a good thing.
 
 Ok, that's all I have for now. There's more, so stay tuned.
 
-.. [1]
-There is a package in `MacPorts <http://www.macports.org/>`__, but I
-can't get it to install, and since OS X doesn't really use X, I'm not
-sure how it would work, but I'm sure it would work with GUN-Darwin.
-
+.. [1] There is a package in `MacPorts <http://www.macports.org/>`__, but I
+   can't get it to install, and since OS X doesn't really use X, I'm not
+   sure how it would work, but I'm sure it would work with GUN-Darwin.

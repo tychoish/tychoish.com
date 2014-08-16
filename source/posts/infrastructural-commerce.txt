@@ -44,12 +44,12 @@ So when we look at "infrastructural technology" it sure looks like there
 are some kinds of businesses that will continue to flourish:
 
 - The people making mainframes/servers and the high level computing
-systems that provide the infrastructure.
+  systems that provide the infrastructure.
 
 - The people who provide the tools that make low level tools successful
-and useful to users. (eg. What UbuntuOne provides on top of SSH and
-rsync; What gmail provides on top of IMAP; What MobileMe provides
-ontop of WebDAV/CalDAV/IMAP).
+  and useful to users. (eg. What UbuntuOne provides on top of SSH and
+  rsync; What gmail provides on top of IMAP; What MobileMe provides
+  ontop of WebDAV/CalDAV/IMAP).
 
 These strike me as rather conventional business models, given the
 history. Does infrastructural computing also:
@@ -57,8 +57,8 @@ history. Does infrastructural computing also:
 - further the development of subscription-based businesses?
 
 - create a new kind of challenge in customizing solutions for
-organizations and groups that translate raw resources into "finished
-output?" Is this too much like IMAP --> Gmail?
+  organizations and groups that translate raw resources into "finished
+  output?" Is this too much like IMAP --> Gmail?
 
 - [other possibilities created by you, here]
 
@@ -73,4 +73,3 @@ personally manage the hardware and software of the server is even more
 valuable.
 
 What else does the hive mind have for us?
-

@@ -22,6 +22,4 @@ do that first.
 you know, this isn't very tumble-log-y. I have yet to try a block quote,
 though, that might help.
 
-.. [1]
-**Update:** by which I mean the website, and this design.
-
+.. [1] **Update:** by which I mean the website, and this design.

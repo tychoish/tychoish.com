@@ -13,75 +13,68 @@ my head when ever I make a decision of any sort.
 
 If that's the case, I pity you.
 
-.. raw:: html
-
-<!--more-->
-
 Pro
 ~~~
 
 1. My computer is nearly 3 years old. In this time, apple has seriously
-revised the machines in nearly every possible way. Though most
-noticeably, the new processors substantially outperform the 1.67 G4
-that I have a the moment
+   revised the machines in nearly every possible way. Though most
+   noticeably, the new processors substantially outperform the 1.67 G4
+   that I have a the moment
 
 2. My old computer isn't completely dead and will serve it's next owner
-pretty well.
+   pretty well.
 
 3. I'm still using tiger, (10.4) and I'd have to spend $129 dollars to
-upgrade this computer to the new operating system, which I think I'm
-about due for. This isn't incredibly crucial... but if my computer
-were going to be useable in a long term, rather than short term way,
-I'd want leopard and a new battery (the current one gets $120). Even
-though I'm cheap, and probably wouldn't spend the 240, this is a
-further justification, but then that's what this list is about.
+   upgrade this computer to the new operating system, which I think I'm
+   about due for. This isn't incredibly crucial... but if my computer
+   were going to be useable in a long term, rather than short term way,
+   I'd want leopard and a new battery (the current one gets $120). Even
+   though I'm cheap, and probably wouldn't spend the 240, this is a
+   further justification, but then that's what this list is about.
 
 4. They just released new revisions today, and are unlikely to do so
-again till August or September. The computer I could order tomorrow,
-is the same as the one I could get for the next six months or so,
-likely at the same price. I don't know if I want to wait that long,
-in any case. If I get into graduate school, I don't think I want to
-be moving and upgrading in the same month (if I waited till the next
-release,) and if I don't, well, uncertainty.
+   again till August or September. The computer I could order tomorrow,
+   is the same as the one I could get for the next six months or so,
+   likely at the same price. I don't know if I want to wait that long,
+   in any case. If I get into graduate school, I don't think I want to
+   be moving and upgrading in the same month (if I waited till the next
+   release,) and if I don't, well, uncertainty.
 
 5. There are some things that I've stopped using, or avoid using because
-they are painfully slow to use in the current configuration. They
-include quicksilver, bit torrent, media (photo/sound) editing. Also,
-I'm pretty quick to keep unused applications off, (My base stack is:
-Quicksilver, Adium, TextMate, Mail.app, Safari, NetNewsWire.
-Sometimes I have VLC or Preview open as well. That's it, and that
-works ok, but it's limited.)
+   they are painfully slow to use in the current configuration. They
+   include quicksilver, bit torrent, media (photo/sound) editing. Also,
+   I'm pretty quick to keep unused applications off, (My base stack is:
+   Quicksilver, Adium, TextMate, Mail.app, Safari, NetNewsWire.
+   Sometimes I have VLC or Preview open as well. That's it, and that
+   works ok, but it's limited.)
 
 6. The new computer wouldn't have a metal case and would therefore be
-better at picking up wireless signals. Grr. Ok, minor annoyance, and
-I have no problem picking up signals anywhere that I currently use
-the computer, but still, this is one of the many things that I'm
-looking forward to upgrading.
+   better at picking up wireless signals. Grr. Ok, minor annoyance, and
+   I have no problem picking up signals anywhere that I currently use
+   the computer, but still, this is one of the many things that I'm
+   looking forward to upgrading.
 
 7. I'd be able to, with the new huge hard drive, be able to keep my
-music collection on my computer without crimping performance. By now,
-I have an 80+ gig iTunes Library, and a 100 gig hard drive. For a
-year, I've kept the iTunes library on an external hard drive.
+   music collection on my computer without crimping performance. By now,
+   I have an 80+ gig iTunes Library, and a 100 gig hard drive. For a
+   year, I've kept the iTunes library on an external hard drive.
 
 Con
 ~~~
 
 1. The old computer still works, and I really can't imagine that there's
-something new that I'd want to do with the computer that I couldn't
-do with the current computer. It might not be as
+   something new that I'd want to do with the computer that I couldn't
+   do with the current computer. It might not be as
 
 2. I plan to buy a second power cord this time around, but I have three
-that work with my current computer, so that's a step down in terms of
-features.
+   that work with my current computer, so that's a step down in terms of
+   features.
 
 3. My income particularly given that I'm still waiting on The Word, is
-unsure. So spending 1300 dollars, given this, seems silly. The
-instant that I'm more sure, then this all makes a lot more sense.
-Making the order, now, without The Word, is probably not incredibly
-wise. At the same time, I've had the money for a new machine set
-aside for many months, incase there was some sort of sudden failure
-of the present computer. It is already in the budget for this summer,
-(see #4 above; this is probably the crux of my argument.)
-
-
-
+   unsure. So spending 1300 dollars, given this, seems silly. The
+   instant that I'm more sure, then this all makes a lot more sense.
+   Making the order, now, without The Word, is probably not incredibly
+   wise. At the same time, I've had the money for a new machine set
+   aside for many months, incase there was some sort of sudden failure
+   of the present computer. It is already in the budget for this summer,
+   (see #4 above; this is probably the crux of my argument.)

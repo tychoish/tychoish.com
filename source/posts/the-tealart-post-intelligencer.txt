@@ -64,6 +64,4 @@ Cheers, tycho
 ps. The new job that Chris talked about a while ago starts today, if I'm
 counting right. Huzzah for him--and good luck.
 
-.. [1]
-GH
-
+.. [1] GH

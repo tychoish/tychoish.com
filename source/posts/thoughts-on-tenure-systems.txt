@@ -9,14 +9,6 @@ I was thinking about Olin College for some reason, which launched me
 into something of a `rathole <http://en.wikipedia.org/wiki/Ratholing>`__
 about tenure and academia.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 I have a buddy at Olin College, and I've heard some people rave about
 how awesome and hard-core revolutionary the program is. And I think it's
 pretty nifty that in the late 20th and early 21st century, new
@@ -76,4 +68,3 @@ frankly if that were the case, it might not seem like quite as bad of a
 deal, but not only do non-tenure jobs, tragically misunderstand the role
 and purpose of faculty, but they put faculty in a pretty precarious
 situation, it seems to me, and that's not good.
-

@@ -42,7 +42,5 @@ Anyway, Thanks for reading, and feel free to comment ;)
 
 Best, tycho
 
-.. [1]
-I'm tragically bad at being in a room with an on-television without
-becoming mesmerized by the experience.
-
+.. [1] I'm tragically bad at being in a room with an on-television without
+   becoming mesmerized by the experience.

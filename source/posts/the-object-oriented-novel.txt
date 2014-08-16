@@ -78,7 +78,6 @@ the analogy breaks down.
 But it's a good idea. I'll get a chunk out to you all in a few days, I
 hope.
 
-.. [1]
-I guess I call them "chunks" in my mind, but then I'm *clearly* more
-of a cognitive scientist than a computer scientist, no debate there.
-
+.. [1] I guess I call them "chunks" in my mind, but then I'm *clearly*
+   more of a cognitive scientist than a computer scientist, no debate
+   there.

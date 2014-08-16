@@ -59,39 +59,39 @@ questions, and we'll discuss the answers, if they seem apparent in
 comments:
 
 - Does "the cloud" provide more--on any meaningful way--than a backup
-service? It seems like the key functionality that cloud services
-provide is hosting for things like email and documents, that is more
-reliable than saving and managing backups for the ordinary consumer>
+  service? It seems like the key functionality that cloud services
+  provide is hosting for things like email and documents, that is more
+  reliable than saving and managing backups for the ordinary consumer>
 
 - Is there functionality in standards and conventions that are
-underutilized in desktop computing that infrastructural approaches
-could take advantage without building proprietary layers on-top of
-java-script and HTTP?
+  underutilized in desktop computing that infrastructural approaches
+  could take advantage without building proprietary layers on-top of
+  java-script and HTTP?
 
 - Is it more effective to teach casual user advanced computing
-techniques (ie. using SSH) or to develop solutions that make advanced
-infrastructural computing easier for casual users (ie. front ends for
-git, more effective remote-desktop services).
+  techniques (ie. using SSH) or to develop solutions that make
+  advanced infrastructural computing easier for casual users
+  (ie. front ends for git, more effective remote-desktop services).
 
 - Is it more effective for connections to "the cloud" to be baked into
-current applications (more or less the current approach) or to bake
-connections to the cloud into the operating system (eg. mounting
-infrastructural resources as file systems)
+  current applications (more or less the current approach) or to bake
+  connections to the cloud into the operating system (eg. mounting
+  infrastructural resources as file systems)
 
 - Is the browser indeed the prevailing modality, or simply the most
-convenient tool for network interaction.
+  convenient tool for network interaction.
 
 - Do we have enough conceptual experience with using technology to
-collaborate (eg. wikis, source control systems like git, email) to be
-able to leverage the potential of the cloud, in ways that reduce
-total workloads rather than increase said workloads?
+  collaborate (eg. wikis, source control systems like git, email) to
+  be able to leverage the potential of the cloud, in ways that reduce
+  total workloads rather than increase said workloads?
 
 - Does infrastructural computing grow out of the problem of limited
-computing power (we might call this "vertical complexity") or a
-management problem of computing resources in multiple contexts (eg.
-work, home, laptop, desktop, cellphone; we might call this
-"horizontal complexity") And does this affect the kind of solutions
-that we are able to think about and use?
+  computing power (we might call this "vertical complexity") or a
+  management problem of computing resources in multiple contexts (eg.
+  work, home, laptop, desktop, cellphone; we might call this
+  "horizontal complexity") And does this affect the kind of solutions
+  that we are able to think about and use?
 
 Perhaps the last question isn't quite user-centric, but I think it leads
 to a lot of interesting solutions about possible technologies. In a lot
@@ -107,4 +107,3 @@ of these issues with you all, so if you're feeling shy, don't, and leave
 a comment.
 
 Cheers!
-

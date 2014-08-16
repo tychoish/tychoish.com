@@ -40,10 +40,9 @@ I was going to write this up as a blog post, but I think it makes sense
 as a collection of wiki pages:
 
 - [[Inclusion Management
-Tools\|/technical-writing/inclusion-management]]
+  Tools\|/technical-writing/inclusion-management]]
 - [[Structured Content
-Generation\|/technical-writing/structured-content-generation]]
+  Generation\|/technical-writing/structured-content-generation]]
 - [[Static Analysis of Text\|/technical-writing/static-analysis]]
 
 Onward and Upward!
-

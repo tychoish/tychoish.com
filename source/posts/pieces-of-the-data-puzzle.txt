@@ -23,54 +23,58 @@ tools or offer enhancements.
 Let me outline the pieces of the puzzle, first:
 
 - OS X/UNIX shell. [1]_ Having access to all of these great unix tools
-makes it reasonably easy to write scripts to automate the key parts
-of this workflow. Also, as most of my system reilies on Apache (which
-comes installed on OS X) and web servers, having this kind of low
-level access to the system is great.
-- `ikiwiki <http://www.ikiwiki.info/>`__. So this is a great little
-program that takes a directory of text files, and turns them into a
-wiki/website via a `markdown <http://daringfireball.com/markdown/>`__
-interpreter. It also connects and automates through subversion, an
-open source version management tool (it can also use git and others
-if that's more your speed.) This part of the project is probably *the
-geekiest* and most difficult part to get working, particularly if you
-don't have access a good package installer. But it's possible and
-totally worth it.
-- Several bash/shell scripts that I have written to insert data and
-clips into the wiki.
+  makes it reasonably easy to write scripts to automate the key parts
+  of this workflow. Also, as most of my system reilies on Apache (which
+  comes installed on OS X) and web servers, having this kind of low
+  level access to the system is great.
 
-- One script that, with a command in the form of,
-``clip [FileName] [Space delinated tags]`` will create a page in a
-research clipping section of the wiki with the contents of the
-clipboard, and the proper notation for tag organization and the
-date of collection. The script then opens the file in the text
-editor. I wish it could capture, more automatically the citation
-information (author/url) but I think this would require the
-browser to expose more information than it currently does. But
-it's pretty good.
-- One script that create new "tag indexes," which makes it easier to
-see all the pages tagged with specific labels. If I were more
-clever I could probably tie the scripts together so that whenever
-I added a new tag that didn't already exist that it would generate
-the new tag page. Except that this wouldn't cover all instances of
-new tag pages, so it's ok to have separate tag pages. This also
-helps control "tag sprawl," and prevent metadata from getting out
-of control.
+- `ikiwiki <http://www.ikiwiki.info/>`__. So this is a great little
+  program that takes a directory of text files, and turns them into a
+  wiki/website via a `markdown <http://daringfireball.com/markdown/>`__
+  interpreter. It also connects and automates through subversion, an
+  open source version management tool (it can also use git and others
+  if that's more your speed.) This part of the project is probably *the
+  geekiest* and most difficult part to get working, particularly if you
+  don't have access a good package installer. But it's possible and
+  totally worth it.
+
+- Several bash/shell scripts that I have written to insert data and
+  clips into the wiki.
+
+  - One script that, with a command in the form of,
+    ``clip [FileName] [Space delinated tags]`` will create a page in a
+    research clipping section of the wiki with the contents of the
+    clipboard, and the proper notation for tag organization and the
+    date of collection. The script then opens the file in the text
+    editor. I wish it could capture, more automatically the citation
+    information (author/url) but I think this would require the
+    browser to expose more information than it currently does. But
+    it's pretty good.
+
+  - One script that create new "tag indexes," which makes it easier to
+    see all the pages tagged with specific labels. If I were more
+    clever I could probably tie the scripts together so that whenever
+    I added a new tag that didn't already exist that it would generate
+    the new tag page. Except that this wouldn't cover all instances of
+    new tag pages, so it's ok to have separate tag pages. This also
+    helps control "tag sprawl," and prevent metadata from getting out
+    of control.
 
 - A set very quick functions that let me append text any text file, as
-well as a quick command to append lines to the end of a general
-"inbox" or "codex.txt" file for quick thoughts, notes, todos, and
-tasks. This is outside of the wiki and not a new tool, but it works.
+  well as a quick command to append lines to the end of a general
+  "inbox" or "codex.txt" file for quick thoughts, notes, todos, and
+  tasks. This is outside of the wiki and not a new tool, but it works.
+
 - `Fluid <http://www.fluidapp.com>`__ - This is a really nifty program
-that uses OS X tools to build "programs" built around single, site
-specific websites. Basically this is the ideal bridge between "web
-apps" and "desktop apps," particularly once `Google
-Gears <http://gears.google.com/>`__ begins to work with this kind of
-app [2]_ amazing things are going to happen. Since I'm running the
-wiki locally, this is moot. There are other non-mac options like
-`Mozilla Prisim <http://developer.mozilla.org/en/docs/Prism>`__,
-though I don't have experience with it. This makes the wiki more
-useable and open I think.
+  that uses OS X tools to build "programs" built around single, site
+  specific websites. Basically this is the ideal bridge between "web
+  apps" and "desktop apps," particularly once `Google
+  Gears <http://gears.google.com/>`__ begins to work with this kind of
+  app [2]_ amazing things are going to happen. Since I'm running the
+  wiki locally, this is moot. There are other non-mac options like
+  `Mozilla Prisim <http://developer.mozilla.org/en/docs/Prism>`__,
+  though I don't have experience with it. This makes the wiki more
+  useable and open I think.
 
 `Here's a
 file <http://tychoish.com/wordpress/wp-content/uploads/2008/06/research_sh.zip>`__
@@ -87,21 +91,18 @@ spotlight/etc indexing, my solution works better for me. But,
 `bsag <http://www.rousette.org.uk/>`__ is awesome and the text mate
 bundle is totally way more hard core than my kludge.
 
-.. [1]
-If you use a windows machine, or don't have easy access to a shell,
-my recommendation is that rather than fight windows to try and get
-all these things installed and working, I would see about getting
-server space somewhere where you'd get hosting that would include
-shell/ssh access in a UNIX environment. Probably the cost is pretty
-low, and you could use an account like this to back up data, host
-your email, and so forth.
+.. [1] If you use a windows machine, or don't have easy access to a shell,
+   my recommendation is that rather than fight windows to try and get
+   all these things installed and working, I would see about getting
+   server space somewhere where you'd get hosting that would include
+   shell/ssh access in a UNIX environment. Probably the cost is pretty
+   low, and you could use an account like this to back up data, host
+   your email, and so forth.
 
-.. [2]
-I've written here before a couple of times about how much I really
-dislike the experience of using online/web applications. Programs
-like this really solve this complaint. My major complaint is still
-the fact that there aren't good offline options for web apps, which
-is why I mention Gears. This is mooted by the fact that in this
-instance we're/I'm running the server locally, so even without a
-connection the wiki is accessible.
-
+.. [2] I've written here before a couple of times about how much I really
+   dislike the experience of using online/web applications. Programs
+   like this really solve this complaint. My major complaint is still
+   the fact that there aren't good offline options for web apps, which
+   is why I mention Gears. This is mooted by the fact that in this
+   instance we're/I'm running the server locally, so even without a
+   connection the wiki is accessible.

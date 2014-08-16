@@ -44,10 +44,10 @@ At the REPL do the following:
 
 ::
 
-(require 'asdf)
-(require 'asdf-install)
+   (require 'asdf)
+   (require 'asdf-install)
 
-(asdf-install:install '[package-name])
+   (asdf-install:install '[package-name])
 
 Remember to replace the ``[package-name]`` with the dependency or
 package that you want to install. ``asdf`` will ask you if you want to
@@ -64,10 +64,10 @@ following commands to accomplish this:
 
 ::
 
-cd ~/
-mkdir -p ~/lisp/systems
-mv .sbcl ~/lisp/
-ln -s ~/lisp/.sbcl
+   cd ~/
+   mkdir -p ~/lisp/systems
+   mv .sbcl ~/lisp/
+   ln -s ~/lisp/.sbcl
 
 Adjust the path as necessary. Additionally You will also want to create
 a ``~/.sbclrc`` file with some code for ``asdf`` to initialize itself
@@ -75,22 +75,22 @@ when SBCL runs. Do the following:
 
 ::
 
-cd ~/
-touch ~/lisp/.sbclrc
-ln -s ~/lisp/.sbclrc
+   cd ~/
+   touch ~/lisp/.sbclrc
+   ln -s ~/lisp/.sbclrc
 
 In your ``.sbclrc`` file you'll probably want something like the
 following:
 
 ::
 
-(require 'asdf)
+   (require 'asdf)
 
-(pushnew #p"/usr/share/common-lisp/systems/" asdf:*central-registry* :test #'equal)
-(push #p"/usr/share/common-lisp/systems/" asdf:*central-registry*)
+   (pushnew #p"/usr/share/common-lisp/systems/" asdf:*central-registry* :test #'equal)
+   (push #p"/usr/share/common-lisp/systems/" asdf:*central-registry*)
 
-(pushnew #P"/home/[username]/lisp/systems/" asdf:*central-registry* :test #'equal)
-(push #P"/home/[username]/lisp/systems/" asdf:*central-registry*)
+   (pushnew #P"/home/[username]/lisp/systems/" asdf:*central-registry* :test #'equal)
+   (push #P"/home/[username]/lisp/systems/" asdf:*central-registry*)
 
 This tells SBCL and ``asdf`` where all of the required lisp code is
 located. Alter path's as needed. We've not talked very much about the
@@ -106,14 +106,14 @@ just for grins. File one, ``~/lisp/reject/reject.asd``:
 
 ::
 
-(defsystem "reject"
-:description "a reject program
-:version "0.1"
-:author "tycho garen"
-:licence "ISC License"
-:depends-on ("cl-ppcre")
-:components ((:file "reject")
-(:file "package")))
+   (defsystem "reject"
+     :description "a reject program
+     :version "0.1"
+     :author "tycho garen"
+     :licence "ISC License"
+     :depends-on ("cl-ppcre")
+     :components ((:file "reject")
+                  (:file "package")))
 
 The dependency on ``cl-ppcre`` isn't required, but that's how it would
 work if you needed a regex engine for a reject hello world application.
@@ -121,38 +121,38 @@ File two, ``~/lisp/reject/package.lisp``:
 
 ::
 
-(defpackage reject (:use :common-lisp))
+   (defpackage reject (:use :common-lisp))
 
 File three, ``~/lisp/reject/reject.lisp``:
 
 ::
 
-(in-package :reject)
+   (in-package :reject)
 
-(defun hello-world () ()
-(print "Hello World, tycho"))
+   (defun hello-world () ()
+   (print "Hello World, tycho"))
 
-(hello-world)
+   (hello-world)
 
 Once those fils are saved, issue the following commands to create the
 needed symbolic link:
 
 ::
 
-cd ~/lisp/system/
-ln -s ~/lisp/reject/reject.asd
+   cd ~/lisp/system/
+   ln -s ~/lisp/reject/reject.asd
 
 Now, from the REPL issue the following expression to load the package:
 
 ::
 
-(asdf:operate 'asdf:load-op 'reject)
+   (asdf:operate 'asdf:load-op 'reject)
 
 And then the following expression to test that it works:
 
 ::
 
-(hello-world)
+   (hello-world)
 
 And you're set to go. As to how you'd write or package up something that
 might actually have value? That's a problem I'm still wrapping my head
@@ -160,4 +160,3 @@ around. But that can all happen later.
 
 If I've overlooked something or you think my understanding of something
 here isn't incredibly clear, do be in touch. I hope this helps!
-

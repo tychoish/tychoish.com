@@ -32,72 +32,71 @@ Right? That sounds reasonable.
 So here's the thing about Podcamp. Well the thing\ *s*:
 
 - New media isn't anymore. Sure its still a useful distinction given
-that the "old media" (e.g. book publishing, magazines, newspapers,
-network television, and radio) are still around. Indeed they remain
-an incredibly relevant component of the "media ecosystem" both
-globally but also online. Having said that "new media" like social
-media, podcasts, and the like have been around for 4-5 years at this
-point, and it's mostly mainstream now: old media like NPR
-consistently tops the iTunes podcast charts, CNN is on twitter. and
-so forth. And lets not even get started about blogging.
+  that the "old media" (e.g. book publishing, magazines, newspapers,
+  network television, and radio) are still around. Indeed they remain
+  an incredibly relevant component of the "media ecosystem" both
+  globally but also online. Having said that "new media" like social
+  media, podcasts, and the like have been around for 4-5 years at this
+  point, and it's mostly mainstream now: old media like NPR
+  consistently tops the iTunes podcast charts, CNN is on twitter. and
+  so forth. And lets not even get started about blogging.
 
 - On the frontier of any new media, anyone who is stubborn enough and
-the first person to stake out a claim to a niche has a pretty good
-chance of finding success. Four years later or more, success is
-something that's much more difficult to parse or assure.
+  the first person to stake out a claim to a niche has a pretty good
+  chance of finding success. Four years later or more, success is
+  something that's much more difficult to parse or assure.
 
 - The `Search engine marketing *thing*, hasn't, as I would have hoped,
-died in a fiery and epic
-death <http://tychoish.com/rhizome/seo-nonsense/>`__. This shit is
-all over the place, and everyone seems to be talking about
-pay-per-click advertising and not the fact that what *really* matters
-is word-of-mouth. I'm so incredibly frustrated by all the crap that
-gets generated both in sport of "SEO" and in service of it as well.
+  died in a fiery and epic
+  death <http://tychoish.com/rhizome/seo-nonsense/>`__. This shit is
+  all over the place, and everyone seems to be talking about
+  pay-per-click advertising and not the fact that what *really* matters
+  is word-of-mouth. I'm so incredibly frustrated by all the crap that
+  gets generated both in sport of "SEO" and in service of it as well.
 
-*I can tell when you write articles that are designed to get voted up on
-reddit and digg, and I throw up in my mouth a little when I see them.*
+  *I can tell when you write articles that are designed to get voted up on
+  reddit and digg, and I throw up in my mouth a little when I see them.*
 
-I got through a day of that, and I couldn't cope with any more.
+  I got through a day of that, and I couldn't cope with any more.
 
 - Everyone was talking about how to promote a venture, and how to do
-marketing in "*this brave new world we're in,*\ " but no one was
-really talking about how to develop and *make* something online that
-works. The marketing thing takes works and there are a couple of
-non-obvious aspects of the marketing effort, but it's not rocket
-science. Sometimes, figuring out what is likely to work online and
-how to present things in an effective way is by far the largest
-challenge.
+  marketing in "*this brave new world we're in,*\ " but no one was
+  really talking about how to develop and *make* something online that
+  works. The marketing thing takes works and there are a couple of
+  non-obvious aspects of the marketing effort, but it's not rocket
+  science. Sometimes, figuring out what is likely to work online and
+  how to present things in an effective way is by far the largest
+  challenge.
 
 - I'm not sure that hybrid-un/conferences work. And I'm pretty sure
-that the space didn't work. Unconferneces are great: they let you get
-what you want out of a meeting, like the Internet they help
-deconstruct the boundaries between presenter and audience. Here's
-what didn't work for me with the format at this podcamp:
+  that the space didn't work. Unconferneces are great: they let you get
+  what you want out of a meeting, like the Internet they help
+  deconstruct the boundaries between presenter and audience. Here's
+  what didn't work for me with the format at this podcamp:
 
 - The talks were all in these rooms, and the door was at the front of
-the room. So unless you sat by the door, you had to walk between the
-speaker to get in and out of the room in the middle of the talk.
-Which you're supposed to be able to do. Awkward.
+  the room. So unless you sat by the door, you had to walk between the
+  speaker to get in and out of the room in the middle of the talk.
+  Which you're supposed to be able to do. Awkward.
 
 - The opening session was entirely self-congratulatory, and a general
-waste of time. Better, I think to have let presenters in the morning
-sessions talk for a few seconds about their session. There weren't
-that many sessions.
+  waste of time. Better, I think to have let presenters in the morning
+  sessions talk for a few seconds about their session. There weren't
+  that many sessions.
 
 - I'm not *wed* to the idea that people have to determine the
-programing on the spot in the morning of a *camp*, and sometimes
-preparation is a good thing, but if you're going to have multiple
-parallel "tracks" there should be some sort of thematic unity for a
-given track, and some organization around that. *Randomized
-conference schedules don't provide attendees value*.
+  programing on the spot in the morning of a *camp*, and sometimes
+  preparation is a good thing, but if you're going to have multiple
+  parallel "tracks" there should be some sort of thematic unity for a
+  given track, and some organization around that. *Randomized
+  conference schedules don't provide attendees value*.
 
 - In an effort to provide hyper-accessible content for people, there
-were a number of topics that I'd consider to be "hot" like, free
-network services, content curration, microformats and semantic web
-stuff, the real time web, and so on and so forth. Instead there was a
-lot of "get a facebook account and sign up for google analytics."
+  were a number of topics that I'd consider to be "hot" like, free
+  network services, content curration, microformats and semantic web
+  stuff, the real time web, and so on and so forth. Instead there was a
+  lot of "get a facebook account and sign up for google analytics."
 
-So yeah. I hear there's a BarCamp in philly in november. We'll see how
-I'm faring, but it might be cool to talk with people about
-`Sygn <http://www.cyborginstitute.com/wiki/sygn/>`__ at that.
-
+  So yeah. I hear there's a BarCamp in philly in november. We'll see how
+  I'm faring, but it might be cool to talk with people about
+  `Sygn <http://www.cyborginstitute.com/wiki/sygn/>`__ at that.

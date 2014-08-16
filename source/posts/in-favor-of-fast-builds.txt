@@ -84,16 +84,16 @@ Steps you can take to optimizing builds:
 these suggestions.*)
 
 - A large number of smaller jobs that can complete independently of
-other tools, are easy to run in parallel. If the jobs that create a
-product take longer and are more difficult to split into components,
-then the build will be slower, particularly on more powerful
-hardware.
+  other tools, are easy to run in parallel. If the jobs that create a
+  product take longer and are more difficult to split into components,
+  then the build will be slower, particularly on more powerful
+  hardware.
 
 - Incremental builds are a huge win, particularly for larger processes.
-Most of the reasons why you want "fast builds," only require fast
-*rebuilds* and partial builds, not necessarily the full "clean
-builds." While fast initial builds are not unimportant, they account
-for a small percentage of use.
+  Most of the reasons why you want "fast builds," only require fast
+  *rebuilds* and partial builds, not necessarily the full "clean
+  builds." While fast initial builds are not unimportant, they account
+  for a small percentage of use.
 
 - Manage complexity.
 
@@ -111,11 +111,9 @@ it's possible that something in this "smarter and more complex" system
 can break or slow down under certain pressures, or can have enough
 overhead to render them unproductive optimizations.
 
-.. [1]
-It's too easy to use wild-cards so that the system must rebuild a
-given output if any of a number of input files change. Some of this
-is unavoidable, and generally there are more input files than output
-files, but particularly with builds that have intermediate stages, or
-more complex relationships between files it's important to attend to
-these files.
-
+.. [1] It's too easy to use wild-cards so that the system must rebuild a
+   given output if any of a number of input files change. Some of this
+   is unavoidable, and generally there are more input files than output
+   files, but particularly with builds that have intermediate stages, or
+   more complex relationships between files it's important to attend to
+   these files.

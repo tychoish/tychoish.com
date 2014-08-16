@@ -70,8 +70,6 @@ Anyway. That's what's I'm thinking about. Also, I did like 10 subversion
 commits this morning, which is way more than I'd done in a long time.
 I'm going to get going. Thanks for reading. More coming later.
 
-.. [1]
-Actually, I think the fact that it's mostly academic and publishing
-geeks who write LaTeX styles, is a great thing for the
-format/language.
-
+.. [1] Actually, I think the fact that it's mostly academic and publishing
+   geeks who write LaTeX styles, is a great thing for the
+   format/language.

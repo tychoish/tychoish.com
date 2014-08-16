@@ -80,9 +80,7 @@ backward in the contemporary perspective.
 Anyway, cool stuff. Have a good weekend, and if you have any thoughts on
 this subject, I'd love to hear them.
 
-.. [1]
-In fairness these connections were, I believe almost always over
-intranets, rather than over some sort of public internet, though as I
-think about it, there were probably some leftovers of this in the
-BBS-days, with regards to terminals and what not.
-
+.. [1] In fairness these connections were, I believe almost always over
+   intranets, rather than over some sort of public internet, though as I
+   think about it, there were probably some leftovers of this in the
+   BBS-days, with regards to terminals and what not.

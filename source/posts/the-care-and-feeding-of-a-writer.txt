@@ -78,14 +78,11 @@ the following gem, which I simply must share with you:
 
 Onward and Upward!
 
-.. [1]
-I'm aware this sentence ended in a preposition. Piss off.
+.. [1] I'm aware this sentence ended in a preposition. Piss off.
 
-.. [2]
-I had the longest run of "highest-possible C" grades on my papers in
-high school English, and while I think I might have managed to
-average out to a B, mostly, that always felt like an accomplishment.
-In a lot of ways, my failure to achieve in high school English is
-probably mostly responsible for the fact that I avoided writing
-almost entirely in college.
-
+.. [2] I had the longest run of "highest-possible C" grades on my
+   papers in high school English, and while I think I might have
+   managed to average out to a B, mostly, that always felt like an
+   accomplishment.  In a lot of ways, my failure to achieve in high
+   school English is probably mostly responsible for the fact that I
+   avoided writing almost entirely in college.

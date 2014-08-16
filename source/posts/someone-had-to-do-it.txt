@@ -6,8 +6,7 @@ someone had to do it
    :author: tychoish
 
 .. figure:: http://images.businessweek.com/ss/06/05/star_trek/image/tribbles.jpg
-:alt: tribbles
+   :alt: tribbles
 
 tribbles
 first person to make a LOLimage of that wins my undying affection.
-

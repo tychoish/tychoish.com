@@ -11,15 +11,15 @@ about regular expressions and sed. First up, regular expression
 resources:
 
 - `One Regular Expreson
-Tutorial <http://opengroup.org/onlinepubs/007908799/xbd/re.html>`__
+  Tutorial <http://opengroup.org/onlinepubs/007908799/xbd/re.html>`__
 - `Another Regexp Guide <http://www.grymoire.com/Unix/Regular.html>`__
 - `Microsoft's Discussion of
-Anchors <http://msdn2.microsoft.com/en-us/library/13bs2wz9(vs.80).aspx>`__
+  Anchors <http://msdn2.microsoft.com/en-us/library/13bs2wz9(vs.80).aspx>`__
 - `RegExp
-Tutorial <http://www.regular-expressions.info/anchors.html>`__ -
-Regex Tutorials
+  Tutorial <http://www.regular-expressions.info/anchors.html>`__ -
+  Regex Tutorials
 - `GREP In Project for Text
-Mate <http://henrik.nyh.se/2007/06/grep-in-project-command-for-textmate>`__
+  Mate <http://henrik.nyh.se/2007/06/grep-in-project-command-for-textmate>`__
 
 I'd like to make special note of this final item. GREP in Project
 command for TextMate. It's awesome, and uses GREP, a great *fast*
@@ -35,16 +35,12 @@ awesome if you ask me. Anyway, read and learn.
 Sed Tutorials
 -------------
 
-- `Sed
-Tutorial <http://www.cs.utk.edu/~vose/c-stuff/sed_tutorial.html>`__
-- `Sed
-Guide <http://www.unet.univie.ac.at/aix/aixprggd/genprogc/manip_strings_sed.htm>`__
-- `About.com
-Sed <http://linux.about.com/od/commands/l/blcmdl1_sed.htm>`__
+- `Sed Tutorial <http://www.cs.utk.edu/~vose/c-stuff/sed_tutorial.html>`__
+- `Sed Guide <http://www.unet.univie.ac.at/aix/aixprggd/genprogc/manip_strings_sed.htm>`__
+- `About.com Sed <http://linux.about.com/od/commands/l/blcmdl1_sed.htm>`__
 - `Sed in Wikipedia <http://en.wikipedia.org/wiki/Sed>`__
 
 Have a good weekend, I'll be on `tychoish <http://tychoish.com/>`__ this
 weekend, and I'm always an email away.
 
 Cheers, tycho
-

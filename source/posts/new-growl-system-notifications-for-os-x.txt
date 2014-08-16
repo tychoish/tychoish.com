@@ -8,14 +8,6 @@ New Growl Notifications for OS X
 There's a new version of the OS X system notification tool
 `Growl <http://growl.info>`__, and it's kind of amazing.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 You can "close" notifications now, and it manages the problem of too
 many notifications staking up, if the system somehow runs out of room.
 (Say you walk away from the network or your computer for a while.
@@ -29,4 +21,3 @@ be really great for an iphone/etc.
 
 I mean you could kludge something together with email notifications, but
 that kind of solution is never the same...
-

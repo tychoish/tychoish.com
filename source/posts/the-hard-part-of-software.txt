@@ -35,25 +35,25 @@ core functionality, but it works and it's enjoyable.
 Everything else, is *different*:
 
 - Writing documentation is an exercise in context switching: you have
-to read code, or poke at a running program to figure out how it
-works, and then turn that information on its head so you can tell
-people how to use it.
+  to read code, or poke at a running program to figure out how it
+  works, and then turn that information on its head so you can tell
+  people how to use it.
 
-It's fun, but it's much more fussy.
+  It's fun, but it's much more fussy.
 
 - Writing tests is similarly hard: it's also about balancing "how it
-works" and "how its used," but rather than describing something for
-future users, tests are about defining what constitutes "correctness"
-and what's incorrect. [1]_
+  works" and "how its used," but rather than describing something for
+  future users, tests are about defining what constitutes "correctness"
+  and what's incorrect. [1]_
 
-Writing test-code is intellectually challenging work, and requires many
-of the same base skills as writing implementation-code but requires a
-different kind of focus and thinking.
+  Writing test-code is intellectually challenging work, and requires
+  many of the same base skills as writing implementation-code but
+  requires a different kind of focus and thinking.
 
 - There's a lot of code that remains once the core logic exists,
-including: user interfaces, logging, test, managing edge cases,
-optimization, and tuning the parameters of the behavior (business
-logic tweaks.)
+  including: user interfaces, logging, test, managing edge cases,
+  optimization, and tuning the parameters of the behavior (business
+  logic tweaks.)
 
 Which isn't to say that any particularly portion of the work is more or
 less difficult or important. But, if you don't work in this world every
@@ -66,8 +66,6 @@ Another project for another day.
 
 Onward and Upward!
 
-.. [1]
-This assumes that you're not writing code in a test-driven manner,
-which is I think is probably statistically likely, if somewhat
-in-ideal.
-
+.. [1] This assumes that you're not writing code in a test-driven
+   manner, which is I think is probably statistically likely, if
+   somewhat in-ideal.

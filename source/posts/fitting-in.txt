@@ -64,8 +64,6 @@ been doing enough knitting, or writing for that matter.
 
 Onward and Upward!
 
-.. [1]
-We do have an extra monitor in the house but is of the 15" CRT
-variety, and about 12 years old. Some better option needs to be
-derived.
-
+.. [1] We do have an extra monitor in the house but is of the 15" CRT
+   variety, and about 12 years old. Some better option needs to be
+   derived.

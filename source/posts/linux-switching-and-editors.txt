@@ -1,5 +1,5 @@
 ============================
-Linux Switching and Editors 
+Linux Switching and Editors
 ============================
 
 .. post:: 2008-09-26
@@ -70,27 +70,23 @@ Having reported this, I can't decide if:
 
 1. I haven't found the linux editing enviroment nirvana.
 2. I'm maturing in my geekyness/editor use and am become more in touch
-with/accepting of mostly standard configurations.
+   with/accepting of mostly standard configurations.
 
 What do you all use/like? Thoughts
 
-.. [1]
-Possible Tagline: *More interesting than the election, and
-potentially less disheartening.*
+.. [1] Possible Tagline: *More interesting than the election, and
+   potentially less disheartening.*
 
-.. [2]
-comofort with enviroment leads to more efficency/pleasure.
+.. [2] comofort with enviroment leads to more efficency/pleasure.
 
-.. [3]
-Vim is decended relatively directly from vi which was written in the
-late sixties, as one of the first (vi)sual editors. The basic idea is
-that the editing experience is modal. In "normal mode" you move the
-cursor around your documents, copy ("yank") and paste ("put") text,
-delete text, and issue commands to the editor (save, etc). In "insert
-mode" when you type the characters are entered into your document
-(which would be "normal" for the rest of us, right?) Anyway, this
-lets you make the most of your keyboard, and saves your pinkies from
-over use on the control/meta keys and directional/arrow keys, and the
-end result is an editor that's very powerful and very useful, once
-you give up and submit to thinking in *it's* way
-
+.. [3] Vim is decended relatively directly from vi which was written in the
+   late sixties, as one of the first (vi)sual editors. The basic idea is
+   that the editing experience is modal. In "normal mode" you move the
+   cursor around your documents, copy ("yank") and paste ("put") text,
+   delete text, and issue commands to the editor (save, etc). In "insert
+   mode" when you type the characters are entered into your document
+   (which would be "normal" for the rest of us, right?) Anyway, this
+   lets you make the most of your keyboard, and saves your pinkies from
+   over use on the control/meta keys and directional/arrow keys, and the
+   end result is an editor that's very powerful and very useful, once
+   you give up and submit to thinking in *it's* way

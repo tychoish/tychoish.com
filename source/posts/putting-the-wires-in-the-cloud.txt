@@ -12,27 +12,27 @@ I'm thinking of canceling my home data connectivity and going with a
 Here's the argument for it:
 
 - I'm not home very much. I work a lot (and there is plenty of internet
-there), and I spend about two thirds of my weekends away from home.
-This is something that I expect will become more--rather than
-less--intense as time goes on. It doesn't make sense to pay for a
-full Internet connection here that I barely use.
+  there), and I spend about two thirds of my weekends away from home.
+  This is something that I expect will become more--rather than
+  less--intense as time goes on. It doesn't make sense to pay for a
+  full Internet connection here that I barely use.
 
 - My bandwidth utilization is, I think, relatively low. I've turned on
-some monitoring tools, so I'll know a bit more later, but in general,
-most of my actual use of the data connection is in keeping an SSH
-connection with my server alive. I download email, refresh a few
-websites more obsessively than I'd like (but I'm getting better with
-that), and that's sort of it. I've also started running a reverse
-proxy because that makes some measure of sense.
+  some monitoring tools, so I'll know a bit more later, but in general,
+  most of my actual use of the data connection is in keeping an SSH
+  connection with my server alive. I download email, refresh a few
+  websites more obsessively than I'd like (but I'm getting better with
+  that), and that's sort of it. I've also started running a reverse
+  proxy because that makes some measure of sense.
 
 - I find it difficult to use the data package on my cellphone. The fact
-that I get notified of all important emails on my phone, has
-disincentivized me from actually attending to my email in a useful
-way, and other than the occasional use of googlemaps (and I really
-should get an actual GPS to replace that...) If I get the right
-Wireless modem, however, it would be quasi-feasible to pipe my phone
-through the wireless Internet connection, so this might be a useful
-clarification.
+  that I get notified of all important emails on my phone, has
+  disincentivized me from actually attending to my email in a useful
+  way, and other than the occasional use of googlemaps (and I really
+  should get an actual GPS to replace that...) If I get the right
+  Wireless modem, however, it would be quasi-feasible to pipe my phone
+  through the wireless Internet connection, so this might be a useful
+  clarification.
 
 The arguments against it are typical:
 
@@ -41,7 +41,7 @@ The arguments against it are typical:
 - Metered bandwidth is undesirable.
 
 - Sprint sucks, or has in my experience, and the other providers are
-worse.
+  worse.
 
 The questions that remain in my mind are:
 
@@ -66,4 +66,3 @@ sprint. I've used a gig and a half of transfer to my laptop's wireless
 interface in 5 days. I think that would coincide with when I would be
 doing the heaviest traffic anyway. *I wonder how unlimited the unlimited
 is...*
-

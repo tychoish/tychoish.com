@@ -76,26 +76,23 @@ missed?
 
 Onward and Upward!
 
-.. [1]
-I have something like 40 diagonal inches these days, on my main
-machine which is probably a bit of overkill. My issue on the Macbook
-screen was that I could have 30 windows open just fine (with Expose,
-which is really, a godsend) as long as I was working on a constrained
-number of projects. When I started having a bunch of "work things" on
-top of my usual cluster "tycho things," what had been pretty
-efficient became me spending forever finding *the right* text editor
-window. Magically the `Awesome <http://awesome.naquadah.org>`__
-`window manager that I use <http://tychoish.com/tag/awesome/>`__,
-manages to provide a lot more "conceptual" space for doing work,
-while also cutting down on distractions, without exactly tying
-conceptual space to physical space. Nifty stuff, really.
+.. [1] I have something like 40 diagonal inches these days, on my main
+   machine which is probably a bit of overkill. My issue on the Macbook
+   screen was that I could have 30 windows open just fine (with Expose,
+   which is really, a godsend) as long as I was working on a constrained
+   number of projects. When I started having a bunch of "work things" on
+   top of my usual cluster "tycho things," what had been pretty
+   efficient became me spending forever finding *the right* text editor
+   window. Magically the `Awesome <http://awesome.naquadah.org>`__
+   `window manager that I use <http://tychoish.com/tag/awesome/>`__,
+   manages to provide a lot more "conceptual" space for doing work,
+   while also cutting down on distractions, without exactly tying
+   conceptual space to physical space. Nifty stuff, really.
 
-.. [2]
-When I got the thinkpad, I had intended to use it for a few weeks and
-then give it to my father, who'd been relegated to the oldest
-computer in the family computer ecology (an ibook). This was
-insurance against unanticipated systems failure (the last time a
-computer in died, there was... significant strife.) But, it turns out
-that the ibook has discovered a second life as the stereo system's
-Brain, and as I have the thinkpad... You can see where this is going.
-
+.. [2] When I got the thinkpad, I had intended to use it for a few weeks and
+   then give it to my father, who'd been relegated to the oldest
+   computer in the family computer ecology (an ibook). This was
+   insurance against unanticipated systems failure (the last time a
+   computer in died, there was... significant strife.) But, it turns out
+   that the ibook has discovered a second life as the stereo system's
+   Brain, and as I have the thinkpad... You can see where this is going.

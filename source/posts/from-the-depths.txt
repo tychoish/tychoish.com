@@ -24,8 +24,10 @@ sleeves. Which would have been fine, except that I'm very intent upon
 knitting sleeves from the shoulder down for a number of reasons cheifly:
 
 1. Progress is more apparent near the end rather than the beginning.
+
 2. It's easier to get sleeves to be the right length and shape when
-you're working top down.
+   you're working top down.
+
 3. It's easier to have a nicer shoulder seem when knitting top down.
 
 While the third point is obviated by the fact that you have to knit down
@@ -36,27 +38,11 @@ The problem? My usual speed of decreasing developed for drop shouldered
 sweaters, isn't quite right. So I've had to rip the sleeve out twice.
 The third time is the charm.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 The patterns for this sweater is from the book of `Anatolian Stocking
 Designs <http://www.amazon.com/Ethnic-Socks-Stockings-Compendium-Technique/dp/0964639106>`__.
 The central motif says something about "Egyptian Motif," I think, and
 the other other is something that I tweaked a lot. The little round
 motif is a modified Fair Isle perrie that I've used a couple of times.
-
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
 
 Here's a closeup of the pattern. This is sort of draft two of this
 pattern. The first, is in the bottom of the box of sweaters that I took
@@ -68,14 +54,6 @@ thinks is sport weight, I treated like jumper weight shetland. I'd like
 to make another garment out of it at some point, but I'd need to be a
 little less automatic about the gauge of that.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 Here's a detail of the neck shaping, which uses this slit neck shape
 that I'm quite fond of. This shape is often the difference between a
 sweater that's too warm and a sweater that's just right. And while I'm
@@ -83,4 +61,3 @@ not particularly sensitive to wool (like I can wear sweaters over short
 sleeve shirts, Having the wool on my neck is often too much.)
 
 So there's that. I should go back to knitting or something.
-

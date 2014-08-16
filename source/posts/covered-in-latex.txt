@@ -53,21 +53,20 @@ series on getting started with LaTeX, but I think as a possible teaser
 LaTeX would consist of:
 
 - A TeXlive distribution. You need the basic tool kit including
-pdflatex, TeX, Metafont, LaTeX, and BibTeX.
+  pdflatex, TeX, Metafont, LaTeX, and BibTeX.
 
 - A Text Editor with LaTeX support: emacs, TextMate, etc. Plain text
-can be difficult and cumbersome to edit unless you have the right
-tools for the job, which include a *real* text editor.
+  can be difficult and cumbersome to edit unless you have the right
+  tools for the job, which include a *real* text editor.
 
 - Some sort of macro or snippet expansion system. TeX is great. But
-it's also somewhat verbose, and having an easy way to insert text
-into your editing environment, both for templates but also for
-general operations (emphasis, notes, etc.) is incredibly useful, and
-reduces pain greatly.
+  it's also somewhat verbose, and having an easy way to insert text
+  into your editing environment, both for templates but also for
+  general operations (emphasis, notes, etc.) is incredibly useful, and
+  reduces pain greatly.
 
 - A template management system. This probably needn't be a formal
-software system, but just something to organize and store the basic
-templates that you will use.
+  software system, but just something to organize and store the basic
+  templates that you will use.
 
 And the rest is just learning curve and practice. Onward and Upward!
-

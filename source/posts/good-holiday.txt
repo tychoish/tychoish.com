@@ -6,8 +6,4 @@ Good Holiday
    :author: tychoish
 
 .. figure:: http://tychoish.com/wordpress/wp-content/uploads/2007/12/ham-goyem.jpeg
-:alt: ham-goyem
-
-ham-goyem
-
-
+   :alt: ham-goyem

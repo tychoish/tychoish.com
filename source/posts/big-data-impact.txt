@@ -103,8 +103,6 @@ large and expansive datasets have any affect on the way social
 scientists work? Hopefully someone who knows more about this than I do
 will [[offer answers\|discourse]]!
 
-.. [1]
-Thankfully there are a number of conventions that make it pretty easy
-for software designers to be able to write programs that people can
-use without needing to write extensive documentation.
-
+.. [1] Thankfully there are a number of conventions that make it pretty easy
+   for software designers to be able to write programs that people can
+   use without needing to write extensive documentation.

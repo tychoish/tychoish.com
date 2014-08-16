@@ -7,7 +7,7 @@ quicksilver
 
 .. raw:: html
 
-<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=8493378861634507068&hl=en" flashvars="> </embed>
+   <embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=8493378861634507068&hl=en" flashvars="> </embed>
 
 A video of Alcor (identity revealed, news at 10) Talking about
 quicksilver, how it's constructed, history, the future, and some stuff
@@ -36,4 +36,3 @@ well.
 Anyway.
 
 Cheers!
-

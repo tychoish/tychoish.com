@@ -5,19 +5,7 @@ Bad Index Card Joke
 .. post:: 2007-11-17
    :author: tychoish
 
-And now for a comedic interlude:
-
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
-`from
-here <http://www.bottledcity.com/2007/06/30/no-seriously-not-a-thing/>`__.
+And now for `a comedic interlude <http://www.bottledcity.com/2007/06/30/no-seriously-not-a-thing/>`__.
 
 I love the drawing nonsensical graphs on index card meme. It needs to
 come back. I'm going to go look for for more.
-

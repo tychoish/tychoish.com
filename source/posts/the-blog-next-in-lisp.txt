@@ -13,20 +13,18 @@ Entries might look something like this:
 
 ::
 
-(tychoish:blog-post
-(tychoish:meta-data
-:title "The Blog, Next in Lisp"
-:author "tycho garen"
-:pubtime #'(format () time-t)
-(tychoish:blog-tags '(lisp cyborg crazy))
-(tychoish:archive-collection '(programing))
-)
-(tychoish:blog-content (markdown)
-"Here's a crazy idea: in addition to posting an RSS feed, say I start
-posting the content of the blog as Common Lisp code. Not, to replace
-any format that I currently publish in, but as an additional output
-option. Entries might look something like this: [...]"
-))
+   (tychoish:blog-post
+      (tychoish:meta-data
+         :title "The Blog, Next in Lisp"
+         :author "tycho garen"
+         :pubtime #'(format () time-t)
+         (tychoish:blog-tags '(lisp cyborg crazy))
+         (tychoish:archive-collection '(programing)))
+     (tychoish:blog-content (markdown)
+       "Here's a crazy idea: in addition to posting an RSS feed, say I start
+       posting the content of the blog as Common Lisp code. Not, to replace
+       any format that I currently publish in, but as an additional output
+       option. Entries might look something like this: [...]"))
 
 That's pretty. In a lispy story of way. I'm not sure that it's actually
 correct, and it makes calls to functions that don't exist, of course.
@@ -57,4 +55,3 @@ question is: does seeing the data like this present possiblities to
 anyone? And, while we're at it, if anyone wants to help define some of
 the more basic functions, that might be awesome. I look forward to
 hearing from you all?
-

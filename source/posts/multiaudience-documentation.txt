@@ -45,27 +45,27 @@ The second class of solutions revolves around taking a more
 documentation. In my own work this manifests in two ways:
 
 - **Setting yourself up for success:** understanding how software is
-going to be updated, or how use is likely to change over time allows
-you to construct documents that are organized in a way that makes
-them easy to update. For example: Separate processes from reference
-material, and split up long processes into logical chunks that you
-can interlink to remove redundancies.
+  going to be updated, or how use is likely to change over time allows
+  you to construct documents that are organized in a way that makes
+  them easy to update. For example: Separate processes from reference
+  material, and split up long processes into logical chunks that you
+  can interlink to remove redundancies.
 
-Unfortunately, in many cases, it's necessary to learn enough about a
-project and the different use patterns before you have the background
-needed to predict what the best structure of the documentation ought to
-be.
+  Unfortunately, in many cases, it's necessary to learn enough about a
+  project and the different use patterns before you have the background
+  needed to predict what the best structure of the documentation ought to
+  be.
 
 - **Separate structure from content:** This is a [[publishing system
-requirement\|rhizome/publishing-system-requirements]], at the core,
-but using this kind of functionality must be part of the writer's
-approach. Writers need to build documentation so that the
-organization (order, hierarchy, etc.) is not implicit in the text,
-but can be rearranged and reformed as needed. This means writing
-documentation "atoms" in a structurally generic way. Typically this
-also leads to better content. As a matter of implementation,
-documentation resource would require a layer of "meta files" that
-would provide organization that would be added at build time.
+  requirement\|rhizome/publishing-system-requirements]], at the core,
+  but using this kind of functionality must be part of the writer's
+  approach. Writers need to build documentation so that the
+  organization (order, hierarchy, etc.) is not implicit in the text,
+  but can be rearranged and reformed as needed. This means writing
+  documentation "atoms" in a structurally generic way. Typically this
+  also leads to better content. As a matter of implementation,
+  documentation resource would require a layer of "meta files" that
+  would provide organization that would be added at build time.
 
 In effect this approach follows what most systems are doing anyway, but
 in practice we need another processing layer.
@@ -85,4 +85,3 @@ hopefully documentation writers will develop standard file organizations
 and practices that will keep things under control.
 
 [[Thoughts\|discourse]]? Onward and Upward!
-

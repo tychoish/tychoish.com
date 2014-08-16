@@ -95,12 +95,12 @@ To recap, markdown is probably not an ideal archival format for
 important text, because:
 
 - The implementation-dependency means that markdown often fails at
-genericism, which I think is supposed to be it's primary features.
+  genericism, which I think is supposed to be it's primary features.
 
-Generic text representation formats are a must.
+  Generic text representation formats are a must.
 
 - If you need output formats beyond HTML/XHTML then markdown is
-probably not for you.
+  probably not for you.
 
 You can get other formats, but it's even *more* implementation specific.
 
@@ -113,35 +113,32 @@ There are two paths forward, as I see it:
 
 1. Give up and use reStructuredText for all new projects.
 
-RST is fussy, but has definite and clear solutions to the issues that
-plague markdown.
+   RST is fussy, but has definite and clear solutions to the issues that
+   plague markdown.
 
-- It has support for every major output format, and it wouldn't be too
-hard to expand on that.
+   - It has support for every major output format, and it wouldn't be too
+     hard to expand on that.
 
-- It's fast.
+   - It's fast.
 
-- In addition to the primary implementation, Pandoc supports python and
-there are early stage Java/PHP implementations. Most tools just wrap
-the Python implementation, which isn't really a problem.
+   - In addition to the primary implementation, Pandoc supports python and
+     there are early stage Java/PHP implementations. Most tools just wrap
+     the Python implementation, which isn't really a problem.
 
-- There are clear paths for extending rst as needed for new projects.
+   - There are clear paths for extending rst as needed for new projects.
 
 2. Design and implement a new markdown -like implementation. I think
-reMarkdown would be a good name. This will be a lot of work, and have
-the following components:
+   reMarkdown would be a good name. This will be a lot of work, and have
+   the following components:
 
-- a complete test suite that other implementations could use to confirm
-compatibility with reMarkdown.
+   - a complete test suite that other implementations could use to confirm
+     compatibility with reMarkdown.
 
-- a formal specification.
+   - a formal specification.
 
-- a lexer/parser design and reference implementation. With an abstract
-XML-like output format. We want a realistic model implementation that
-isn't overly dependent upon a single output format.
+   - a lexer/parser design and reference implementation. With an abstract
+     XML-like output format. We want a realistic model implementation that
+     isn't overly dependent upon a single output format.
 
-- an explicit and defined process for changing and improving the
-syntax.
-
-
-
+  - an explicit and defined process for changing and improving the
+    syntax.

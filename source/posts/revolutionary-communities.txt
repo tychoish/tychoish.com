@@ -113,6 +113,4 @@ Thoughts? I need to improve the history section of this, a good bit, and
 come up with more examples of the kinds of communities that exemplify
 this kind of organization, but this is a start.
 
-.. [1]
-These are rough dates, lets just say "until the singularity hits."
-
+.. [1] These are rough dates, lets just say "until the singularity hits."

@@ -67,10 +67,8 @@ remember: group blogs are the future.
 
 Onward and Outward!
 
-.. [1]
-Think of the aggregated personal website as being the inverse of
-services like `ping.fm <http://ping.fm>`__, which blast your content
-to a host of different websites, the personal website should rather
-aggregate content and conversations from other websites into one
-location.
-
+.. [1] Think of the aggregated personal website as being the inverse of
+   services like `ping.fm <http://ping.fm>`__, which blast your content
+   to a host of different websites, the personal website should rather
+   aggregate content and conversations from other websites into one
+   location.

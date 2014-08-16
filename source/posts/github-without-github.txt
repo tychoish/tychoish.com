@@ -44,12 +44,12 @@ functionality (bug tracking, merge request queues, automatic
 forking/branching/etc.
 
 - `gitorious <https://gitorious.org/gitorious>`__ - functional but
-inelegant.
+  inelegant.
 
 - `gitlab <http://gitlabhq.com/>`__ - promising but untested.
 
 - `repo.or.cz <http://repo.or.cz/>`__ - functional but not practical
-for casual administration.
+  for casual administration.
 
 Web hooks
 ---------
@@ -73,4 +73,3 @@ Integrated issue tracking, hell any kind of issue tracking, remains an
 unsolved problem, but I think github's approach is a good start, and
 that feature set isn't as easily available from other
 projects/products/tools.
-

@@ -23,12 +23,11 @@ is what allows software to grow in awesome ways. When you do the hard
 work, you make it possible to:
 
 - add functionality and utility without needing to rewrite large
-amounts of code.
+  amounts of code.
 
 - add options and globules to expose features and behaviors in response
-to users needs.
+  to users needs.
 
 Basically infrastructure begets agility.
 
 .. *and don't you forget it!*
-

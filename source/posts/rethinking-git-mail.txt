@@ -54,27 +54,27 @@ script that:
 
 1. Pull from ``domain.com/git/mail.git/``
 2. Commit all local changes. (involves removing deleted files and adding
-new files, git'll handle the renames impicitly).
+   new files, git'll handle the renames impicitly).
 3. Push local changes to ``domain.com/git/mail.git/``
 4. ssh into the server. and have ``~/mail/`` pull from
-``~/domain.com/git/mail.git/`` commit all changes push
-to\ ``~/domain.com/git/mail.git/``
+   ``~/domain.com/git/mail.git/`` commit all changes push
+   to\ ``~/domain.com/git/mail.git/``
 5. Pull from ``domain.com/git/mail.git/``
 
 Basically the idea is:
 
 - Always pull from the bare/"root"/centralized repository, commit any
-local changes and then push to the local repository.
+  local changes and then push to the local repository.
 - Even though this system, like most git systems, in truth, have a
-centralized repository, all of the "children" repositories are
-equivelent, even though one repository is special because it's where
-new data enters the system. This, as my previous attempt has shown,
-isn't strictly speaking, necessary, but it does make things better.
+  centralized repository, all of the "children" repositories are
+  equivelent, even though one repository is special because it's where
+  new data enters the system. This, as my previous attempt has shown,
+  isn't strictly speaking, necessary, but it does make things better.
 - Given all this, if I needed to start using fetchmail locally for some
-reason to check a pop account, I could without needing to worry about
-syncing problems. It makes sense for mail to "enter" on the
-server/centralized for semi-obvious reasons, but it's not a
-requirement by any means.
+  reason to check a pop account, I could without needing to worry about
+  syncing problems. It makes sense for mail to "enter" on the
+  server/centralized for semi-obvious reasons, but it's not a
+  requirement by any means.
 
 The problem is that you have to keep two copies of all your mail folders
 plus the history (which becasue of delta storage and compression isn't
@@ -84,4 +84,3 @@ time involved in the new setup, on the second hand there's more chatter
 between the machines in the old setup, so I don't know how it works
 interms of speed, but from where I'm sitting, it *cannot* be worse than
 IMAP. Can't be.
-

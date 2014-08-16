@@ -76,10 +76,7 @@ Thoughts? Ideas? Go for it!
 
 Onward and `Upward <http://criticalfutures.com>`__!
 
-.. [1]
-I love distilling the entire history of the largest class of human
-interaction into two words.
+.. [1] I love distilling the entire history of the largest class of human
+   interaction into two words.
 
-.. [2]
-Can you tell I once worked in a Film/Media Archive?
-
+.. [2] Can you tell I once worked in a Film/Media Archive?

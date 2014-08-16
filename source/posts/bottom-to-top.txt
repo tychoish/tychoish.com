@@ -42,23 +42,19 @@ the city, or an IRC channel online.
 
 Anyway. That's what I've been crunching through. Hope you're interested.
 
-.. [1]
-To borrow a model from Samuel Delany's *Times Square Red: Times
-Square Blue*. Contact is the random, unplanned interactions that
-happen as a result of urban living, and is in contrast to
-"networking," which is a goal-based social activity designed to
-further specific goals in specific situations.
+.. [1] To borrow a model from Samuel Delany's *Times Square Red: Times
+   Square Blue*. Contact is the random, unplanned interactions that
+   happen as a result of urban living, and is in contrast to
+   "networking," which is a goal-based social activity designed to
+   further specific goals in specific situations.
 
-.. [2]
-Bottom up explanations tend to work best when you have cognitive
-systems that work on very simple kinds of problems, and very simple
-inputs. When you get into "real" life situations its hard to imagine
-that even the brain in all it's glory, can parse everything that it
-needs to.
+.. [2] Bottom up explanations tend to work best when you have cognitive
+   systems that work on very simple kinds of problems, and very simple
+   inputs. When you get into "real" life situations its hard to imagine
+   that even the brain in all it's glory, can parse everything that it
+   needs to.
 
-.. [3]
-...And if you leave out *Totem and Taboo* and *Civilization and it's
-Discontents*, you could probably make the argument that Freud's work
-was bottom-up for the most part. But I don't know if that's even
-worthwhile.
-
+.. [3] ...And if you leave out *Totem and Taboo* and *Civilization and it's
+   Discontents*, you could probably make the argument that Freud's work
+   was bottom-up for the most part. But I don't know if that's even
+   worthwhile.

@@ -20,8 +20,8 @@ web applications.
 In any case I've been reading through the following recently, and I
 (unsurprisingly have a few thoughts:)
 
-- `The Trouble with
-Frameworks <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
+- `The Trouble with Frameworks
+  <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
 
 - `The Web.py Tutiorial <http://webpy.org/tutorial3.en>`__
 
@@ -84,4 +84,3 @@ sort of figure out how to make it work, I don't find myself thinking
 "wow, the next time I want to do [this], I'll definitely use web.py."
 
 But then I'm just a dude who writes stuff.
-

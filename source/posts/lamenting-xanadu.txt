@@ -34,36 +34,36 @@ everyone has their own list of "things from xanadu that I want now," but
 for me the big sells were:
 
 - Links went both ways: If you clicked on a link, you could reverse
-directions and see what documents and pages had links to the current
-page. This means that links *couldn't* break, or point to the wrong
-page, among other things
+  directions and see what documents and pages had links to the current
+  page. This means that links *couldn't* break, or point to the wrong
+  page, among other things
 
 - Dynamic transclusions. Beyond simply being able to quote text
-statically, Xanadu would have been able to include a piece of text
-from another page that dynamically represent the most current
-revision of the included page. For example, I include paragraph 13 on
-page A (A.13) somewhere on page B; later you change A.13 to fix a
-typo, and the change is reflected in page B. I think links could also
-reference specific versions of a page/paragraph (but then users could
-from page B, access new and older dimensions of A.13).
+  statically, Xanadu would have been able to include a piece of text
+  from another page that dynamically represent the most current
+  revision of the included page. For example, I include paragraph 13 on
+  page A (A.13) somewhere on page B; later you change A.13 to fix a
+  typo, and the change is reflected in page B. I think links could also
+  reference specific versions of a page/paragraph (but then users could
+  from page B, access new and older dimensions of A.13).
 
 - Micropayments. The system would have had (built in) a system for
-compensating "content creators/originators" via a system to collect
-very small amounts of money from lots of people.
+  compensating "content creators/originators" via a system to collect
+  very small amounts of money from lots of people.
 
-Needless to say, it didn't work out. It turns out that these features
-are really hard to implement in an efficient way--or at least they were
-in the eighties--because of computing requirements, and the very
-monolithic nature of the system. Instead we have a hypertext system
-that:
+  Needless to say, it didn't work out. It turns out that these features
+  are really hard to implement in an efficient way--or at least they were
+  in the eighties--because of computing requirements, and the very
+  monolithic nature of the system. Instead we have a hypertext system
+  that:
 
 - Is built around a (real or virtual) system of files, rather than
-documents.
+  documents.
 
 - Has no unified structural system.
 
 - Must rely on distributed organizational systems (tagging, search
-engine indexes.)
+  engine indexes.)
 
 - Is not version-aware, and it's pages are not self-correcting.
 
@@ -92,4 +92,3 @@ in Xanadu.
 That's about all I have, but for those of you who are familiar with
 Xanadu I'd love to hear what you "miss most" about Xanadu, if you're
 game.
-

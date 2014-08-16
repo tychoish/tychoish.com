@@ -13,10 +13,5 @@ I know it's been a slow weekend. I'll be posting more soon, don't worry.
 
 .. raw:: html
 
-<object width="425" height="350">
-
-.. raw:: html
-
-<embed src="http://www.youtube.com/v/YfZ-Y2QNh7E" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
-
-
+   <object width="425" height="350">
+   <embed src="http://www.youtube.com/v/YfZ-Y2QNh7E" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>

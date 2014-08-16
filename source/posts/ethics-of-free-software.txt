@@ -69,22 +69,18 @@ debates of free software. Which is a good thing indeed.
 
 Onward and Upward!
 
-.. [1]
-I have a somewhat sorted history of linking to people and then musing
-on whatever it is they wrote on this blog, only to discover a comment
-the next day from the original authors. So as a somewhat preemptive
-measure: Hello, and I think I'll write a somewhat less public letter
-of introduction soon. Thanks for reading.
+.. [1] I have a somewhat sorted history of linking to people and then musing
+   on whatever it is they wrote on this blog, only to discover a comment
+   the next day from the original authors. So as a somewhat preemptive
+   measure: Hello, and I think I'll write a somewhat less public letter
+   of introduction soon. Thanks for reading.
 
-.. [2]
-My background has been in (developmental) psychology, and while this
-is a lovely field that I have a lot of fondness and respect for, the
-study of individual/cultural boundary pushes on an interdisciplinary
-space, or null void really.
+.. [2] My background has been in (developmental) psychology, and while this
+   is a lovely field that I have a lot of fondness and respect for, the
+   study of individual/cultural boundary pushes on an interdisciplinary
+   space, or null void really.
 
-.. [3]
-Debian Free Software Guidelines (the code by which software licenses
-are deemed "appropriate" for inclusion in the Debian project) and the
-Free Software Foundation (originators of the GNU GPL, and a great
-many other things) in turn.
-
+.. [3] Debian Free Software Guidelines (the code by which software licenses
+   are deemed "appropriate" for inclusion in the Debian project) and the
+   Free Software Foundation (originators of the GNU GPL, and a great
+   many other things) in turn.

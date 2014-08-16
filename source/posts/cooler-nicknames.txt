@@ -61,14 +61,10 @@ cheers, tycho
 ps. sorry, I don't have a list of cool nicknames for you. I hope you
 enjoy the site though.
 
-.. [1]
-And very unpublishable. But it's for the best.
+.. [1] And very unpublishable. But it's for the best.
 
-.. [2]
-Garren was the name of one of the ships in that book.
+.. [2] Garren was the name of one of the ships in that book.
 
-.. [3]
-Why do I avoid capitalizing it? Because it isn't my given name,
-because I think it looks better typographically (and in my own
-script) without caps, and I like that way.
-
+.. [3] Why do I avoid capitalizing it? Because it isn't my given name,
+   because I think it looks better typographically (and in my own
+   script) without caps, and I like that way.

@@ -10,14 +10,6 @@ about backing up files. Since I work in plain text files, using a
 version control program like what programers use seemed like a logical
 step.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 Got my on disk subversion repository to work correctly. This isn't a
 huge improvement, of course, because everything's dependent on my disk,
 but it does mean that I have a version control system for my personal
@@ -30,9 +22,9 @@ subversion master. Things I have yet to master:
 
 1. Rolling back to old versions
 2. Taking the contents of one repository and putting it in another, for
-good backups and moving things about
+   good backups and moving things about
 3. Getting some sort of good way to interact with it outside of the
-command line.
+   command line.
 4. Pass-wording and protecting a repository.
 
 While I'm good and getting better with the command line stuff for my own
@@ -46,4 +38,3 @@ see.
 Anyway, this is cool software, and I'm quite pleased with it.
 
 Cheers, tycho
-

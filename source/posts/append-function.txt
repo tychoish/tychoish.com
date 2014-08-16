@@ -13,11 +13,17 @@ do, and I find it useful.
 I'm sure there are more effective ways to accomplish this, but this
 works. To be fair, there's nothing here that will protect you from
 yourself, but it shouldn't be able to do much damage. I keep it in my
-.bash\_profile, but that's probably not the smartest thing in the world.
+``.bash_profile``, but that's probably not the smartest thing in the world.
 Have fun.
 
-ap() { file=\ :math:`1;     shift     note=`\ \*; echo -e '-
-'":math:`note" >> `\ file }
+.. code-block:: sh
+
+   ap() {
+     file=$1;
+     shift
+     note=$*;
+     echo -e '\n- '"$note" >> $file
+   }
 
 Then to use the function, once it's been loaded is, at the prompt:
 
@@ -29,4 +35,3 @@ direction of the pointy brackets from >> to <<. Also I have it set up to
 add all notes as if they are a bullet point (in markdown hence the "-").
 
 Onward and Upward!
-

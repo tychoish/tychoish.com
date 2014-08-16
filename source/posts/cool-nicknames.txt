@@ -14,9 +14,7 @@ written. I did some rearranging, which I hope helps, but imagine that
 these are three different entries, written 2 months apart just to be on
 the safe side.
 
-.. raw:: html
-
-<hr width="20%" />
+--------------------
 
 I know a lot of people with cool nicknames. Or incredibly cool
 nicknames. Or weird nicknames. Whatever, nicknames at any rate. And I
@@ -44,9 +42,7 @@ friends names, which has been reciprocated now and then, but it's kinda
 wierd, and not a very good nick name (fun and cute, but good in an
 enduring way, I'm not sure). I need to be more creative I guess...
 
-.. raw:: html
-
-<hr width="20%" />
+----------
 
 I got an itching today, to remake my virtual identity. As many of you
 know, I have for the past, eight, or so years used the handle "celchu19"
@@ -106,9 +102,7 @@ levels. So yeah. I like it a bunch. Does this mean that I'm closing down
 all of the things that are "celchu19" referent? Not on your life! But
 I'm beginning a transition.
 
-.. raw:: html
-
-<hr width="20%" />
+----------
 
 Another related alternate name issue is that I kinda want to try and
 distance Sam, from TealArt and other internet activities. Astute readers
@@ -125,4 +119,3 @@ I'm thinking about writing for TealArt as 'tycho' rather than Sam, as
 part of this. I'm not sure yet, but we'll see...
 
 Thats all really for now, see you all around...
-

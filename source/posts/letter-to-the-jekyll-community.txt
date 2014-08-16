@@ -20,64 +20,63 @@ isolation, I worry that there's limited space to have a conversation
 about how to best improve the platform. Here's a starting point:
 
 - **Performance** Jekyll, particularly for larger sites can take a
-considerable time to run.
+  considerable time to run.
 
-I'm not familiar enough with ruby to be able to speak to any areas of
-improvement in terms of code optimization, though I'm not sure that this
-is the best way to approach this issue. *Rather,* I think it would
-probably be best to figure out ways of gracefully preventing jekyll from
-recompiling pages that haven't changed every time there's an update. The
-possibility that makes the most sense to me at this point would be to
-include "masks" in the config file, that jekyll can skip over unless run
-with an ``--all`` option.
+  I'm not familiar enough with ruby to be able to speak to any areas of
+  improvement in terms of code optimization, though I'm not sure that this
+  is the best way to approach this issue. *Rather,* I think it would
+  probably be best to figure out ways of gracefully preventing jekyll from
+  recompiling pages that haven't changed every time there's an update. The
+  possibility that makes the most sense to me at this point would be to
+  include "masks" in the config file, that jekyll can skip over unless run
+  with an ``--all`` option.
 
-Another option might be to develop a way to cache/store certain kinds of
-output files that require a lot of data to crunch (I'm thinking mostly
-of things like archives and of other long post loops.) Maybe developing
-some sort of internal index?
+  Another option might be to develop a way to cache/store certain kinds of
+  output files that require a lot of data to crunch (I'm thinking mostly
+  of things like archives and of other long post loops.) Maybe developing
+  some sort of internal index?
 
 - I'm (preliminarily) looking at using rpeg-markdown as a another
-markdown option, which should both allow the extended markdown syntax
-to work (woot!) and run much faster than maruku (and hopefully
-rdiscount). It seems difficult to install, but would generally be
-worthwhile.
+  markdown option, which should both allow the extended markdown syntax
+  to work (woot!) and run much faster than maruku (and hopefully
+  rdiscount). It seems difficult to install, but would generally be
+  worthwhile.
 
 - *Increase usability* While jekyll *just works*, and the documentation
-is reasonably effective given the audience; there isn't any automatic
-workflow for jekyll use. Having a few shell scripts and/or a "using
-jekyll" tutorial that explains day to day use would be quite helpful
-once you get started.
+  is reasonably effective given the audience; there isn't any automatic
+  workflow for jekyll use. Having a few shell scripts and/or a "using
+  jekyll" tutorial that explains day to day use would be quite helpful
+  once you get started.
 
-As I finalize and put it through it's paces for a few days I'll get more
-clear about this, but, in general I'm thinking of things like: using git
-hooks to generate the content automatically on commit/etc.
+  As I finalize and put it through it's paces for a few days I'll get more
+  clear about this, but, in general I'm thinking of things like: using git
+  hooks to generate the content automatically on commit/etc.
 
-It would be valuable to write up how to use rsync as that would likely
-make more sense in some situations. Same with running tasks in cron.
+  It would be valuable to write up how to use rsync as that would likely
+  make more sense in some situations. Same with running tasks in cron.
 
 - **Template Directory**: Most of the jekyll powered blogs that I've
-seen have been pretty good about publishing the repositories for
-their sites. This is a good thing indeed, but given how the templates
-work, I think it would be good to collect various templates together
-for ease of access and educational proposes.
+  seen have been pretty good about publishing the repositories for
+  their sites. This is a good thing indeed, but given how the templates
+  work, I think it would be good to collect various templates together
+  for ease of access and educational proposes.
 
 - **Make Categories More Flexible**: While the current blog categories
-support is great for adding "multiple blog" support, it makes it
-difficult to interact/loop posts that aren't in different categories.
-I'd like to have arbitrary ``site.key.value`` objects that work like
-``site.categories.CATEGORY``. There are ways to program around this,
-but they aren't pretty. This would make jekyll even more incredibly
-powerful, but I think it's a much lower priority.
+  support is great for adding "multiple blog" support, it makes it
+  difficult to interact/loop posts that aren't in different categories.
+  I'd like to have arbitrary ``site.key.value`` objects that work like
+  ``site.categories.CATEGORY``. There are ways to program around this,
+  but they aren't pretty. This would make jekyll even more incredibly
+  powerful, but I think it's a much lower priority.
 
-If you use jekyll, I'd love to hear what you'd like to see from the
-jekyll in the future. A number of these options (rpeg-markdown,
-usability/workflow documentation, template directory) are things that I
-can work on (and will, for sure), but a few of them are beyond me and
-I'd love to help folks do some of this work, if possible.
+  If you use jekyll, I'd love to hear what you'd like to see from the
+  jekyll in the future. A number of these options (rpeg-markdown,
+  usability/workflow documentation, template directory) are things that I
+  can work on (and will, for sure), but a few of them are beyond me and
+  I'd love to help folks do some of this work, if possible.
 
 Onward and Upward!
 
-(ps. my \_posts directory is about 6.2 megs, with a file count that's a
+(ps. my ``_posts`` directory is about 6.2 megs, with a file count that's a
 bit south of 1,300 files, so if you wanted to assert that I'm pushing
 the system a *bit* hard, that'd be totally reasonable.)
-

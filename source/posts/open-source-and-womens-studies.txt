@@ -46,22 +46,19 @@ use is pretty powerful.
 
 At least I think so.
 
-.. [1]
-One of the conclusions that a historian friend and I came to is that
-Women's Studies is prone--particularly in the higher levels--to
-becoming a method and a perspective rather than a particular or
-unitary subject. This translates rather poorly once it gets out of
-your head, but is useful in maintaining a measure of intrapersnal
-coherence.
+.. [1] One of the conclusions that a historian friend and I came to is that
+   Women's Studies is prone--particularly in the higher levels--to
+   becoming a method and a perspective rather than a particular or
+   unitary subject. This translates rather poorly once it gets out of
+   your head, but is useful in maintaining a measure of intrapersnal
+   coherence.
 
-.. [2]
-The idea that open-source software is good and we need it because it
-is our freedom from corporations and government strikes me as missing
-the larger picture. Open source is good (and we need it) because it
-results in higher quality software and because it's more useful.
-Having said that, I think that revolutionaries are pretty likely to
-use Linux or BSD because it is accessible and legal, not because
-there's something intrinsically freeing about having accessible
-source code. As a slogan I think there's something to the notion that
-"you can't code your way to freedom."
-
+.. [2] The idea that open-source software is good and we need it because it
+   is our freedom from corporations and government strikes me as missing
+   the larger picture. Open source is good (and we need it) because it
+   results in higher quality software and because it's more useful.
+   Having said that, I think that revolutionaries are pretty likely to
+   use Linux or BSD because it is accessible and legal, not because
+   there's something intrinsically freeing about having accessible
+   source code. As a slogan I think there's something to the notion that
+   "you can't code your way to freedom."

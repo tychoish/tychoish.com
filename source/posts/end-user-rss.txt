@@ -80,26 +80,25 @@ intelligence to the process of presenting the news. "Intelligent"
 features might include:
 
 - Noticing the order you read feeds/items and attempting to present
-items to you in that order.
+  items to you in that order.
 
 - Removing duplicate, or nearly duplicate items from presentation.
 
 - Integrate--as appropriate--with the other ways that you typically
-consume information: reading email and instant messaging (in my
-case.)
+  consume information: reading email and instant messaging (in my
+  case.)
 
 - Provide notifications for new content in an intelligent sort of way.
-I don't need an instant message every time a flickr tag that I'm
-interested in watching updates, but it might be nice if I could set
-these notifications up on a per-folder or per-feed manner. Better
-yet, the feed reader might be able to figure this out.
+  I don't need an instant message every time a flickr tag that I'm
+  interested in watching updates, but it might be nice if I could set
+  these notifications up on a per-folder or per-feed manner. Better
+  yet, the feed reader might be able to figure this out.
 
 - Integrate with feedback mechanisms in a clear and coherent way. Both
-via commenting systems (so integration with something like Disqus
-might be nice, or the ability auto-fill a comment form), and via
-email.
+  via commenting systems (so integration with something like Disqus
+  might be nice, or the ability auto-fill a comment form), and via
+  email.
 
 It'd be a start at any rate. I look forward to thinking about this more
 with you in any case. How do you read RSS? What do you wish your feed
 reader would do that it doesn't?
-

@@ -26,16 +26,15 @@ In any case, I think I've uncovered a (small) list tropes for the way
 that I begin posts:
 
 - I mention that something has been on my todo list and then write
-about something that's tangentially related.
+  about something that's tangentially related.
 
 - I tell some sort of semi-funny, self deprecating introductory story,
-and get to the point at the beginning of the second paragraph.
+  and get to the point at the beginning of the second paragraph.
 
 - I talk about previous posts that serve as background to the post that
-I'm writing now. May or may not include links.
+  I'm writing now. May or may not include links.
 
 - Some sort of abrupt but not all together straight forward beginning,
-eg. "So I was thinking that..."
+  eg. "So I was thinking that..."
 
 Did I miss any?
-

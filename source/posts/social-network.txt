@@ -18,34 +18,37 @@ whole social network thing*, particularly in light of
 `ravlery <http://www.ravelry.com>`__ Here are some thoughts:
 
 - People join and use the social networking sites that their friends
-use. College students use facebook. Hipsters, musicians, and high
-school students (at least in the US) are more likely to use myspace,
-for example. This is why features don't matter, it's all about the
-crowd, and the truth is that most of these sites look and behave more
-or less like the others, and the features converge.
+  use. College students use facebook. Hipsters, musicians, and high
+  school students (at least in the US) are more likely to use myspace,
+  for example. This is why features don't matter, it's all about the
+  crowd, and the truth is that most of these sites look and behave more
+  or less like the others, and the features converge.
+
 - I think there are a couple kinds of social networking sites: the ones
-that center around a profile (facebook, myspace friendster) and those
-that center around an activity (twitter, ravlry, livejournal, vox,
-viddlr[sic?], etc.) The latter ends up being much more successfull in
-the long term, because these sites and communities work their way
-into peoples lives. It's sort of interesting that people and
-companies have managed to capitalize on the social aspect of the
-Internet that always used to exist on Usenet and IRC, and also create
-a niche for the profile-based sites. Though interestingly, I think
-these profile based sites sort of fill the role that the "personal
-homepage," used to fill. That is before people realized that personal
-home-pages were kind of lame.
+  that center around a profile (facebook, myspace friendster) and those
+  that center around an activity (twitter, ravlry, livejournal, vox,
+  viddlr[sic?], etc.) The latter ends up being much more successfull in
+  the long term, because these sites and communities work their way
+  into peoples lives. It's sort of interesting that people and
+  companies have managed to capitalize on the social aspect of the
+  Internet that always used to exist on Usenet and IRC, and also create
+  a niche for the profile-based sites. Though interestingly, I think
+  these profile based sites sort of fill the role that the "personal
+  homepage," used to fill. That is before people realized that personal
+  home-pages were kind of lame.
+
 - Social networking sites that are about collecting friends are doomed
-to fail, because collecting friends is boring, and because at some
-point, everyone realizes that their threshold for "adding" new people
-to their "friends" is so low that it turns out it's kind of creepy
-and then we walk away and try and forget it.
+  to fail, because collecting friends is boring, and because at some
+  point, everyone realizes that their threshold for "adding" new people
+  to their "friends" is so low that it turns out it's kind of creepy
+  and then we walk away and try and forget it.
+
 - The less control a company/website gives over someone, the better
-people will feel about that site. Truth I think if you could access
-livejournal over gopher or a command-line/terminal it would be pretty
-awesome. But seriously think about it. Many people have started
-saying that facebook has jumped the shark when they gave users
-control over how their profiles looked.
+  people will feel about that site. Truth I think if you could access
+  livejournal over gopher or a command-line/terminal it would be pretty
+  awesome. But seriously think about it. Many people have started
+  saying that facebook has jumped the shark when they gave users
+  control over how their profiles looked.
 
 So that's what's on my mind. It's interesting I'm pretty religious about
 checking ravelry (and LJ) these days, and while I still keep an eye on
@@ -54,4 +57,3 @@ to see how these things develop mostly because I've pretty much given up
 trying to figure out what's going to happen next.
 
 Onward and Upward!
-

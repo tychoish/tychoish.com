@@ -49,17 +49,17 @@ Android is largely orthogonal to the adoption of Linux. The bigger
 questions are:
 
 - Does Microsoft have a tablet strategy? Really? The last time Linux
-made headway into users' hands (i.e. netbooks,) Microsoft changed
-strategies, and not only pushed Linux-based systems out of the
-market, but they also basically killed the device class. Netbooks
-really aren't a thing anymore.
+  made headway into users' hands (i.e. netbooks,) Microsoft changed
+  strategies, and not only pushed Linux-based systems out of the
+  market, but they also basically killed the device class. Netbooks
+  really aren't a thing anymore.
 
 - How close are we to tablet-like (or tablet-derived) devices from
-replacing general purpose computers for some classes of day to day
-activity. I suspect corporate machines will be the first to fall
-(more constrained/specific use cases; tablet systems give IT
-administrators more control, and increasingly work happens in web
-apps.)
+  replacing general purpose computers for some classes of day to day
+  activity. I suspect corporate machines will be the first to fall
+  (more constrained/specific use cases; tablet systems give IT
+  administrators more control, and increasingly work happens in web
+  apps.)
 
 If corporate fleets are the first to fall, the first question becomes
 much more important. In any case, stay tuned, I'm working on collecting
@@ -68,13 +68,10 @@ forward to hearing from you\|discourse]].
 
 Onward and Upward!
 
-.. [1]
-I would like to fully apologize ahead of the time if I'm
-characterizing the argument unfairly.
+.. [1] I would like to fully apologize ahead of the time if I'm
+   characterizing the argument unfairly.
 
-.. [2]
-Though mostly ceremonial to mark the 20th anniversary, and because
-there have been 39 releases of the 2.6.x series kernel which is
-absurd to keep track of after a while, Linux is getting a version
-boost to version 3.x.
-
+.. [2] Though mostly ceremonial to mark the 20th anniversary, and because
+   there have been 39 releases of the 2.6.x series kernel which is
+   absurd to keep track of after a while, Linux is getting a version
+   boost to version 3.x.

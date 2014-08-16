@@ -55,7 +55,7 @@ Insert the following line into your ``.zshrc``:
 
 ::
 
-source /path/to/git-sync-lib
+   source /path/to/git-sync-lib
 
 Then configure the beginning of the [[git-sync-lib\|code/git-sync-lib]]
 file with references to your git repositories. When complete, you will
@@ -73,50 +73,50 @@ this case, take the following basic form:
 
 ::
 
-syncup(){
+   syncup(){
 
-CURRENT=`pwd`
+      CURRENT=`pwd`
 
-for repo in $force_sync_repo; do
-cd $repo;
+      for repo in $force_sync_repo; do
+          cd $repo;
 
-echo -- syncing $repo
-git pull -q
-git push -q
+          echo -- syncing $repo
+          git pull -q
+          git push -q
 
-done
-cd $CURRENT
+      done
+      cd $CURRENT
 
-}
+   }
 
 Simply insert some logic into the \`for\`\` loop, like so:
 
 ::
 
-for repo in $force_sync_repo; do
-cd $repo;
-if [ $repo = ~/work ]; then
-if [ `netcfg current | grep -c "vpn"` = "1" ]; then
-echo -- syncing $repo on work vpn
-git pull -q
-git push -q dev internal
-else
-echo -- $repo skipped because lacking vpn connection
-fi
-elif [ $repo = ~/personal ]; then
-if [ `netcfg current | grep -c "homevpn"` = "1" ]; then
-echo -- syncing $repo with homevpn
-git pull -q
-git push -q
-else
-echo -- $repo skipped because lacking homevpn connection
-fi
-else
-echo -- syncing $repo
-git pull -q
-git push -q
-fi
-done
+   for repo in $force_sync_repo; do
+      cd $repo;
+      if [ $repo = ~/work ]; then
+         if [ `netcfg current | grep -c "vpn"` = "1" ]; then
+             echo -- syncing $repo on work vpn
+             git pull -q
+             git push -q dev internal
+         else
+            echo -- $repo skipped because lacking vpn connection
+         fi
+      elif [ $repo = ~/personal ]; then
+          if [ `netcfg current | grep -c "homevpn"` = "1" ]; then
+             echo -- syncing $repo with homevpn
+             git pull -q
+             git push -q
+          else
+             echo -- $repo skipped because lacking homevpn connection
+          fi
+      else
+         echo -- syncing $repo
+         git pull -q
+         git push -q
+      fi
+   done
 
 Basically, for two repositories we test to make sure that a particular
 network profile is connected before operating on those repositories. All
@@ -141,9 +141,9 @@ commands at any shell prompt:
 
 ::
 
-git-sync backup
-git-sync half
-git-sync full
+   git-sync backup
+   git-sync half
+   git-sync full
 
 Backup calls a function in ``git-sync`` to backup some site-specific
 files to a git repository (e.g. crontabs, etc.) The ``half`` sync only
@@ -162,11 +162,9 @@ I'm more than willing to provide that, just ask.
 
 Onward and Upward!
 
-.. [1]
-I wrote this as a ``bash`` script but discovered that something with
-the way I was handling arrays was apparently a zsh-ism. Not a big
-fuss for me, because I use ``zsh`` on all my machines, but if you
-don't use ``zsh`` or don't have it installed, you'll need to modify
-something in the array or install ``zsh`` (which you might enjoy
-anyway.)
-
+.. [1] I wrote this as a ``bash`` script but discovered that something with
+   the way I was handling arrays was apparently a zsh-ism. Not a big
+   fuss for me, because I use ``zsh`` on all my machines, but if you
+   don't use ``zsh`` or don't have it installed, you'll need to modify
+   something in the array or install ``zsh`` (which you might enjoy
+   anyway.)

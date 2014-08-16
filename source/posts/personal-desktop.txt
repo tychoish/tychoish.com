@@ -38,30 +38,29 @@ have been queuing up. In the spirit of posting my todo lists for the
 world to see...
 
 - I need to get a new keyboard. My "fancy" "`Happy Hacking Lite
-2 <http://pfuca-store.stores.yahoo.net/>`__\ " keyboard is at work,
-as I'm comfortable with it, I do a *lot* of writing at work, and I
-set up that keyboard first (and the current default Mac keyboard
-sucks.)
+  2 <http://pfuca-store.stores.yahoo.net/>`__\ " keyboard is at work,
+  as I'm comfortable with it, I do a *lot* of writing at work, and I
+  set up that keyboard first (and the current default Mac keyboard
+  sucks.)
 
-I'm thinking of either, getting another Happy Hacking keyboard, or more
-likely at this point, getting a `das keybaord
-ultimate <http://www.daskeyboard.com/>`__ because how could I turn down
-blank keys and variable-pressure mechanical switch keys. And writing is
-what I do, so totally worth it.
+  I'm thinking of either, getting another Happy Hacking keyboard, or more
+  likely at this point, getting a `das keybaord
+  ultimate <http://www.daskeyboard.com/>`__ because how could I turn down
+  blank keys and variable-pressure mechanical switch keys. And writing is
+  what I do, so totally worth it.
 
 - I need to install Arch on this computer. I feel like cruft is
-beginning to accumulate here, I've never quite been happy with the
-ubutnu experience, and there are some things that I can't get to work
-right (namely mounting of USB-mass storage devices) My concerns are
-that getting dual monitors setup on this box was *a royal pain*. But
-that might have been ubuntu related. I'm not sure.
+  beginning to accumulate here, I've never quite been happy with the
+  ubutnu experience, and there are some things that I can't get to work
+  right (namely mounting of USB-mass storage devices) My concerns are
+  that getting dual monitors setup on this box was *a royal pain*. But
+  that might have been ubuntu related. I'm not sure.
 
 - My current thought is that I'll buy a new (small) hard drive (eg. 80
-gigs) to run a clean operating system install on (arch) and then use
-the current drive as storage for the stuff that's already there
-(music, video). But I might just get a larger additional drive and do
-it in reverse. I dunno. The current situation isn't that bad, and I
-think that I'll archify the laptop first.
+  gigs) to run a clean operating system install on (arch) and then use
+  the current drive as storage for the stuff that's already there
+  (music, video). But I might just get a larger additional drive and do
+  it in reverse. I dunno. The current situation isn't that bad, and I
+  think that I'll archify the laptop first.
 
 Annnyway...
-

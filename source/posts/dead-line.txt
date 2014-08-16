@@ -40,13 +40,13 @@ I'm not yet sure how I feel about this. Questions that remain in my
 mind:
 
 - Is it going to run real OS X and not some sort of embedded flavor
-(likely to be the real thing, but it's a question.)
+  (likely to be the real thing, but it's a question.)
 - Are we going all the way to flash hard drive and no optical drive, or
-is this really just a reinvention of the 12 inch ibook/powerbook?
-(I'm voting on the later; I think there's a production
-capacity/supply issue with flash memory, and the small laptop is
-something apple succeeds with, so it's been disheartening that they
-haven't had something in this space for a while.)
+  is this really just a reinvention of the 12 inch ibook/powerbook?
+  (I'm voting on the later; I think there's a production
+  capacity/supply issue with flash memory, and the small laptop is
+  something apple succeeds with, so it's been disheartening that they
+  haven't had something in this space for a while.)
 
 While I'm not in the market for a new computer for myself yet, (talk to
 me in a few months) I will be ordering an iMac for my mother when the
@@ -65,4 +65,3 @@ Anyway, I'll post a recap in a few hours when we know something serious.
 So stay tuned...
 
 Onward and Upward!
-

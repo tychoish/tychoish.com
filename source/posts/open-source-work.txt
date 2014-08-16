@@ -82,18 +82,16 @@ more specific technological goal.
 
 Thoughts? Reactions?
 
-.. [1]
-My father neatly summarized my critique as one against "lifestyle
-politics," which is apt. I think the problem in this case--like
-many--is one where personal beliefs and actions are *in themselves*
-thought to have a concrete impact on a larger political/economic
-situation, when I think politics happens at the next stage where you
-take your personal experiences and situations and work to
-influence/empower others. That is, if you *just* use free software
-(and refuse to use non-free software), you will do nothing to
-undermine the commercialized software industry, but if you use free
-software and you contribute back to the projects, and you help other
-people use free software, *and* you use free software to contribute
-to other efforts/projects things that is (potentially) a powerful
-political act. Potentially.
-
+.. [1] My father neatly summarized my critique as one against "lifestyle
+   politics," which is apt. I think the problem in this case--like
+   many--is one where personal beliefs and actions are *in themselves*
+   thought to have a concrete impact on a larger political/economic
+   situation, when I think politics happens at the next stage where you
+   take your personal experiences and situations and work to
+   influence/empower others. That is, if you *just* use free software
+   (and refuse to use non-free software), you will do nothing to
+   undermine the commercialized software industry, but if you use free
+   software and you contribute back to the projects, and you help other
+   people use free software, *and* you use free software to contribute
+   to other efforts/projects things that is (potentially) a powerful
+   political act. Potentially.

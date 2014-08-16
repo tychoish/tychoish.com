@@ -53,10 +53,6 @@ what else is there to do?"
 computer whiz into the elevator headed for the station's poorly named,
 "common space."
 
-.. raw:: html
-
-<!--more-->
-
 Evening Stroll
 --------------
 
@@ -147,4 +143,3 @@ Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
 and a science fiction writer by night, you can read his work elsewhere
 on `TealArt <http://tychoish.com>`__ and at
 `~/tychoish <http://tychoish.com>`__.*
-

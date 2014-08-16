@@ -109,10 +109,8 @@ your superior design capabilities.
 Basically write a good site, network well, and don't waste your time on
 snake oil and chants. /end.
 
-.. [1]
-The exception to this rule is live journal, as many people read LJ
-via the "Friend's Page" which induces a slightly different community
-standard. In general though, it provides yet another obstacle between
-a reader who would might read your, and in general your design/style
-should work to be more inclusive.
-
+.. [1] The exception to this rule is live journal, as many people read LJ
+   via the "Friend's Page" which induces a slightly different community
+   standard. In general though, it provides yet another obstacle between
+   a reader who would might read your, and in general your design/style
+   should work to be more inclusive.

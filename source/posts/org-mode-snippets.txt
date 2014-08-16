@@ -16,16 +16,16 @@ modes, flyspell-mode and auto-fill-mode). These lines do this:
 
 ::
 
-(add-hook 'org-mode-hook 'turn-on-auto-fill)
-(add-hook 'org-mode-hook 'flyspell-mode)
+   (add-hook 'org-mode-hook 'turn-on-auto-fill)
+   (add-hook 'org-mode-hook 'flyspell-mode)
 
 I also, attached ".org" as the file extension to org-mode. This setting
 is good for this kind of thing:
 
 ::
 
-(setq auto-mode-alist
-(cons '("\\.org" . org-mode)auto-mode-alist))
+   (setq auto-mode-alist
+   (cons '("\\.org" . org-mode)auto-mode-alist))
 
 The following are a list of basic org-mode related settings that I've
 found helpful. In some sequence, I keep org-mode files in the ``~/org/``
@@ -47,20 +47,20 @@ I debated for a long time about weather "differed" should be "done" or
 
 ::
 
-(setq org-directory "~/org/")
-(setq org-default-notes-file (concat org-directory "/codex.org"))
-(setq org-agenda-include-all-todo t)
-(setq org-agenda-include-diary t)
-(setq org-hide-leading-stars t)
-(setq org-odd-levels-only t)
-(setq org-todo-keywords
-'((sequence "TODO"
-"WRITE"
-"REVIEW"
-"PENDING" "|"
-"DIFFERED"
-"DELEGATED"
-"DONE")))
+   (setq org-directory "~/org/")
+   (setq org-default-notes-file (concat org-directory "/codex.org"))
+   (setq org-agenda-include-all-todo t)
+   (setq org-agenda-include-diary t)
+   (setq org-hide-leading-stars t)
+   (setq org-odd-levels-only t)
+   (setq org-todo-keywords
+         '((sequence "TODO"
+                     "WRITE"
+                     "REVIEW"
+                     "PENDING" "|"
+                     "DIFFERED"
+                     "DELEGATED"
+                     "DONE")))
 
 The next bit, is something that I got from
 `Jack <http://metajack.im/2009/01/01/journaling-with-emacs-orgmode/>`__.
@@ -73,30 +73,30 @@ habitual about using it.
 
 ::
 
-(defvar org-journal-file "~/org/journal.org"
-"Path to OrgMode journal file.")
-(defvar org-journal-date-format "%Y-%m-%d"
-"Date format string for journal headings.")
+   (defvar org-journal-file "~/org/journal.org"
+      "Path to OrgMode journal file.")
+   (defvar org-journal-date-format "%Y-%m-%d"
+      "Date format string for journal headings.")
 
-(defun org-journal-entry ()
-"Create a new diary entry for today or append to an existing one."
-(interactive)
-(switch-to-buffer (find-file org-journal-file))
-(widen)
-(let ((today (format-time-string org-journal-date-format)))
-(beginning-of-buffer)
-(unless (org-goto-local-search-headings today nil t)
-((lambda ()
-(org-insert-heading)
-(insert today)
-(insert "\n\n  \n"))))
-(beginning-of-buffer)
-(org-show-entry)
-(org-narrow-to-subtree)
-(end-of-buffer)
-(backward-char 2)
-(unless (= (current-column) 2)
-(insert "\n\n  "))))
+   (defun org-journal-entry ()
+     "Create a new diary entry for today or append to an existing one."
+     (interactive)
+     (switch-to-buffer (find-file org-journal-file))
+     (widen)
+     (let ((today (format-time-string org-journal-date-format)))
+       (beginning-of-buffer)
+       (unless (org-goto-local-search-headings today nil t)
+         ((lambda ()
+            (org-insert-heading)
+            (insert today)
+            (insert "\n\n  \n"))))
+       (beginning-of-buffer)
+       (org-show-entry)
+       (org-narrow-to-subtree)
+       (end-of-buffer)
+       (backward-char 2)
+       (unless (= (current-column) 2)
+         (insert "\n\n  "))))
 
 The integration between remember-mode functionality and org-mode is one
 of those things that just makes org-mode amazing and awe inspiring. The
@@ -108,17 +108,17 @@ I should look into that.
 
 ::
 
-(require 'remember)
-(setq remember-annotation-functions '(org-remember-annotation))
-(setq remember-handler-functions '(org-remember-handler))
-(add-hook 'remember-mode-hook 'org-remember-apply-template)
+   (require 'remember)
+   (setq remember-annotation-functions '(org-remember-annotation))
+   (setq remember-handler-functions '(org-remember-handler))
+   (add-hook 'remember-mode-hook 'org-remember-apply-template)
 
-(setq org-remember-templates
-'(("todo" ?t "* TODO %?\n  %i\n  %a" "~/org/codex.org" "Tasks")
-("notes" ?n "* %?\n  %i\n  %a" "~/org/codex.org" "Inbox and Notes")
-("blog" ?b "* %U %?\n\n  %i\n  %a" "~/org/blog.org")
-("technology" ?s "* %U %?\n\n  %i\n  %a" "~/org/technology.org")
-("fiction" ?f "* %U %?\n\n  %i\n  %a" "~/org/fiction.org"))
+   (setq org-remember-templates
+         '(("todo" ?t "* TODO %?\n  %i\n  %a" "~/org/codex.org" "Tasks")
+           ("notes" ?n "* %?\n  %i\n  %a" "~/org/codex.org" "Inbox and Notes")
+           ("blog" ?b "* %U %?\n\n  %i\n  %a" "~/org/blog.org")
+           ("technology" ?s "* %U %?\n\n  %i\n  %a" "~/org/technology.org")
+           ("fiction" ?f "* %U %?\n\n  %i\n  %a" "~/org/fiction.org"))
 
 Finally, key bindings that make org-mode functionality accessible
 whenever I need it in emacs. I should do things to have raise
@@ -128,9 +128,9 @@ later. There aren't that many, and I put org-mode stuff under control-c
 
 ::
 
-(global-set-key "\C-ca" 'org-agenda)
-(global-set-key "\C-cr" 'org-remember)
-(global-set-key "\C-cj" 'org-journal-entry)
+   (global-set-key "\C-ca" 'org-agenda)
+   (global-set-key "\C-cr" 'org-remember)
+   (global-set-key "\C-cj" 'org-journal-entry)
 
 And that's it. If you use org-mode, what's the killer snippet that I've
 forgotten? If you don't use org-mode but are curious, what should I talk
@@ -138,4 +138,3 @@ about next. If you're still not clear what org-mode is, ask, as I should
 work on getting better at explaining.
 
 Thanks for reading. Cheers!
-

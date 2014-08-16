@@ -16,20 +16,20 @@ the number of words I write on a project, to what I read. There are a
 couple of ideas at play in this:
 
 1. *I do more things than I give myself credit for.* Even when I'm not
-doing things that need getting done in the strictest sense, its not
-like I'm not doing **anything**. I've found it helpful to keep track
-of these things, and give my self credit for all the things I do, not
-just those things that I think need doing before I do them.
+   doing things that need getting done in the strictest sense, its not
+   like I'm not doing **anything**. I've found it helpful to keep track
+   of these things, and give my self credit for all the things I do, not
+   just those things that I think need doing before I do them.
 2. *Knowing what you've done is useful for project planning.* I must
-admit, that when I do something on my To-do list I delete it, rather
-than strike it out or move it to a new list. This additional helps me
-stay aware of what I'm doing through out the day, and keep track of
-time.
+   admit, that when I do something on my To-do list I delete it, rather
+   than strike it out or move it to a new list. This additional helps me
+   stay aware of what I'm doing through out the day, and keep track of
+   time.
 3. *Allows for more proper reviews.* The only way to do a proper review
-is to collect data in the moment, rather than in retrospect, where
-memory and mood can play havoc on an accurate view of the past. I
-almost always feel like I've gotten more done after reading a list
-than I would otherwise.
+   is to collect data in the moment, rather than in retrospect, where
+   memory and mood can play havoc on an accurate view of the past. I
+   almost always feel like I've gotten more done after reading a list
+   than I would otherwise.
 
 I maintain this list using a `markdown
 template <http://tychoish.com/files/reports.txt>`__ that I keep in my
@@ -51,8 +51,6 @@ your day-to-day organization.
 
 cheers, tycho
 
-.. [1]
-I begin every line with a "-" which markdown uses to make a bulleted
-list. Except I never complie it using markdown, so it's
-theoretical/make believe at this point.
-
+.. [1] I begin every line with a "-" which markdown uses to make a bulleted
+   list. Except I never complie it using markdown, so it's
+   theoretical/make believe at this point.

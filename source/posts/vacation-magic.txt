@@ -18,28 +18,28 @@ site\|site-improvements]] n and the ability to blog *casually* again.
 Here are some exciting links/thoughts:
 
 - `Willie Taylor <http://cl.ly/280s3m0B0h0c1W0o0H31>`__, an
-English/Irish folk song, sung in this version by a couple of friends
-at Bard College (Jeremy Carter-Gordon and Ben Bath). It's nice to
-know that I'm not the only person in my generation who's into this
-kind of music
+  English/Irish folk song, sung in this version by a couple of friends
+  at Bard College (Jeremy Carter-Gordon and Ben Bath). It's nice to
+  know that I'm not the only person in my generation who's into this
+  kind of music
 
 - `pinboard.in <http://pinboard.in>`__, a delicious (rip) like,
-link-sharing/storing service. The thing I like most about Pinboard (I
-have an account, but I don't really use it.) is that they charge a
-nominal fee for creating an account. This supports the site and
-controls who gets an account. While I'm not sure I like a world where
-content/services on the web are all pay-to-play, I *really* don't
-like the world where no one is willing to pay for anything digital,
-because there's an expectation that things ought to be free.
+  link-sharing/storing service. The thing I like most about Pinboard
+  (I have an account, but I don't really use it.) is that they charge
+  a nominal fee for creating an account. This supports the site and
+  controls who gets an account. While I'm not sure I like a world
+  where content/services on the web are all pay-to-play, I *really*
+  don't like the world where no one is willing to pay for anything
+  digital, because there's an expectation that things ought to be
+  free.
 
-- I wrote about
-`this <http://criticalfutures.com/2009/09/the-mainframe-of-the-future/>`__
-more than a year ago, but I think that `halvm <http://halvm.org/>`__
-(an implementation of Haskell that runs on bare Xen) is really cool,
-and probably an indicator of things to come, but it'll be a while
-before this (and other tools like it) are really ready for general
-use. Which is probably a good thing because engineers and IT people
-need some time to adapt to thinking about software in this way.
+- I wrote about `this
+  <http://criticalfutures.com/2009/09/the-mainframe-of-the-future/>`__
+  more than a year ago, but I think that `halvm <http://halvm.org/>`__
+  (an implementation of Haskell that runs on bare Xen) is really cool,
+  and probably an indicator of things to come, but it'll be a while
+  before this (and other tools like it) are really ready for general
+  use. Which is probably a good thing because engineers and IT people
+  need some time to adapt to thinking about software in this way.
 
 Keep warm!
-

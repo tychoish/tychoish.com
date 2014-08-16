@@ -2,9 +2,9 @@
 Task Updates
 ============
 
-.. post:: 
+.. post::
    :author: tychoish
-   :tags: journal, update, 
+   :tags: journal, update,
 
 Life has been incredibly busy and full lately and that's been a great
 thing. I've also been focusing my time on [[big projects\|longer-forms]]
@@ -25,30 +25,31 @@ ever going to happen, I need to get something together myself. The first
 release will contain:
 
 - A book-like object, that provides an introduction to the basic
-principals of Systems Administration for developers, "web people,"
-and other people who find themselves in charge of systems, without
-any real introduction to systems administration. (*Status:* 70%
-finished, with a couple more sections to draft and some editing
-left.)
+  principals of Systems Administration for developers, "web people,"
+  and other people who find themselves in charge of systems, without
+  any real introduction to systems administration. (*Status:* 70%
+  finished, with a couple more sections to draft and some editing
+  left.)
 
-- A Makefile based tasklist aggregator, inspired by
-`org-mode <http://orgmode.org/>`__ but largely tool agnostic.
-(*Status:* 95% finished, with documentation editing and some final
-testing remaining.)
+- A Makefile based tasklist aggregator, inspired by `org-mode
+  <http://orgmode.org/>`__ but largely tool agnostic.  (*Status:* 95%
+  finished, with documentation editing and some final testing
+  remaining.)
 
-- A logging system for writers. I use it daily, and I think it's a vast
-improvement over some previous attempts at script writing, and I did
-a pretty good job of documenting it, but it's virtually impossible to
-manage/maintain. Having said that, I always wanted to rewrite it in
-Python (as a learning exercise,) so that might be a cool next step
-(*Status:* Finished save editing and an eventual rewrite.)
+- A logging system for writers. I use it daily, and I think it's a
+  vast improvement over some previous attempts at script writing, and
+  I did a pretty good job of documenting it, but it's virtually
+  impossible to manage/maintain. Having said that, I always wanted to
+  rewrite it in Python (as a learning exercise,) so that might be a
+  cool next step (*Status:* Finished save editing and an eventual
+  rewrite.)
 
 - Emacs and StumpWM config files, packaged as "starter-kits" for new
-users. I have good build processes for both of these. I don't think
-that I need to document them fully, but I need to write some READMEs.
-Since there's a lot of redistribution of others code, I need to
-figure out the most compatible/appropriate license. (*Status:*
-Finished except for the work of free afternoon.)
+  users. I have good build processes for both of these. I don't think
+  that I need to document them fully, but I need to write some
+  READMEs.  Since there's a lot of redistribution of others code, I
+  need to figure out the most compatible/appropriate
+  license. (*Status:* Finished except for the work of free afternoon.)
 
 Probably, all of these Cyborg Institute projects will get released at
 about the same time. The blockers will be finishing/editing the book and
@@ -59,19 +60,18 @@ Other than that, I:
 - Updated [[/technical-writing/compilation]].
 
 - Finished the first draft of this novel. Editing will commence in
-June. I've also started planning a fiction project, for a draft to
-begin in the fall?
+  June. I've also started planning a fiction project, for a draft to
+  begin in the fall?
 
 - Wrote a few paragraphs on the [[critical-futures/isd]] page, but I'm
-starting to think that as my time becomes more limited, that the
-[[critical-futures]] wiki project, as such, will probably be the
-first thing to fall on the floor, unless someone else is really
-interested in making that be a thing.
+  starting to think that as my time becomes more limited, that the
+  [[critical-futures]] wiki project, as such, will probably be the
+  first thing to fall on the floor, unless someone else is really
+  interested in making that be a thing.
 
 Onward and Upward!
 
-.. [1]
-My intention for the Cyborg Institute has always been (and shall
-remain,) as a sort of virtual think tank for cool projects put up by
-myself and others. You all, dearest readers, count in this group.
-
+.. [1] My intention for the Cyborg Institute has always been (and
+   shall remain,) as a sort of virtual think tank for cool projects
+   put up by myself and others. You all, dearest readers, count in
+   this group.

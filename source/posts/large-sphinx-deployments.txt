@@ -37,18 +37,18 @@ content. reStructuredText has an
 directive for this purpose. In general, the best strategy is:
 
 - maintain a directory of included content that's distinct from the
-other directories that hold content. In our projects we use
-``source/includes``, where ``source/`` is holds all content.
+  other directories that hold content. In our projects we use
+  ``source/includes``, where ``source/`` is holds all content.
 
 - Use a different extension for the included text than you use for your
-content files. For example if all of your Sphinx processed rst files
-use ``.rst`` extensions, include files should have ``.txt``
-extensions.
+  content files. For example if all of your Sphinx processed rst files
+  use ``.rst`` extensions, include files should have ``.txt``
+  extensions.
 
 - Smaller, more restricted resources are more effective, typically.
-Longer bits of text are more difficult to slipstream into the text.
-If your include snippet requires a section heading its *probably* too
-big.
+  Longer bits of text are more difficult to slipstream into the text.
+  If your include snippet requires a section heading its *probably* too
+  big.
 
 This is most crucial for larger technical resources, and less crucial
 for other kinds of content, but in general, avoid duplicating common
@@ -116,29 +116,29 @@ what's possible. When developing a template for Sphinx (or in general,)
 remember the following:
 
 - minimize the amount of runtime logic required to render each
-template. While some template logic is unavoidable, and for some
-projects the performance hit may not be noticable.
+  template. While some template logic is unavoidable, and for some
+  projects the performance hit may not be noticable.
 
-However, putting logic elsewhere (e.g. in the values passed to the
-template.) makes the data handled by the template as a compile-time
-rather than run-time cost (plus or minus the memory costs of larger
-template memory.)
+  However, putting logic elsewhere (e.g. in the values passed to the
+  template.) makes the data handled by the template as a compile-time
+  rather than run-time cost (plus or minus the memory costs of larger
+  template memory.)
 
 - use template inheritance.
 
-Basically, Jinja makes it possible to describe a complete template
-composed of "blocks." The blocks don't have any impact on the output;
-however, you take this template and use it as a "base" and then describe
-a new template that is like the base *except* that you can override some
-or all of the blocks. This is awesome, and makes it possible to reuse a
-lot template code without needing to duplicate *anything* or drive
-yourself crazy.
+  Basically, Jinja makes it possible to describe a complete template
+  composed of "blocks." The blocks don't have any impact on the output;
+  however, you take this template and use it as a "base" and then describe
+  a new template that is like the base *except* that you can override some
+  or all of the blocks. This is awesome, and makes it possible to reuse a
+  lot template code without needing to duplicate *anything* or drive
+  yourself crazy.
 
-It's easy to forget about this capability when you're trying to hack
-something together and template inheritance, like class inheritance in
-object oriented programming can add complexity and fragility. So
-you'reprobably well justified in being wary of using inheritance, but
-give it a shot!
+  It's easy to forget about this capability when you're trying to hack
+  something together and template inheritance, like class inheritance in
+  object oriented programming can add complexity and fragility. So
+  you'reprobably well justified in being wary of using inheritance, but
+  give it a shot!
 
 Evaluate Build System Requirements
 ----------------------------------
@@ -163,14 +163,10 @@ Other Useful Optimizations
 
 1. Download intersphinx inventories independently of Sphinx.
 
-Sphinx will attempt to download each intersphinx inventory each time you
-build your site *and* it will download each inventory serially. It's
-trivial to do better on your own. Here's what we do:
-`intersphinx.py <https://github.com/mongodb/docs-tools/blob/master/fabfile/intersphinx.py#L28>`__
+   Sphinx will attempt to download each intersphinx inventory each time you
+   build your site *and* it will download each inventory serially. It's
+   trivial to do better on your own. Here's what we do:
+   `intersphinx.py <https://github.com/mongodb/docs-tools/blob/master/fabfile/intersphinx.py#L28>`__
 
 2. The index objects (which Sphinx uses for all special objects) live in
-a flat namespace, and collisions are not well handled. Items of
-different If you're indexing items using Sphinx that have more than
-one n
-
-
+   a flat namespace, and collisions are not well handled.

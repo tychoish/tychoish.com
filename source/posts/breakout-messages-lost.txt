@@ -17,10 +17,6 @@ ship bound for a nearby star system at very fast (sub-light) speeds.
 
 It's all below the fold...
 
-.. raw:: html
-
-<!--more-->
-
 "Oh hey, what brings you this way, Stu?"
 
 "You know, I was just wrapped up in what I was doing and had to come
@@ -123,4 +119,3 @@ around," he said before he walked out.
 
 "Weirdo," Frank said under his breath. He was smiling again. "Back to
 `the program <#>`__."
-

@@ -79,13 +79,11 @@ continue...
 
 best, tycho
 
-.. [1]
-I mean what I seem to be calling for is a re-imagination of computer
-interface, and I think the *window* paradigm is something that might
-need rethinking, as part of this process. Because if we have a list
-of running/active windows/programs/applications that is easily
-accessible from some sort of text input, do we really need to have
-such a confusing graphical representation of the fact that our
-computers are doing all of these things at the same time? Arguably
-not. Just a thought.
-
+.. [1] I mean what I seem to be calling for is a re-imagination of
+   computer interface, and I think the *window* paradigm is something
+   that might need rethinking, as part of this process. Because if we
+   have a list of running/active windows/programs/applications that is
+   easily accessible from some sort of text input, do we really need
+   to have such a confusing graphical representation of the fact that
+   our computers are doing all of these things at the same time?
+   Arguably not. Just a thought.

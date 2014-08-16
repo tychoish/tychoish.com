@@ -12,35 +12,35 @@ particularly because like all "breaking ups," it's a bit difficult. To
 recap, the reasons for the break up:
 
 - The software we use to browse the web is awkward and difficult to use
-efficiently. I'm talking here about things like Firefox, Safari, and
-Chrome. While "webkit" generation browsers are *better* than
-everything that's come before (even if their lack of comparability
-with the Firefox Platform makes them useable,) every browser I've
-interacted with is a huge program that just *feels* unwieldy.
+  efficiently. I'm talking here about things like Firefox, Safari, and
+  Chrome. While "webkit" generation browsers are *better* than
+  everything that's come before (even if their lack of comparability
+  with the Firefox Platform makes them useable,) every browser I've
+  interacted with is a huge program that just *feels* unwieldy.
 
 - There are two many distractions in the browser. I've managed to find
-ways to assimilate and interact with nearly all of the information
-that comes at me in the course of a day or a week in a sane,
-balanced, and efficient way. Except for the browser. Where I find
-myself refreshing *Facebook* or *twitter* endlessly. I don't even
-*like* facebook and the twitter website all that much.
+  ways to assimilate and interact with nearly all of the information
+  that comes at me in the course of a day or a week in a sane,
+  balanced, and efficient way. Except for the browser. Where I find
+  myself refreshing *Facebook* or *twitter* endlessly. I don't even
+  *like* facebook and the twitter website all that much.
 
 - The web is too sensitive to the availability of data connectivity.
-While I have an Internet connection nearly all of the time that I'm
-in front of a connection, I don't really like to rely on this to do
-my work. I don't want to use applications that rely on connectivity,
-and I hate situations where I have a few moments to do something, and
-I have a computer with me, and I get started and then I have to check
-a fact, or read a little bit about {{something}} on wikipedia, and I
-can't because I don't have a connection.
+  While I have an Internet connection nearly all of the time that I'm
+  in front of a connection, I don't really like to rely on this to do
+  my work. I don't want to use applications that rely on connectivity,
+  and I hate situations where I have a few moments to do something, and
+  I have a computer with me, and I get started and then I have to check
+  a fact, or read a little bit about {{something}} on wikipedia, and I
+  can't because I don't have a connection.
 
 - I don't like that the presentation layer of the web provides so much
-flexibility to make websites so unreadable and difficult to
-comprehend. Web browsers interfaces like
-`emacs-w3m <http://emacs-w3m.namazu.org/>`__ improve this somewhat,
-but even that is somewhat lacking. This isn't a problem with
-software, but rather it's a problem with designers, design, and the
-"way the web works."
+  flexibility to make websites so unreadable and difficult to
+  comprehend. Web browsers interfaces like
+  `emacs-w3m <http://emacs-w3m.namazu.org/>`__ improve this somewhat,
+  but even that is somewhat lacking. This isn't a problem with
+  software, but rather it's a problem with designers, design, and the
+  "way the web works."
 
 --------------
 
@@ -48,44 +48,43 @@ So to end on a somewhat positive note. Here's what I think we *really*
 need in the next generation of digitally connected applications.
 
 - Some sort of very smart predictive caching software that would run
-locally. We have the hard-drive space in contemporary machines that
-we could dedicate--as much as 100 gigabytes to a cache of network
-data and never really feel a space crunch. In some cases even more. I
-think most people's digital music collections tend to top out in the
-75-100 gig range, and "small" desktop hard drives have at least 500
-gigs. Nothing else--well videos--takes up space. This would make the
-offline web a much more realistic proposition, it would speed things
-up and we could work on ways of only sending diffs between the cache
-and the servers, and it would rock.
+  locally. We have the hard-drive space in contemporary machines that
+  we could dedicate--as much as 100 gigabytes to a cache of network
+  data and never really feel a space crunch. In some cases even more. I
+  think most people's digital music collections tend to top out in the
+  75-100 gig range, and "small" desktop hard drives have at least 500
+  gigs. Nothing else--well videos--takes up space. This would make the
+  offline web a much more realistic proposition, it would speed things
+  up and we could work on ways of only sending diffs between the cache
+  and the servers, and it would rock.
 
 - Databases need to *mostly* move off of the server and onto local
-boxes. Extension of point above. Content doesn't change that much,
-local machines are now fast and smart enough to really be able to
-handle this. This is in HTML5, but having said that, I worry a bit.
-Because I'm me.
+  boxes. Extension of point above. Content doesn't change that much,
+  local machines are now fast and smart enough to really be able to
+  handle this. This is in HTML5, but having said that, I worry a bit.
+  Because I'm me.
 
 - We can import a lot of the "intelligence" of computing onto clients.
-There's moves toward this already, with Adobe AIR and it's
-competitors, but this seems to be all about adding "bling" to the web
-experience, and use the cross-platform nature of web technologies,
-even the proprietary ones like Flash, to reinvent desktop application
-development. I think we can go even further with this. Lets think
-about the next generation of desktop RSS clients. Offline
-wiki/wikipedia software.
+  There's moves toward this already, with Adobe AIR and it's
+  competitors, but this seems to be all about adding "bling" to the web
+  experience, and use the cross-platform nature of web technologies,
+  even the proprietary ones like Flash, to reinvent desktop application
+  development. I think we can go even further with this. Lets think
+  about the next generation of desktop RSS clients. Offline
+  wiki/wikipedia software.
 
-I'm not trying to buck the "software in the 21st century is social and
-connected" trend that we're in the middle of, but rather seriously
-rethink the interface and work-flow paradigms of the web.
+  I'm not trying to buck the "software in the 21st century is social and
+  connected" trend that we're in the middle of, but rather seriously
+  rethink the interface and work-flow paradigms of the web.
 
 - I hope that the next generation of web-document standards (of which I
-think `sygn <http://www.cyborginstitute.com/wiki/sygn/>`__ is an
-example) will focus on structure and organization and a much more
-limited set of "features" (less is more) that will let content
-creators make content more useful rather than better looking.
+  think `sygn <http://www.cyborginstitute.com/wiki/sygn/>`__ is an
+  example) will focus on structure and organization and a much more
+  limited set of "features" (less is more) that will let content
+  creators make content more useful rather than better looking.
 
-Take design out of the content, and put all of the display logic (aside
-from headings and meta-data) on the client. Don't like how a site
-displays? Use a different client. And so forth.
+  Take design out of the content, and put all of the display logic (aside
+  from headings and meta-data) on the client. Don't like how a site
+  displays? Use a different client. And so forth.
 
 Anyone with me?
-

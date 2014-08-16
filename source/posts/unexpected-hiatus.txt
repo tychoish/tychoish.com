@@ -57,12 +57,10 @@ starting in a new direction.*\ ]
 you all missed out on. sorry folks. *explains reader response theory
 at some length*
 
-.. [1]
-I was able to get some of the
-`AJAX <http://en.wikipedia.org/wiki/AJAX>`__ functionality of the
-template to *finally* work, including a more functional commenting
-feature, and archive display. Also, as you can see, I found an
-enhanced version of markdown for
-`Wordpress <http://www.wordpress.org>`__ that supports the tentative
-footnote feature, which **rocks**, as you all know.
-
+.. [1] I was able to get some of the `AJAX
+   <http://en.wikipedia.org/wiki/AJAX>`__ functionality of the
+   template to *finally* work, including a more functional commenting
+   feature, and archive display. Also, as you can see, I found an
+   enhanced version of markdown for `Wordpress
+   <http://www.wordpress.org>`__ that supports the tentative footnote
+   feature, which **rocks**, as you all know.

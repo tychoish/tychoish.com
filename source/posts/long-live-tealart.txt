@@ -32,23 +32,10 @@ for the site. And I think a clean slate will do us good, so I'm taking
 everything down while I do the rebuilding, and I'll see you back here in
 a few weeks with a whole new site and new updates.
 
-.. raw:: html
-
-<p>
-
 I'll see you around in the mean time, and do be in touch. See you soon!
 
-.. raw:: html
-
-</p>
-
-<p>
-
-tycho garen 8 December 2007
-
-.. raw:: html
-
-</p>
+*tycho garen*
+*8 December 2007*
 
 I've been mentioning the great TealArt redesign of 07/08 for a while
 now, and I think it's time to get this underway. But because I'm an
@@ -99,7 +86,5 @@ Onward and Upward!
 
 -- tycho
 
-.. [1]
-Lets remember for a moment that I was 13-14 when TealArt started.
-We're allowed to make mistakes.
-
+.. [1] Lets remember for a moment that I was 13-14 when TealArt started.
+   We're allowed to make mistakes.

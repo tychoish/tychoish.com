@@ -7,14 +7,6 @@ TealArt, This Week
 
 Good Monday Friends!
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 You know the week is a longer length of time than you might normally be
 given to think. On the one hand, I look back and say "gee, nothing much
 of import happened," and would therefore be prone to thinking that it
@@ -64,4 +56,3 @@ That's about all I have for you this week. Be well, be productive,
 enjoy, and stay tuned!
 
 Cheers, tycho
-

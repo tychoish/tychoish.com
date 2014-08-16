@@ -62,9 +62,7 @@ v.2,) and I like the sentiment.
 
 cheers, tycho
 
-.. [1]
-I totally can't find the link, at all, sorry. I might have, I'm
-realizing blogged inside my head but forgotten to actually post it.
-Sigh. On the other hand I might not be crazy and posted it in my
-"real" notebook.
-
+.. [1] I totally can't find the link, at all, sorry. I might have, I'm
+   realizing blogged inside my head but forgotten to actually post it.
+   Sigh. On the other hand I might not be crazy and posted it in my
+   "real" notebook.

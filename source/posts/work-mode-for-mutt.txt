@@ -54,10 +54,10 @@ Now here comes the trickery. In $HOME/.muttrc put the following:
 
 ::
 
-# All the good Mutt settings
-source /path/to/.muttrc_core
-# which mailboxeses to list in the sidebar
-source /path/to/.mailboxes_standard
+   # All the good Mutt settings
+   source /path/to/.muttrc_core
+   # which mailboxeses to list in the sidebar
+   source /path/to/.mailboxes_standard
 
 And in a file named .muttrc\_work
 

@@ -47,22 +47,18 @@ site, and hopefully there'll be comments a plenty in the near future.
 
 best, tycho
 
-.. [1]
-A long running joke, my first brake back after I left for college, I
-returned to find that the only furniture left in my room were objects
-that wouldn't fit out the door easily. This included my desk, which
-is ok, because I wasn't using it. The ironic aspect is that I
-realized while I was away at school, that despite having a laptop, a
-desk/table to work at is crucial for my ability to focus and get
-things done.
+.. [1] A long running joke, my first brake back after I left for college, I
+   returned to find that the only furniture left in my room were objects
+   that wouldn't fit out the door easily. This included my desk, which
+   is ok, because I wasn't using it. The ironic aspect is that I
+   realized while I was away at school, that despite having a laptop, a
+   desk/table to work at is crucial for my ability to focus and get
+   things done.
 
-.. [2]
-My PowerBook G4 of wonder.
+.. [2] My PowerBook G4 of wonder.
 
-.. [3]
-PHP Markdown Extra is a subset of John Gruber's
-`Markdown <http://daringfireball.net/projects/markdown/>`__ which
-affords for footnotes, tables and some other much needed features. I
-use this script, more or less, (so I changed two lines, shoot me,) to
-parse my syntax on tealart.
-
+.. [3] PHP Markdown Extra is a subset of John Gruber's
+   `Markdown <http://daringfireball.net/projects/markdown/>`__ which
+   affords for footnotes, tables and some other much needed features. I
+   use this script, more or less, (so I changed two lines, shoot me,) to
+   parse my syntax on tealart.

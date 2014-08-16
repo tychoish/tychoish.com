@@ -53,10 +53,8 @@ As long as users have choices and options, and there are open ways of
 achieving the same ends, I think that these issues are less important
 than many others.
 
-.. [1]
-To be fair, I'm using it to synchronize files to the Android devices,
-and not really to synchronize files between machines: I have a server
-for simple file sharing, and git repositories for the more complex
-work. So it's not terribly useful for desktop-to-desktop sharing, But
-for mobile devices? Amazing.
-
+.. [1] To be fair, I'm using it to synchronize files to the Android
+   devices, and not really to synchronize files between machines: I
+   have a server for simple file sharing, and git repositories for the
+   more complex work. So it's not terribly useful for
+   desktop-to-desktop sharing, But for mobile devices? Amazing.

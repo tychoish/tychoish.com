@@ -61,13 +61,12 @@ develop the idea in a more concrete direction. Having said that, I think
 the following questions are important.
 
 - Are there practical ways to organize our files, that don't require
-too much over-thinking before a collection grows unmanageable that
-make "resorting to search" less necessary?
+  too much over-thinking before a collection grows unmanageable that
+  make "resorting to search" less necessary?
 
 - Is (or might) building search tools for people who work with a given
-body of data (and therefore are familiar with the data, and are less
-likely to need search) different from building search for people who
-aren't familiar with a given corpus?
+  body of data (and therefore are familiar with the data, and are less
+  likely to need search) different from building search for people who
+  aren't familiar with a given corpus?
 
 Onward and Upward!
-

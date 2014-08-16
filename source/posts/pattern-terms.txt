@@ -24,10 +24,6 @@ In any case, below the fold, you'll see a copy of the draft of the
 statement of this idea. Please give feedback and commentary either in
 the comments or via email. I look forward to hearing form you.
 
-.. raw:: html
-
-<!--more-->
-
 The rights to this pattern are entirely the property of the author;
 except in the instance of this copy, in which you the knitter hold
 (quite literally.) Very likely, you downloaded this pattern after
@@ -70,4 +66,3 @@ the tychoish.com/knitting/ page will, of course, be configured to
 contain links to pages that discuss donations and the store.
 
 Onward and Upward!
-

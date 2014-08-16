@@ -76,35 +76,34 @@ it took a thousand things that might have been huge headaches and made
 them non-issues. Here's what this repo looks like:
 
 - **emacs/** This is where my emacs-lisp files all live. I have a
-'init.el' file which is basically the standard .emacs file, and a
-'gui-init.el' file for code that I only want to run if I'm running
-desktop where I'll be running non-console emacs frames. As a result
-on my machines my .emacs file looks like this:
+  'init.el' file which is basically the standard .emacs file, and a
+  'gui-init.el' file for code that I only want to run if I'm running
+  desktop where I'll be running non-console emacs frames. As a result
+  on my machines my .emacs file looks like this: ::
 
-``(load "~/garen/emacs/gui-init.el")``
-``(load "~/garen/emacs/init.el")``
+    (load "~/garen/emacs/gui-init.el")
+    (load "~/garen/emacs/init.el")
 
-With the first line commented out if needed. End result, emacs loads the
-same everywhere, no thinking.
+  With the first line commented out if needed. End result, emacs loads the
+  same everywhere, no thinking.
 
 - **scripts/** I add this to my path, so that any little bit of bash
-script that I want to be able to use is accessable and the same on
-all my machines.
+  script that I want to be able to use is accessable and the same on
+  all my machines.
 
 - **configs/** Generally my format is to have
-config\_file.machine\_name, for example: bashrc.leibniz. In the case
-of the bashrc, I have a ".common" file that has everything that all
-my machines need, while the machine specific files have everything
-that's... well specific, and a source statement for the common file.
-So my "real" .bashrc looks like this:
+  ``config_file.machine_name``, for example: bashrc.leibniz. In the case
+  of the bashrc, I have a ".common" file that has everything that all
+  my machines need, while the machine specific files have everything
+  that's... well specific, and a source statement for the common file.
+  So my "real" .bashrc looks like this: ::
 
-``source /home/tychoish/garen/configs/bashrc.leibniz``
+     source /home/tychoish/garen/configs/bashrc.leibniz
 
-And everything stays in sync between the machines. How cool is that.
+  And everything stays in sync between the machines. How cool is that.
 
 That's sort of the most important thing. The great thing is that this
 makes setting up a new user account on a server, or a box itself a piece
 of cake.
 
 Food for thought!
-

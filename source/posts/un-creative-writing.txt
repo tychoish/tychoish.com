@@ -73,21 +73,18 @@ to get good at something is to do it, and do it often, and not always
 motivate you to write a lot, then that's great [2]_ but `having a
 blog <http://criticalfutures.com>`__ might achieve a similar goal.
 
-.. [1]
-I'm exactly not making a case for sloppy prose--except maybe I am. My
-preference is strong characters, plot, and/or conceptual work over
-pretty, or even sharp language. Always. And I think people who are in
-the process of figuring out how they write and write best, are much
-more likely in need of figuring out how to do the conceptual work,
-not the mechanics, which comes with practice, and is, I'm convinced a
-numbers game, "the million words of crap," and all that. If nothing
-else mandatory rewriting, confuses the conceptual development that I
-think grows from working with a lot of different ideas/stories; and
-the technical development that grows from attention, editing
-(rewriting), and time.
+.. [1] I'm exactly not making a case for sloppy prose--except maybe I
+   am. My preference is strong characters, plot, and/or conceptual
+   work over pretty, or even sharp language. Always. And I think
+   people who are in the process of figuring out how they write and
+   write best, are much more likely in need of figuring out how to do
+   the conceptual work, not the mechanics, which comes with practice,
+   and is, I'm convinced a numbers game, "the million words of crap,"
+   and all that. If nothing else mandatory rewriting, confuses the
+   conceptual development that I think grows from working with a lot
+   of different ideas/stories; and the technical development that
+   grows from attention, editing (rewriting), and time.
 
-.. [2]
-it's also a route to a job that you wouldn't necessarily be able to
-get otherwise, but that's another story that I'm not interested in
-telling.
-
+.. [2] it's also a route to a job that you wouldn't necessarily be
+   able to get otherwise, but that's another story that I'm not
+   interested in telling.

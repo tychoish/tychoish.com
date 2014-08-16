@@ -15,79 +15,81 @@ future of journalism, and an article about `gawker
 media <http://nymag.com/news/features/39319/index4.HTML>`__ has promoted
 a series of loosely connected thoughts:
 
-- Newspapers are *dead*, *dead*, *dead*. This isn't particularly ground
-breaking news, but I think it's interesting to make note of this fact
-because of this corollary:
+- Newspapers are *dead*, *dead*, *dead*. This isn't particularly
+  ground breaking news, but I think it's interesting to make note of
+  this fact because of this corollary:
 
-- The Media/Content industry on the Internet has been unable to develop
-a successful business model for funding the creation of content to
-replace the business model of the newspapers (where newspapers fund
-websites/writer and a model which doesn't revolve around
-advertising.)
+- The Media/Content industry on the Internet has been unable to
+  develop a successful business model for funding the creation of
+  content to replace the business model of the newspapers (where
+  newspapers fund websites/writer and a model which doesn't revolve
+  around advertising.)
 
-- I've been talking about trying to figure out what constitutes success
-at this "content creation thing," for a while, and I don't think I
-have a good answer for what those markers of success are. I think
-page views, are a part of it certainly, and I think the volume of
-comments, and/or the number of twitter followers you have may be
-markers of success, but I think we need to get to a place where we
-think of success as being something a bit less concrete.
+- I've been talking about trying to figure out what constitutes
+  success at this "content creation thing," for a while, and I don't
+  think I have a good answer for what those markers of success are. I
+  think page views, are a part of it certainly, and I think the volume
+  of comments, and/or the number of twitter followers you have may be
+  markers of success, but I think we need to get to a place where we
+  think of success as being something a bit less concrete.
 
-Success might be landing a cool new job because your blog impresses
-someone. Success might be having enough of a following to be able to
-sell enough copies of your book/CD/etc. to support yourself. Success
-might be having enough page-views to support the site in advertising.
-Success might be five people whose opinion you care about reading your
-site. Success might be steady progress in the direction of having a
-readership that eclipses the circulation of the print publications in
-your field.
+  Success might be landing a cool new job because your blog impresses
+  someone. Success might be having enough of a following to be able to
+  sell enough copies of your book/CD/etc. to support yourself. Success
+  might be having enough page-views to support the site in
+  advertising.  Success might be five people whose opinion you care
+  about reading your site. Success might be steady progress in the
+  direction of having a readership that eclipses the circulation of
+  the print publications in your field.
 
-If we use these kinds of standards to judge our work, rather than the
-standards of old school publishing (page views), it becomes easier to
-making meaningful qualitative judgments of success.
+  If we use these kinds of standards to judge our work, rather than
+  the standards of old school publishing (page views), it becomes
+  easier to making meaningful qualitative judgments of success.
 
 - Though I think they're largely correct about success, Gruber and
-Mann's suggestions--I think--fail to explain their own success.
+  Mann's suggestions--I think--fail to explain their own success.
 
-I think Merlin Mann is successful because he was friends with people
-like Cory Doctorow and Danny O'Brien at the right moment, because the
-GTD thing happened, because he's pretty funny, and because MacBreak
-Weekly emerged at the right time and he played a big role in making that
-podcast successful. At the same time I think Gruber is successful
-because he took Apple Computer seriously at a time when no one really
-did. And he wrote this thing called
-`markdown <http://www.daringfireball.com/projects/markdown>`__. This
-isn't to say that either isn't deserving of their success--hardly--but
-their advice to just "passionately do your thing and embrace the
-niche-yness and uniqueness of what you do," is a good, but I don't think
-that's all it's going to take to be successful in the next five years.
+  I think Merlin Mann is successful because he was friends with people
+  like Cory Doctorow and Danny O'Brien at the right moment, because
+  the GTD thing happened, because he's pretty funny, and because
+  MacBreak Weekly emerged at the right time and he played a big role
+  in making that podcast successful. At the same time I think Gruber
+  is successful because he took Apple Computer seriously at a time
+  when no one really did. And he wrote this thing called `markdown
+  <http://www.daringfireball.com/projects/markdown>`__. This isn't to
+  say that either isn't deserving of their success--hardly--but their
+  advice to just "passionately do your thing and embrace the
+  niche-yness and uniqueness of what you do," is a good, but I don't
+  think that's all it's going to take to be successful in the next
+  five years.
 
-Additionally I think there are a couple of unnecessary assumptions that
-we've started to make about the future of content on the interent, that
-are **worth questioning**. They are, quickly:
+Additionally I think there are a couple of unnecessary assumptions
+that we've started to make about the future of content on the
+interent, that are **worth questioning**. They are, quickly:
 
 - Blogging as we have known it will endure into the future.
 
 - Blogging is being fragmented by the emergence of things like twitter
-and facebook.
+  and facebook.
 
 - User generated content (eg. youtube and digg) will destroy
-professional content producers (ie. NBC and slashdot/the AP.)
+  professional content producers (ie. NBC and slashdot/the AP.)
 
 - (Creative) Content will be able to survive in an unstructured format.
 
 - MediaWiki is the best software to quickly run a wiki-based site.
 
 - Content Management Systems (drupal, wordpress, MediWiki, etc.) and
-web programing frameworks (django, rails, drupal) are stable and
-enduring in the way that we've come to expect operating systems to be
-stable and enduring.
+  web programing frameworks (django, rails, drupal) are stable and
+  enduring in the way that we've come to expect operating systems to
+  be stable and enduring.
 
 - Content Management Systems, unlike the content they contain, can
-mostly survive schisms into niches.
+  mostly survive schisms into niches.
 
-- The key to successful content-based sites/projects is "more content,"
-followed by "even more content." (ie. Quantity trumps all.)
+- The key to successful content-based sites/projects is "more
+  content," followed by "even more content." (ie. Quantity trumps
+  all.)
 
 If the singularity doesn't come first, that is.
 
@@ -99,4 +101,3 @@ Vandermeer <http://www.jeffvandermeer.com/2009/05/12/booklife-excerpt-general-ti
 also, influenced this post to some greater or lesser extent, but I read
 it about a week before I listened to the podcast, so I wasn't as aware
 of its influence. Read that as well.
-

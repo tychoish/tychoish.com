@@ -16,17 +16,17 @@ Which sounds great, but doesn't reflect reality or best practice.
 Consider the following:
 
 - Documentation is as much for the producers of the software as it is
-for the users. Having extensive documentation contributes too, and
-reflects a sane design process. Collecting and curating the
-documentation helps ensure that the software is usable and knowable.
+  for the users. Having extensive documentation contributes too, and
+  reflects a sane design process. Collecting and curating the
+  documentation helps ensure that the software is usable and knowable.
 
 - Having complete documentation reduces support costs, both by reducing
-the volume of support requests and by lowering the complexity of the
-work associated with support.
+  the volume of support requests and by lowering the complexity of the
+  work associated with support.
 
 - Good extensive documentation drives adoption of software. Products
-with better documentation will always see better adoption than
-comparable products with worse documentation.
+  with better documentation will always see better adoption than
+  comparable products with worse documentation.
 
 Without users, software is useless.
 
@@ -41,4 +41,3 @@ But minimalism for the sake of minimalism, without a particular strategy
 is an *awful* and ill-gotten ideology.
 
 *Even if it looks good*, and *particularly if it sounds good.*
-

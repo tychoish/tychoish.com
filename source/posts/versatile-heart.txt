@@ -50,12 +50,10 @@ I think I'm back. Alert the news.
 
 Onward and Upward!
 
-.. [1]
-One of the reasons that Circle Games didn't really work out the first
-time, is that the entire story is built around some ill-gotten notion
-of loyalty and social organization. While it's not as bad as that
-description would suggest, I realized while I was writing--or shortly
-after--that I wasn't really particularly interested in this subject
-on some larger scale. So it's good that I have something new to focus
-my attention on.
-
+.. [1] One of the reasons that Circle Games didn't really work out the
+   first time, is that the entire story is built around some
+   ill-gotten notion of loyalty and social organization. While it's
+   not as bad as that description would suggest, I realized while I
+   was writing--or shortly after--that I wasn't really particularly
+   interested in this subject on some larger scale. So it's good that
+   I have something new to focus my attention on.

@@ -16,41 +16,28 @@ enjoy.
 
 .. raw:: html
 
-<object width="425" height="344">
+   <object width="425" height="344">
 
-.. raw:: html
-
-<embed
-src="http://www.youtube.com/v/UaObV9KIeww&hl=en&fs=1&rel=0"
-type="application/x-shockwave-flash" allowscriptaccess="always"
-allowfullscreen="true" width="425" height="344"></embed></object>
+   <embed src="http://www.youtube.com/v/UaObV9KIeww&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 Notice a few things:
 
 - Mixed set. Looks great. All you nay sayers who think "Morris should
-be danced in single-sex teams?" Wrong.
+  be danced in single-sex teams?" Wrong.
 
 - Morris need not be done to English tunes. There is latitude here for
-some creativity, even in the Cotswold tradition.
+  some creativity, even in the Cotswold tradition.
 
 - Although in the midwest, we are prone to judging the tradition of
-Bleddington as being particularly challenging and exuberant given the
-awesomeness of the Ramsey's Braggarts team. While it's not a sedate
-tradition like, say Fieldtown, there aren't really sedate *Morris
-Dance* traditions, Bleddington can be enjoyed less exuberantly.
+  Bleddington as being particularly challenging and exuberant given the
+  awesomeness of the Ramsey's Braggarts team. While it's not a sedate
+  tradition like, say Fieldtown, there aren't really sedate *Morris
+  Dance* traditions, Bleddington can be enjoyed less exuberantly.
 
 And of course, the first half of what remains my favorite morris dance
 ever, done last year by a Toronto team, Queen's Delight:
 
 .. raw:: html
 
-<object width="425" height="344">
-
-.. raw:: html
-
-<embed
-src="http://www.youtube.com/v/p2UxKfVQ9R4&hl=en&fs=1&rel=0"
-type="application/x-shockwave-flash" allowscriptaccess="always"
-allowfullscreen="true" width="425" height="344"></embed></object>
-
-
+   <object width="425" height="344">
+   <embed src="http://www.youtube.com/v/p2UxKfVQ9R4&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>

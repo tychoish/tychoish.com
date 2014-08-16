@@ -23,31 +23,31 @@ Five People I Enjoy on Twitter
 - `tommorris <http://twitter.com/tommorris>`__
 
 - and a bonus
-(`DeleuzeGuatteri <http://twitter.com/DeleuzeGuatteri>`__)
+  (`DeleuzeGuatteri <http://twitter.com/DeleuzeGuatteri>`__)
 
 Five Improvements to Web Browsers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Enforce document structure standards on the server. Documents must be
-structured and organized within the constraints of a couple of
-conventions or else the server throws a 500 error.
+  structured and organized within the constraints of a couple of
+  conventions or else the server throws a 500 error.
 
 - Locate all design and presentation on the client side, and allow
-designs to be fully independent of the design.
+  designs to be fully independent of the design.
 
 - Scripting happens on the client side, in sandboxes, and are integral
-parts of the browser applications.
+  parts of the browser applications.
 
 - Therefore, scripts shouldn't be provided with the browser or by the
-viewer, not by the content creator. In other words, die JavaScript,
-die, and replace it with lightweight greasemonkeyesque+webkit-style
-browsers. Except might as well use python/perl/ruby/etc. while you're
-at it.
+  viewer, not by the content creator. In other words, die JavaScript,
+  die, and replace it with lightweight greasemonkeyesque+webkit-style
+  browsers. Except might as well use python/perl/ruby/etc. while you're
+  at it.
 
 - Applications, can and should interact with servers and infrastructure
-and data over the network, but "the web" shouldn't convert
-interactive applications. The goal here is to make the
-web-as-information-distribution work.
+  and data over the network, but "the web" shouldn't convert
+  interactive applications. The goal here is to make the
+  web-as-information-distribution work.
 
 Five Things I'm quasi likely to Acquire in the Next Few Months
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,19 +66,19 @@ Five Things That are Awesome about Dance Weekends
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - You can dance with someone more than once, without it being creepy or
-weird. At an evening of a dance, it's only really realistic to dance
-with someone once because there are 15 or 20 dances max. At an all
-day dance, we're talking 60 or 70 dances.
+  weird. At an evening of a dance, it's only really realistic to dance
+  with someone once because there are 15 or 20 dances max. At an all
+  day dance, we're talking 60 or 70 dances.
 
 - Innocent and awesome dance crushes.
 
 - The "gender" thing is more flexible at big dance weekends. Which is
-fun. It's probably true that part of the fun is in part due to the
-fact that queering up the gender roles in a contra dance makes contra
-a little harder, but I also just enjoy it for it's awesome factor.
-M.N. also noted that when you come across older men dancing together
-in the contra lupine, you know it's all gravy. And that's more likely
-to happen at a dance weekend.
+  fun. It's probably true that part of the fun is in part due to the
+  fact that queering up the gender roles in a contra dance makes contra
+  a little harder, but I also just enjoy it for it's awesome factor.
+  M.N. also noted that when you come across older men dancing together
+  in the contra lupine, you know it's all gravy. And that's more likely
+  to happen at a dance weekend.
 
 - Awesome bands. In short: Giant Robot Dance.
 
@@ -94,10 +94,7 @@ Five Changes in Habits that I Would Have Never Expected to See In Myself
 - Weekend plans and events three to four weekends out of five.
 
 - The degree with which I'm a neat freak about my apartment. (Not
-absurd, but I still have moments where I surprise myself.)
+  absurd, but I still have moments where I surprise myself.)
 
 - Contra dancing as my main form of dance, as opposed to Morris and/or
-International folk.
-
-
-
+  International folk.

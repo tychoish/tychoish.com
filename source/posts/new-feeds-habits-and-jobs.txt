@@ -55,47 +55,46 @@ changes, particularly big changes, have a ripple effect. Things I've
 been doing differently include:
 
 - I've made some big changes to [[the blog post writing
-tooling\|code/ikiwiki-el]], so that new blog posts are written in my
-org-mode files rather than in their own directory. (I updated the
-above emacs code with some shell functions that make the publication
-process easier (if you're using that code.) This seems minor, but is
-pretty big in terms of how I'm using org I've never really used org
-for anything other than notes and one off projects. It's a good
-shift.
+  tooling\|code/ikiwiki-el]], so that new blog posts are written in my
+  org-mode files rather than in their own directory. (I updated the
+  above emacs code with some shell functions that make the publication
+  process easier (if you're using that code.) This seems minor, but is
+  pretty big in terms of how I'm using org I've never really used org
+  for anything other than notes and one off projects. It's a good
+  shift.
 
 - While I used to dock my laptop to the desk and use it with an
-external monitor, I'm switching to just using the laptop dock and
-working on the laptop on the desk. This might not be ergonomically
-ideal, but it feels better and is a bit more coherent. Particularly
-with the addition of a third laptop for work.
+  external monitor, I'm switching to just using the laptop dock and
+  working on the laptop on the desk. This might not be ergonomically
+  ideal, but it feels better and is a bit more coherent. Particularly
+  with the addition of a third laptop for work.
 
 - I caved and installed emacs on my work laptop (Windows.) Rather than
-adapt all of my emacs crap to work with Windows, I'm basically
-copying and pasting the important parts, and starting from scratch.
-It's not pretty, but it works. And being able to use emacs and do the
-things that I want to do there, is a good thing indeed.
+  adapt all of my emacs crap to work with Windows, I'm basically
+  copying and pasting the important parts, and starting from scratch.
+  It's not pretty, but it works. And being able to use emacs and do the
+  things that I want to do there, is a good thing indeed.
 
 - With only a few thousand more words to go on the novel. I'm taking a
-bit of a break to rethink things, and hopefully this afternoon
-rewrite a few outlines so I have a good way of drawing this project
-to a close. Then writing, then lots of editing and lots of other
-writing.
+  bit of a break to rethink things, and hopefully this afternoon
+  rewrite a few outlines so I have a good way of drawing this project
+  to a close. Then writing, then lots of editing and lots of other
+  writing.
 
 - A bit more than two weeks ago, I got a new cell phone. It's a HTC
-Inspire (ATT "4g,") and I like it rather a lot. I still think that
-Blackberry does email and messaging better. This is a better computer
-to have in your pocket. The Kindle App is really usable. I have a
-text editor/note program that works great, and all the other little
-incidentals just seem to work and be there. If only the messaging
-where a bit better. eh.
+  Inspire (ATT "4g,") and I like it rather a lot. I still think that
+  Blackberry does email and messaging better. This is a better computer
+  to have in your pocket. The Kindle App is really usable. I have a
+  text editor/note program that works great, and all the other little
+  incidentals just seem to work and be there. If only the messaging
+  where a bit better. eh.
 
 - The new job is going well, though I'm still in the "I wonder what
-this will look like when I'm actually fully up to speed" phase. I
-expect that I'll write *even less* about this job than my last job,
-and retreat further into "tycho." I like this. I may, however, write
-some features of the new job: the fact that I'm using Windows on my
-work machine and various aspects of digital collaboration, which I
-*still* find fascinating.
+  this will look like when I'm actually fully up to speed" phase. I
+  expect that I'll write *even less* about this job than my last job,
+  and retreat further into "tycho." I like this. I may, however, write
+  some features of the new job: the fact that I'm using Windows on my
+  work machine and various aspects of digital collaboration, which I
+  *still* find fascinating.
 
 That's all the news that's fit to print!
-

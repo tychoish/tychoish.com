@@ -82,7 +82,5 @@ I look forward to playing with numbers and theorizing systems with
 people in the comments, but most of all I'm interested in what you all
 think.
 
-.. [1]
-Not necessarily in terms of monetary cost, but in terms of time,
-energy, and programing knowhow.
-
+.. [1] Not necessarily in terms of monetary cost, but in terms of time,
+   energy, and programing knowhow.

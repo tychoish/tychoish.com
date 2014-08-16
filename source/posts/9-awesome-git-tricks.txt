@@ -121,7 +121,7 @@ distribution's repository, or from the
 As an aside you probably want to add the following to your ``.emacs``
 somewhere.
 
-.. code-block:: lisp
+.. code-block:: cl
 
    (setq magit-save-some-buffers nil)
    (add-hook 'before-save-hook 'delete-trailing-whitespace)
@@ -213,7 +213,7 @@ Issue the following commands to create a repository:
    mkdir -p /srv/git/repo.git
    cd /srv/git/repo.git
    git init --bare
-   
+
 Edit the ``.git/config`` file in your existing repository to include a
 remote block that resembles the following:
 
@@ -235,9 +235,8 @@ repository at any time.
 ::
 
    git clone [username]@[hostname]:/srv/git/repo.git
-   
+
 --------------
 
 Does anyone have [[git-tricks]] that they'd like to share with the
 group?
-

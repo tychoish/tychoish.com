@@ -40,30 +40,30 @@ So this "type" fabrication is mostly in jest, but it has brought up a
 number of more serious concerns:
 
 - Craft, largely because of it's association with women, is devalued,
-and crafters as a result. Also the latest commercial revival hasn't
-helped: Stitch and Bitch, and the Discovery Channel daytime
-programing all reinscribe craft on women-ness and while this is sells
-product, recruits new knitters, and is empowering and feels great,
-I'm not sure that it's the best thing to elevate the craft.
+  and crafters as a result. Also the latest commercial revival hasn't
+  helped: Stitch and Bitch, and the Discovery Channel daytime
+  programing all reinscribe craft on women-ness and while this is sells
+  product, recruits new knitters, and is empowering and feels great,
+  I'm not sure that it's the best thing to elevate the craft.
 
 - More knitter's doesn't equal more power/respect for the craft of
-knitting. Arguably, a smaller proportion of the population knits
-today than did 40 or 80 years ago, so I don't think making
-knitting "bigger" is the same as getting power/respect. Not that
-it's a bad thing that new people knit and that the craft grows,
-but that if you want to talk about changing the craft in any
-meaningful way, you have to do more.
+  knitting. Arguably, a smaller proportion of the population knits
+  today than did 40 or 80 years ago, so I don't think making
+  knitting "bigger" is the same as getting power/respect. Not that
+  it's a bad thing that new people knit and that the craft grows,
+  but that if you want to talk about changing the craft in any
+  meaningful way, you have to do more.
 
 - I do a lot of things that others consider to be creative: I write, I
-knit and spin, I dance, etc. People sometimes, particularly in
-knitting contexts, ask if I'm (was, trying to be) in graduate school
-for art, right after they're awed by the creativity of my sweaters,
-or something. Which always strikes me as weird. I mean, I love the
-compliment, but I think is misguided. **Creativity is a situational
-response to constraint,** not some characteralogical feature. I do
-all of the "creative" things I do because I enjoy the technical
-experience and exercise of knitting and spinning and dancing (I write
-because I have something that I want to say.)
+  knit and spin, I dance, etc. People sometimes, particularly in
+  knitting contexts, ask if I'm (was, trying to be) in graduate school
+  for art, right after they're awed by the creativity of my sweaters,
+  or something. Which always strikes me as weird. I mean, I love the
+  compliment, but I think is misguided. **Creativity is a situational
+  response to constraint,** not some characteralogical feature. I do
+  all of the "creative" things I do because I enjoy the technical
+  experience and exercise of knitting and spinning and dancing (I write
+  because I have something that I want to say.)
 
 Creativity happens when I (or anyone) has to figure out how to convey
 a series of fictional events in a coherant manner, or when you have
@@ -86,4 +86,3 @@ be. I hope not, but the thought has crossed my mind.
 Thoughts?
 
 Onward and Upward!
-

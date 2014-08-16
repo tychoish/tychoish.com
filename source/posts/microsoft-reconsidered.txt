@@ -96,12 +96,10 @@ all of the assumptions that we've had about software for the past twenty
 or thirty years. For free software as well as the proprietary
 software...
 
-.. [1]
-There's a line in the Windows EULA, that says if you don't agree with
-the terms and aren't going to use the windows that comes installed on
-your computer that you can get a refund on this if you call the right
-people for your machine's distributor. I've heard reports of people
-getting ~130 USD back for this, but it's unclear how much of that
-goes to Microsoft, or to the support for MS products that OEMs have
-to provide.
-
+.. [1] There's a line in the Windows EULA, that says if you don't agree with
+   the terms and aren't going to use the windows that comes installed on
+   your computer that you can get a refund on this if you call the right
+   people for your machine's distributor. I've heard reports of people
+   getting ~130 USD back for this, but it's unclear how much of that
+   goes to Microsoft, or to the support for MS products that OEMs have
+   to provide.

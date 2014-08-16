@@ -28,10 +28,6 @@ academic articles and database is on my computer. You get the idea.
 The rest of the post is below the fold, because I'm going to be humane,
 but you really should read it. ;)
 
-.. raw:: html
-
-<!--more-->
-
 I'm still using Tiger (Mac OS 10.4) Despite what
 `Andy/Chris <http://www.cgkreality.com/>`__ says, I kind of would like
 to move to the new operating system, at some point. My mother is going
@@ -79,4 +75,3 @@ me for loop and i need to figure something out here. Ah well. Time will
 tell.
 
 The next post had better be more interesting. That's all I'm saying
-

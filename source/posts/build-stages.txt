@@ -74,17 +74,17 @@ explicitly, rather than letting the concurrency emerge out of the
 dependency graph. Thoughts:
 
 - This depends on users being able to intuit the actual dependencies
-abstractly, rather than rely on the emergence properties of Make.
-Arguably, Make also requires you to think abstractly about the
-potential concurrent modeling of the build, but allows you to avoid
-it in some situations.
+  abstractly, rather than rely on the emergence properties of Make.
+  Arguably, Make also requires you to think abstractly about the
+  potential concurrent modeling of the build, but allows you to avoid
+  it in some situations.
 
 - If some large portion of the compilation process relies external
-processes, the performance gains will probably be more modest.
-Process creation is still expensive, but it's probably marginally
-cheaper to use
-`subprocess <http://docs.python.org/3/library/subprocess.html>`__
-than it is to start a full shell.
+  processes, the performance gains will probably be more modest.
+  Process creation is still expensive, but it's probably marginally
+  cheaper to use
+  `subprocess <http://docs.python.org/3/library/subprocess.html>`__
+  than it is to start a full shell.
 
 In addition to the basic machinery, I've written a few helper functions
 to read build definitions from a YAML file, which will produce a usable
@@ -92,4 +92,3 @@ build system. I'll release this once: I've written *some* tests, there's
 better logging, and some basic README-level documentation.
 
 Onward and Upward!
-

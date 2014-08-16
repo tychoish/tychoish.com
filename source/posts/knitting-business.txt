@@ -40,10 +40,6 @@ I'm not sure that I have a good solution, yet, so your input is of
 course appreciated, but I'll repost the relevant parts here, below the
 fold, *because I can.*
 
-.. raw:: html
-
-<!--more-->
-
 I have a question quandary that I hope you'll be able to offer some
 insight on at your connivence.
 
@@ -65,15 +61,15 @@ Some thoughts about knitting patterns in contrast to other
 electronic text solutions:
 
 - The digital copies can sufficiently/completely replace the
-physical/paper copies (They're short, so it's feasible to print
-them).
+  physical/paper copies (They're short, so it's feasible to print
+  them).
 - Digital copies are preferable. Many knitters photo copy patterns
-from traditionally issued books because it is easier to cary
-around a few sheets in a page protector than a whole books.
+  from traditionally issued books because it is easier to cary
+  around a few sheets in a page protector than a whole books.
 - If you can get all the patterns that you want from a book,
-there's little incentive to buy the book, for many. Many knitters
-will only buy a book if X number of patterns seem like things
-they would want to knit.
+  there's little incentive to buy the book, for many. Many knitters
+  will only buy a book if X number of patterns seem like things
+  they would want to knit.
 
 Delightfully, knitters are pretty willing, on the whole to pay for
 things (there's disposable income there) and have adapted pretty
@@ -103,4 +99,3 @@ away from doing other things, like writing, but it might not be
 *that* hard.
 
 Thanks, cheers...
-

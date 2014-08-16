@@ -33,58 +33,61 @@ I think clarifying "which cloud" is crucial at this point, particularly
 with regards to openness. There seem to be several:
 
 - Cloud infrastructure. Web servers, hosting, email servers.
-Traditionally these are things an institution ran their own servers
-for, these days that same institution might run their servers on some
-sort of virtualized hardware for which there are many providers.
+  Traditionally these are things an institution ran their own servers
+  for, these days that same institution might run their servers on
+  some sort of virtualized hardware for which there are many
+  providers.
 
-How open? Open. There are certainly proprietary virtualization tools
-(VMware, windows-whatever, etc.), and you can vitalize windows, and I
-suppose HP-UX and AIX are getting virtualized as well. *But* Linux-based
-operating systems are likely virtualized at astonishing rates compared
-to non-open source OSes. And much of the server infrastructure
-(sendmail, postfix/exim, Apache, etc.) is open source at some point.
+  How open? Open. There are certainly proprietary virtualization tools
+  (VMware, windows-whatever, etc.), and you can vitalize windows, and
+  I suppose HP-UX and AIX are getting virtualized as well. *But*
+  Linux-based operating systems are likely virtualized at astonishing
+  rates compared to non-open source OSes. And much of the server
+  infrastructure (sendmail, postfix/exim, Apache, etc.) is open source
+  at some point.
 
-In point of fact, this cloud is more or less the way it's always been
-and is, I'd argue, open-source's "home turf."
+  In point of fact, this cloud is more or less the way it's always been
+  and is, I'd argue, open-source's "home turf."
 
-- Cloud applications: consumer. This would be stuff like Gmail, flickr,
-wikipedia, twitter, facebok, ubuntuONE, googe docs, google wave, and
-other "application services" targeted at non-commercial/enterprise
-consumers and very small groups of people. This cloud consists of
-entirely software, provided as services and is largely dominated by
-google, and other big players (Microsoft, yahoo, etc.)
+- Cloud applications: consumer. This would be stuff like Gmail,
+  flickr, wikipedia, twitter, facebok, ubuntuONE, googe docs, google
+  wave, and other "application services" targeted at
+  non-commercial/enterprise consumers and very small groups of
+  people. This cloud consists of entirely software, provided as
+  services and is largely dominated by google, and other big players
+  (Microsoft, yahoo, etc.)
 
-How open? Not very. This space looks very much like the desktop
-computing world looked in the mid-90s. Very proprietary, very closed,
-the alternatives are pretty primitive, and have a hard time doing
-anything but throwing rocks at the feet of the giant (google.)
+  How open? Not very. This space looks very much like the desktop
+  computing world looked in the mid-90s. Very proprietary, very
+  closed, the alternatives are pretty primitive, and have a hard time
+  doing anything but throwing rocks at the feet of the giant (google.)
 
 - Cloud applications: enterprise. This would be things like SalesForce
-(a software-as-a-service CRM tool.) and other SaaS application. I
-suppose google-apps-for-domains falls under this category, as does
-pretty much anything that uses the term SaaS.
+  (a software-as-a-service CRM tool.) and other SaaS application. I
+  suppose google-apps-for-domains falls under this category, as does
+  pretty much anything that uses the term SaaS.
 
-How open? Not very. SaaS is basically *Proprietary Software: The Next
-Generation* as the business model is based on the exclusivity of rights
-over the source code. At the same time, in most sectors there are viable
-open source projects that are competing with the proprietary options:
-SugarCRM, Horde, Squirrel Mail, etc.
+  How open? Not very. SaaS is basically *Proprietary Software: The
+  Next Generation* as the business model is based on the exclusivity
+  of rights over the source code. At the same time, in most sectors
+  there are viable open source projects that are competing with the
+  proprietary options: SugarCRM, Horde, Squirrel Mail, etc.
 
 - Cloud services: enterprise. This is what act one covered or eluded
-to, but generally this covers things like PBX systems, all the stuff
-that runs corporate intranets, groupware applications (some of which
-are open source), collaboration tools, internal issue tracking
-systems, shared storage systems.
+  to, but generally this covers things like PBX systems, all the stuff
+  that runs corporate intranets, groupware applications (some of which
+  are open source), collaboration tools, internal issue tracking
+  systems, shared storage systems.
 
-How open? Reasonably open. Certainly there's a lot of variance here, but
-for the most part, but Asterisk for PBX-stuff, there are a number of
-open source groupware applications. Jira/perforce/bitkeeper aren't open
-source, but Trac/SVN/git are. The samba project *kills* in this area and
-is a drop in replacement for Microsoft's file-sharing systems.
+  How open? Reasonably open. Certainly there's a lot of variance here,
+  but for the most part, but Asterisk for PBX-stuff, there are a
+  number of open source groupware
+  applications. Jira/perforce/bitkeeper aren't open source, but
+  Trac/SVN/git are. The samba project *kills* in this area and is a
+  drop in replacement for Microsoft's file-sharing systems.
 
 The relationship, between open source and "the cloud," thus, depends a
 lot on what you're talking about. I guess this means there needs to be
 an "act three," to cover specific user strategies. Because, regardless
 of which cloud you use, your freedom has more to do with practice than
 it does with some inherent capability of the software stack.
-

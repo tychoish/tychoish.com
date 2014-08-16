@@ -18,11 +18,8 @@ I present you with a youTube gem:
 
 .. raw:: html
 
-<object width="425" height="355">
-
-.. raw:: html
-
-<embed src="http://www.youtube.com/v/kG__e9T3FPY&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+   <object width="425" height="355">
+   <embed src="http://www.youtube.com/v/kG__e9T3FPY&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 
 This is a video of three men singing in a doorway, and that's about it.
 The song is "Sally Free and Easy" which is a Cyril Tawney song, but my
@@ -43,7 +40,5 @@ song. And it's good to see that the kind of singing that I most enjoy
 something that can't really be recorded, but it's nice to know that it's
 still around.
 
-.. [1]
-The "Noah's Arc Trap" and "From a Devil to A Stranger" from 1977 and
-'78, I believe. Amazing pieces of work. Amazing stuff.
-
+.. [1] The "Noah's Arc Trap" and "From a Devil to A Stranger" from 1977 and
+   '78, I believe. Amazing pieces of work. Amazing stuff.

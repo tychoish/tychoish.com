@@ -21,13 +21,13 @@ Right. In brief:
 - Automate everything that can be automated.
 
 - Closely followed by don't automate something that doesn't need
-automation.
+  automation.
 
 - Prefer simplicity over complexity, and prefer systems that require
-you to remember fewer things.
+  you to remember fewer things.
 
 - Design systems to make it possible for others to easily understand
-what you've done.
+  what you've done.
 
 To elaborate:
 
@@ -101,4 +101,3 @@ post. In a lot of ways this is part of the core of `Cyborg
 Institute <http://www.cyborginstitute.com>`__, and if you feel
 interested or inspired by this kind of stuff, I'd love to hear more from
 you. Be in touch!
-

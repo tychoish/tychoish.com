@@ -43,15 +43,14 @@ create it if necessary:
 
 ::
 
-[alias]
-readd = "~/scripts/git-readd"
+   [alias]
+   readd = "~/scripts/git-readd"
 
 Now you can run this command in any git repository on your system with
 the following command:
 
 ::
 
-git readd
+   git readd
 
 Magic!
-

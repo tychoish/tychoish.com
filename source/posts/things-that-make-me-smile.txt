@@ -1,21 +1,12 @@
 ==========================
-Things that Make Me Smile 
+Things that Make Me Smile
 ==========================
 
 .. post:: 2007-11-04
    :author: tychoish
 
 - Hijacking a Ravelry thread with lines from the Buffy Musical Episode,
-leading to the posting of the following cat macro:
-
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
+  leading to the posting of a cat macro.
 - `friends <http://tychoish.com/anduril/>`__
 - Writing almost 1000 words on the novel project.
 - Clean Spaces.
@@ -23,5 +14,3 @@ leading to the posting of the following cat macro:
 - Shoes with good support.
 - Gmail IMAP
 - `twitter <http://www.twitter.com/tychoish/>`__
-
-

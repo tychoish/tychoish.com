@@ -63,19 +63,16 @@ Just saying.
 
 Onward and Upward!
 
-.. [1]
-I've read my fair share of books about writing, and many of them
-clearly say that you should focus on getting something written,
-because there's time enough in the world for editing. I'm not
-rejecting the notion that burying yourself in editing too soon is
-good practice, but an unwritten manuscript is only *slightly* less
-likely to get you a book contract than an unedited one.
+.. [1] I've read my fair share of books about writing, and many of them
+   clearly say that you should focus on getting something written,
+   because there's time enough in the world for editing. I'm not
+   rejecting the notion that burying yourself in editing too soon is
+   good practice, but an unwritten manuscript is only *slightly* less
+   likely to get you a book contract than an unedited one.
 
-.. [2]
-To be fair, Cunningham spoke a little bit to the complex dynamic
-between community size, total number of pages, and community age.
-That for a while wiki communities need to focus on growing so that
-there is some "there there," but after a while the community/writer
-needs to attend to deleting and editing the content on old pages, so
-that it doesn't get stale.
-
+.. [2] To be fair, Cunningham spoke a little bit to the complex dynamic
+   between community size, total number of pages, and community age.
+   That for a while wiki communities need to focus on growing so that
+   there is some "there there," but after a while the community/writer
+   needs to attend to deleting and editing the content on old pages, so
+   that it doesn't get stale.

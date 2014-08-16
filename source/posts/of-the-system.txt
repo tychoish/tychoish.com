@@ -63,17 +63,14 @@ thing.
 
 I'll be in touch.
 
-.. [1]
-I'm speaking generally rather than specifically. I know lots of
-people use excel for what it was intended for, and maybe you've
-worked with different people than I have, but I'd say the vast
-majority of the spreadsheets that I deal with mostly have text in
-them.
+.. [1] I'm speaking generally rather than specifically. I know lots of
+   people use excel for what it was intended for, and maybe you've
+   worked with different people than I have, but I'd say the vast
+   majority of the spreadsheets that I deal with mostly have text in
+   them.
 
-.. [2]
-It's a document preparation tool. For laying out shorter documents.
-It doesn't have a lot of (good) support for structured writing, and
-it provides functionality for displaying and formatting your text,
-but it's sort of limited along the lines of things that help writing
-(search capabilities, notes management, block folding, and so forth)
-
+.. [2] It's a document preparation tool. For laying out shorter documents.
+   It doesn't have a lot of (good) support for structured writing, and
+   it provides functionality for displaying and formatting your text,
+   but it's sort of limited along the lines of things that help writing
+   (search capabilities, notes management, block folding, and so forth)

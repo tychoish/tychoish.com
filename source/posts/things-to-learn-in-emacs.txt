@@ -10,15 +10,12 @@ For my good (and yours), here's a list of things that I think I should
 know how to do in emacs, but somehow don't:
 
 - Use the version control package so that I'm not constantly popping
-between bash (terminal) and emacs to talk to git, and I don't think
-that's necessary.
+  between bash (terminal) and emacs to talk to git, and I don't think
+  that's necessary.
 
 - Batch renaming with Dired. It should work, it should be simple, I've
-just not gotten there.
+  just not gotten there.
 
 - File specific `org-mode <http://orgmode.org>`__ settings, for
-properties, tags, and TODO keywords. I understand that it's possible,
-but my brain/system doesn't have room for that yet.
-
-
-
+  properties, tags, and TODO keywords. I understand that it's
+  possible, but my brain/system doesn't have room for that yet.

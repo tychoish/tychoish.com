@@ -29,32 +29,32 @@ give some higher level stuff here and we can follow up on the
 [[discourse]] page:
 
 - Blogging is fun, and even though I've not been posting regularly, I'm
-always writing blog posts. Sometimes I find myself writing posts in
-emails to friends, but I'm never really going to stop writing blog
-posts.
+  always writing blog posts. Sometimes I find myself writing posts in
+  emails to friends, but I'm never really going to stop writing blog
+  posts.
 
 - The general explosion of blog publishing that we saw a few years ago
-has declined. Audience fragmentation happened, readership got
-entrenched. I feel like I weathered the storm pretty well and I'm
-really happy with the site and readers I have, but I'm also pretty
-confident that blogging isn't going to be the means by which I "level
-up." [1]_
+  has declined. Audience fragmentation happened, readership got
+  entrenched. I feel like I weathered the storm pretty well and I'm
+  really happy with the site and readers I have, but I'm also pretty
+  confident that blogging isn't going to be the means by which I "level
+  up." [1]_
 
 - eBooks have finally happened. For the last decade most people have
-been saying that ebooks are great for reference material (given
-search-ability,) and for providing an introduction to a text that
-people will eventually buy in a paper edition. That may be true, but
-I think it's changing rapidly, and with kindles and tablets and
-smart-phones, I think eBooks have effectively won, such as it is.
+  been saying that ebooks are great for reference material (given
+  search-ability,) and for providing an introduction to a text that
+  people will eventually buy in a paper edition. That may be true, but
+  I think it's changing rapidly, and with kindles and tablets and
+  smart-phones, I think eBooks have effectively won, such as it is.
 
-In another ten years, perhaps, we'll just call them books.
+  In another ten years, perhaps, we'll just call them books.
 
 - I'm pretty clear that keeping a blog, and perhaps most of the writing
-I do in my spare time is **for my own enjoyment and betterment** and
-helps to develop a personal portfolio and account of my work. I have
-no (real) interest in using my writing on tychoish.com or any other
-side that I maintain, as a way of supporting myself to any greater or
-lesser extent.
+  I do in my spare time is **for my own enjoyment and betterment** and
+  helps to develop a personal portfolio and account of my work. I have
+  no (real) interest in using my writing on tychoish.com or any other
+  side that I maintain, as a way of supporting myself to any greater or
+  lesser extent.
 
 I want to be in the business of writing things and working with
 technology and ideas and people, not the business of publishing. While
@@ -70,6 +70,4 @@ off-the-cuff notes.
 
 Here's hoping at least.
 
-.. [1]
-I can't really believe that I just used "level up" in this context.
-
+.. [1] I can't really believe that I just used "level up" in this context.

@@ -73,18 +73,15 @@ future.
 
 Onward and Upward!
 
-.. [1]
-I think/fear that "blogs" are seen as too much as sole
-proprietorships, in a way. Blog publishing is mostly akin to magazine
-publishing or newspaper publishing, and I think that LJ is a much
-closer approximation of say
-`Usenet <http://en.wikipedia.org/wiki/Usenet>`__, or the BBS, than
-any traditional publishing venture. Simply put, *bloggers have an
-audience, online journalers have a community.*
+.. [1] I think/fear that "blogs" are seen as too much as sole
+   proprietorships, in a way. Blog publishing is mostly akin to magazine
+   publishing or newspaper publishing, and I think that LJ is a much
+   closer approximation of say
+   `Usenet <http://en.wikipedia.org/wiki/Usenet>`__, or the BBS, than
+   any traditional publishing venture. Simply put, *bloggers have an
+   audience, online journalers have a community.*
 
-.. [2]
-We'll note that there's no real independent/autonomous social
-networking, the beauty of these sites is that they throw all of the
-data into a single database and run with it. You can't do that on an
-island.
-
+.. [2] We'll note that there's no real independent/autonomous social
+   networking, the beauty of these sites is that they throw all of the
+   data into a single database and run with it. You can't do that on an
+   island.

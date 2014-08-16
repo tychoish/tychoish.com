@@ -12,49 +12,49 @@ would be a good thing, as I have (and quite enjoy) both my Blackberry
 and Kindle. Here's the rundown:
 
 - The Kindle App for the blackberry is probably the most well designed
-blackberry application I've seen thus far. Having said that, the bar
-isn't terribly high.
+  blackberry application I've seen thus far. Having said that, the bar
+  isn't terribly high.
 
-In a lot of ways, the way (before the Kindle app) to make a "successful"
-blackberry application is one that figures out how to make its data
-"fit" into an email or messaging context and then blend that data into
-the messaging/event feed in a useful sort of way.
+  In a lot of ways, the way (before the Kindle app) to make a "successful"
+  blackberry application is one that figures out how to make its data
+  "fit" into an email or messaging context and then blend that data into
+  the messaging/event feed in a useful sort of way.
 
-This doesn't do that, and I think learns a great deal from advancements
-made in iPhone app development. The resolution on the Blackberry Bold is
-*amazing* (same number of pixels as the iPhone, much greater density.)
-and the buttons/interface is really intuitive and well designed. The app
-itself gets as many thumbs up as I can manage.
+  This doesn't do that, and I think learns a great deal from advancements
+  made in iPhone app development. The resolution on the Blackberry Bold is
+  *amazing* (same number of pixels as the iPhone, much greater density.)
+  and the buttons/interface is really intuitive and well designed. The app
+  itself gets as many thumbs up as I can manage.
 
 - I've been having phone angst recently. I don't use it very much, I
-need to have better filtering of my email and reorganize how I do my
-voice mail, and while this is easy enough to say here it's a much
-more substantial project than I'd
+  need to have better filtering of my email and reorganize how I do my
+  voice mail, and while this is easy enough to say here it's a much
+  more substantial project than I've got time for now.
 
 - The Kindle App isn't a replacement for the kindle, but it's a great
-compliment, and it makes it much more possible to lighten the load in
-my back-bag, and it makes it easier for me to entertain myself with
-my phone. This might not seem like a bit deal, but I think it is.
+  compliment, and it makes it much more possible to lighten the load in
+  my back-bag, and it makes it easier for me to entertain myself with
+  my phone. This might not seem like a bit deal, but I think it is.
 
-There are also situations where the Kindle isn't usable (in bed when the
-lights are off and various other low light situations) and that's
-alright, but the Kindle app *is*. So that's a good thing indeed.
+  There are also situations where the Kindle isn't usable (in bed when the
+  lights are off and various other low light situations) and that's
+  alright, but the Kindle app *is*. So that's a good thing indeed.
 
 - I had hoped that the kindle would make it easier to read in the in
-between moments throughout the day when I might read but didn't. That
-isn't exactly true, as it turns out. Reading on the Kindle still
-requires a fair piece of directed attention, and it's not the kind of
-thing you can idly whip out while you're waiting in the grocery check
-out line.
+  between moments throughout the day when I might read but didn't. That
+  isn't exactly true, as it turns out. Reading on the Kindle still
+  requires a fair piece of directed attention, and it's not the kind of
+  thing you can idly whip out while you're waiting in the grocery check
+  out line.
 
-I'm not sure at this point, of course, but I do think that having access
-to the Kindle on the phone will improve this usability feature.
+  I'm not sure at this point, of course, but I do think that having access
+  to the Kindle on the phone will improve this usability feature.
 
 - I'm sort of annoyed by the lack of subscriptions. While you can have
-multiple devices attached to your Kindle account, when you subscribe
-to a periodical, that content is only accessible to you on one of
-your devices. I don't really like this, and it represents a huge loss
-of value for the Kindle store.
+  multiple devices attached to your Kindle account, when you subscribe
+  to a periodical, that content is only accessible to you on one of
+  your devices. I don't really like this, and it represents a huge loss
+  of value for the Kindle store.
 
 While I got the Blackberry shortly after the first iPhone 3g came out,
 the "app explosion" hadn't really happened yet. I must confess some "app
@@ -67,4 +67,3 @@ but I know the hardware is capable, and it's nice to take advantage of
 that from time to time. In any case...
 
 Onward and Upward!
-

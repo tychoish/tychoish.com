@@ -73,17 +73,14 @@ do some catching up.
 
 Lets start making things!
 
-.. [1]
-It's not that Sphinx is "bad," but it's clearly designed for a
-specific kind of documentation project, and if you stray too far
-outside of those bounds, or need formats that aren't *quite*
-supported, then you end up without a lot of recourse. Having said
-that, the "normal," well supported and most projects--documentation
-or otherwise--will only very rarely hit upon an actual limitation of
-Sphinx itself.
+.. [1] It's not that Sphinx is "bad," but it's clearly designed for a
+   specific kind of documentation project, and if you stray too far
+   outside of those bounds, or need formats that aren't *quite*
+   supported, then you end up without a lot of recourse. Having said
+   that, the "normal," well supported and most projects--documentation
+   or otherwise--will only very rarely hit upon an actual limitation of
+   Sphinx itself.
 
-.. [2]
-To be clear, I'm partial to the argument that today's computer games,
-particularly role-playing games, are the things that the futurists of
-the 1960s and 70s (e.g. Theodor Holm Nelson) called "hypertext."
-
+.. [2] To be clear, I'm partial to the argument that today's computer games,
+   particularly role-playing games, are the things that the futurists of
+   the 1960s and 70s (e.g. Theodor Holm Nelson) called "hypertext."

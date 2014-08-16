@@ -41,26 +41,26 @@ else wants to fill things in.
 Thoughts:
 
 - Service-businesses don't scale particularly well, any individual work
-can only produce so much work, and it's hard to make individuals any
-more productive. In light of that, large service-based firms are
-unlikely to form.
+  can only produce so much work, and it's hard to make individuals any
+  more productive. In light of that, large service-based firms are
+  unlikely to form.
 
 - Most people have pretty specialized skills and abilities.
-Self-employment, particularly full time employment makes it difficult
-for people to spend most of their time doing what their best at.
-Specialization and differing skills is also what creates a market for
-service-based endeavors.
+  Self-employment, particularly full time employment makes it difficult
+  for people to spend most of their time doing what their best at.
+  Specialization and differing skills is also what creates a market for
+  service-based endeavors.
 
 - Lacking health care and other benefits of traditional employment,
-it's hard for people to be more self-employed and less
-conventionally-employed. Given this, doing entrepreneurial projects
-on a smaller scale makes more sense.
+  it's hard for people to be more self-employed and less
+  conventionally-employed. Given this, doing entrepreneurial projects
+  on a smaller scale makes more sense.
 
 - Some kinds of entrepreneurial activities are attractive because,
-while they may not produce the same level of income as a salaried
-position, they allow more freedom and flexibility. This is the
-conventional justification for self-employment, and also the reason
-that most aligns with the "good enough" policy.
+  while they may not produce the same level of income as a salaried
+  position, they allow more freedom and flexibility. This is the
+  conventional justification for self-employment, and also the reason
+  that most aligns with the "good enough" policy.
 
 The problem with these kinds of "little businesses," is that it's too
 easy to focus on income earning work (e.g. freelance, and client work,)
@@ -71,6 +71,3 @@ unsure of how sustainable it is: while individuals can justify small
 amounts of money for such purposes, organizations cannot. Without
 organizational support, revenue is much lower, and it probably puts the
 larger financial burden on the smaller users, relatively speaking.
-
-[[What are your thoughts\|discourse]]?
-

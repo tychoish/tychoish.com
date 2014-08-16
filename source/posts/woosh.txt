@@ -36,7 +36,6 @@ in the morning.
 
 Onward and Upward!
 
-.. [1]
-You know, that part of a sweater a few inches on either side of "half
-way to the underarms" from the bottom hem, always takes the longest.
-
+.. [1] You know, that part of a sweater a few inches on either side of "half
+   way to the underarms" from the bottom hem, always takes the longest.
+       

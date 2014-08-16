@@ -9,12 +9,10 @@ I've been thinking about free knitting (as in speech, not really beer,
 but that too,) and I have a couple of thinking points:
 
 - Is there a layer of information that goes into knitting design and
-documentation that isn't typically exposed in "closed"/conventional
-publications? (that would be equivalent in role to source code)?
+  documentation that isn't typically exposed in "closed"/conventional
+  publications? (that would be equivalent in role to source code)?
 - The role of editors and communities and the sometimes very
-"conventional" development models that "open" projects use.
+  "conventional" development models that "open" projects use.
 - The way GPL/GFDL knitting projects can be used commercially.
 - Technological methods of attending to such a project.
 - ...
-
-

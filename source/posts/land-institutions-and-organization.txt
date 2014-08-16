@@ -26,16 +26,16 @@ freelance and independent consultancies of various stripes and colors.
 Some key observations:
 
 - Many if not most people working in this don't work full time for one
-employer, splitting their time and energies between a number of
-projects.
+  employer, splitting their time and energies between a number of
+  projects.
 
 - Freelance work allows people to develop flexible careers where growth
-isn't dependent on moving into management careers.
+  isn't dependent on moving into management careers.
 
 - Traditional "benefits" of employment (eg. health insurance, office
-resources, data connectivity, etc.) are increasingly procured either
-through ad-hoc agreements: eg. Marriage for health insurance,
-Co-working spaces, "Freelancers' Unions" and so forth.
+  resources, data connectivity, etc.) are increasingly procured either
+  through ad-hoc agreements: eg. Marriage for health insurance,
+  Co-working spaces, "Freelancers' Unions" and so forth.
 
 Leadership and Co-Operative Governance
 --------------------------------------
@@ -82,13 +82,13 @@ a few basic assumptions:
 - Democracy is created by participation rather than by elections.
 
 - Management/logistical overheads grow geometrically while operations
-grow arithmetically.
+  grow arithmetically.
 
 - Co-ops would exist to both create value, and serve the interests of
-its members. Corporations exist to serve the interests of the
-investors. The dissolution of a cooperative isn't antithetical to the
-purpose of a cooperative in the way that it totally antithetical to
-the purpose of a corporation.
+  its members. Corporations exist to serve the interests of the
+  investors. The dissolution of a cooperative isn't antithetical to the
+  purpose of a cooperative in the way that it totally antithetical to
+  the purpose of a corporation.
 
 Land and the Problem of Government
 ----------------------------------
@@ -122,4 +122,3 @@ technologies, we might be able to conceptualize geographically based
 political units that integrate populations that fairly represents the
 interests/needs of people who live in areas with lower population
 densities.
-

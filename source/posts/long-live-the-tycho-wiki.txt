@@ -39,13 +39,11 @@ difficult to do right. And then there's the problem of contributors.
 I don't know how it's going to sort out, but I [[look forward to hearing
 from you\|folk/tychoish]], and making *stuff* on this domain.
 
-.. [1]
-Which totally sucks, but I had already given into using disqus, the
-migration would be really difficult, and the truth be told, I'd much
-rather participate in discussions that involved the creation of new
-wiki pages, and that involved invitations to email lists, and direct
-emails contact over IRC or IM. Maybe this is more fragmented, and
-maybe I'm shooting nascent conversation in the foot before it has a
-chance to get off the ground, but I think "conversation at any cost,"
-is not the best model for a community.
-
+.. [1] Which totally sucks, but I had already given into using disqus, the
+   migration would be really difficult, and the truth be told, I'd much
+   rather participate in discussions that involved the creation of new
+   wiki pages, and that involved invitations to email lists, and direct
+   emails contact over IRC or IM. Maybe this is more fragmented, and
+   maybe I'm shooting nascent conversation in the foot before it has a
+   chance to get off the ground, but I think "conversation at any cost,"
+   is not the best model for a community.

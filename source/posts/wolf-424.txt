@@ -25,7 +25,6 @@ wikipedia) that Wolf 242 is moving, relative to the speed of the Solar
 System, at 555km/s, which is almost 2 percent of light speed. [1]_
 Right? There has to be a story in this.
 
-.. [1]
-Am I the only one to think that it's really cool that google will
-calculate C, the speed of light, from the search bar?
+.. [1] Am I the only one to think that it's really cool that google will
+   calculate C, the speed of light, from the search bar?
 

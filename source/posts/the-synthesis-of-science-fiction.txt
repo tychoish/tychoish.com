@@ -67,7 +67,5 @@ explore these issues and ideas together.
 
 Cheers, tycho
 
-.. [1]
-No, really, the subtitle for one of my courses last semester was
-"looking back, looking forward." I can't make these things up.
-
+.. [1] No, really, the subtitle for one of my courses last semester
+   was "looking back, looking forward." I can't make these things up.

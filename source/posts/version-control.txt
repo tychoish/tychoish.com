@@ -17,14 +17,6 @@ from the programs to jargon things like commits, checkouts,
 repo(sitories), merges, and diffs, and what not, are all easily
 googleable.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 It sounded a lot like the kinds of criticisms that they were making of
 CVS they were making of subversion as well. For instance, in subversion,
 when you rename or move a file the you don't loose versioning history. I
@@ -53,4 +45,3 @@ branches/tags/merges work, to the social organization of distributed
 collaboration and so forth) that I think are useful in other contexts.
 
 Maybe it's just me.
-

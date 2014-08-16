@@ -82,9 +82,7 @@ in centralized workflows, and if you use centralized systems with the
 right team, the top-down limitation isn't particularly noticeable. But
 as a starting point, it's an interesting analysis.
 
-.. [1]
-So common are they, that I was surprised to learn that the Linux
-Kernel (is a *massive* project) spent many many years without any
-formal system to manage these functions. They used "tar balls and
-patches, for years" which is amazing.
-
+.. [1] So common are they, that I was surprised to learn that the Linux
+   Kernel (is a *massive* project) spent many many years without any
+   formal system to manage these functions. They used "tar balls and
+   patches, for years" which is amazing.

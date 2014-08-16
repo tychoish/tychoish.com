@@ -41,6 +41,4 @@ here.
 
 Thanks for reading.
 
-.. [1]
-so that's one excuse as to why I haven't written any of you.
-
+.. [1] so that's one excuse as to why I haven't written any of you.

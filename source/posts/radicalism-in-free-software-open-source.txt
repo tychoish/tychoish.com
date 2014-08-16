@@ -9,13 +9,13 @@ Radicalism in Free Software, Open Source
 The background:
 
 - `zonker on Selling vs.
-Shaming <http://www.dissociatedpress.net/2009/10/10/selling-vs-shaming/>`__
+  Shaming <http://www.dissociatedpress.net/2009/10/10/selling-vs-shaming/>`__
 
 - `bkuhn on Denouncing vs. Advocating: In Defense of the Occasional
-Denouncement <http://www.ebb.org/bkuhn/blog/2009/10/11/denouncing-v-advocating.html>`__
+  Denouncement <http://www.ebb.org/bkuhn/blog/2009/10/11/denouncing-v-advocating.html>`__
 
 - Various other conversations on `identi.ca <http://www.identi.ca/>`__
-over the past few weeks.
+  over the past few weeks.
 
 --------------
 
@@ -149,18 +149,15 @@ getting some feedback from you all before I continue with this idea.
 
 Onward and Upward!
 
-.. [1]
-Richard Stallman, founder of the Free Software Foundation and the GNU
-Project, original author of the GNU GPL (perhaps the most prevalent
-free software license), as well as the ever popular gcc and emacs.
+.. [1] Richard Stallman, founder of the Free Software Foundation and the GNU
+   Project, original author of the GNU GPL (perhaps the most prevalent
+   free software license), as well as the ever popular gcc and emacs.
 
-.. [2]
-Arguably, it's easier for software developers and hacker types like
-myself to use "just free software" because hackers tend to make free
-software to satisfy their needs (the "scratch your own itch"
-phenomena), and so there's a lot of free software that supports
-"working like a hacker," but less for more mainstream audiences.
-Indeed one could argue that "mainstream computer using audiences" as
-a class is largely the product of the "proprietary software and
-technology industry."
-
+.. [2] Arguably, it's easier for software developers and hacker types like
+   myself to use "just free software" because hackers tend to make free
+   software to satisfy their needs (the "scratch your own itch"
+   phenomena), and so there's a lot of free software that supports
+   "working like a hacker," but less for more mainstream audiences.
+   Indeed one could argue that "mainstream computer using audiences" as
+   a class is largely the product of the "proprietary software and
+   technology industry."

@@ -17,14 +17,6 @@ Cream, it's Merino, I got 8 ounces. Wait, I've found a picture that I'm
 stealing from the `companies
 website <http://www.stonebarnfibers.com/>`__
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 I think the blues are a little bit brighter in real life, but that's
 pretty clearly a flash effect.
 
@@ -59,18 +51,16 @@ I reason that this is acceptable because:
 - I hate knitting corrugated ribbing.
 
 - I haven't chosen the charts/pattern for the body of the sweater, just
-the stitch count.
+  the stitch count.
 
 - If I cast on now, I won't be tempted to turn the border into some
-sort of provisional cast-on that will require unzipping/hemming
-later. Judge for yourself.
+  sort of provisional cast-on that will require unzipping/hemming
+  later. Judge for yourself.
 
-.. [1]
-I have, what probably amounts to about a pound of roving, part of it
-is a dyed-black merino, and the other part is a merino/tencel (blue)
-that I was spinning a year ago when I took a break from spinning.
-It's a two ply bulky, and it's hibernating because I have no clue
-what I want to do with the yarn anymore, and I have a lot of this
-fiber already spun, and I can't decide what to do with it. So it
-doesn't count.
-
+.. [1] I have, what probably amounts to about a pound of roving, part of it
+   is a dyed-black merino, and the other part is a merino/tencel (blue)
+   that I was spinning a year ago when I took a break from spinning.
+   It's a two ply bulky, and it's hibernating because I have no clue
+   what I want to do with the yarn anymore, and I have a lot of this
+   fiber already spun, and I can't decide what to do with it. So it
+   doesn't count.

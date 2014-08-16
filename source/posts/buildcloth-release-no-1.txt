@@ -24,7 +24,7 @@ powerful, in a number of situations:
 - to specify conditional elements,
 
 - to generate build targets and procedures based on system
-configuration or project state,
+  configuration or project state,
 
 - for large numbers similar of targets, and
 
@@ -69,5 +69,3 @@ The Roadmap
 - improving the "RuleCloth."
 - adding some preliminary tools for managing data interactions.
 - pypy support (why not?)
-
-

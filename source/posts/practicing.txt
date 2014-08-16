@@ -23,8 +23,8 @@ way to do this is:
 
 ::
 
-for it in range(1000):
-do_thing(it)
+   for it in range(1000):
+      do_thing(it)
 
 This says, "make a list of numbers from 1 to 1000," and then call the
 ``do_thing()`` operation on that number (i.e. assigned to the variable
@@ -36,9 +36,9 @@ do something like this:
 
 ::
 
-for (var it=0; it<= 1000; it++) {
-do_thing(it)
-}
+   for (var it=0; it<= 1000; it++) {
+      do_thing(it)
+   }
 
 The ``for`` loop has three statements: an action to perform running the
 content of the loop (create a variable), a condition that will terminate
@@ -50,29 +50,31 @@ the same as the Python, except that the Python has to build this
 There's a couple of quick answers to this specific question:
 
 1. (In Python 2) use ``xrange()`` which is a special *iterable* type
-(i.e. it works with loops), that doesn't need to build a list in
-memory, it just spits out values incrementally as needed.
+   (i.e. it works with loops), that doesn't need to build a list in
+   memory, it just spits out values incrementally as needed.
 
-Let's imagine that it does this by having a function that returns values
-starting at a certain point (i.e. 0) pausing after each value, and then
-returning the next value the next time it runs. Thes ea re called
-"generators" in Python.
+   Let's imagine that it does this by having a function that returns values
+   starting at a certain point (i.e. 0) pausing after each value, and then
+   returning the next value the next time it runs. Thes ea re called
+   "generators" in Python.
 
 2. Wait for the Python 3 switch to complete: In Python 3, ``range()`` is
-a generator of sorts, and it's efficient in this way.
+   a generator of sorts, and it's efficient in this way.
 
 3. Not care about memory use so much. In most cases *this will not be
-the bottle neck in your application*. Really long lists of integers
-may take up megabytes of memory, but that's not a huge deal.
+   the bottle neck in your application*. Really long lists of integers
+   may take up megabytes of memory, but that's not a huge deal.
 
 Generators are great, and they're worth using in most cases, but no one
 will laugh at you if you don't use them in this situation.
 
 The coolest thing, really is that you can really easily write generator
-functions. Here's a silly example:
+functions. Here's a silly example: ::
 
-def animals("input\_animal"=None): for animal in [ 'cat', 'dog', 'cow'
-]: if input\_animal != animal: yield animal
+  def animals("input_animal"=None):
+     for animal in [ 'cat', 'dog', 'cow']:
+        if input_animal != animal:
+            yield animal
 
 This function returns an animal, as long as the ``input_animal`` isn't
 in the list.
@@ -123,10 +125,8 @@ tools you're using.
 
 It's all practice. All the way down.
 
-.. [1]
-In programming terms, these would be patterns. I'm using the term
-modality/pattern to disambiguate. I'm thinking about things like "how
-to shape a neck opening on a sweater," or "turn a heel on a sock."
-Not the pattern for an entire object, but the method for knitting a
-particular object.
-
+.. [1] In programming terms, these would be patterns. I'm using the term
+   modality/pattern to disambiguate. I'm thinking about things like "how
+   to shape a neck opening on a sweater," or "turn a heel on a sock."
+   Not the pattern for an entire object, but the method for knitting a
+   particular object.

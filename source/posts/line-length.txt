@@ -46,10 +46,11 @@ this command a greater usefullness in this situation.
 So my main questions, I guess, are:
 
 1. How long do I make lines, so that they're a good standard length?
+
 2. How do I do this so that my files aren't asinine to look at for the
-unanointed?
+   unanointed?
+
 3. I suppose conversely, if I'm crazy for thinking to do this, if you
-have a better idea for fixing this issue, I'm all ears.
+   have a better idea for fixing this issue, I'm all ears.
 
 Onward and Upward!
-

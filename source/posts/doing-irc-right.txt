@@ -96,9 +96,8 @@ Anyone have anything to add to this?
 
 Onward and `Upward <http://criticalfutures.com>`__!
 
-.. [1]
-In a way, I suspect this qualifies as "writing a job for yourself,"
-in to your analysis. My secret superpower, it seems is to look at
-what people are doing, and then talk to the engineers about the
-social realities. Any web 2.x people who want this, be in touch ;)
-
+.. [1] In a way, I suspect this qualifies as "writing a job for
+   yourself," in to your analysis. My secret superpower, it seems is
+   to look at what people are doing, and then talk to the engineers
+   about the social realities. Any web 2.x people who want this, be in
+   touch ;)

@@ -27,10 +27,6 @@ document <http://jmcpherson.org/editing.html>`__ has been particularly
 useful in helping me attempt this feat, though I continue to feel way
 behind the curve.
 
-.. raw:: html
-
-<!--more-->
-
 A quick note. vim, descended from the unix vi editor, makes editing text
 really simple, and outshines almost every other editor in a sort of
 brute force sort of way. One of the things that makes it so powerful is
@@ -104,4 +100,3 @@ you're feeling really geeky. But then, you've gotten to this point, so
 you probably were feeling that geeky. Thanks.
 
 Onward and Upward!
-

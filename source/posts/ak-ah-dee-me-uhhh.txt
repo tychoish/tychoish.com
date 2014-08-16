@@ -64,8 +64,6 @@ schedule/arrange before graduation.
 
 Every day's an adventure after all...
 
-.. [1]
-I wrote that sentence without considering fiction writing, which is
-just interesting. Which often take much longer than that. In
-anycase...
-
+.. [1] I wrote that sentence without considering fiction writing,
+   which is just interesting. Which often take much longer than
+   that. In anycase...

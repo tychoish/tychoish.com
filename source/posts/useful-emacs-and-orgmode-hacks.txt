@@ -88,10 +88,10 @@ and window transparency.
 
 ::
 
-(add-to-list 'default-frame-alist '(font . "Monaco-08"))
-(set-default-font "Monaco-08")
-(set-frame-parameter (selected-frame) 'alpha '(86 84))
-(add-to-list 'default-frame-alist '(alpha 86 84))
+   (add-to-list 'default-frame-alist '(font . "Monaco-08"))
+   (set-default-font "Monaco-08")
+   (set-frame-parameter (selected-frame) 'alpha '(86 84))
+   (add-to-list 'default-frame-alist '(alpha 86 84))
 
 Note that this depends on running a composting manager like
 ``xcompmngr``, and the transparency is quite subtle. With great
@@ -100,7 +100,7 @@ emacs' looks and behaves correctly when I start it using a plain,
 
 ::
 
-emacs --daemon
+   emacs --daemon
 
 command from a regular bash prompt. I'm running fairly recent (but
 perhaps not the actual release?) builds of emacs 23. Note that I'd had
@@ -153,19 +153,19 @@ lot of example code that I can share with you, as it just works, but I
 do have a couple of notes/complaints:
 
 - I have to use C-i to expand snippets. The "tab" key doesn't seem to
-work to expand snippets ever.
+  work to expand snippets ever.
 
 - The organization of the snippets directory is absurd. I understand
-how the structure of the hierarchy mirros the way modes are derived
-from one another, and having the expansion triggers as file names
-also makes sense, but it's really hard to organize things. Do people
-use modes that aren't derived from "text-mode"? Are there any? There
-should be a "global" directory in the snippets folder (next to
-``text-mode``) where all of the files in any number of folders
-beneath "global" are available in all modes.
+  how the structure of the hierarchy mirros the way modes are derived
+  from one another, and having the expansion triggers as file names
+  also makes sense, but it's really hard to organize things. Do people
+  use modes that aren't derived from "text-mode"? Are there any? There
+  should be a "global" directory in the snippets folder (next to
+  ``text-mode``) where all of the files in any number of folders
+  beneath "global" are available in all modes.
 
 - It's amazing useful, and there are some things that I need to create
-snippets for that I haven't. This is on my list of things to do.
+  snippets for that I haven't. This is on my list of things to do.
 
 w3m
 ~~~
@@ -212,4 +212,3 @@ gotten familiar enough to know if my modifications have been useful.
 Muse-mode, etc.
 
 Any good emacs code that I should be looking at?
-

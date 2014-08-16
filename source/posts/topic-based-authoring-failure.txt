@@ -34,34 +34,32 @@ The downfalls of "topics," don't negate it's overall utility, but they
 are significant:
 
 - topic based authoring makes it harder for non-writers to contribute
-to the documentation. This makes it more challenging to keep
-documentation up to date and can hurt overall accuracy.
+  to the documentation. This makes it more challenging to keep
+  documentation up to date and can hurt overall accuracy.
 
 - topics force writers to focus on the "micro" documentation at the
-expense of the "macro" documentation experience. The content is
-clear, the completeness is good, but the overall experience for users
-is awful.
+  expense of the "macro" documentation experience. The content is
+  clear, the completeness is good, but the overall experience for
+  users is awful.
 
 - topic-centrism sometimes leads to deeper hierarchies which leads to
-duplicated content across the hierarchy as "cousin" nodes address
-related concepts.
+  duplicated content across the hierarchy as "cousin" nodes address
+  related concepts.
 
 What's the solution? I'm not sure there is a single one, but:
 
 - it's important to avoid duplication, by having great support for
-"single sourcing" (inlining/inclusion,) and simple cross referencing.
+  "single sourcing" (inlining/inclusion,) and simple cross
+  referencing.
 
 - isolate all content in concrete topical units.
 
 - start with flat global organization and add interpage hierarchy only
-when necessary.
+  when necessary.
 
 - use as much intrapage organization and hierarchy as you need, and
-allow intrapage hierarchy.
+  allow intrapage hierarchy.
 
 - build great reference material first. Everything else is gloss, and
-you should layer the gloss on top of strong reference rather than try
-and build reference under an existing structure.
-
-
-
+  you should layer the gloss on top of strong reference rather than
+  try and build reference under an existing structure.

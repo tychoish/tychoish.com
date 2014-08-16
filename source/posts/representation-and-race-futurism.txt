@@ -39,13 +39,13 @@ need a lot work. But this part, I quite like. For this story (and I
 think in general,) I've drawn the following conclusion:
 
 - Race is temporally constrained. We understand racial difference and
-our own racial experiences in terms of our current reality. This
-changes.
+  our own racial experiences in terms of our current reality. This
+  changes.
 
 - The aspects of race which are the result of lineage (skin color, bone
-structure,) are likely to change over time as lineages continue. We
-can assume that these kinds of changes will be pronounced in smaller
-populations over longer periods of time.
+  structure,) are likely to change over time as lineages continue. We
+  can assume that these kinds of changes will be pronounced in smaller
+  populations over longer periods of time.
 
 To a large extent the tension between the "outpost people" and the "ship
 people" is the core of the conflict in this story. I've been thinking in
@@ -66,6 +66,4 @@ I'll be writing more about this in the future. This site is a wiki, so
 feel free to edit and [[discuss\|discourse]], or even this page, but
 attempt to attribute your own comments just for clarity sake.
 
-.. [1]
-Under a billion people.
-
+.. [1] Under a billion people.

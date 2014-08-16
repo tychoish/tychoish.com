@@ -2,7 +2,7 @@
 Methodology and Bootstrapping Intellectual Practice
 ===================================================
 
-.. post:: 
+.. post::
    :author: tychoish
    :tags: writing, career, research
 
@@ -115,11 +115,8 @@ far as using the blog/wiki to build and participate in a conversation
 about new media practices, collaboration, and digital labor practices...
 there is much work left to be done.
 
-.. [1]
-i.e. getting into graduate school, getting a post-graduate school
-job.
+.. [1] i.e. getting into graduate school, getting a post-graduate school
+   job.
 
-.. [2]
-the 100k number is mostly opportunity costs, and assumes a
-funded/cheap 2 year masters program.
-
+.. [2] the 100k number is mostly opportunity costs, and assumes a
+   funded/cheap 2 year masters program.

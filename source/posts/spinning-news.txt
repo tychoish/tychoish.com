@@ -60,6 +60,4 @@ drive bands. These things happen, of course.
 
 Onward and Upward!
 
-.. [1]
-Just call me Tristram Shandy, would you?
-
+.. [1] Just call me Tristram Shandy, would you?

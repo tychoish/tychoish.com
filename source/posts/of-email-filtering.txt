@@ -55,45 +55,45 @@ having my own machine be the only copy of important emails.
 So what to do?
 
 - Filter the hell out of my gmail account so that everything lands
-pretty much where it would need to so I can find it several months
-from now. `Somewhere on this
-page <http://www.g04.com/misc/GmailTipsComplete.HTML>`__ is a list of
-all the funky boolean operators that gmail allows.
+  pretty much where it would need to so I can find it several months
+  from now. `Somewhere on this
+  page <http://www.g04.com/misc/GmailTipsComplete.HTML>`__ is a list of
+  all the funky boolean operators that gmail allows.
 
 - Forward email out in chunks (so the lists get forwarded to one place,
-all of my frequent blog-related correspondents to another,
-moderation) to different addresses on my web-server that include 15
-character random strings).
+  all of my frequent blog-related correspondents to another,
+  moderation) to different addresses on my web-server that include 15
+  character random strings).
 
 - This is actually a really sneaky way of passing gmail's filtering
-downstream, and is otherwise a red hearing. I think however, that I
-could have probably eliminated the number of email addresses at play
-here by using "plus addresses" and eliminate the next, but it's not a
-huge deal.
+  downstream, and is otherwise a red hearing. I think however, that I
+  could have probably eliminated the number of email addresses at play
+  here by using "plus addresses" and eliminate the next, but it's not a
+  huge deal.
 
 - Funnel all these things the forwarded email to a holding email
-address that automatically deletes everything after a week. This is a
-short term backup, if I accidentally delete something or whatever.
+  address that automatically deletes everything after a week. This is a
+  short term backup, if I accidentally delete something or whatever.
 
 - Rather than use gmail's built in forwarding, I made a filter that
-searches for another, longer random string in all the email. If it
-*doesn't* find this (which I suspect it never will,) it forwards to
-my "home" email address. Again this isn't a public email address.
+  searches for another, longer random string in all the email. If it
+  *doesn't* find this (which I suspect it never will,) it forwards to
+  my "home" email address. Again this isn't a public email address.
 
-Time out, so what we have here. is gmail sorting forwarding two copies
-of each email to two different addresses, at once. All the email is sent
-to one address, and the second address depends on how gmail is filtering
-the email.
+  Time out, so what we have here. is gmail sorting forwarding two copies
+  of each email to two different addresses, at once. All the email is sent
+  to one address, and the second address depends on how gmail is filtering
+  the email.
 
 - Set up `procmail <http://www.procmail.org/>`__ locally to filter
-based on the random character string from the second step.
+  based on the random character string from the second step.
 
 - Do some additional procmail filtering (which I think, as I figure it
-out, I'll start to do more here, with and use
-`geektool <http://projects.tynsoe.org/en/geektool/>`__
+  out, I'll start to do more here, with and use
+  `geektool <http://projects.tynsoe.org/en/geektool/>`__
 
 - Read messages with `mutt <http://www.mutt.org/>`__, because it sucks
-less than anything else
+  less than anything else
 
 - Write messages with `textmate <http://macromates.com/>`__
 
@@ -108,4 +108,3 @@ handle mail box delivery. Might git work as well? I'm not sure. But
 that's another battle for another day.
 
 Onward and `Upward <http://criticalfutures.com>`__!
-

@@ -68,39 +68,39 @@ I've used to help explore the topic:
 
 - *generalized `Sphinx <http://sphinx-doc.org>`__ publishing toolkit*.
 
-This is both `a work project <http://github.com/mongod/docs-tools/>`__
-and `a personal
-project <http://github.com/cyborginstitute/institute-tools>`__.
+  This is both `a work project <http://github.com/mongod/docs-tools/>`__
+  and `a personal
+  project <http://github.com/cyborginstitute/institute-tools>`__.
 
-Sphinx is a great tool for producing text, and I'm quite fond of it. At
-the same time, I'm not a fan of its architecture (and have a number of
-approaches to optimize the build process,) and there are a number of
-tasks: dependency resolution, version management, theme management, and
-deployment that any reasonably complex Sphinx-based project needs to
-address.
+  Sphinx is a great tool for producing text, and I'm quite fond of it. At
+  the same time, I'm not a fan of its architecture (and have a number of
+  approaches to optimize the build process,) and there are a number of
+  tasks: dependency resolution, version management, theme management, and
+  deployment that any reasonably complex Sphinx-based project needs to
+  address.
 
-While this project requires ongoing development and improvement, it's
-basically feature complete, and it's given
+  While this project requires ongoing development and improvement, it's
+  basically feature complete, and it's given
 
 - I've had a couple of personal side projects that I've used to explore
-different kinds of programming problems, with greater and lesser
-success.
+  different kinds of programming problems, with greater and lesser
+  success.
 
-Buildcloth, which [[is pretty cool and needs more
-work\|/rhizome/buildcloth-v03-planning]] but I fear may be too
-complicated for the use-case.
+  Buildcloth, which [[is pretty cool and needs more
+  work\|/rhizome/buildcloth-v03-planning]] but I fear may be too
+  complicated for the use-case.
 
-`csc <http://cyborginstitute.org/projects/csc>`__, which isn't fully off
-the ground and may not provide a significant improvement upon Sphinx for
-most cases.
+  `csc <http://cyborginstitute.org/projects/csc>`__, which isn't fully off
+  the ground and may not provide a significant improvement upon Sphinx for
+  most cases.
 
-`dtf <http://cyborginstitute.org/projects/dtf/>`__, which is a decent
-idea, but I've not had time to really implement and exercise the program
-and I fear that the core code quality isn't great.
+  `dtf <http://cyborginstitute.org/projects/dtf/>`__, which is a decent
+  idea, but I've not had time to really implement and exercise the program
+  and I fear that the core code quality isn't great.
 
 - More recently I've begun working on a *dependency analytics package*
-with a co-worker/friend to help him and his teammates understand and
-untangle a larger C++ project.
+  with a co-worker/friend to help him and his teammates understand and
+  untangle a larger C++ project.
 
 It's been nice to be able to actively work on a project with another
 developer, and to be able to focus on performance and architecture
@@ -119,4 +119,3 @@ that I want to do.
 
 I'm interested in learning more: about writing (documentation, science
 fiction, etc.), about software development and computing.
-

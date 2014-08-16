@@ -40,8 +40,6 @@ Other Cool Things on the Internet
 ---------------------------------
 
 - `Sales Cycle
-Theater <http://blogs.nuxeo.com/cmckinnon/2010/04/sales-cycle-theatre-time-to-call-a-charade-a-charade.html>`__
+  Theater <http://blogs.nuxeo.com/cmckinnon/2010/04/sales-cycle-theatre-time-to-call-a-charade-a-charade.html>`__
 - `Why Programmers Work at
-Night <http://swizec.com/blog/why-programmers-work-at-night/swizec/3198>`__
-
-
+  Night <http://swizec.com/blog/why-programmers-work-at-night/swizec/3198>`__

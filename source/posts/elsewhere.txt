@@ -15,54 +15,58 @@ a few recent tycho sightings and other bits of news (related to this
 site):
 
 - Most obviously, we have a new design and a new sub-blog, coda. I
-initially described it as a long-form twitter site. And it is. Right
-now there's a `syndication feed for
-coda <http://tychoish.com/feed/coda/>`__ (and a separate one for just
-the `essays <http://tychoish.com/feed/essay>`__), if this is more
-your speed. I'm not 100% happy with all of the display options, but
-this is a good start. I'd *really* like to know what you think, or if
-you find any bugs. At the moment I know about the archiving of the
-coda entries, and the inclusion some pages at the bottom of the coda
-display on some views. I'm also just assuming that it works on IE,
-because I don't have access to this browser, help (screenshots?)
-would be much appreciated.
+  initially described it as a long-form twitter site. And it is. Right
+  now there's a `syndication feed for
+  coda <http://tychoish.com/feed/coda/>`__ (and a separate one for just
+  the `essays <http://tychoish.com/feed/essay>`__), if this is more
+  your speed. I'm not 100% happy with all of the display options, but
+  this is a good start. I'd *really* like to know what you think, or if
+  you find any bugs. At the moment I know about the archiving of the
+  coda entries, and the inclusion some pages at the bottom of the coda
+  display on some views. I'm also just assuming that it works on IE,
+  because I don't have access to this browser, help (screenshots?)
+  would be much appreciated.
+
 - I've been working on updating and cleaning up the static pages of
-this site to make tychoish.com a little bit more of a website and a
-little bit less of a plain old blog. This includes a `contact
-page <http://tychoish.com/contact/>`__ and a `page about open
-source <http://tychoish.com/open-source/>`__. I also wrote up a
-"`support *critical
-futures* <http://criticalfutures.com/support/>`__\ " page. Working on
-more...
+  this site to make tychoish.com a little bit more of a website and a
+  little bit less of a plain old blog. This includes a `contact
+  page <http://tychoish.com/contact/>`__ and a `page about open
+  source <http://tychoish.com/open-source/>`__. I also wrote up a
+  "`support *critical
+  futures* <http://criticalfutures.com/support/>`__\ " page. Working on
+  more...
+
 - In `Rewriting the
-Bases <http://www.aetataureate.com/2008/09/rewriting-the-bases/>`__,
-Caroline (who calls/links to me as sam because she's *that* good of a
-friend) outlines a mostly sarcastic commentary I made on gay male
-sexuality. I was mostly kidding, but I think it was sort of
-entertaining. Unfortunately, Caroline has used this as ammunition
-against my cynicism, making the claim that I do have a heart. Bah! ;)
+  Bases <http://www.aetataureate.com/2008/09/rewriting-the-bases/>`__,
+  Caroline (who calls/links to me as sam because she's *that* good of a
+  friend) outlines a mostly sarcastic commentary I made on gay male
+  sexuality. I was mostly kidding, but I think it was sort of
+  entertaining. Unfortunately, Caroline has used this as ammunition
+  against my cynicism, making the claim that I do have a heart. Bah! ;)
+
 - There's been a lot of ongoing debate in the SF blogosphere, about
-media-tie-in fiction. Like Star Wars and Star Trek books, which I
-remember fondly, but haven't mustered the will or the time to really
-get into recently (in part I think, because there's more lower grade
-stuff/stuff that isn't indented for the audience group I belong to
-now.) In any case, I commented on this at `jonathan Strahan's
-blog <http://www.jonathanstrahan.com.au/wp/2008/09/03/media-tie-in-fiction/>`__
-and on the `sf signal mind
-meld <http://www.sfsignal.com/archives/007130.html>`__.
+  media-tie-in fiction. Like Star Wars and Star Trek books, which I
+  remember fondly, but haven't mustered the will or the time to really
+  get into recently (in part I think, because there's more lower grade
+  stuff/stuff that isn't indented for the audience group I belong to
+  now.) In any case, I commented on this at `jonathan Strahan's
+  blog <http://www.jonathanstrahan.com.au/wp/2008/09/03/media-tie-in-fiction/>`__
+  and on the `sf signal mind
+  meld <http://www.sfsignal.com/archives/007130.html>`__.
+
 - I've started posting a lot of the writing related stuff that I used
-to post here, over on my `sf writing
-list <http://groups.yahoo.com/group/SF-Writing/>`__, which is 8 years
-old now. Wow! Anyway, its generally sort of an interesting thing, and
-if you're prone to writing SF
+  to post here, over on my `sf writing
+  list <http://groups.yahoo.com/group/SF-Writing/>`__, which is 8 years
+  old now. Wow! Anyway, its generally sort of an interesting thing, and
+  if you're prone to writing SF
+
 - I've also started a more concerted effort to return to and become
-active in *the* `ravelry <http://www.ravelry.com/>`__ community. I'd
-lapsed for a while for a lot of reasons in addition to the great
-knitting malaise of 08, but also because I wasn't (and am still not)
-keeping my projects updated, and I don't much knit other people's
-patterns, and I'm boring/not hip enough in someways, but it's a great
-community, and it's good for me (and the blog) when I'm more active,
-so... I'm back.
+  active in *the* `ravelry <http://www.ravelry.com/>`__ community. I'd
+  lapsed for a while for a lot of reasons in addition to the great
+  knitting malaise of 08, but also because I wasn't (and am still not)
+  keeping my projects updated, and I don't much knit other people's
+  patterns, and I'm boring/not hip enough in someways, but it's a great
+  community, and it's good for me (and the blog) when I'm more active,
+  so... I'm back.
 
 More news as it develops.
-

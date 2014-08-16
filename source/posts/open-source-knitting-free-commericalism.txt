@@ -88,8 +88,6 @@ organization and the work.
 
 But until then, I remain, tycho
 
-.. [1]
-This would be `the attribution, non-commercial,
-share-alike <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__
-license.
-
+.. [1] This would be `the attribution, non-commercial,
+   share-alike <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__
+   license.

@@ -22,7 +22,7 @@ that make software more or less useable, they include:
 
 - greater or lesser functional complexity,
 - more or less visual clarity (of control interface and data
-visualization,)
+  visualization,)
 - functional and/or visual minimalism,
 - thoroughness of documentation and support materials, and
 - the learning curve.
@@ -41,4 +41,3 @@ doesn't strike me as a very productive project, and a poor excuse for
 providing good documentation and support for a given project.
 
 But maybe that's just me.
-

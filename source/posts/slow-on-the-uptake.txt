@@ -18,7 +18,5 @@ to things...
 
 *I'd say...*
 
-.. [1]
-we have a long going joke about the years it seems to take us to
-write "about" pages. It's comical. Inside joke I guess.
-
+.. [1] we have a long going joke about the years it seems to take us
+   to write "about" pages. It's comical. Inside joke I guess.

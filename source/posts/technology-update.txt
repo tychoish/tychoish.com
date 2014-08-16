@@ -14,22 +14,22 @@ another slightly more technical post.
 I've mentioned in passing a few times over the past few months that:
 
 - I've been interested in shifting to Arch Linux. While I've been
-running Arch in a VM on my work desktop, I have been quite slow to
-move additional machines over to Arch. It's not for lack of wanting,
-but I have a hard time disrupting something that works when it's
-already working.
+  running Arch in a VM on my work desktop, I have been quite slow to
+  move additional machines over to Arch. It's not for lack of wanting,
+  but I have a hard time disrupting something that works when it's
+  already working.
 
 - Also on the software front, I've switched to using the Stump Window
-Manger, and while I've talked a bit about this on the blog, I've done
-virtually no reporting of my ongoing progress with this.
+  Manger, and while I've talked a bit about this on the blog, I've
+  done virtually no reporting of my ongoing progress with this.
 
-- I missed the days when I only had one computer and it went everywhere
-with me. While I like having all this computing possibility around,
-I'm moving around enough these days that it doesn't make sense to be
-tied down to a desktop. I like sitting on the couch and writing, and
-I like being able to go off for a weekend and be able to work on the
-projects that I really need/want to work on. That's hard when you
-have a desk and an "office."
+- I missed the days when I only had one computer and it went
+  everywhere with me. While I like having all this computing
+  possibility around, I'm moving around enough these days that it
+  doesn't make sense to be tied down to a desktop. I like sitting on
+  the couch and writing, and I like being able to go off for a weekend
+  and be able to work on the projects that I really need/want to work
+  on. That's hard when you have a desk and an "office."
 
 This post provides updates with regards to these subjects.
 
@@ -121,4 +121,3 @@ around as a spare, but if anyone has a need for a really awesome
 ThinkPad x41 they should be in touch.
 
 Onward and Upward!
-

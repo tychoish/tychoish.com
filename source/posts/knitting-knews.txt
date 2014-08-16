@@ -33,10 +33,7 @@ At the moment I'm focusing on getting projects done so I can start new
 things, like an Armenian design, or more stranded socks. I'll post
 pictures at some point, I swear [2]_.
 
-.. [1]
-Oh, the pedagogical traditions of higher education.
+.. [1] Oh, the pedagogical traditions of higher education.
 
-.. [2]
-My fingers may have been crossed when I typed this, just to cover my
-ass....
-
+.. [2] My fingers may have been crossed when I typed this, just to cover my
+   ass....

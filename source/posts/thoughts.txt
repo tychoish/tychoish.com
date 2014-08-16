@@ -9,44 +9,40 @@ I promise to post more than once today, with something that isn't just a
 list, but I have a few thoughts that I think would be good to get out:
 
 - I finished the sweater. Pictures to follow. On a scale of 1 to 10 I
-rate this one a 7, because of the way the sleeves/shoulders fit, but
-I suspect that I'll quite enjoy wearing it anyway.
+  rate this one a 7, because of the way the sleeves/shoulders fit, but
+  I suspect that I'll quite enjoy wearing it anyway.
 
-- I'm at 2,000 words on the novel. It's hard to justify to yourself and
-the world that you're writing a novel when you don't even have ten
-manuscript pages, but I am I swear. I'm getting a hold of it slowly,
-damnit! No more novella editing yet, but soon. Round two readers, get
-ready!
+- I'm at 2,000 words on the novel. It's hard to justify to yourself
+  and the world that you're writing a novel when you don't even have
+  ten manuscript pages, but I am I swear. I'm getting a hold of it
+  slowly, damnit! No more novella editing yet, but soon. Round two
+  readers, get ready!
 
 - I need to figure out what I'm going to try and do with the novella
-once I get it to a point that I'm comfortable marketing it. The
-publication I was thinking of sending it out to has closed
-submissions until March (they have a good "new writers" program,
-potentially accept longer pieces and my parents knew the editor in
-another life so my name will stand out--my real name has a way of
-doing that. If not, I think the Marx quote will earn me points).
-There's an indi-press that I'm interested in that looks like it's the
-real deal, and I don't think that it will be too long for them. Other
-markets don't have provisions for works between 25,000 and 40,000 in
-their submission guidelines, so I'm at a loss.
+  once I get it to a point that I'm comfortable marketing it. The
+  publication I was thinking of sending it out to has closed
+  submissions until March (they have a good "new writers" program,
+  potentially accept longer pieces and my parents knew the editor in
+  another life so my name will stand out--my real name has a way of
+  doing that. If not, I think the Marx quote will earn me points).
+  There's an indi-press that I'm interested in that looks like it's
+  the real deal, and I don't think that it will be too long for
+  them. Other markets don't have provisions for works between 25,000
+  and 40,000 in their submission guidelines, so I'm at a loss.
 
-- I read the entire `Ars Technica Leopard (OSX 10.5)
-Review <http://arstechnica.com/reviews/os/mac-os-x-10-5.ars/>`__
-yesterday, and it was great. I have to say that he didn't talk about
-the `RubyCocoa <http://rubycocoa.sourceforge.net/>`__ bridge thing
-that `bsag talked
-about <http://www.rousette.org.uk/blog/2007/10/28/>`__ and the, I
-think the term is, "scripting hooks" in AppleScript for python and
-ruby, and the fact that `Ruby on
-Rails <http://www.rubyonrails.org/>`__ and
-`RubyGems <http://rubygems.org/>`__ ships with the new operating
-system, which I think is totally awesome, and a really good move on
-Apple's part. Having said all of this, I'm not in any rush, and
-probably won't upgrade until after I finish the graduate school
-application. What I have works now really well, and while I very much
-want to get rid of all the brushed steel windows, I don't want to
-have to worry about anything breaking or a massive backup for a
-while.
-
-
-
+- I read the entire `Ars Technica Leopard (OSX 10.5) Review
+  <http://arstechnica.com/reviews/os/mac-os-x-10-5.ars/>`__ yesterday,
+  and it was great. I have to say that he didn't talk about the
+  `RubyCocoa <http://rubycocoa.sourceforge.net/>`__ bridge thing that
+  `bsag talked about <http://www.rousette.org.uk/blog/2007/10/28/>`__
+  and the, I think the term is, "scripting hooks" in AppleScript for
+  python and ruby, and the fact that `Ruby on Rails
+  <http://www.rubyonrails.org/>`__ and `RubyGems
+  <http://rubygems.org/>`__ ships with the new operating system, which
+  I think is totally awesome, and a really good move on Apple's
+  part. Having said all of this, I'm not in any rush, and probably
+  won't upgrade until after I finish the graduate school
+  application. What I have works now really well, and while I very
+  much want to get rid of all the brushed steel windows, I don't want
+  to have to worry about anything breaking or a massive backup for a
+  while.

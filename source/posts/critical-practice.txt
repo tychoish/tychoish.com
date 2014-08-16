@@ -28,20 +28,19 @@ define good critical practice, and provide some starting points for
 "getting it right:"
 
 - Criticism is comparative. If you analyze a single thing in isolation,
-this analysis is not criticism. By contrast, one of the best ways to
-make poor criticism more powerful is to include more information
-(data) to strengthen the comparison. Comparison should highlight or
-help explain the phenomena or objects you are critiquing, but should
-always serve agenda and goals of the criticism to avoid overloading
-readers with too much information.
+  this analysis is not criticism. By contrast, one of the best ways to
+  make poor criticism more powerful is to include more information
+  (data) to strengthen the comparison. Comparison should highlight or
+  help explain the phenomena or objects you are critiquing, but should
+  always serve agenda and goals of the criticism to avoid overloading
+  readers with too much information.
 
 - Criticism ought to have its own agenda. It is impossible to avoid
-bias entirely, and from this impossibility springs criticism's
-greatest strength: the power to productively examine and contribute
-to cultural discourses. While critical essays are perhaps the most
-identifiable form of criticism, there are others: novels, lectures,
-films, art, and perhaps even technology itself, can all be (and often
-are) critical practices in themselves.
+  bias entirely, and from this impossibility springs criticism's
+  greatest strength: the power to productively examine and contribute
+  to cultural discourses. While critical essays are perhaps the most
+  identifiable form of criticism, there are others: novels, lectures,
+  films, art, and perhaps even technology itself, can all be (and often
+  are) critical practices in themselves.
 
-Everything else is up for grabs. [[Discuss\|discourse]]?
-
+Everything else is up for grabs.

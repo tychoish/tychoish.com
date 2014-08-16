@@ -14,68 +14,69 @@ and thoughts on the subject that have stuck with me.
 Let's start with some general assumptions, premises, ideas:
 
 - File system hierarchies are dead or dying. To have a useful file
-system hierarchy the following qualities are essential:
+  system hierarchy the following qualities are essential:
 
 - Every piece of data needs to belong in one location and only one
-location.
+  location.
 
-- Every container (e.g. directory or folder) needs to hold at least two
-objects.
+- Every container (e.g. directory or folder) needs to hold at least
+  two objects.
 
 - Hierarchy depth ought to be minimized. Every system can use two
-levels. After the second level, each additional level should only be
-added a *very* large number of additional objects are added to the
-system. If you have 3 functional levels and less than 1000 objects,
-you might be in trouble.
+  levels. After the second level, each additional level should only be
+  added a *very* large number of additional objects are added to the
+  system. If you have 3 functional levels and less than 1000 objects,
+  you might be in trouble.
 
-As you might imagine, this is very difficult to achieve, and the
-difficulty is compounded by huge amounts of legacy systems, and the fact
-that "good enough is good enough," particularly given that file
-organization is secondary to most people's core work.
+  As you might imagine, this is very difficult to achieve, and the
+  difficulty is compounded by huge amounts of legacy systems, and the
+  fact that "good enough is good enough," particularly given that file
+  organization is secondary to most people's core work.
 
-While there are right ways to build hierarchical structure for file
-system data, less structure is better than more structure, and I think
-that groups will tend toward less over time.
+  While there are right ways to build hierarchical structure for file
+  system data, less structure is better than more structure, and I
+  think that groups will tend toward less over time.
 
-- Access control is a lost cause. Legacy data and legacy practices will
-keep complex ACL-based systems for access control in place for a long
-time, but I think it's pretty clear that for any sort of complex
-system, access control isn't an effective paradigm. In some ways,
-access control is the last really good use of file system
-hierarchies. Which is to say, by now the main use of strong
-containers (as opposed to tags) is access control.
+- Access control is a lost cause. Legacy data and legacy practices
+  will keep complex ACL-based systems for access control in place for
+  a long time, but I think it's pretty clear that for any sort of
+  complex system, access control isn't an effective paradigm. In some
+  ways, access control is the last really good use of file system
+  hierarchies. Which is to say, by now the main use of strong
+  containers (as opposed to tags) is access control.
 
-I don't think that "enterprise content management"-style tools are
-*there*, yet. I suspect that the eventual solution to "how do I control
-access to content" will either: be based on a an cryptography key system
-which will control access and file integrity, or there will be a class
-of application, *a la* ECMS, with some sort of more advanced abstracted
-file system interface that's actually use-able.
+  I don't think that "enterprise content management"-style tools are
+  *there*, yet. I suspect that the eventual solution to "how do I
+  control access to content" will either: be based on a an
+  cryptography key system which will control access and file
+  integrity, or there will be a class of application, *a la* ECMS,
+  with some sort of more advanced abstracted file system interface
+  that's actually use-able.
 
 I'm betting on encryption.
 
 - Tagging and search are the ways forward. In many cases, the location
-of files in hierarchy help determine the contents of those files. If
-there are no hierarchies then you need *something* more useful and
-more flexible to provide this level of insight.
+  of files in hierarchy help determine the contents of those files. If
+  there are no hierarchies then you need *something* more useful and
+  more flexible to provide this level of insight.
 
 - Great search is a necessity. Luckily it's also easy. Apache
-Solr/Lucene, Xapian, and hell Google Search Appliances make *great*
-search really easy.
+  Solr/Lucene, Xapian, and hell Google Search Appliances make *great*
+  search really easy.
 
 - Some sort of tagging system. In general, only administrators should
-be able to create tags, and I think single tag-per object (i.e.
-categories) versus multiple tags per object should be configurable on
-a collection-by-collection.
+  be able to create tags, and I think single tag-per object (i.e.
+  categories) versus multiple tags per object should be configurable
+  on a collection-by-collection.
 
-Tag systems would be great for creating virtualized file system
-interfaces, obviating the need for user-facing links, and leveraging
-existing usage patterns and interfaces. It's theoretically possible
-to hang access control off of tag systems but that's significantly
-more complicated.
+  Tag systems would be great for creating virtualized file system
+  interfaces, obviating the need for user-facing links, and leveraging
+  existing usage patterns and interfaces. It's theoretically possible
+  to hang access control off of tag systems but that's significantly
+  more complicated.
 
-One of the biggest challenges with tag systems is avoiding
-recapitulating the problems with hierarchical organization.
+  One of the biggest challenges with tag systems is avoiding
+  recapitulating the problems with hierarchical organization.
 
 The most difficult (and most interesting!) problem in this space is
 probably the access control problems. The organizational practices will
@@ -87,30 +88,30 @@ access control method. It's hard replicate contemporary access control
 in encryption schemes. Replicating these schemes may not be desirable
 either. Here are some ideas:
 
-- By default all files will be encrypted such that only the creator can
-read it. All data can then be "world readable," as far as the storage
-medium and underlying file systems are concerned
+- By default all files will be encrypted such that only the creator
+  can read it. All data can then be "world readable," as far as the
+  storage medium and underlying file systems are concerned.
 
 - The creator can choose to re-encrypt objects such that other users
-and groups of users can access the data. For organizations this might
-mean a tightly controlled central certificate authority-based system.
-For the public internet, this will either mean a lot of duplicated
-encrypted data, or a lot of key chains.
+  and groups of users can access the data. For organizations this
+  might mean a tightly controlled central certificate authority-based
+  system.  For the public internet, this will either mean a lot of
+  duplicated encrypted data, or a lot of key chains.
 
 - We'll need to give up on using public keys as a method of identity
-testing and verification. Key signing is cool, but at present it's
-complex, difficult to administer, and presents a significant barrier
-to entry. Keys need to be revocable, particularly group keys within
-organizations.
+  testing and verification. Key signing is cool, but at present it's
+  complex, difficult to administer, and presents a significant barrier
+  to entry. Keys need to be revocable, particularly group keys within
+  organizations.
 
-For the public internet, a some sort of social capital or network
-analysis based certification system will probably emerge to supplement
-for strict-web-of-trust based identity testing.
+  For the public internet, a some sort of social capital or network
+  analysis based certification system will probably emerge to
+  supplement for strict-web-of-trust based identity testing.
 
-- If all data is sufficiently encrypted, VPNs become obsolete, at least
-as methods for securing file repositories. Network security is less
-of a concern when content is actually secure. Encryption overhead,
-for processing isn't a serious concern on contemporary hardware.
+- If all data is sufficiently encrypted, VPNs become obsolete, at
+  least as methods for securing file repositories. Network security is
+  less of a concern when content is actually secure. Encryption
+  overhead, for processing isn't a serious concern on contemporary
+  hardware.
 
-[[Thoughts\|discourse]]?
-
+Thoughts?

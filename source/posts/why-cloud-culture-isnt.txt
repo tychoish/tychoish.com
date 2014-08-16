@@ -56,27 +56,26 @@ the servers in some way.
 A few thoughts:
 
 - We could just as easily call this whole "cloud" thing "the matrix,"
-or "cyberspace," in Gibson's original formulation. Cloud is a
-horrible metaphor for most things, but particularly this.
+  or "cyberspace," in Gibson's original formulation. Cloud is a
+  horrible metaphor for most things, but particularly this.
 
 - The apparent cohesiveness of the Internet in 2010 is almost entirely
-due to the success of Google. As much as we might try and avoid
-Google, I *firmly* believe if Google were to go away without warning,
-while the *Internet* would still work most of the economy around it
-would crash and burn: people wouldn't discover new things, the
-on-line advertising industry would largely collapse, a lot of the
-software that a lot of people inside and outside of google use would
-be without maintainers.
+  due to the success of Google. As much as we might try and avoid
+  Google, I *firmly* believe if Google were to go away without warning,
+  while the *Internet* would still work most of the economy around it
+  would crash and burn: people wouldn't discover new things, the
+  on-line advertising industry would largely collapse, a lot of the
+  software that a lot of people inside and outside of google use would
+  be without maintainers.
 
 - I'm not sure cultural participation is problem space that can be
-brute forced, and certainly the development of additional
-applications in the cloud is unlikely to increase participation in a
-direct manner. I'm not being an elitist and saying "cultural
-participation by the unschooled and unwashed masses isn't
-worthwhile," but rather cultural participation is about developing
-direct relationships and making/building *things*, and that requires
-forming relationships that `don't scale
-well <http://tychoish.com/rhizome/conceptualizing-scale/>`__.
+  brute forced, and certainly the development of additional
+  applications in the cloud is unlikely to increase participation in a
+  direct manner. I'm not being an elitist and saying "cultural
+  participation by the unschooled and unwashed masses isn't
+  worthwhile," but rather cultural participation is about developing
+  direct relationships and making/building *things*, and that requires
+  forming relationships that `don't scale
+  well <http://tychoish.com/rhizome/conceptualizing-scale/>`__.
 
 Thoughts?
-

@@ -13,13 +13,13 @@ business models look like. This is a huge mess of thoughts and trains
 but I have to start somewhere.
 
 - `The Hacking Business
-Model <http://askmonty.org/wiki/index.php/The_hacking_business_model>`__
-isn't so much a business model, as it is an operations model for
-hacker-run business. In that light it's a quite useful document, and
-it's understandable that it mostly ignores how to obtain "revenue"
-(and therefore, I think, falls in to the trap that assumes that new
-technology creates value which translates into income, when that
-doesn't quite work pragmatically.)
+  Model <http://askmonty.org/wiki/index.php/The_hacking_business_model>`__
+  isn't so much a business model, as it is an operations model for
+  hacker-run business. In that light it's a quite useful document, and
+  it's understandable that it mostly ignores how to obtain "revenue"
+  (and therefore, I think, falls in to the trap that assumes that new
+  technology creates value which translates into income, when that
+  doesn't quite work pragmatically.)
 
 I'm interested in seeing where this kind of thing goes, particularly in
 the following directions:
@@ -27,13 +27,13 @@ the following directions:
 - Where does capital come from in these systems? For start-up costs?
 
 - Where and how do non-technical (administrative, management, support,
-business development) staff/projects fit into these sorts of systems?
+  business development) staff/projects fit into these sorts of systems?
 
 - The conventional wisdom in proprietary software (and to a lesser
-extent in free software) is that in order to develop new technology
-and improve existing technology code-bases need to compete with each
-other, and I don't really think that this is the case in open
-environments.
+  extent in free software) is that in order to develop new technology
+  and improve existing technology code-bases need to compete with each
+  other, and I don't really think that this is the case in open
+  environments.
 
 I'm not sure that the competition between Solaris, the BSDs, and Linux
 (augmented as they all are by GNU to various extents) pushes each
@@ -54,12 +54,11 @@ with one's own history. We pitting code bases against each other seems
 to not make a great deal of economic sense.
 
 - I wish I had access to demographic data, but I suspect that there are
-few if any open source projects with development communities that are
-bigger than ~100-150 ([dunbar's
-number](http://en.wikipedia.org/wiki/Dunbar's\_number)), and the
-bigger projects (eg. Drupal, KDE, GNOME, the Linux Kernel, Fedora,
-Debian) solve this by dividing into smaller working projects under a
-larger umbrella.
+  few if any open source projects with development communities that are
+  bigger than ~100-150 `dunbar'snumber <http://en.wikipedia.org/wiki/Dunbar's_number>`_, and the
+  bigger projects (eg. Drupal, KDE, GNOME, the Linux Kernel, Fedora,
+  Debian) solve this by dividing into smaller working projects under a
+  larger umbrella.
 
 And yet, our culture supports the formation of companies that are many
 *many* times this big.
@@ -85,4 +84,3 @@ project and in these situations generating revenue becomes easier.
 Thoughts?
 
 More to come?
-

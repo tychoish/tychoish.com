@@ -34,12 +34,11 @@ I'll post more later on the the experience and lessons learned here in a
 bit. While I work on that, see:
 
 - `Buildcloth
-Documentation <http://cyborginstitute.org/projects/buildcloth>`__
+  Documentation <http://cyborginstitute.org/projects/buildcloth>`__
 - `Buildcloth on
-PIPY <https://pypi.python.org/pypi/buildcloth/0.2.0>`__
+  PIPY <https://pypi.python.org/pypi/buildcloth/0.2.0>`__
 - `Buildcloth on Github <https://github.com/tychoish/buildcloth>`__
 - the `Buildcloth issue
-tracker <https://issues.cyborginstitute.net/describecomponents.cgi?product=buildcloth>`__
+  tracker <https://issues.cyborginstitute.net/describecomponents.cgi?product=buildcloth>`__
 
 Onward and Upward!
-

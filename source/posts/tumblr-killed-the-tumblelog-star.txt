@@ -44,50 +44,49 @@ What Made Tumblelogs Work Originally
 ------------------------------------
 
 - The systems that powered them were kludgy but they made it very
-possible to post content easily. That's a good thing.
+  possible to post content easily. That's a good thing.
 
 - They used a unique sort of web design where design elements
-(tables/grids/CSS magic,) reflected and accented the content type.
+  (tables/grids/CSS magic,) reflected and accented the content type.
 
 - They were largely editorial functions. People followed tumblelogs
-because their authors were able to filter though content with
-exceptional speed and grace, and in the process of filtering provide
-real value.
+  because their authors were able to filter though content with
+  exceptional speed and grace, and in the process of filtering provide
+  real value.
 
 - They were multimedia, and incorporated many different kinds of
-content. Not just links, not just embedded youtube videos, but
-snippets of IM and IRC conversations, song lyrics, pictures from
-flickr, and so forth.
+  content. Not just links, not just embedded youtube videos, but
+  snippets of IM and IRC conversations, song lyrics, pictures from
+  flickr, and so forth.
 
 - `projectionist <http://project.ioni.st/>`__ one of the first and
-best, was a group effort: when group blogs work, they really work.
-The tumblelog, seems like an ideal platform for group blogging.
+  best, was a group effort: when group blogs work, they really work.
+  The tumblelog, seems like an ideal platform for group blogging.
 
 How We Can Make Tumblelogs Work Again
 -------------------------------------
 
 - We use publishing systems and tools that are unique and that stretch
-and bend the form. A tumblelog theme for Wordpress, will probably
-always reek like wordpress. Same with other popular content
-management systems. Tumblelogs work because they're not just *blogs*,
-they need to distinguish themselves both visually, and in terms of
-how their authors write the content.
+  and bend the form. A tumblelog theme for Wordpress, will probably
+  always reek like wordpress. Same with other popular content
+  management systems. Tumblelogs work because they're not just
+  *blogs*, they need to distinguish themselves both visually, and in
+  terms of how their authors write the content.
 
 - We undertake tumblogs as a collaborative effort. Group projects
-complicate things, of course, but they also create great
-possibilities.
+  complicate things, of course, but they also create great
+  possibilities.
 
 - Vary content, intentionally, post quotes, chat excerpts, links,
-videos, lyrics, etc. Make sure that there's a great deal of diversity
-of content. This is perhaps a problem to be solved in software, at
-least in port.
+  videos, lyrics, etc. Make sure that there's a great deal of
+  diversity of content. This is perhaps a problem to be solved in
+  software, at least in port.
 
-- Emphasize and cultivate editorial voice, and create an interface that
-forces authors and editors to touch the data.
+- Emphasize and cultivate editorial voice, and create an interface
+  that forces authors and editors to touch the data.
 
 Thoughts? Suggestions?
 
 **ETA:** I've started to work on `this wiki page outlining a "tumble
 manager" tool <http://cyborginstitute.com/wiki/tumblemanager/>`__. I
 also did a bit of textual refactoring on February 27, 2010
-

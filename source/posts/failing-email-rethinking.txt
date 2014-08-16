@@ -5,14 +5,6 @@ Failing Email: Rethinking
 .. post:: 2007-09-08
    :author: tychoish
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 My email management system is a failure.
 
 I have a lot of email addresses. I even have a text file that shows how
@@ -42,15 +34,16 @@ This is a pretty big project that would require me to do a number of
 things to straighten things out:
 
 - Deal with archiving my email. ie. taking existing emails and
-exporting these emails into a plain text format that I can grep
-through when I need to. Store these text files externally.
+  exporting these emails into a plain text format that I can grep
+  through when I need to. Store these text files externally.
+
 - Reorganize system to rely more on search and less on a complex and
-deranged file system, more or less modled on gmail's "Stared,"
-"Inbox," and "Archived" Model, using smart folders to take care of
-day to day operation in Mail.app.
+  deranged file system, more or less modled on gmail's "Stared,"
+  "Inbox," and "Archived" Model, using smart folders to take care of
+  day to day operation in Mail.app.
+
 - Create a revised system of filters, that can sort my mail effectively
-with only a few simple filters. Implement these filters in both
-Mail.app in the new gmail account.
+  with only a few simple filters. Implement these filters in both
+  Mail.app in the new gmail account.
 
 *Sigh*
-

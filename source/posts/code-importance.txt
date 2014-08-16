@@ -68,11 +68,9 @@ is a start.
 
 Thoughts?
 
-.. [1]
-The truth is that as programs become more complex, code bases grow
-older, and the lion's share of the current generation of programmers
-has grown up on pretty high level languages and problem spaces, even
-among the technically sophisticated there aren't a lot of people who
-are standing around ready to hack on a project with several thousand
-lines of C code.
-
+.. [1]  The truth is that as programs become more complex, code bases grow
+   older, and the lion's share of the current generation of programmers
+   has grown up on pretty high level languages and problem spaces, even
+   among the technically sophisticated there aren't a lot of people who
+   are standing around ready to hack on a project with several thousand
+   lines of C code.

@@ -44,41 +44,38 @@ if you haven't already, you'll be glad you did.
 
 ::
 
-(setq-default inhibit-startup-message 't
-initial-scratch-message 'nil
-save-place t
-scroll-bar-mode nil
-tool-bar-mode nil
-menu-bar-mode nil
-scroll-margin 0
-indent-tabs-mode nil
-flyspell-issue-message-flag 'nil
-size-indication-mode t
-scroll-conservatively 25
-scroll-preserve-screen-position 1
-cursor-in-non-selected-windows nil)
+   (setq-default inhibit-startup-message 't
+                 initial-scratch-message 'nil
+                 save-place t
+                 scroll-bar-mode nil
+                 tool-bar-mode nil
+                 menu-bar-mode nil
+                 scroll-margin 0
+                 indent-tabs-mode nil
+                 flyspell-issue-message-flag 'nil
+                 size-indication-mode t
+                 scroll-conservatively 25
+                 scroll-preserve-screen-position 1
+                 cursor-in-non-selected-windows nil)
 
-(setq default-frame-alist '((font-backend . "xft")
-(font . "Inconsolata-14")
-(vertical-scroll-bars . 0)
-(menu-bar-lines . 0)
-(tool-bar-lines . 0)
-(alpha 86 84)))
+   (setq default-frame-alist '((font-backend . "xft")
+                               (font . "Inconsolata-14")
+                               (vertical-scroll-bars . 0)
+                               (menu-bar-lines . 0)
+                               (tool-bar-lines . 0)
+                               (alpha 86 84)))
 
-(tool-bar-mode -1)
-(scroll-bar-mode -1)
-(menu-bar-mode -1)
+   (tool-bar-mode -1)
+   (scroll-bar-mode -1)
+   (menu-bar-mode -1)
 
 Hope this helps you and/or anyone else that might have run into this
 problem.
 
-.. [1]
-I'd like to add the citation and more information here, but can't
-find it.
+.. [1] I'd like to add the citation and more information here, but can't
+   find it.
 
-.. [2]
-To be fair, I mostly don't use the GUI elements in emacs, though
-having emacs instances outside of the terminal is nice for displaying
-images when using emacs-w3m, and for having a little bit of
-additional display flexibility for some more rich modes.
-
+.. [2] To be fair, I mostly don't use the GUI elements in emacs, though
+   having emacs instances outside of the terminal is nice for displaying
+   images when using emacs-w3m, and for having a little bit of
+   additional display flexibility for some more rich modes.

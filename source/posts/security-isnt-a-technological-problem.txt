@@ -47,16 +47,16 @@ With luck, teaching more people to think about security processes will
 mean that users will generally understand:
 
 - how encryption works, and be more amenable to managing their own
-cryptography identities and infrastructure. (PGP and SSH)
+  cryptography identities and infrastructure. (PGP and SSH)
 
 - how networking works on a basic level to be able to configure, set,
-and review network security. (LAN Administration, NetFilter)
+  and review network security. (LAN Administration, NetFilter)
 
 - how passwords are stored and used, and what makes strong passwords
-that are easy to remember and difficult to break.
+  that are easy to remember and difficult to break.
 
 - how to control and consolidate identity systems to minimize social
-engineering vulnerabilities. (OpenID, OAuth, etc.)
+  engineering vulnerabilities. (OpenID, OAuth, etc.)
 
 There's a lot of pretty basic knowledge that I think most people don't
 have. At the same time, I think it's safe to say that most of the
@@ -67,7 +67,5 @@ services that would make better security practices easier to maintain
 
 Stay smart.
 
-.. [1]
-Security, being a process, rather than a product.
-`Cite <http://www.schneier.com/crypto-gram-0005.html>`__.
-
+.. [1] Security, being a process, rather than a product.
+   `Cite <http://www.schneier.com/crypto-gram-0005.html>`__.

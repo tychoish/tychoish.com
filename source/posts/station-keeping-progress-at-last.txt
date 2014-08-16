@@ -70,10 +70,7 @@ this experience.
 
 In the mean time, be well, tycho
 
-.. [1]
-In the format of SeriesNumber.InstalmentNumber
+.. [1] In the format of SeriesNumber.InstalmentNumber
 
-.. [2]
-In fairness, I did have a couple abortive attempts at non-SF fiction
-last summer, that I consider shameful at best.
-
+.. [2] In fairness, I did have a couple abortive attempts at non-SF
+   fiction last summer, that I consider shameful at best.

@@ -16,618 +16,453 @@ to tycho@tealart.com. Cheers, tycho
 
 .. raw:: html
 
-<hr />
 
-<h2>
+   <hr />
 
-INT. ANOTHER ROUND, a booth in the far corner.
+   <h2>
+   INT. ANOTHER ROUND, a booth in the far corner.
+   </h2>
 
-.. raw:: html
+   <p>
+   They both sip from their drinks leisurely. DAVID reclines and keeps a
+   gentle hand on his bottle at all times, ELI sits up straight and only
+   picks up his bottle occasionally.
+   </p>
 
-</h2>
+   <dl><dt class="character">
+   ELI BANNER
 
-<p>
+   </dt>
+   <dd>
+   So, have you heard anything?
 
-They both sip from their drinks leisurely. DAVID reclines and keeps a
-gentle hand on his bottle at all times, ELI sits up straight and only
-picks up his bottle occasionally.
+   </dd></dl>
 
-.. raw:: html
 
-</p>
+   <dl><dt class="character">
 
-<dl><dt class="character">
+   DAVID CONRAD
 
-ELI BANNER
+   </dt>
+   <dd>
 
-.. raw:: html
+   Um? Anything? I'm not in your intelligence department, I am actually
+   retired. I think I've done my bit--
 
-</dt>
-<dd>
+   </dd></dl>
 
-So, have you heard anything?
+   <dl><dt class="character">
 
-.. raw:: html
+   ELI BANNER
 
-</dd></dl>
+   </dt>
+   <dd>
 
-<dl><dt class="character">
+   People like you don't retire, the Navy wouldn't allow it. You have the
+   only real social space on the station, you have to hear things.
 
-DAVID CONRAD
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   DAVID CONRAD
 
-Um? Anything? I'm not in your intelligence department, I am actually
-retired. I think I've done my bit--
+   </dt>
+   <dd>
 
-.. raw:: html
+   We only don't retire when you don't want us to. From what I've seen you
+   have a great staff, and that Sian is a great officer.
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <dl><dt class="character">
 
-ELI BANNER
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dt>
-<dd>
+   He is, you're right, but don't distract me. You should have my job now,
+   and we both know it.
 
-People like you don't retire, the Navy wouldn't allow it. You have the
-only real social space on the station, you have to hear things.
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dd></dl>
+   DAVID CONRAD
 
-<dl><dt class="character">
+   </dt>
+   <dd>
 
-DAVID CONRAD
+   Weren't we decided that this is a shit assignment for you. You'd have
+   been an admiral otherwise. Didn't Admiral Roth apologize for sending you
+   out here.
 
-.. raw:: html
+   </dd></dl>
 
-</dt>
-<dd>
+   <dl><dt class="character">
 
-We only don't retire when you don't want us to. From what I've seen you
-have a great staff, and that Sian is a great officer.
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dd></dl>
+   You're here, how bad can it be? And besi--
 
-<dl><dt class="character">
+   </dd></dl>
 
-ELI BANNER
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dt>
-<dd>
+   </dt>
+   <dd>
 
-He is, you're right, but don't distract me. You should have my job now,
-and we both know it.
+   Irrelevant argument. I'm not an officer any more, and it's an
+   interesting place for Marc to practice, and for me to be retired.
 
-.. raw:: html
+   </dd></dl>
 
-</dd></dl>
+   <dl><dt class="character">
 
-<dl><dt class="character">
+   ELI BANNER
 
-DAVID CONRAD
+   </dt>
+   <dd>
 
-.. raw:: html
+   --besides, this is the most high-profile post in the entire League. I'm
+   surprised Roth didn't take it for himself.
 
-</dt>
-<dd>
+   </dd></dl>
 
-Weren't we decided that this is a shit assignment for you. You'd have
-been an admiral otherwise. Didn't Admiral Roth apologize for sending you
-out here.
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dd></dl>
+   </dt>
+   <dd>
 
-<dl><dt class="character">
+   He probably wanted to, but one of his cronies probably convinced him
+   that it was better to wait out another thousand years in
+   interstellar-transit. He probably thinks that that'll give him a better
+   chance at the top...
 
-ELI BANNER
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   ELI BANNER
 
-You're here, how bad can it be? And besi--
+   </dt>
+   <dd>
 
-.. raw:: html
+   He's been around that long? No wonder.
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <dl><dt class="character">
 
-DAVID CONRAD
+   DAVID CONRAD
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dt>
-<dd>
+   Really, I know.
 
-Irrelevant argument. I'm not an officer any more, and it's an
-interesting place for Marc to practice, and for me to be retired.
+   </dd></dl>
 
-.. raw:: html
+   <p>
 
-</dd></dl>
+   DAVID takes a drink.
 
-<dl><dt class="character">
+   </p>
 
-ELI BANNER
+   <dl><dt class="character">
 
-.. raw:: html
+   ELI BANNER
 
-</dt>
-<dd>
+   </dt>
+   <dd>
 
---besides, this is the most high-profile post in the entire League. I'm
-surprised Roth didn't take it for himself.
+   He'd be a fool not to realize that that's a bad move. By that time,
+   he'll be a relic--
 
-.. raw:: html
+   </dd></dl>
 
-</dd></dl>
+   <dl><dt class="character">
 
-<dl><dt class="character">
+   DAVID CONRAD
 
-DAVID CONRAD
+   </dt>
+   <dd>
 
-.. raw:: html
+   Already is. But at least someone who has his ear has our best interests
+   at heart.
 
-</dt>
-<dd>
+   </dd></dl>
 
-He probably wanted to, but one of his cronies probably convinced him
-that it was better to wait out another thousand years in
-interstellar-transit. He probably thinks that that'll give him a better
-chance at the top...
+   <p>
 
-.. raw:: html
+   DAVID chuckles.
 
-</dd></dl>
+   </p>
 
-<dl><dt class="character">
+   <dl><dt class="character">
 
-ELI BANNER
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dt>
-<dd>
+   You? You did it?
 
-He's been around that long? No wonder.
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dd></dl>
+   DAVID CONRAD
 
-<dl><dt class="character">
+   </dt>
+   <dd>
 
-DAVID CONRAD
+   I'd rather you have a chance at the top than Roth.
 
-.. raw:: html
+   </dd></dl>
 
-</dt>
-<dd>
+   <dl><dt class="character">
 
-Really, I know.
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dd></dl>
+   Bastard.
 
-<p>
+   </dd></dl>
 
-DAVID takes a drink.
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</p>
+   </dt>
+   <dd>
 
-<dl><dt class="character">
+   You're welcome. If you ever want to be an Admiral, though...
 
-ELI BANNER
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   ELI BANNER
 
-He'd be a fool not to realize that that's a bad move. By that time,
-he'll be a relic--
+   </dt>
+   <dd>
 
-.. raw:: html
+   I hate you. For this, you better start working for me.
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <dl><dt class="character">
 
-DAVID CONRAD
+   DAVID CONRAD
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dt>
-<dd>
+   Not on your life. You really are the best person for this job. Better
+   than I would be.
 
-Already is. But at least someone who has his ear has our best interests
-at heart.
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dd></dl>
+   ELI BANNER
 
-<p>
+   </dt>
+   <dd>
 
-DAVID chuckles.
+   Wait, if you're still in, why not just do the job yourself. You could.
 
-.. raw:: html
+   </dd></dl>
 
-</p>
+   <p>
 
-<dl><dt class="character">
+   ELI finishes his drink.
 
-ELI BANNER
+   </p>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   DAVID CONRAD
 
-You? You did it?
+   </dt>
+   <dd>
 
-.. raw:: html
+   Because it's yours, I've had my fun being in charge and... out front.
+   I'm done with that. I promise you. You're right, the Navy won't really
+   let me go completely, but if they listen to me when I talk, I'll take
+   it. Out here, I'm in no danger of being called to lecture and teach
+   constantly,
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <dl><dt class="character">
 
-DAVID CONRAD
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dt>
-<dd>
+   So I guess that leaves me--
 
-I'd rather you have a chance at the top than Roth.
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dd></dl>
+   DAVID CONRAD
 
-<dl><dt class="character">
+   </dt>
+   <dd>
 
-ELI BANNER
+   --with a good bar and very capable backup. Speaking of the bar...
 
-.. raw:: html
+   </dd></dl>
 
-</dt>
-<dd>
+   <p>
 
-Bastard.
+   DAVID finishes the rest of his drink.
 
-.. raw:: html
+   </p>
 
-</dd></dl>
+   <dd>
 
-<dl><dt class="character">
+   Thank you for the drink, now trust me, it there's something that you
+   need to know I'll tell you, otherwise...
 
-DAVID CONRAD
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   ELI BANNER
 
-You're welcome. If you ever want to be an Admiral, though...
+   </dt>
+   <dd>
 
-.. raw:: html
+   Leave you alone?
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <dl><dt class="character">
 
-ELI BANNER
+   DAVID CONRAD
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dt>
-<dd>
+   --don't try and conscript me. Again.
 
-I hate you. For this, you better start working for me.
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dd></dl>
+   ELI BANNER
 
-<dl><dt class="character">
+   </dt>
+   <dd>
 
-DAVID CONRAD
+   Ok... I guess.
 
-.. raw:: html
+   </dd>
+   <dd class="parenthetical">
 
-</dt>
-<dd>
+   (sly smile)
 
-Not on your life. You really are the best person for this job. Better
-than I would be.
+   </dd>
+   <dd>
 
-.. raw:: html
+   I'll keep you in the loop.
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <p>
 
-ELI BANNER
+   DAVID and ELI stand up.
 
-.. raw:: html
+   </p>
 
-</dt>
-<dd>
+   <dl><dt class="character">
 
-Wait, if you're still in, why not just do the job yourself. You could.
+   DAVID CONRAD
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dd></dl>
+   Please don't.
 
-<p>
+   </dd></dl>
 
-ELI finishes his drink.
+   <dl><dt class="character">
 
-.. raw:: html
+   ELI BANNER
 
-</p>
+   </dt>
+   <dd>
 
-<dl><dt class="character">
+   I have to.
 
-DAVID CONRAD
+   </dd></dl>
 
-.. raw:: html
+   <dl><dt class="character">
 
-</dt>
-<dd>
+   DAVID CONRAD
 
-Because it's yours, I've had my fun being in charge and... out front.
-I'm done with that. I promise you. You're right, the Navy won't really
-let me go completely, but if they listen to me when I talk, I'll take
-it. Out here, I'm in no danger of being called to lecture and teach
-constantly,
+   </dt>
+   <dd>
 
-.. raw:: html
+   I won't read it.
 
-</dd></dl>
+   </dd></dl>
 
-<dl><dt class="character">
+   <dl><dt class="character">
 
-ELI BANNER
+   ELI BANNER
 
-.. raw:: html
+   </dt>
+   <dd>
 
-</dt>
-<dd>
+   Whatever, you will read it.
 
-So I guess that leaves me--
+   </dd></dl>
 
-.. raw:: html
+   <p>
 
-</dd></dl>
+   DAVID laughs knowing that ELI is probably right about this point. DAVID
+   pulls ELI into a quick friendly hug.
 
-<dl><dt class="character">
+   </p>
 
-DAVID CONRAD
+   <dl><dt class="character">
 
-.. raw:: html
+   DAVID CONRAD
 
-</dt>
-<dd>
+   </dt>
+   <dd>
+   I think you should get out now and get some sleep for your next
+   shift--when ever you decide that is--or it'll be my turn to hate you.
+   </dd></dl>
 
---with a good bar and very capable backup. Speaking of the bar...
+   <p>
+   ELI turns and leaves. DAVID watches and we
+   </p>
 
-.. raw:: html
-
-</dd></dl>
-
-<p>
-
-DAVID finishes the rest of his drink.
-
-.. raw:: html
-
-</p>
-
-<dd>
-
-Thank you for the drink, now trust me, it there's something that you
-need to know I'll tell you, otherwise...
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-ELI BANNER
-
-.. raw:: html
-
-</dt>
-<dd>
-
-Leave you alone?
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-DAVID CONRAD
-
-.. raw:: html
-
-</dt>
-<dd>
-
---don't try and conscript me. Again.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-ELI BANNER
-
-.. raw:: html
-
-</dt>
-<dd>
-
-Ok... I guess.
-
-.. raw:: html
-
-</dd>
-<dd class="parenthetical">
-
-(sly smile)
-
-.. raw:: html
-
-</dd>
-<dd>
-
-I'll keep you in the loop.
-
-.. raw:: html
-
-</dd></dl>
-
-<p>
-
-DAVID and ELI stand up.
-
-.. raw:: html
-
-</p>
-
-<dl><dt class="character">
-
-DAVID CONRAD
-
-.. raw:: html
-
-</dt>
-<dd>
-
-Please don't.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-ELI BANNER
-
-.. raw:: html
-
-</dt>
-<dd>
-
-I have to.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-DAVID CONRAD
-
-.. raw:: html
-
-</dt>
-<dd>
-
-I won't read it.
-
-.. raw:: html
-
-</dd></dl>
-
-<dl><dt class="character">
-
-ELI BANNER
-
-.. raw:: html
-
-</dt>
-<dd>
-
-Whatever, you will read it.
-
-.. raw:: html
-
-</dd></dl>
-
-<p>
-
-DAVID laughs knowing that ELI is probably right about this point. DAVID
-pulls ELI into a quick friendly hug.
-
-.. raw:: html
-
-</p>
-
-<dl><dt class="character">
-
-DAVID CONRAD
-
-.. raw:: html
-
-</dt>
-<dd>
-
-I think you should get out now and get some sleep for your next
-shift--when ever you decide that is--or it'll be my turn to hate you.
-
-.. raw:: html
-
-</dd></dl>
-
-<p>
-
-ELI turns and leaves. DAVID watches and we
-
-.. raw:: html
-
-</p>
-
-<h3>
-
-FADE OUT.
-
-.. raw:: html
-
-</h3>
+   <h3>
+   FADE OUT.
+   </h3>
 
 *"Walking Away, Part 1" was written by `tycho
 garren <http://tychoish.com/tycho>`__ the creator of
-`TealArt <http://tychoish.com>`__ and [Station
-Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
+`TealArt <http://tychoish.com>`__ and `Station
+Keeping <http://tychoish.com/hanm>`_. He is a student and knitter by day
 and a science fiction writer by night, you can read his work elsewhere
 on `TealArt <http://tychoish.com>`__ and at
 `~/tychoish <http://tychoish.com>`__.*
-

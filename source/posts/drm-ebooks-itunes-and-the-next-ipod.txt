@@ -75,9 +75,7 @@ are ever to succeed they have to be affordable enough, they have to be
 full featured, and any DRM has to be transparent and unobtrusive. I'm
 just saying....
 
-.. raw:: html
-
-<hr width="20%" />
+--------------------
 
 The last iPod update was really incremental. Lots of folks were
 predicting a phone, widescreen, or wireless capabilities, and we didn't
@@ -95,63 +93,32 @@ somehow. Why? Because it's apple, and that's what they do.
 So having said that: I think the next feature will be etext capability.
 Here are some reasons:
 
-.. raw:: html
+- iPod already has limited PIM (contacts, calendar, notes) functionality.
+  Apple appears to be of the opinion that entering data in a mobile device
+  is less then effective on all sorts of levels, but that viewing it
+  whilst mobile, is much more effective. Because of that I don't suspect
+  that they will go down the PDA road, they're already there.
 
-<ul>
-<li>
+- iTunes has functionality for managing PDFs, it's a rather dinky feature
+  for it to be coded just for the odd album booklet, so there's probably
+  more code just under the surface.
 
-iPod already has limited PIM (contacts, calendar, notes) functionality.
-Apple appears to be of the opinion that entering data in a mobile device
-is less then effective on all sorts of levels, but that viewing it
-whilst mobile, is much more effective. Because of that I don't suspect
-that they will go down the PDA road, they're already there.
+- If they're going to make the screen a little bit bigger for videos which
+  I think is a demand (if you made the scroll wheel a bit smaller, you
+  could probably fit a 2.5x2 screen on an ipod in the same form, you have
+  a pretty good sized screen for eBook reading.
 
-.. raw:: html
+- The iPod is a device that is *built* around scrolling, and this is the
+  main control that you would want in an ebook device. It seems like all
+  the pieces are there.
 
-</li>
-<li>
-
-iTunes has functionality for managing PDFs, it's a rather dinky feature
-for it to be coded just for the odd album booklet, so there's probably
-more code just under the surface.
-
-.. raw:: html
-
-</li>
-<li>
-
-If they're going to make the screen a little bit bigger for videos which
-I think is a demand (if you made the scroll wheel a bit smaller, you
-could probably fit a 2.5x2 screen on an ipod in the same form, you have
-a pretty good sized screen for eBook reading.
-
-.. raw:: html
-
-</li>
-<li>
-
-The iPod is a device that is *built* around scrolling, and this is the
-main control that you would want in an ebook device. It seems like all
-the pieces are there.
-
-.. raw:: html
-
-</li>
-<li>
-
-By establishing themselves as a successful content provider for music
-and television content, I think Apple will likely be able to--through
-the iTunes (anyone else waiting for the rename to: iMedia?) convince the
-print publishers that they have the market, and DRM system that will
-make content producers willing to come on board. And this is the key, of
-course. It always is.
-
-.. raw:: html
-
-</li>
-</ul>
+- By establishing themselves as a successful content provider for music
+  and television content, I think Apple will likely be able to--through
+  the iTunes (anyone else waiting for the rename to: iMedia?) convince the
+  print publishers that they have the market, and DRM system that will
+  make content producers willing to come on board. And this is the key, of
+  course. It always is.
 
 We'll see.
 
 Cheers!
-

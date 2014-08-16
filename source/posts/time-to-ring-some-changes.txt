@@ -15,106 +15,55 @@ and pressed out, so things should be good for a while, and I think
 you'll enjoy all of the enhancements we've made. So without further ado,
 here's the litany of accomplishments:
 
-.. raw:: html
+- The addition of Paula Forbes. A writer friend of mine extraordinaire.
+  Her stuff is great, and I hope you enjoy it. She'll be posting stuff all
+  over the site, I'm told, but look for journal entries.
 
-<ul>
-<li>
+- Peter McCabe is back for more. For somewhat obvious reasons, Peter
+  hasn't been overly prolific recently (read his previous posts for
+  information), but he's promised some more entries, some potentially
+  lighter material as well.
 
-The addition of Paula Forbes. A writer friend of mine extraordinaire.
-Her stuff is great, and I hope you enjoy it. She'll be posting stuff all
-over the site, I'm told, but look for journal entries.
+- **New Skins** and new page. Before there were four skins which weren't
+  very compatible with most non-IE browsers. Now there are seven, with a
+  total of 18 options such as different fonts, alternate sidebar location
+  and additional browser compatibility.
 
-.. raw:: html
+- Content Pages: These are all of the pages on TealArt which aren't
+  dirrectly part of the logs. Lists of links, contributor profiles, the
+  skin page, and other nifty stuff like that. The Content Pages link just
+  gives you a good directory to all of this stuff, all in one place.
 
-</li>
-<li>
+- Sam's Blogwhore Blogroll Here's just a list of links, powered by
+  Blogrolling.com of the blogs and other related favorites that I
+  enjoy. I have it on good authority that Chris is planning to have a
+  similar page soon, but we'll see. Enjoy this as a kind of supplement
+  to the "Fresh Linkages" section.
 
-Peter McCabe is back for more. For somewhat obvious reasons, Peter
-hasn't been overly prolific recently (read his previous posts for
-information), but he's promised some more entries, some potentially
-lighter material as well.
+- Paradigm Brainfeed: Some of you probably remember when we tried to
+  have another log on TealArt that was supposed to be more relaxed and
+  less formal than the main TealArt Journal. We called it Paradigm,
+  and it didn't really work out as we might have intended. So we
+  stoped doing it.  But then we decided to bring it back as a sidebar
+  function in those skins with sidebars, so now we're trying it out
+  again, and we'll see if it works. All the old paradigm entries are
+  still there if you're interested, by the way.
 
-.. raw:: html
+- A redesign of the way Featured Quotes and Fresh Linkage
+  operate. Better archiving, better functionality on the sidebar. It's
+  a good set up.  You'll also note the slight change in name from the
+  less creative "TealArt Links" and "TealArt Quotes," but it's still
+  the same great stuff, only a little better
 
-</li>
-<li>
+- Staff and Crew This page has all of the contact information for the
+  TealArt staff if you're interested in learning more about us and
+  conversing with us. Profiles are forthcoming, I'm told
 
-**New Skins** and new page. Before there were four skins which weren't
-very compatible with most non-IE browsers. Now there are seven, with a
-total of 18 options such as different fonts, alternate sidebar location
-and additional browser compatibility.
+- CollectiveArts is closing, and we're going to dedicate this energy
+  towards TealArt. If your interested in the domain, talk to me, otherwise
+  say your farewells.
 
-.. raw:: html
-
-</li>
-<li>
-
-Content Pages: These are all of the pages on TealArt which aren't
-dirrectly part of the logs. Lists of links, contributor profiles, the
-skin page, and other nifty stuff like that. The Content Pages link just
-gives you a good directory to all of this stuff, all in one place.
-
-.. raw:: html
-
-</li>
-<li>
-
-Sam's Blogwhore Blogroll Here's just a list of links, powered by
-Blogrolling.com of the blogs and other related favorites that I enjoy. I
-have it on good authority that Chris is planning to have a similar page
-soon, but we'll see. Enjoy this as a kind of supplement to the "Fresh
-Linkages" section.
-
-.. raw:: html
-
-</li>
-<li>
-
-Paradigm Brainfeed: Some of you probably remember when we tried to have
-another log on TealArt that was supposed to be more relaxed and less
-formal than the main TealArt Journal. We called it Paradigm, and it
-didn't really work out as we might have intended. So we stoped doing it.
-But then we decided to bring it back as a sidebar function in those
-skins with sidebars, so now we're trying it out again, and we'll see if
-it works. All the old paradigm entries are still there if you're
-interested, by the way.
-
-.. raw:: html
-
-</li>
-<li>
-
-A redesign of the wayFeatured Quotes and Fresh Linkage operate. Better
-archiving, better functionality on the sidebar. It's a good set up.
-You'll also note the slight change in name from the less creative
-"TealArt Links" and "TealArt Quotes," but it's still the same great
-stuff, only a little better
-
-.. raw:: html
-
-</li>
-<li>
-
-Staff and Crew This page has all of the contact information for the
-TealArt staff if you're interested in learning more about us and
-conversing with us. Profiles are forthcoming, I'm told
-
-.. raw:: html
-
-</li>
-<li>
-
-CollectiveArts is closing, and we're going to dedicate this energy
-towards TealArt. If your interested in the domain, talk to me, otherwise
-say your farewells.
-
-.. raw:: html
-
-</li>
-</ul>
-
-That's it! Enjoy, and If you have any comments, questions, or
-suggestions feel free to talk to us about them. Also, remember to tell
-your friends about us, word of mouth is the best (and our only) method
-of promotion. Thanks again, as always, for reading.
-
+- That's it! Enjoy, and If you have any comments, questions, or
+  suggestions feel free to talk to us about them. Also, remember to tell
+  your friends about us, word of mouth is the best (and our only) method
+  of promotion. Thanks again, as always, for reading.

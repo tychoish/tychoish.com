@@ -62,7 +62,6 @@ for the new series! Don't go anywhere.
 
 Best, tycho
 
-.. [1]
-The sad part about this paragraph is that I think it probably mirrors
-the way I talk/think with an all too depressing amount of truth.
+.. [1] The sad part about this paragraph is that I think it probably mirrors
+   the way I talk/think with an all too depressing amount of truth.
 

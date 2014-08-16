@@ -14,153 +14,144 @@ sense. The list is in the Following format.
 
 - *Song Title*
 
-- *Artist*
-- *Label*
+  - *Artist*
+
+  - *Label*
 
 CD 1
 ----
 
 - Banks of the Sweet Primroses
 
-- Brian Peters
-- `Sharper than the
-Thorn <http://www.informatik.uni-hamburg.de/~zierke/folk/records/brianpeters.html>`__
-- Pugwash Music
+  - Brian Peters - `Sharper than the Thorn <http://www.informatik.uni-hamburg.de/~zierke/folk/records/brianpeters.html>`__
+  - Pugwash Music
 
 - Young Collins
 
-- Wood, Wilson, Carthy
-- Wood, Wilson, Carthy
-- Topic Records
+  - Wood, Wilson, Carthy
+  - Wood, Wilson, Carthy
+  - Topic Records
 
 - London
 
-- `Steeleye Span <http://steeleye.freeservers.com/>`__
-- Spanning the Years
-- Chrysalis Records
+  - `Steeleye Span <http://steeleye.freeservers.com/>`__
+  - Spanning the Years
+  - Chrysalis Records
 
 - Leaving of Liverpool
 
-- Louis Killen
-- `Sailors, Ships & Chanteys, Vol.
-1 <http://www.waterbug.com/catalog/index.php?cPath=55>`__
+  - Louis Killen
+  - `Sailors, Ships & Chanteys, Vol. 1 <http://www.waterbug.com/catalog/index.php?cPath=55>`__
 
 - Woodstock
 
-- Richard Thompson
-- `Came upon a Child of God: A Tribute to Joni
-Mitchell <http://www.amazon.com/Came-upon-Child-God-Mitchell/dp/B000051XSQ>`__
-- Dressed to Kill
+  - Richard Thompson
+  - `Came upon a Child of God: A Tribute to Joni Mitchell <http://www.amazon.com/Came-upon-Child-God-Mitchell/dp/B000051XSQ>`__
+  - Dressed to Kill
 
 - Turpin Hero
 
-- `Eliza Carthy <http://elizanet.org.uk/>`__
-- Rough Music
-- Topic Records
+  - `Eliza Carthy <http://elizanet.org.uk/>`__
+  - Rough Music
+  - Topic Records
 
 - Never Tire of the Road
 
-- Andy Irvine
-- `Rain on the
-Roof <http://www.andyirvine.com/albums/rain-roof.html>`__
+  - Andy Irvine
+  - `Rain on the Roof <http://www.andyirvine.com/albums/rain-roof.html>`__
 
 - Kolo Stara Vlajna
 
-- `Kornog <http://www.arbedkeltiek.com/saozneg/music/kornog.htm>`__
-- Kornog
-- Green Linnet
+  - `Kornog <http://www.arbedkeltiek.com/saozneg/music/kornog.htm>`__
+  - Kornog
+  - Green Linnet
 
 CD 2
 ----
 
 - Thick as a Brick (Side 1)
 
-- `Jethro Tull <http://www.j-tull.com/>`__
-- `Thick as a
-Brick <http://remus.rutgers.edu/JethroTull/Albums/ThickAsABrick-lyrics.html>`__
-- Chrysalis Records
+  - `Jethro Tull <http://www.j-tull.com/>`__
+  - `Thick as a Brick <http://remus.rutgers.edu/JethroTull/Albums/ThickAsABrick-lyrics.html>`__
+  - Chrysalis Records
 
 - This is My Family
 
-- `Jan Marra <http://www.janmarra.com/>`__
-- Songs for Collectors
-- Self
+  - `Jan Marra <http://www.janmarra.com/>`__
+  - Songs for Collectors
+  - Self
 
 - Triad
 
-- Crosby and Nash
-- `Another Stoney
-Evening <http://www.amazon.com/Another-Stoney-Evening-Crosby-Nash/dp/B000002VKJ>`__
-- Arista
+  - Crosby and Nash
+  - `Another Stoney Evening <http://www.amazon.com/Another-Stoney-Evening-Crosby-Nash/dp/B000002VKJ>`__
+  - Arista
 
 - Icarus
 
-- Martin and Jessica Simpson
-- Red Roses
-- Thunderbird
+  - Martin and Jessica Simpson
+  - Red Roses
+  - Thunderbird
 
 - Soldier, Soldier / The Flowers of Edinburgh
 
-- Brass Monkey
-- Sound and Rumor
-- Topic Records
+  - Brass Monkey
+  - Sound and Rumor
+  - Topic Records
 
 CD 3
 ----
 
 - Sell Your Labour, Not Your Soul
 
-- Brian McNeill
-- If it Wisnae For The Union
-- Greentrax
+  - Brian McNeill
+  - If it Wisnae For The Union
+  - Greentrax
 
 - The World Turned Upside Down
 
-- Lehto and Wright
-- The Thrashing Machine and Other Stories
-- New Folk Records
+  - Lehto and Wright
+  - The Thrashing Machine and Other Stories
+  - New Folk Records
 
 - Ned of the Hill
 
-- Kate Rusby and Kathryn Roberts
-- Kate Rusby and Kathryn Roberts
-- Compass Records
+  - Kate Rusby and Kathryn Roberts
+  - Kate Rusby and Kathryn Roberts
+  - Compass Records
 
 - Andalus/Radio Marrakesh
 
-- Richard Thompson
-- Strict Tempo!
-- Hannibal
+  - Richard Thompson
+  - Strict Tempo!
+  - Hannibal
 
 - July, July!
 
-- The Decemberists
-- Castaways and Cutouts
-- Kill Rock Stars
+  - The Decemberists
+  - Castaways and Cutouts
+  - Kill Rock Stars
 
 - King James Version
 
-- Eliza Carthy
-- Rough Music
-- Topic Records
+  - Eliza Carthy
+  - Rough Music
+  - Topic Records
 
 - The Rose in June
 
-- Ian Robb
-- Jiig
-- Fallen Angle Music
+  - Ian Robb
+  - Jiig
+  - Fallen Angle Music
 
 - Hallelujah
 
-- Jeff Buckley
-- Grace
-- Sony
+  - Jeff Buckley
+  - Grace
+  - Sony
 
 - The Lord is in this Place
 
-- Fairport Convention
-- What we did on our Holidays
-- Umvd Import
-
-
-
+  - Fairport Convention
+  - What we did on our Holidays
+  - Umvd Import

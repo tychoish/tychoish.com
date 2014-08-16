@@ -67,45 +67,44 @@ power user (yet.) So the question on my mind is, "where's the mutt of IM
 clients?" Here's what I think it would look like:
 
 - It would need to connect to AIM, Yahoo and Jabber. This is my
-personal prefrence. MSN is pretty irrelevant to me, an ICQ these days
-*is* AIM. Multiple connections would be good.
+  personal prefrence. MSN is pretty irrelevant to me, an ICQ these
+  days *is* AIM. Multiple connections would be good.
 
-- I think the interface should draw on the mutt with sidebar model. IMs
-needn't fill a whole window, and the sidebar works really well.
+- I think the interface should draw on the mutt with sidebar
+  model. IMs needn't fill a whole window, and the sidebar works really
+  well.
 
 - It needs to have some understanding of a tabbed interface. While I
-understand that many people (and to some degree, myself included)
-don't actively particpate in more than one chat at a time, I often
-have more than one window open at a time. Conversations go dormant,
-people step out, you have to ask a quick question, there bots on the
-IM network feeding you (useless) information. Tabs are necessary.
+  understand that many people (and to some degree, myself included)
+  don't actively particpate in more than one chat at a time, I often
+  have more than one window open at a time. Conversations go dormant,
+  people step out, you have to ask a quick question, there bots on the
+  IM network feeding you (useless) information. Tabs are necessary.
 
 - It'd be better if the program was able to consistently manage and
-sync the contact/buddy list, and handle meta-contacts, than be able
-to do file transfers, or mutli-user chats.
+  sync the contact/buddy list, and handle meta-contacts, than be able
+  to do file transfers, or mutli-user chats.
 
 - Granular access controls. The networks I believe, allow you to set
-yourself invisible to certian people, and it would be really great to
-be able to write rules about which buddies got what kind of
-status/visibility settings.
+  yourself invisible to certian people, and it would be really great
+  to be able to write rules about which buddies got what kind of
+  status/visibility settings.
 
-- The key to "the mutt of" anything is the ability to take whatever you
-do, and bind it to a particular key command. So I'd like to be able
-to have "IM `Chris <http://www.cgkreality.com/>`__" bound to
-something, or be able to set various screen names visible or
-invisible depending on my context or trigger different complex
-visibility rules.
+- The key to "the mutt of" anything is the ability to take whatever
+  you do, and bind it to a particular key command. So I'd like to be
+  able to have "IM `Chris <http://www.cgkreality.com/>`__" bound to
+  something, or be able to set various screen names visible or
+  invisible depending on my context or trigger different complex
+  visibility rules.
 
 I think there's possibility. Thoughts? How do you manage your IM? [2]_
 
-.. [1]
-Even my beloved Adium, which operates as expected in most respects is
-compleatly inconsistent in how it stories and syncs the buddy list to
-the server. Or doesn't depending on the weather. Highly annoying.
+.. [1] Even my beloved Adium, which operates as expected in most
+   respects is compleatly inconsistent in how it stories and syncs the
+   buddy list to the server. Or doesn't depending on the
+   weather. Highly annoying.
 
-.. [2]
-Before anyone gets high-and-mighty about IM being a waste of time and
-attention, I generally use IM as a phone replacement because I can
-multi-task it, and becasue it doesn't have voicemail, and because
-it's almost always less awkward. Just saying. n
-
+.. [2] Before anyone gets high-and-mighty about IM being a waste of
+   time and attention, I generally use IM as a phone replacement
+   because I can multi-task it, and becasue it doesn't have voicemail,
+   and because it's almost always less awkward. Just saying. n

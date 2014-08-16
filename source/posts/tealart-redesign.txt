@@ -18,8 +18,6 @@ My biggest concern is that there's too much happening, and that there's
 not enough whitespace. My second biggest concern is that people won't
 see the mono-spaced font for the comforting kitsch that I see in it.
 
-.. [1]
-In so far as I hand coded everything more or less by hand in a text
-editor, rather than tweaking an existing template. I'm pleased with
-the result.
-
+.. [1] In so far as I hand coded everything more or less by hand in a
+   text editor, rather than tweaking an existing template. I'm pleased
+   with the result.

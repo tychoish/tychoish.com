@@ -7,14 +7,6 @@ Fall Leaves
 
 I have an admission to make.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 My first novel opened with the scene of a sort of "perfect fall day" *on
 Mars.*
 
@@ -25,4 +17,3 @@ a like 2,000 word space opera with a sort of "the bad guys always get
 away, but at least we'll always have each other," kind of piece.
 
 Only without the trees this time.
-

@@ -34,20 +34,16 @@ but anyway, I like the way YouTube supports this kind of stuff. Enjoy.
 
 .. raw:: html
 
-<object width="425" height="350">
+   <object width="425" height="350">
 
-.. raw:: html
-
-<embed src="http://www.youtube.com/v/8cJdrr-ColM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+   <embed src="http://www.youtube.com/v/8cJdrr-ColM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
 And... I should be writing.
 
-.. [1]
-I discovered after it was all paced out and plotted and half written
-that, even though 30k words is the perfect novella length in my mind,
-it's too long for most magazine-type publications to publish as a
-whole, and too short for them to publish as a serial. Alas. Plus or
-minus 10k, and it'd work. As it I have to look for anthologies or
-wait until I finish the next project and sell them together. Or
-something.
-
+.. [1] I discovered after it was all paced out and plotted and half written
+   that, even though 30k words is the perfect novella length in my mind,
+   it's too long for most magazine-type publications to publish as a
+   whole, and too short for them to publish as a serial. Alas. Plus or
+   minus 10k, and it'd work. As it I have to look for anthologies or
+   wait until I finish the next project and sell them together. Or
+   something.

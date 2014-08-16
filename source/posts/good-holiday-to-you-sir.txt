@@ -5,14 +5,4 @@ Good Holiday to You Sir
 .. post:: 2007-09-19
    :author: tychoish
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
-`Celebrate in Good
-Health! <http://www.talklikeapirateday.com/wordpress/>`__
-
+`Celebrate in Good Health! <http://www.talklikeapirateday.com/wordpress/>`__

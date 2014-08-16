@@ -14,28 +14,28 @@ software. There are pros and cons to every business model, but to review
 the basic ideas are:
 
 - Using open source software as a core and building a thin layer of
-proprietary technology on top of the open source core. Sometimes this
-works well enough (e.g. SugarCRM, OS X,) and sometimes this doesn't
-seem to work as well (e.g. MySQL, etc.)
+  proprietary technology on top of the open source core. Sometimes this
+  works well enough (e.g. SugarCRM, OS X,) and sometimes this doesn't
+  seem to work as well (e.g. MySQL, etc.)
 
 - Selling services around open source software. This includes support
-contracts, training services, and infrastructure provisioning.
-Enterprises and other organizations and projects need expertise to
-make technology work, and the fact that open source doesn't bundle
-licensing fees with support contracts doesn't make the support (and
-other services) less useful or needed for open source.
+  contracts, training services, and infrastructure provisioning.
+  Enterprises and other organizations and projects need expertise to
+  make technology work, and the fact that open source doesn't bundle
+  licensing fees with support contracts doesn't make the support (and
+  other services) less useful or needed for open source.
 
 - Custom development services. Often open source projects provide a
-pretty framework for a technology, but require some level of
-customization to fit the needs and requirements of the "business
-case." The work can be a bit uneven, as with all consulting, but the
-need a service are both quit real. While the custom code may end up
-back in the upstream, sometimes this doesn't quite happen for a
-number of reasons. Custom development obviously overlaps with service
-and thin-proprietarization, but is distinct: it's not a it doesn't
-revolve around selling proprietary software, and it doesn't involve
-user support or systems administration. These distinctions can get
-blurry in some cases.
+  pretty framework for a technology, but require some level of
+  customization to fit the needs and requirements of the "business
+  case." The work can be a bit uneven, as with all consulting, but the
+  need a service are both quit real. While the custom code may end up
+  back in the upstream, sometimes this doesn't quite happen for a
+  number of reasons. Custom development obviously overlaps with service
+  and thin-proprietarization, but is distinct: it's not a it doesn't
+  revolve around selling proprietary software, and it doesn't involve
+  user support or systems administration. These distinctions can get
+  blurry in some cases.
 
 In truth, when you consider how proprietary software actually convey
 value, it's really the same basic idea as the three models above.
@@ -61,4 +61,3 @@ of value. Thus it is incumbent upon open source developers and users to
 find all of the *real* sources of value that can be conveyed in the
 exchange of money for software, and find ways to support themselves and
 the software. How hard can it be?
-

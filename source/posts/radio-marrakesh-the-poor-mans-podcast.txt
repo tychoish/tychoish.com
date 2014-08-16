@@ -20,135 +20,50 @@ songs, which have a coherent political statement but also have great
 emotional power. I don't quite have the order worked out, so don't blame
 me there.
 
-.. raw:: html
-
-<ol>
-
 *Title - Artist - Album*
 
-.. raw:: html
+- Palaces of Gold - Martin Carthy - The Collection
 
-<li>
+- Ballad of Harry T. More - Sweet Honey in the Rock - The Women Gather
+  30th Anniversary
 
-Palaces of Gold - Martin Carthy - The Collection
+- Samson and Delilah - Spencer Bohren - Carry The Word
 
-.. raw:: html
+- A Prince Among Men - Andy Irvine - Rain on the Roof
 
-</li><li>
+- Time to Ring Some Changes - Richard Thompson - Starting as Henry the
+  Human Fly
 
-Ballad of Harry T. More - Sweet Honey in the Rock - The Women Gather
-30th Anniversary
+- The Monument (Lest We Forget) - Andy Irvine - Rain on the Roof
 
-.. raw:: html
+- Joe Hill (Ballad of, to the Tune of John Hardy) - Phil Ochs - Montreal,
+  Canada - 22 October 1966
 
-</li><li>
+- Hard Times of Old England - Steeleye Span - All Around My Hat
 
-Samson and Delilah - Spencer Bohren - Carry The Word
+- Joe Hill (*I Dreamt I Saw Joe Hill Last Night*) - Joan Baez - The Best
+  of Woodstock
 
-.. raw:: html
+- Wasn't That A Time - Pete Seeger
 
-</li><li>
+- Viva La Quince Brigada - Pete Seeger
 
-A Prince Among Men - Andy Irvine - Rain on the Roof
+- Five Years - Tom Smith - Debasement Tapes
 
-.. raw:: html
+- Raggedy - Pete Seeger - American Industrial Ballads
 
-</li><li>
+- Another Clearing Time - Stravaig - Movin' On
 
-Time to Ring Some Changes - Richard Thompson - Starting as Henry the
-Human Fly
+- Pharaoh - The House Band - Green Linnet 20th Anniversary Collection
 
-.. raw:: html
+- The Pit Stands Idle - Housebound - Groundwork
 
-</li><li>
+- Ballad of William Worthy - Phil Ochs - All the News that's Fit to Sing
 
-The Monument (Lest We Forget) - Andy Irvine - Rain on the Roof
+- The White Collar Holler - Stan Rogers - Between the Breaks... Live
 
-.. raw:: html
-
-</li><li>
-
-Joe Hill (Ballad of, to the Tune of John Hardy) - Phil Ochs - Montreal,
-Canada - 22 October 1966
-
-.. raw:: html
-
-</li><li>
-
-Hard Times of Old England - Steeleye Span - All Around My Hat
-
-.. raw:: html
-
-</li><li>
-
-Joe Hill (*I Dreamt I Saw Joe Hill Last Night*) - Joan Baez - The Best
-of Woodstock
-
-.. raw:: html
-
-</li><li>
-
-Wasn't That A Time - Pete Seeger
-
-.. raw:: html
-
-</li><li>
-
-Viva La Quince Brigada - Pete Seeger
-
-.. raw:: html
-
-</li><li>
-
-Five Years - Tom Smith - Debasement Tapes
-
-.. raw:: html
-
-</li><li>
-
-Raggedy - Pete Seeger - American Industrial Ballads
-
-.. raw:: html
-
-</li><li>
-
-Another Clearing Time - Stravaig - Movin' On
-
-.. raw:: html
-
-</li><li>
-
-Pharaoh - The House Band - Green Linnet 20th Anniversary Collection
-
-.. raw:: html
-
-</li><li>
-
-The Pit Stands Idle - Housebound - Groundwork
-
-.. raw:: html
-
-</li><li>
-
-Ballad of William Worthy - Phil Ochs - All the News that's Fit to Sing
-
-.. raw:: html
-
-</li><li>
-
-The White Collar Holler - Stan Rogers - Between the Breaks... Live
-
-.. raw:: html
-
-</li><li>
-
-I Ain't Marching Anymore - Phil Ochs - I Ain't Marching Anymore
-
-.. raw:: html
-
-</li></ol>
+- I Ain't Marching Anymore - Phil Ochs - I Ain't Marching Anymore
 
 So There you go. Enjoy
 
 Cheers!
-

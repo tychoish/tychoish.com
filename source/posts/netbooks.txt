@@ -45,12 +45,10 @@ At the same time, the price can't quite be beat.
 
 Thoughts? Debate?
 
-.. [1]
-Netbooks, are generally small (under 12 inches diagonal) laptop
-computers that are intended to sacrifice speed and power for smaller
-size, lower price, and more portability. This might seem like a lousy
-trade, but the truth is that we've reached a point where most
-users--even, or especially, power users--don't need super charged
-computers for their day-to-day use, and as a result a small, light
-cheap computer that's pretty good for most things.
-
+.. [1] Netbooks, are generally small (under 12 inches diagonal) laptop
+   computers that are intended to sacrifice speed and power for smaller
+   size, lower price, and more portability. This might seem like a lousy
+   trade, but the truth is that we've reached a point where most
+   users--even, or especially, power users--don't need super charged
+   computers for their day-to-day use, and as a result a small, light
+   cheap computer that's pretty good for most things.

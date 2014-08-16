@@ -83,8 +83,6 @@ can conceptualize how this would go.
 
 I look forward to hearing from you, and as always, I remain, tycho
 
-.. [1]
-I kid, of course, however just to continue the pun, I'll point out
-that the examples given to define the various types of "free" are
-beer/speech, not beer/speech/love.
-
+.. [1] I kid, of course, however just to continue the pun, I'll point out
+   that the examples given to define the various types of "free" are
+   beer/speech, not beer/speech/love.

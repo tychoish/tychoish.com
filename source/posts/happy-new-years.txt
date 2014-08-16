@@ -52,20 +52,18 @@ resolution though.
 In any case, be warm (or cool) and well in the new year and I'll be back
 with our regularly scheduled programing very shortly.
 
-.. [1]
-I've spent some time getting OS X set up on the macbook because I
-think I'm admitting that Ubuntu isn't right for this hardware. While
-it *mostly* does a pretty good job it falls apart in a couple of
-important places. The biggest issue is that the trackpad is supported
-poorly. It works, but I can't get it to turn down the sensitivity to
-a useable level--which is minor, because I can get it to turn off and
-I don't need it most of the time--but more importantly the
-suspend/hibernate/wake reliability is sub-usable. Mostly it works
-fine, but sometimes the mouse doesn't work, or clicks erratically, or
-responds to input erratically and restarting X doesn't work. I'm, at
-this point, blaming it on Ubuntu's hardware abstraction layer, and
-I've resolved to use OS X for a while and then I'll give Arch Linux a
-try. In the mean time... I have one working portable system (OS X)
-and a working desktop system, of course. So all is well in technology
-land.
-
+.. [1] I've spent some time getting OS X set up on the macbook because I
+   think I'm admitting that Ubuntu isn't right for this hardware. While
+   it *mostly* does a pretty good job it falls apart in a couple of
+   important places. The biggest issue is that the trackpad is supported
+   poorly. It works, but I can't get it to turn down the sensitivity to
+   a useable level--which is minor, because I can get it to turn off and
+   I don't need it most of the time--but more importantly the
+   suspend/hibernate/wake reliability is sub-usable. Mostly it works
+   fine, but sometimes the mouse doesn't work, or clicks erratically, or
+   responds to input erratically and restarting X doesn't work. I'm, at
+   this point, blaming it on Ubuntu's hardware abstraction layer, and
+   I've resolved to use OS X for a while and then I'll give Arch Linux a
+   try. In the mean time... I have one working portable system (OS X)
+   and a working desktop system, of course. So all is well in technology
+   land.

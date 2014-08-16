@@ -40,28 +40,27 @@ future, not about the histories or even the stale-present.
 Some predictions and forward looking trends are thus in order:
 
 - Content management systems will increasingly manage work-flow rather
-than content presentation. Every site needs to be built and
-constructed, and in a lot of ways building a site and creating
-content are fixed costs no matter what system you use. The work flow
-that you use to maintain content is highly variable and can be
-pragmatically managed in more effective ways. Stay tuned for this.
+  than content presentation. Every site needs to be built and
+  constructed, and in a lot of ways building a site and creating
+  content are fixed costs no matter what system you use. The work flow
+  that you use to maintain content is highly variable and can be
+  pragmatically managed in more effective ways. Stay tuned for this.
 
 - The "built-in" feature set, or default configuration of a content
-management system will become less important than the possibilities
-of the platform. While I don't think frameworks and CMS's will merge
-in the next few years, they'll get closer.
+  management system will become less important than the possibilities
+  of the platform. While I don't think frameworks and CMS's will merge
+  in the next few years, they'll get closer.
 
 - Smart static generation is still the future. Most things don't need
-fully dynamic content, and the intense caching that we have to do to
-offset the dynamic overhead of contemporary systems isn't the real
-solution to this problem.
+  fully dynamic content, and the intense caching that we have to do to
+  offset the dynamic overhead of contemporary systems isn't the real
+  solution to this problem.
 
 - Content management systems are, at the moment, at the center of a web
-site stack/deployment, and thus are huge all encompassing programs. I
-think increasingly content management systems can be designed to be
-much smaller applications, and only manage content and content
-work-flows rather than entire websites. We might call this the
-API-ization or the Unix-ification of web development.
+  site stack/deployment, and thus are huge all encompassing programs. I
+  think increasingly content management systems can be designed to be
+  much smaller applications, and only manage content and content
+  work-flows rather than entire websites. We might call this the
+  API-ization or the Unix-ification of web development.
 
 Anything else? Am I totally off my rocker? Onward and Upward!
-

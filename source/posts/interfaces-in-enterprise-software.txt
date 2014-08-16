@@ -18,30 +18,29 @@ There are two likely truths about software that make sense upon
 reflection, but are a bit weird when you think about it:
 
 1. The majority of software is used by a small minority of users. This
-includes software that's written for and used by other software
-developers, infrastructure, and the applications which are written
-for "internal use." This includes various database, CRM,
-administrative tools, and other portals and tools that enterprise
-uses.
+   includes software that's written for and used by other software
+   developers, infrastructure, and the applications which are written
+   for "internal use." This includes various database, CRM,
+   administrative tools, and other portals and tools that enterprise
+   uses.
 
 2. Beautiful and intuitive interfaces are only worth constructing if
-your software has a large prospective userbase *or* if you're writing
-software where a couple of competing products share a set of common
-features. Otherwise there's no real point to designing a really
-swanky user interface.
+   your software has a large prospective userbase *or* if you're writing
+   software where a couple of competing products share a set of common
+   features. Otherwise there's no real point to designing a really
+   swanky user interface.
 
 I'm pretty sure that these theories hold up pretty well, and are
 reasonably logical. The following conclusions are, I think, particularly
 interesting:
 
 - People, even non-technical users, adjust to really horrible user
-interfaces that are non-intuitive all the time.
+  interfaces that are non-intuitive all the time.
 
 - We think that graphical user interfaces are required for
-technological intelligibility, while the people who design software
-use GUIs as minimally as possible, and for the vast majority of
-software the user interface is the weakest point.
+  technological intelligibility, while the people who design software
+  use GUIs as minimally as possible, and for the vast majority of
+  software the user interface is the weakest point.
 
-The obvious questions then, is: why don't we trust non-technical users
-with command lines? [[Discuss\|discourse]]?
-
+  The obvious questions then, is: why don't we trust non-technical users
+  with command lines? [[Discuss\|discourse]]?

@@ -63,17 +63,15 @@ Converging these data streams in real time/xmpp (ff, twitter, laconica,
 etc.) means that your data comes to you, not that you get more of it. So
 from a usage/workflow perspective, I think this is *wonderful*.
 
-.. [1]
-So you're probably thinking, how then would twitter make money. I'm
-not, for the record making this argument out of some idiomatic Open
-Culture position, though I'm sympathetic. Rather, I think that Oauth
-and OMB are features that twitter's userbase might value. I'd,
-totally be willing to pay nominal fees for services, like IM and
-track, and text messaging, and the ability to filter that stream?
-Totally worth a few bucks a month. And twitter could totally have
-special features (like their election coverage) be ad supported
-(which would be the most logical solution anyway) and that might be
-really effective. So the next person to say "but twitter has to make
-money somehow, they can't give everything away for free," gets
-branded an uncreative apologist.
-
+.. [1] So you're probably thinking, how then would twitter make money. I'm
+   not, for the record making this argument out of some idiomatic Open
+   Culture position, though I'm sympathetic. Rather, I think that Oauth
+   and OMB are features that twitter's userbase might value. I'd,
+   totally be willing to pay nominal fees for services, like IM and
+   track, and text messaging, and the ability to filter that stream?
+   Totally worth a few bucks a month. And twitter could totally have
+   special features (like their election coverage) be ad supported
+   (which would be the most logical solution anyway) and that might be
+   really effective. So the next person to say "but twitter has to make
+   money somehow, they can't give everything away for free," gets
+   branded an uncreative apologist.

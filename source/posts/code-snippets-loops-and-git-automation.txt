@@ -23,10 +23,10 @@ so I wrote the following little loop:
 
 ::
 
-cd ~/mail
-for i in `find ~/work/mail -maxdepth 1 -mindepth 1`; do
-ln -s $i work.`echo $i | cut -d / -f 6`
-done
+   cd ~/mail
+   for i in `find ~/work/mail -maxdepth 1 -mindepth 1`; do
+      ln -s $i work.`echo $i | cut -d / -f 6`
+   done
 
 Should be useful, no?
 
@@ -41,9 +41,9 @@ present on the file-system from the staging area for the next commit.
 
 ::
 
-if [ "`git ls-files -d | wc -l`" -gt "0" ]; then
-git rm --quiet `git ls-files -d`
-fi
+   if [ "`git ls-files -d | wc -l`" -gt "0" ]; then
+     git rm --quiet `git ls-files -d`
+   fi
 
 This is great if you forget to use "``git mv``\ " or you delete a file
 using ``rm``, you can run this operation and pretty quickly have ``git``
@@ -55,9 +55,9 @@ of:
 
 ::
 
-for i in `git ls-files -d`; do
-git rm --quiet $i
-done
+   for i in `git ls-files -d`; do
+     git rm --quiet $i
+   done
 
 Turns out you can do pretty much the same thing with the following
 statement using the ``xargs`` command and you end up with something
@@ -65,7 +65,7 @@ that's a bit more succinct:
 
 ::
 
-git ls-files --deleted -z | xargs -0 git rm --quiet
+    git ls-files --deleted -z | xargs -0 git rm --quiet
 
 I'm not sure why, I think it's because I started being a Unix nerd after
 Linux dropped the argument number limit, and as a result I've never
@@ -101,4 +101,3 @@ some things, like the above a bit more robustly, but that isn't
 experimentally grounded. Thoughts?
 
 Onward and Upward!
-

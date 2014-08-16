@@ -9,13 +9,13 @@ theme:
   google_analytics: 'UA-0000000-0'
 
 sidebars:
-  '**': 
+  '**':
     - 'localtoc.html'
     - 'relations.html'
-    - 'sourcelink.html'
-    - 'postcard.html'
-    - 'recentposts.html'
-    - 'tagcloud.html'
-    - 'categories.html'
-    - 'archives.html'
+    # - 'sourcelink.html'
+    # - 'postcard.html'
+    # - 'recentposts.html'
+    # - 'tagcloud.html'
+    # - 'categories.html'
+    # - 'archives.html'
 ...

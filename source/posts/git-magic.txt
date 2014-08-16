@@ -59,7 +59,7 @@ and you don't want git to open rebase editing sessions in ``vim``.
 
 ::
 
-git config --global core.editor "emacsclient -t -a emacs -NOW"
+   git config --global core.editor "emacsclient -t -a emacs -NOW"
 
 The one issue here is that I had to rewrite the history of an already
 published series of changes. This is why I didn't want **P** to pull.
@@ -90,24 +90,23 @@ rebasing stuff, you should be ok.
 Here are the lessons:
 
 - "``git push``\ " and "``git pull``\ " would seem like parallel
-operations but they're not. Pull with abandon, it never hurts to
-pull. But if lots of people are pulling from the same repository, and
-you push a change that you don't mean to push, it's *really* hard to
-take that change back in a logical and productive way. So push with
-caution.
+  operations but they're not. Pull with abandon, it never hurts to
+  pull. But if lots of people are pulling from the same repository, and
+  you push a change that you don't mean to push, it's *really* hard to
+  take that change back in a logical and productive way. So push with
+  caution.
 
 - Rebasing is a tool that has great power shouldn't be feared even
-though theoretically you can screw stuff up with it. The git way says
-"commit your changes early and often," is great, but it can be sort
-of anti-social, as individual commits become sort of meaningless, and
-change logs can get hard to manage. Rebasing, though scary, can make
-it possible to both commit as often as you need to, and then rebase
-to be presentable.
+  though theoretically you can screw stuff up with it. The git way says
+  "commit your changes early and often," is great, but it can be sort
+  of anti-social, as individual commits become sort of meaningless, and
+  change logs can get hard to manage. Rebasing, though scary, can make
+  it possible to both commit as often as you need to, and then rebase
+  to be presentable.
 
 - Fear forced pushes.
 
 - Everything in git can be changed, so play with things, and then only
-publish changes when the repository is in a good working state.
+  publish changes when the repository is in a good working state.
 
 Onward!
-

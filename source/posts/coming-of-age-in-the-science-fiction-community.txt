@@ -76,6 +76,4 @@ The principals under which communities function and adhere are not
 something I have a terribly firm grasp of, I must confess, but I know
 what I find myself in one, it's a good thing indeed.
 
-.. [1]
-I have, it seems too many hobbies and avocations.
-
+.. [1] I have, it seems too many hobbies and avocations.

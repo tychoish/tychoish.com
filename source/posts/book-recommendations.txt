@@ -1,5 +1,5 @@
 =====================
-Book Recommendations 
+Book Recommendations
 =====================
 
 .. post:: 2008-08-28
@@ -65,7 +65,5 @@ myself to finish it.
 
 That's what come to mind, do you all have any good recommendations?
 
-.. [1]
-I'm not above recommending a book on reputation alone, though I try
-to disclose this.
-
+.. [1] I'm not above recommending a book on reputation alone, though I try
+   to disclose this.

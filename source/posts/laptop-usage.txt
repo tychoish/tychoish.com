@@ -37,8 +37,6 @@ sufficient but not supercharged laptop makes a lot of sense.
 
 So what kind of laptop system do you use?
 
-.. [1]
-Turns out it was a `toshiba
-t100 <http://en.wikipedia.org/wiki/Toshiba_T1000>`__. `Here's another
-picture/account <http://www.retrothing.com/2006/05/toshiba_t1000_s.html>`__
-
+.. [1] Turns out it was a `toshiba
+   t100 <http://en.wikipedia.org/wiki/Toshiba_T1000>`__. `Here's another
+   picture/account <http://www.retrothing.com/2006/05/toshiba_t1000_s.html>`__

@@ -34,24 +34,24 @@ your desk (or in your lap!) doesn't seem to provide a great benefit. I'd
 suggest the following two possibilities:
 
 - Hypervisors (i.e. the technology that talks to the hardware and the
-operating system instances running on the hardware,) abstract away
-the driver problem. The hypervisors real job is to talk to the actual
-hardware, and provide a hardware-like-interface to the "guest
-operating systems." Turns out this technology is 80-90% of where it
-needs to be for desktop usage. This makes the driver problem a little
-easier to solve.
+  operating system instances running on the hardware,) abstract away
+  the driver problem. The hypervisors real job is to talk to the actual
+  hardware, and provide a hardware-like-interface to the "guest
+  operating systems." Turns out this technology is 80-90% of where it
+  needs to be for desktop usage. This makes the driver problem a little
+  easier to solve.
 
 - Application specific operating systems. One of the problems with
-desktop usability in recent years is that we've been building
-interfaces that have needed to do *everything*, as people use
-computers for *everything.* This makes operating systems and stacks
-difficult to design and support, and there is all sorts of unforeseen
-interactions between all of the different things that we do, which
-doesn't help things. So desktop virtualization might allow us to
-develop *very slim* operating systems that are exceedingly reliable
-and portable, but also very limited in what they can accomplish.
-Which is ok, because we could have any number of them on a given
-computer.
+  desktop usability in recent years is that we've been building
+  interfaces that have needed to do *everything*, as people use
+  computers for *everything.* This makes operating systems and stacks
+  difficult to design and support, and there is all sorts of unforeseen
+  interactions between all of the different things that we do, which
+  doesn't help things. So desktop virtualization might allow us to
+  develop *very slim* operating systems that are exceedingly reliable
+  and portable, but also very limited in what they can accomplish.
+  Which is ok, because we could have any number of them on a given
+  computer.
 
 **I only need one instance of an operating system on my computer, why do
 you want me to have more?**
@@ -109,4 +109,3 @@ the same problems that Linux has today.
 --------------
 
 So there you have it. Thoughts?
-

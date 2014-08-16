@@ -75,32 +75,27 @@ to see what ideas are going to be the next big thing based on the degree
 to which they promote contact. There are other implications I'm sure,
 but I'll leave those for another time.
 
-.. [1]
-I suppose this isn't a wholly radical concept, but in any case, I
-think the "we need to talk to each other," and live in
-integrated/diverse situations is definitely a step in the right
-direction. Delany's articulation is quite useful and complete.
+.. [1] I suppose this isn't a wholly radical concept, but in any case, I
+   think the "we need to talk to each other," and live in
+   integrated/diverse situations is definitely a step in the right
+   direction. Delany's articulation is quite useful and complete.
 
-.. [2]
-Indeed I've strayed from Delany in a couple of key directions. First
-his essay(s) described contact as being a uniquely urban phenomena
-(which I've totally abandoned), and secondly something that resonates
-with sub-cultural groups (queers, poor, etc.) In the case of the
-Internet, I think this *works* but I recognize that it's a stretch.
+.. [2] Indeed I've strayed from Delany in a couple of key directions. First
+   his essay(s) described contact as being a uniquely urban phenomena
+   (which I've totally abandoned), and secondly something that resonates
+   with sub-cultural groups (queers, poor, etc.) In the case of the
+   Internet, I think this *works* but I recognize that it's a stretch.
 
-.. [3]
-Once upon a time, you could receive (via IM) twitter updates for any
-keyword, even if you didn't follow the people who sent the tweets.
-This means that all of a microblogging can have a conversation with
-each other, and circumvent the isolating aspects of "social
-networking" constructs.
+.. [3] Once upon a time, you could receive (via IM) twitter updates for any
+   keyword, even if you didn't follow the people who sent the tweets.
+   This means that all of a microblogging can have a conversation with
+   each other, and circumvent the isolating aspects of "social
+   networking" constructs.
 
-.. [4]
-By general population/topic I mean non-technical (largely) channels,
-such as rooms for fandom (fans of science fiction; and pop culture)
-rather than "working" or customer support channels. Though people
-would be drawn for a host of reasons, discussions seemed fairly
-random, and my sense is that (if my experience can be generalized
-from) that some pretty powerful friendships/connections were
-developed in these contexts.
-
+.. [4] By general population/topic I mean non-technical (largely) channels,
+   such as rooms for fandom (fans of science fiction; and pop culture)
+   rather than "working" or customer support channels. Though people
+   would be drawn for a host of reasons, discussions seemed fairly
+   random, and my sense is that (if my experience can be generalized
+   from) that some pretty powerful friendships/connections were
+   developed in these contexts.

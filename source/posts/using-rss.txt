@@ -12,11 +12,11 @@ questions:
 - Is one of the primary ways you interact with content on the web?
 
 - What software do you use to read feeds? (Google Reader? NetNewsWire?
-Lifrea? Newsbeuter? FeedGator/FeedDemon? LiveJournal?).
+  Lifrea? Newsbeuter? FeedGator/FeedDemon? LiveJournal?).
 
 - What's your biggest pet peeve about the RSS ecosystem? (including
-feed readers, feed parsers, variations in feed
-generation/publication, under/over adoption).
+  feed readers, feed parsers, variations in feed
+  generation/publication, under/over adoption).
 
 Thanks.
 
@@ -24,4 +24,3 @@ Thanks.
 lackluster reading options.)
 
 I look forward to hearing what you have to say.
-

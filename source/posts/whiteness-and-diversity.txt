@@ -20,23 +20,24 @@ haven't developed my thinking sufficiently to be more clear on this. In
 light of that here are a collection of my thoughts on representation:
 
 - Whiteness is multiple and I think it's possible (and important) to
-*depict whiteness and white characters critically and without
-recapitulating normalization*. At the same time, it's important to
-avoid falling victim to a lot of the normalization to which
-uncritical representations of racial diversity often fall pray.
+  *depict whiteness and white characters critically and without
+  recapitulating normalization*. At the same time, it's important to
+  avoid falling victim to a lot of the normalization to which uncritical
+  representations of racial diversity often fall pray.
 
 - The theory around race and representation must deal with issues
-around assimilation. More diversity is useful, but to move forward on
-issues of representation, the field needs to better understand the
-process of assimilation. *I want to see stories that help us unpack
-assimilation.*
+  around assimilation. More diversity is useful, but to move forward
+  on issues of representation, the field needs to better understand
+  the process of assimilation. *I want to see stories that help us
+  unpack assimilation.*
 
 - Whiteness is complex and a major problem with stories that "don't do
-race well," is not just that the characters aren't explicitly of
-color, but that whiteness isn't portrayed very well. This is part of
-the struggle of privilege, but *not only does science fiction need to
-be better about diversity and representation of non-white characters,
-but we the thinking on whiteness needs to continue to evolve apace.*
+  race well," is not just that the characters aren't explicitly of
+  color, but that whiteness isn't portrayed very well. This is part of
+  the struggle of privilege, but *not only does science fiction need
+  to be better about diversity and representation of non-white
+  characters, but we the thinking on whiteness needs to continue to
+  evolve apace.*
 
 Diversity and Quotas
 --------------------
@@ -61,10 +62,7 @@ that work so that there's a large audience.
 
 [[Comments? Suggestions?\|discourse]]
 
-.. [1]
-The science fiction writing/reading/editing community.
+.. [1] The science fiction writing/reading/editing community.
 
-.. [2]
-Promoting and marketing literature is by no means a solved problem
-under any conditions.
-
+.. [2] Promoting and marketing literature is by no means a solved
+   problem under any conditions.

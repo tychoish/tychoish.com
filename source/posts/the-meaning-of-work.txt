@@ -25,7 +25,7 @@ realize that this novel that I've been working at (or not,) for way too
 long at this point spends some time revolving around these questions:
 
 - How does being stuck in a single place and time constrain one agency
-to effect the world around them?
+  to effect the world around them?
 
 - What does labor look like in a mostly/quasi post-scarcity world?
 
@@ -49,7 +49,5 @@ the world and the process/rigor that I bring to those projects.
 
 But we'll get to that later, I have writing to do.
 
-.. [1]
-I write fiction *as* open source, in a lot of ways, so it doesn't
-seem too important to put it *in* the story as well.
-
+.. [1] I write fiction *as* open source, in a lot of ways, so it
+   doesn't seem too important to put it *in* the story as well.

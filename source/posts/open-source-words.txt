@@ -108,16 +108,13 @@ version of the GFDL]).
 
 Anyway, back to writing.
 
-.. [1]
-Copyleft and the GPL doesn't to be fair, eliminate copyrights, as all
-code released under the GPL will (theoretically, eventually, should a
-public domain ever be reinstated in the US) revert to the public
-domain as described in the constitution. GPL is, in many ways an
-extension of copyright, albeit one designed to destabilize the
-copyright system.
+.. [1] Copyleft and the GPL doesn't to be fair, eliminate copyrights, as all
+   code released under the GPL will (theoretically, eventually, should a
+   public domain ever be reinstated in the US) revert to the public
+   domain as described in the constitution. GPL is, in many ways an
+   extension of copyright, albeit one designed to destabilize the
+   copyright system.
 
-.. [2]
-There are many flavors of Creative Commons' licenses, which provide
-various freedoms. The Attribution-Share Alike License is most
-analogous to the GFDL/GPL.
-
+.. [2] There are many flavors of Creative Commons' licenses, which provide
+   various freedoms. The Attribution-Share Alike License is most
+   analogous to the GFDL/GPL.

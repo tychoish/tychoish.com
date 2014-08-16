@@ -74,13 +74,11 @@ providing/creating value is something that's really emerged in blogging
 in the last ten years, in part because of the prevalence of a class of
 posts like this. So there you have it.
 
-.. [1]
-This is, in my estimation, what happened as a result of the hype
-around "new media," "social media," and "search engine optimization,"
-that resulted in an explosion in the number of blogs between 2006 and
-2009. Blogs which are mostly designed to generate advertising
-revenue, rather than stimulate useful conversation. This isn't to say
-that there's nothing good out there, but I think we've all come
-across blogs that fall into this category, and it's always apparent.
-In my weaker moments, I call it the ProBlogger phenomena.
-
+.. [1] This is, in my estimation, what happened as a result of the hype
+   around "new media," "social media," and "search engine optimization,"
+   that resulted in an explosion in the number of blogs between 2006 and
+   2009. Blogs which are mostly designed to generate advertising
+   revenue, rather than stimulate useful conversation. This isn't to say
+   that there's nothing good out there, but I think we've all come
+   across blogs that fall into this category, and it's always apparent.
+   In my weaker moments, I call it the ProBlogger phenomena.

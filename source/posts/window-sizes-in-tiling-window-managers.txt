@@ -56,7 +56,7 @@ this behavior by searching your configuration file for
 
 ::
 
-c.size_hints_honor = false
+   c.size_hints_honor = false
 
 This tells Awesome to ignore windows (client's) when they say "I want to
 have these dimensions." It doesn't fix the problem but it does get rid
@@ -100,4 +100,3 @@ anything with the extra room, so they just leave it blank, and
 sometimes the transparency is a bit wonky in those "buffers").
 
 So there you have it. I hope this helps!
-

@@ -5,16 +5,7 @@ Red Sweater of Doom
 .. post:: 2007-10-23
    :author: tychoish
 
-So, I'm making this red sweater. I've talked about it before. Here's a
-refresher:
-
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
+So, I'm making this red sweater. I've talked about it before.
 
 Ok. I'm nearing the close of the first sleeve and I have not yet used
 all of the *first half* of my yarn supply. That's right. I think there
@@ -24,15 +15,7 @@ unlikely to use ever again in my life. Probably, who knows.
 I'm beginning to think through my next sweater project, which is a long
 way off, because, including sweaters that need sleeves, I have like four
 sweaters in progress. Five if you count the interminable fingering
-weight sweater knit at 12 stitches to the inch. Here's a refresher:
-
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
+weight sweater knit at 12 stitches to the inch.
 
 So maybe it's more like five sweaters. Sigh. I think I'd like to have
 the grey sweater plus only one more on sleeves before I start another
@@ -42,7 +25,9 @@ to do that again, but I might go for just finishing a couple of
 sweaters. I might be able to get all of all my sleeves that I want to
 get done by then, but the other project is too long. Sigh.
 
-.... In other news, I did some practice GRE work. The computer screwed
+--------------------
+
+In other news, I did some practice GRE work. The computer screwed
 up, so I don't have a good sense of my math section score, and because
 of computer screwing up (it meant my practice today was shorter, and
 didn't mimic real test situations enough...) I don't have a
@@ -53,8 +38,6 @@ What this tells me is that I can do really damn good on this test, my
 actual score is/will be an issue of endurance rather than anything
 intrinsic. Back to practicing.
 
-.. [1]
-Typically the grey is the project that I bring to movies for knitting
-in the dark, when I don't have another project because it's so
-mindless and easy.
-
+.. [1] Typically the grey is the project that I bring to movies for knitting
+   in the dark, when I don't have another project because it's so
+   mindless and easy.

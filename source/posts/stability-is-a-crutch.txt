@@ -38,7 +38,5 @@ isn't reasonably stable. Other factors:
 - size of deployment.
 - number and variety of deployment configurations.
 
-.. [1]
-Reliably updated and patched regularly for several years of
-maintenance, but otherwise totally stable and static.
-
+.. [1] Reliably updated and patched regularly for several years of
+   maintenance, but otherwise totally stable and static.

@@ -19,31 +19,30 @@ seems to be a pretty common impulse. There are a lot of reasons, but
 here are some of the most important from my perspective:
 
 - Programmers focus on the code they write, or might write, to be able
-to describe and document entire projects. It's really hard to get
-programmers to approach documentation from the biggest possible
-frame.
+  to describe and document entire projects. It's really hard to get
+  programmers to approach documentation from the biggest possible
+  frame.
 
 - Programmers have a hard time organizing larger scale documentation
-resources, because they approach it as a database problem rather than
-a cognitive/use problem.
+  resources, because they approach it as a database problem rather than
+  a cognitive/use problem.
 
 - Programmers solve problems by writing code, not by documenting it.
-You can push programmers to write notes and you can push the best
-programmers who can write to work on documentation; but unless you
-dedicate an engineer to writing documentation full time (which is a
-peculiar management decision) documentation will always come second.
+  You can push programmers to write notes and you can push the best
+  programmers who can write to work on documentation; but unless you
+  dedicate an engineer to writing documentation full time (which is a
+  peculiar management decision) documentation will always come second.
 
 - I'd wager that every organization large enough to have documentation
-that sucks is probably large enough to have enough documentation for
-a full time technical writer.
+  that sucks is probably large enough to have enough documentation for
+  a full time technical writer.
 
 - Engineers, particularly those who are familiar with a piece of
-technology, do this really interesting thing where they explain
-phenomena from the most basic assumptions prompted to describe
-something, but regularly skip crucial steps in processes and parts
-explanations if they think they're obvious.
+  technology, do this really interesting thing where they explain
+  phenomena from the most basic assumptions prompted to describe
+  something, but regularly skip crucial steps in processes and parts
+  explanations if they think they're obvious.
 
 Interesting cognitive phenomena do not make for good documentation.
 
 What am I [[missing\|discourse]]?
-

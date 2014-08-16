@@ -43,14 +43,14 @@ window, and on a lark, I type:
 
 ::
 
-$ java -version
+   $ java -version
 
 This was the response:
 
 ::
 
-Java(TM) 2 Runtime Environment, Standard Edition (build 1.5.0_07-164)
-Java HotSpot(TM) Client VM (build 1.5.0_07-87, mixed mode, sharing)
+   Java(TM) 2 Runtime Environment, Standard Edition (build 1.5.0_07-164)
+   Java HotSpot(TM) Client VM (build 1.5.0_07-87, mixed mode, sharing)
 
 Which is good enough for this program. I love OS X. Now all I have to do
 is unzip, run, and set up the XML file to design the experiment. It will
@@ -61,8 +61,6 @@ system. How cool is that?
 
 The best things in life *are* free.
 
-.. [1]
-R. Gibbs' *`Embodiment and Cognitive
-Science <http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521010497>`__*,
-is a delightful exception.
-
+.. [1] R. Gibbs' *`Embodiment and Cognitive
+   Science <http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521010497>`__*,
+   is a delightful exception.

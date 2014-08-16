@@ -59,17 +59,14 @@ this is through a web-browser.
 
 Just saying
 
-.. [1]
-So MS has most of total market, that's pretty much fact, but I figure
-that in certain markets, apple has a much larger share. College
-students, Designers, Hipsters, Ruby-on-Rails developers and so forth
-are all disproportionately Mac users, I'd figure. Adding this to the
-fact that Ubuntu is, I think doing well, and Vista continues to
-suck...
+.. [1] So MS has most of total market, that's pretty much fact, but I figure
+   that in certain markets, apple has a much larger share. College
+   students, Designers, Hipsters, Ruby-on-Rails developers and so forth
+   are all disproportionately Mac users, I'd figure. Adding this to the
+   fact that Ubuntu is, I think doing well, and Vista continues to
+   suck...
 
-.. [2]
-If you're administering a web-server that people are going to run
-your programs on, then you can write the program and know that it's
-going to run on a box with the right version of Ruby, or Python, or
-SQLite3 and so forth.
-
+.. [2] If you're administering a web-server that people are going to run
+   your programs on, then you can write the program and know that it's
+   going to run on a box with the right version of Ruby, or Python, or
+   SQLite3 and so forth.

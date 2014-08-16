@@ -13,10 +13,11 @@ read regularly, and that I'm interested in expending time reading.
 Seems to me that the crux of this argument boils down to:
 
 - read the a-list and professional publications because this is the way
-to "stay on top of the news," in a quick and efficient sort of way.
+  to "stay on top of the news," in a quick and efficient sort of way.
+
 - avoid reading a list blogs and sites because you're more likely to
-find new/interesting/unique reading, (and more of it) if you're not
-busy keeping up to date with BoingBoing and slashdot, say.
+  find new/interesting/unique reading, (and more of it) if you're not
+  busy keeping up to date with BoingBoing and slashdot, say.
 
 I'm going to post a copy of my OPML file (that is the export file from
 my news reader, that you can import to any news-reader around,) so you
@@ -37,10 +38,8 @@ less, and I have typically listened to `TWiT
 podcasts <http://twit.tv/>`__. So who knows. I don't have an answer
 here.
 
-.. [1]
-Though it's quite true that while I enjoy reading SF and watching SF
-drama, and writing said, and I am a huge geek in my own way, I'm not
-typically a very good *Science Fiction Fan.* Not that I have a
-problem with this, but in a lot of ways io9 isn't my type of site, I
-guess, which isn't bad, it just is.
-
+.. [1] Though it's quite true that while I enjoy reading SF and watching SF
+   drama, and writing said, and I am a huge geek in my own way, I'm not
+   typically a very good *Science Fiction Fan.* Not that I have a
+   problem with this, but in a lot of ways io9 isn't my type of site, I
+   guess, which isn't bad, it just is.

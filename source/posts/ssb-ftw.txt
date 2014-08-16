@@ -74,48 +74,44 @@ we're at it. That'd be *awesome,* well the open-source second generation
 DNIs. No one's putting proprietary 1.0 or beta grade hardware in my
 head, *thank*\ you\ *very*\ much.
 
-.. [1]
-Admittedly I'm not opposed to the plugin model, and there are a lot
-of `Firefox <http://www.mozilla.com/firefox/>`__ plugins that I lust
-after, but the truth is that Firefox--because of plugins--runs
-interminably slower than it really should, which brings us back to
-the notion of, if the browser could do it from the beginning without
-the plugins...
+.. [1] Admittedly I'm not opposed to the plugin model, and there are a
+   lot of `Firefox <http://www.mozilla.com/firefox/>`__ plugins that I
+   lust after, but the truth is that Firefox--because of plugins--runs
+   interminably slower than it really should, which brings us back to
+   the notion of, if the browser could do it from the beginning
+   without the plugins...
 
-.. [2]
-So much that most good browsers now have a "*when* I crash, I'll save
-your state as best I can, so you only have to wait a long time and
-almost be back where you were before I panicked." Remember how many
-years it took them to think of that? Imagine if other programing
-environments or operating systems did that. `Google
-Chrome <http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html>`__
-fixes this by sand-boxing each web page instance, (good going), but
-really now. Geeze. Also a word here about Chrome: I can't wait to be
-able to use it when they release it for OS X (and Linux). The
-sand-boxing is cool, the speedyness, the good UI (Did
-`Alcor <http://twitter.com/alcor>`__ have something to do with
-that?), the fact that it's likely to be *about* as open source as
-Mozilla/WebKit in the end? A win. But anyway, If browsers are what
-amounts to a runtime, or programing environment, then they are in no
-way stable enough. If they're just remote file viewers, it'd be fine,
-but they're not. Not anymore.
+.. [2] So much that most good browsers now have a "*when* I crash,
+   I'll save your state as best I can, so you only have to wait a long
+   time and almost be back where you were before I panicked." Remember
+   how many years it took them to think of that? Imagine if other
+   programing environments or operating systems did that. `Google
+   Chrome
+   <http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html>`__
+   fixes this by sand-boxing each web page instance, (good going), but
+   really now. Geeze. Also a word here about Chrome: I can't wait to
+   be able to use it when they release it for OS X (and Linux). The
+   sand-boxing is cool, the speedyness, the good UI (Did `Alcor
+   <http://twitter.com/alcor>`__ have something to do with that?), the
+   fact that it's likely to be *about* as open source as
+   Mozilla/WebKit in the end? A win. But anyway, If browsers are what
+   amounts to a runtime, or programing environment, then they are in
+   no way stable enough. If they're just remote file viewers, it'd be
+   fine, but they're not. Not anymore.
 
-.. [3]
-I like this one, it's free as in beer, but not speech, and is mostly
-a wrapper around WebKit/safari, which is... free-ish. Again, not with
-the caring. If you're not a Mac user, check out `Mozillia
-Prisim <http://developer.mozilla.org/En/Prism>`__, which is a firefox
-offshoot/plugin that does a very similar thing.
+.. [3] I like this one, it's free as in beer, but not speech, and is
+   mostly a wrapper around WebKit/safari, which is... free-ish. Again,
+   not with the caring. If you're not a Mac user, check out `Mozillia
+   Prisim <http://developer.mozilla.org/En/Prism>`__, which is a
+   firefox offshoot/plugin that does a very similar thing.
 
-.. [4]
-Wow, this is going to be the post with all the footnotes. I also
-realized that I've used this term a lot without subtitling it
-properly. Ideally applications don't crash, but if/when they do, you
-don't want them to crash your entire system. And this is true of
-different programs, largely, but if an application is host to another
-group of applications/processes (like multiple windows/tabs, for
-instance,) you don't want what you do in window 2 tab 14 to affect
-(ie. end) what's happening in window 3 tab 6, or any other
-tab/window. Except that in the browser world, this happens all the
-time.
-
+.. [4] Wow, this is going to be the post with all the footnotes. I
+   also realized that I've used this term a lot without subtitling it
+   properly. Ideally applications don't crash, but if/when they do,
+   you don't want them to crash your entire system. And this is true
+   of different programs, largely, but if an application is host to
+   another group of applications/processes (like multiple
+   windows/tabs, for instance,) you don't want what you do in window 2
+   tab 14 to affect (ie. end) what's happening in window 3 tab 6, or
+   any other tab/window. Except that in the browser world, this
+   happens all the time.

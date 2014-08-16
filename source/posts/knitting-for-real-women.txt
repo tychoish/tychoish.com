@@ -23,8 +23,6 @@ thinking *rock on* sweaters that people can wear.
 
 Thoughts?
 
-.. [1]
-So it's a global world, and there's no excuse, but the company is
-HQ'd in Holmfirth or some such, in the north of England, So I'm prone
-to give them a little more leeway than I would otherwise.
-
+.. [1] So it's a global world, and there's no excuse, but the company is
+   HQ'd in Holmfirth or some such, in the north of England, So I'm prone
+   to give them a little more leeway than I would otherwise.

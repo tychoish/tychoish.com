@@ -21,37 +21,36 @@ systems and removing most of them or finding *better ways.*
 The problems with cron are simple:
 
 - Its often a sledge hammer, and it's very easy to put something in
-cron job that needs a little more delicacy.
+  cron job that needs a little more delicacy.
 
 - While it's *possible* to capture the output of cron tasks (typically
-via email,) the feedback from cronjobs is hard to follow. So it's
-hard to detect errors, performance deterioration, inefficiencies, or
-bugs proactively.
+  via email,) the feedback from cronjobs is hard to follow. So it's
+  hard to detect errors, performance deterioration, inefficiencies, or
+  bugs proactively.
 
 - Its too easy to cron something to run every minute or couple of
-minutes. A task that seems relatively lightweight when you run it
-once can end up being expensive in the aggregate when they have to
-run a thousand times a day.
+  minutes. A task that seems relatively lightweight when you run it
+  once can end up being expensive in the aggregate when they have to
+  run a thousand times a day.
 
-This isn't to say that there aren't places where using cron isn't
-absolutely the right solution, but there are better solutions. For
-instance:
+  This isn't to say that there aren't places where using cron isn't
+  absolutely the right solution, but there are better solutions. For
+  instance:
 
 - Include simple tests and logic for the cron task to determine if it
-*needs* to run before actually running.
+  *needs* to run before actually running.
 
 - Make things very easy to invoke or on demand rather than
-automatically running them regularly.
+  automatically running them regularly.
 
-I've begun to find little scripts and
-`dmenu <http://tools.suckless.org/dmenu/>`__, or an easily called
-emacs-lisp function to be preferable to a cron job for a lot of tasks
-that I'd otherwise set in a cron job.
+  I've begun to find little scripts and
+  `dmenu <http://tools.suckless.org/dmenu/>`__, or an easily called
+  emacs-lisp function to be preferable to a cron job for a lot of tasks
+  that I'd otherwise set in a cron job.
 
 - Write real daemons. It's hard and you have to make sure that they
-don't error out or quit unexpectedly--which requires at least
-primitive monitoring--but a little bit of work here can go a long
-way.
+  don't error out or quit unexpectedly--which requires at least
+  primitive monitoring--but a little bit of work here can go a long
+  way.
 
 Onward and Upward!
-

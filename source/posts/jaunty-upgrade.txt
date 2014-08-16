@@ -31,27 +31,24 @@ My jaunty upgrade, however, inspired a few changes to my setup, and I'm
 *quite* happy with those improvements. They are:
 
 - I switched to using rxvt-unicode as a terminal emulator (I had been
-using gnome-terminal). I really like this, because the terminal is
-low resource (and can run demonized, so you can have a lot of windows
-open). It's hard as hell to setup (in my experience,) but `you can
-learn from my .Xdefaults
-file <http://dotfiles.org/~tychoish/.Xdefaults>`__ if you're
-interested.
+  using gnome-terminal). I really like this, because the terminal is
+  low resource (and can run demonized, so you can have a lot of windows
+  open). It's hard as hell to setup (in my experience,) but `you can
+  learn from my .Xdefaults
+  file <http://dotfiles.org/~tychoish/.Xdefaults>`__ if you're
+  interested.
 
 - I started (finally) using gnome-color-chooser and gtk-chtheme (debian
-package names) to remove gnome-settings-daemon from my list of
-background programs, while still having windows that don't look like
-1992.
+  package names) to remove gnome-settings-daemon from my list of
+  background programs, while still having windows that don't look like
+  1992.
 
 - I stopped using vimperator in firefox, opting instead for firemacs
-(to control keybindings) and LoL for keyboard navigation (hit-a-hint
-links). Having access to the Awesome bar is a good thing indeed.
+  (to control keybindings) and LoL for keyboard navigation (hit-a-hint
+  links). Having access to the Awesome bar is a good thing indeed.
 
 Still on the list of things to update?
 
 - I need to upgrade to the latest awesome version, as I'm behind.
 
 - I need to actually ditch gdm, which irritates me still.
-
-
-

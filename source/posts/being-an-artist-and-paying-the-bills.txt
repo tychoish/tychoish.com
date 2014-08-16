@@ -93,7 +93,7 @@ Now I've used the term "advertising" loosely, because I don't think that
 you need to be terribly proactive about it, in order for it to work,
 writing a good story with a tag that says "tycho also gives workshops on
 productivity and hypertext creation, and his most recent book is
-\_\_\_\_\_\_" is probably enough. The key is to be right on top of
+"..." is probably enough. The key is to be right on top of
 whatever the best next auxiliary is.
 
 And before anyone goes of and says "it's a shame that there isn't a
@@ -103,26 +103,21 @@ worked. That's all, thoughts anyone?
 
 Cheers, tycho
 
-.. [1]
-On the side note this is why pay rates for short fiction are so low
-to virtually non existent: splitting 2 dollars between half a dozen
-people is virtually impossible.
+.. [1] On the side note this is why pay rates for short fiction are so low
+   to virtually non existent: splitting 2 dollars between half a dozen
+   people is virtually impossible.
 
-.. [2]
-Pattern design is becoming a less and less viable option: designer
-fees from the major magazines haven't gone up in years, I hear, there
-are fewer options now (in the 80's, women's magazines would publish
-knitting and craft patterns, and free patterns on the internet are
-serious and legitimate competition), which makes it all the more
-difficult to make a living doing it.
+.. [2] Pattern design is becoming a less and less viable option: designer
+   fees from the major magazines haven't gone up in years, I hear, there
+   are fewer options now (in the 80's, women's magazines would publish
+   knitting and craft patterns, and free patterns on the internet are
+   serious and legitimate competition), which makes it all the more
+   difficult to make a living doing it.
 
-.. [3]
-In a move that anticipates a lot of the work that pod-casters and
-bloggers do, using new media solutions as a way to get readers to buy
-other things that actually generate income, Meg sell their quarterly
-patterns and reprints at the rough production cost.
+.. [3] In a move that anticipates a lot of the work that pod-casters and
+   bloggers do, using new media solutions as a way to get readers to buy
+   other things that actually generate income, Meg sell their quarterly
+   patterns and reprints at the rough production cost.
 
-.. [4]
-This is why the RIAA and MPAA's flogged and deceased equine of
-"piracy" as hurting the artists is so foolish.
-
+.. [4] This is why the RIAA and MPAA's flogged and deceased equine of
+   "piracy" as hurting the artists is so foolish.

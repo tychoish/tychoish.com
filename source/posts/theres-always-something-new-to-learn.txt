@@ -16,27 +16,26 @@ generally beyond the scope of what I've dealt with until now. Here is a
 selection of the projects I'm playing with:
 
 - Getting a working xen setup at home. This requires, learning a bit
-more about building working operating systems, and also in the not to
-distant future buying a new (server) computer.
+  more about building working operating systems, and also in the not
+  to distant future buying a new (server) computer.
 
 - Installing xen on the laptop, because it'll support it, I have the
-resources to make it go, and it'll be awesome.
+  resources to make it go, and it'll be awesome.
 
 - Learning everything I can about LVM, which is a new (to me) way of
-managing partitions and disk images, that makes backups, disk
-snapshots, and other awesomeness much easier. It means, some system
-migration stuff that I have yet to tinker with, as none of my systems
-currently support LVM.
+  managing partitions and disk images, that makes backups, disk
+  snapshots, and other awesomeness much easier. It means, some system
+  migration stuff that I have yet to tinker with, as none of my
+  systems currently support LVM.
 
 - Doing package development for Arch Linux, because I think that's
-probably within the scope of my ability, because I think it would add
-to my skill set, and because I appreciate the community, and I want
-to be able to give back. Also I should spend some time editing the
-wiki, because I'm really lazy with that.
+  probably within the scope of my ability, because I think it would
+  add to my skill set, and because I appreciate the community, and I
+  want to be able to give back. Also I should spend some time editing
+  the wiki, because I'm really lazy with that.
 
 I guess the overriding lesson of all these projects is a more firm grasp
 of how incredibly awesome, powerful, and frankly *stable* Arch Linux is
 (or can be.) I mean there are flaws of course, but given how I use
 systems, I've yet to run into something show stopping. That's pretty
 cool.
-

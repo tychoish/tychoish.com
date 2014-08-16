@@ -36,7 +36,5 @@ Discuss!
 
 Cheers, tycho
 
-.. [1]
-In fairness, I think my method of weblog reading as described by the
-word "plow," might account for my lack of communication.
-
+.. [1] In fairness, I think my method of weblog reading as described
+   by the word "plow," might account for my lack of communication.

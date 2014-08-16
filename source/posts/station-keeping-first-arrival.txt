@@ -80,10 +80,6 @@ took her stack of files.
 leave the office. "*Lets avoid doing that again, shall we?*\ " she
 thought after the door shut.
 
-.. raw:: html
-
-<!--more-->
-
 Docking
 -------
 
@@ -163,4 +159,3 @@ soonest opportunity to sleep.
 `TealArt <http://tychoish.com>`__ and [Station
 Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
 and a science fiction writer by night.*
-

@@ -65,25 +65,24 @@ unsustainable and inauthentic economy, and it extends beyond book retail
 into other failed and failing sectors of the ecomony.
 
 - **Banks**. Obvious here. The big banks lost track of the micro
-economics that make the macro economics go, and we got things like
-sub-prime morgages, because while they make sense from the
-consolidated-bank perspective they don't make sense to *people*.
-Like, the John Grisham-esque Legal/Drama/Thriller book makes a lot of
-sense to the booksellers and the publishers, but most people can only
-really read so many of them before loosing interest.
+  economics that make the macro economics go, and we got things like
+  sub-prime morgages, because while they make sense from the
+  consolidated-bank perspective they don't make sense to *people*.
+  Like, the John Grisham-esque Legal/Drama/Thriller book makes a lot
+  of sense to the booksellers and the publishers, but most people can
+  only really read so many of them before loosing interest.
 
 - **Software**. Microsoft's production of windows makes a lot of sense
-if you're a big company, but if you use computers in a specialized
-way, Windows is like an illfitting suit from Target. It works, but
-it's uncomfortable and rough around the edges. There is general
-consensus that "The Microsoft Way" isn't the best technological
-solution to the various problem, even among people who use it
-regularly (developer tools might require a slightly more complex
-investigation).
+  if you're a big company, but if you use computers in a specialized
+  way, Windows is like an illfitting suit from Target. It works, but
+  it's uncomfortable and rough around the edges. There is general
+  consensus that "The Microsoft Way" isn't the best technological
+  solution to the various problem, even among people who use it
+  regularly (developer tools might require a slightly more complex
+  investigation).
 
 - **Your Example Here**. Leave a note in the comments.
 
 --------------
 
 Thoughts?
-

@@ -85,6 +85,4 @@ novel as a sequence of short stories. At least in how I've been thinking
 of it. I could go on with more and additional examples, but I think I
 better leave it at that for now. Thoughts? Anyone?
 
-.. [1]
-Or in my case emacs buffers.
-
+.. [1] Or in my case emacs buffers.

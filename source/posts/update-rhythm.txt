@@ -77,9 +77,9 @@ Wiegley <http://www.emacswiki.org/emacs/JohnWiegley>`__ I learned about
 the following two emacs gems that merit mention:
 
 - `paredit <http://www.emacswiki.org/emacs/ParEdit>`__ which makes
-handling all of the parentheses in Lisp coding much easier.
+  handling all of the parentheses in Lisp coding much easier.
 - `redshank <http://www.foldr.org/~michaelw/emacs/redshank/>`__, which
-basically adds a number of tempting systems and associated tools for
+  basically adds a number of tempting systems and associated tools for
 
 And in another direction, I've been playing with
 `pylookup <https://github.com/tsgates/pylookup>`__. This emacs add on
@@ -88,4 +88,3 @@ a local copy. The interface is a little bit fiddly but it's pretty much
 heaven. More things should work like this.
 
 Onward and Upward!
-

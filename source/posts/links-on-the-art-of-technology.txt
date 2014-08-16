@@ -15,11 +15,11 @@ Computer Programming and Hacking
 --------------------------------
 
 - `Art of Computer
-Programing <http://www.developerdotstar.com/mag/articles/art_computer_programming.html>`__
+  Programing <http://www.developerdotstar.com/mag/articles/art_computer_programming.html>`__
 - `Software
-Artisans <http://designbygravity.wordpress.com/2009/10/03/dont-be-a-coder-engineer-or-developer-be-a-software-artisan/>`__
+  Artisans <http://designbygravity.wordpress.com/2009/10/03/dont-be-a-coder-engineer-or-developer-be-a-software-artisan/>`__
 - `Unit testing and
-Agile <http://www.gigamonkeys.com/blog/2009/10/05/coders-unit-testing.html>`__
+  Agile <http://www.gigamonkeys.com/blog/2009/10/05/coders-unit-testing.html>`__
 
 There's a long tradition of computer scientists and eminent developers
 thinking about their software development as an Art. Donald Knuth's
@@ -38,9 +38,9 @@ programmers approach problems is pretty useful. Makes me want to get
 `the book <http://www.codersatwork.com/>`__.
 
 - `On Functional
-Programing <http://www.linuxjournal.com/article/8850>`__
+  Programing <http://www.linuxjournal.com/article/8850>`__
 - `How John Wiegley uses
-git <http://www.newartisans.com/2009/10/branch-policies-with-git.html>`__
+  git <http://www.newartisans.com/2009/10/branch-policies-with-git.html>`__
 
 I may not be a programmer in the conventional sense (or even any of the
 unconventional senses that I'm aware of) but there are two things that I
@@ -64,7 +64,7 @@ in git tend to be much more *ad hoc* from what I've seen. Anyway, good
 one for the file.
 
 - `The Trouble With
-Frameworks <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
+  Frameworks <http://blog.amber.org/2009/08/20/the-trouble-with-frameworks/>`__
 
 I've been looking over `weppy <http://webpy.org/>`__ for the past few
 weeks, along with the bindings for a couple of weird databases (of the
@@ -82,9 +82,9 @@ Academia, Anthropology, Literature
 ----------------------------------
 
 - `The Past Future Literary
-Magazines <http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/article6864371.ece>`__
+  Magazines <http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/article6864371.ece>`__
 - `The Future of
-Books <http://www.futureofthebook.org/blog/archives/2009/09/a_clean_well-lighted_place_for.html>`__
+  Books <http://www.futureofthebook.org/blog/archives/2009/09/a_clean_well-lighted_place_for.html>`__
 
 I `wrote a series of articles on the future of
 publishing <http://tychoish.com/archive/new-media/>`__ and I found
@@ -100,9 +100,10 @@ booksellers, including branding, brick and mortar shops, which I think
 is incredibly important.
 
 - `Aaron Swartz on Disciplinary
-Bubbles <http://www.aaronsw.com/weblog/disciplinarybubbles>`__
+  Bubbles <http://www.aaronsw.com/weblog/disciplinarybubbles>`__
+
 - `Cyborg Anthropology and the
-Singularity <http://caseorganic.posterous.com/the-singularity-in-a-basket>`__
+  Singularity <http://caseorganic.posterous.com/the-singularity-in-a-basket>`__
 
 In the piece on Cyborg Anthropology, Amber Case discusses looks at the
 Singularity from a much less technical perspective. In a lot of ways
@@ -159,4 +160,3 @@ high-margin businesses?)
 
 That's all I have at the moment. If you have links or thoughts to share,
 I'd live to see them!
-

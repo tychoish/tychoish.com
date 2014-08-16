@@ -19,13 +19,11 @@ outposts throughout our solar system (among other things). I found
 myself a few days ago plotting out some details and I realized that I
 might be imagining a future with not only far flug outposts but also a
 substantially different system of orbital mechanics. I know about
-`Hohmann
-transfers <http://en.wikipedia.org/wiki/Hohmann_transfer_orbit>`__ and
+`Hohmann transfers <http://en.wikipedia.org/wiki/Hohmann_transfer_orbit>`__ and
 enough about gravity assists, that getting between planets in the solar
 system is complex. My hope is that by knowing a bit about these things,
 I can avoid rank absurdity. In any case, I found myself looking up the
-length orbits of Jupiter and Saturn around the sun (:sub:`11 `\ 29.5
-Earth-years respectively).
+length orbits of Jupiter and Saturn around the sun.
 
 Now mostly this was just to get a sense of the distance, because unless
 I *also* posit free, lightweight, super-powerful propulsion systems, a
@@ -89,14 +87,14 @@ this:
 
 ::
 
-* The title                    :a:list:of:tags:
-:PROPERTIES:
-:date: <2009-03-14 Sat>
-:cite-key: a-u/uid
-:link: http://tychoish.com
-:END:
+   * The title                    :a:list:of:tags:
+     :PROPERTIES:
+     :date: <2009-03-14 Sat>
+     :cite-key: a-u/uid
+     :link: http://tychoish.com
+     :END:
 
-And then finally some notes text
+   And then finally some notes text
 
 And the input is just an prompt-tab interface. I can also add more
 details to the properties, section. If that makes sense at a later date.
@@ -108,4 +106,3 @@ enhancement, but at the same time there aren't a lot of solutions on the
 ground. I suppose that's where I come in, but feedback is most
 appreciated on interface questions, on alternate use cases and
 applications. I look forward to hearing from you...
-

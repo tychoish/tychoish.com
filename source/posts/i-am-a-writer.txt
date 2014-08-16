@@ -98,8 +98,6 @@ you're still *just another hacker*.
 But maybe this is true for everyone. I can accept that. I hope you all
 have a good day.
 
-.. [1]
-Wow, I used a dead-tree metaphor. Have no fear, when I say "page" I
-really mean `emacs
-buffer <http://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html#Buffers>`__.
-
+.. [1] Wow, I used a dead-tree metaphor. Have no fear, when I say
+   "page" I really mean `emacs buffer
+   <http://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html#Buffers>`__.

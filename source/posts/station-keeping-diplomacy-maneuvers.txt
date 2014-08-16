@@ -45,10 +45,6 @@ Nan followed the barkeep, without quite knowing why. It seemed better
 than any of the alternatives that came to mind. "Right, I'm Nan, Nan
 Gee: the diplomatic liaison to the station."
 
-.. raw:: html
-
-<!--more-->
-
 "Oh, right, it's a pleasure to meet you." David said, he turned at an
 open door way and pointed to a chair in an office. "I'm David Conrad,
 I'm just the bar owner around here, but I suspect that the Navy will
@@ -142,4 +138,3 @@ Keeping](http://tychoish.com/hanm"). He is a student and knitter by day
 and a science fiction writer by night, you can read his work elsewhere
 on `TealArt <http://tychoish.com>`__ and at
 `~/tychoish <http://tychoish.com/tychoish>`__.*
-

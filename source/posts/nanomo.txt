@@ -25,9 +25,7 @@ two years, when I realize that its NaNoMo, I get a sinking feeling. I
 wish I had the time to write like that in November. I wish I had a story
 sketched out.
 
-.. raw:: html
-
-<hr width="20%" />
+--------------------
 
 NaNoWriMo (and the preparation I'd have to do) has gone on my list of
 "*things to do if I don't get into real graduate program*." I've been
@@ -56,12 +54,9 @@ I've noticed, as I'm sure long time (ha!) readers of the site should
 want to know what my fiction might sound like if I were able to get off
 my ass and write it.
 
-.. raw:: html
-
-<hr width="20%" />
+--------------------
 
 *sigh*
 
 Well, There you have it, another TealArt entry... Funny how that
 happens. I hope you all are well.
-

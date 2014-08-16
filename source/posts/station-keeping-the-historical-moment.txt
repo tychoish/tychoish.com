@@ -84,23 +84,20 @@ and a science fiction writer by night, you can read his work elsewhere
 on `TealArt <http://tychoish.com>`__ and at
 `~/tychoish <http://tychoish.com>`__.*
 
-.. [1]
-Key leaders of the League and Navy during this era were frequently
-cycled on and off interstellar flights to help provide continuity
-with the League's longer term missions on outer worlds. This kept
-some level of stability, but meant that policy changed back and forth
-as various leaders came on and off the cruises.
+.. [1] Key leaders of the League and Navy during this era were
+   frequently cycled on and off interstellar flights to help provide
+   continuity with the League's longer term missions on outer
+   worlds. This kept some level of stability, but meant that policy
+   changed back and forth as various leaders came on and off the
+   cruises.
 
-.. [2]
-In fairness, it is only in retrospect that we can make this claim, in
-a lot of ways, *Hanm Centre* was of a guilded age of a dying empire
-of sorts, and the accomplishments of the station and it's crew though
-too numerous to list here, were not typical of any late imperial
-project.
+.. [2] In fairness, it is only in retrospect that we can make this
+   claim, in a lot of ways, *Hanm Centre* was of a guilded age of a
+   dying empire of sorts, and the accomplishments of the station and
+   it's crew though too numerous to list here, were not typical of any
+   late imperial project.
 
-.. [3]
-"Hamnism" refers to the political movement started on Hanm (that
-quickly spread to other large rim worlds) that advocated independence
-and separation from the League, the policies of continued
-colonization, and distant centralized government.
-
+.. [3] "Hamnism" refers to the political movement started on Hanm
+   (that quickly spread to other large rim worlds) that advocated
+   independence and separation from the League, the policies of
+   continued colonization, and distant centralized government.

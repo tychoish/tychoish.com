@@ -2,6 +2,8 @@
 Winning Your Todo List
 ======================
 
+.. post:: 2012-08-10
+   :author: tychoish
 
 I kind of want to title this piece "the remains of the day," but I'll
 spare you.
@@ -36,10 +38,10 @@ evening,) spend a moment or two going though the remains of the day's
 tasks and figuring out:
 
 - If you couldn't get to a task was it because you simply didn't have
-time, or because there was an unforeseen dependency.
-
+  time, or because there was an unforeseen dependency.
+  
 - Which tasks can be rescheduled for another day (and what days would
-be best for this.)
+  be best for this.)
 
 - What no longer needs to be done?
 

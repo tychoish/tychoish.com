@@ -63,10 +63,8 @@ for OS X <http://tamsys.sourceforge.net/osxtams/>`__ came up, it's
 some time playing with it to see what I can make it do. But it's
 *awesome* looking. I'm putting tinkering wit this on the todo list.
 
-.. [1]
-So, I draw the distinction between old and out of date because its
-important. Some of these programs aren't that old, but they're coded
-in a paradigm that is, or they hard wire assumptions in a way that I
-think is probably not ideal. It feels like computing circa 1988-1992,
-even if the code has been ported to OS X.
-
+.. [1] So, I draw the distinction between old and out of date because its
+   important. Some of these programs aren't that old, but they're coded
+   in a paradigm that is, or they hard wire assumptions in a way that I
+   think is probably not ideal. It feels like computing circa 1988-1992,
+   even if the code has been ported to OS X.

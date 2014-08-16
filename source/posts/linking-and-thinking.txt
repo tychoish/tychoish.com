@@ -15,15 +15,7 @@ a techie blog, then instead of posting news in mircochip development,
 you post news about retroviral drug development, or in the case of
 TealArt, we blabber esotericaly for a page or two before going to bed.
 
-.. raw:: html
-
-<div align="center">
-
-\*\*\* \* \*\*\*
-
-.. raw:: html
-
-</div>
+--------------------
 
 I've had lots of thoughts, trying to get some sort of entry together,
 and perhaps this is part of the reason I'm waiting until now. I wanted
@@ -47,4 +39,3 @@ this epidemic somehow, and we could all afford a few brains cells for a
 good cause.
 
 Cheers.
-

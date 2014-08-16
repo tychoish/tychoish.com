@@ -96,8 +96,6 @@ what you think.
 
 best, tycho
 
-.. [1]
-organs being, body-machines, but I/we haven't quite gotten to the
-grok point with Deleuze and Guatteri's concept of the "body without
-organs."
-
+.. [1] organs being, body-machines, but I/we haven't quite gotten to the
+   grok point with Deleuze and Guatteri's concept of the "body without
+   organs."

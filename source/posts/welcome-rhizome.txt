@@ -18,24 +18,23 @@ blog the very same day that I published the post that started it all.
 
 This proves, it seems, the neccessity of these changes, which are:
 
-- Moving the "dialectical futurism" blog to my "`Critical
-Futures <http://criticalfutures.com>`__\ " domain, as an "essay"
-blog. I'm planning to post a new essay here every Tuesday. I might
-also add a second day a week for some other feature (podcast?
-contributed essay?)
+- Moving the "dialectical futurism" blog to my "`Critical Futures
+  <http://criticalfutures.com>`__\ " domain, as an "essay" blog. I'm
+  planning to post a new essay here every Tuesday. I might also add a
+  second day a week for some other feature (podcast?  contributed
+  essay?)
 
 - Move the "wikish" wiki that I'd been hosting on the "tychoish.com"
-domain to *be* tychoish.com, and add a more short-form blog to the
-"blog/wiki." I'm calling it "Rhizomatics," and this is the first
-post. I'll be writing here pretty regularly, and with less intense
-posts.
+  domain to *be* tychoish.com, and add a more short-form blog to the
+  "blog/wiki." I'm calling it "Rhizomatics," and this is the first
+  post. I'll be writing here pretty regularly, and with less intense
+  posts.
 
 - Do all of the above in a way that doesn't break all of the existing
-links.
+  links.
 
 And I think I've done it all. I'll be doing some tweaking in the next
 few days and weeks to make it all work a bit better, but
 [[suggestions\|site-improvements]] are always welcome.
 
 Stay tuned!
-

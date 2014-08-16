@@ -23,7 +23,5 @@ punky SF, which has caused me to think about these things again.
 
 Good (not so) clean fun!
 
-.. [1]
-and let me tell you, it's nothing but proverbial... heh, I think I
-have a new name for the blog.
-
+.. [1] and let me tell you, it's nothing but proverbial... heh, I
+   think I have a new name for the blog.

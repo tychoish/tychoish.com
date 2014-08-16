@@ -38,7 +38,7 @@ larger point of addressing open source methodologies in the coming weeks
 and months as part of an attempt to pull things back together. I think.
 
 - **The Information Technology Industry.**
-`link <http://tychoish.com/archive/technology/>`__
+  `link <http://tychoish.com/archive/technology/>`__
 
 I started writing about the IT industry because I found it really
 difficult to think about Free Software without really knowing about the
@@ -58,8 +58,8 @@ once you get past the initial "what do you mean there's no cost or
 company behind this thing."
 
 - **The Cyborg "Moment," or the way people actually use computers and
-technology, and the ways that people *might* use technology in the
-future.** `link <http://www.cyborginstitute.com/wiki/>`__
+  technology, and the ways that people *might* use technology in the
+  future.** `link <http://www.cyborginstitute.com/wiki/>`__
 
 In the same way that thinking about the IT Industry provides much needed
 context for properly understanding why "open source communities" exist
@@ -76,7 +76,7 @@ really be seen as the framing domain, but that doesn't strike me a
 distinction that is particularly worth making.
 
 - **Corporate Law and Structure and Cooperative Economics.**
-`link <http://tychoish.com/archive/cooperatives/>`__
+  `link <http://tychoish.com/archive/cooperatives/>`__
 
 Interestingly, my discussion of cooperatives and corporate organization
 began as a "pro-queer rejection of gay marriage," but I've used it as an
@@ -96,7 +96,7 @@ scientist, I do think that thinking about the economics of a situation
 is incredibly important.
 
 - **New Media and the Publishing Industry.**
-`link <http://tychoish.com/archive/new-media/>`__
+  `link <http://tychoish.com/archive/new-media/>`__
 
 I've been blogging for a long time. And I'm a
 `writer <http://tychoish.com/rhizome/i-am-a-writer/>`__. And I want to
@@ -134,4 +134,3 @@ attention to citations, and develop some system for doing more empirical
 work.
 
 We'll see how this goes. I'd certainly appreciate feedback here. Thanks!
-

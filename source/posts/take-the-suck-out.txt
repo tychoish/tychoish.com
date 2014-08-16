@@ -20,17 +20,7 @@ class.
 
 "Yes!" The professors excitement is radiant.
 
-.. raw:: html
-
-<div align="center">
-
--
-
-- \*
-
-.. raw:: html
-
-</div>
+--------------------
 
 Not another one. I'm really irritated by this physics-envy that
 psychologists get. It's like they're completely oblivious. Wouldn't be
@@ -38,34 +28,14 @@ the first time. Turns me off in a big way. I like the discipline, and I
 have great hopes for what it can illuminate, but I think it's all the
 Women's Studies going to my head.
 
-.. raw:: html
-
-<div align="center">
-
--
-
-- \*
-
-.. raw:: html
-
-</div>
+--------------------
 
 "What we need is to develop a different epistemological system that
 values non scientifically obtained knowledge."
 
 "You're *such* a women's studies major."
 
-.. raw:: html
-
-<div align="center">
-
--
-
-- \*
-
-.. raw:: html
-
-</div>
+--------------------
 
 "I think what I don't like about psychology is that it's approached from
 an empirical method, rather than a theoretically. I'm a theory junkie.
@@ -92,4 +62,3 @@ sit through the damn classes."
 "Of course, doesn't mean I can't enjoy a little misery now and then."
 
 "You're a strange one, Sam."
-

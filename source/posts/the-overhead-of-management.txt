@@ -75,7 +75,5 @@ mildly.
 
 Thoughts? Onward and Upward!
 
-.. [1]
-Alan Cox's `Cathedrals, Bazaars and the Town
-Council <http://slashdot.org/features/98/10/13/1423253.shtml>`__
-
+.. [1] Alan Cox's `Cathedrals, Bazaars and the Town Council
+   <http://slashdot.org/features/98/10/13/1423253.shtml>`__

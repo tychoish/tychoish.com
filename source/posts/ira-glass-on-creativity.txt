@@ -7,14 +7,11 @@ Ira Glass on Creativity
 
 .. raw:: html
 
-<object width="425" height="344">
-
-.. raw:: html
-
-<embed
-src="http://www.youtube.com/v/-hidvElQ0xE&hl=en"
-type="application/x-shockwave-flash" wmode="transparent" width="425"
-height="344"></embed></object>
+   <object width="425" height="344">
+   <embed
+     src="http://www.youtube.com/v/-hidvElQ0xE&hl=en"
+     type="application/x-shockwave-flash" wmode="transparent" width="425"
+     height="344"></embed></object>
 
 **Via:** `43Folders <http://www.43folders.com>`__ and
 `Mur <http://www.murverse.com>`__
@@ -59,12 +56,10 @@ sites' development. Maybe a week from today?
 
 Stay tuned.
 
-.. [1]
-I've sort of been thinking about this as a maxim of "success on the
-internet," because I think it's particularly true from an
-online/independent business perspective, given that online ventures
-have trivial costs, aside from "time making crap." But I think the
-video makes the point that this is true in all sorts of contexts
-where creative proficiency is the goal. So then, it's more a maxim of
-"success in creativity."
-
+.. [1] I've sort of been thinking about this as a maxim of "success on the
+   internet," because I think it's particularly true from an
+   online/independent business perspective, given that online ventures
+   have trivial costs, aside from "time making crap." But I think the
+   video makes the point that this is true in all sorts of contexts
+   where creative proficiency is the goal. So then, it's more a maxim of
+   "success in creativity."

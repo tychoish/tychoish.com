@@ -36,8 +36,7 @@ kind of thing that you used a little and then went back to
 `AIM <http://en.wikipedia.org/wiki/AOL_Instant_Messenger>`__ because the
 clients all sucked, no one really understood or used it, and frankly AIM
 worked better. In the `last year or two things have really started to
-come
-together <http://metajack.im/2008/10/05/it-feels-like-the-beginning/>`__,
+come together <http://metajack.im/2008/10/05/it-feels-like-the-beginning/>`__,
 I think, and XMPP is starting to seem really cool, and really powerful.
 Truth be told, I think this has a lot to do with critical mass, and the
 fact that google's IM platform (Gtalk) is XMPP/Jabber based and
@@ -85,23 +84,20 @@ one direction or another, I'd love to hear it.
 
 Onward and `Upward <http://criticalfutures.com>`__!
 
-.. [1]
-I hate the "to do this really cool thing you need to fill out a
-membership application," mentality that a lot of cool things on the
-internet have. Particularly since google gives away jabber IDs with
-all their accounts, this becomes even more awesome.
+.. [1] I hate the "to do this really cool thing you need to fill out a
+   membership application," mentality that a lot of cool things on the
+   internet have. Particularly since google gives away jabber IDs with
+   all their accounts, this becomes even more awesome.
 
-.. [2]
-The argument in favor of centralized servers is that they simplify
-the message/data routing problem, so that individual clients needn't
-be able to find each-other as long as each client can find the
-server. The problem is that we use programs like
-`adium <http://www.adiumx.com/>`__/`pidgin <http://www.pidgin.im/>`__
-or `colloquy <http://colloquy.info/>`__ that allow us to connect to a
-bunch of different servers all at once. Which is clearly not
-advantageous, or ideal. Most of the time I'm connected to at least 4
-different IM services, and at least a few IRC networks
-(freenode/oftc/undernet are most regular in that order, but
-ircnet/xkcd/sff/wyldryde are all on my list), which really, when you
-think about is kind of outlandish.
-
+.. [2] The argument in favor of centralized servers is that they simplify
+   the message/data routing problem, so that individual clients needn't
+   be able to find each-other as long as each client can find the
+   server. The problem is that we use programs like
+   `adium <http://www.adiumx.com/>`__/`pidgin <http://www.pidgin.im/>`__
+   or `colloquy <http://colloquy.info/>`__ that allow us to connect to a
+   bunch of different servers all at once. Which is clearly not
+   advantageous, or ideal. Most of the time I'm connected to at least 4
+   different IM services, and at least a few IRC networks
+   (freenode/oftc/undernet are most regular in that order, but
+   ircnet/xkcd/sff/wyldryde are all on my list), which really, when you
+   think about is kind of outlandish.

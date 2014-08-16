@@ -65,23 +65,19 @@ with. [3]_ So who know, I might make the switch yet.
 
 Stranger things have happened.
 
-.. [1]
-It's like we're not so much reliving the editor wars, as seeing
-resonances/shockwaves from them. For instance the key bindings have a
-lot of emacs in them, while Google Reader definitely seems like it
-was made by vim users. I think we should start a game of trying to
-figure out which apps and environments were inspired by which editor.
+.. [1] It's like we're not so much reliving the editor wars, as seeing
+   resonances/shockwaves from them. For instance the key bindings have a
+   lot of emacs in them, while Google Reader definitely seems like it
+   was made by vim users. I think we should start a game of trying to
+   figure out which apps and environments were inspired by which editor.
 
-.. [2]
-I somehow manage to be both a huge advanced geek, (I live in
-terminals, I bought a linux desktop to run a tiling window manager, I
-almost live in text editors, etc.) And also I'm not a programer, and
-I don't have any background in that sort of thing, so the most
-rudimentary of coding things can confuse me terribly. It's a weird
-boundary to walk, and I should probably expand on it later.
+.. [2] I somehow manage to be both a huge advanced geek, (I live in
+   terminals, I bought a linux desktop to run a tiling window manager, I
+   almost live in text editors, etc.) And also I'm not a programer, and
+   I don't have any background in that sort of thing, so the most
+   rudimentary of coding things can confuse me terribly. It's a weird
+   boundary to walk, and I should probably expand on it later.
 
-.. [3]
-I've had my caps-lock key mapped to "control" for years now. I think
-I should probably--for maximum emacs foo--remap my right shift key to
-alt, but I'm withholding judgement for the moment.
-
+.. [3] I've had my caps-lock key mapped to "control" for years now. I think
+   I should probably--for maximum emacs foo--remap my right shift key to
+   alt, but I'm withholding judgement for the moment.

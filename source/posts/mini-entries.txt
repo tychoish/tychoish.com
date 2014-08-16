@@ -15,9 +15,7 @@ So I have two completely desperate entire ideas that aren't nearly
 fleshed out enough (and probably won't be). One's about geek stuff and
 the other is about Freudianism. So here they are.
 
-.. raw:: html
-
-<hr width="20%" />
+--------------------
 
 **Early Adopting** Once upon a time, I fancied myself something of a
 power geek, and I knew a lot about a great deal of technical this and
@@ -43,9 +41,7 @@ amazing, but they need more development time, and there's really nothing
 much that I can do except wait for the programers to get where I want to
 be. And its frustrating. *angst*
 
-.. raw:: html
-
-<hr width="20%" />
+--------------------
 
 **Freudianism** This is more instep with the kind of entries I'm best at
 writing...
@@ -67,72 +63,30 @@ psychoanalytic-derived theories. Classical psychoanalysis is clearly
 flawed, and Freud is dated, [1]_ but psychoanalysis isn't all bad. For
 instance:
 
-.. raw:: html
+- it allows the possibility to theorize the mind in a philosophical
+  tradition
 
-<ul>
-<li>
+- it allows us to consider mental functioning outside of our awareness
 
-it allows the possibility to theorize the mind in a philosophical
-tradition
+- it allows us to think about formative experiences as, well, formative in
+  the development of the individual
 
-.. raw:: html
+- it allows individuals to be considered as individuals, rather than as
+  simply constitutant parts
 
-</li>
-<li>
+- it integrates theories of normal personality with theories of abnormal
+  personality
 
-it allows us to consider mental functioning outside of our awareness
+- the discourse on psychonanalyical theory exists, for better or for
+  worse, outside of typical academic institutional structures
 
-.. raw:: html
+- it allows a place for subjective interpretation in the
+  practice/theorizing of psychology and/or the social sciences.
 
-</li>
-<li>
-
-it allows us to think about formative experiences as, well, formative in
-the development of the individual
-
-.. raw:: html
-
-</li>
-<li>
-
-it allows individuals to be considered as individuals, rather than as
-simply constitutant parts
-
-.. raw:: html
-
-</li>
-<li>
-
-it integrates theories of normal personality with theories of abnormal
-personality
-
-.. raw:: html
-
-</li>
-<li>
-
-the discourse on psychonanalyical theory exists, for better or for
-worse, outside of typical academic institutional structures
-
-.. raw:: html
-
-</li>
-<li>
-
-it allows a place for subjective interpretation in the
-practice/theorizing of psychology and/or the social sciences.
-
-.. raw:: html
-
-</li>
-</ul>
-
-So yeah, that's what I've been thinking about. Not exhaustive, or
-substantiated, but worthwhile, I guess.
+- So yeah, that's what I've been thinking about. Not exhaustive, or
+  substantiated, but worthwhile, I guess.
 
 Cheers, tycho(ish)
 
-.. [1]
-though a friend recently pointed out, quite deftly, that Freud and
-other early psychoanalysts were incredibly radical for their times.
-
+.. [1] though a friend recently pointed out, quite deftly, that Freud and
+   other early psychoanalysts were incredibly radical for their times.

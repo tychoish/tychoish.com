@@ -24,39 +24,39 @@ more to impede success than encourage it.
 My reasoning:
 
 - November is the worst month, with the holidays and the time change,
-potentially. November also tends to be bad for people who are in
-school or who teach school, as the semester draws to an end. December
-might be *even* worse in these respects. Here are some arguments for
-other months: February or March, (in the northern hemisphere) are
-cold months where you just want to stay at home, and what better time
-to write a novel? May is upbeat and fresh. June has no major holidays
-and rides a wave of Summer euphoria. Defenders of NaNo say "There's
-no good month, so we might as well use November." I reject this
-logic. Picking a bad month of the year can do a lot for the success
-rate of the people who attempt the project, I figure.
+  potentially. November also tends to be bad for people who are in
+  school or who teach school, as the semester draws to an end. December
+  might be *even* worse in these respects. Here are some arguments for
+  other months: February or March, (in the northern hemisphere) are
+  cold months where you just want to stay at home, and what better time
+  to write a novel? May is upbeat and fresh. June has no major holidays
+  and rides a wave of Summer euphoria. Defenders of NaNo say "There's
+  no good month, so we might as well use November." I reject this
+  logic. Picking a bad month of the year can do a lot for the success
+  rate of the people who attempt the project, I figure.
 
 - The novel is too short. While it would probably also decrease success
-rate to make the NaNo Novel a publishable length (60-80k or so), I
-think having people end up with a piece that's sort of unusable in
-the "real world" can be discouraging as well. If they get something
-they like from NaNo, and they want to publish it, they have to write
-at least another ten thousand words and possibly as much as 50
-thousand words. Digital distribution helps these things a bit, but
-the size is an issue.
+  rate to make the NaNo Novel a publishable length (60-80k or so), I
+  think having people end up with a piece that's sort of unusable in
+  the "real world" can be discouraging as well. If they get something
+  they like from NaNo, and they want to publish it, they have to write
+  at least another ten thousand words and possibly as much as 50
+  thousand words. Digital distribution helps these things a bit, but
+  the size is an issue.
 
 - What "real writers" do, is write *every single day*. The trick to
-being able to be a writer isn't the ability to turn out a quantity of
-prose on demand. It's the ability to sustainably work on projects all
-year round. To turn off the internal editor long enough that you get
-something on the paper, and then turn it back on so that "something"
-doesn't suck. They're able to take `experiences and turn them into
-texts <http://criticalfutures.com/2009/11/i-am-a-writer/>`__.
+  being able to be a writer isn't the ability to turn out a quantity of
+  prose on demand. It's the ability to sustainably work on projects all
+  year round. To turn off the internal editor long enough that you get
+  something on the paper, and then turn it back on so that "something"
+  doesn't suck. They're able to take `experiences and turn them into
+  texts <http://criticalfutures.com/2009/11/i-am-a-writer/>`__.
 
 - I'm not sure that the fetishization of the novel form is particularly
-productive. I think there's a lot of power and future in `shorter
-forms <http://www.365tomorrows.com/>`__. For learning how to be a
-writer, writing shorter works is probably a more effective way to
-learn to tell stories and create characters anyway.
+  productive. I think there's a lot of power and future in `shorter
+  forms <http://www.365tomorrows.com/>`__. For learning how to be a
+  writer, writing shorter works is probably a more effective way to
+  learn to tell stories and create characters anyway.
 
 Having said that, congrats to the people who did NaNo. Keep writing.
 You've probably found a few extra hours in your day that you didn't know
@@ -69,4 +69,3 @@ I'm closing in on the end of the draft. Its now done yet. Soon, perhaps.
 Also, I think I should probably do some blogging here about learning to
 write, and teaching writing given that I got here by way of a strange
 path and feel so strongly about these things.
-

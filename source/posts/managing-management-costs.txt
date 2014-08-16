@@ -26,17 +26,17 @@ than an approach to design or organization. And the basic premise is:
 accomplish what you need to by doing less.*\ "
 
 - Feel like you spend too much time reading email, or have too many
-email inboxes to check (personal email, work email, special project
-email, listserv email, facebook email, etc.)? Forward your email into
-one box and filter the hell out of it so that you only read what you
-really have to and it's manageable.
+  email inboxes to check (personal email, work email, special project
+  email, listserv email, facebook email, etc.)? Forward your email into
+  one box and filter the hell out of it so that you only read what you
+  really have to and it's manageable.
 
 - Feel like you have too many todo lists? Compile them into a single
-list and use some sort of tag system to organize it.
+  list and use some sort of tag system to organize it.
 
 - Feel like your notes and documents are scared in too many places?
-Combine them and use some sort of search tool to find things when you
-need them.
+  Combine them and use some sort of search tool to find things when you
+  need them.
 
 And so forth. In the analog information world (i.e. with papers,
 notebooks, and books) we often take the approach of sorting things into
@@ -72,7 +72,5 @@ If your experiences reflect this (or run contrary to this logic,) I'd be
 very interested in hearing about how you have solved, and have continued
 to solve the issue.
 
-.. [1]
-This kind of system actually makes a lot of sense in the paper world,
-but is borderline absurd in the digital systems.
-
+.. [1] This kind of system actually makes a lot of sense in the paper world,
+   but is borderline absurd in the digital systems.

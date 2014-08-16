@@ -51,24 +51,24 @@ maintainable shell scripts and build systems.
 
 - a good, usable, non-procedural way manage argument parsing.
 
-In python, I like ``argprase`` and think it works really well, so I'm
-not saying we need some set of tools to actually parse the arguments
-that people input on the command line. But I think when you're writing a
-script, ``argparse`` is too low level, and pretty soon there are a few
-hundred lines of declarative code, and you still have to connect this up
-with the actual code, which leads to maintenance headaches and all sorts
-of dumb errors.
+  In python, I like ``argprase`` and think it works really well, so I'm
+  not saying we need some set of tools to actually parse the arguments
+  that people input on the command line. But I think when you're writing a
+  script, ``argparse`` is too low level, and pretty soon there are a few
+  hundred lines of declarative code, and you still have to connect this up
+  with the actual code, which leads to maintenance headaches and all sorts
+  of dumb errors.
 
 - a good framework for expressing multi-stage tasks and their
-dependencies and relationships.
+  dependencies and relationships.
 
-This may basically be `waf <https://code.google.com/p/waf/>`__, but I
-think we can do something similar. I made an attempt at this with
-`buildcloth <https://pypi.python.org/pypi/buildcloth/>`__ but I think I
-ended up with something that's too much of a (meta) build automation
-tool, and not enough of a general purpose paradigm for organizing code
-to perform related tasks in a clean, modular, and well organized sort of
-way.
+  This may basically be `waf <https://code.google.com/p/waf/>`__, but I
+  think we can do something similar. I made an attempt at this with
+  `buildcloth <https://pypi.python.org/pypi/buildcloth/>`__ but I think I
+  ended up with something that's too much of a (meta) build automation
+  tool, and not enough of a general purpose paradigm for organizing code
+  to perform related tasks in a clean, modular, and well organized sort of
+  way.
 
 These aren't fabric specific problems, or Python-specific problems, of
 course. But they are particularly relevant to Python moderatly sized
@@ -82,4 +82,3 @@ by a large and somewhat overgrown fabric-based project, that needs
 refactoring. Thankfully, matters are not critical, but I do want to
 figure out the right way to solve this kind of problem before I start
 hacking.
-

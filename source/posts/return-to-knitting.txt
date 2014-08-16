@@ -1,5 +1,5 @@
 ===================
-Return to Knitting 
+Return to Knitting
 ===================
 
 .. post:: 2008-07-10
@@ -57,7 +57,5 @@ nice feeling. I'll have to write about that as I ponder this more.
 
 It's good to be back, at any rate.
 
-.. [1]
-I know, it's odd that I seem to buy pounds in "old money" and think
-about skeins and progress in grams. I have no explanation.
-
+.. [1] I know, it's odd that I seem to buy pounds in "old money" and think
+   about skeins and progress in grams. I have no explanation.

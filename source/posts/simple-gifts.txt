@@ -29,23 +29,23 @@ So what gives? why have I finally been able to figure out how to say
 what I want to say in fewer words? Here are the current theories:
 
 - The writing I do for the day job is teaching me (slowly) to be a bit
-more concise.
+  more concise.
 
 - My self imposed schedule is forcing me to be a bit more granular in
-the topics I choose to attack in a single blog post.
+  the topics I choose to attack in a single blog post.
 
 - I'm getting to the point quicker. I don't feel like I'm spending as
-much time running around my arguments attempting to explain the
-premise.
+  much time running around my arguments attempting to explain the
+  premise.
 
 - I've become more of a textual stylist than I ever used to be before.
-While I don't think I'm a stunning prose stylist, I'm much more aware
-of how my paragraphs come together these days, and I think that leads
-to more clear prose.
+  While I don't think I'm a stunning prose stylist, I'm much more aware
+  of how my paragraphs come together these days, and I think that leads
+  to more clear prose.
 
 - I'm getting better at using unordered lists to organize information
-rather than as a rhetorical crutch. (Most reflexive bullet point
-**ever.**)
+  rather than as a rhetorical crutch. (Most reflexive bullet point
+  **ever.**)
 
 --------------
 
@@ -77,6 +77,4 @@ anything.
 
 Its funny how things change, sometimes.
 
-.. [1]
-Apologies to H.S. for the liberties I've taken with her words.
-
+.. [1] Apologies to H.S. for the liberties I've taken with her words.

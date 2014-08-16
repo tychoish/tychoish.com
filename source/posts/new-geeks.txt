@@ -60,9 +60,7 @@ in. If you have feedback, of course...
 
 Onward and Upward!
 
-.. [1]
-This might seem obvious, but I think one of the reasons that Apple's
-laptops are so successful is that by controlling the hardware as they
-can, they can get *great* battery performance and the best sleep/wake
-functionality around.
-
+.. [1] This might seem obvious, but I think one of the reasons that Apple's
+   laptops are so successful is that by controlling the hardware as they
+   can, they can get *great* battery performance and the best sleep/wake
+   functionality around.

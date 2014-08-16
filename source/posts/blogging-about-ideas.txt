@@ -28,28 +28,26 @@ I'd like to put out 4 *general* theories for your consideration about
 "blogging that works:" [1]_
 
 1. Posts should generally explore ideas, concepts, events, and other
-texts. But mostly ideas.
+   texts. But mostly ideas.
 
 2. Posts should explore *one* idea/concept, and only *one* idea/concept.
-If you want to write more complex essays, figure out a way to write
-articles for a more tratditionally formated publication (such things
-exist on the web).
+   If you want to write more complex essays, figure out a way to write
+   articles for a more tratditionally formated publication (such things
+   exist on the web).
 
 3. Blogs are highly referential texts. Blogs which don't include links
-to other blogs, and/or don't include quoted text I think miss some of
-the point of what makes the web so great.
+   to other blogs, and/or don't include quoted text I think miss some of
+   the point of what makes the web so great.
 
 4. Blog posts need to be short. (Guilty as charged!) Blogs are meant to
-be read in concert with other blogs, and time is
-`scarce <http://tychoish.com/rhizome/on-scarcity/>`__. Also attention
-is scarce. And really if you're only talking about one idea, getting
-it into ~400 words is hard, but it's something to aim for.
+   be read in concert with other blogs, and time is
+   `scarce <http://tychoish.com/rhizome/on-scarcity/>`__. Also attention
+   is scarce. And really if you're only talking about one idea, getting
+   it into ~400 words is hard, but it's something to aim for.
 
 That's what I have. Any ideas on your end? Speaking of under 400 words,
 I'll be done now, with none to spare!
 
-.. [1]
-In some perverse way I guess this is a "X tips for Better Blogging"
-post, but I don't care if you `digg <http://www.digg.com/>`__ it or
-not.
-
+.. [1] In some perverse way I guess this is a "X tips for Better Blogging"
+   post, but I don't care if you `digg <http://www.digg.com/>`__ it or
+   not.

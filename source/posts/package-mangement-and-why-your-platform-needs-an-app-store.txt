@@ -11,7 +11,7 @@ terminal and type something to the effect of:
 
 ::
 
-apt-get install rxvt-unicode
+   apt-get install rxvt-unicode
 
 Which is a great little terminal emulator. I recommend it. Assuming I
 have a live interned connection, and the application I'm installing
@@ -32,20 +32,20 @@ before <http://tychoish.com/rhizome/on-package-management/>`__, but to
 summarize:
 
 1. We use package managers because many programs share dependencies,
-that we wouldn't want to install twice or three times, but that we
-might not want to install by default with every installation of an
-operating system. Making sure that everything gets installed is
-important. This, is I think, a fairly unique-to-open-source problem,
-because in the proprietary system the dependencies are installed by
-default (as in there are more monolithic development environments,
-like .NET, Cocoa, and Java [1]_, and other older non-managed
-options).
+   that we wouldn't want to install twice or three times, but that we
+   might not want to install by default with every installation of an
+   operating system. Making sure that everything gets installed is
+   important. This, is I think, a fairly unique-to-open-source problem,
+   because in the proprietary system the dependencies are installed by
+   default (as in there are more monolithic development environments,
+   like .NET, Cocoa, and Java [1]_, and other older non-managed
+   options).
 
 2. One of the defining characteristics of open source software is the
-fact that it's meant to be redistributed. Package management makes it
-easy to redistribute software, and provides real value for both the
-users of the operating system and for the upstream developers. Or so
-I'm lead to believe.
+   fact that it's meant to be redistributed. Package management makes it
+   easy to redistribute software, and provides real value for both the
+   users of the operating system and for the upstream developers. Or so
+   I'm lead to believe.
 
 In the end, we're back at the beginning where, you can install just
 about anything in the world if you know what the package is named, and
@@ -89,40 +89,35 @@ and survive in this kind of environment?
 
 I look forward to hearing from you.
 
-.. [1]
-Let's not bicker about this, because the argument breaks down here a
-bit, admittedly, given that Java is now, mostly open. But it wasn't
-*designed* as an open system, and all of these solve the dependency
-problem by--I think--providing a big "standard runtime," and
-statically compiling anything extra into the program's executable. Or
-something.
+.. [1] Let's not bicker about this, because the argument breaks down here a
+   bit, admittedly, given that Java is now, mostly open. But it wasn't
+   *designed* as an open system, and all of these solve the dependency
+   problem by--I think--providing a big "standard runtime," and
+   statically compiling anything extra into the program's executable. Or
+   something.
 
-.. [2]
-Package management sometimes breaks things, it's true, but I've never
-really had a problem that I haven't been able to recover from in
-reasonably short order. I mean, things have broken, and I will be the
-first to admit that my systems are far from pristine, but everything
-works, and that's good enough for me.
+.. [2] Package management sometimes breaks things, it's true, but I've never
+   really had a problem that I haven't been able to recover from in
+   reasonably short order. I mean, things have broken, and I will be the
+   first to admit that my systems are far from pristine, but everything
+   works, and that's good enough for me.
 
-.. [3]
-While its possible to use more than one package manager at once, and
-there are cases even on linux where this is common (i.e. CPAN shell,
-system packages (apt/deb, yum/rpm) and ruby gems, haskell cabal and
-so forth) it's not preferable: Sometimes a package will be installed
-by a language-specific program manager and then the system package
-manager will install (over it) a newer or older version of the
-package, which you might not notice, or it might just cause something
-to act a bit funny on some systems. If you're lucky, Usually stuff
-breaks.
+.. [3] While its possible to use more than one package manager at once, and
+   there are cases even on linux where this is common (i.e. CPAN shell,
+   system packages (apt/deb, yum/rpm) and ruby gems, haskell cabal and
+   so forth) it's not preferable: Sometimes a package will be installed
+   by a language-specific program manager and then the system package
+   manager will install (over it) a newer or older version of the
+   package, which you might not notice, or it might just cause something
+   to act a bit funny on some systems. If you're lucky, Usually stuff
+   breaks.
 
-.. [4]
-Which means, I think indirectly that we're seeing a move away from
-static linking and bundling of frameworks and into a single binary or
-bundle. This is one of the advancements of OS X, that all
-applications are delivered in these "bundles" which are just
-directories that contain everything that an application needs to run.
-Apple addressed the dependency problem by removing all dependencies.
-And this works in the contemporary world because if an App had to be
-a few extra megs to include its dependencies? No big deal. Same with
-Ram usage.
-
+.. [4] Which means, I think indirectly that we're seeing a move away from
+   static linking and bundling of frameworks and into a single binary or
+   bundle. This is one of the advancements of OS X, that all
+   applications are delivered in these "bundles" which are just
+   directories that contain everything that an application needs to run.
+   Apple addressed the dependency problem by removing all dependencies.
+   And this works in the contemporary world because if an App had to be
+   a few extra megs to include its dependencies? No big deal. Same with
+   Ram usage.

@@ -60,10 +60,8 @@ have 3-4 inches done.
 
 That's all I have right now. How has your knitting been going.
 
-.. [1]
-For the non-knitters, swatches are samples that you knit to help
-figure out how many stitches/knitting you need in a project. Also,
-while I don't usually don't swatch, in this case, the sweater is
-constructed in such a way that you don't need to know your gauge.
-This is pretty cool, I think.
-
+.. [1] For the non-knitters, swatches are samples that you knit to help
+   figure out how many stitches/knitting you need in a project. Also,
+   while I don't usually don't swatch, in this case, the sweater is
+   constructed in such a way that you don't need to know your gauge.
+   This is pretty cool, I think.

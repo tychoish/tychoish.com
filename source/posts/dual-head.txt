@@ -70,9 +70,7 @@ present/organize information on our screens Thoughts?
 
 Onward and Upward?
 
-.. [1]
-It turns out that monitors these days cost a quarter of what they
-cost 5 years ago. In point of fact I was able to get both monitors
-*and* a new computer for what a single LCD cost the last time I had a
-desktop computer. Imagine that.
-
+.. [1] It turns out that monitors these days cost a quarter of what they
+   cost 5 years ago. In point of fact I was able to get both monitors
+   *and* a new computer for what a single LCD cost the last time I had a
+   desktop computer. Imagine that.

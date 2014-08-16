@@ -10,18 +10,6 @@ Hey folks,
 Last night I despite not having finished my previous sweater (the hem,
 it pains me) I sat down and figured out the design for my next sweater.
 
-Here's a preview:
-
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
-That's just snapshot of the chart.
-
 Anyway. I've wanted to host a knit-a-long for a long time, and I figure
 there's no time like the present right?
 
@@ -43,4 +31,3 @@ well, tychoish.
 Anybody game? Tell your friends and stay tuned!
 
 Onward and Upward!
-

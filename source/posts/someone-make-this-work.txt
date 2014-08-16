@@ -9,14 +9,16 @@ It strikes me that there must exist a piece of software that does the
 following task:
 
 1. Allow you to maintain a directory structure of plain text files with
-some sort of mark up of your choosing (ASCII, markdown, textile,
-html, etc.). for the purposes of example, lets say that these files
-are in the format of /FileName.txt
+   some sort of mark up of your choosing (ASCII, markdown, textile,
+   html, etc.). for the purposes of example, lets say that these files
+   are in the format of /FileName.txt
+
 2. When you go to /FileName.php (or whatever) the program:
 
-- adds the content of a designated header.php and footer.php file to
-the begining and end of the file.
-- runs the file through some sort of text filter
+   - adds the content of a designated header.php and footer.php file to
+     the begining and end of the file.
+
+   - runs the file through some sort of text filter
 
 That's it. Maybe you'd want to figure out how to get an auto-generated
 page list, but that's not necessary. Now I figure to make the whole
@@ -37,4 +39,3 @@ real security, outside of .htaccess (and I would expect that there'd be
 no small measure of .htaccess wizardry.)
 
 Thoughts? pointers? cheers
-

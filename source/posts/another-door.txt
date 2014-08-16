@@ -48,10 +48,6 @@ Ok, I'm cutting the rest of the blather about the computer to below
 the fold, because, that just seems reasonable. There's not much else
 for me to report, really. I'll be in touch. You be too!
 
-.. raw:: html
-
-<!--more-->
-
 The truth is that I use a computer *a lot.* I'm a serious geek. But you
 knew that. While my other "hobbies" (reading, knitting) also require the
 expenditures of income, I'm really economical about them. I buy in bulk,
@@ -69,4 +65,3 @@ facilitates, projects that are of prime importance to me (my work
 online, writing, etc.) having a more current tool wouldn't be a bad
 thing. So, I don't think I'm being unreasonable. But then, you know
 reason and necessity aren't exactly the same thing.
-

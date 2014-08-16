@@ -69,39 +69,34 @@ post about backup, but that's for another day.
 
 Onward and `Upward <http://criticalfutures.com/>`__!
 
-.. [1]
-So here's a bit of specialized knowledge that doesn't get out very
-much: Apparently Pilot/Namiki (who also, incidentally make the nibs
-for Cross pens, or used to at any rate) run about a half size smaller
-than other makers. I think this is the difference between
-German/European and Japanese/Asian pen makers (which I think is
-true,) and might be related to the difference in absorbency of
-velum/high-rag content paper, versus rice paper, but that's just me
-talking out of my ass.
+.. [1] So here's a bit of specialized knowledge that doesn't get out very
+   much: Apparently Pilot/Namiki (who also, incidentally make the nibs
+   for Cross pens, or used to at any rate) run about a half size smaller
+   than other makers. I think this is the difference between
+   German/European and Japanese/Asian pen makers (which I think is
+   true,) and might be related to the difference in absorbency of
+   velum/high-rag content paper, versus rice paper, but that's just me
+   talking out of my ass.
 
-.. [2]
-Interestingly, this has always been the most successful when I have
-used the least structured note taking methods, and don't divide my
-notetaking into too many piles. Having one big box to put things in,
-means that the semantic connections between all the bits of
-information remain intact.
+.. [2] Interestingly, this has always been the most successful when I have
+   used the least structured note taking methods, and don't divide my
+   notetaking into too many piles. Having one big box to put things in,
+   means that the semantic connections between all the bits of
+   information remain intact.
 
-.. [3]
-I'm *tycho of the footnotes* today. Anyway, as an aside I'd wager
-that the "browsability" of wikis is perhaps the undervalued key to
-their success (and also a reason why many wiki's fail). You can, as I
-often do, just bounce around a topic or category in wikipedia and
-learn a great deal, whereas with the rest of the internet, you're
-less likely to get more than one or two degrees away from a google
-search.
+.. [3] I'm *tycho of the footnotes* today. Anyway, as an aside I'd wager
+   that the "browsability" of wikis is perhaps the undervalued key to
+   their success (and also a reason why many wiki's fail). You can, as I
+   often do, just bounce around a topic or category in wikipedia and
+   learn a great deal, whereas with the rest of the internet, you're
+   less likely to get more than one or two degrees away from a google
+   search.
 
-.. [4]
-It's really ironic, because new hardware/software, and a more capable
-database, should make the software work *better* not *worse*, but
-it's clearly an install issue related to the fact that I'm in a
-pretty non standard environment. It's a **great** program, and it's
-even better if you're using a debian-flavor and don't have to fight
-it to install. Seriously this is another aside, but if I could get OS
-X apps and interfaces with a debian core/apt-get that really worked
-consistently, I would never look back.
-
+.. [4] It's really ironic, because new hardware/software, and a more capable
+   database, should make the software work *better* not *worse*, but
+   it's clearly an install issue related to the fact that I'm in a
+   pretty non standard environment. It's a **great** program, and it's
+   even better if you're using a debian-flavor and don't have to fight
+   it to install. Seriously this is another aside, but if I could get OS
+   X apps and interfaces with a debian core/apt-get that really worked
+   consistently, I would never look back.

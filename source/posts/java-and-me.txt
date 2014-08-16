@@ -15,10 +15,10 @@ but they tend take a very productive approach to these kinds of things.
 For reference, my posts on the subject are:
 
 - `Caring about
-Java <http://criticalfutures.com/2011/02/caring-about-java/>`__ and
+  Java <http://criticalfutures.com/2011/02/caring-about-java/>`__ and
 
 - `Where is Java
-Today <http://criticalfutures.com/2010/03/where-is-java-today/>`__
+  Today <http://criticalfutures.com/2010/03/where-is-java-today/>`__
 
 Most "end-users" don't really care much about things like Java except
 when it doesn't work, as is the case when some component of the Java
@@ -42,4 +42,3 @@ is lead by the way developers think about software.
 
 Ultimately Java developers are what make Java is important, not just for
 me but for everyone.
-

@@ -47,31 +47,28 @@ Knitting.)
 So I wanted to post pictures of the other two sweaters in this series
 for reference, and because I finally have pictures of these sweaters.
 
-Here's the first iteration. |Original Sport Sweater on Table|
+Here's the first iteration:
+
+.. figure:: http://farm3.static.flickr.com/2223/2059346563_d39db6984e.jpg?v=0
+   :alt: First iteration
 
 and
 
 .. figure:: http://farm3.static.flickr.com/2327/2060134520_d119f6aa28.jpg?v=0
-:alt: Wearing Original Sport Sweater
+   :alt: Wearing Original Sport Sweater
 
-Wearing Original Sport Sweater
 Here's the remake version that I did two years ago, in attempt to get
 something that was a little bit more fitted, out of better yarn.
 
 .. figure:: http://farm3.static.flickr.com/2298/2059343843_80c8bd8646.jpg?v=0
-:alt: Gray Sport on Table
+   :alt: Gray Sport on Table
 
-Gray Sport on Table
 and
 
 .. figure:: http://farm3.static.flickr.com/2395/2059338327_1e3bb67e11.jpg?v=0
-:alt: Gray Sport Wearing
+   :alt: Gray Sport Wearing
 
-Gray Sport Wearing
 Enjoy. Working an unusual Saturday at the Yarn Store. Hoping I'm not too
 worn by the end of the day.
 
 Onward and Upward!
-
-.. |Original Sport Sweater on Table| image:: http://farm3.static.flickr.com/2223/2059346563_d39db6984e.jpg?v=0
-

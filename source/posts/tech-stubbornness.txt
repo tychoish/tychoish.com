@@ -15,10 +15,6 @@ a synch).
 As this is a fairly geeky post, I'm going to put the bulk of it below
 the fold...
 
-.. raw:: html
-
-<!--more-->
-
 It's a long story but the short of it is: I don't have it down yet, and
 I think there are a number of things that I have yet to learn how to do
 properly that I can do with out any fuss in TextMate. Vim can do them,
@@ -55,4 +51,3 @@ because I've broken down and gone back to TextMate. But eventually. I'll
 post a list of things to master at some point.
 
 Anyway, enough for now.
-

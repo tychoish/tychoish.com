@@ -44,8 +44,8 @@ Now, when you start emacs, use commands in the following form:
 
 ::
 
-emacs --daemon=tychoish
-emacs --daemon=work
+   emacs --daemon=tychoish
+   emacs --daemon=work
 
 Each server process creates a state file in the
 "``~/.emacs.d/server/``\ " folder. If you are using version control on
@@ -57,8 +57,8 @@ daemon,) use commands in the following form
 
 ::
 
-emacsclient --server-file=tychoish -c -n
-emacsclient --server-file=work -c -n
+   emacsclient --server-file=tychoish -c -n
+   emacsclient --server-file=work -c -n
 
 You may append a file name to open a specific client with one of these
 ``emacsclient`` invocations, or use any of the other ``emacsclient``
@@ -72,8 +72,8 @@ user's ``crontab`` file:
 
 ::
 
-@reboot    emacs --daemon=tychoish
-@reboot    emacs --daemon=work
+   @reboot    emacs --daemon=tychoish
+   @reboot    emacs --daemon=work
 
 These lines ensure that the usual (and expected) named emacs daemons are
 started following reboot. More generally, the @reboot cronjob is great
@@ -84,16 +84,15 @@ In conclusion I'd like to present one piece of unsolicited advice, and
 ask a question the assembled.
 
 - **Advice**: Even though it's possible to create a large number of
-emacs instances, and on modern systems the required RAM is pretty
-low, *avoid* this temptation. The more emacs instances you have to
-juggle the greater the chance that you'll forget what buffers are
-open in what instance. Undesirable.
+  emacs instances, and on modern systems the required RAM is pretty
+  low, *avoid* this temptation. The more emacs instances you have to
+  juggle the greater the chance that you'll forget what buffers are
+  open in what instance. Undesirable.
 
 - **Question**: Is there a way to get the value of ``server-name`` in
-into emacs lisp so that I can ``if`` things against it? Haven't
-figured this one out yet, but it seems like it would be nice for
-conditionally loading buffers and things like org-mode agenda. Any
-ideas?
+  into emacs lisp so that I can ``if`` things against it? Haven't
+  figured this one out yet, but it seems like it would be nice for
+  conditionally loading buffers and things like org-mode agenda. Any
+  ideas?
 
 Onward and Upward!
-

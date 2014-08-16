@@ -83,21 +83,19 @@ settings are for the most part independent of there being "something
 new," and I think you can say something really new in a fairly typical
 space opera, and tell a completely contrite in *the new thing that we've
 never seen yet*.
-
+o
 So there.
 
-Have fun, tycho
+Have fun, Tycho
 
-.. [1]
-Cory rehashes some of these ideas
-`here <http://www.locusmag.com/Features/2007/07/cory-doctorow-progressive-apocalypse.html>`__,
-but I think on the whole, science fiction isn't really about the
-future, and never has been. "True" to current understandings of
-science, or not, science fiction is always both future oriented
-(looking forward) and about the present. If you're a contemporary
-setting using contemporary technology, or in a near future setting,
-using "accurate" technology, or if you're writing a story ten
-thousand years in the future using wildly futuristic technology, it's
-all to a certain measure irrelevant, and even more importantly, it's
-all made up anyway.
-
+.. [1] Cory rehashes some of these ideas `here
+   <http://www.locusmag.com/Features/2007/07/cory-doctorow-progressive-apocalypse.html>`__,
+   but I think on the whole, science fiction isn't really about the
+   future, and never has been. "True" to current understandings of
+   science, or not, science fiction is always both future oriented
+   (looking forward) and about the present. If you're a contemporary
+   setting using contemporary technology, or in a near future setting,
+   using "accurate" technology, or if you're writing a story ten
+   thousand years in the future using wildly futuristic technology,
+   it's all to a certain measure irrelevant, and even more
+   importantly, it's all made up anyway.

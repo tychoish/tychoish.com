@@ -53,26 +53,26 @@ category of "first world problems," and I'm not sure if there's a really
 easy solution. I've toyed with a number of resolutions to this angst:
 
 - Distribute my existing machines such that I have a machine that lives
-at work and a machine that lives at home so that I can just sit down
-at a desk and start working without shenanigans. Given the available
-hardware, this might mean that I'd spend most of my time using
-systems that I'm not particularly fond of.
+  at work and a machine that lives at home so that I can just sit down
+  at a desk and start working without shenanigans. Given the available
+  hardware, this might mean that I'd spend most of my time using
+  systems that I'm not particularly fond of.
 
 - I've toyed with having a "tycho writing laptop" that wouldn't have a
-web browser installed, for more distraction free writing. I've got my
-old laptop set up to do this, but I'm not likely to take it anywhere
-(i.e. for the commute,) so it might make sense to get a little
-netbook for the train for this function, but that seems like
-overkill.
+  web browser installed, for more distraction free writing. I've got my
+  old laptop set up to do this, but I'm not likely to take it anywhere
+  (i.e. for the commute,) so it might make sense to get a little
+  netbook for the train for this function, but that seems like
+  overkill.
 
 - I might redistribute more of my workload to servers rather than doing
-everything on the laptop. I'm thinking about having the terminal
-sessions that I use for email *primarily* live in screen sessions
-elsewhere.
+  everything on the laptop. I'm thinking about having the terminal
+  sessions that I use for email *primarily* live in screen sessions
+  elsewhere.
 
 - I've thought about getting a second laptop, (like my main system at
-the moment,) both for redundancy and to help reduce the cost of
-switching between various contexts.
+  the moment,) both for redundancy and to help reduce the cost of
+  switching between various contexts.
 
 As I've been toying with this, I've been making a number of tweaks to my
 work flow to help address the pain of context switching, most of which
@@ -92,4 +92,3 @@ connection for essential tasks. Assorted other weirdnesses.
 
 If anyone recognizes features of this angst that in their own work
 they've managed to resolve, I'd love to hear about your setup.
-

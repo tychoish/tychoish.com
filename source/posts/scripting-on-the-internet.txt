@@ -34,15 +34,15 @@ expectations of the technology is flawed.
 The course of action (theses?) are to:
 
 - Eliminate CSS; use a little basic HTML formatting instead. Let the
-text stay in its natural format.
+  text stay in its natural format.
 
 - Only basic font faces ([sans]serif, monospace), relative sizes to be
-supported.
+  supported.
 
 - Eliminate scripting.
 
 - Separate information from empty multimedia content: use Flash for the
-latter.
+  latter.
 
 --------------
 
@@ -59,21 +59,20 @@ Given this, I think four bullet points from tycho regarding "The
 'Post-Web' Web" are in order:
 
 - Eliminate JavaScript and all scripting in web-environments.
-JavaScript is the table of the 'aughts and 'teens.
+  JavaScript is the table of the 'aughts and 'teens.
 
 - Develop/concentrate efforts on alternate (ie. non HTTP) protocols to
-facilitate the movement of dynamic information across the Internet,
-including well implemented clients.
+  facilitate the movement of dynamic information across the Internet,
+  including well implemented clients.
 
 - Develop robust/lightweight cross platform frameworks for developing
-applications on the desktop. Where's GTK-on-Rails?
+  applications on the desktop. Where's GTK-on-Rails?
 
 - Write a HTTP server that provides navigational meta-data
-automatically with pages, and a browser with the ability to construct
-site navigation based on this information. This way the architecture
-of the site depends on the file layout and a configured file, but is
-generated locally. Basically gopher, except designed in the casual
-manner of the 'aughts.
+  automatically with pages, and a browser with the ability to construct
+  site navigation based on this information. This way the architecture
+  of the site depends on the file layout and a configured file, but is
+  generated locally. Basically gopher, except designed in the casual
+  manner of the 'aughts.
 
 Any takers?
-

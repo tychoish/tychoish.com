@@ -10,39 +10,35 @@ have gotten some things done that I thought I'd share with you. So I
 think a good old fashion list was in order:
 
 - I did some updating to the tychoish.com theme. There's now a tag
-cloud and tag support in the theme. I like how this is working. I
-don't want the site to look too much like "yet another WordPress"
-blog, but it works, and I like the look of the site.
+  cloud and tag support in the theme. I like how this is working. I
+  don't want the site to look too much like "yet another WordPress"
+  blog, but it works, and I like the look of the site.
 - I took a lot of pictures of knitted things today, and I'll be posting
-pictures of these projects here and on raverly as this proceeds.
+  pictures of these projects here and on raverly as this proceeds.
 - I finished the first chapter of the novel, or at least a good first
-attempt at said. My current novel-related project it to work out more
-clearly how I'm going to procede. It's steeping for the moment
+  attempt at said. My current novel-related project it to work out more
+  clearly how I'm going to procede. It's steeping for the moment
 - I was talking with `dave <http://www.soliloqueer.com>`__ last night
-about cool blogging things, and it inspired me to work on Station
-Keeping again. I have done the necessary editing to the file for the
-season one recap, so it all works great. I also wrote the first third
-or so of the next episode for Season 2. I think this beginning of
-January start date might be real.
+  about cool blogging things, and it inspired me to work on Station
+  Keeping again. I have done the necessary editing to the file for the
+  season one recap, so it all works great. I also wrote the first third
+  or so of the next episode for Season 2. I think this beginning of
+  January start date might be real.
 - I forgot to take pictures of my current knitting. Oops, I'll have to
-fix that.
+  fix that.
 - I finished a sleeve yesterday. I'm chugging along on the second and
-my last sleeve of this sweater. When it's done, I feel like I should
-be able to cast on another sweater. ;)
+  my last sleeve of this sweater. When it's done, I feel like I should
+  be able to cast on another sweater. ;)
 
 Here's the picture of my red sport sweater that I (also) blocked right
 after dinner yesterday:
 
 .. figure:: http://farm3.static.flickr.com/2118/2056978927_f12ede7a9e.jpg?v=0
-:alt: Wearing Red Sweater
-
-Wearing Red Sweater
-and
+   :alt: Wearing Red Sweater
 
 .. figure:: http://farm3.static.flickr.com/2316/2057775758_2478556497.jpg?v=0
-:alt: Red Sweater on Table
+   :alt: Red Sweater on Table
 
-Red Sweater on Table
 It's big. Really big. I'm going to felt it, I've decided, because it's
 too big length wise in every direction, and pretty good width wise. Some
 concern about the sleeves (of course), but it's sort of silly looking,
@@ -56,4 +52,3 @@ Anyway, There you have it. Have a good day not shopping hopefully. I'm
 going to go do something utterly lazy.
 
 Onward and Upward!
-

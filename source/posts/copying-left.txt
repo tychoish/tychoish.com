@@ -42,11 +42,9 @@ I'll be back throughout the day, be well.
 
 Onward and Upward!
 
-.. [1]
-Some designers were even talking about how they avoided reading other
-people's patterns when they were desiring lest they be "too"
-influenced by prior art. While you don't want to copy prior art,
-knowing it's there, being connected to the current trends and
-techniques and finding inspiration in the work of your peers isn't
-dangerous, it's simply intelligent.
-
+.. [1] Some designers were even talking about how they avoided reading other
+   people's patterns when they were desiring lest they be "too"
+   influenced by prior art. While you don't want to copy prior art,
+   knowing it's there, being connected to the current trends and
+   techniques and finding inspiration in the work of your peers isn't
+   dangerous, it's simply intelligent.

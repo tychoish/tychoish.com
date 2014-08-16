@@ -45,57 +45,57 @@ reorganize my org files. What follows are a list of "things I've
 been doing wrong" and "things I hope to improve."
 
 - I don't think I had enough org-files. There are lots of approaches to
-organizing information in org: one giant file, lots of small files
-for individual projects, a few mid to large files for each "sphere"
-of your life.
+  organizing information in org: one giant file, lots of small files
+  for individual projects, a few mid to large files for each "sphere"
+  of your life.
 
-Initially I took the "medium sized files for major ongoing projects." I
-had a writing file, and a work file, and a writing file, and files for
-the fiction projects that I'm working on, and a notes file, and a
-clippings file, and so forth. Say about 8-10 files. It works, but I
-think the thing it did was it caused me to use the org-remember
-functions to just dump things in a "tasks" heading, and then work from
-the agenda buffer, and not ever really have to touch the files
-themselves. *Org files need to be specific enough that you would want to
-keep them open in another window while you're working on a project.* I
-think the point where you know you've gone too far is when the first
-level headings start to replicate organization that might better be
-handled by the file-system.
+  Initially I took the "medium sized files for major ongoing projects." I
+  had a writing file, and a work file, and a writing file, and files for
+  the fiction projects that I'm working on, and a notes file, and a
+  clippings file, and so forth. Say about 8-10 files. It works, but I
+  think the thing it did was it caused me to use the org-remember
+  functions to just dump things in a "tasks" heading, and then work from
+  the agenda buffer, and not ever really have to touch the files
+  themselves. *Org files need to be specific enough that you would want to
+  keep them open in another window while you're working on a project.* I
+  think the point where you know you've gone too far is when the first
+  level headings start to replicate organization that might better be
+  handled by the file-system.
 
 - Use the scheduling and deadline functions to filter the todo list
-into something that is workable. It's easy to just look at the task
-list and say "oh no, I don't want to work on this task right now
-because it depends on too many things that aren't done, and there are
-other things that I could work on." Scheduling an item, if not
-setting a deadline, forces me (at least) to think practically about
-the scope of a given project, what kind of time I'll have to work on
-it, and what other tasks depend upon it.
+  into something that is workable. It's easy to just look at the task
+  list and say "oh no, I don't want to work on this task right now
+  because it depends on too many things that aren't done, and there are
+  other things that I could work on." Scheduling an item, if not
+  setting a deadline, forces me (at least) to think practically about
+  the scope of a given project, what kind of time I'll have to work on
+  it, and what other tasks depend upon it.
 
 - When you're using org to manage huge blocks of text--or any system,
-really--it can be difficult if you have multiple hierarchies and
-depths of greater than two or three. It just gets hard to manage and
-keep track of things and figure out where things are, particularly
-given how useful and prevalent search tools are.
+  really--it can be difficult if you have multiple hierarchies and
+  depths of greater than two or three. It just gets hard to manage and
+  keep track of things and figure out where things are, particularly
+  given how useful and prevalent search tools are.
 
-Having said that, When you're organizing tasks in org, that limitation,
-one that I find myself imposing upon myself doesn't really work terribly
-well, and leads to files that might actually be more difficult to read
-and to work out of.
+  Having said that, When you're organizing tasks in org, that limitation,
+  one that I find myself imposing upon myself doesn't really work terribly
+  well, and leads to files that might actually be more difficult to read
+  and to work out of.
 
 - I started using the "org-archive-subree" function for archiving
-content when I was through with parts of the outline, This sends the
-archive to a separate file and while it works, I find it... less than
-useful. I've since discovered "org-archive-to-archive-sibling" which
-is a great deal of awesome, and I recommend using it exclusively.
+  content when I was through with parts of the outline, This sends the
+  archive to a separate file and while it works, I find it... less than
+  useful. I've since discovered "org-archive-to-archive-sibling" which
+  is a great deal of awesome, and I recommend using it exclusively.
 
 - Write content in org mode when possible. Though some people (hi
-Matt!) are keen on using org as a publication system, I'm not sure if
-this is the right answer, but I do think that its good during very
-creative phases of projects to do the work in org, mostly as I think
-it facilitates focusing on the current problem (through collapsing of
-the tree to show you just what you're working on,) and also for
-working non-linearly as you can leave yourself TODO items for later
-action.
+  Matt!) are keen on using org as a publication system, I'm not sure if
+  this is the right answer, but I do think that its good during very
+  creative phases of projects to do the work in org, mostly as I think
+  it facilitates focusing on the current problem (through collapsing of
+  the tree to show you just what you're working on,) and also for
+  working non-linearly as you can leave yourself TODO items for later
+  action.
 
 At the same time, if you tend to maintain org files that contain
 planning for more than one project, I find it cumbersome to also draft
@@ -108,4 +108,3 @@ shake down in a few weeks. As much as I want to avoid tinkering with
 things--because tinkering isn't the same as getting things done--I
 really do find it helpful to review processes from time to time and make
 sure that I'm really working as effectively as I can.
-

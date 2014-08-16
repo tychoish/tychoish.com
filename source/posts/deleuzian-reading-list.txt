@@ -50,19 +50,17 @@ around for a long time, and just see what happens.
 
 See you later today.
 
-.. [1]
-In our household, we've taken to referring to the interminable
-periods spent in front of the computer, reading
-`RSS <http://en.wikipedia.org/wiki/RSS_(file_format)>`__ feeds and
-other pieces of internet treasure, as "reading the internets, all of
-them." My father, has even taken to referring to syndicated RSS items
-as internets, leading to statements like "I have 43 more internets to
-read."
+.. [1] In our household, we've taken to referring to the interminable
+   periods spent in front of the computer, reading
+   `RSS <http://en.wikipedia.org/wiki/RSS_(file_format)>`__ feeds and
+   other pieces of internet treasure, as "reading the internets, all of
+   them." My father, has even taken to referring to syndicated RSS items
+   as internets, leading to statements like "I have 43 more internets to
+   read."
 
-.. [2]
-and besides, who wants to read about someone else's trudging. "I
-reads another chapter and it was interesting but unhelpful, and
-probably laid the groundwork for something that's comming in the next
-couple of pages, but it was mostly abstruse." I mean a lot of the
-book is rather playful... but....
+.. [2] and besides, who wants to read about someone else's trudging. "I
+   reads another chapter and it was interesting but unhelpful, and
+   probably laid the groundwork for something that's comming in the next
+   couple of pages, but it was mostly abstruse." I mean a lot of the
+   book is rather playful... but....
 

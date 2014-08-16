@@ -19,12 +19,12 @@ attending to such a(n open knitting) project." The total list of goals
 is:
 
 - Is there a layer of information that goes into knitting design
-and documentation that isn't typically exposed in
-"closed"/conventional publications? (that would be equivalent in
-role to source code)?
+  and documentation that isn't typically exposed in
+  "closed"/conventional publications? (that would be equivalent in
+  role to source code)?
 
 - The role of editors and communities and the sometimes very
-"conventional" development models that "open" projects use.
+  "conventional" development models that "open" projects use.
 
 - The way GPL/GFDL knitting projects can be used commercially.
 
@@ -69,72 +69,72 @@ So lets try and import these ideas into a discussion of what an (but
 clearly, not the only,) open source knitting project would look like:
 
 - *A single OSK project shouldn't try and collect* everything *about
-knitting,* for starters this pushes us back to an encyclopedia model,
-and I don't think that's what we need. Particularly in knitting,
-there's too much variation and you'd spend as much time deciding on
-"canonical" versions and not enough time enjoying the diversity.
-Furthermore, I think there are probably too many different kinds that
-it could work as a single coherent project.
+  knitting,* for starters this pushes us back to an encyclopedia model,
+  and I don't think that's what we need. Particularly in knitting,
+  there's too much variation and you'd spend as much time deciding on
+  "canonical" versions and not enough time enjoying the diversity.
+  Furthermore, I think there are probably too many different kinds that
+  it could work as a single coherent project.
 
 - *Avoid talking about techniques too much:* While most knitters mostly
-knit the same way, there's a lot of difference of opinion in terms of
-how to accomplish various kinds of knitting operations. While there
-probably is a need for a collection of these kinds of techniques, and
-I think Elizabeth Zimmerman made a great argument for the idea that
-while knitters are always developing new techniques (and should
-receive credit for this development,) the techniques themselves are
-probably always already in the public domain because given knitting's
-history it is hard to imagine that we are the first to "invent"
-something (hence Elizabeth's use of "unvention.") What's more, with
-resources like `Mary Thomas' Book of
-Knitting <http://www.amazon.com/Mary-Thomass-Knitting-Book-Thomas/dp/0486228177>`__
-techniques, or `Montse Stanley's Knitter's
-Handbook <http://www.amazon.com/Knitters-Handbook-Comprehensive-Principles-Handknitting/dp/0762102489>`__
-and the `Schoolhouse Press
-Glossory <http://www.schoolhousepress.com/videos.htm>`__ that there
-isn't a lot of room for improvement, beyond a collection of
-contributions. In other words, since open source succeeds at
-combining energy and efforts of a lot of people, the projects need to
-be ones where multiple perspectives and abilities would create a
-better *gestalt.* A technique handbook, in contrast might benefit
-from many perspectives, but probably wouldn't benefit from any sort
-of group process.
+  knit the same way, there's a lot of difference of opinion in terms of
+  how to accomplish various kinds of knitting operations. While there
+  probably is a need for a collection of these kinds of techniques, and
+  I think Elizabeth Zimmerman made a great argument for the idea that
+  while knitters are always developing new techniques (and should
+  receive credit for this development,) the techniques themselves are
+  probably always already in the public domain because given knitting's
+  history it is hard to imagine that we are the first to "invent"
+  something (hence Elizabeth's use of "unvention.") What's more, with
+  resources like `Mary Thomas' Book of
+  Knitting <http://www.amazon.com/Mary-Thomass-Knitting-Book-Thomas/dp/0486228177>`__
+  techniques, or `Montse Stanley's Knitter's
+  Handbook <http://www.amazon.com/Knitters-Handbook-Comprehensive-Principles-Handknitting/dp/0762102489>`__
+  and the `Schoolhouse Press
+  Glossory <http://www.schoolhousepress.com/videos.htm>`__ that there
+  isn't a lot of room for improvement, beyond a collection of
+  contributions. In other words, since open source succeeds at
+  combining energy and efforts of a lot of people, the projects need to
+  be ones where multiple perspectives and abilities would create a
+  better *gestalt.* A technique handbook, in contrast might benefit
+  from many perspectives, but probably wouldn't benefit from any sort
+  of group process.
 
 - *An OSK project should track version development:* In the software
-world version tracking systems are used to make sure that changes in
-code are tracked as the project progresses, so that changes can
-always be reversed if the "old way" works better than the new way.
-Also this kind of software allows you to create "branches" so that
-you can work on bleeding edge feature/content development (so called
-"nightly builds"), and "release polishing" so that your finished
-projects are clean, clear and functional. In writing terms, this
-means that you can edit/polish the text without impinging upon your
-drafting. Which is incredibly helpful when working in a group
-setting. Versioning systems are also very atomic and keep track of
-differences (diffs), and work to keep track of and organize the most
-recent version of every file, even if more than one person is editing
-it.
+  world version tracking systems are used to make sure that changes in
+  code are tracked as the project progresses, so that changes can
+  always be reversed if the "old way" works better than the new way.
+  Also this kind of software allows you to create "branches" so that
+  you can work on bleeding edge feature/content development (so called
+  "nightly builds"), and "release polishing" so that your finished
+  projects are clean, clear and functional. In writing terms, this
+  means that you can edit/polish the text without impinging upon your
+  drafting. Which is incredibly helpful when working in a group
+  setting. Versioning systems are also very atomic and keep track of
+  differences (diffs), and work to keep track of and organize the most
+  recent version of every file, even if more than one person is editing
+  it.
 
 - *An OSK project should create and foster community development:* This
-is perhaps a bit too obvious; however, I think it should also be said
-that community needs to have a space that's separate from the project
-(make it possible for people to talk, outside of the actual project
-files.) Taking wikipedia as an example, while wikipedians can talk on
-the "talk/discussion pages," it's my perception that most of
-wikipedia's community happens on IRC channels. While its not "a part"
-of wikipedia in the conventional way, I'm sure that wikipedia depends
-on those IRC channels to keep the community functioning.
+  is perhaps a bit too obvious; however, I think it should also be said
+  that community needs to have a space that's separate from the project
+  (make it possible for people to talk, outside of the actual project
+  files.) Taking wikipedia as an example, while wikipedians can talk on
+  the "talk/discussion pages," it's my perception that most of
+  wikipedia's community happens on IRC channels. While its not "a part"
+  of wikipedia in the conventional way, I'm sure that wikipedia depends
+  on those IRC channels to keep the community functioning.
 
 - *Separate workspace with display space:* I think this point is part
-of my larger objection to using an idealized wiki model for
-development, where the entire website that the "public" (casual user)
-sees is the same as what the "core" (developers) are working on. This
-means that the "product," is always rough and incomplete, and I think
-in an odd way it pushes developers to work on larger rather than
-small parts of the project [1]_. Ideally, I think these sorts of
-projects would work better when you have ten developers contributing
-one part each to ten projects, rather than ten developers
-contributing one whole project, or something along those lines.
+  of my larger objection to using an idealized wiki model for
+  development, where the entire website that the "public" (casual user)
+  sees is the same as what the "core" (developers) are working on. This
+  means that the "product," is always rough and incomplete, and I think
+  in an odd way it pushes developers to work on larger rather than
+  small parts of the project [1]_. Ideally, I think these sorts of
+  projects would work better when you have ten developers contributing
+  one part each to ten projects, rather than ten developers
+  contributing one whole project, or something along those lines.
 
 I also had an organizational tree that I was going to seek some feedback
 on, but I think that's safe to live in the notebook for a while longer.
@@ -148,14 +148,12 @@ like to hear from you.
 
 Cheers, tycho
 
-.. [1]
-What I mean here, is that if I was writing a contribution to a page
-in a wiki that the entire public could see, I think that I would tend
-to write pages as wholes, rather than contribute the smaller parts
-that might actually be more useful. For instance if I was writing
-about sleeves, say, and I was writing in a wiki environment, I'd be
-more inclined to write a lot about every aspect of a sleeve, rather
-than, just contribute something pithy about adjusting a pattern from
-knitting from the shoulder to the cuff, rather than from the cuff to
-the shoulder.
-
+.. [1] What I mean here, is that if I was writing a contribution to a page
+   in a wiki that the entire public could see, I think that I would tend
+   to write pages as wholes, rather than contribute the smaller parts
+   that might actually be more useful. For instance if I was writing
+   about sleeves, say, and I was writing in a wiki environment, I'd be
+   more inclined to write a lot about every aspect of a sleeve, rather
+   than, just contribute something pithy about adjusting a pattern from
+   knitting from the shoulder to the cuff, rather than from the cuff to
+   the shoulder.

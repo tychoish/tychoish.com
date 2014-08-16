@@ -45,18 +45,15 @@ have the video converter for the new macbooks so I'm not terribly
 worried. There are probably other things that I've also not had occasion
 to
 
-.. [1]
-While I intended to just get the linux box for the desktop and keep
-the macbook, I quickly came to the realization that switching between
-modalities wasn't terribly effective for the way that I worked, and
-after spending a week on the road using just my MacBook, I felt as if
-OS X was more distracting than it was useful. No matter how much I
-adored TextMate.
+.. [1] While I intended to just get the linux box for the desktop and keep
+   the macbook, I quickly came to the realization that switching between
+   modalities wasn't terribly effective for the way that I worked, and
+   after spending a week on the road using just my MacBook, I felt as if
+   OS X was more distracting than it was useful. No matter how much I
+   adored TextMate.
 
-.. [2]
-I hated the glossy screen at first because of the way that it
-collects finger prints and dirt, but by gum it looks really pretty.
-The desktops, by contrast are huge, which is nice, but sometimes when
-I'm writing something more focused, all the extra space can be
-distracting.
-
+.. [2] I hated the glossy screen at first because of the way that it
+   collects finger prints and dirt, but by gum it looks really pretty.
+   The desktops, by contrast are huge, which is nice, but sometimes when
+   I'm writing something more focused, all the extra space can be
+   distracting.

@@ -46,10 +46,5 @@ we can be assured that they *stay* dead.
 
 .. raw:: html
 
-<object width="420">
-
-.. raw:: html
-
-<embed src="http://www.youtube.com/v/AjcH2UmK1uo&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
-
-
+   <object width="420">
+   <embed src="http://www.youtube.com/v/AjcH2UmK1uo&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>

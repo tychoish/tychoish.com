@@ -9,14 +9,6 @@ Here's a good tip/hack for my quandary about backing up Mail.app email
 messages into a text-based format outside of the Core Data database, as
 part of my project of becoming less entangled with Mail.app.
 
-.. raw:: html
-
-<div style="text-align:center;">
-
-.. raw:: html
-
-</div>
-
 `Mail.app GTD Perfection - Koru Productions ExpressionEngine
 Development <http://ee.koruproductions.com/mail_app_gtd_perfection/>`__:
 
@@ -27,4 +19,3 @@ tradition, just drag your Mailbox to the folder on your drive that
 you wish to export to. That's it.
 
 (from `Koru Productions <http://ee.koruproductions.com/>`__.)
-

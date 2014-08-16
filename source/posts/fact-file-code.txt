@@ -15,13 +15,12 @@ remember template, for the system described in that post.
 
 ::
 
-(setq org-remember-templates
-'(("data" ?d "* %^{Title} %^g \n :PROPERTIES:\n :date:
-%^t\n :cit e-key: %^{cite-key}\n :link: %^{link}\n
-:END:\n\n %x %?"  "~/org/data.org")))`
+   (setq org-remember-templates
+      '(("data" ?d "* %^{Title} %^g \n :PROPERTIES:\n :date:
+          %^t\n :cit e-key: %^{cite-key}\n :link: %^{link}\n
+          :END:\n\n %x %?"  "~/org/data.org")))`
 
 If you want to tweak further, check out the `relevant section of the org
 manual <http://orgmode.org/manual/Remember-templates.html>`__.
 
 Enjoy and collect facts with abandon!
-

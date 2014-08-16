@@ -49,7 +49,5 @@ of economies of scale.
 
 If nothing else it's an interesting time to be alive.
 
-.. [1]
-This gets my standard "until the singularity gets here," response, so
-before 2030 or 2040. You heard it here first.
-
+.. [1] This gets my standard "until the singularity gets here," response, so
+   before 2030 or 2040. You heard it here first.

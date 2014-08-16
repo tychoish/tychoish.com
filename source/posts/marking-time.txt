@@ -45,6 +45,4 @@ chores and maybe actually working on Station Keeping.
 
 Cheers, tycho
 
-.. [1]
-Morris Dance in the "Cotswald" Style.
-
+.. [1] Morris Dance in the "Cotswald" Style.

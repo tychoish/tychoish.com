@@ -50,8 +50,6 @@ Anyway, time for more tea. And work.
 
 Onward and Upward!
 
-.. [1]
-Though clearly there's something that seperates poetry from short
-stories and essays, lets for the sake of my blunt argument, treat
-them all as one.
-
+.. [1] Though clearly there's something that seperates poetry from short
+   stories and essays, lets for the sake of my blunt argument, treat
+   them all as one.

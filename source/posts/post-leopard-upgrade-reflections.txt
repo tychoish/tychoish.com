@@ -72,13 +72,10 @@ course, the human interaction bit is crucial.
 
 Over and out.
 
-.. [1]
-I think that speed is the consistent complaint about ruby in contrast
-to languages like perl and python. I've heard some stuff about how it
-treats classes like objects, or something, but not a huge problem for
-me, right now. While the speed issue might be true, it's *so* not my
-concern right now.
+.. [1] I think that speed is the consistent complaint about ruby in contrast
+   to languages like perl and python. I've heard some stuff about how it
+   treats classes like objects, or something, but not a huge problem for
+   me, right now. While the speed issue might be true, it's *so* not my
+   concern right now.
 
-.. [2]
-Sorry, I seem to be turning into a librarian, more on this later.
-
+.. [2] Sorry, I seem to be turning into a librarian, more on this later.

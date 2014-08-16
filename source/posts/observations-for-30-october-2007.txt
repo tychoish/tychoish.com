@@ -6,76 +6,75 @@ Observations for 30 October 2007
    :author: tychoish
 
 - If I don't know what to name a file I name it {something}.codex.txt.
-All my projects have codex files that are just big markdown
-collections of stuff. My todo list is called codex.tasks. Also all
-the spheres of my life have a two character prefix that I use to
-identify their files. AC for school (ACademic), MR for the novel
-(*knowing MaRs*), GS for graduate school (finally one that makes
-sense, SK for station keeping, BR, for the new novel project
-(BReakout), and so forth. Lots of codex files. Sigh.
+  All my projects have codex files that are just big markdown
+  collections of stuff. My todo list is called codex.tasks. Also all
+  the spheres of my life have a two character prefix that I use to
+  identify their files. AC for school (ACademic), MR for the novel
+  (*knowing MaRs*), GS for graduate school (finally one that makes
+  sense, SK for station keeping, BR, for the new novel project
+  (BReakout), and so forth. Lots of codex files. Sigh.
 
 - I have, by my count, about 16 more rounds remaining in the red
-sweater of doom. It's all I can do to work on other projects. It'll
-be nice to get this done and be able to focus on the Joyce sweater
-I'm making. I think that I'm going to knit on it for a couple of
-weeks and then knit a sleeve, knit on the Joyce sweater for a week or
-two, knit another sleeve, and so forth until I'm done. At the moment,
-I have a slight bottle neck in the fact that I have 1 16 inch US size
-5 needle. I've probably, at this point spent about 60 dollars buying
-this particular size and length of needle (it's best when we don't
-think about this.) I've broken 3 and cut the cord on another
-(steeking incident, lets not discuss.) But then, it's probably better
-that I don't divide my time too much.
+  sweater of doom. It's all I can do to work on other projects. It'll
+  be nice to get this done and be able to focus on the Joyce sweater
+  I'm making. I think that I'm going to knit on it for a couple of
+  weeks and then knit a sleeve, knit on the Joyce sweater for a week or
+  two, knit another sleeve, and so forth until I'm done. At the moment,
+  I have a slight bottle neck in the fact that I have 1 16 inch US size
+  5 needle. I've probably, at this point spent about 60 dollars buying
+  this particular size and length of needle (it's best when we don't
+  think about this.) I've broken 3 and cut the cord on another
+  (steeking incident, lets not discuss.) But then, it's probably better
+  that I don't divide my time too much.
 
 - I'm having the desire to knit hats. Expect hats in my future.
 
 - Sorry that there has been so much blathering about computer stuff and
-what not lately. New knitting content would be really boring, and
-it's been busy.
+  what not lately. New knitting content would be really boring, and
+  it's been busy.
 
 - My computer speakers have the tendency to pick up errant radio ways
-which is really annoying, but I'm too cheap to buy new ones despite
-the fact that these were the speakers I bought for 20 dollars when I
-built a PC box in high school. So I'm sitting in an empty house
-listening to my ipod on noise isolating headphones.
+  which is really annoying, but I'm too cheap to buy new ones despite
+  the fact that these were the speakers I bought for 20 dollars when I
+  built a PC box in high school. So I'm sitting in an empty house
+  listening to my ipod on noise isolating headphones.
 
 - I start working a crapton lot on Thursday. I'm pretty psyched about
-it.
+  it.
 
 - I had the pleasure of talking to
-`ComposerScott <http://composerscott.livejournal.com>`__ last night.
-He posted an entry on his LJ about a cute
-`BSG <http://www.scifi.com/battlestar/>`__ cast member. And despite
-the fact that I've been reading his journal for, oh, a year, I felt
-that this was the perfect first time to post a note of concurrence. I
-discovered Scott via the wonderful "`Prometheus Radio
-Theater <http://prometheus.libsyn.com/>`__," which I must shamefully
-admit to being tragically behind on. I'm behind on all podcast
-listening, and I'm hoping to start taking up spinning again, as a way
-to begin to get caught up. I just don't drive distances or do menial
-office work enough any more. Anyway, it's nice to find new internet
-friends.
+  `ComposerScott <http://composerscott.livejournal.com>`__ last night.
+  He posted an entry on his LJ about a cute
+  `BSG <http://www.scifi.com/battlestar/>`__ cast member. And despite
+  the fact that I've been reading his journal for, oh, a year, I felt
+  that this was the perfect first time to post a note of concurrence. I
+  discovered Scott via the wonderful "`Prometheus Radio
+  Theater <http://prometheus.libsyn.com/>`__," which I must shamefully
+  admit to being tragically behind on. I'm behind on all podcast
+  listening, and I'm hoping to start taking up spinning again, as a way
+  to begin to get caught up. I just don't drive distances or do menial
+  office work enough any more. Anyway, it's nice to find new internet
+  friends.
 
 - My friend R. and I had a conversation a few months back about how
-most of our closest friends were people that we knew at a point about
-6 years previous. It was worry some, because these people
-disappeared, or changed in ways that made being friends with them
-difficult (or we changed...) But I'm starting to realize that many of
-my friends are more recent acquaintances, and I think though
-difficult in many ways, is a move in the right direction.
+  most of our closest friends were people that we knew at a point about
+  6 years previous. It was worry some, because these people
+  disappeared, or changed in ways that made being friends with them
+  difficult (or we changed...) But I'm starting to realize that many of
+  my friends are more recent acquaintances, and I think though
+  difficult in many ways, is a move in the right direction.
 
 - I'm really bad about commenting on people's blogs and journals,
-despite the fact that I read a great number of them. I just never
-feel like I have the right thing to say, even though as someone who
-delights in every comment that gets left on my site, that you don't
-have to write poetry in the comment box.
+  despite the fact that I read a great number of them. I just never
+  feel like I have the right thing to say, even though as someone who
+  delights in every comment that gets left on my site, that you don't
+  have to write poetry in the comment box.
 
 - Would it be idiotic to build a linux server that had a drive that was
-dedicated to my iTunes library that I could mount over the network
-and then synch my ipod to over the network, or is that crazy? Also,
-while I'm living in fantasy land, what are the state of
-podcasting/skype tools for linux and the GIMP (the things that I find
-I almost always need more computer umphf.)?
+  dedicated to my iTunes library that I could mount over the network
+  and then synch my ipod to over the network, or is that crazy? Also,
+  while I'm living in fantasy land, what are the state of
+  podcasting/skype tools for linux and the GIMP (the things that I find
+  I almost always need more computer umphf.)?
 
 That's all I'm observing at the moment...
-

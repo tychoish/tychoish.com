@@ -50,20 +50,19 @@ The todo list, then, is something like:
 - Condense the above into something that resembles a thesis/argument.
 
 - Become a little more familiar with the git-dm ("data mining") tool
-that the Linux Foundation put together for their "state of Kernel
-development."
+  that the Linux Foundation put together for their "state of Kernel
+  development."
 
 - Develop some specific questions to address. I think part of my
-problem above and heretofore has been that I'm saying "there's
-something interesting here, if we looked," rather than. "I think w
-kind of projects operate in x ways, where y projects will operate in
-z ways."
+  problem above and heretofore has been that I'm saying "there's
+  something interesting here, if we looked," rather than. "I think w
+  kind of projects operate in x ways, where y projects will operate in
+  z ways."
 
 - Literature review. I've done some of this, but I've felt like I need
-to do even more basic methodological and basic theory reading. And
-even though an unread *Patterns of Culture* is on my bookshelf, I
-don't need to read that to begin reading articles.
+  to do even more basic methodological and basic theory reading. And
+  even though an unread *Patterns of Culture* is on my bookshelf, I
+  don't need to read that to begin reading articles.
 
 That's a start. Feedback is always useful. I'll keep you posted as I
 progress.
-

@@ -55,13 +55,11 @@ week around here.
 
 best, tycho
 
-.. [1]
-It's easier for publishers to take a risk on a piece of short fiction
-than it is for a publisher to take a risk on a novel. While the
-digital age might eventually change this, for the moment, this
-remains true. Interestingly, SF is somewhat unique as there remains a
-somewhat viable commercial short fiction market. Also, having
-successful short fiction publications makes is easier to publish
-longer fiction, and while the system isn't flawless certainly, it's
-better than some crap shoots.
-
+.. [1] It's easier for publishers to take a risk on a piece of short
+   fiction than it is for a publisher to take a risk on a novel. While
+   the digital age might eventually change this, for the moment, this
+   remains true. Interestingly, SF is somewhat unique as there remains
+   a somewhat viable commercial short fiction market. Also, having
+   successful short fiction publications makes is easier to publish
+   longer fiction, and while the system isn't flawless certainly, it's
+   better than some crap shoots.

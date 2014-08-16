@@ -76,31 +76,31 @@ just makes things more complex? Right. Here's why I think the ecosystem
 is the way to go:
 
 - It's easier to build programs that only do one thing. A program
-either is really good at downloading your email or it isn't, and it's
-pretty easy to tell if that's the case. More complex programs, can't
-be as reliable as consistent.
+  either is really good at downloading your email or it isn't, and it's
+  pretty easy to tell if that's the case. More complex programs, can't
+  be as reliable as consistent.
 
 - This system is more responsive to technological development. If
-there's a new revolution in email downloading, it's easy enough to
-take fetchmail out of the picture and put some other widget in place
-that works better. Non-modular systems put you at the whim of someone
-else.
+  there's a new revolution in email downloading, it's easy enough to
+  take fetchmail out of the picture and put some other widget in place
+  that works better. Non-modular systems put you at the whim of someone
+  else.
 
 - Your data is (more likely) to be accessible and open. The real reason
-that open source hackers are interested in open standards and formats
-is, if we rely on an ecosystem of widgets our data has to be readable
-by all of the different widgets. The only way to ensure that this is
-the case is to use open and standard data formats. This is good for
-the user and good for the programer as a `creative
-constraint <http://tychoish.com/rhizome/constrained-creativity/>`__.
+  that open source hackers are interested in open standards and formats
+  is, if we rely on an ecosystem of widgets our data has to be readable
+  by all of the different widgets. The only way to ensure that this is
+  the case is to use open and standard data formats. This is good for
+  the user and good for the programer as a `creative
+  constraint <http://tychoish.com/rhizome/constrained-creativity/>`__.
 
 - This model more closely reflects *the way we actually think*. Our
-minds are made up of a bunch of smaller abilities. The ability to
-recognize written words, the ability to parse those words for sounds
-and meaning, the ability to take what we read and relate it to things
-that we've seen and read in other contexts. In both the software and
-cognition the really cool things happen with novel collections of
-different ideas and tools.
+  minds are made up of a bunch of smaller abilities. The ability to
+  recognize written words, the ability to parse those words for sounds
+  and meaning, the ability to take what we read and relate it to things
+  that we've seen and read in other contexts. In both the software and
+  cognition the really cool things happen with novel collections of
+  different ideas and tools.
 
 But wait you say, `OpenOffice <http://www.openoffice.org/>`__ and
 `Ubuntu Linux <http://www.ubuntu.com/>`__ aren't widgets and they have
@@ -127,25 +127,21 @@ continuation of this soon.
 
 Onward and Upward!
 
-.. [1]
-In the case of software, I think people should be understood as
-cooperate IT devisions, more than individuals
+.. [1] In the case of software, I think people should be understood as
+   cooperate IT devisions, more than individuals
 
-.. [2]
-There are clearly a lot of exceptions, particularly in this
-particularly moment, where we're seeing projects that in this respect
-look more like proprietary software. This is I think in part
-intentional as a means of competing with proprietary software. And
-I'm building to the other "in part." So lets wait for it, shall we?
+.. [2] There are clearly a lot of exceptions, particularly in this
+   particularly moment, where we're seeing projects that in this respect
+   look more like proprietary software. This is I think in part
+   intentional as a means of competing with proprietary software. And
+   I'm building to the other "in part." So lets wait for it, shall we?
 
-.. [3]
-Clearly this is just my opinion. Every so often I want to try and
-like GNOME, but I always find it to be a less then pleasurable
-experience. The GUIs don't make a lot of sense unless you know what
-the shell commands that they're wrapping are, to say nothing of the
-really poor use of space (that's tangential, but probably my largest
-gripe with GNOME). Interestingly I started using a `different window
-manager (awesome) <http://awesome.naquadah.org/>`__, which accesses
-`gtk <http://www.gtk.org/>`__, and I was very surprised to find that
-some of the gnome apps were actually pretty decent. Who knew!
-
+.. [3] Clearly this is just my opinion. Every so often I want to try and
+   like GNOME, but I always find it to be a less then pleasurable
+   experience. The GUIs don't make a lot of sense unless you know what
+   the shell commands that they're wrapping are, to say nothing of the
+   really poor use of space (that's tangential, but probably my largest
+   gripe with GNOME). Interestingly I started using a `different window
+   manager (awesome) <http://awesome.naquadah.org/>`__, which accesses
+   `gtk <http://www.gtk.org/>`__, and I was very surprised to find that
+   some of the gnome apps were actually pretty decent. Who knew!

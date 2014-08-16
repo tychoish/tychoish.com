@@ -10,17 +10,17 @@ In light of my otherwise fried state of mind, I would like to present a
 list of things that I dislike. Because I'm snarky like that.
 
 - HTML emails. I've yet to send or receive an email that really
-*requires* rich text formatting provided by HTML emails. While
-multi-part emails (which send multiple copies of the same email in
-rich and plain text) are a good thing, it's a huge pain in the ass to
-get an email (particularly a long email) three times, just for the
-pleasure.
+  *requires* rich text formatting provided by HTML emails. While
+  multi-part emails (which send multiple copies of the same email in
+  rich and plain text) are a good thing, it's a huge pain in the ass to
+  get an email (particularly a long email) three times, just for the
+  pleasure.
 
 - Sites that recreate twitter without adding any useful features or
-discussion. It's as if the dimwitted internet people said "holy shit,
-if we give people 140 characters to say banal things on *our* site
-maybe we'll get traffic like twitter," except this isn't how the
-internet has *ever* worked (or worked well.)
+  discussion. It's as if the dimwitted internet people said "holy
+  shit, if we give people 140 characters to say banal things on *our*
+  site maybe we'll get traffic like twitter," except this isn't how
+  the internet has *ever* worked (or worked well.)
 
 Facebook is coming out with "usernames," I've gotten an invitation to
 microblog on niche-social networking site, and everyone seems hard set
@@ -29,36 +29,35 @@ beginning, without any thought of interpretation (a la laconica) or
 doing something cool like jaiku-style threads, let alone the *next* big
 thing.
 
-- Malformed emails. Dudes. Sending a plain text email is really simple,
-there's no excuse for it to look like your cat took a nap on the tab
-key. I'm not chiding anyone for neglecting to test every email
-"blast" they send (because I'd be that lazy) but I am chiding folks
-for not testing it *once*. Writing a text file and sending it isn't
-that hard.
+- Malformed emails. Dudes. Sending a plain text email is really
+  simple, there's no excuse for it to look like your cat took a nap on
+  the tab key. I'm not chiding anyone for neglecting to test every
+  email "blast" they send (because I'd be that lazy) but I am chiding
+  folks for not testing it *once*. Writing a text file and sending it
+  isn't that hard.
 
 - Reimplementation of email. I really hate getting facebook messages,
-and direct messages on [microblogging service], and each and every
-other fucking social networking site. Just send me email. Real email.
-It works, I have a good process for dealing with it, and I don't have
-to screw around with anything. Thanks.
+  and direct messages on [microblogging service], and each and every
+  other fucking social networking site. Just send me email. Real
+  email.  It works, I have a good process for dealing with it, and I
+  don't have to screw around with anything. Thanks.
 
 - The Twitter Fail Whale. Dudes. There was a while about a year ago,
-when a bunch of geeks were sitting around and thinking, "you know
-this twitter technology is going to be really cool, and there are a
-lot of possibilities here," and there were, and I suppose there still
-are, but the truth is that I see the fail whale several times every
-day, and most of the cool things that I wanted to see in twitter two
-years ago and then a year ago (real xmpp support, track, federation,
-custom filtered feeds (a la LJ-style friends' filters),) still
-haven't materialized. I think the addition of
-`OAuth <http://oauth.net/>`__ is a great thing, but it's a baby step.
+  when a bunch of geeks were sitting around and thinking, "you know
+  this twitter technology is going to be really cool, and there are a
+  lot of possibilities here," and there were, and I suppose there
+  still are, but the truth is that I see the fail whale several times
+  every day, and most of the cool things that I wanted to see in
+  twitter two years ago and then a year ago (real xmpp support, track,
+  federation, custom filtered feeds (a la LJ-style friends' filters),)
+  still haven't materialized. I think the addition of `OAuth
+  <http://oauth.net/>`__ is a great thing, but it's a baby step.
 
 - The continued prevalence of IRC. Dudes discover jabber/xmpp. Thanks.
-A while back, I had a lot of nostalgia for IRC, and its true that IRC
-has a lot of history and is a standard to be reckoned with, but
-jabber is so much more elegant, secure, and provides features
-(persistence, logging, independence, etc) without having net-splits
-and complicated ad hoc registration schemes.
+  A while back, I had a lot of nostalgia for IRC, and its true that
+  IRC has a lot of history and is a standard to be reckoned with, but
+  jabber is so much more elegant, secure, and provides features
+  (persistence, logging, independence, etc) without having net-splits
+  and complicated ad hoc registration schemes.
 
 That's all for now. What do you hate about the internet?
-

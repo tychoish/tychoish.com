@@ -9,59 +9,59 @@ Limitiations of GitHub Forks
 Assumption:
 
 1. `git <http://git-scam.com>`__ is pretty awesome, but it's
-conceptually complex. As a result using git demands a preexisting
-familiarity with git itself or some sort of wrapper to minimize the
-conceptual overhead.
+   conceptually complex. As a result using git demands a preexisting
+   familiarity with git itself or some sort of wrapper to minimize the
+   conceptual overhead.
 
 2. The collaboration methods (i.e. hosting) provided by git, which are
-simple by design to allow maximum flexibility, do not provide enough
-structure to be practically useful. As a result providers like
-`GitHub <http://githb.com>`__ (and
-`BitBucket <http://bitbucket.org>`__ and
-`gitorious <HTTP://gitorious.org/>`__) offer a valuable service that
-makes it easier--or even possible--for people to use git.
+   simple by design to allow maximum flexibility, do not provide
+   enough structure to be practically useful. As a result providers
+   like `GitHub <http://githb.com>`__ (and `BitBucket
+   <http://bitbucket.org>`__ and `gitorious
+   <HTTP://gitorious.org/>`__) offer a valuable service that makes it
+   easier--or even possible--for people to use git.
 
 Caveats:
 
 - there are problems with using centralized repository services
-controlled by third parties, particularly for open source/free
-software projects.
+  controlled by third parties, particularly for open source/free
+  software projects.
 
-There are ways that GitHub succeeds an fails in this regard. but this
-dynamic is too complex to fully investigate within the scope of this
-post.
+  There are ways that GitHub succeeds an fails in this regard. but
+  this dynamic is too complex to fully investigate within the scope of
+  this post.
 
 - If you use GitHub as designed, and the way that most projects use
-GitHub, then you have a very specific and particular view of how Git
-works.
+  nGitHub, then you have a very specific and particular view of how Git
+  works.
 
-While this isn't a bad thing, it's less easy to use git in some more
-distributed workflows as a result. This isn't GitHub's *fault* so much
-as it is an artifact of people not really knowing how git itself works.
+  While this isn't a bad thing, it's less easy to use git in some more
+  distributed workflows as a result. This isn't GitHub's *fault* so
+  much as it is an artifact of people not really knowing how git
+  itself works.
 
-Assertion:
+Assertions:
 
 1. GitHub's "fork" model[^fork] disincentives people from working in
-"topic" branches.
+   "topic" branches.
 
-2. By making it really easy for people to publish their branches, GitHub
-disincentives the most productive use of the "``git rebase``\ "
-command that leads to clean and clear histories.
+2. By making it really easy for people to publish their branches,
+   GitHub disincentives the most productive use of the "``git
+   rebase``\ " command that leads to clean and clear histories.
 
-3. There's no distinction between a "soft fork" where you create a fork
-for the purpose of submitting a patch (i.e. a "pull request") and a
-"hard fork," where you actually want to break the relationship with
-the original project.
+3. There's no distinction between a "soft fork" where you create a
+   fork for the purpose of submitting a patch (i.e. a "pull request")
+   and a "hard fork," where you actually want to break the
+   relationship with the original project.
 
-This is mostly meaningful in context of the *other* features that GitHub
-provides, notably the "Network" chart, and the issue tracker. In a
-soft-fork that I would intend to merge back in, I'd like the issues to
-"come with," the repository, or at least connect in some way to the
-"parent." For hard forks, it might make sense to leave the old issues
-behind. The same with the network chart, which is incredibly powerful,
-but it's not great at guessing how your repository relates to the rest
-of its "social network."
+   This is mostly meaningful in context of the *other* features that
+   GitHub provides, notably the "Network" chart, and the issue
+   tracker. In a soft-fork that I would intend to merge back in, I'd
+   like the issues to "come with," the repository, or at least connect
+   in some way to the "parent." For hard forks, it might make sense to
+   leave the old issues behind. The same with the network chart, which
+   is incredibly powerful, but it's not great at guessing how your
+   repository relates to the rest of its "social network."
 
 The solution: keep innovating, keep fighting lock-in, and don't let
 GitHub dictate how you work.
-

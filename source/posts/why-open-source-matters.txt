@@ -46,40 +46,40 @@ impact and connect with other questions and phenomena in the world. For
 instance:
 
 - I think that the decision making process in free software projects is
-instructive for thinking about how all sorts of communities can reach
-a "decision making fork" resolve it somehow and then continue with
-their work. Some open source projects have formal structures, and
-that is easier to understand from the outside, but most make
-decisions in an informal way, and that decision making process is
-potentially novel, I'd argue. In what other context do people have to
-construct projects outside of work.
+  instructive for thinking about how all sorts of communities can reach
+  a "decision making fork" resolve it somehow and then continue with
+  their work. Some open source projects have formal structures, and
+  that is easier to understand from the outside, but most make
+  decisions in an informal way, and that decision making process is
+  potentially novel, I'd argue. In what other context do people have to
+  construct projects outside of work.
 
 - While leaders in the open source community are rarely elected (aside
-from a number of notable examples; the Debian Project Leader springs
-instantly to mind) most projects are *very* democratic. But this
-requires that we keep in mind a fairly broad definition of democracy.
-Because there isn't a lot of voting, and sometimes decisions aren't
-discussed thoroughly before people start doing things, it doesn't
-look democratic. But everything is volunteer based, and leaders I
-think have a sense of responsibilities to their constituencies, which
-is meaningful.
+  from a number of notable examples; the Debian Project Leader springs
+  instantly to mind) most projects are *very* democratic. But this
+  requires that we keep in mind a fairly broad definition of democracy.
+  Because there isn't a lot of voting, and sometimes decisions aren't
+  discussed thoroughly before people start doing things, it doesn't
+  look democratic. But everything is volunteer based, and leaders I
+  think have a sense of responsibilities to their constituencies, which
+  is meaningful.
 
 - The tools that open source developers use are, unsurprisingly open
-source, and are often picked up and used by teams that aren't making
-free software. I'm interested in thinking about how "ways of
-working," proliferate out of open source and into other spheres. Is
-non-open source developed differently if the developers are familiar
-with and use open source tools?
+  source, and are often picked up and used by teams that aren't making
+  free software. I'm interested in thinking about how "ways of
+  working," proliferate out of open source and into other spheres. Is
+  non-open source developed differently if the developers are familiar
+  with and use open source tools?
 
 - Similarly, I think I'm interested in thinking about how the
-architecture of Linux and Unix give rise to a thought about APIs and
-open standards in a way that doesn't necessarily happen on closed
-platforms. After a certain point, I think I'm forced to ask: is
-GNU/Linux the leading free software/open source platform because it
-just happens to be, or because it's UNIX. Is there something special
-about the design of UNIX that leads to openness, and the practices of
-openness? To what extent does the limitations of the environment
-(operating system here) the social conventions that are built on it?
+  architecture of Linux and Unix give rise to a thought about APIs and
+  open standards in a way that doesn't necessarily happen on closed
+  platforms. After a certain point, I think I'm forced to ask: is
+  GNU/Linux the leading free software/open source platform because it
+  just happens to be, or because it's UNIX. Is there something special
+  about the design of UNIX that leads to openness, and the practices of
+  openness? To what extent does the limitations of the environment
+  (operating system here) the social conventions that are built on it?
 
 And then beyond the specific questions--which are terribly important in
 and of themselves--open source present a terribly exciting subject for
@@ -88,4 +88,3 @@ concerning open source: version control history, email logs, IRC logs,
 and so forth. Not only are the issues important but the data is rich,
 and I think has a lot to tell us if we (I?) can bother to spend some
 time with it.
-
