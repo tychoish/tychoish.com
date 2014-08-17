@@ -2,6 +2,8 @@
 Laptop Queuing System
 =====================
 
+.. post:: 2011-01-14
+   :author: tychoish
 
 Here's the problem: most of my computing happens on laptops which are
 both unreliably active (i.e. suspended) and also have unreliable network
@@ -37,4 +39,3 @@ is in and can save tasks and run them when the conditions are right.
 Simple, right?
 
 Anyone want to work on this with me? Come on, it'll be fun!
-

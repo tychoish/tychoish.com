@@ -1,9 +1,0 @@
-============
-Good Holiday
-============
-
-.. post:: 2007-12-04
-   :author: tychoish
-
-.. figure:: http://tychoish.com/wordpress/wp-content/uploads/2007/12/ham-goyem.jpeg
-   :alt: ham-goyem

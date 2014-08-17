@@ -2,10 +2,15 @@
 Unfettered Monday
 =================
 
+.. post:: 2010-12-20
+   :author: tychoish
+
 
 `Fantisque Unfettered <http://www.fantastique-unfettered.com/>`__ is a
 new fantasy magazine from the editorial team that did the `Aether
-Age <>`__ shared world project. You can learn more about this by
+Age
+<http://www.amazon.com/The-Aether-Age-Christopher-Fletcher/dp/0982725671>`__
+shared world project. You can learn more about this by
 listening to the latest version of the `outer alliance
 podcast <http://blog.outeralliance.org/archives/725>`__. I must confess
 that reading/listening to *all* of these things is still in my queue,
@@ -23,4 +28,3 @@ If anyone has an idea for a more archives for Critical Futures posts,
 [[use this wiki page\|/archives/]].
 
 I hope your week is awesome!
-

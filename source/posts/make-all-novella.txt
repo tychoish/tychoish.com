@@ -2,6 +2,8 @@
 Make All Novella
 ================
 
+.. post:: 2011-01-14
+   :author: tychoish
 
 (**Note**: *I was going through some old files earlier this week and
 found a couple of old posts that never made it into the live site. This

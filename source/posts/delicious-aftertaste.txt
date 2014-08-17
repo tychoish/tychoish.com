@@ -2,6 +2,9 @@
 Delicious Aftertaste
 ====================
 
+.. post:: 2010-12-18
+   :author: tychoish
+
 
 Apparently Delicious is shutting down. This is either not news to you,
 because you've been hearing people natter on about it for days, or you
@@ -47,4 +50,3 @@ while and while it's not federated, (or open source, particularly,) I
 like just about everything they've done.
 
 Ponder that!
-

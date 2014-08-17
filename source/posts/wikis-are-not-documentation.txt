@@ -66,5 +66,4 @@ tools that are designed to solve this problem, but I'm not particularly
 familiar with anything specific. In any case, it's not a wiki.
 
 Do you have thoughts? Have I missed something? I look forward to hearing
-from you in [[comments\|discourse]]!
-
+from you in comments!

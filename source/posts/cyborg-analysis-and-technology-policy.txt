@@ -55,6 +55,6 @@ thoughts revolve around:
 - Refraining the discussion about digital security to address it from a
   human angle rather than from a purely technological angle.
 
-As always, I'd like to invite [[discussion\|discourse]]. For the series,
+As always, I'd like to invite comments and discussion. For the series,
 I'd like to track it's progress on the
 [[cyborg]]/[[cyborg/human-solution]] page.

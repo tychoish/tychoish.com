@@ -2,6 +2,8 @@
 Anti-Social Media
 =================
 
+.. post:: 2011-02-17
+   :author: tychoish
 
 I've been playing with this idea for a `Critical
 Futures <http://criticalfutures.com>`__ blog post for a few days, so

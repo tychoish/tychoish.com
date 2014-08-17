@@ -2,6 +2,8 @@
 Some New Years
 ==============
 
+.. post:: 2011-01-04
+   :author: tychoish
 
 Typically, I'm writing my new years post on January 3rd, knowing full
 well that I won't get a chance to publish it until the 4th. This
@@ -40,4 +42,3 @@ you in this blog.
 Cheers!
 
 (real content will resume shortly, I promise!)
-

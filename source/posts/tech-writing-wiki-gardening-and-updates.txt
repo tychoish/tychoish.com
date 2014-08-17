@@ -2,6 +2,8 @@
 Updates: Tech Writing and Wiki Gardening
 ========================================
 
+.. post:: 2011-01-19
+   :author: tychoish
 
 Yesterday, I posted over at `Critical
 Futures <http://criticalfutures.com/>`__ the second of, an apparent,
@@ -54,4 +56,3 @@ pages and note the new and developing pages in solicitation of your
 contribution.
 
 Shovels up!
-

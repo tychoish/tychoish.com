@@ -2,6 +2,9 @@
 git readd and git aliases
 =========================
 
+.. post:: 2011-02-02
+   :author: tychoish
+
 
 [[git]] is a version control system that does a number of things rather
 "differently." By now, I suspect most people are familiar with git so I

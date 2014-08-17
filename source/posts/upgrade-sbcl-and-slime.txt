@@ -2,6 +2,9 @@
 Upgrade SBCL and SLIME
 ======================
 
+.. post:: 2011-01-05
+   :author: tychoish
+
 
 This is a little bit of documentation/technical writing around an issue
 that I had for a while. `SBCL <URL>`__ is a Common Lisp implementation
@@ -39,4 +42,3 @@ only do by way of swank, which won't work unless you reload slime. It's
 a chicken and egg issue.
 
 Problem solved. Sorry it wasn't more interesting: most aren't terribly.
-

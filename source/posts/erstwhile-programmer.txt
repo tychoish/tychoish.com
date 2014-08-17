@@ -10,7 +10,7 @@ This is the story of how I occasionally realize I exist on the continuum
 of "programmers," rather than just being an eccentric sort of writer
 type.
 
-[[!toc startlevel=2 levels=3]]
+.. contents::
 
 Evidence
 --------
@@ -106,4 +106,3 @@ scripts and port them to Python and see if I can add just a little bit
 of additional functionality in the process.
 
 I'm sure I'll report to you on this as my work progresses.
-

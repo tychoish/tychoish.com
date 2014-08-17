@@ -2,6 +2,8 @@
 Wiki Blogging
 =============
 
+.. post:: 2011-01-10
+   :author: tychoish
 
 I'll probably do a fair piece of this "metablogging" thing here, and I'm
 sorry.
@@ -34,4 +36,3 @@ that people use technology. Which is interesting (and important) to
 think about.
 
 And that's all for now. I'll see you around later!
-

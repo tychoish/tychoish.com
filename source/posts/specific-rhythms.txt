@@ -2,6 +2,8 @@
 Specific Rhythms
 ================
 
+.. post:: 2011-01-24
+   :author: tychoish
 
 One part of finding momentum and working to dedicate a bit of energy to
 some projects that I've been neglecting for a while. I've written a bit
@@ -44,4 +46,3 @@ In the end, the novel keeps getting longer and closer to the end. I'm
 starting to think that I may be a bit *too* ahead of myself on the blog.
 My sweater-in-progress gets longer, and the progressing bar on my kindle
 progresses. That's worth something.
-

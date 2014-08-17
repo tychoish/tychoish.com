@@ -12,8 +12,7 @@ absence of emacs (as on a tablet,) I've been thinking about what
 features I actually need in a writing application. While I've grown to
 admire the power of a full Lisp machine in my text editor, I accept that
 it's not, strictly speaking required. Here's a first stab at the list of
-requirements. Feel free to edit this page in the wiki or or
-[[discuss\|discourse]]:
+requirements. Feel free to comment or submit a patch to this page.
 
 - Simple, primarily full screen editing.
 - The ability edit very large files, 100kbs should present no issue.
@@ -36,4 +35,3 @@ Nice to have (but not crucial) features:
 
 Other than that I don't think there's anything that I *really* need to
 have to get writing done 90% of the time. How about you?
-

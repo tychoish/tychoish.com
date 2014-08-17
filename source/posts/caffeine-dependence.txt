@@ -2,6 +2,10 @@
 Caffeine Dependence
 ===================
 
+.. post:: 2010-12-23
+   :author: tychoish
+
+
 
 Sometimes, particularly when it feels like I'm not getting very much
 done, I'd probably tell you that I'm not very good at keeping myself a
@@ -39,4 +43,3 @@ Yesterday, I made tea right before I left the office, but left the mug
 there, and my night was noticeably effected by the chemical difference
 (I usually drink up to 24 ounces of tea on the train home.) All is
 better today.
-

@@ -2,6 +2,8 @@
 The Ones that Stop at North Broad
 =================================
 
+.. post:: 2011-02-03
+   :author: tychoish
 
 There's something about public transit, particularly train systems, that
 seeps into the riders. Little facts that make getting around easier.
@@ -36,4 +38,3 @@ It's also, apparently, good for allowing irritated and tired commuters
 to commiserate over the unreclaimable minutes of their lives that they
 loose on a regular basis. It's these kinds of interactions and phenomena
 that make urban living so attractive.
-

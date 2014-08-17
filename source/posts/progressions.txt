@@ -2,6 +2,8 @@
 Progressions
 ============
 
+.. post:: 2011-02-10
+   :author: tychoish
 
 I've been somewhat remiss in posting here. Nevertheless, I've managed to
 get rather a lot of things done in the couple of weeks that I think

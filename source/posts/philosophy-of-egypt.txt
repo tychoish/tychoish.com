@@ -2,6 +2,8 @@
 Philosophy of the Present, Egypt
 ================================
 
+.. post:: 2011-02-15
+   :author: tychoish
 
 I've been watching the Egyptian revolution, off and on since it started.
 There's so much interesting stuff going on: the pragmatics of political
@@ -27,4 +29,3 @@ optimism seems foolhardy.
 
 There's work still to be done: both theoretical and revolutionary. But
 isn't there always?
-

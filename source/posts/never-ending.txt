@@ -42,11 +42,10 @@ I've posted a number of new [[rhizomes]] in the last week. They are:
   useful, hopefully you will too. Feel free to add your own comments
   there.
 
-- Similarly, I imported some comments onto the [[discourse
-  page\|rhizome/career-pathways/discourse]] for the [[Career
-  Pathways\|rhizome/career-pathways]] post.
+- Similarly, I imported some comments onto the [[discourse page\|rhizome/career-pathways/discourse]]
+  for the [[Career Pathways\|rhizome/career-pathways]] post.
 
-- In response to one of the [[comments]] on the Intellectual Practice
+- In response to one of the comments the Intellectual Practice
   post, I put together a [[pedagogy]] page, including some *very* rough
   descriptions of "writing classes I wish I'd taken and would love to
   teach."

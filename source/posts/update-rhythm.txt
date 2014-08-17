@@ -46,7 +46,7 @@ as-of-yet-uncreated wiki pages red (according to wiki-convention.) I
 think (and hope) that red links are easier to spot when they're red.
 Feedback on the design would be most welcome. My goal is to make the
 site welcoming, easy to use, and to minimize the amount of "fussiness."
-It might be time for a full refresh, but [[feedback\|discourse]] on the
+It might be time for a full refresh, but feedback on the
 subject might be good.
 
 Critical Futures and Wiki Fiction

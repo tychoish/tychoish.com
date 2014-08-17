@@ -11,13 +11,13 @@ Enjoy!
 
 **G:** Why do you always talk so much... and say so little?
 
-**H:** Just delete [[:sup:`][`\ ]].
+**H:** Just delete.
 
 **G:** That's stupid, it doesn't help much.
 
 **H:** But cleaning up those extra spaces is so satisfying.
 
-**G:** Why not [[:sup:`][`\ ]]?
+**G:** Why not?
 
 **H:** Picky picky.
 
@@ -46,4 +46,3 @@ Enjoy!
 **H:** you're no fun.
 
 **G:** And you can't find anything.
-

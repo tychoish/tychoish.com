@@ -51,6 +51,6 @@ I'm left with the following questions:
   defective practices and equipment. In this vein, how cities share
   data between them will also be quite interesting.
 
-[[I'd love to hear from you\|discourse]]!
+I'd love to hear from you!
 
 .. [1] `RedMonk <http://redmonk.com/>`__ also use a similar argument.

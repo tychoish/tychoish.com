@@ -84,4 +84,4 @@ else, build tools will need to do a lot more error checking and
 hopefully documentation writers will develop standard file organizations
 and practices that will keep things under control.
 
-[[Thoughts\|discourse]]? Onward and Upward!
+Thoughts? Onward and Upward!

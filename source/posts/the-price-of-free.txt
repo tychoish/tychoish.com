@@ -1,15 +1,15 @@
+.. post:: 2011-02-05
+   :author: tychoish
+
 =================
 The Price of Free
 =================
 
+  Eventually, the Facebooks and Twitters of the world may be dethroned
+  and replaced by provider-agnostic protocols, in much the same way
+  AOL is no longer synonymous with email. However, no one is going to
+  build protocols that threaten their bottom line. So long as "free"
+  is paid for by surveillance, the Internet will represent a Faustian
+  bargain for radical social movements.
 
-Eventually, the Facebooks and Twitters of the world may be dethroned
-and replaced by provider-agnostic protocols, in much the same way
-AOL is no longer synonymous with email. However, no one is going to
-build protocols that threaten their bottom line. So long as "free"
-is paid for by surveillance, the Internet will represent a Faustian
-bargain for radical social movements.
-
--- `The Price of
-Free <http://www.socialtextjournal.org/periscope/2009/11/the-price-of-free-1.php>`__
-
+-- `The Price of Free <http://www.socialtextjournal.org/periscope/2009/11/the-price-of-free-1.php>`_

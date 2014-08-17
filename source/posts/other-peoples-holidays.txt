@@ -2,6 +2,8 @@
 Other People's Holidays
 =======================
 
+.. post:: 2010-12-25
+   :author: tychoish
 
 The following `tweet/identica post <http://identi.ca/notice/61031249>`__
 made this morning, pretty much sums up my reaction to the incumbent
@@ -32,4 +34,3 @@ technology <http://criticalfutures.com/2010/12/new-technology/>`__). I
 hope you forgive my indulgence while I get the new rhythm sorted out.
 
 And if this is *your* holiday, I hope you enjoy it!
-

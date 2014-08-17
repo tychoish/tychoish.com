@@ -6,9 +6,8 @@ Awesome Problems
    :author: tychoish
 
 This is a continuation of my earlier post on `the awesome window
-manager <>`__ read there for the background. I'm going to focus on some
-of the challenges that I've had trying to use the `awesome window
-manager <http://awesome.naquadah.org>`__
+manager <http://awesome.naquadah.org>`_ read there for the background. I'm going to focus on some
+of the challenges that I've had trying to use Awesome.
 
 Applications made for Awesome
 -----------------------------
@@ -18,21 +17,21 @@ awesome, so linux users won't need to find new programs. GNOME and KDE
 apps all work fine. Having said that there are some applications which
 are more suited to the "Awesome" environment. Generally anything that
 runs in the terminal is fair game. That means `mutt for
-email <http://www.mutt.org/>`__, `vimperator for
-firefox <http://vimperator.mozdev.org/>`__, `mcabber for
-jabber <http://www.lilotux.net/~mikael/mcabber/>`__ (but there are `some
-issues here <http://tychoish.com/rhizome/the-mutt-of-im/>`__).
-`Terminator <http://www.ubuntugeek.com/terminator-multiple-gnome-terminals-in-one-window.html>`__
+email <http://www.mutt.org/>`_, `vimperator for
+firefox <http://vimperator.mozdev.org/>`_, `mcabber for
+jabber <http://www.lilotux.net/~mikael/mcabber/>`_ (but there are `some
+issues here <http://tychoish.com/rhizome/the-mutt-of-im/>`_).
+`Terminator <http://www.ubuntugeek.com/terminator-multiple-gnome-terminals-in-one-window.html>`_
 is my favorite terminal/console program.
-`Irssi <http://www.irssi.org/>`__ for IRC. `Vim <http://www.vim.org/>`__
+`Irssi <http://www.irssi.org/>`_ for IRC. `Vim <http://www.vim.org/>`_
 as a texteditor.
 
 That's a good place to start as any, but I'm sure that there are other
 apps out there that I'm missing. Your thoughts and suggestions of cool
 command line apps is always appreciated. Non-Awesome apps that I find
 myself using with awesome include
-`Cream <http://cream.sourceforge.net/>`__, and
-`Pidgin <http://www.pidgin.im/>`__.
+`Cream <http://cream.sourceforge.net/>`_, and
+`Pidgin <http://www.pidgin.im/>`_.
 
 The Scripting is Hard.
 ----------------------
@@ -42,7 +41,7 @@ I get this to work, I can save this Lua file and make awesome work
 wherever I need to in no time flat, but it's a lot to get the brain
 around. I think it might help if there were more examples of `Awesome
 configuration
-files <http://awesome.naquadah.org/wiki/index.php?title=Main_Page>`__ to
+files <http://awesome.naquadah.org/wiki/index.php?title=Main_Page>`_ to
 ease the tradition. Furthermore, I think it might also be helpful if
 there was a structure for multiple config files, or an allowance for
 "sourced" files (a la mutt/vim/bash). Basically I think it'd be cool to
@@ -71,7 +70,7 @@ Things I haven't figured out yet:
   tag. That would be *awesome.*
 
 - Using
-  `this <http://git.glacicle.com/other/configs.git/.config/awesome/rc_30.lua>`__
+  `this <http://git.glacicle.com/other/configs.git/.config/awesome/rc_30.lua>`_
   configuration file, I can't get the pidgin (or any other) system tray
   icons to pop up. Weird.
 

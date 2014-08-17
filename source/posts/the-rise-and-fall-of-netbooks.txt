@@ -2,6 +2,8 @@
 The Rise and Fall of Netbooks
 =============================
 
+.. post:: 2011-02-14
+   :author: tychoish
 
 "I'm old fashioned," R. said to me in an email, with that link to an
 article about how tablets have replaced and supplanted netbooks.
@@ -38,4 +40,3 @@ Interestingly, and perhaps orthogonally, Linux lead the development for
 netbooks. Though tablets are different, and the history is less easily
 accessible, I think the same thing is happening there. It'll be
 interesting to see how that pans out.
-

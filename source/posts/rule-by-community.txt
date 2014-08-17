@@ -2,6 +2,8 @@
 Rule By Community
 =================
 
+.. post:: 2011-02-01
+   :author: tychoish
 
 When Oracle acquired Sun Microsystems, there was a lot of (warranted)
 concern for what would happen to the Open Source projects that Sun
@@ -34,4 +36,3 @@ Maybe Sun was inflating an Open Source bubble of sorts, maybe
 corporate-sponsored open source, and community/consultancy-sponsored
 open source are different things that need different sorts of
 approaches.
-

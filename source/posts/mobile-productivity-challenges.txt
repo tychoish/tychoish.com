@@ -87,5 +87,4 @@ would not only collect and display the queue but would also connect with
 the application where whatever needed to be done was and then record the
 results and send the back to our desktops when we were done.
 
-[[Thoughts\|discourse]]?
-
+Thoughts?

@@ -105,7 +105,7 @@ Here are some ideas:
    - Make branch names as canonical as possible. The fact that there can
      be many possible names for the same thing is awful.
 
-Who's with me? We can [[sort out the details, if you want\|discourse]].
+Who's with me? We can sort out the details, if you want in comments.
 
 .. [1] To make this plausible, github needs to allow cherry-picked commits
    to close a pull request.

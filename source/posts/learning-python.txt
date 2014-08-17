@@ -2,6 +2,8 @@
 Learning Python
 ===============
 
+.. post:: 2011-02-07
+   :author: tychoish
 
 I'm not a programmer. I find myself saying this with great frequency.
 Which is weird, because I end up writing a fair amount of content that
@@ -45,4 +47,3 @@ I've gotten the hang of mangling variables and reading settings from
 configuration (YAML rocks, and is killer easy to use.) Next up, learning
 more about creating, writing, and copying files, with a likely side
 course in regular expressions for Python. I'll keep you posted.
-

@@ -2,6 +2,8 @@
 Infrastructure and Place
 ========================
 
+.. post:: 2011-01-23
+   :author: tychoish
 
 I've been playing around with writing a story or a few stories about
 transpiration infrastructure,

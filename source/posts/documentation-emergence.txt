@@ -63,7 +63,7 @@ resource, but the struggle then revolves around making sure that the
 right kind of users find the content they need. That's a problem of
 [[documentation usability\|technical-writing/usability]] and structure.
 But it's not without challenges, lets think about those in the
-[[discussion\|discourse]].
+comments.
 
 I also find myself thinking a bit about the differences between
 web-based documentation resources and conventional manuals in PDF or

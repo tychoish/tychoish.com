@@ -2,6 +2,8 @@
 Almost Poetry
 =============
 
+.. post:: 2010-12-21
+   :author: tychoish
 
 *in no particular order:*
 
@@ -14,4 +16,3 @@ morning."
 about the Internet?"
 
 "You look like the kind of fellow who wants a jolly rancher."
-

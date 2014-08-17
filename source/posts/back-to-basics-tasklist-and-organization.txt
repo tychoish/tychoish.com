@@ -103,7 +103,7 @@ much everything. That is:
   presentations.
 
 I'm sure there will be more shifts in the future, I'm sure. I think this
-is a good start. [[Thoughts, suggestions or discussion\|discourse]]?
+is a good start. Thoughts?
 
 .. [1] This has pretty much always been the case. I think of it as a
    personal quirk.

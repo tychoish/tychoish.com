@@ -2,6 +2,8 @@
 Knitting Pattern Complexity
 ===========================
 
+.. post:: 2011-01-26
+   :author: tychoish
 
 I've been writing a series of terribly self indulgent posts about
 [[thinking about creative projects as work\|art-work]] and about the
@@ -35,4 +37,3 @@ Anne" sock yarn (if that's meaningful to any of you,) and it feels
 lovely.
 
 Good enough for me!
-

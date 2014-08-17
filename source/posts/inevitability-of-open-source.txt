@@ -60,5 +60,4 @@ anything about technology will say that all paths forward lead toward a
 greater level of software freedom.
 
 Maybe this is a symptom of the situation in which I work and maybe I'm
-being too optimistic, but I don't think so. [[Thoughts\|discourse]]
-
+being too optimistic, but I don't think so. Thoughts?

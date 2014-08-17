@@ -43,4 +43,4 @@ interesting:
   software the user interface is the weakest point.
 
   The obvious questions then, is: why don't we trust non-technical users
-  with command lines? [[Discuss\|discourse]]?
+  with command lines? Thoughts?

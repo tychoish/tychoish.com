@@ -2,6 +2,9 @@
 The Magic of Vacation
 =====================
 
+.. post:: 2010-12-16
+   :author: tychoish
+
 
 I've been on vacation this week, if that wasn't clear to you all.
 There's been a lot of "doing things," notably this website, a nifty

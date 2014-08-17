@@ -64,6 +64,5 @@ are always already edge cases.
 Returning for a moment to the question of the window manager, in this
 case I think it's pretty clear: StumpWM is among the most minimal window
 managers around, even though it's RAM footprint is pretty big. But I'd
-love to hear your [[thoughts\|discourse]] on this specifically, or
+love to hear your thoughts on this specifically, or
 technological minimalism generally.
-

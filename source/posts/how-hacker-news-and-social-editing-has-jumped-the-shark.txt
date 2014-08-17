@@ -2,6 +2,10 @@
 How Hacker News and Social Editing has Jumped the Shark
 =======================================================
 
+.. post:: 2011-02-28
+   :author: tychoish
+
+
 
 How's that for a Malcolm Gladwell-style subtitle title?
 

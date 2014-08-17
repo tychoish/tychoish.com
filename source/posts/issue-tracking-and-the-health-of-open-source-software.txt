@@ -67,7 +67,7 @@ trackers. The prefabricated systems can be frustrating and difficult to
 use, and most of the minimalist systems [1]_ are hard to use in
 groups. [2]_ The first person to write a fully featured, lightweight,
 and easy to use issue tracking system will be incredibly successful.
-Feel free to edit this post or the [[discourse]], if you're aware of a
+Feel free to submit a patch to this post, if you're aware of a
 viable systems along these lines.
 
 .. [1] I'm thinking about using ikiwiki or org-mode to track issues, but

@@ -2,6 +2,8 @@
 Art Work
 ========
 
+.. post:: 2011-01-21
+   :author: tychoish
 
 I've written between 100 and 300 words on this novel that I've been
 working on for two and a half years, for the past two weeks. After too
@@ -58,4 +60,3 @@ momentum, it's easy to write a modest amount every day, and that's the
 kind of writing that adds up and makes novels.
 
 At least that's the plan.
-

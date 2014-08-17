@@ -76,5 +76,4 @@ for everyone, that a little bit of work on these, and potentially other,
 enhancements could go a long way toward making emacs better for
 everyone.
 
-Who's with me? Let's [[discuss\|discourse]]!
-
+Who's with me? Let's talk!
