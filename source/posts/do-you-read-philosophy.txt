@@ -32,7 +32,7 @@ Do You Read Philosophy?
 
 "Who do you read?"
 
-"*I'm a bit of an unreformed [[Deluzian]].*\ "
+"*I'm a bit of an unreformed Deluzian.*\ "
 
 "Deleuze wasn't a materialist."
 
@@ -41,4 +41,3 @@ Do You Read Philosophy?
 "There's that. I've been reading Hegel recently."
 
 "*Oh, really.*\ "
-

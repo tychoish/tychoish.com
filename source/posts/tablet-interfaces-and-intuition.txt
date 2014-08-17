@@ -32,8 +32,8 @@ economy of application market places does not create incentives for
 developers to build tools with enduring functionality. The ``.epub``
 reader I mentioned above is actually free software. [1]_ I write a
 couple of posts a while back on innovation
-([[one\|/rhizome/where-innovation-happens-part-one]] and
-[[two\|/rhizome/where-innovation-happens-part-two]]) that address the
+(:doc:`:one </rhizome/where-innovation-happens-part-one>` and
+:doc:`:two </rhizome/where-innovation-happens-part-two>`) that address the
 relationship between free software and technological development but
 that's beside the point.
 

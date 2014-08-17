@@ -5,7 +5,7 @@ Common Lisp Progress
 .. post:: 2014-04-06
    :author: tychoish
 
-The backstory: I'm trying to [[learn\|/rhizome/learning-problems]]
+The backstory: I'm trying to :doc:`:learn </rhizome/learning-problems>`
 Common Lisp. It's sort of an arcane programming language with a few
 aspects that I rather like, and I'm viewing this as an exercise to
 generalize my programming experience/knowledge.

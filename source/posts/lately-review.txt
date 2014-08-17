@@ -11,7 +11,7 @@ share.
 
 First up, [[jfm]] and I have been continuing the [[discussion we had
 about task lists\|rhizome/better-task-lists/discourse]] in a new
-[[discussion\|/rhizome/mobile-productivity-challenges/discourse]] of the
+:doc:`:discussion </rhizome/mobile-productivity-challenges/discourse>` of the
 :doc:`/posts/mobile-productivity-challenges`. I've also imported some
 [[conversation from
 facebook\|rhizome/cyborg-analysis-and-technology-policy/discourse]]
@@ -27,7 +27,7 @@ eternally grateful for the helping hand.
 
 Next up, I wrote a [[document\|documentation]] for a reader who
 commented in the [[Make Emacs
-Better\|rhizome/make-emacs-better]][[thread\|/rhizome/make-emacs-better/discourse]].
+Better\|rhizome/make-emacs-better]]:doc:`:thread </rhizome/make-emacs-better/discourse>`.
 The question addressed how to load optional functionality and
 "contributed" lisp code in emacs, and I wrote [[a little tutorial on how
 to load .el files in

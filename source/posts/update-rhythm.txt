@@ -18,7 +18,7 @@ Discussion of Rhizomes
 ----------------------
 
 [[jfm]] and I had a good
-[[exchange\|/rhizome/ideology-and-systems-administration/discourse]]
+:doc:`:exchange </rhizome/ideology-and-systems-administration/discourse>`
 about an old post that I wrote on "[[Ideology and Systems
 Administration\|rhizome/ideology-and-systems-administration]]."
 Basically the posts says, "systems administrators have a unique approach
@@ -29,11 +29,11 @@ clarifications were useful.
 There are a couple of comments on my recent series on a
 [[tag/productivity]]. First, I wrote a post about [[task planning and
 creating task items\|rhizome/create-better-task-items]], and [[madalu]]
-posted a [[comment\|/rhizome/create-better-task-items/discourse]].
+posted a :doc:`:comment </rhizome/create-better-task-items/discourse>`.
 Second, a number of us had an ongoing conversation on mobile
 productivity in response to the "[[Mobile Productivity
 Challenges\|rhizome/mobile-productivity-challenges]]" post
-([[link\|/rhizome/mobile-productivity-challenges/discourse]],) that
+(:doc:`:link </rhizome/mobile-productivity-challenges/discourse>`,) that
 touched on emacs (of course!) input, and context switching.
 
 Site Tweaks
@@ -67,7 +67,7 @@ External Links
 --------------
 
 I came across a blog from the
-[[comments\|/rhizome/make-emacs-better/discourse]] on the [[make emacs
+:doc:`:comments </rhizome/make-emacs-better/discourse>` on the [[make emacs
 better\|rhizome/make-emacs-better]] post that I wanted to offer as a
 link `The Babbage Files <http://babbagefiles.blogspot.com/>`__ is a
 great cyborg/emacs/free software blog.

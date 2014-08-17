@@ -15,7 +15,7 @@ attempt to catalog some of the work I (and others) have been doing that
   Task List\|rhizome/better-task-lists]]" post by [[jfm]]. Including
   spoilers for posts that I hope to have ready next week.
 
-- Further [[discussion\|/rhizome/make-emacs-better/discourse]] of the
+- Further :doc:`:discussion </rhizome/make-emacs-better/discourse>` of the
   [[make emacs better\|rhizome/make-emacs-better]]" post. I'm thinking
   that it's probably nearly time to split that into a few pages.
   There's a lot of great content there and people have added a lot. I'm

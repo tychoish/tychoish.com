@@ -43,6 +43,6 @@ as a collection of wiki pages:
   Tools\|/technical-writing/inclusion-management]]
 - [[Structured Content
   Generation\|/technical-writing/structured-content-generation]]
-- [[Static Analysis of Text\|/technical-writing/static-analysis]]
+- :doc:`:Static Analysis of Text </technical-writing/static-analysis>`
 
 Onward and Upward!

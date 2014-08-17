@@ -8,7 +8,7 @@ Updates: Tech Writing and Wiki Gardening
 Yesterday, I posted over at `Critical
 Futures <http://criticalfutures.com/>`__ the second of, an apparent,
 series of four posts on `dexy <http://dexy.it>`__.
-[[Dexy\|/technical-writing/dexy]] is cool because it's a pretty nifty
+:doc:`:Dexy </technical-writing/dexy>` is cool because it's a pretty nifty
 tool for doing documentation in a new and potentially very powerful
 manner. While I think playing around with Dexy is cool and important
 (and I'm having fun tinkering a little, seeing the world in a slightly

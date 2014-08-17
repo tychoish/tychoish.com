@@ -18,9 +18,8 @@ and getting into "the grove." There's so much to do, so many tasks
 collecting dust on my todo list, and I'm only *half* keeping ahead of
 everything.
 
-I have two things to report that I missed on the [[last
-update\|the-week-that-was]]: I have new full-text feeds for posts about
-[[org-mode\|/tag/org-mode/feed/]] and [[emacs\|/tag/emacs/feed]].
+I have two things to report that I missed on the [[last update\|the-week-that-was]]:
+I have new full-text feeds for posts about org-mode and emacs.
 Hopefully these will get included in relevant planets soon for your
 reading pleasure.
 

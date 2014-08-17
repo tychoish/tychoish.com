@@ -6,7 +6,7 @@ The Hard Part of Software
    :author: tychoish
 
 I've been writing build system tool that allows users to specify
-[[concurrent build processes\|/rhizome/build-stages]] using a
+:doc:`concurrent build processes </rhizome/build-stages>` using a
 lightweight, Python-based system that minimizes overhead.
 
 Progress is decent. I hope to use this to replace a hodgepodge of

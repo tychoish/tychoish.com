@@ -37,7 +37,7 @@ I've posted a number of new [[rhizomes]] in the last week. They are:
 
 - I imported some comments from Facebook regarding my
   [[intellectual-practice\|rhizome/intellectual-practice]] post onto
-  the [[discourse\|/rhizome/intellectual-practice/discourse]] page.
+  the :doc:`:discourse </rhizome/intellectual-practice/discourse>` page.
   These comments are pretty valuable and I've found the conversation
   useful, hopefully you will too. Feel free to add your own comments
   there.
