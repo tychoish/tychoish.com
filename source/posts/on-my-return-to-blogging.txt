@@ -9,7 +9,7 @@ I've been a blogging slacker in the last few months. I've been working a
 lot (software releases! content migrations!) and spending my free-time
 singing and working on a few odds-and-ends projects. And not blogging.
 
-But I did this [[/rhizome/delegated-builds]] project and it seemed like
+But I did this :doc:`/posts/delegated-builds` project and it seemed like
 blogging about it would be good.
 
 *And it was...*

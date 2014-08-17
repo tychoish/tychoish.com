@@ -36,10 +36,10 @@ New Posts
 While my posting volume has gone down, I have posted *something* since
 the last update post.
 
-- [[/rhizome/teaching-writing-skills]]
-- [[/rhizome/is-dropbox-the-mobile-file-system-standard]]
-- [[/rhizome/why-you-dont-want-programers-to-write-your-documentation]]
-- [[/rhizome/remote-accessibility-reverse-tunneling-super-dynamic-dns]]
+- :doc:`/posts/teaching-writing-skills`
+- :doc:`/posts/is-dropbox-the-mobile-file-system-standard`
+- :doc:`/posts/why-you-dont-want-programers-to-write-your-documentation`
+- :doc:`/posts/remote-accessibility-reverse-tunneling-super-dynamic-dns`
 
 Rest assured that there's more stuff in the pipeline.
 
@@ -69,24 +69,24 @@ first real tech job and my mind was full and I felt on fire. I consider
 a couple of these posts to be "tychoish classics." The good news is I've
 found them, so here they are:
 
-- [[/rhizome/are-web-standards-broken]]
-- [[/rhizome/distribution-habits-and-change]]
-- [[/rhizome/fa-sol-la]]
-- [[/rhizome/infrastructural-commerce]]
-- [[/rhizome/multiple-computers-and-singular-systems]]
-- [[/rhizome/my-workstation-choices]]
-- [[/rhizome/new-workstation-trials]]
-- [[/rhizome/on-package-management]]
-- [[/rhizome/on-public-key-encryption-and-security]]
-- [[/rhizome/org-mode-pitfalls]]
-- [[/rhizome/personal-desktop]]
-- [[/rhizome/personal-desktop-2]]
-- [[/rhizome/stars-in-my-torchwood-pocket]]
-- [[/rhizome/technology-as-infrastructure-act-one]]
-- [[/rhizome/technology-as-infrastructure-act-two]]
-- [[/rhizome/technology-as-infrastructure-act-three]]
-- [[/rhizome/the-blog-is-dead-long-live-the-blog]]
-- [[/rhizome/why-arch-linux-rocks]]
+- :doc:`/posts/are-web-standards-broken`
+- :doc:`/posts/distribution-habits-and-change`
+- :doc:`/posts/fa-sol-la`
+- :doc:`/posts/infrastructural-commerce`
+- :doc:`/posts/multiple-computers-and-singular-systems`
+- :doc:`/posts/my-workstation-choices`
+- :doc:`/posts/new-workstation-trials`
+- :doc:`/posts/on-package-management`
+- :doc:`/posts/on-public-key-encryption-and-security`
+- :doc:`/posts/org-mode-pitfalls`
+- :doc:`/posts/personal-desktop`
+- :doc:`/posts/personal-desktop-2`
+- :doc:`/posts/stars-in-my-torchwood-pocket`
+- :doc:`/posts/technology-as-infrastructure-act-one`
+- :doc:`/posts/technology-as-infrastructure-act-two`
+- :doc:`/posts/technology-as-infrastructure-act-three`
+- :doc:`/posts/the-blog-is-dead-long-live-the-blog`
+- :doc:`/posts/why-arch-linux-rocks`
 
 They seem to be arranged alphabetically rather than sequentially, Sorry
 about that!

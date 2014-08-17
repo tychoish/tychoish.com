@@ -5,7 +5,7 @@ Build Woes
 .. post:: 2013-03-25
    :author: tychoish
 
-I thought I'd back up after the [[/rhizome/delegated-builds]] post and
+I thought I'd back up after the :doc:`/posts/delegated-builds` post and
 expand on the nature of the build engineering problem that I've been
 dealing with (at my day job) on a documentation related problem.
 
@@ -102,7 +102,7 @@ The solutions are often not much better than the problem:
 There aren't a lot of solutions and most of them seem to come down to
 "deal with it and build less," which is hardly a solution.
 
-This is the foundation of the [[/rhizome/delegated-builds]] script that
+This is the foundation of the :doc:`/posts/delegated-builds` script that
 I wrote, which addresses the problem by making it less intrusive. I'm
 also working on a brief FAQ, which might help address some of the big
 questions about this project.

@@ -5,7 +5,7 @@ While I've Been Gone...
 .. post:: 2013-04-05
    :author: tychoish
 
-... from blogging. See [[/rhizome/on-my-return-to-blogging]] for the
+... from blogging. See :doc:`/posts/on-my-return-to-blogging` for the
 background.
 
 I sometimes look at other people's blogs, and think "wow, that's sharp,"
@@ -73,7 +73,7 @@ Given these changes, and the chance to rethink how I approach this blog:
   but I guess auto-submits makes for less useful content aggregator.
 
 - Just as tagging systems are inefficient and broken for wikis and
-  "real" technical resources (see [[/rhizome/taxonomic-failure/]] for
+  "real" technical resources (see :doc:`/posts/taxonomic-failure/` for
   my thoughts,) they're not all that great for blogs. I'm considering
   completely removing the tagging system on tychoish, and just letting
   the search tool (which is pretty good) make content easy to

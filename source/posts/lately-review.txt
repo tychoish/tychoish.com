@@ -12,7 +12,7 @@ share.
 First up, [[jfm]] and I have been continuing the [[discussion we had
 about task lists\|rhizome/better-task-lists/discourse]] in a new
 [[discussion\|/rhizome/mobile-productivity-challenges/discourse]] of the
-[[/rhizome/mobile-productivity-challenges]]. I've also imported some
+:doc:`/posts/mobile-productivity-challenges`. I've also imported some
 [[conversation from
 facebook\|rhizome/cyborg-analysis-and-technology-policy/discourse]]
 following up on the [[Cyborg Analysis and Technology

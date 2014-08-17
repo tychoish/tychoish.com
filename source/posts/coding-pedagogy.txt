@@ -12,7 +12,7 @@ literacy; and second, the pedagogical methods for teaching people how to
 program/code.
 
 In some ways, I've been writing about this and related topics for quite
-a while: see [[/rhizome/objective-whatsis]] for an earlier iteration in
+a while: see :doc:`/posts/objective-whatsis` for an earlier iteration in
 this train of thought.
 
 Programming and Technical Literacy
@@ -58,7 +58,7 @@ code with technical literacy is fraught:
   programming itself.
 
 This is a huge problem. I hope that this
-[[/rhizome/computer-literacy-project]] that I've been planning will
+:doc:`/posts/computer-literacy-project` that I've been planning will
 start to address some of these issues, but there's even more work to do.
 
 How to Teach People to Code

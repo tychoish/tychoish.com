@@ -6,8 +6,8 @@ Delegated Build Questions
    :author: tychoish
 
 This post accumulates what I thought would be the common questions about
-the [[/rhizome/delegated-builds]] post/tool. For more background see the
-[[/rhizome/build-woes]] post.
+the :doc:`/posts/delegated-builds` post/tool. For more background see the
+:doc:`/posts/build-woes` post.
 
 Couldn't you just have a separate build-only repository?
 --------------------------------------------------------

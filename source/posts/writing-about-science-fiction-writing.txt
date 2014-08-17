@@ -5,7 +5,7 @@ Writing about Science Fiction Writing
 .. post:: 2012-08-10
    :author: tychoish
 
-With the last post [[/rhizome/writing-about-technical-writing]] about
+With the last post :doc:`/posts/writing-about-technical-writing` about
 the kind of writing I do every day for work (and work related) project,
 I thought it would be fun to muse, briefly about the kind of writing, I
 do for *me*.
