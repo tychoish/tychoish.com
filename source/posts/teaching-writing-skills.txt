@@ -49,5 +49,5 @@ writing."
   essays and 10% better at writing processes.
 
 That would do it! I've included some work in this direction in the
-[[pedagogy page\|pedagogy]], but comments, are always
+:doc:`:pedagogy page </pedagogy>`, but comments, are always
 valuable.

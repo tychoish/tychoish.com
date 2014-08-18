@@ -41,7 +41,7 @@ by multiple audiences if its easy enough for users to skip to read only
 the material they need.
 
 The second class of solutions revolves around taking a more
-[[atomic\|technical-writing/atrocity]] approach to writing
+:doc:`:atomic </technical-writing/atrocity>` approach to writing
 documentation. In my own work this manifests in two ways:
 
 - **Setting yourself up for success:** understanding how software is

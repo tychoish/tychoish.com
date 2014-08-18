@@ -84,7 +84,7 @@ Stage all of Current State
 --------------------------
 
 I've been using a versing of this function for years now as part of my
-[[git-mail\|code/download-mail]] scheme. For some reason in my head,
+:doc:`:git-mail </code/download-mail>` scheme. For some reason in my head,
 it's called "readd." In any case, the effect of this is simple:
 
 - If a file is deleted from the working copy of the repository, remove

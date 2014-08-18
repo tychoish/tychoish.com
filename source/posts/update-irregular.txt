@@ -21,12 +21,12 @@ There's been discussion, and largely discussion that I've not attended
 to as well as I would have liked. If you commented on any of these
 posts, I've tried to respond in someway:
 
-- [[pedagogy discussion\|pedagogy/discourse]]
+- :doc:`:pedagogy discussion </pedagogy/discourse>`
 - [[writing teaching
   discussion\|rhizome/teaching-writing-skills/discourse]]
 - [[dropbox-replacements
   discussion\|rhizome/is-dropbox-the-mobile-file-system-standard/discourse]]
-- [[wiki and collaborative fiction discussion\|rhizome/wiki-fiction]]
+- :doc:`:wiki and collaborative fiction discussion </rhizome/wiki-fiction>`
 - [[vpn
   discussion\|rhizome/remote-accessibility-reverse-tunneling-super-dynamic-dns/discourse]]
 

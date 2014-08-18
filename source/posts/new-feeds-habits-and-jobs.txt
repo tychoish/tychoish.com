@@ -18,16 +18,16 @@ and getting into "the grove." There's so much to do, so many tasks
 collecting dust on my todo list, and I'm only *half* keeping ahead of
 everything.
 
-I have two things to report that I missed on the [[last update\|the-week-that-was]]:
+I have two things to report that I missed on the :doc:`:last update </posts/the-week-that-was>`:
 I have new full-text feeds for posts about org-mode and emacs.
 Hopefully these will get included in relevant planets soon for your
 reading pleasure.
 
-There's also been some [[discussion\|bad-org-mode-habits/discourse]] on
-the "[[Bad Org Mode Habits\|bad-org-mode-habits]]" post. You may be
+There's also been some :doc:`:discussion </bad-org-mode-habits/discourse>` on
+the ":doc:`:Bad Org Mode Habits </rhizome/bad-org-mode-habits>`" post. You may be
 interested.
 
-As an aside: the astute among you will notice that [[matt\|folk/madalu]]
+As an aside: the astute among you will notice that :doc:`:matt </folk/madalu>`
 and I have made a [[folk]] page that is automatically updated anytime
 there's a page that links to or is tagged with Matt's handle (i.e.
 "madalu.") This includes an RSS feed that he (or you) can use to track
@@ -37,7 +37,7 @@ make such a page for your own notification purposes.
 --------------
 
 Everything else on my list is pretty boring. I'm, slowly trying to
-follow my own advice in [[bad org mode habits\|bad-org-mode-habits]].
+follow my own advice in :doc:`:bad org mode habits </posts/bad-org-mode-habits>`.
 
 The organization I was using for my lists and notes worked really well
 when I was commuting all of the time and working off of laptops on the

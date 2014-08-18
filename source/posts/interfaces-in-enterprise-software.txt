@@ -11,7 +11,7 @@ issues\|cyborg/human-solution]] series. This post discusses a couple of
 ideas about "enterprise" software, and its importance the kind of
 overall analysis of technology that this posts (and others on this site)
 engage in. In many ways this is a different angle on some of the same
-questions addressed in my "[[Caring about Java\|caring-about-java]]"
+questions addressed in my ":doc:`:Caring about Java </posts/caring-about-java>`"
 post: boring technologies are important, if not outright interesting.
 
 There are two likely truths about software that make sense upon

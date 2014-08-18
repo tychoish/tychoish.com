@@ -13,16 +13,16 @@ do with a little bit of perspective and when viewed out of context with
 coordinating achievements. So here's the highlights from last week:
 
 I gave up on the "having two sites to maintain thing," and have merged
-[[Critical Futures\|essay]] back into the tychoish.com blog/wiki. I
+:doc:`:Critical Futures </posts>` back into the tychoish.com blog/wiki. I
 really like this, and it gave me some time to get elbows deep into the
 wiki system, which means things work better, the display is a bit
 cleaner, my life is easier, and I'm very happy with it. Also, as part of
-this process I've been revising the [[index]] page, and I think it is in
+this process I've been revising the index page, and I think it is in
 a state that I'm really pleased with.
 
 Some dancing friends on Facebook said "wouldn't it be nice if there was
-a wiki for contra dancers." Now there is. "`Contra Dance
-Wiki <http://contra.balanceandsing.com>`__\ " is there for you all if
+a wiki for contra dancers." Now there is. `Contra Dance
+Wiki <http://contra.balanceandsing.com>`__ is there for you all if
 you want it. I've done some preparatory work on the index page, and I'll
 continue to add things as I can.
 
@@ -40,4 +40,3 @@ linger. In any case, I had a brilliant weekend singing (and dancing) in
 Western Massachusetts. It has however left me a bit under the weather,
 so I'm spending a day recovering and doing some writing. Good stuff
 there. I'll write about WMSHC soon.
-

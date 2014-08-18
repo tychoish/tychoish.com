@@ -30,7 +30,7 @@ used to build documentation resources that build tools that yesterday's
 addresses. They are: [[technical-writing/atomicity]] or smaller "atomic"
 units of documentation, [[technical-writing/compilation]] or generating
 documentation statically before publication rather than dynamically on
-view, and [[flitering\|technical-writing/filters]] as an approach to
+view, and :doc:`:flitering </technical-writing/filters>` as an approach to
 document generation.
 
 --------------

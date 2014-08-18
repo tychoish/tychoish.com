@@ -49,7 +49,7 @@ driving alone. I've not driven very much in the last year, and my
 exercise routine has only recently started to become regular. So it's
 nice to get back in that habit.
 
-What are [[you all reading\|discourse]]? [2]_
+What are :doc:`:you all reading </discourse>`? [2]_
 
 .. [1] And if I weren't such an ardent traditionalist about reading series
    of books in the order of their publication.

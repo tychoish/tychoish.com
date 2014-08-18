@@ -61,7 +61,7 @@ two main user needs:
 I think it's feasible to do both kinds of documentation within a single
 resource, but the struggle then revolves around making sure that the
 right kind of users find the content they need. That's a problem of
-[[documentation usability\|technical-writing/usability]] and structure.
+:doc:`:documentation usability </technical-writing/usability>` and structure.
 But it's not without challenges, lets think about those in the
 comments.
 

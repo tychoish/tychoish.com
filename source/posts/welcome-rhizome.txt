@@ -35,6 +35,6 @@ This proves, it seems, the neccessity of these changes, which are:
 
 And I think I've done it all. I'll be doing some tweaking in the next
 few days and weeks to make it all work a bit better, but
-[[suggestions\|site-improvements]] are always welcome.
+:doc:`:suggestions </site-improvements>` are always welcome.
 
 Stay tuned!

@@ -7,7 +7,7 @@ Specific Rhythms
 
 One part of finding momentum and working to dedicate a bit of energy to
 some projects that I've been neglecting for a while. I've written a bit
-about [[finding the rhythm\|art-work]] of my current routine, I've not
+about :doc:`:finding the rhythm </art-work>` of my current routine, I've not
 written about what I'm *actually doing.* I hope this isn't too boring
 for words.
 

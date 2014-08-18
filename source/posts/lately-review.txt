@@ -25,7 +25,7 @@ Also, a thanks to the people who have done things like fix links and
 correct stupid typos. Sorry to have caused the trouble, and I'm
 eternally grateful for the helping hand.
 
-Next up, I wrote a [[document\|documentation]] for a reader who
+Next up, I wrote a :doc:`:document </documentation>` for a reader who
 commented in the [[Make Emacs
 Better\|rhizome/make-emacs-better]]:doc:`:thread </rhizome/make-emacs-better/discourse>`.
 The question addressed how to load optional functionality and
@@ -43,11 +43,11 @@ may be able to use. No promises, and feel free stash content here as
 well. It's all gravy.
 
 Speaking of the [[code]] section, I wrote a little script that I use as
-``dbl``, that I describe in the [[Epistle Linker\|code/epistle-linker]].
+``dbl``, that I describe in the :doc:`:Epistle Linker </code/epistle-linker>`.
 Basically this little function goes through a directory and creates
 symbolic links to that directory in a specified directory and mangles
 the names of the file (prepends a few charters and changes the
-extension.) [[Read the code\|code/epistle-linker]], but it makes it
+extension.) :doc:`:Read the code </code/epistle-linker>`, but it makes it
 possible to use a service like Dropbox without disrupting your local git
 setup and file organization. There's a known issue with Dropbox that
 makes it slightly less than ideal, but what can you do.

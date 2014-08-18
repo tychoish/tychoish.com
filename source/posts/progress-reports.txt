@@ -59,7 +59,7 @@ So what have I been up to? Well...
   posted with some revisions last week.
 
 - I made a [[folk]] page for frequent comm enter and discourse
-  participant [[matt\|madalu]] that includes a snippet which makes a
+  participant :doc:`:matt </madalu>` that includes a snippet which makes a
   list (and RSS feed!) of all pages that link to "madalu" or are tagged
   with "madalu" (his handle). You can see this by editing the page, and
   use it when making your own [[folk]] pages. Which you should

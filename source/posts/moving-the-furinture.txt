@@ -15,7 +15,7 @@ write, or that I never put the dishes away, because the cabinets were
 arranged backwards. The same sort of thing happens with computers and
 the way we use technology.
 
-[[Matt\|madalu]] and I were talking about this a couple of weeks ago. I
+:doc:`:Matt </madalu>` and I were talking about this a couple of weeks ago. I
 think at the core of the issue is that the kind of work we do with
 computers, changes subtly: either what we do *actually* changes as a
 result of our progress, or we learn more about what we're doing and what

@@ -7,7 +7,7 @@ Task Updates
    :tags: journal, update,
 
 Life has been incredibly busy and full lately and that's been a great
-thing. I've also been focusing my time on [[big projects\|longer-forms]]
+thing. I've also been focusing my time on :doc:`:big projects </longer-forms>`
 recently rather than posting updates here and updating the wiki. And
 then I have this day job which basically counts as a big project. While
 I like the opportunity to focus deeply on some subjects, I also miss the

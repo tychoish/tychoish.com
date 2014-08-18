@@ -52,9 +52,9 @@ subject might be good.
 Critical Futures and Wiki Fiction
 ---------------------------------
 
-As a build on top of my"[[Wiki Fiction\|rhizome/wiki-fiction]]" post,
+As a build on top of my":doc:`:Wiki Fiction </rhizome/wiki-fiction>`" post,
 I've moved the pages that had been located on the [[critical-futures]]
-page to [[previous/critical-futures\|previous/critical-futures]].
+page to :doc:`:previous/critical-futures </previous/critical-futures>`.
 Eventually the story will move to the *Critical Futures* domain, but
 that's a bit down the road. Right now I'd rather focus my time/energy on
 writing some stories, for now (on this wiki.) Infrastructure can come

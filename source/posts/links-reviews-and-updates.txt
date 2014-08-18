@@ -11,12 +11,11 @@ posts out, there is much change and progress afoot. This post is an
 attempt to catalog some of the work I (and others) have been doing that
 *hasn't* made it onto the blog:
 
-- [[Discussion\|rhizome/better-task-lists/discourse]] of the "[[Better
-  Task List\|rhizome/better-task-lists]]" post by [[jfm]]. Including
+- Discussion of the ":doc:`:Better Task List </rhizome/better-task-lists>`" post by [[jfm]]`. Including
   spoilers for posts that I hope to have ready next week.
 
 - Further :doc:`:discussion </rhizome/make-emacs-better/discourse>` of the
-  [[make emacs better\|rhizome/make-emacs-better]]" post. I'm thinking
+  :doc:`make emacs better </rhizome/make-emacs-better>` post. I'm thinking
   that it's probably nearly time to split that into a few pages.
   There's a lot of great content there and people have added a lot. I'm
   a huge fan.
@@ -35,10 +34,10 @@ attempt to catalog some of the work I (and others) have been doing that
   match my current projects and work.
 
 - The [[knitting]] page or blog, which is collected separately from
-  [[rhizome]] posts is in full swing, and I hope to be able to post a
+  rhizome posts is in full swing, and I hope to be able to post a
   few things there every now and then.
 
-- There's now a real [[tag]] index and a tag cloud that looks like
+- There's now a real tag index and a tag cloud that looks like
   something. I'd avoided putting together a page like this for some
   time, because there were a lot of junk tags and enough really big
   tags that the cloud didn't really work. I've mostly cleaned that up,

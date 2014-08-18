@@ -12,8 +12,8 @@ activity log is all you need to remember that you're actually doing
 something. Here's what I've been working on:
 
 - **[[critical-futures/isd]]**" is a developing page of material for my
-  ongoing [[story project\|critical-futures]]. I've written it in my
-  "[[Wiki Fiction\|rhizome/wiki-fiction]]" post. This particular page
+  ongoing :doc:`:story project </critical-futures>`. I've written it in my
+  ":doc:`:Wiki Fiction </rhizome/wiki-fiction>`" post. This particular page
   is basically sysadminning-punk, if I may be so bold. The story as a
   whole is largely a future history of human's expansion into the solar
   system and beyond, using Kim Stanley Robinson's idea of
@@ -34,20 +34,20 @@ something. Here's what I've been working on:
 - I've added a number of new posts that I hope won't be forgotten too
   quickly. They are:
 
-  - [[Is Android the Future of Linux\|rhizome/is-android-the-future-of-linux]]
+  - :doc:`:Is Android the Future of Linux </rhizome/is-android-the-future-of-linux>`
 
-  - [[Advice for Blogging Successfully\|rhizome/advice-for-blogging-successfully]]
+  - :doc:`:Advice for Blogging Successfully </rhizome/advice-for-blogging-successfully>`
 
   - [[Issue Tracking and the Health of Open Source
     Software\|rhizome/issue-tracking-and-the-health-of-open-source-software]]
 
-  - [[Tablet Interfaces and Intuition\|rhizome/tablet-interfaces-and-intuition]]
+  - :doc:`:Tablet Interfaces and Intuition </rhizome/tablet-interfaces-and-intuition>`
 
-  - [[Org Mode and Mobile Writing\|rhizome/org-mode-and-mobile-writing]]
+  - :doc:`:Org Mode and Mobile Writing </rhizome/org-mode-and-mobile-writing>`
 
-  - [[Publishing System Requirements\|rhizome/publishing-system-requirements]]
+  - :doc:`:Publishing System Requirements </rhizome/publishing-system-requirements>`
 
-  - [[Android Tablets and the Workstations of the Future\|rhizome/android-tablets-and-the-workstations-of-the-future]]
+  - :doc:`:Android Tablets and the Workstations of the Future </rhizome/android-tablets-and-the-workstations-of-the-future>`
 
 - There has also been some discussions of new and old rhizomes on the
   discourse pages. These are:
@@ -55,9 +55,9 @@ something. Here's what I've been working on:
   - [[Discussion of Android and the Future of
     Linux\|rhizome/is-android-the-future-of-linux/discourse]]
 
-  - [[Git Mail Discussion\|rhizome/git-mail/discourse]]
+  - :doc:`:Git Mail Discussion </rhizome/git-mail/discourse>`
 
-  - [[Tablet Discussion\|rhizome/and-then-i-broke-down-and-got-a-tablet/discourse]]
+  - :doc:`:Tablet Discussion </rhizome/and-then-i-broke-down-and-got-a-tablet/discourse>`
 
   - [[Create Better Task
     Items\|rhizome/create-better-task-items/discourse]]
@@ -72,7 +72,7 @@ something. Here's what I've been working on:
 
   - [[code/download-mail]]
 
-- My post, [[9 Awesome SSH Tricks\|rhizome/9-awesome-ssh-tricks]] from
+- My post, :doc:`:9 Awesome SSH Tricks </rhizome/9-awesome-ssh-tricks>` from
   March 2011, spent a number of hours on the front page of hacker new.
   You can read `the comments over
   there <http://news.ycombinator.com/item?id=3011947>`__, and probably

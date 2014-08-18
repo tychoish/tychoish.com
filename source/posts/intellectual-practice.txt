@@ -11,7 +11,7 @@ sustain intellectual life and practice. I would like to be able to ask
 questions, read seriously, participate in important conversations, and
 to write about this work and practice effectively for an audience that
 is invested in these discussions. This post is a follow up to my
-"[[career pathways\|career-pathways]]" post.
+":doc:`:career pathways </posts/career-pathways>`" post.
 
 I have a blog and wiki, I can read, and my writing continues to improve.
 How hard can it be to achieve these goals and establish this practice on
