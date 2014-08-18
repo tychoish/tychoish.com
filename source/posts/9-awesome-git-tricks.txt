@@ -13,7 +13,7 @@ a never ending supply of fresh posts on this topic. My use of git
 changes enough that I could probably write this post annaully and come
 up with a different 9 things. That said here's the best list right now.
 
-[[!toc startlevel=2 levels=3]]
+.. contents::
 
 See Staged Differences
 ----------------------

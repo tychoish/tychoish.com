@@ -10,7 +10,7 @@ I'm sorry that I've not posted here very much recently and also that the
 links in this post will be pretty unadorned. I'll make up for it with
 table of contents:
 
-[[!toc startlevel=2 levels=3]]
+.. contents::
 
 Ok, so it's not much, but lets get started.
 

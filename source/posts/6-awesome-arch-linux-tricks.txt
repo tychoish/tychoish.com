@@ -18,7 +18,7 @@ swell, really."
 This post is a collection of the clever little things that make Arch
 great.
 
-[[!toc startlevel=2 levels=3]]
+.. contents::
 
 abs
 ---
@@ -127,4 +127,3 @@ points that you should know:
   Start-up dependency issues are yours to address, but using order and
   background start-up this is trivial to implement. Background start ups
   lead to fast boot times.
-

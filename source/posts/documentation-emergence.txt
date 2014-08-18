@@ -67,6 +67,6 @@ comments.
 
 I also find myself thinking a bit about the differences between
 web-based documentation resources and conventional manuals in PDF or
-dead-tree editions. (See, [[technical-writing/web-based-documentation]]
+dead-tree editions. (See, :doc:`:/technical-writing/web-based-documentation`
 eventually.) I'm not sure how to resolve these challenges, or even what
 the right answers are, but I think the questions are very much open.

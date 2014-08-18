@@ -47,7 +47,7 @@ Requirements
 
 - **Verification and Testing**. While building "self-testing"
   documentation is really quite difficult (see also
-  [[technical-writing/dexy]],) I think publication systems should be
+  :doc:`:/technical-writing/dexy`,) I think publication systems should be
   able to do "run tests" against documents and provide reports, even if
   the tests are just to make sure that new of software versions haven't
   been released, or that links still work. It's probably also a good

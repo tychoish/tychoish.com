@@ -27,7 +27,7 @@ something. Here's what I've been working on:
 - I added a page to the [[technical-writing]] section on "[[Why the
   Documentation Sucks\|technical-writing/documentation-sucks]]," and
   I've done some additional editing and revising of this section of the
-  wiki. The [[technical-writing/documentation-sucks]] page has also
+  wiki. The :doc:`:/technical-writing/documentation-sucks` page has also
   served as the foundation of my post about [[documentation publishing
   systems\|rhizome/publishing-system-requirements]].
 

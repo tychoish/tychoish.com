@@ -11,7 +11,7 @@ merits an update post.
 
 I've posted two new things to `Critical
 Futures <http://criticalfutures.com/>`__, my final post--for now--about
-[[technical-writing/dexy]], called `make all
+:doc:`:/technical-writing/dexy`, called `make all
 dexy <http://criticalfutures.com/2011/02/make-all-dexy>`__. and a post
 about `new media <http://criticalfutures.com/archive/new-media>`__ on
 `What we Learn from
@@ -34,9 +34,9 @@ up to date. It's a struggle.
 
 I've also been doing some wiki work around these parts, mostly in the
 :doc:`technical writing </technical-writing>` section, including new pages
-about [[technical-writing/atomicity]], [[technical-writing/automation]],
-[[technical-writing/compilation]], [[technical-writing/dexy]], and
-[[technical-writing/filters]]. I'm also working on ways of marrying this
+about :doc:`:/technical-writing/atomicity`, :doc:`/technical-writing/automation`,
+:doc:`:/technical-writing/compilation`, :doc:`/technical-writing/dexy`, and
+:doc:`:/technical-writing/filters`. I'm also working on ways of marrying this
 wiki with `Critical Futures <http://criticalfutures.com/>`__, by way of
 the [[critical-futures]] section. It's in progress, of course but
 there's a blurb at the bottom of all CF posts that says:
@@ -44,7 +44,7 @@ there's a blurb at the bottom of all CF posts that says:
 Disqus comments are provided to support legacy comments on old
 posts, and as a last resort in cases where other means of
 communication are ineffective. Otherwise please consider leaving a
-:doc:`comment </critical-futures>` on the wiki.
+comment.
 
 The link doesn't work as well as I want to, and maybe I need to set up a
 specific comments page adding widget, as on the [[submissions]] page.

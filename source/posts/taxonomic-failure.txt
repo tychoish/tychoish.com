@@ -22,7 +22,7 @@ to information and knowledge resources.
 
 Organization is hard. Really hard. One of the challenges for digital
 resources is that they lack all of the conventions of
-[[technical-writing/books]], which would seem to be freeing: you get
+:doc:`:/technical-writing/books`, which would seem to be freeing: you get
 more space and you get the opportunity to do really flexible
 categorization and organization things.
 
