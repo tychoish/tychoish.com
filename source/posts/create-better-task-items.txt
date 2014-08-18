@@ -39,7 +39,7 @@ goal. In some cases, long strings of dependent tasks can be just as
 troublesome as large open tasks, because in the moment they amount to
 clutter.
 
-My post on :doc:`:filtering the todo list </rhizome/filtering-the-todo-list>` may be
+My post on :doc:`filtering the todo list </rhizome/filtering-the-todo-list>` may be
 of related interest. Also your feedback and suggestions
 from your own experience may be of interest to all of us! I look forward
 to hearing from you!

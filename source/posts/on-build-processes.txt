@@ -19,7 +19,7 @@ about making processes reproducible and consistent. In some respects I
 think it's appropriate to think of build tools as.
 
 I've written here before about the merits of
-[[/technical-writing/compilation]] for documentation, and I think that
+:doc:`/technical-writing/compilation` for documentation, and I think that
 still holds true: build processes add necessary procedural structure.
 Indirectly, having formalized build process, also makes it very easy to
 extend and develop processes as needs change. There's some up-front

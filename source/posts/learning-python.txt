@@ -35,7 +35,7 @@ sure it can do everything I want or need it to for a while, and the
 worst case scenario is that the skills will be transferable if I need to
 change later.
 
-My first "project," I think is to rewrite [[code/build-novel]] to
+My first "project," I think is to rewrite :doc:`/code/build-novel` to
 Python. I get what needs to happen, and it mostly just mangles some text
 files into a number of other files to keep source and publication
 versions of `Knowing Mars <http://tychogaren.com/mars>`__ in step with

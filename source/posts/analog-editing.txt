@@ -9,7 +9,7 @@ Analog Editing
 After doing the first pass of editing on my technical book, "`Systems
 Administration for
 Cyborgs <https://github.com/cyborginstitute/administration>`__\ " on a
-screen and feeling utterly buried by it, (See: [[the-editing-hole]],)
+screen and feeling utterly buried by it, (See: :doc:`/posts/the-editing-hole`,)
 and I'm considering different approaches for the next book.
 Specifically, for this novel I have, I'm thinking about getting the
 novel printed *somehow* and then editing it "analog style."

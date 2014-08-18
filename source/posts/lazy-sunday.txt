@@ -8,7 +8,7 @@ Lazy Sunday
 
 I've had a nice quiet weekend, the first such weekend in quite a while.
 It's nice to be able to relax, work on projects without deadlines, and
-avoid all of the :doc:`:editing </posts/the-editing-hole>` that I ought to be doing.
+avoid all of the :doc:`editing </posts/the-editing-hole>` that I ought to be doing.
 
 Some notable accomplishments, current projects, and other events in the
 last few weeks:

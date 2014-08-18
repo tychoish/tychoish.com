@@ -7,7 +7,7 @@ Information Debts
    :tags: technical-writing
 
 Like `technical debt <http://en.wikipedia.org/wiki/Technical_debt>`__,
-:doc:`:information debt </technical-writing/information-debt>` is a huge
+:doc:`information debt </technical-writing/information-debt>` is a huge
 problem for all kinds of organizations, and one that all technical
 writers need to be aware and able to combat directly. Let's backup a
 little...
@@ -65,6 +65,6 @@ debt\|technical-writing/information-debt]] in the [[technical-writing]]
 section of [[tychoish]]. I'll blog more about this, while I continue to
 work through some of these ideas, but I'm quite interested in hearing
 your thoughts on this post *and* on the
-:doc:`:information-debt </technical-writing/information-debt>` pages as well.
+:doc:`information-debt </technical-writing/information-debt>` pages as well.
 
 Onward and Upward!

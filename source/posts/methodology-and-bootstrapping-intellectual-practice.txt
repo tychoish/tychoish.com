@@ -73,7 +73,7 @@ proved wrong here.
 Disciplining and Formal Education
 ---------------------------------
 
-I think that working as a :doc:`:technical writer </technical-writing>` is
+I think that working as a :doc:`technical writer </technical-writing>` is
 something to which I am very suited, something that provides a great
 deal of value, gives me access to the kinds of people that I'm
 interested in talking with (software developers, admins.) And writing

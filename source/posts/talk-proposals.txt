@@ -32,7 +32,7 @@ This talk would center on the org-mode package, but would branch out to
 talk workflows and automation in Emacs and using Emacs to help people
 make awesome work.
 
-:doc:`:Emacs Productivity </rhizome/talk-proposals/emacs-productivity>`
+:doc:`Emacs Productivity </rhizome/talk-proposals/emacs-productivity>`
 
 The Year of The Linux Desktop: Amazing Window Manager Paradigms
 ---------------------------------------------------------------
@@ -49,7 +49,7 @@ a couple of projects in the tiling window manger space and explain why
 this kind of software is what should drive adoption of the Linux
 desktop.
 
-:doc:`:Linux Desktop </rhizome/talk-proposals/linux-desktop>`
+:doc:`Linux Desktop </rhizome/talk-proposals/linux-desktop>`
 
 Cloud Independence, Infrastructure, and Administration
 ------------------------------------------------------
@@ -61,5 +61,5 @@ contemporary moment. This talk would address these questions, provide an
 overview of how to "go it alone," and how to be responsible for managing
 and administering for your own personal "cloud infrastructure."
 
-:doc:`:Cloud Independence </rhizome/talk-proposals/cloud-independence>`
+:doc:`Cloud Independence </rhizome/talk-proposals/cloud-independence>`
 

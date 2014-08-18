@@ -7,7 +7,7 @@ Task Updates
    :tags: journal, update,
 
 Life has been incredibly busy and full lately and that's been a great
-thing. I've also been focusing my time on :doc:`:big projects </longer-forms>`
+thing. I've also been focusing my time on :doc:`big projects </longer-forms>`
 recently rather than posting updates here and updating the wiki. And
 then I have this day job which basically counts as a big project. While
 I like the opportunity to focus deeply on some subjects, I also miss the
@@ -57,7 +57,7 @@ editing everything else. I might make the release a *thing*, we'll see.
 
 Other than that, I:
 
-- Updated [[/technical-writing/compilation]].
+- Updated :doc:`/technical-writing/compilation`.
 
 - Finished the first draft of this novel. Editing will commence in
   June. I've also started planning a fiction project, for a draft to

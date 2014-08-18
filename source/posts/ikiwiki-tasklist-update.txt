@@ -66,4 +66,4 @@ Apparently some of that's changed.
 I've made a few additional changes to the scripts, but most of these
 feel more trivial and can be described as "I learned how to write
 slightly tighter shell scripts. so if you're using it you might want to
-update: the [[code/ikiwiki-tasklist]] page is up to date.
+update: the :doc:`/code/ikiwiki-tasklist` page is up to date.

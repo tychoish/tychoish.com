@@ -30,7 +30,7 @@ Great right?
 
 Right.
 
-Really flexible and powerful :doc:`:taxonomic </technical-writing/taxonomy>`
+Really flexible and powerful :doc:`taxonomic </technical-writing/taxonomy>`
 systems, like tagging systems have a number of problems when applied to
 large information resources:
 
@@ -85,7 +85,7 @@ are difficult to automate.
 
 The prevalence of tagging systems and the promises of easy, quick
 taxonomic organization are hard to avoid and counteract. As part of the
-fight against :doc:`:information debt </technical-writing/information-debt>`
+fight against :doc:`information debt </technical-writing/information-debt>`
 it's important to draw attention to the failure of broken taxonomy
 systems. We need, as technical writers, information custodians, and
 "knowledge workers," to develop approaches to organization that are easy

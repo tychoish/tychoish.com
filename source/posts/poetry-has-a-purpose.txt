@@ -13,7 +13,7 @@ him surrounding himself with beauty and simplicity. It didn't work for
 the character and I suspect it wouldn't work for you.
 
 This reminds me of a post I wrote some time ago that made the argument
-that :doc:`:poems are made of words </essay/poems-are-made-out-of-words>`
+that :doc:`poems are made of words </essay/poems-are-made-out-of-words>`
 rather than images or some sort of spiritually inspired emotional state.
 In short, poetry is about form, structure, and the conveyance of meaning
 at the level of the word and that "transcendence" doesn't really play

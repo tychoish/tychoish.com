@@ -6,7 +6,7 @@ Flaws with SSH
    :author: tychoish
    :tags: security,
 
-In response to :doc:`:9 Awesome SSH Tricks </posts/9-awesome-ssh-tricks>` some
+In response to :doc:`9 Awesome SSH Tricks </posts/9-awesome-ssh-tricks>` some
 posted the following quote (on the old commenting system):
 
 The workarounds have become smoother and some of the things we can
@@ -36,5 +36,5 @@ trouble or about to be in trouble. Use traditional VPNs and TLS/SSL when
 it makes sense and develop a sane security policy.
 
 But don't forget SSH and if you do use SSH, know that there are some
-really :doc:`:awesome </posts/9-awesome-ssh-tricks>` things that OpenSSH makes
+really :doc:`awesome </posts/9-awesome-ssh-tricks>` things that OpenSSH makes
 possible.

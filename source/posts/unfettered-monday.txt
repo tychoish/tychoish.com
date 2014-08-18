@@ -25,6 +25,6 @@ technology and techno/social phenomena from the practice of system
 administration. I'm calling it "`Lessons from Systems
 Administration <[http://criticalfutures.com/archive/from-systems-administration/>`__."
 If anyone has an idea for a more archives for Critical Futures posts,
-:doc:`:use this wiki page </archives/>`.
+:doc:`use this wiki page </archives/>`.
 
 I hope your week is awesome!

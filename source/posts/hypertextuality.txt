@@ -7,7 +7,7 @@ Hypertextuality
    :tags: science-fiction, writing, new-media
 
 I recently took some of my writing time to create a makefile
-([[code/novel-makefile]]) to manage work I hope to be doing on a new
+(:doc:`/code/novel-makefile`) to manage work I hope to be doing on a new
 novel project. I've started outlining and researching the story in
 earnest after having spent the past few couple of years talking about
 it, and I think writing will commence soon. In another post I'd like to
@@ -46,8 +46,8 @@ form.
 At various points I've thought that wikis might be a good model of how
 to do hypertext, because the form is structurally novel. Any more, I
 don't think that this is the case: wikis are unstructured and chaotic,
-and I've come to believe that the secret to [[/hypertext]] is
-[[/hypertext/structure]]. There are so many possibilities in hypertext,
+and I've come to believe that the secret to :doc:`/hypertext` is
+:doc:`/hypertext/structure`. There are so many possibilities in hypertext,
 and I think much experimentation in hypertext has attempted to address
 the chaos of this experience. This does serve to highlight the extent to
 which "the future is here," but it obscures the fact that structure
@@ -55,7 +55,7 @@ makes narratives understandable. Think about how much great, new,
 innovative (and successful!) fiction in the past decade (or so) is not
 structurally experimental or chaotic. (Answer: there's a lot of it.)
 
-The not-so-secret of hypertext, is (I suspect,) [[/hypertext/tooling]]:
+The not-so-secret of hypertext, is (I suspect,) :doc:`/hypertext/tooling`:
 without really good tools the mechanics of producing a complex,
 interactive textual experience [2]_ is difficult for a single writer, or
 even a small group of writers. Most tools that manage the publication

@@ -13,7 +13,7 @@ do with a little bit of perspective and when viewed out of context with
 coordinating achievements. So here's the highlights from last week:
 
 I gave up on the "having two sites to maintain thing," and have merged
-:doc:`:Critical Futures </posts>` back into the tychoish.com blog/wiki. I
+:doc:`Critical Futures </posts>` back into the tychoish.com blog/wiki. I
 really like this, and it gave me some time to get elbows deep into the
 wiki system, which means things work better, the display is a bit
 cleaner, my life is easier, and I'm very happy with it. Also, as part of

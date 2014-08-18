@@ -6,7 +6,7 @@ Little Goals and Big Projects
    :author: tychoish
    :tags: lists
 
-Given all of the :doc:`:recent changes </posts/changes-and-resetting>` in my life, I
+Given all of the :doc:`recent changes </posts/changes-and-resetting>` in my life, I
 found myself building and rebuilding a list of things that I'd like to
 "in the future," sometime. The list is more than a set of mid-year "New
 Years Resolutions," and it's not quite as impressive as a "5 Year Plan."

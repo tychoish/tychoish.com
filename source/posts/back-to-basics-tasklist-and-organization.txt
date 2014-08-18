@@ -67,7 +67,7 @@ much everything. That is:
   have this setup, and there's a central remote to keep both (all?)
   machines in sync.
 
-- I'm using [[code/ikiwiki-tasklist]] to basically replicate the
+- I'm using :doc:`/code/ikiwiki-tasklist` to basically replicate the
   functions of ``org-agenda``. Basically this crawls the entire wiki
   looking for lines that begin with certain keywords and generates a
   "todo" page based on these notes. Really simple, incredibly useful

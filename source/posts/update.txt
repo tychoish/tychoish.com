@@ -12,7 +12,7 @@ everyone out there in internet-land is having a good end of the year.
 I'll try and get a retrospective/new years out in the next few days, and
 avoid belaboring the point here.
 
-As I said :doc:`:last friday </rhizome/longer-forms>` it's my intent to focus
+As I said :doc:`last friday </rhizome/longer-forms>` it's my intent to focus
 here on shorter/quicker thoughts, and focus my free writing/project time
 for work on longer projects (fiction, non-fiction, perhaps some
 programming.) So far so good.

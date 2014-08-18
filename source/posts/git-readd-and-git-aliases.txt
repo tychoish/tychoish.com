@@ -33,7 +33,7 @@ will be able to pick up the rename operations implicitly, and the *next*
 commit will reflect the current state of the file system.
 
 I've thrown this little snippet in the [[code]] section of the site:
-**:doc:`:git-readd </code/git-readd>`**.
+**:doc:`git-readd </code/git-readd>`**.
 
 I've used this process as part of scripts in the past, and it's great
 for managing Maildirs with git, but I found myself needing this

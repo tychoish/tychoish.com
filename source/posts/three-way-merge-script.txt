@@ -17,7 +17,7 @@ they're up to date. That's all. Turns out nothing does exactly that, so
 I wrote a hacked up shell script, and you can get it from the [[code]]
 section:
 
-[[code/merge-script]]
+:doc:`/code/merge-script`
 
 I hope you enjoy!
 

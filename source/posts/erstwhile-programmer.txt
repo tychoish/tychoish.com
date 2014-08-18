@@ -35,7 +35,7 @@ time, particularly given I/O limitations. So I gave up, started from
 (relative) scratch, and rewrote the scripts to be a little bit more
 smart... You know in an afternoon.
 
-See the revised code here: [[code/download-mail]]
+See the revised code here: :doc:`/code/download-mail`
 
 ikiwiki-tasklist
 ~~~~~~~~~~~~~~~~
@@ -50,12 +50,12 @@ org-mode is great, it just ended up getting in my way a bit and I think
 I can get more of what I need to get done in other ways.
 
 I have learned a great deal from org-mode. I made the biggest leap away
-from org-mode when I wrote [[code/ikiwiki-tasklist]], which does all of
+from org-mode when I wrote :doc:`/code/ikiwiki-tasklist`, which does all of
 the things I had been using org-mode's agenda for. It's not a
 complicated at all: look in some files for some lines that begin with
 specific strings and put them into a page that is the perfect task list.
 
-See the code here: [[code/ikiwiki-tasklist]]
+See the code here: :doc:`/code/ikiwiki-tasklist`
 
 Common Lisp Weenie
 ~~~~~~~~~~~~~~~~~~

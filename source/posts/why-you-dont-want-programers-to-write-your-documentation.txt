@@ -6,7 +6,7 @@ Why you Don't Want Programers to Write Your Documentation
    :author: tychoish
    :tags: technical-writing
 
-So the :doc:`:documentation sucks </technical-writing/documentation-sucks>`.
+So the :doc:`documentation sucks </technical-writing/documentation-sucks>`.
 Hire someone to make the documentation [[suck
 less\|technical-writing/suck-less]].
 
