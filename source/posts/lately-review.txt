@@ -13,10 +13,8 @@ First up, [[jfm]] and I have been continuing the [[discussion we had
 about task lists\|rhizome/better-task-lists/discourse]] in a new
 :doc:`discussion </rhizome/mobile-productivity-challenges/discourse>` of the
 :doc:`/posts/mobile-productivity-challenges`. I've also imported some
-[[conversation from
-facebook\|rhizome/cyborg-analysis-and-technology-policy/discourse]]
-following up on the [[Cyborg Analysis and Technology
-Policy\|rhizome/cyborg-analysis-and-technology-policy]] post that I made
+:doc:`:conversation from facebook </rhizome/cyborg-analysis-and-technology-policy/discourse>`
+following up on the :doc:`:Cyborg Analysis and Technology Policy </rhizome/cyborg-analysis-and-technology-policy>` post that I made
 this last week. I'm really *really* proud of the extent to which the
 comments and edits that I've gotten have made my writing and thinking
 clearer on these subjects.
@@ -75,4 +73,3 @@ else. been I've reading Iain M. Banks'
 which has been a great deal of fun.
 
 Other than that. It's been a pretty quiet couple of weeks.
-

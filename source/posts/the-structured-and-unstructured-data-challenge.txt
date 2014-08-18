@@ -61,7 +61,7 @@ can handle and developers should err on the side of stricture."
 Current Directions
 ------------------
 
-Software like [[tag/org-mode]] and `twiki <http://twiki.org/>`__ are
+Software like org-mode and `twiki <http://twiki.org/>`__ are
 attempts to leverage structure within unstructured forms, and although
 the buzz around enterprise content management (ECM) has started to die
 down, there is a huge collection of software that attempts to impose

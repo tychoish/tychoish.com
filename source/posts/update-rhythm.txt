@@ -27,7 +27,7 @@ systems administrators background on technology development. I think our
 clarifications were useful.
 
 There are a couple of comments on my recent series on a
-[[tag/productivity]]. First, I wrote a post about [[task planning and
+productivity. First, I wrote a post about [[task planning and
 creating task items\|rhizome/create-better-task-items]], and [[madalu]]
 posted a :doc:`comment </rhizome/create-better-task-items/discourse>`.
 Second, a number of us had an ongoing conversation on mobile
@@ -40,7 +40,7 @@ Site Tweaks
 -----------
 
 This is a pretty minor point, but I've been subtly tweaking the design a
-little in the site. There are now links to the [[tag]]s page and the
+little in the site. There are now links to the tags page and the
 [[site-map]] in the upper right hand corner. I've also made links to
 as-of-yet-uncreated wiki pages red (according to wiki-convention.) I
 think (and hope) that red links are easier to spot when they're red.

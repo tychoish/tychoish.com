@@ -38,8 +38,7 @@ something. Here's what I've been working on:
 
   - :doc:`Advice for Blogging Successfully </rhizome/advice-for-blogging-successfully>`
 
-  - [[Issue Tracking and the Health of Open Source
-    Software\|rhizome/issue-tracking-and-the-health-of-open-source-software]]
+  - :doc:`:Issue Tracking and the Health of Open Source Software </rhizome/issue-tracking-and-the-health-of-open-source-software>`
 
   - :doc:`Tablet Interfaces and Intuition </rhizome/tablet-interfaces-and-intuition>`
 
@@ -52,18 +51,15 @@ something. Here's what I've been working on:
 - There has also been some discussions of new and old rhizomes on the
   discourse pages. These are:
 
-  - [[Discussion of Android and the Future of
-    Linux\|rhizome/is-android-the-future-of-linux/discourse]]
+  - :doc:`:Discussion of Android and the Future of Linux </rhizome/is-android-the-future-of-linux/discourse>`
 
   - :doc:`Git Mail Discussion </rhizome/git-mail/discourse>`
 
   - :doc:`Tablet Discussion </rhizome/and-then-i-broke-down-and-got-a-tablet/discourse>`
 
-  - [[Create Better Task
-    Items\|rhizome/create-better-task-items/discourse]]
+  - :doc:`:Create Better Task Items </rhizome/create-better-task-items/discourse>`
 
-  - [[Writing Software Requiremens
-    Discussions\|rhizome/writing-software-beyond-emacs/discourse]]
+  - :doc:`:Writing Software Requirements Discussions </rhizome/writing-software-beyond-emacs/discourse>`
 
 - A few weeks ago I posted a few new scripts in the [[code]] section.
   Tell me what you think:

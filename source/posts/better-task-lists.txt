@@ -16,7 +16,7 @@ thought.
 For such a seemingly simple engineering problem there is an inordinate
 amount of really bad software. While this might tempt us to reassess the
 complexity of the task management problem, I don't think this is really
-true. What happens, I'm convinced, is that people (i.e. [[tag/cyborg]]s)
+true. What happens, I'm convinced, is that people (i.e. cyborgs)
 make lists of tasks to solve different problems in their realities, and
 these different lists often require different automation. So while there
 are 10-20 basic task management applications, the number of distinct

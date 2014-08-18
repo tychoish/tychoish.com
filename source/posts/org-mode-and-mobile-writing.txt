@@ -6,8 +6,8 @@ Org Mode and Mobile Writing
    :author: tychoish
    :tags: productivity, writing, emacs, org-mode, mobile-technology, android
 
-This post is adapted from a post I made to the [[tag/org-mode]][email
-list](http://orgmode.org/worg/org-mailing-list.html) a few weeks ago. I
+This post is adapted from a post I made to the org-mode
+`email list <http://orgmode.org/worg/org-mailing-list.html>`_ a few weeks ago. I
 proposed an application to compliment
 `MobileOrg <http://mobileorg.ncogni.to/>`__ for writing. Where MobileOrg
 collects the core bits of org-mode's task planning functionality in a

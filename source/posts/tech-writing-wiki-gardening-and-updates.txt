@@ -50,7 +50,7 @@ The idea of `wiki gardening <http://c2.com/wiki/>`__ isn't new, but I
 like it. Wiki's are so simple and so easy to create that the only thing
 you can really do to cause a wiki to fail is to neglect it. Not that the
 proper care and feeding of a wiki isn't challenging, but it is *simple*.
-In any case I suspect many of the [[tag/meta]] posts will be "gardening"
+In any case I suspect many of the meta posts will be "gardening"
 posts in the sense that they'll draw attention to recent edits of wiki
 pages and note the new and developing pages in solicitation of your
 contribution.

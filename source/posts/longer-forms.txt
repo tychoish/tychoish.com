@@ -64,7 +64,7 @@ the later as much as possible.
 So I think this means that most of my "tychoish," writing time will go
 to writing this book project, and to fiction, and once my blog post
 backlog is fully depleted (heh,) most of my postings will either be
-announcements/[[tag/progress-reports]] or a bunch of shorter more
+announcements/``progress-reports`` or a bunch of shorter more
 off-the-cuff notes.
 
 Here's hoping at least.
