@@ -51,5 +51,4 @@ work, hinges upon:
   grasp the intricacies of your work and different enough to infuse the
   conversation with useful context and ideological breadth.
 
-At least, that's my hope. What am I forgetting? [[Contribute
-here\|discourse]].
+At least, that's my hope. What am I forgetting?

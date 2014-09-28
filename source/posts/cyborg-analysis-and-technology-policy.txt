@@ -6,7 +6,7 @@ Cyborg Analysis and Technology Policy
    :author: tychoish
    :tags: cyborg
 
-I want to put together a series of posts about [[cyborg]] perspectives
+I want to put together a series of posts about cyborg perspectives
 on industrial IT practices. This post introduces that series.
 
 The "cyborg analysis," makes difficult to ignore that most problems with
@@ -57,4 +57,4 @@ thoughts revolve around:
 
 As always, I'd like to invite comments and discussion. For the series,
 I'd like to track it's progress on the
-[[cyborg]]/[[cyborg/human-solution]] page.
+cyborg/:doc:`human solution </posts/human-solution>` page.

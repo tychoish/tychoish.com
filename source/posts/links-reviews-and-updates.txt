@@ -11,7 +11,7 @@ posts out, there is much change and progress afoot. This post is an
 attempt to catalog some of the work I (and others) have been doing that
 *hasn't* made it onto the blog:
 
-- Discussion of the ":doc:`Better Task List </rhizome/better-task-lists>`" post by [[jfm]]`. Including
+- Discussion of the ":doc:`Better Task List </rhizome/better-task-lists>`" post by jfm`. Including
   spoilers for posts that I hope to have ready next week.
 
 - Further :doc:`discussion </rhizome/make-emacs-better/discourse>` of the
@@ -29,11 +29,11 @@ attempt to catalog some of the work I (and others) have been doing that
 - I'm in the slow process of cleaning up the `Cyborg
   Institute <http://cyborginstitute.com>`__ site which I've neglected
   for far too long. I'm importing a lot of the content that I wrote
-  over there, notably [[sygn]] and [[tubmle-manager]]. Next up, some
+  over there, notably sygn and tubmle-manager. Next up, some
   straggling blog posts, and a clean up of the existing content to
   match my current projects and work.
 
-- The [[knitting]] page or blog, which is collected separately from
+- The :doc:`/knitting` page or blog, which is collected separately from
   rhizome posts is in full swing, and I hope to be able to post a
   few things there every now and then.
 
@@ -55,8 +55,7 @@ attempt to catalog some of the work I (and others) have been doing that
 
 - `undo-tree-mode <http://www.emacswiki.org/emacs/UndoTree>`__ is a
   nifty little emacs hack that makes undoing and redoing much less
-  complicated and weird. (From that [[make emacs better
-  discussion\|rhizome/make-emacs-better/discourse]].) Though I have to
+  complicated and weird. (From that :doc:`make emacs better discussion </rhizome/make-emacs-better/discourse>`.) Though I have to
   admit that I no longer have a problem with the default behavior, even
   if I know it's a bit counter intuitive.
 

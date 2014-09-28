@@ -6,8 +6,7 @@ In Favor of Fast Builds
    :author: tychoish
    :tags: programming, build-engineering
 
-This is an entry in my loose series of posts about [[build
-systems\|build-engineering]].
+This is an entry in my loose series of posts about build systems.
 
 I've been thinking recently about why I've come to think that build
 systems are so important, and this post is mostly just me thinking aloud
@@ -71,8 +70,7 @@ will avoid it and run the build less frequently, and on the whole the
 development effort looses important feedback and data.
 
 Continuous integration systems help with this, but they require
-significant resources, are [[clumsy
-solutions\|/rhizome/cron-is-the-wrong-solution]], and above all, CI
+significant resources, are :doc:`clumsy solutions <//rhizome/cron-is-the-wrong-solution>`, and above all, CI
 attempts to solve a slightly different problem.
 
 Optimizing Builds

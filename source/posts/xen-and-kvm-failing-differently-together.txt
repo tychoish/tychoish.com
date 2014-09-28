@@ -12,7 +12,7 @@ virtualization technology. While that project would have been edifying
 on its own, I also hoped to use the extra flexibility to some more
 consistent testing and development work.
 
-This project spurned [[xen-laptop]], but the truth is that Xen is
+This project spurned a xen laptop project, but the truth is that Xen is
 incredibly difficult to get working, and eventually the "new laptop"
 just became the "every day laptop," and I let go of the laptop Xen
 project. In fact, until very recently I'd pretty much given up on doing

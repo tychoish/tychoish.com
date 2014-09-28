@@ -238,5 +238,5 @@ repository at any time.
 
 --------------
 
-Does anyone have [[git-tricks]] that they'd like to share with the
+Does anyone have git tricks that they'd like to share with the
 group?

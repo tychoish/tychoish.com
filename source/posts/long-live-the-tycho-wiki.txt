@@ -30,14 +30,14 @@ Mostly, it's still the same blog that it's always been, and I'm having
 fun with it. The essay/rhizome divide may turn out to be tenuous in the
 long term, and it might disappear, but for now it makes sense. I've not
 been doing *as many* wiki-based things, though I have worked on a
-[[queer-theories]] page, and the [[technical-writing]] section is
+queer theories page, and the technical writing section is
 something that I'm pleased with. Wikis are much more difficult to use
 and produce than one would initially guess. The concept is simple, the
 software is simple, and the work is remarkably time consuming and
 difficult to do right. And then there's the problem of contributors.
 
-I don't know how it's going to sort out, but I [[look forward to hearing
-from you\|folk/tychoish]], and making *stuff* on this domain.
+I don't know how it's going to sort out, but I look forward to
+hearing from you, and making *stuff* on this domain.
 
 .. [1] Which totally sucks, but I had already given into using disqus, the
    migration would be really difficult, and the truth be told, I'd much

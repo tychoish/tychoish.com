@@ -47,8 +47,7 @@ part of this, but I think there are more.
 
 2. There will be general purpose systems for tablets that partially or
 wholly expect a keyboard, and then some sort of key-command system
-will emerge. This follows from my thoughts in the "[[Is Android the
-Future of Linux\|rhizome/is-android-the-future-of-linux]]?" post.
+will emerge. This follows from my thoughts in the ":doc:`Is Android the Future of Linux </rhizome/is-android-the-future-of-linux>`?" post.
 
 I fully expect that both lines of development can expand in parallel.
 

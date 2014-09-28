@@ -18,12 +18,12 @@ administration <http://cyborginstitute.org/projects/administration>`__
 itself had been mostly done for a while, I'd delayed for two reasons:
 
 1. I wanted to have a couple of other projects completed to demonstrate
-that the Institute as a project wasn't just isolated to book-like
-objects.
+   that the Institute as a project wasn't just isolated to book-like
+   objects.
 
 2. I wanted to have some infrastructure in place to be able to *sanely*
-publish the Institute site without using some gnarly content
-management system. [1]_
+   publish the Institute site without using some gnarly content
+   management system. [1]_
 
 The end result is that in addition to the book, I've put together a few
 other projects and documentation. The more exciting thing is that I
@@ -31,10 +31,10 @@ might *do more things* like this in the future.
 
 In addition to a lot of day-job work--forthcomming releases and team
 growth are eating a lot of my time--I've been working on a series of
-wiki pages (and related blog posts,) that address "[[information
-debt\|technical-writing/information-debt]]" that happens when
-organizations don't put resources and energy into maintaining resources
-and "knoweldge." Expect to hear more on this topic.
+wiki pages (and related blog posts,) that address ":doc:`information
+debt </technical-writing/information-debt>`" that happens when
+organizations don't put resources and energy into maintaining
+resources and "knoweldge." Expect to hear more on this topic.
 
 --------------
 

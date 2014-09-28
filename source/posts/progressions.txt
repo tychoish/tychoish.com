@@ -38,7 +38,7 @@ about :doc:`:/technical-writing/atomicity`, :doc:`/technical-writing/automation`
 :doc:`:/technical-writing/compilation`, :doc:`/technical-writing/dexy`, and
 :doc:`:/technical-writing/filters`. I'm also working on ways of marrying this
 wiki with `Critical Futures <http://criticalfutures.com/>`__, by way of
-the [[critical-futures]] section. It's in progress, of course but
+the critical futures section. It's in progress, of course but
 there's a blurb at the bottom of all CF posts that says:
 
 Disqus comments are provided to support legacy comments on old
@@ -47,10 +47,10 @@ communication are ineffective. Otherwise please consider leaving a
 comment.
 
 The link doesn't work as well as I want to, and maybe I need to set up a
-specific comments page adding widget, as on the [[submissions]] page.
+specific comments page adding widget, as on the submissions page.
 Couldn't hurt. Also on my list of things to do: make a more fitting
 index page that draws attention to all sorts of content on the wiki, not
-just [[rhizome]]. That's on the list.
+just rhizome. That's on the list.
 
 Also on the list:
 

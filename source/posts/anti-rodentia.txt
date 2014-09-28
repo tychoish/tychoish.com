@@ -66,6 +66,6 @@ long as it's in the path. Then run ``toggle-mouse`` at the command line.
 You may need to run this as root-suid, for your system system is
 configured. Tweak the ``TOUCHPAD`` variable as needed.
 
-[[If you have a better solution, I would be terribly interested in
-hearing about it\|discourse]].
+If you have a better solution, I would be terribly interested in
+hearing about it.
 

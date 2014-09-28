@@ -35,13 +35,13 @@ As a starting point, I'd like to offer two conjectures:
   since these kinds or projects lack formal procedures and designated
   roles to do this kind of organizational work.
 
-While the overriding goal of [[personal task
-management\|rhizome/better-task-lists]] is to break things into the
-smallest manageable work units, the overriding goal of issue tracking
-systems is to track the most intellectually discrete issues within a
-single project through the development process. Thus, issue tracking
-systems have requirements that are either much less important in
-personal systems or actively counter-intuitive for other uses. They are:
+While the overriding goal of :doc:`personal task management </rhizome/better-task-lists>` 
+is to break things into the smallest manageable work units, the
+overriding goal of issue tracking systems is to track the most
+intellectually discrete issues within a single project through the
+development process. Thus, issue tracking systems have requirements
+that are either much less important in personal systems or actively
+counter-intuitive for other uses. They are:
 
 - Task assignment, so that specific issues can be assigned different
   team members. Ideally this gets a specific developer can "own" a

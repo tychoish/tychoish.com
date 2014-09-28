@@ -13,8 +13,7 @@ real life connections, open source, and science fiction writing. That's
 about it, it sounds like a lot, and it is, but the collection is pretty
 static.
 
-As I was writing about my nascent list of [[technical writing
-links\|technical-writing/links]], I realized that while I've been
+As I was writing about my nascent list of :doc:`technical writing links </technical-writing/links>`, I realized that while I've been
 harping on the idea of manually curated links and digital resources for
 for a single archives for a couple of years now, I've not really thought
 about the use or merits of manually curated links to the internet writ

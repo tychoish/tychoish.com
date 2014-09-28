@@ -6,8 +6,8 @@ Interfaces in Enterprise Software
    :author: tychoish
    :tags: technology, cyborg, productivity
 
-This post is a continuation of my [[human solution to IT and IT policy
-issues\|cyborg/human-solution]] series. This post discusses a couple of
+This post is a continuation of my 
+:doc:`human solution to IT and IT policy issues </cyborg/human-solution>` series. This post discusses a couple of
 ideas about "enterprise" software, and its importance the kind of
 overall analysis of technology that this posts (and others on this site)
 engage in. In many ways this is a different angle on some of the same

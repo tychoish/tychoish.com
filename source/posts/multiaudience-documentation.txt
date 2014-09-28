@@ -6,9 +6,8 @@ Multi-Audience Documentation
    :author: tychoish
    :tags: technical-writing
 
-I've written before about different [[types of
-documentation\|rhizome/technical-writing-appreciation/]], and the
-different purposes and goals that each type services. Rather than rehash
+I've written before about different :doc:`types of documentation </rhizome/technical-writing-appreciation>`,
+and the different purposes and goals that each type services. Rather than rehash
 *what documentation is*, I'm interested in using this post to think
 about ways of managing and organizing the documentation process to
 produce better documentation more easily, with the end goal of being
@@ -56,9 +55,8 @@ documentation. In my own work this manifests in two ways:
   needed to predict what the best structure of the documentation ought to
   be.
 
-- **Separate structure from content:** This is a [[publishing system
-  requirement\|rhizome/publishing-system-requirements]], at the core,
-  but using this kind of functionality must be part of the writer's
+- **Separate structure from content:** This is a :doc:`publishing system requirement </rhizome/publishing-system-requirements>`, 
+  at the core, but using this kind of functionality must be part of the writer's
   approach. Writers need to build documentation so that the
   organization (order, hierarchy, etc.) is not implicit in the text,
   but can be rearranged and reformed as needed. This means writing

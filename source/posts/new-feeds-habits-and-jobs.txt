@@ -27,8 +27,8 @@ There's also been some :doc:`discussion </bad-org-mode-habits/discourse>` on
 the ":doc:`Bad Org Mode Habits </rhizome/bad-org-mode-habits>`" post. You may be
 interested.
 
-As an aside: the astute among you will notice that :doc:`matt </folk/madalu>`
-and I have made a [[folk]] page that is automatically updated anytime
+As an aside: the astute among you will notice that Matt Lundin
+and I have made a *folk* page that is automatically updated anytime
 there's a page that links to or is tagged with Matt's handle (i.e.
 "madalu.") This includes an RSS feed that he (or you) can use to track
 his updates and mentions. Use the edit page functionality to see how to
@@ -53,14 +53,13 @@ there's a lot more of it to go around. Adjustment is always hard and
 changes, particularly big changes, have a ripple effect. Things I've
 been doing differently include:
 
-- I've made some big changes to [[the blog post writing
-  tooling\|code/ikiwiki-el]], so that new blog posts are written in my
-  org-mode files rather than in their own directory. (I updated the
-  above emacs code with some shell functions that make the publication
-  process easier (if you're using that code.) This seems minor, but is
-  pretty big in terms of how I'm using org I've never really used org
-  for anything other than notes and one off projects. It's a good
-  shift.
+- I've made some big changes to the blog post writing tooling, so that
+  new blog posts are written in my org-mode files rather than in their
+  own directory. (I updated the above emacs code with some shell
+  functions that make the publication process easier (if you're using
+  that code.) This seems minor, but is pretty big in terms of how I'm
+  using org I've never really used org for anything other than notes
+  and one off projects. It's a good shift.
 
 - While I used to dock my laptop to the desk and use it with an
   external monitor, I'm switching to just using the laptop dock and

@@ -21,8 +21,8 @@ Documentation <http://criticalfutures.com/2011/01/dexy-and-literate-documentatio
 
 Also, as part of this post and
 `series <http://criticalfutures.com/archive/technical-writing>`__
-(archive recently updated!) I've been developing a [[technical
-writing\|technical-writing]] section of this wiki, which has included a
+(archive recently updated!) I've been developing a technical
+writing section of this wiki, which has included a
 couple of little pages and snippets that I've been hanging onto for a
 while, and a number of pages that I think I'd like to write wiki pages
 on. These include three major issues in technical writing and the tools

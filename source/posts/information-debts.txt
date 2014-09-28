@@ -60,11 +60,11 @@ To help resolve information debt:
 
 ... and more.
 
-I'm working on adding a lot of writing on [[information
-debt\|technical-writing/information-debt]] in the [[technical-writing]]
-section of [[tychoish]]. I'll blog more about this, while I continue to
-work through some of these ideas, but I'm quite interested in hearing
-your thoughts on this post *and* on the
-:doc:`information-debt </technical-writing/information-debt>` pages as well.
+I'm working on adding a lot of writing on information debt in the
+technical writing section of the wiki. I'll blog more about this,
+while I continue to work through some of these ideas, but I'm quite
+interested in hearing your thoughts on this post *and* on the
+:doc:`information-debt </technical-writing/information-debt>` pages as
+well.
 
 Onward and Upward!

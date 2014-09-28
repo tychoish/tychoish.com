@@ -23,8 +23,8 @@ delivery of furniture, sang, danced, and cooked. Not a bad week.
 
 I do have some links and notes for you.
 
-- I made a rough introductory page for my efforts to [[run the xen
-  hypervisor on a laptop\|xen-laptop]].
+- I made a rough introductory page for my efforts to run the xen
+  hypervisor on a laptop.
 
 - There was some confusion this week as I reorganized the blog post
   files on the wiki. Basically, all blog posts are now in

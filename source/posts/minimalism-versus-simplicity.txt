@@ -6,7 +6,7 @@ Minimalism Versus Simplicity
    :author: tychoish
    :tags: technology, lisp
 
-A couple of people, [[folk/cwebber]] and
+A couple of people, cwebber and
 `Rodrigo <http://www.rlazo.org/2011/09/10/stumpwm-my-new-window-manager/>`__
 have (comparatively recently) switched to using
 `StumpWM <http://www.nongnu.org/stumpwm/>`__ as their primary window

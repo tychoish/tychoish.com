@@ -64,9 +64,9 @@ start to address some of these issues, but there's even more work to do.
 How to Teach People to Code
 ---------------------------
 
-(*This section of the post derives from and summaries the "[[How to
-Teach People to Program\|/technical-literacy/teaching-programming]]"
-wiki page.*)
+(*This section of the post derives from and summaries the*
+":doc:`How to Teach People to Program </technical-literacy/teaching-programming>`"
+*wiki page.*)
 
 Most of the way that programming books and courses teach programming are
 frustrating and somewhat dire, for a few reasons:

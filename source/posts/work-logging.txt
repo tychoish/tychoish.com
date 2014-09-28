@@ -24,7 +24,7 @@ workload by writing notes/posts rather than actually doing work is a
 problem, on the other hand, given the right kind of templates, and a
 good end of day habit, it might be easy and a good habit.
 
-Anyone else interested in this? Thoughts on using [[rhizome]] versus
+Anyone else interested in this? Thoughts on using rhizome versus
 some other area of `tychoish.com <http://tychoish.com/>`__? So many
 choices!
 

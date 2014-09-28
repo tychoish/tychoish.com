@@ -6,10 +6,10 @@ Novel Automation
    :author: tychoish
    :tags: programming, software-development
 
-*This post is a follow up to the interlude in the
-[[programming-tutorials]] post, which part of an ongoing series of posts
-on programmer training and related issues in technological literacy and
-education.*
+*This post is a follow up to the interlude in the*
+:doc:`/programming-tutorials` *post, which part of an ongoing series
+of posts on programmer training and related issues in technological
+literacy and education.*
 
 In short, creating novel automations is hard. The process would have to
 look something like:

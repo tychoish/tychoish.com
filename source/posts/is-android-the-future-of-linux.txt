@@ -6,7 +6,7 @@ Is Android the Future of Linux?
    :author: tychoish
    :tags: mobile-technology, android
 
-By now, several weeks ago, in correspondence [[madalu]] wrote that he
+By now, several weeks ago, in correspondence Matt Lundin that he
 thought Android was probably future of Linux," mostly as a throw away
 line. This feels like a really bold statement, [1]_ and I've enjoyed
 thinking about Android and "the future of Linux." [2]_
@@ -63,8 +63,8 @@ questions are:
 
 If corporate fleets are the first to fall, the first question becomes
 much more important. In any case, stay tuned, I'm working on collecting
-the rest of my thoughts on these questions. In the mean time, I'd [[look
-forward to hearing from you\|discourse]].
+the rest of my thoughts on these questions. In the mean time, I'd look
+forward to hearing from you.
 
 Onward and Upward!
 

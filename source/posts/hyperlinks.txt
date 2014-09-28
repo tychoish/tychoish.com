@@ -17,11 +17,10 @@ entries are mirrored on `Planet Emacsen <http://planet.emacsen.org>`__.
 Also consider the following links to updates on the wiki and other
 sites:
 
-- [[Discussion of "Make Emacs
-  Better"\|rhizome/make-emacs-better/discourse]], which has been
+- Discussion of ":doc:`/posts/make-emacs-better`", which has been
   incredibly productive and an interesting discussion of emacs adoption
   and use by non-programmer niches. I think this discussion and the
-  :doc:`original post </rhizome/make-emacs-better>` connect pretty well with
+  original post connect pretty well with
   a post that made the rounds a few weeks ago: `Lets Just Use
   Emacs <http://beastwithin.org/users/wwwwolf/fantasy/avarthrel/blog/2011/05/lets-just-use-emacs.html>`__
 

@@ -14,7 +14,7 @@ I have a problem that I think is not terribly unique: I have a directory
 of files and I want to maintain two distinct copies of these files at
 once, and I want a tool that looks at both directories and makes sure
 they're up to date. That's all. Turns out nothing does exactly that, so
-I wrote a hacked up shell script, and you can get it from the [[code]]
+I wrote a hacked up shell script, and you can get it from the code
 section:
 
 :doc:`/code/merge-script`

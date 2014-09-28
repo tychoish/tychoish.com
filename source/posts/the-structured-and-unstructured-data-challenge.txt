@@ -79,8 +79,8 @@ sort of way.
 On a potentially orthogonal note, I'm working on cooking up a proposal
 for a LaTeX-based build system for non-technical document production
 that might demonstrate--at least hypothetically--how much structure can
-help people do awesome things with technology. I'm calling it "[[A LaTeX
-Build System\|latex-system]]."
+help people do awesome things with technology. I'm calling it "A LaTeX
+Build System."
 
 I'd love to hear what you think, either about this "structure question,"
 or about the LaTeX build system!

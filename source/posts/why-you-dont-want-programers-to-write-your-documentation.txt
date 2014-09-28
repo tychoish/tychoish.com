@@ -7,8 +7,7 @@ Why you Don't Want Programers to Write Your Documentation
    :tags: technical-writing
 
 So the :doc:`documentation sucks </technical-writing/documentation-sucks>`.
-Hire someone to make the documentation [[suck
-less\|technical-writing/suck-less]].
+Hire someone to make the documentation :doc:`suck less </technical-writing/suck-less>`.
 
 Simple enough, right?
 

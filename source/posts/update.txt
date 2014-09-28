@@ -25,7 +25,7 @@ Recent Posts Around Here
 - :doc:`/posts/representation-and-race-futurism`
 - :doc:`/posts/the-future-of-file-organization-and-security`
 - :doc:`/posts/multiaudience-documentation`
-- [[knitting/knitting-in-three-dimensions]]
+- :doc:`/posts/knitting-in-three-dimensions`
 - :doc:`/posts/intellectual-audience`
 - :doc:`/posts/minimalism-versus-simplicity`
 - :doc:`/posts/back-to-basics-tasklist-and-organization`

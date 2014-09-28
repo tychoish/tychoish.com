@@ -15,20 +15,17 @@ level of disruption as "the new normal," and figure out how to develop a
 routine around that. That's the hope at any rate. So, I'm getting there,
 slowly.
 
-I've posted a number of new [[rhizomes]] in the last week. They are:
+I've posted a number of new rhizomes in the last week. They are:
 
-- [[Security isn't A Technological
-  Problem\|rhizome/security-isnt-a-technological-problem]], A post in
+- :doc:`Security isn't A Technological Problem </rhizome/security-isnt-a-technological-problem>`, A post in
   my series about addressing problems in IT as human-issue, that need
   documentation and training rather than more software.
 
-- [[These Shoes Were Made for
-  Cyborgs\|rhizome/these-shoes-were-made-for-cyborgs]], which attempts
+- :doc:`These Shoes Were Made for Cyborgs </rhizome/these-shoes-were-made-for-cyborgs>`, which attempts
   to limit the potential for overly expansive theorizing of "the
   cyborg," in a common but not overly productive manner.
 
-- [[Little Goals and Big
-  Projects\|rhizome/little-goals-and-big-projects]], a list of projects
+- :doc:`Little Goals and Big Projects </rhizome/little-goals-and-big-projects>`, a list of projects
   that I want to work on. Think mid-year resolutions meet five-year
   plan, meet time management review.
 
@@ -46,7 +43,7 @@ I've posted a number of new [[rhizomes]] in the last week. They are:
   for the :doc:`Career Pathways </rhizome/career-pathways>` post.
 
 - In response to one of the comments the Intellectual Practice
-  post, I put together a [[pedagogy]] page, including some *very* rough
+  post, I put together a pedagogy page, including some *very* rough
   descriptions of "writing classes I wish I'd taken and would love to
   teach."
 

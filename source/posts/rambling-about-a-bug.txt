@@ -46,8 +46,7 @@ Essentially the build happens in three-parts:
    files into the right places. This happens (typically) in a process
    pool that runs within the thread where the build executed.
 
-See [[my overview of concurrency, and rant on Python
-concurrency\|/software-development/python-concurrency-rant]] for some
+See :doc:`my overview of concurrency, and rant on Python concurrency </software-development/python-concurrency-rant>` for some
 background.
 
 The Problem

@@ -63,9 +63,9 @@ Other than that, I:
   June. I've also started planning a fiction project, for a draft to
   begin in the fall?
 
-- Wrote a few paragraphs on the [[critical-futures/isd]] page, but I'm
+- Wrote a few paragraphs on the :doc:`/critical-futures/isd` page, but I'm
   starting to think that as my time becomes more limited, that the
-  [[critical-futures]] wiki project, as such, will probably be the
+  :doc:`/critical-futures` wiki project, as such, will probably be the
   first thing to fall on the floor, unless someone else is really
   interested in making that be a thing.
 

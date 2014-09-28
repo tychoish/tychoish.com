@@ -6,12 +6,12 @@ Overdue Update
    :tags: meta, progress-report, update
 
 I went through a few days ago to collect all of the updates and work
-that I'd done since the [[last time I did one of these
-posts\|rhizome/update-rhythm]]. Sometimes just looking through an
-activity log is all you need to remember that you're actually doing
-something. Here's what I've been working on:
+that I'd done since the :doc:`last time I did one of these posts </rhizome/update-rhythm>`. 
+Sometimes just looking through an activity log is all you need to
+remember that you're actually doing something. Here's what I've been
+working on:
 
-- **[[critical-futures/isd]]**" is a developing page of material for my
+- **isd**" is a developing page of material for my
   ongoing :doc:`story project </critical-futures>`. I've written it in my
   ":doc:`Wiki Fiction </rhizome/wiki-fiction>`" post. This particular page
   is basically sysadminning-punk, if I may be so bold. The story as a
@@ -24,12 +24,11 @@ something. Here's what I've been working on:
   I'm slowly working to fill in the blanks. Editing, ideas, and any
   amount of text are all welcome.
 
-- I added a page to the [[technical-writing]] section on "[[Why the
-  Documentation Sucks\|technical-writing/documentation-sucks]]," and
+- I added a page to the technical writing section on ":doc:`Why the Documentation Sucks </technical-writing/documentation-sucks>`," and
   I've done some additional editing and revising of this section of the
   wiki. The :doc:`:/technical-writing/documentation-sucks` page has also
-  served as the foundation of my post about [[documentation publishing
-  systems\|rhizome/publishing-system-requirements]].
+  served as the foundation of my post about
+  :doc:`documentation publishing systems </rhizome/publishing-system-requirements>`.
 
 - I've added a number of new posts that I hope won't be forgotten too
   quickly. They are:
@@ -61,7 +60,7 @@ something. Here's what I've been working on:
 
   - :doc:`:Writing Software Requirements Discussions </rhizome/writing-software-beyond-emacs/discourse>`
 
-- A few weeks ago I posted a few new scripts in the [[code]] section.
+- A few weeks ago I posted a few new scripts in the code section.
   Tell me what you think:
 
   - :doc:`/code/ikiwiki-tasklist`
@@ -75,11 +74,11 @@ something. Here's what I've been working on:
   on some other sites as well.
 
 The coolest part about this is that some of you have helped to build a
-page of [[ssh-tricks]] on the wiki that go above and beyond the little
+page of :doc:`/posts/ssh-tricks`` on the wiki that go above and beyond the little
 tricks that I use.
 
-And finally,I 'd like to welcome [[folk/kevingranade]], who made a new
-[[folk]] page recently. I'm also very sorry that I haven't been updating
+And finally,I 'd like to welcome Kevin Grande, who made a new
+*folk* page recently. I'm also very sorry that I haven't been updating
 more frequently. I started a new job on September 26, and between that
 and my usual gallivanting around for singing and dancing my blogging
 habit has. One the other hand I'm writing about 1200 words a day, and

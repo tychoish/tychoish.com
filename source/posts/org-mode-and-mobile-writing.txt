@@ -19,9 +19,9 @@ I spend (or should spend) 70% or more of my time in front of a computer
 writing or editing something in org-mode. Most of my org files have tens
 of thousands of words of blog posts, notes, drafts of articles, *and so
 forth.* While I can store that data on an android device with only minor
-problems using [[a little script that I put
-together\|code/epistle-linker]], and I can [[[capture content into my
-org-files using email and some nifty filters\|code/org-mail]], and there
+problems using a little script that I put
+together, and I can capture content into my
+org-files using email and some nifty filters, and there
 *are* text editors that can let me edit these files: *it could be
 better*.
 

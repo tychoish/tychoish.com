@@ -7,8 +7,7 @@ Wiki Fiction and Critical Futures
    :tags: writing, critical-futures, science-fiction, publishing
 
 I'm starting preliminary development on a wiki fiction project that will
-eventually take over the criticalfutures.com domain, but is at
-[[critical-futures]] in this wiki for an incubation period. This post is
+eventually take over the criticalfutures.com domain. This post is
 a discussion of that history, my idea, and what I hope to accomplish.
 
 My friend `Julia <http://mutive.livejournal.com/>`__ and I have been
@@ -58,7 +57,7 @@ happen in a more parallel manner, and you don't need to agree to an
 outline, or write things in any sort of sequence. Second, shorter pages
 with more segmented content is easier to read for the attention limited.
 
-Having said that, I'm not sure that collaborative, [[for-all-that-will]]
+Having said that, I'm not sure that collaborative, *for all that will*
 editing is really the way to go. The truth is that so few people edit
 wikis relative to the number of people who *could* edit wikis, that you
 might be better off having some sort of more select editorial community,

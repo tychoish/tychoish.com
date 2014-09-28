@@ -32,7 +32,7 @@ but the recent developments are novel:
 
   I love theory. I love working on theory, but I'm not sure I see use for
   theory that doesn't interact with the world outside of it. For example,
-  before I started my current job I wrote some about [[technical-writing]]
+  before I started my current job I wrote some about technical writing
   here, and those theories definitely guide what I'm working on today and
   I think I can stand by what I said, but I think my understanding and
   knowledge of documentation has grown a lot for the experience of working

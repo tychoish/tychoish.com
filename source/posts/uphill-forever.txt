@@ -5,10 +5,10 @@ Uphill Forever
 .. post:: 2013-09-08
    :author: tychoish
 
-In many ways this is the follow up to [[hard is
-good\|/rhizome/hard-is-good]], and the post I promised recounting the
-lessons of [[the buildcloth v0.2.0
-release\|/rhizome/buildcloth-v0.2.0-release]].
+In many ways this is the follow up to :doc:`hard is good
+</rhizome/hard-is-good>`, and the post I promised recounting the
+lessons of :doc:`the buildcloth v0.2.0 release
+</rhizome/buildcloth-v0.2.0-release>`.
 
 This release of buildcloth is in some ways, the first *real* piece of
 software I've written from the ground up. I've written a bunch of code,

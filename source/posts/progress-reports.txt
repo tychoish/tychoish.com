@@ -16,8 +16,8 @@ kind of post.
 My instinct is to have something that I can template and automate pretty
 strongly so that I can mostly focus on *doing things* rather than
 writing blog posts about doing things. Or as is presently the case, blog
-posts blog posts about doing things. Oy. [[Ideas and
-suggestions\|discourse]] on this topic would be most appreciated.
+posts blog posts about doing things. Oy. Ideas and
+suggestions on this topic would be most appreciated.
 
 So what have I been up to? Well...
 
@@ -38,8 +38,8 @@ So what have I been up to? Well...
   able to work on making other things I've written better, and to *be able
   to write new things*, with my undivided attention.
 
-- I've updated the [[essay/anti-rodentia]] and the associated
-  [[essay/anti-rodentia/discourse]] page with some changes that I think
+- I've updated the :doc:`/posts/anti-rodentia` and the associated
+  discussion page with some changes that I think
   make the system work much better.
 
 - I've upgraded to Firefox 4, which I really like a lot: it's much
@@ -47,22 +47,22 @@ So what have I been up to? Well...
   my plugins and extensions work without issue. Good job!
 
 - I went through a blast from my past when I pulled together the
-  [[queer-theories]] page, which does some--at this point utterly
+  queer theories page, which does some--at this point utterly
   redundant--definitional work about what it means to be queer, and
   potential limitations on queer identity/politics in the era of a
   broadly defined queer.
 
 - I've started adding recurring tasks to keep me on track with writing
   and posting entries to this post. This means I don't end up posting
-  things *months* after I write them. As was the case with [[Mutt Sucks
-  Less\|essay/mutt-sucks-less]], a post I wrote many months ago and
+  things *months* after I write them. As was the case with 
+  :doc:`Mutt Sucks Less </posts/mutt-sucks-less>`, a post I wrote many months ago and
   posted with some revisions last week.
 
-- I made a [[folk]] page for frequent comm enter and discourse
-  participant :doc:`matt </madalu>` that includes a snippet which makes a
+- I made a folk page for frequent comm enter and discourse
+  participant Matt Lundin that includes a snippet which makes a
   list (and RSS feed!) of all pages that link to "madalu" or are tagged
   with "madalu" (his handle). You can see this by editing the page, and
-  use it when making your own [[folk]] pages. Which you should
+  use it when making your own folk pages. Which you should
   *totally* do.
 
 Have a good weekend!

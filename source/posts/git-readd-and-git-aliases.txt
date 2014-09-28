@@ -6,7 +6,7 @@ git readd and git aliases
    :author: tychoish
 
 
-[[git]] is a version control system that does a number of things rather
+git is a version control system that does a number of things rather
 "differently." By now, I suspect most people are familiar with git so I
 will refrain from focusing too much time here on explaining what git is
 or how it works. Git does things differently, and to make a long story
@@ -32,7 +32,7 @@ the last commit but have been removed from the file system. If you run
 will be able to pick up the rename operations implicitly, and the *next*
 commit will reflect the current state of the file system.
 
-I've thrown this little snippet in the [[code]] section of the site:
+I've thrown this little snippet in the code section of the site:
 **:doc:`git-readd </code/git-readd>`**.
 
 I've used this process as part of scripts in the past, and it's great

@@ -6,8 +6,7 @@ Methodology and Bootstrapping Intellectual Practice
    :author: tychoish
    :tags: writing, career, research
 
-Continuing from the discussion regarding [[intellectual
-practice\|intellectual-practice]], I've been talking with a number of
+Continuing from the discussion regarding :doc:`intellectual practice </posts/intellectual-practice>`, I've been talking with a number of
 people (my father in particular) about graduate school and the prospect
 of "bootstrapping" a scholarly practice using "new media," like
 blogging, and wiki making. I want to explore both my thoughts graduate

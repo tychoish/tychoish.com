@@ -14,8 +14,7 @@ plain language, but figuring out how to organize simple facts in plain
 language into a coherent text is the more important part of my job and
 work.
 
-This post and the "[[Information
-Debt\|technical-writing/information-debt]]" wiki page, begin to
+This post and the ":doc:`Information Debt </technical-writing/information-debt>`" wiki page, begin to
 address some of these the problem of information resource
 maintenance, organization, and institutional practices with regards
 to information and knowledge resources.

@@ -6,7 +6,7 @@ Programming Tutorials
    :author: tychoish
    :tags: programming, software-development
 
-This post is a follow up to my [[coding-pedagogy]] post. This "series,"
+This post is a follow up to my :doc`/posts/coding-pedagogy` post. This "series,"
 addresses how people learn how to program, the state of the technical
 materials that support this education process, and the role of
 programming in technology development.

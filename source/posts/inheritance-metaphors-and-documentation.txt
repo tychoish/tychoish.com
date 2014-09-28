@@ -14,7 +14,7 @@ less obvious, but remain very helpful.
 
 Recently I've been thinking about and using the idea of inheritance to
 help address content duplication issues. The new approach to
-[[tutorial]] content is one of these applications. Actually, this is a
+tutorial content is one of these applications. Actually, this is a
 bit of retroactive intellectualizing: the need for reuse came first, and
 relating this back to inheritance is an idea that I want to explore.
 
