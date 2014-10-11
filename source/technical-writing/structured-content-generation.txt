@@ -1,0 +1,40 @@
+=============================
+Structured Content Generation
+=============================
+
+*This page is part of a series on documentation tooling, see the
+:doc:`documentation tooling|/rhizome/documentation-tooling` rhizome, and
+the :doc:`documentation and technical writing|/technical-writing` section
+of the wiki for more information and related content.*
+
+Technical writers, as a class, are among the most neurotic and
+obsessive people I know and are typically very good at ensuring that
+the text they produce is consistent structurally.
+
+However, given very large texts, collaborative authorship, and ongoing
+maintenance and development, it's useful to allow tooling to enforce
+consistency of some elements. Tools can be more consistent than even
+the most neurotic editor, can report errors more clearly, and can
+integrate into more fine-grained reuse systems. 
+
+We use `rstcloth <http://cyborginstitute.org/projects/rstcloth>`_ library
+as the basis of these tools. The general design is that to write
+scripts that read data files written in YAML or JSON formats and then
+generate reStructuredText files that are included in the output and
+build process.
+
+It's possible to extend most documentation publication systems
+directly for these kinds of transformations, but I've opted for
+alternate approach because:
+
+- publication systems are, at least in our case, not very optimized
+  pieces of software, so we can be a bit more efficient by doing
+  content generation in a highly parallel pre-render phase.
+  
+- keeping the two systems separate reduces compatibility concerns and
+  challenges as publication systems develop externally.   
+
+- by using a standard flavor of the markup language, we keep the core
+  text and source portable. Theoretically we could change
+  publication systems without needing to re-implement a collection of
+  plugins. 

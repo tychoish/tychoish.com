@@ -1,0 +1,100 @@
+:doc:`!meta title="Why the Documentation Sucks"`
+:doc:`!tag technical-writing`
+
+For many software projects and products, the documentation sucks.  The
+resources are incomplete, out of date, hard to understand, or don't
+answer users' real questions. Perhaps the documentation doesn't
+*always* suck, but there's almost always room for improvement. 
+Documentation--like the technology it supports--is always changing and
+this presents a host of unique challenges for those of us who maintain
+documentation.
+
+This page collects a number of recurring problems with documentation,
+and presents tactics for improving documentation.
+
+## Problems with Documentation
+
+- Documentation resources and manuals are often **disorganized.** The
+  organization that makes sense for a documentation resource at the
+  onset often doesn't make sense three or six months later. This
+  problem compounds over time.
+  
+  In general the (hierarchical) organization of a text should follow
+  the flow of the concepts, and there should be no piece of content
+  which could logically appear in two sections. The documentation for
+  some technologies should replicate the organization of the products
+  internal architecture; for other technologies this is the most
+  confusing and backwards organization. Avoid spending all of your
+  time reorganizing documents, 
+
+- Overtime existing documentation becomes **out of date.** As bugs are
+  fixed and features are added the documentation must be updated. This
+  is a significant amount of work and it requires identifying changes,
+  determining the impact on the text, and then going and making these
+  updates. This is a constant and ongoing battle.
+
+- Often, users only look at documentation when they have a problem
+  or something isn't working the way they expect it to, but too often
+  it is **hard to find answers to questions** in the
+  documentation. 
+
+  Most documentation is **not goal oriented.** Documentation often
+  just explains *what things do* or *how things work,* and does not
+  explicitly address *how to do things*. If you know how to do things,
+  documentation of how things work is *great,* but for about 60% of
+  documentation use cases, you can save a lot of time if the
+  documentation addresses your use case directly.
+
+  Depending on the writer's background and their relationship with the
+  users, the documents are either *too general* (e.g. "this is what
+  the software does, figure out how to use it,") or *too specific*
+  (e.g. "here's how the software works, how you use it is up to you.*)
+  In the end neither is useful. 
+
+- Documentation has **errors.** This is either the result of the "out
+  of date problem," or the result of poor quality control. In smaller
+  efforts, it's a "number of eyeballs problem." Projects like :doc:`dexy`
+  that make it possible to test documents in an automatic way, but
+  this has its challenges as well. 
+
+## Making Documentation Better
+
+Some solutions to tactical problems presented above are addressed
+inline. Other, more global ways to address these issues include: 
+
+- Use dedicated/professional technical writers. People who have
+  primary roles that *aren't* writing will always have something more
+  crucial to attend to, will always have their perspective skewed by
+  their other work, and face challenges enforcing style, structure,
+  and organization on the resource as a whole.
+
+  Good documentation is a significant undertaking. Documentation adds
+  a lot of value, but "doing documentation right" requires a lot of
+  time. Even in teams of relative generalists, specialization is
+  crucial for making sure that there *is* documentation and that it's
+  up to date and useful.
+
+- Define review processes for new documentation. Provide for separate
+  and parallel processes for reviewing existing documentation
+  regularly. Include reasonable documentation time-lines in the
+  release cycle.
+
+- Provide multiple ways for reader to submit bug reports on
+  documentation, as a method to provide ongoing quality control. 
+
+  In pursuit of this, Also have a way to let bug systems ingest emails
+  and for provide commenting on documents themselves (Disqus-like
+  services seem ideal for this.)
+
+- Treat documentation as part of the development process rather than
+  part of the product management or marketing process. You get better
+  documentation, resources are built and grows proactively with the
+  products rather than in reaction things that have happened in the
+  development process. Also track progress and issues with
+  documentation in the same way that you would track progress with
+  software.
+
+- Write documentation in the smallest possible units. I've called this
+  :doc:`atomicity`, and it is key for having documentation that's easy to
+  update and maintain. Additionally, atomic documentation tends to be 
+  useful and adaptable in more use contexts. 

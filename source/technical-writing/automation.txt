@@ -1,0 +1,41 @@
+================================
+Automation and Technical Writing
+================================
+
+In response to :doc:`/post/technical-writing-appreciation`:
+
+.. blockquote:: 
+
+   Back in the 70s and 80s -- and maybe still, but I doubt it -- there
+   were consulting companies that would approach large companies (like
+   Wang, which I worked for at the time and which was a very large
+   company at the time) claiming to have this magic method/tool that
+   would pretty much serve the very needs of the system you imagine --
+   basically a set of forms with focused questions that the developers
+   would fill in and from this documents would be automatically
+   generated WITHOUT THE NEED OF TECHNICAL WRITERS AT ALL!
+
+   Asshole mid-level managers back in the high-flying days when large
+   companies consisted almost entirely of mid-level managers thought
+   this sounded really great. Of course, like a perpetual motion
+   machine, the concept ignored the reality of things like friction. In
+   this case the friction was the fact the in order for a developer to
+   produce this information -- particularly in the format required,
+   with the precise definition of audiences and user interface -- a
+   developer would have to spend 50 to 70 percent of his or her working
+   time working on the documentation.
+
+   I think in one exasperated moment I offered a mid-level manager a
+   thousand dollars if he could get even one developer to fill out even
+   one sample page, just to see how this might play out. I think I
+   might have tempered my request by saying that if he couldn't he'd
+   have to raise my salary by a thousand dollars for every subportion
+   of the document template left blank or not properly done to spec.
+   
+   The answer to your question still lies in good product
+   specifications that define audience and interface early in the
+   development -- what the outcome will be, externally, not how the
+   cool internal coding will manifest. Have I ever seen one of these,
+   in thirty years? Not really."
+   
+   -- `Steven Levine <http://unzeugmatic.livejournal.com/profile>`_, Technical Writer

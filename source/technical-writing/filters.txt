@@ -1,0 +1,21 @@
+===================================
+Filtered Documentation Processing
+===================================
+
+The processing of documentation, particularly with :doc:`dexy`, revolves
+around the idea of "filtering" documents. Processing documents can be
+complex, and although structured document forms can ease the
+burden. Processing documents by way of a series of filters, makes
+sense because a series of filters is easy to understand and is also
+simple to manipulate and extend as needs change.
+
+There are a number of different approaches to processing and filtering
+documentation, and a lot of commentary on the subject. Dexy is a great
+example of this, but other resources and contributions to this
+discussion follow:
+
+- `Annotated Source Code <http://www.r-bloggers.com/annotated-source-code/>`_
+- `dexy upstream <http://dexy.it/>`_
+- `Symphony CMS <http://symphony-cms.com/>`_
+- `Sweave <http://www.stat.uni-muenchen.de/~leisch/Sweave/>`_
+- (*more?*)

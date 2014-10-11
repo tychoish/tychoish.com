@@ -1,0 +1,169 @@
+==============================
+Hierarchy and Information Debt
+==============================
+
+.. contents::
+
+
+Background
+----------
+
+Hierarchical organization of information, both of the content within a
+single page *and* within larger-multi page information resources, is
+absolutely necessary: hierarchy makes it possible to organize more
+information coherently *and* to present more complex information in a
+single resource or page.
+
+At the same time, hierarchical structures present a number of problems
+for documentation and other technical materials. Disorganized or
+misused hierarchy creates the possibility of:
+
+- loosing information,
+- duplicating information, or
+- rendering some information un-find able for users.
+
+Hierarchy emerges from the tools that we use to generate documentation
+and resources (some tools facilitate hierarchies, others discourage
+them,) original information resources (i.e. inheritances from legacy
+systems, or source material,) and ongoing information management
+practices.
+
+Having an inappropriate organization or approach to hierarchy in an
+information resource is a huge source of information debt. Unlike
+other sources of information debt, which are often institutional or
+business related and difficult to resolve in isolation, poorly
+deployed hierarchies can be comparatively easy to resolve in
+isolation.
+
+Challenges
+----------
+
+Cognition: Pedagogy and Users
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hierarchy is a useful mnemonic: if you can take a number of discrete
+pieces of information (i.e. facts,) and arrange them in a hierarchical
+fashion, *ideally*, the facts become easier to remember. If you can
+remember a parent "node" in a hierarchy, it's easier to recall the
+children nodes, and thus possible to recall all of the facts.
+
+The ideal number of child-nodes for ideal memory recall varies a
+little by person. There **must** be more than two items within any
+division and there can be as many as 6 or 7, but probably not more
+than that and possibly only 5 or 6 items, depending on their
+complexity.
+
+Hierarchy makes it possible to break a large information corpus that
+would be impossible to fully understand into smaller more reasonable
+"chunks." This absolutely necessary for learning and understanding but
+there are two important side effects:
+
+1. It's difficult to have information reside in "parent" or
+   "containing" nodes in the hierarchy, but the result is that each
+   level in the hierarchy requires a little cognitive overhead.
+
+2. It's relatively difficult, in a hierarchy, to jump from two "child"
+   nodes in different branches of the hierarchy. Thus, hierarchies
+   have an isolating effect that can make some kinds of connections
+   more difficult.
+
+Most understand of hierarchical and "tree-like" structures grows from
+the way we understand various constructs in computing, although
+computers typically have different issues and constraints when dealing
+with hierarchy.
+
+The cognitive utility of hierarchical organization directly impacts
+the usability and usefulness of an information resource, which can
+create information debt even when the information resource is totally
+sufficient.
+
+Authorship and Maintenance
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While the cognitive affects and impacts of hierarchy are important for
+understanding the benefits and challenges of organization, the real
+relationship between hierarchies and information debt grows from
+challenges in authorship and document maintence. While the congatnive
+costs of maintence, are signifigant for users, people editing the
+documents face a slightly greater challenge. This is particularly
+apparent for "living documents," that must be continually revised over
+a long period of time. Consider the following:
+
+- To make an edit you must be sure that you know that the information
+  isn't in the system already.
+
+- When you add facts to a reosurce and you must be sure that you know
+  the full hierarchy doesn't contain a better place for this fact.
+
+- To edit the document, you must know how the changes you make need to
+  be cross referenced in other parts of the document, or else any
+  addition may create additional information debt, as facts get
+  stranded in stale locations.
+
+These challenges multiply when more than one person is contributing to
+a given document or information resource. Wikis, as an extreme example
+typically do not have any sort of heirarchy to their
+pages.[^not-by-design] When you're the sole author and designer of a
+resource its eaiser to keep this kind of information in line. When there
+are more people working on a text you need to not only be aware of
+the decisions you've made of a text, but also be aware of all the
+other changes that your collaborators have made and their decisions.
+
+Better tooling can help some of these problems, but there are aspects
+of the context of any information in a resource that are dfficult to
+automate.
+
+[^not-by-design]: I suspect that this wasn't a concious design
+design decision, but has grown as a useful limitation. While it would
+be possible to implement page hierarches in the context of a wiki (and
+this wiki has this feature,) in most cases it wouldn't really provide
+a great deal of benefit.
+
+Solutions
+---------
+
+- Limit depth.
+
+  Depth exacerbates the cognitive challenges around understanding
+  hierarchy. The further away a user is from actual information in the
+  hierarchy, the more "empty" levels they'll have to remember, and the
+  more likely they are to get lost and not remember information. Also,
+  the more depth in a resource the less likely a given user is to find
+  related pieces of information in parallel projects.
+
+  Hierarchical organization *within* a page is distinct from the
+  depth of the organization of the pages themselves. Hierarchy within
+  a page isn't always as much of a problem, as hierarchies of pages.
+
+- Cross reference more than you think you should.
+
+  Typically its best to assume that for every section, some readers
+  will "enter" the documentation fresh at this point. This is a good
+  thing, because it means your search tools and links are directing
+  users directly to what they mean, but it also means that whatever
+  appears four paragraphs ago in the text won't actually provide
+  context to the users.
+
+  Well placed and useful cross references and glossary links are never
+  a problem. You don't want to cover a resource in links, but a few in
+  every section isn't a problem.
+
+- Use very descriptive section titles.
+
+  Typically, you should be able to know exactly what information any
+  given section conveys by looking at the title. There are no valid
+  justifications for surprises in technical documentation.
+
+- Ensure that any given fact or section can only occur at one point in
+  the hierarchy.
+
+  If a piece of information can exist in two places, either:
+
+  - reorganize until this isn't true
+
+  - put the information in one place and cross reference it from the
+    other(s), or
+
+  - use tooling to make sure the same content appears in multiple
+    places. For example, a symbolic link or a "include" directive
+    usually does the trick.

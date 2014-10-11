@@ -1,0 +1,49 @@
+==============================
+Skills for Technical Writers
+==============================
+:doc:`!tag technical-writing`
+
+Historically, I have used the collection of :technical writing
+pages on the wiki to collect thoughts and specifications on the
+documentation process and tool chain. More recently with the
+:doc:`/technical-writing/documentation-sucks` page, I've been thinking more about
+documentation processes and how to manage and work with technical
+writers in the context of software development teams. 
+
+I've started thinking more about the skills and work patterns that
+help technical writers succeed, the management approaches that work,
+and the way that the documentation process can interact with and
+compliment the development process. This thinking has been inspired by
+a couple of my own job searches over the past year. 
+
+Open questions include: 
+
+- What kinds of backgrounds prepare people for being technical
+  writers? 
+
+  I think the work I do is really important and quite valuable to
+  companies, and while I'm really grateful that there is no "technical
+  writing degree" that I could have obtained to be able to do the kind
+  of work I do, it makes it harder to convince people that you're the
+  right person for their job.
+  
+- What kind of research can organizations do to be able to understand
+  what needs to be documented and to what depth or for what
+  audiences? 
+
+  "Go forth and write documentation of *xyz* software," rarely makes
+  anyone happy, at the same time there's no real use in documenting
+  everything because it's there. 
+  
+- How do you determine if someone without a technical writing
+  background is "too close," to the product and the development
+  process to be able to provide useful perspective?   
+
+  Outsider dynamics are really helpful--I think--to writing good
+  technical materials. At the same time some context is useful.
+  
+- What parts of the technical writing process can benefit (or suffer)
+  from :doc:`automation`? And as a corollary, what parts of documentation
+  projects can developers be expected to do?
+
+More forthcoming...  

@@ -1,0 +1,54 @@
+====================
+Atomic Documentation
+====================
+
+Atomicity is the property of some texts where component portions of
+the text are written as independent and self-contained chunks that
+combine to form a complete documentation resources. Such approaches
+require modifications to how texts are constructed and the kinds of
+tooling we use, to support document creation, publication, and output.
+
+Advantages of Atomic Documentation
+----------------------------------
+
+- Documents are easier to maintain, because sections of text can be
+  reused and referenced. When something changes, it only needs to
+  changed in one place. 
+  
+- Documentation is easier to write. Atomic approaches turn otherwise
+  huge projects into parts that are easier to write, because rather
+  than construct an entire technical narrative, one need only describe
+  specific functions, operations, and concepts at any
+  point. 
+
+- Structures and organizations can be created and manipulated
+  outside (above) of the text itself. Atoms can be reused
+  (theoretically) in multiple contexts as needed. 
+
+- (*others?*)
+
+Disadvantages of Atomic Documentation
+-------------------------------------
+
+- Documentation may be conceptually more complex to organize and
+  manage. 
+
+- Tooling for publishing and authoring atomically constructed
+  documentation must be more complex and specialized.
+
+- There may be a slightly higher barrier to entry for contributing to
+  documentation. 
+
+- (*others?*)  
+
+## Resources
+
+- `DocBook <http://www.docbook.org/>`_
+
+- `DocBook Muse <http://mwolson.org/static/doc/muse/DocBook.html#DocBook>`_
+
+- `DITA FAQ <http://www.ibm.com/developerworks/xml/library/x-dita3/#N257>`_
+
+- `Mallard <http://projectmallard.org/>`_ 
+
+- `DITA, DocBook and the Art of the Document <http://www.oreillynet.com/xml/blog/2008/05/dita_docbook_and_the_art_of_th.html>`_

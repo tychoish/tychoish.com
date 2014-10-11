@@ -1,0 +1,140 @@
+================================
+Wiki Method and Information Debt
+================================
+
+.. contents::
+    
+Overview
+--------
+
+This page builds on a :doc:`rhizome` from 2010 called
+":doc:`/rhizome/wikis-are-not-documentation/`," but discusses the use of
+wiki(s) in two contexts:
+
+1. a method for producing documentation and other information
+   resources.
+
+2. a class of information repository systems.
+
+The "wiki method" promises better information use and maintenance
+because the software promises easier editing workflows that
+conventional web pages and management systems *and* because wikis like
+`c2 <http://c2.com/cgi/wiki?WelcomeVisitors>`_ and
+`wikipedia <http://wikipedia.org/>`_ provide powerful case studies for
+successful "community :doc:`authorship`" where large groups of
+contributors build a generally useful information resource.
+
+In truth there are a number of problems with using actual wikis for
+larger scale information resources, given common editorial resources.
+This wiki pages provides an overview for some of these challenges and
+suggests possible solutions.
+
+Challenges
+----------
+
+Distributed Authorship and Wikis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Non-digital resources (books so forth) have centralized authorship and
+publication processes are known and well defined. Conventional
+non-wiki digital content tends to have a similar centralized
+authorship model.
+
+By contrast *wikis decenter authorship* by making it possible for
+anyone to edit a text.
+
+**Conjecture**: By decentering authorship, wikis effectively diffuse
+responsibility for a resource, and make it more difficult for
+necessary tasks like proofreading, higher order organization, and
+indexing. 
+
+Typically decentered authorship makes fact checking and corrections
+easier from a procedural perspective; however, distributing
+factchecking to the "wiki process," tends to mean that inaccuracies
+linger longer (which can reduce confidence in a resource.) 
+
+Wiki software itself, as separate from the "wiki method," tends to be
+very powerful and useful. Most wikis provide easy methods for editing
+and publishing content to the web or to internal
+networks.[^limitation] Having this kind of tooling is not in an of
+itself a problem, except that it leads to this diffusion of
+responsibility problem.
+
+As a related, but separate, problem, most wikis provide make it
+difficult to do "releases," of text, or to review content before
+publishing.
+
+[^limitation]: The one major limitation of wiki software is that it
+*tends* to provide relatively poor tools for editing resources beyond
+the level of the page without interacting directly with the data store
+(files or the database.)
+
+Information Rot, Maintenance and Wikis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pages in an information resource often need to be "living:" updated
+regularly, changed to reflect changes in the topic matter, product, or
+the state of the art. 
+
+If pages are not reasonably :doc:`atomic|atomicity`, it's possible for
+the information to "rot," where it looses internal consistency and
+where revisions--even major revisions--must happen in a rolling
+fashion. Combined with the diffusion of responsibility and the general
+lack of wiki-wide tools for editing, managing, and structuring the
+information resource, these problems make it difficult to use wikis
+for many classes serious information resources.
+
+While wikis themselves push you to think about content on a
+page-by-page basis, to avoid information rot you *must* approach the
+totality of a wiki. Typically this means, having a dedicated *person
+or two* writing, editing, and organizing content. *Like any other
+serious sufficiently complex "living" information resource.*
+
+Strategy, Direction, and Wikipedia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(*`I've written about wikis a bunch on tychoish <http://tychoish.com/ikiwiki.cgi?P=wiki>`_
+before, and most of the posts address some aspect of this problem. In
+truth, I think my earlier have been a bit scattered.*--:doc:`tychoish`)
+ 
+Too often people link two facts to each other: first that Wikipedia is
+wildly successful, and second that Wikipedia is a wiki. To compound
+this problem, the community of editors behind Wikipedia is largely
+transparent to the people who read Wikipedia.
+
+The result is that you look at Wikipedia, say "We need one of these
+for our project," without realizing that there are anywhere from a
+dozen to thousands of people writing, organizing, editing, and
+verifying the content on Wikipedia. In truth, the amount of rote work
+involved in wikipedia is astounding, and I'd venture to speculate that
+the entire venture is a bit inefficient and only really viable because
+it's a non-profit project and the contributors are all volunteers. 
+
+If you're working with a small team, a team that has other projects
+than maintaining a wiki, an editorial team that's a significant subset
+of the user/read community, if your editors are your SMEs,[^sme] and
+you start a wiki without a plan: you're probably already in trouble.
+
+[^sme]: Subject matter experts. 
+
+Solutions
+---------
+
+- Consider using wiki methodology without wiki software. 
+
+  I think it's important to separate the methodology from the actual
+  software. Both have their flaws and disadvantages, but there are
+  some cases where wikis make good publishing systems
+  (i.e. :doc:`tychoish.com|index` is a wiki.) Furthermore, the core of
+  the wiki method (i.e.e "get everyone in a project involved in
+  authorship,") has merit, even if the actual implementation in wiki
+  software isn't often productive.
+
+- Fight diffused responsibility. Provide structure, and attention to
+  contribution to ensure quality, encourage efforts, and provide
+  consistency.
+
+- Approach information resources systemically and holistically.
+
+- Use appropriate :doc:`bucketing` to provide good, manageable
+  organization of pages.  

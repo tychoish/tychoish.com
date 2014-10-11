@@ -1,0 +1,72 @@
+======================
+Compiled Documentation
+======================
+
+Compiling usable products from source files is a necessary reality in
+the context of software. Computers cannot run code without processing
+it into machine instructions.
+
+Documentation has no such technical requirement, and these days, even
+software is sometimes "compiled" at run-time. Nevertheless, there is,
+I think, benefit in building publication systems that require
+compilation, as compilation allows us to automate some tasks in a
+clear way *and* requires a certain kind of approach to building
+documentation. These are both good things.
+
+Advantages of Compiled Documentation
+------------------------------------
+
+- Editors, writers, and subject matter experts can review
+  documentation as a gestalt, prior to publication. If
+  such resources are :doc:`atomic|atomicity`, this is incredibly
+  important: in a more dynamic model, it's difficult to update a
+  number of documents at a time. Compilation solves this.
+
+- Compiled documentation resources are faster because the system does
+  not need to render the content on every view, and its easier to
+  present static documents in offline formats (e.g. PDF and eBook
+  formats.)
+
+- (*others?*)
+
+Disadvantages of Compiled Documentation
+---------------------------------------
+
+- The compilation process, particularly for larger projects where
+  documents are heavily processed, can take a long time.
+
+- It is sometimes difficult to work with short-feedback cycles during
+  the writing process. Though local compilation, and other facilities
+  can help, if you want to be able to see how a document will render
+  continuously, that's difficult. (*on the other hand, if your build
+  system is so unpredictable that you can't quickly learn how it will
+  build documents, that might point to a different problem.*)
+
+- Compilation centralizes the documentation work flow. In a wiki
+  everyone can press the "save" button, in most cases; in compiled
+  systems there is probably only a small handful of people who can
+  publish documentation.
+
+  While this may be a disadvantage, in practice only a small handful
+  of people actually edit *most* wikis, and with properly automated
+  build and deployment processes it's possible to make compiled
+  documentation *easier* to use.
+
+- (*others?*)
+
+Resources and Examples
+----------------------
+
+- `Sphinx <http://sphinx.pocoo.org/contents.html>`_
+
+- `publican <https://fedorahosted.org/publican/>`_
+
+- `ikiwiki <http://ikiwiki.info>`_ (wikis aren't necessarily good for
+  documentation, but ikiwiki is a great piece of software that handles
+  publication in a useful way.)
+
+- `jekyll <http://wiki.github.com/mojombo/jekyll/>`_,
+  `hyde <https://github.com/lakshmivyas/hyde>`_,
+  `mango](http://mango.io), and [nanoc <http://nanoc.stoneship.org/>`_
+  (blog site-generators/publishing-systems aren't necessarily good for
+  documentation, but are interesting examples of compiled sites.)

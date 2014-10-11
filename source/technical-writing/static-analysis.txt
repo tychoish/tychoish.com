@@ -1,0 +1,86 @@
+=======================
+Static Analysis of Text
+=======================
+
+*This page is part of a series on documentation tooling, see the*
+:doc:`documentation tooling </rhizome/documentation-tooling>` *rhizome, and*
+*the* :doc:`documentation and technical writing </technical-writing>` *section
+of the wiki for more information and related content.*
+
+I've been using a tool called `droopy
+<https://github.com/ifrost/droopy>`_ to provide a consistent and
+systemic method for analyzing text. Droopy is a framework for text
+analysis, and it includes some fundamental operations for building
+text analysis tools as well as a pretty useful set of existing tools.
+
+So that's a cool thing. What follows are a some higher level
+explanations of how I'm using droopy.
+
+Weak Construction Detection
+---------------------------
+
+There are a collection of words and phrases in the English language that are
+indicative of weak construction. Consider the following list of words: 
+
+    [ 'many', 'various', 'very', 'fairly', 'several', 'extremely',
+      'exceedingly', 'quite', 'remarkably', 'few', 'surprisingly', 'mostly',
+      'largely', 'huge', 'tiny', 'excellent', 'interestingly',
+      'significantly', 'substantially', 'clearly', 'vast', 'relatively',
+      'completely' ]
+
+The "weak" words are somewhat dependent on context and domain, but its
+easy to see that there's a list of words that are almost always *bad
+news* and are worth avoiding. Given a list of words and a parsed
+version of 
+
+Along this vein, it's possible to detect *many* passive voice
+constructions using a simple (if somewhat long) regular expression.
+
+There is support for doing real time rendering of these constructs in
+many text editors (think spell/grammar check except for*style*.) I'm
+particularly fond of `artbollocks-mode <https://github.com/sachac/artbollocks-mode>`_, but
+there are other tools for other editors. There's also a
+`shell script version <http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/>`_. 
+
+In many ways these are all modern evolutions of `style` and `diction`
+programs. `link <http://www.gnu.org/software/diction/>`_, but are
+perhaps address the core use case using a more straightforward
+technique.
+
+Anyone who writes text should probably use one of these tools as the
+basis of some simple sanity checking; however, if you have a larger
+team of writers and/or a larger text you can easily asses figure out
+where to spend your editing time.
+
+Readability and Simplicity
+--------------------------
+
+There exist a number of algorithms that are available to assess the
+"readability" or "comprehension ease" of a text. Generally these
+measure some relationship between: sentence lengths and the length of
+words (typically syllable counts). As a result they're pretty easy to
+game, and may or may not actually reflect the practical readability of
+a piece of text. 
+
+Droopy can calculate these statistics itself, and as long as you use
+the same method for breaking words into syllables *and* have a
+sufficiently large body of text these data points may be useful in
+assessing trends in complexity. Here's a brief overview of the popular
+algorithms: 
+
+- **SMOG**, reports education required to comprehend a text, reported
+  as grade level. Derived from the density of multi-syllabic words (3
+  or more) in a sentences.
+
+- **Flesch/Kincaid Ease**, reports readability on a scale of 0 to 100, where
+  lower numbers are more readable than higher numbers. Derived from
+  word lenght and sentence length.
+
+- **Flesch/Kincaid Level**, reports the same core measurement as the
+  Flesch/Kincade ease as grade level.
+
+- **Coleman Liau**, reports a grade-level like number that reflects
+  readability. Derives from the number of characters per word and the
+  number of words per sentences. While the number of characters in a
+  word is not necessarily indicative of complexity, it's easier to
+  compute reliably, and tracks other measurements well.

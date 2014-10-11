@@ -1,0 +1,32 @@
+==========================
+Inclusion Management Tools
+==========================
+
+*This page is part of a series on documentation tooling, see the
+:doc:`documentation tooling|/rhizome/documentation-tooling` rhizome, and
+the :doc:`documentation and technical writing|/technical-writing` section
+of the wiki for more information and related content.*
+
+Some kind of text reuse functionality is built into most documentation
+publication tool kits. The ability to do includes is important, but
+using inclusion always adds complexity and may be difficult to
+manage.
+
+To help manage this complexity we try to store all included files in an
+"includes" directory and use a clear naming system for those
+files, but actually using and editing included files safely requires a
+bit *more*. Including the ability to dynamically generate lists that
+report:
+
+1. the mapping of an included file to the files that include it.
+
+2. a list of files that are only included in one location.
+
+3. a list of included resources that aren't included in any source file.
+
+4. a list of files that are included in other files that *also*
+   include files themselves.
+
+With tools like these available text inclusion becomes potentially
+manageable, and it becomes easy to make changes to included files
+easily without worrying about the unintended consequences of a change.

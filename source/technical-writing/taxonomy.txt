@@ -1,0 +1,228 @@
+===============================
+Taxonomies and Information Debt
+===============================
+
+.. contents::
+    
+Taxonomies, a Working Definition
+--------------------------------
+
+Taxonomies are the systems we use to order content and information. In
+the context of digital information resources, this includes:
+
+- the physical representation of information as presented to the
+  creators, editors, and authors.
+
+- the logical representation of information as presented to the users
+  or readers
+
+- tags, categories, and or labels.
+
+Taxonomy is a component of "information architecture," or less
+formally "organization." Strong organization and cataloging of an
+information resource makes that resource useful *and* maintainable,
+and helps counter or prevent information debt. 
+
+Approaches and Patterns
+-----------------------
+
+There are many ways to manage taxonomic systems for information
+resources. This section outlines a few prevalent approaches to content
+organization with special attention to the kinds of organization and
+taxonomic systems used by particular common tools.
+
+Please feel free to add your own items to this list.
+
+Maximalist Tagging
+~~~~~~~~~~~~~~~~~~
+
+*or, "Use Tags Everywhere."*
+
+In this notional, but common, system content exists in a flat
+namespace, or in a number of very distinct (i.e. product-specific,)
+and authors add tags on a per-page basis. Each page may have none,
+one, or more than one tag. Tags are generally in a flat namespace as
+well. 
+
+The strength in tagging systems is that order and connections between
+potentially disparate content will emerge out of common tagging
+patterns. In larger multi-user systems, maximalist tagging makes some
+sense: losing some amount of content because of close-synonym misses
+(i.e. "technical-writing," vs. "techwriting," vs. "tech-writing,"
+vs. "techncialwriting.") is par for the course, and tags can be a
+useful for providing good search results..
+
+Good examples of effective tagging systems might include flickr's tags
+and twitter's hashtags. While bad examples might include the use of
+tagging on most blog systems, bug trackers, etc.
+
+Minimalist Tagging
+~~~~~~~~~~~~~~~~~~
+
+In this notional system, pages all have tags, but the possible tag
+options are limited or constrained to a pre-selected list. This
+prevents conceptual collision (i.e. synonyms on the tag list,) and
+improves performance in some cases for information aggregated by tags
+(i.e. pages with a specific tag.) Furthermore, using a restricted list
+of terms, forces authors to use the same tagging strategy throughout
+the entire lifespan of the resource.
+
+In most systems, tagging strategy tends to be orthogonal to
+organizational structure or method. Minimalist systems are no
+exception. While subject to some of the same flaws as maximized
+tagging, restricting the set of tags often greatly improves the
+quality and maintainability of the taxonomic system.
+
+Obviously the minimalist approaches are less flexible than maximilist
+approaches, but minimalism also makes it difficult to change or modify
+taxonomic strategy over time. 
+
+Stack Overflow has what is effectively a minimalist tagging
+system. Sometimes minimalist tagging systems identify themselves as
+"categories," but conceptually "categories" and "tags" speak to the
+same purpose.
+
+Search
+~~~~~~
+
+Using search engines (Lucene, Xapian, Google, etc.) as a replacement
+for a taxonomic system is common. While this is an anti-strategy,
+given a sufficiently effective indexing system and a low insertion
+rate, this often works pretty well.
+
+Confluence Wiki (and other Wikis)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Confluence is a wiki system, that exists somewhere between
+conventional wiki software like `ikiwiki <http://ikiwiki.info>`_ and
+`MediaWiki <http://www.mediawiki.org/wiki/MediaWiki>`_ and "enterprise"
+document management systems and collaboration systems like SharePoint
+and Documentum.
+
+Organization of information in Confluence is a topic onto itself, but
+generally confluence resources use the following taxonomic systems:
+
+- Projects exist as major divisions or spaces for content. There are
+  no "sub-projects." Every page must belong to a topic. A page cannot
+  belong to more than one project. 
+
+- Pages exist in a flat namespace within a project. This is common for
+  wikis (e.g. MediaWiki,) although Ikiwiki supports hierarchical page
+  organization.
+
+- There are several methods of creating a tree-like navigation
+  structure in confluence. This leads to some problems with
+  :doc:`hierarchy`, but also allows for flexible and relatively
+  lightweight reorganizations.
+
+Confluence and other wikis do not have particularly good support for
+reference material and API-like documentation.
+
+Topic-based Authoring
+~~~~~~~~~~~~~~~~~~~~~
+
+The :doc:`techincal-writing` section of this wiki approaches topic-based
+authoring in the :doc:`atomicity` page, but there are taxonomic
+implications of topic-based systems.
+
+The big win of topic based systems, is that: if topics are entirely
+separate from presentation then organizational decisions can
+theoretically be "punted" into the future and refactored more or less
+at whim. Publishers/producers can create and maintain different or
+even related editions for different users from the same source
+components without incurring the maintenance burden of redundant
+content.
+
+The truth is that strict topic based approaches are difficult to
+maintain and enforce and they significantly raise the bar for
+non-specialist editing, such that it's hard to distribute maintenance
+and update related work to other people. As an additional caveat, the
+"multiple output," possibility of topic-based authoring is *probably*
+a non-feature in most cases.
+
+Challenges
+----------
+
+Tagging
+~~~~~~~
+
+- the relationship between the "scope" of the content, and the
+  specificity of the tag matters a lot. Too much. Problems arise when:
+
+  - tags are really specific, pages include a number of pieces of
+    information, and tags can only map to pages rather than sections
+    (as is common.)
+
+  - tags are general and the resources all address similar or related
+    topics.
+
+- the size of the tag buckets matters as well. If there are too many
+  items with a tag, the tag itself becomes less useful or meaningful.
+
+- Users or applications add functionality to the system using tags,
+  the tags begin to break as a useful taxonomic system. 
+
+  For example, if your system attaches actions to specific tags
+  (e.g. send email alerts when content with a specific tag changes,)
+  or if you use a regular notation to simulate a hierarchy within a
+  flat tag system.
+
+- If you have to have multiple tagging systems or namespace.
+
+- If the taxonomy ever has more than one term for a conceptual facet,
+  then the tagging system is broken.
+
+These problems tend to exacerbate as:
+
+- the resource ages.
+
+- the number of contributors grow.
+
+Hierarchy
+~~~~~~~~~
+
+Hierarchy, or using tree-like structures to organize ideas and
+resources, is inevitable in many ways:
+
+- Conventional rhetoric demands hierarchy,
+
+- ideas, thoughts, and information seem to have a natural hierarchical
+  organization in some ways, and
+
+- as we learn new information, we use hierarchies to aid our ability
+  to remember and recall the information.
+
+In this way, hierarchies are a cognitive mnemonic, which is generally
+useful, but does not make hierarchies useful *a priori*. If a
+user/reader isn't already familiar with the content, or isn't very
+familiar with the kind of information they're learning, the hierarchy
+is actually counter productive. An unfamiliar hierarchy requires the
+reader to learn the hierarchy *and* the information.
+
+Solutions
+~~~~~~~~~
+
+- Think about taxonomic groupings as "buckets" rather than trees or
+  hierarchies.
+
+  Hierarchy describes information well and when faced with a complex
+  organizational problem, good, well developed hierarchies seem like
+  an obvious choice. In truth, hierarchies tend to be difficult to
+  maintain and do not typically adapt well to growing and changing
+  bodies of information.
+
+- Use limited vocabulary tagging systems, when possible.
+
+- Document organization systems and strategies, to ensure that your
+  successor (and yourself, in 6 months) will remember why you made
+  decisions.
+
+- Separate physical and logical presentation of data to the greatest
+  extent possible.
+
+  The demands of physical organization, particularly in terms of
+  specificity, are often much less than the demands of logical
+  organization.
+
+- Use tagging to weight searches, but don't present tags to users tag
+  information.

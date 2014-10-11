@@ -1,0 +1,23 @@
+====
+Dexy
+====
+
+`Dexy <http://dexy.it>`_ is a new tool for handling the process of the
+documentation work flow between *writing* and publication. It takes
+snippets of code, and bits of documentation and passes these atomic
+chunks through filters to generate technical articles, manuals, and
+other high quality resources. It's exciting because it *may* provide a
+way to write and manage the documentation process in a manner that is
+more effective than many other options *and* has the potential to
+produce better quality technical texts.
+
+- `Mentioned by RedMonk Blog <http://www.redmonk.com/jgovernor/2010/12/17/code-before-company-saucelabs-selenium-santi-community-contributions-and-hiring-in-argentina-scala-lift-dpp-dexy-ana-nelson-on-engaging-early/>`_
+
+- The subject of several Rhizomes posts on Technical Writing:
+
+  - `Make All Dexy <http://tychoish.com/rhizome/make-all-dexy/>`_
+
+  - `Dexy and Literate Documentation <http://tychoish.com/rhizome/dexy-and-literate-documentation/>`_
+
+  - `Why the World is Ready for Dexy <http://tychoish.com/rhizome/why-the-world-is-ready-for-dexy/>`_
+

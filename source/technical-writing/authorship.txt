@@ -1,0 +1,87 @@
+======================================
+Authorship Issues and Information Debt
+======================================
+
+Sometimes you can payback and prevent technical debt by deploying the
+right tool or process: using the wrong tools and having limited or
+inflexible processes create large amounts of information debt. Moving
+outward slightly, *people* become the determining factor in
+information debt. This page discusses how authorship and related
+approaches to document/documentation maintenance, ownership, and
+editorial responsibility affect information debt.
+
+.. contents::
+
+Diffusion of Responsibility
+---------------------------
+
+The leading problem in most :doc:`wiki` systems and resources is that
+*editing* and maintenance becomes diffused. If everyone *can* edit a
+resource, then no one *must*, and the documents will tend to drift
+away from reality and the state of the art. The same principal is true
+of overall organization. If keeping documents properly
+:doc:`indexed|indexing]] and [[bucketed|bucketing` is the responsibility
+of no one person, then documents will become disorganized over time
+and more difficult to locate and update.
+
+Fight diffusion of responsibility by: 
+
+- assign information stewards. 
+
+- provide methods of feedback that don't require users to maintain
+  documents.
+  
+- make procedures for changing and requesting changes clear.
+
+Editorial Unity
+---------------
+
+Style guides are essential for defining editorial guidelines and
+ensuring that all text has the same voice. However, particularly for
+technical documents, there's typically a large layer of style beyond
+what the *Chicago Manual* and others can offer. It's important to
+maintain this style-guide, but it's also important that *people*
+become responsible for internalizing the style-guide and applying it
+fairly. 
+
+Establishing editorial consistency and unity takes time, commitment,
+and practice on the part of a group of people doing
+edits. Additionally, consistency edits are often required on a annual
+or semi-annual basis of materials to ensure that style remains
+consistent and fresh. You can make documents more consistent in some
+ways with better tooling (e.g. templates or tools that check large
+document sets for verboten formulations,) but in the end *people* must
+take responsibility for the editorial unity of an information
+resource.
+
+Ownership and Access Control
+----------------------------
+
+People must be responsible for content. There are certain tasks that
+someone with a firm background in the information *must*
+perform. These "owners" or information stewards are the best people
+for:
+
+- Doing quality control on documents.
+
+- Approving changes and edits to a document.
+
+- Controlling access to a document.
+
+- Keeping a document up to date.
+
+- Verifying documentation releases and updates.
+
+Sometimes it makes sense to make "subject matter experts" (SME) the
+information steward and sometimes the writer can do
+stewardship. Factors in deciding who should steward information:
+
+- Are writers integrated into the research/development/engineering
+  organization and process, do they operate separately?
+  
+- How many documents would a SME need to maintain? What kind of
+  workload and availability do the SME's have?
+
+- How isolated and independent are each individual document from
+  each other? Is the information organized in a way that will even
+  permit distribution of maintenance tasks?

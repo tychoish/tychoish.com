@@ -1,0 +1,126 @@
+========================================
+Information Debt and Document Management
+========================================
+
+.. contents::
+
+Information Debt and Documents
+------------------------------
+
+Document management refers to the way that people who aren't technical
+writers or engineers manage information and work output/product. This
+includes of all the PDFs, Spreadsheets, Word Processing Documents,
+Slide Decks, and that knowledge workers create. These documents are
+frequently the main currency of information transaction inside of most
+companies and working groups.
+
+The information debt problem is very real with documents:
+
+- Multiple versions of the same document often coexist, because it's
+  difficult to clearly determine which documents are canonical.
+
+- Search tools for documents are sub par, because
+  :doc:`metadata projects|taxonomy` are irregular and often incomplete.
+
+- Document content is always growing and must always be growing.
+
+- There's no good way to automate the archiving process.
+
+- Document use is local and distributed. Document management must
+  provide distributed solutions. The increasing size of local storage
+  and storage in general tends to exacerbate problems related to
+  distribution and document-based information debt.
+
+Document Management Industry
+----------------------------
+
+There is an entire industry built around "document management," with
+specialized tools including Alfresco, SharePoint, Documentum,
+Confluence and others. The `wikipedia page on document management systems <http://en.wikipedia.org/wiki/Document_management_system>`_
+provides enough background for most purposes. The high level points
+are as follows:
+
+- Groups of people need to have shared information resources, which
+  isn't terribly surprising, and most existing methods are
+  ineffective. Without document management tools, collaboration
+  happens using:
+
+  1. Shared network storage.
+
+     Which doesn't do very well with concurrent editing, or offline
+     work (i.e. on airplanes.) Also shared drives are cestpools of
+     permissions problems and disorganization.
+
+  2. Email distribution of documents.
+
+     Which doesn't do very well with versioning, and makes information
+     dispersion difficult as people join and leave an organization.
+     Furthermore, everyone must become their own personal librarian,
+     which is inefficient. In general this isn't a great solution, and
+     can also be expensive with some email hosting solutions.
+
+  In many ways, this points to the best part of document management
+  systems, which is that they represent a concerted effort to resolve
+  information debt problems.
+
+- Document management systems provide a host of "better" solutions to
+  the collaboration, organization, and access control problems: they
+  provide transparent versioning systems, they provide web interfaces
+  (and things like databases, wikis, etc.), workflow, integration with
+  other tools, auditing tools, and (supposedly) regulatory compliance.
+
+- Document management systems are typically slow and have cumbersome
+  systems. As a result users often try and find ways to circumvent the
+  systems. Services like Box.net, Dropbox, Google Drive, provide
+  tempting alternatives.
+
+In the end, document management systems propose: "if you provide
+enough tooling around document workflows, the system can prevent
+information debt." While good tooling is often crucial, tooling alone
+will not solve information debt. In this respect its possible to see
+document management systems as neither a source or resolution to
+information debt, but this view is short sighted:
+
+- Document management systems promise to resolve information debt, but
+  cannot.
+
+- Document management systems always require some sort of migration or
+  import process. Migrations are often lossy, and require significant
+  manual intervention. Migrations carry their own associated
+  information cost and debt potential.
+
+Resolving Information Debt in Document Management
+-------------------------------------------------
+
+While non-technical and non-automated documents obviously accrue
+information debt, preventing and ameliorating these information debts
+remarkably similar to conventional documentation:
+
+- *Use the hell out of templates*. Build systems and tool chains that do
+  as much of the document production work as possible, are great for
+  helping to make documentation systems sustainable and maintainable..
+
+- Have document owners own documents and processes. Specific,
+  individual people should always be able to answer for a document and
+  be responsible for keeping their documents up to date and in top
+  quality.
+
+- Use :doc:`hierarchy` well to organize both the contents of the
+  documents, but almost more importantly the documents in relation to
+  each other.
+
+- Reduce redundancy as much as possible. All documents and pieces of
+  information, at least at the source level, should be atomic
+  (i.e. topic-centered). Use good build tools to amalgamate
+  information atoms.
+
+- Use coherent :doc:`indexing` strategies.
+
+- Separate source formats from output formats.
+
+- Provide a workflow for suggesting and making changes where changes
+  can happen in parallel.
+
+- Delay any sort of data migration process and design migration
+  processes to be as automated as possible. Pay back as much
+  information debt in the migration process as possible.

@@ -1,0 +1,67 @@
+==================================
+Books and Information Architecture
+==================================
+
+.. contents::
+
+(*This page is component of the sequence of pages on*
+:doc:`information-debt`. *As a divergence from the* :doc:`taxonomy`
+*page, this addresses some of the organizational differences between
+designing and writing for books in contrast to online resources.*)
+
+Organizational Conventions and Form
+-----------------------------------
+
+Anyone, with sufficient training and practice, can figure out how to
+convey simple facts in plain language, but figuring out how to
+organize simple facts in plain language into a coherent text is a much
+more difficult and seldom achieved goal.
+
+In fact, it's gotten harder since most technical materials have become
+digital artifacts rather than bound volumes. There are multiple
+factors, but the leading ones are:
+
+- the conventions around publishing books are well tested and
+  understood by readers and writers. While typesetting systems have
+  become more advanced and publication cycles and shortened in the
+  last few decades, the form remains unchanged. Even the most senior
+  people writing books (of any kind,) grew up reading books like the
+  ones they're writing. While this might change in the next 5-10 years
+  for the next major cohort of writers, for these instincts are quite
+  good.
+
+- the space limitation in a book leads to more focused writing. With
+  luck.
+
+  Books meant that within reason it was possible to write a number of
+  texts, each targeted at a specific group of users. More targeted
+  books meant that any given document needs to accomplish fewer goals
+  with a more dedicated audience.
+
+  Because there is no such limitation on digital resources, and
+  multiple resources often create confusion, modern resources have to
+  be more different things to larger more diverse groups of users. The
+  results are mixed.
+
+  These larger more comprehensive resources are both less effective
+  because they don't target audiences as well as a manual, and also
+  because they are *very* hard to maintain.
+
+To be clear, I think digital information resources are extremely
+powerful and on the whole make more information available to more
+people, with fewer barriers. That's a good thing and an undeniable
+fact that is much lauded on this blog and elsewhere. Thinking about
+some of the challenges related to generating, organizing, and
+maintaining these resources is important for ensuring that they can
+continue to be useful powerful in the next 5, 10, 50 or more years.
+
+Future Directions
+-----------------
+
+Please contribute to this page if you have ideas or thoughts for
+additional relevant sections.
+
+I tend to think that the difference in publication cycles
+between books and online resources to be incredibly boring, but I
+think the difference in writing, practice/process/method, tooling, and
+style is incredibly interesting and under-addressed.
