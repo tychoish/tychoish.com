@@ -2,4 +2,4 @@
 Tychoish
 ========
 
-.. postlist:: 10
+.. postlist:: 59

@@ -13,17 +13,8 @@ version:
   release: '0.0.0'
   branch: '0.0'
 system:
-  make:
-    generated:
-      - 'meta'
-      - 'integration'
-      - 'push'
-      - 'sphinx'
-    static:
-      - 'makefile.compatibility'
-      - 'makefile.clean'
-      - 'makefile.dtf'
   files:
+    - 'integration.yaml'
     - 'intersphinx.yaml'
     - 'push.yaml'
     - 'pdfs.yaml'

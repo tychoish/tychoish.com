@@ -12,7 +12,7 @@ import logging
 
 from giza.config.runtime import RuntimeStateConfig
 from giza.config.helper import fetch_config, get_versions
-from giza.strings import dot_concat
+from giza.tools.strings import dot_concat
 
 logging.basicConfig(level=logging.INFO)
 conf = fetch_config(RuntimeStateConfig())
@@ -43,7 +43,7 @@ source_suffix = '.txt'
 master_doc = sconf.master_doc
 language = 'en'
 project = sconf.project
-copyright = u'2011-{0}'.format(datetime.date.today().year)
+copyright = u'2002-{0}'.format(datetime.date.today().year)
 version = conf.version.branch
 release = conf.version.release
 
@@ -56,19 +56,7 @@ rst_epilog = '\n'.join([
 
 pygments_style = 'sphinx'
 
-extlinks = {
-    'issue': ('https://jira.mongodb.org/browse/%s', '' ),
-    'api': ('http://api.mongodb.org/%s', ''),
-    'source': ('https://github.com/mongodb/mongo/blob/master/%s', ''),
-    'docsgithub' : ( 'http://github.com/mongodb/docs/blob/{0}/%s'.format(conf.git.branches.current), ''),
-    'hardlink' : ( 'http://docs.mongodb.org/{0}/%s'.format(conf.git.branches.current), ''),
-    'manual': ('http://docs.mongodb.org/manual%s', ''),
-    'ecosystem': ('http://docs.mongodb.org/ecosystem%s', ''),
-    'meta-driver': ('http://docs.mongodb.org/meta-driver/latest%s', ''),
-    'mms': ('https://mms.mongodb.com/help%s', ''),
-    'mms-hosted': ('https://mms.mongodb.org/help-hosted%s', ''),
-    'about': ('http://www.mongodb.org/about%s', '')
-}
+extlinks = { }
 
 ## add `extlinks` for each published version.
 for i in conf.git.branches.published:
@@ -80,27 +68,6 @@ for i in conf.system.files.data.intersphinx:
                                                         conf.paths.output,
                                                         i.path))
 
-languages = [
-    ("ar", "Arabic"),
-    ("cn", "Chinese"),
-    ("cs", "Czech"),
-    ("de", "German"),
-    ("es", "Spanish"),
-    ("fr", "French"),
-    ("hu", "Hungarian"),
-    ("id", "Indonesian"),
-    ("it", "Italian"),
-    ("jp", "Japanese"),
-    ("ko", "Korean"),
-    ("lt", "Lithuanian"),
-    ("pl", "Polish"),
-    ("pt", "Portuguese"),
-    ("ro", "Romanian"),
-    ("ru", "Russian"),
-    ("tr", "Turkish"),
-    ("uk", "Ukrainian")
-]
-
 # -- Options for HTML output ---------------------------------------------------
 
 html_theme = sconf.theme.name
@@ -108,7 +75,7 @@ html_theme_path = [ os.path.join(conf.paths.output, 'institute-tools', 'themes')
 html_title = conf.project.title
 htmlhelp_basename = 'MongoDB'
 
-html_logo = sconf.logo
+html_logo = None
 html_static_path = sconf.paths.static
 
 html_copy_source = False
