@@ -7,14 +7,14 @@ notes from the fast
    :tags: internet, new-media, cyborg
 
 Several notes to with regards to `information
-fast <http://tychoish.com/rhizome/glitch-and-web-experiments/>`__ that
+fast <http://tychoish.com/posts/glitch-and-web-experiments/>`__ that
 I'm undertaking. And because this is the internet and this is my blog...
 Well here goes:
 
 - I had initially suspected that the cause of my ailment was the
   special thinkpad-track point driver that deals with scrolling didn't
   get updated when I `upgraded to
-  jaunty <http://tychoish.com/rhizome/jaunty-upgrade/>`__. This turns
+  jaunty <http://tychoish.com/posts/jaunty-upgrade/>`__. This turns
   out to not be the case, as I had a freeze (again in firefox) just
   moving around with the arrow keys. That theory gone.
 

@@ -39,7 +39,7 @@ Dialectical futurism, is about a conversation between me, and the past,
 and me and the possible future, it's an attempt to synthesize a
 pragmatic view of what will happen, with an optimistic view of what I
 would like to happen. It's about `putting all of the topics I blog
-about <http://tychoish.com/rhizome/building-the-argument/>`__ like Open
+about <http://tychoish.com/posts/building-the-argument/>`__ like Open
 Source, Free Software, Cooperative structure, Economics, and the "New
 Media" in conversation with each other and seeing what kind of cool
 innovative things happen.
@@ -48,9 +48,9 @@ Part Two: The Status of the Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The project of `being a
-writer <http://tychoish.com/rhizome/i-am-a-writer/>`__ is one of
+writer <http://tychoish.com/posts/i-am-a-writer/>`__ is one of
 constant self improvement, I think. One thing that I didn't mention in
-`that post <http://tychoish.com/rhizome/i-am-a-writer/>`__ is that no
+`that post <http://tychoish.com/posts/i-am-a-writer/>`__ is that no
 matter how awesome you are as a writer, you're always trying to get
 better at writing. There's always some improvement to make, some
 short-falling in your ability to communicate that you're working at

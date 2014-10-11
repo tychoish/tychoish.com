@@ -13,7 +13,7 @@ thoughts. This post is generally in my series of posts of
 of these ideas come from, in part:
 
 - My `Tumblr Killed the Tumblelog
-  Star <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__
+  Star <http://tychoish.com/posts/tumblr-killed-the-tumblelog-star/>`__
   post.
 
 - My Google reader unread count.

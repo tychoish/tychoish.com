@@ -15,5 +15,5 @@ of the auxiliary tasks that make productivity possible. Like outlining,
 or research. I'm really bad about letting research happen.
 
 Anyway, cast your eyes `over here to read "Writing
-Pipeline" <http://tychoish.com/rhizome/writing-pipeline/>`__
+Pipeline" <http://tychoish.com/posts/writing-pipeline/>`__
 

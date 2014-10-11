@@ -48,7 +48,7 @@ So here's the thing about Podcamp. Well the thing\ *s*:
 
 - The `Search engine marketing *thing*, hasn't, as I would have hoped,
   died in a fiery and epic
-  death <http://tychoish.com/rhizome/seo-nonsense/>`__. This shit is
+  death <http://tychoish.com/posts/seo-nonsense/>`__. This shit is
   all over the place, and everyone seems to be talking about
   pay-per-click advertising and not the fact that what *really* matters
   is word-of-mouth. I'm so incredibly frustrated by all the crap that

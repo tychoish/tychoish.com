@@ -25,7 +25,7 @@ Today, most computer users and users of open source software don't have
 a particularly strong background in program. My desktop, with the
 exception of a few encumbered media codecs, and a closed source video
 driver, is all open source. While I write `shell scripts that do cool
-things <http://tychoish.com/rhizome/git-mail-3/>`__, and I can dabble in
+things <http://tychoish.com/posts/git-mail-3/>`__, and I can dabble in
 PHP when needed, I've never tinkered with an C code, and never really
 done anything that could be rightly considered a "program." And this
 says nothing of all the people who use open source programs like
@@ -49,7 +49,7 @@ There are also other angles that we can run with this question. Is open
 source the only way to gain a large enough user base (cite prevalence of
 LAM(P/P/P/R/J) stack vs. Microsoft's server technologies?) Given
 `current economic
-instabilities <http://tychoish.com/rhizome/is-there-any-there-there/>`__,
+instabilities <http://tychoish.com/posts/is-there-any-there-there/>`__,
 might open source be a more viable way of generating wealth and
 participating in an authentic economy?
 

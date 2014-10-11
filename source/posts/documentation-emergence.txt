@@ -35,7 +35,7 @@ of docs:
 --------------
 
 Different sets of users have different needs from documentation. I think
-my ":doc:`:Multi-Audience Documentation </rhizome/multiaudience-documentation>`" post also
+my ":doc:`:Multi-Audience Documentation </posts/multiaudience-documentation>`" post also
 addresses this issue.
 
 I don't think there are good answers and good processes that *always*

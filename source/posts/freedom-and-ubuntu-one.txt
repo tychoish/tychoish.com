@@ -130,9 +130,9 @@ Part Three, Business and Free Network Services.
 -----------------------------------------------
 
 I've been treading over ideas related to `free network
-businesses <http://tychoish.com/rhizome/free-network-businesses/>`__ and
+businesses <http://tychoish.com/posts/free-network-businesses/>`__ and
 `cooperatives and software
-freedom <http://tychoish.com/rhizome/coops-competition-openness/>`__ for
+freedom <http://tychoish.com/posts/coops-competition-openness/>`__ for
 weeks now, but I swear it all fell into my lap here. Some basic
 thoughts, as conclusion for this already too lengthy essay:
 

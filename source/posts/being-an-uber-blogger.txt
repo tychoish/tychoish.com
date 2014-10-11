@@ -42,7 +42,7 @@ blog are are people browsing google or
 true of blogs like `boing boing <http://www.boingboing.net/>`__, that's
 far from a universal. For instance, for a great number of weeks a post
 of mine on `TealArt <http://tychoish.com/>`__ called "`Cool
-Nicknames <http://tychoish.com/rhizome/cool-nicknames/>`__\ " was my
+Nicknames <http://tychoish.com/posts/cool-nicknames/>`__\ " was my
 incoming link from google, because people were googling "cool
 nicknames." Now I would love if you thought that people coming in from
 this search were looking for something other than a list of cool

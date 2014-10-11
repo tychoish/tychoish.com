@@ -7,7 +7,7 @@ We'll Always Have Debian
    :tags: linux
 
 I know I just wrote a `long piece about Arch
-Linux <http://tychoish.com/rhizome/getting-the-most-from-arch-linux/>`__
+Linux <http://tychoish.com/posts/getting-the-most-from-arch-linux/>`__
 and for most things I've pretty much switched to Arch Linux as my
 primary, day to day, distribution. In fact, when an Arch Linux issue
 comes up at work my coworkers call me first. And I suppose it's well

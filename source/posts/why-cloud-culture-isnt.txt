@@ -76,6 +76,6 @@ A few thoughts:
   worthwhile," but rather cultural participation is about developing
   direct relationships and making/building *things*, and that requires
   forming relationships that `don't scale
-  well <http://tychoish.com/rhizome/conceptualizing-scale/>`__.
+  well <http://tychoish.com/posts/conceptualizing-scale/>`__.
 
 Thoughts?

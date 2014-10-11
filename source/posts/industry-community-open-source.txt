@@ -7,7 +7,7 @@ Industry, Community, Open Source
    :tags: cyborg, open-source
 
 In "`Radicalism in Free Software, Open
-Source <http://tychoish.com/rhizome/radicalism-in-free-software-open-source/>`__\ "
+Source <http://tychoish.com/posts/radicalism-in-free-software-open-source/>`__\ "
 I contemplated the discourse of and around radicalism in and about Free
 Software and Open Source software. I think this post is a loose sequel
 to that post, and I want to use it to think about the role.

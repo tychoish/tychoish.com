@@ -61,7 +61,7 @@ you can't make the attempt, no amount of good mojo is going to help
 your site.
 
 2. Post regularly. Really regularly. This resonates with `this
-idea <http://tychoish.com/rhizome/ira-glass-on-creativity/>`__, the
+idea <http://tychoish.com/posts/ira-glass-on-creativity/>`__, the
 way to get good at doing 1., and make sure that people keep reading
 your site (and linking to you) is to provide dynamic and fresh
 content.

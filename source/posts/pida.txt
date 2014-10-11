@@ -14,7 +14,7 @@ programmer, my interest was immediately piqued.
 We'll call it part of my interest in how programmers work. The truth is,
 as a text-editor junkie, my impulse is to say "meh, IDEs are passe," but
 I think that's probably unfair, and in my `writing IDE
-post <http://tychoish.com/rhizome/writing-ide/>`__ I think I
+post <http://tychoish.com/posts/writing-ide/>`__ I think I
 recognized--by analogy--their worth. In any-case there's something sort
 of nifty about PIDA: rather than recreate tools, it just makes use of
 what's already there: the editor is emacs (or vim), the version control

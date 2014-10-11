@@ -12,7 +12,7 @@ This post is mostly about playing a head game with yourself, in an
 effort to get more organized. But not "head games" in a bad way. On *my*
 to do list for the past few weeks I've had something like "write a blog
 post about todo list item titles," because in light of `this
-post <http://tychoish.com/rhizome/beyond-lists-in-org-mode/>`__ about
+post <http://tychoish.com/posts/beyond-lists-in-org-mode/>`__ about
 `org-mode <http://orgmode.org/>`__ it seems like a topic in need of
 further definition. Basically my goal is to explore, **the best way to
 think about what we have to do, to allow us to accomplish what we want

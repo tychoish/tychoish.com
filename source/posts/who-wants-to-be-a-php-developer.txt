@@ -14,7 +14,7 @@ explains its success despite the disdain.
 
 I should interject with some context. First, I think this is another in
 my ongoing series of posts regarding `linguistic relativism and computer
-programming <http://tychoish.com/rhizome/sapir-whorf-hypothesis-and-computer-programing/>`__.
+programming <http://tychoish.com/posts/sapir-whorf-hypothesis-and-computer-programing/>`__.
 Second, for those of you who don't spend your days in this space PHP is
 a programming language designed *specifically* for use in the context of
 the web, and it has only comparatively recently emerged as a possibility

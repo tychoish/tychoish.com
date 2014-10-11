@@ -12,7 +12,7 @@ I'll be employed as a developer, it's becoming more apparent that the
 real difference between me and a "real developer" is vanishingly small.
 Stealth Developer, or something. In any case, my ongoing `tooling around
 with common
-lisp <http://tychoish.com/rhizome/common-lisp-practically/>`__ and more
+lisp <http://tychoish.com/posts/common-lisp-practically/>`__ and more
 recently the `tumble manager
 project <http://wiki.cyborginstitute.com/tumblemanager/>`__ have given
 me opportunities to think about lisp and to think about why I enjoy it.

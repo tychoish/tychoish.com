@@ -38,7 +38,7 @@ argument is that people aren't as *good* at using computers because
 they don't know how they work as well.
 
 Arguably this trend is one of the `harbingers of the
-singularity <http://tychoish.com/rhizome/the-dark-singularity/>`__, but
+singularity <http://tychoish.com/posts/the-dark-singularity/>`__, but
 that's an aside.
 
 2. Widely reusable software is often *less good software* than the

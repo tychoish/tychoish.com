@@ -15,9 +15,9 @@ The Context
   git <http://www.snell-pym.org.uk/archives/2010/02/01/haikus-in-git/>`__
 
 - `writing like a
-  programer <http://tychoish.com/rhizome/writing-like-a-programmer/>`__
+  programer <http://tychoish.com/posts/writing-like-a-programmer/>`__
 
-- `git thoughts <http://tychoish.com/rhizome/git-thinking/>`__
+- `git thoughts <http://tychoish.com/posts/git-thinking/>`__
 
 `git <http://git-scm.com/>`__ is this version control system that's
 designed to be used in a distributed manner, and supports a very divers

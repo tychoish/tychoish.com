@@ -7,7 +7,7 @@ Desktop Virtualization and Operating Systems
    :tags: cyborg, technology
 
 So what's the answer to `all this operating system and hardware driver
-angst <http://tychoish.com/rhizome/operating-systems-and-the-driver-issue/>`__?
+angst <http://tychoish.com/posts/operating-systems-and-the-driver-issue/>`__?
 
 I'm going to make the argument that the answer, insofar as there is one
 is probably virtualization.

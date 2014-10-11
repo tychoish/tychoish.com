@@ -6,7 +6,7 @@ Linuxing
    :author: tychoish
 
 So I've been `switching to
-linux <http://tychoish.com/rhizome/linux-update/>`__ right? Right. Well
+linux <http://tychoish.com/posts/linux-update/>`__ right? Right. Well
 the machine has arrived, and I've been able to get most of the required
 things set up the way that I need them. The `awesome window
 manager <http://awesome.naquadah.org/>`__, my ususal compliment of
@@ -16,7 +16,7 @@ only thing that gave me a hickup was using
 quickly solved.
 
 I wrote about my `editor
-issues <http://tychoish.com/rhizome/linux-switching-and-editors/>`__
+issues <http://tychoish.com/posts/linux-switching-and-editors/>`__
 last week, which are progressing slowly. I think I need. I've started to
 use a lot of console emacs for more day-to-day stuff like writing blog
 posts and takin notes for work. Probably by the time this posts, I'll

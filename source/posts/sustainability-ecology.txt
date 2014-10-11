@@ -8,13 +8,13 @@ sustainable ecology
 
 Here's another in the train of posts about economics and sustainability.
 I started with meditations on `cooperatives, and
-openness <http:///tychoish.com/rhizome/coops-competition-openness/>`__
+openness <http:///tychoish.com/posts/coops-competition-openness/>`__
 and `martian
-economics <http:///tychoish.com/rhizome/martian-economics/>`__, and then
+economics <http:///tychoish.com/posts/martian-economics/>`__, and then
 `business in network
-service <http:///tychoish.com/rhizome/free-network-businesses/>`__. And
+service <http:///tychoish.com/posts/free-network-businesses/>`__. And
 finally, `a brief thought on the state of contemporary
-marriage <http:///tychoish.com/rhizome/co-op-marriage>`__. This post
+marriage <http:///tychoish.com/posts/co-op-marriage>`__. This post
 takes a step back so that I can talk about what I mean by
 sustainability, which I think requires a bit of a sidestep into thinking
 about ecology and the environment.
@@ -50,7 +50,7 @@ sustainability as a practice, and that seems like it would be a good
 thing.
 
 In the `Mars books (which have been quite influential in this
-series) <http://tychoish.com/rhizome/martian-economics/>`__ a few
+series) <http://tychoish.com/posts/martian-economics/>`__ a few
 characters float the notion of an "eco-economics" where currency (such
 as it exists), are based on caloric input and output. Which is a nifty
 way to think about it. The strongest part of the martian government

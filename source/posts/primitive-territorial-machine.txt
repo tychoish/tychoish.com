@@ -30,7 +30,7 @@ With all that said on to this week's attempt:
 
 The first quote I have is kind of pithy, but it reiterates a concept
 that I talked about
-`before <http://tychoish.com/rhizome/deleuzeian-desiring-machines/>`__:
+`before <http://tychoish.com/posts/deleuzeian-desiring-machines/>`__:
 
 "..it is *in order to function* that a social machine must *not
 function well*" (151).

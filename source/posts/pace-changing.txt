@@ -10,7 +10,7 @@ Dear Readers,
 
 I'm both really excited and really scared of this change that I'm going
 to announce in this post. From my `journal
-entry <http://tychoish.com/rhizome/journal-entry/>`__, you can probably
+entry <http://tychoish.com/posts/journal-entry/>`__, you can probably
 tell that I've been busy and having something of a rough time. I'm
 coping, and I'm not writing this as a plea of any sort, just it's
 been... interesting. I've been sort of distracted, and running back and

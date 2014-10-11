@@ -7,7 +7,7 @@ Micro Jabbering
    :tags: new-media, cyberculture
 
 Today was the first day that my `regular blog
-post/essay <http://tychoish.com/rhizome/awesome-window-manager/>`__
+post/essay <http://tychoish.com/posts/awesome-window-manager/>`__
 *didn't* get crossposted to `my
 livejournal <http://tychoish.livejournal.com/>`__. This is one of the
 cool things that I can do now that I've redone tychoish.com. So LJ-land
@@ -36,7 +36,7 @@ everyone a lot of control over their microblogging life.)
 
 A while back I wrote a post--after identi.ca started up, actually--about
 how `microblogging needed to be thought of as an evolution of IRC and
-IM <http://tychoish.com/rhizome/doing-irc-right/>`__ rather than an
+IM <http://tychoish.com/posts/doing-irc-right/>`__ rather than an
 evolution of blogging. Not so much in terms of database structure
 (though I hear that would help,) but in terms of user interface and
 interaction.

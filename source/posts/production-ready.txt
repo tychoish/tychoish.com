@@ -70,7 +70,7 @@ are a few things that need to happen before that, such as:
 
 - The interface needs to get a lot better. This is "just wait and see"
   issue mostly, but `I think GNOME needs
-  work <http://tychoish.com/rhizome/window-management/>`__, and without
+  work <http://tychoish.com/posts/window-management/>`__, and without
   a really good and fun UI, Linux is sunk.
 
 - X11, the primary graphics/interaction layer for all (?)

@@ -91,7 +91,7 @@ community and cause (I suspect).
 The other direction follows `an essay I wrote here a few months ago
 about the importance of thinking about the capabilities of programing
 languages even if you're not a
-programmer <http://tychoish.com/rhizome/sapir-whorf-hypothesis-and-computer-programing/>`__
+programmer <http://tychoish.com/posts/sapir-whorf-hypothesis-and-computer-programing/>`__
 because languages, like all sorts of highly technical concepts and tools
 create and constrain possibilities for all computer users, not just the
 people who ponder and use them. In the case of the tiling window

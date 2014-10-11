@@ -34,7 +34,7 @@ the git repository for *tychoish*, but I'm going to pull together a more
 generic version so people can get started easier. It might also make
 sense to write a deployment script of sorts. We'll see.
 
-I meant to post this on Friday, but posted my review of :doc:`maple morris </rhizome/maple-morris-review>`,
+I meant to post this on Friday, but posted my review of :doc:`maple morris </posts/maple-morris-review>`,
 because I didn't want that to linger. In any case, I had a brilliant
 weekend singing (and dancing) in Western Massachusetts. It has however
 left me a bit under the weather, so I'm spending a day recovering and

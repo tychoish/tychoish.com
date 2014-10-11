@@ -9,7 +9,7 @@ The Next Wave and Independent Media
 I posted a link to an article `about the professionalization of
 blogging <http://www.theatlantic.com/doc/200909u/professional-bloggers>`__
 in an earlier `link dump
-post <http://tychoish.com/rhizome/links-postpublishing-gender-posthumanism>`__,
+post <http://tychoish.com/posts/links-postpublishing-gender-posthumanism>`__,
 that I've been thinking about rather a lot in recent days, and I wanted
 to reflect on this.
 
@@ -19,7 +19,7 @@ isn't just the sort of thing that "nobodies" can throw up a blog with
 WordPress and become an Internet sensation in fairly short order. Now
 setting aside the fact that this might `never have been true in the
 first
-place <http://tychoish.com/rhizome/3-odd-properties-of-blogging>`__, I
+place <http://tychoish.com/posts/3-odd-properties-of-blogging>`__, I
 think there's some serious merit to this argument: blogs have gone
 mainstream, lots of people read blogs, and the people who have the
 resources to write blogs tend to be people groups of people who have a
@@ -72,7 +72,7 @@ moment. Some of the more prevalent ones are:
   readerships on their own any more, but may be able to define their
   success on their own terms.** Old media business models, that rely
   on `advertising revenue
-  <http://tychoish.com/rhizome/the-collapse-of-marketing>`__ and large
+  <http://tychoish.com/posts/the-collapse-of-marketing>`__ and large
   readership numbers might not be the most stable anyway, and
   independent bloggers may be able to contemplate success on their own
   terms. Possible "new media" definitions of success include:

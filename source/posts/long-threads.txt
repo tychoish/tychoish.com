@@ -29,7 +29,7 @@ kinds of communications work.
 In the last five to ten years communications on the interent have really
 changed. We've gone from very structured mediums that come with built in
 threading, topically segregated conversation, with some semblance of
-`push functionality <http://tychoish.com/rhizome/the-big-push/>`__ and
+`push functionality <http://tychoish.com/posts/the-big-push/>`__ and
 even web-based discussion forums, to unstructured and chaotic mediums
 like blogs, blog comments, and wikis.
 

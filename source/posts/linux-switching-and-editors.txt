@@ -7,7 +7,7 @@ Linux Switching and Editors
 
 Ok, I have two things to ask/pose/announce, which only seems fitting
 after writing something about how `blog posts should be more singularly
-focused <http://tychoish.com/rhizome/blogging-about-ideas/>`__. Figures.
+focused <http://tychoish.com/posts/blogging-about-ideas/>`__. Figures.
 
 **Part One: Switching to Linux**
 
@@ -37,7 +37,7 @@ ever.
 
 As part of the "Great Linux Switch of '08," [1]_ I've been spending a
 lot of time working in a `virtual machine
-instalation <http://tychoish.com/rhizome/vms-for-all/>`__ of linux
+instalation <http://tychoish.com/posts/vms-for-all/>`__ of linux
 (first ubuntu, now gentoo) to practice the setup and get a slate of
 configuration files all ready for the machine when I finally order the
 real hardware. Going into this, I knew that the hardest part of the

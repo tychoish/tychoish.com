@@ -32,7 +32,7 @@ I'm not on yahoo (alas) but it works, and I rather like it, though it
 took some substantial customization.
 
 **Link:** `The Mutt of
-IM <http://tychoish.com/rhizome/the-mutt-of-im/>`__
+IM <http://tychoish.com/posts/the-mutt-of-im/>`__
 
 SEO Non-Sense
 -------------
@@ -47,7 +47,7 @@ personal connections and word of mouth tools. This was then as is still
 the case, and I think its important to challenge anyone who promotes the
 idea that there are ways to *quickly* hit it big on the internet.
 
-**Link:** `SEO Nonsense <http://tychoish.com/rhizome/seo-nonsense/>`__
+**Link:** `SEO Nonsense <http://tychoish.com/posts/seo-nonsense/>`__
 
 Git Mail
 --------
@@ -67,7 +67,7 @@ started to keep my procmail filters and mutt configuration files in the
 same repository so that all mail-related data and settings are stored
 together.
 
-**Link:** `Git Mail <http://tychoish.com/rhizome/git-mail-3/>`__
+**Link:** `Git Mail <http://tychoish.com/posts/git-mail-3/>`__
 
 Open Source Work
 ----------------
@@ -80,7 +80,7 @@ this, though I must admit that I haven't yet. This definitely falls into
 the "posts which represent key moments in my thinking.
 
 **Link:** `Open Source
-Work <http://tychoish.com/rhizome/open-source-work/>`__
+Work <http://tychoish.com/posts/open-source-work/>`__
 
 There's No Economic There, There.
 ---------------------------------
@@ -92,7 +92,7 @@ based on the exchange of credit rather than the exchange of material,
 and it was an important post for me.
 
 **Link:** `Is there any there,
-there? <http://tychoish.com/rhizome/is-there-any-there-there/>`__
+there? <http://tychoish.com/posts/is-there-any-there-there/>`__
 
 The Big Push
 ------------
@@ -106,5 +106,5 @@ least, the importance of thinking about the internet as being more than
 just a collection of web pages, and this article is a marker of my
 thoughts on the subject.
 
-**Link:** `The Big Push <http://tychoish.com/rhizome/the-big-push/>`__
+**Link:** `The Big Push <http://tychoish.com/posts/the-big-push/>`__
 

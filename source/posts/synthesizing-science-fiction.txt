@@ -6,13 +6,13 @@ Synthesizing Science Fiction
    :author: tychoish
 
 I wrote `last
-week <http://tychoish.com/rhizome/the-synthesis-of-science-fiction/>`__
+week <http://tychoish.com/posts/the-synthesis-of-science-fiction/>`__
 about how science fiction was sort of a synthetic element in the way I
 think about my own work and what TealArt means to me. I'm interested in
 cyberculture, I'm interested in cultural theory, I'm interested in story
 telling, and I'm interested in individuals. I'm also a computer geek, so
 sometimes I go off and talk about `command
-lines <http://tychoish.com/rhizome/whining-about-command-lines/>`__, but
+lines <http://tychoish.com/posts/whining-about-command-lines/>`__, but
 it all makes sense.
 
 Science fiction is interesting because it is both seen as escapist [1]_,

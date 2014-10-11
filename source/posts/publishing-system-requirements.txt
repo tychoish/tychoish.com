@@ -6,7 +6,7 @@ Publishing System Requirements
    :author: tychoish
    :tags: technical-writing, software
 
-Like :doc:`issue tracking systems </rhizome/issue-tracking-and-the-health-of-open-source-software>`,
+Like :doc:`issue tracking systems </posts/issue-tracking-and-the-health-of-open-source-software>`,
 documentation publication systems are *never quite perfect*. There are
 dozens of options, and most of them are horrible and difficult to use
 for one reason or another. Rather than outline why these systems are

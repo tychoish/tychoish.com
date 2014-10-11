@@ -8,7 +8,7 @@
 So, this is what I get for writing entries ahead of time. That was a
 TealArt practice that I need to let go of, I guess.
 
-The `last entry <http://tychoish.com/rhizome/tycho-garen-blogger/>`__,
+The `last entry <http://tychoish.com/posts/tycho-garen-blogger/>`__,
 which I posted just after midnight, was, stale before it even went live.
 I wrote it yesterday to describe my thoughts regarding the status of
 TealArt and tychoish, which as you can tell from the previous entry,
@@ -22,7 +22,7 @@ everything is the way I want it.
 
 There was a slight snafu that some of you are probably painfully aware
 of: I forgot to turn off my `crossposting
-scripts <http://tychoish.com/rhizome/wordpress-livejournal-crossposting/>`__
+scripts <http://tychoish.com/posts/wordpress-livejournal-crossposting/>`__
 so, most embarrassingly I sent out 300+
 `tweets <http://www.twitter.com/tychoish/>`__ in the span of about 10
 minutes. The saddest thing is that I I couldn't get it to stop for

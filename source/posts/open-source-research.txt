@@ -5,7 +5,7 @@ Open Source Research
 .. post:: 2008-02-26
    :author: tychoish
 
-I mentioned in `my last post <http://tychoish.com/rhizome/new-laptop>`__
+I mentioned in `my last post <http://tychoish.com/posts/new-laptop>`__
 that I took a break from writing to look at the `academic/research
 software on the apple
 website <http://www.apple.com/downloads/macosx/math_science/>`__. I

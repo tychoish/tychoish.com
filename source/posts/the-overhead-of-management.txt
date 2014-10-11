@@ -33,7 +33,7 @@ On the one hand there's the school of thought that says "admit and
 assess management costs early, and pay them up front." This is the
 corporate model in many ways. Have (layers upon layers of) resources
 dedicated to `managing management
-costs <http://tychoish.com/rhizome/managing-management-costs/>`__, and
+costs <http://tychoish.com/posts/managing-management-costs/>`__, and
 then let this "middle management" make sure that things get done in
 spite of the management burden. On servers this is spending a lot of
 time choosing tools, configuring the base system, organizing the file

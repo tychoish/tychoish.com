@@ -28,7 +28,7 @@ Linux, one of the biggest differentiating features between
 distributions. But I digress.
 
 I've written about `package management here
-before <http://tychoish.com/rhizome/on-package-management/>`__, but to
+before <http://tychoish.com/posts/on-package-management/>`__, but to
 summarize:
 
 1. We use package managers because many programs share dependencies,

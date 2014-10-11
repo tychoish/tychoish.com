@@ -6,7 +6,7 @@ Git Resources
    :author: tychoish
 
 Surprisingly my `last post about
-git <http://tychoish.com/rhizome/getting-git/>`__ was more well received
+git <http://tychoish.com/posts/getting-git/>`__ was more well received
 than I really thought. I promised that I'd collect some of the resources
 that I found useful when switching to `git <http://git.or.cz/>`__ in a
 separate post. While this has lingered on my todo list for some time,

@@ -117,7 +117,7 @@ format. So there.
    mean sure, HD is a microd [2]_ finer than Jameisons and J&S, but
    they're all close. `Also as with any yarn, if you're using the
    same kind of yarn for more than one
-   project <http://tychoish.com/rhizome/yarn-frugality/>`__, it's
+   project <http://tychoish.com/posts/yarn-frugality/>`__, it's
    easier to use leftovers.
 
 10. Shetland doesn't pill like merino and other yarns.

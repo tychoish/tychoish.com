@@ -10,7 +10,7 @@ Source Knitting. It answers some of the preliminary "how" questions that
 I think the rest of the series avoided.
 
 `Click here to read more about Open Source Knitting
-Technology <http://tychoish.com/rhizome/open-source-knitting-technology/>`__
+Technology <http://tychoish.com/posts/open-source-knitting-technology/>`__
 
 While I think the project is still very much "alive," and holds a place
 in my mind/mental energy, I think it also is something that I want to do

@@ -13,7 +13,7 @@ So like most geeks, I've been hearing more and more about "cloud
 computing," which is supposedly an evolution of Web 2.0 technologies
 (Web 2.1? 2.5?) and this whole "internet thing," where software and data
 is something that runs on a server somewhere else, and your computer
-(via your `browser <http://tychoish.com/rhizome/ssb-ftw/>`__) is a
+(via your `browser <http://tychoish.com/posts/ssb-ftw/>`__) is a
 window on the "cloud." Let me back up:
 
 Lets start of with the model traditional personal computing. People have

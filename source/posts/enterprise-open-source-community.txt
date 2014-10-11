@@ -84,4 +84,4 @@ Onward and Upward!
 
 .. [1] I think and hope this is the post I meant to write when I started
    writing `this post on the work of open
-   source <http://tychoish.com/rhizome/analyzing-the-work-of-open-source.mdwn>`__
+   source <http://tychoish.com/posts/analyzing-the-work-of-open-source.mdwn>`__

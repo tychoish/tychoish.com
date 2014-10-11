@@ -6,7 +6,7 @@ Wiki Completion
    :author: tychoish
 
 Insofar as it's been a loose series, this post is a continuation of my
-thoughts on `wikis <http://wtychoish.com/rhizome/wiki-questions/>`__ and
+thoughts on `wikis <http://wtychoish.com/posts/wiki-questions/>`__ and
 `hypertext <http://tychoish.com/tags/hypertext/>`__. My leading question
 is "Are wiki's ever completed?" And "If so, how do we know and decide?"
 

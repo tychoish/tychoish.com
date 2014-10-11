@@ -10,7 +10,7 @@ In a lot of ways, I've already written this entry
 worthwhile for me to write something more definite here.
 
 As you know, from `posts like
-this <http://tychoish.com/rhizome/comparison-tealart-and-tychoish/>`__
+this <http://tychoish.com/posts/comparison-tealart-and-tychoish/>`__
 I've been, well, agnsty about moving forward with TealArt, as the
 demands on my time changes, and my interests and energies shift. I've
 thought about inviting other editors/contributors as a way of keeping

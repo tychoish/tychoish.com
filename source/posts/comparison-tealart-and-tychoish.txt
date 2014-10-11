@@ -43,7 +43,7 @@ knitting. In terms of technology, we've tended to think about how we use
 computers and how technology interacts with culture and individuals.
 We've approached science fiction, through the `Station
 Keeping <http://tychoish.com/hanm/>`__ and commentaries on the genre
-like `this <http://tychoish.com/rhizome/science-fiction-memes/>`__.
+like `this <http://tychoish.com/posts/science-fiction-memes/>`__.
 Though I tend to conceptualize it in reverse, digital/hyper-text
 discussions on TealArt as been a place for me to think about how we
 consume and produce text in digital environments. And the knitting
@@ -83,7 +83,7 @@ I really like how things are set up at the moment, and I like the model
 that both sites are working in, so they'll likely stay the way they are.
 I'm not sure how things will work out in the future, and I've posted a
 quick `list things todo for
-TealArt <http://tychoish.com/rhizome/tealart-todo/>`__ in the future to
+TealArt <http://tychoish.com/posts/tealart-todo/>`__ in the future to
 help figure out a better way to manage this project. I *may* have
 someone lined up to be a more serious co-editor in 2008, but that's a
 ways off, and I have a lot on my plate between now and then, but I'm

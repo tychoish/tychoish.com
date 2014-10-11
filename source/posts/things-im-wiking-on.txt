@@ -14,7 +14,7 @@ Things I'm Wiking On
 - Some writing and thinking about `TumbleManager, tumblelog engine
   <http://wiki.cyborginstitute.net/tumblemanager/>`__ in response to
   `this post
-  <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__.
+  <http://tychoish.com/posts/tumblr-killed-the-tumblelog-star/>`__.
   I'm writing this as a design document/spec sheet because I'm a
   writer and my brain works like this.
 
@@ -34,7 +34,7 @@ Things I'm Wiking On
 
 - Although this only barely counts: I did some very wiki-like editing
   to the `tubmlelog post
-  <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__,
+  <http://tychoish.com/posts/tumblr-killed-the-tumblelog-star/>`__,
   which I think cleaned up the text a bit. I'm, as you're aware, not a
   very polished sort of writer. But I think I'm pretty good at
   cleaning things up after a fashion, and once I have the right

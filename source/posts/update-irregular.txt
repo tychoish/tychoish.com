@@ -22,10 +22,10 @@ to as well as I would have liked. If you commented on any of these
 posts, I've tried to respond in someway:
 
 - :doc:`pedagogy discussion </pedagogy/discourse>`
-- :doc:`:writing teaching discussion </rhizome/teaching-writing-skills/discourse>`
-- :doc:`:dropbox-replacements discussion </rhizome/is-dropbox-the-mobile-file-system-standard/discourse>`
-- :doc:`wiki and collaborative fiction discussion </rhizome/wiki-fiction>`
-- :doc:`:vpn discussion </rhizome/remote-accessibility-reverse-tunneling-super-dynamic-dns/discourse>`
+- :doc:`:writing teaching discussion </posts/teaching-writing-skills/discourse>`
+- :doc:`:dropbox-replacements discussion </posts/is-dropbox-the-mobile-file-system-standard/discourse>`
+- :doc:`wiki and collaborative fiction discussion </posts/wiki-fiction>`
+- :doc:`:vpn discussion </posts/remote-accessibility-reverse-tunneling-super-dynamic-dns/discourse>`
 
 New Posts
 ---------

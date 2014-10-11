@@ -7,7 +7,7 @@ Re-Rethinking GTD
    :tags: productivity, cyborg, writing, organization
 
 I wrote `a series of articles nearly two years ago to rethink the GTD
-system <http://tychoish.com/rhizome/rethinking-gtd-the-digitals/>`__,
+system <http://tychoish.com/posts/rethinking-gtd-the-digitals/>`__,
 which I think is worth revisiting again. Not the essays, which were from
 when I called the website "TealArt" (don't ask) and were before I really
 discovered free software and open source in a big way; but rather, I
@@ -106,4 +106,4 @@ Cheers, sam
 .. [1] Not the least of which is the way GTD (et al) classify the problem of
    `work acomplishment to be a "productivity problem" rather than an
    issue of
-   "effectiveness" <http://tychoish.com/rhizome/standards-of-living/>`__.
+   "effectiveness" <http://tychoish.com/posts/standards-of-living/>`__.

@@ -6,14 +6,14 @@ Overdue Update
    :tags: meta, progress-report, update
 
 I went through a few days ago to collect all of the updates and work
-that I'd done since the :doc:`last time I did one of these posts </rhizome/update-rhythm>`. 
+that I'd done since the :doc:`last time I did one of these posts </posts/update-rhythm>`. 
 Sometimes just looking through an activity log is all you need to
 remember that you're actually doing something. Here's what I've been
 working on:
 
 - **isd**" is a developing page of material for my
   ongoing :doc:`story project </critical-futures>`. I've written it in my
-  ":doc:`Wiki Fiction </rhizome/wiki-fiction>`" post. This particular page
+  ":doc:`Wiki Fiction </posts/wiki-fiction>`" post. This particular page
   is basically sysadminning-punk, if I may be so bold. The story as a
   whole is largely a future history of human's expansion into the solar
   system and beyond, using Kim Stanley Robinson's idea of
@@ -28,37 +28,37 @@ working on:
   I've done some additional editing and revising of this section of the
   wiki. The :doc:`:/technical-writing/documentation-sucks` page has also
   served as the foundation of my post about
-  :doc:`documentation publishing systems </rhizome/publishing-system-requirements>`.
+  :doc:`documentation publishing systems </posts/publishing-system-requirements>`.
 
 - I've added a number of new posts that I hope won't be forgotten too
   quickly. They are:
 
-  - :doc:`Is Android the Future of Linux </rhizome/is-android-the-future-of-linux>`
+  - :doc:`Is Android the Future of Linux </posts/is-android-the-future-of-linux>`
 
-  - :doc:`Advice for Blogging Successfully </rhizome/advice-for-blogging-successfully>`
+  - :doc:`Advice for Blogging Successfully </posts/advice-for-blogging-successfully>`
 
-  - :doc:`:Issue Tracking and the Health of Open Source Software </rhizome/issue-tracking-and-the-health-of-open-source-software>`
+  - :doc:`:Issue Tracking and the Health of Open Source Software </posts/issue-tracking-and-the-health-of-open-source-software>`
 
-  - :doc:`Tablet Interfaces and Intuition </rhizome/tablet-interfaces-and-intuition>`
+  - :doc:`Tablet Interfaces and Intuition </posts/tablet-interfaces-and-intuition>`
 
-  - :doc:`Org Mode and Mobile Writing </rhizome/org-mode-and-mobile-writing>`
+  - :doc:`Org Mode and Mobile Writing </posts/org-mode-and-mobile-writing>`
 
-  - :doc:`Publishing System Requirements </rhizome/publishing-system-requirements>`
+  - :doc:`Publishing System Requirements </posts/publishing-system-requirements>`
 
-  - :doc:`Android Tablets and the Workstations of the Future </rhizome/android-tablets-and-the-workstations-of-the-future>`
+  - :doc:`Android Tablets and the Workstations of the Future </posts/android-tablets-and-the-workstations-of-the-future>`
 
 - There has also been some discussions of new and old rhizomes on the
   discourse pages. These are:
 
-  - :doc:`:Discussion of Android and the Future of Linux </rhizome/is-android-the-future-of-linux/discourse>`
+  - :doc:`:Discussion of Android and the Future of Linux </posts/is-android-the-future-of-linux/discourse>`
 
-  - :doc:`Git Mail Discussion </rhizome/git-mail/discourse>`
+  - :doc:`Git Mail Discussion </posts/git-mail/discourse>`
 
-  - :doc:`Tablet Discussion </rhizome/and-then-i-broke-down-and-got-a-tablet/discourse>`
+  - :doc:`Tablet Discussion </posts/and-then-i-broke-down-and-got-a-tablet/discourse>`
 
-  - :doc:`:Create Better Task Items </rhizome/create-better-task-items/discourse>`
+  - :doc:`:Create Better Task Items </posts/create-better-task-items/discourse>`
 
-  - :doc:`:Writing Software Requirements Discussions </rhizome/writing-software-beyond-emacs/discourse>`
+  - :doc:`:Writing Software Requirements Discussions </posts/writing-software-beyond-emacs/discourse>`
 
 - A few weeks ago I posted a few new scripts in the code section.
   Tell me what you think:
@@ -67,7 +67,7 @@ working on:
 
   - :doc:`/code/download-mail`
 
-- My post, :doc:`9 Awesome SSH Tricks </rhizome/9-awesome-ssh-tricks>` from
+- My post, :doc:`9 Awesome SSH Tricks </posts/9-awesome-ssh-tricks>` from
   March 2011, spent a number of hours on the front page of hacker new.
   You can read `the comments over
   there <http://news.ycombinator.com/item?id=3011947>`__, and probably

@@ -8,10 +8,10 @@ database market
 
 This post is the spiritual sequal to `my (slight) diatribe against
 database powered
-websites <http://tychoish.com/rhizome/against-database-powered-websites>`__
+websites <http://tychoish.com/posts/against-database-powered-websites>`__
 of a few weeks ago. And a continuation of `my thoughts regarding the
 acquisition of Sun Microsystems by
-Oracle <http://tychoish.com/rhizome/coops-competition-openness>`__. Just
+Oracle <http://tychoish.com/posts/coops-competition-openness>`__. Just
 to add a quick subtitle: Oracle is a huge vendor of database software,
 and about 18 months ago (? or so) Sun acquired mySQL which is the
 largest and most successful open-source competitor to Oracle's products.

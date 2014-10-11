@@ -18,7 +18,7 @@ but I think in a year and some change I can decide if it's something I
 So you might think, given this that I would have made some sort of new
 years resolution to write a certain number of words every day or week,
 or to write a novel, or something. `Instead, I resolved to keep a record
-of my reading <http://tychoish.com/rhizome/new-year/>`__, and by doing
+of my reading <http://tychoish.com/posts/new-year/>`__, and by doing
 so I hoped that I would read more (though technically I didn't actually
 resolve to read more.) Which makes sense, at least to me. It's important
 to read, to be familiar with the literature of discourses you hope to

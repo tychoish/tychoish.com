@@ -10,7 +10,7 @@ One element that has been largely missing from my ongoing rambling
 analysis of economies, corporations, co-ops, and institutions has been
 higher education and universities. Of course Universities are
 institutions, and function in many ways like `large
-corporations <http://tychoish.com/rhizome/the-evil-corporations>`__,
+corporations <http://tychoish.com/posts/the-evil-corporations>`__,
 but, nostalgia notwithstanding, I don't think it's really possible to
 exempt Universities or dismiss them from this conversation.
 
@@ -89,6 +89,6 @@ Interestingly these thoughts didn't have very much to do with
 technology. I guess I mostly feel that the changes in technology are
 secondary to the larger economic forces likely to affect universities in
 the coming years. `Unless the singularity comes
-first <http://tychoish.com/rhizome/the-dark-singularity/>`__.
+first <http://tychoish.com/posts/the-dark-singularity/>`__.
 
 Your thoughts, as always, are more than welcome.

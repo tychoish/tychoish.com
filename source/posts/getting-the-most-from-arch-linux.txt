@@ -7,7 +7,7 @@ Getting the Most from Arch Linux
    :tags: cyborg
 
 Much to my surprise, my essay of a few months ago on `Why Arch Linux
-Rocks <http://tychoish.com/rhizome/why-arch-linux-rocks>`__ is quickly
+Rocks <http://tychoish.com/posts/why-arch-linux-rocks>`__ is quickly
 becoming one of my most popular posts. Who would have thunk? In any
 case, while I've written a few additional bits here and there about
 using Arch, I thought it would be good to write some more concrete and

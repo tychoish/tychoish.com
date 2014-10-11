@@ -30,7 +30,7 @@ developers almost never say "free software," even though it's a GPLv2/3
 project. I say open source rather than free software, even though I'm
 generally a proponent of copyleft. `I've outlined my thoughts on the
 subject before in an essay on software
-freedom <http://tychoish.com/rhizome/open-source-freedom/>`__, but I'm
+freedom <http://tychoish.com/posts/open-source-freedom/>`__, but I'm
 pretty sure that people have different reasons for this. In any case,
 judging by the prevalence of Apple laptops, it seems like the whole "we
 need an open source/free software stack from top to bottom," impulse

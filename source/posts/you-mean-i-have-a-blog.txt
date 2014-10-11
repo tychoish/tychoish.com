@@ -14,7 +14,7 @@ see you there.
 Then I had dancing, as I always do on wednesdays, and this left me
 feeling supremely beat. Hence no blogging. I did however post the first
 in my `Better Living through Regular
-Expressions <http://tychoish.com/rhizome/better-living-through-regular-expressions-a-dramatic-work/>`__
+Expressions <http://tychoish.com/posts/better-living-through-regular-expressions-a-dramatic-work/>`__
 series/project. I did some regexp-ing at work yesterday, so I have
 something to use as a pun for next week.
 

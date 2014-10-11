@@ -7,7 +7,7 @@ Fact File and Orbital Mechanics
    :tags: org-mode, cyborg, emacs
 
 I mentioned `the other day that I was looking to build a fact
-file <http://tychoish.com/rhizome/todo-list-bloat>`__, but that I wanted
+file <http://tychoish.com/posts/todo-list-bloat>`__, but that I wanted
 to follow up on this in a bit more length. As you know and/or have
 probably guessed, I'm a writer, and I consume a lot of information in
 the pursuit of this practice. That's par for the course. The problem is
@@ -72,7 +72,7 @@ help on this problem. There were suggestions of
 `PlannerMode <http://www.emacswiki.org/emacs/PlannerMode>`__ and various
 systems based on `org-mode <http://www.orgmode.org>`__ (which is what
 I'm inclined to use at this point.) I then had `this "moment"
-issue <http://tychoish.com/rhizome/todo-list-bloat/>`__ about not
+issue <http://tychoish.com/posts/todo-list-bloat/>`__ about not
 wanting my "fact file" to be built on some sort of to-do list. Todo
 lists are great, I love todo-lists (perhaps too much?) Having my
 information management software be built around "tasks" and "projects"

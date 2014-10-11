@@ -43,7 +43,7 @@ survey a collection in useful and meaningful ways, you can see holes and
 collect more, you can search tactically, and within subsets of articles
 to provide. I've been talking for more than a year about `the utility of
 curation in the creation of value
-on-line <http://tychoish.com/rhizome/curation-and-content-overload/>`__.
+on-line <http://tychoish.com/posts/curation-and-content-overload/>`__.
 and fundamentally I think the same holds true for personal information
 collections.
 

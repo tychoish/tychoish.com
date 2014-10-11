@@ -10,9 +10,9 @@ open source (free; as in speech) development and knitting. I've also
 said that this, at least in my mind is related to the ideas I was
 considering in terms of `how writers and creative types make money in
 the digital
-age <http://tychoish.com/rhizome/being-an-artist-and-paying-the-bills/>`__,
+age <http://tychoish.com/posts/being-an-artist-and-paying-the-bills/>`__,
 and while in my `first
-foray <http://tychoish.com/rhizome/osk-open-knitting/>`__ I touched upon
+foray <http://tychoish.com/posts/osk-open-knitting/>`__ I touched upon
 a debate over the commercial use differences between a creative commons
 license [1]_ and the GPL/GFDL, I think that post dealt with too many
 issues, and I think that the issue of commercializing content/product
@@ -62,7 +62,7 @@ exactly how companies like Novell and RedHat make their money, and stay
 afloat. Linux, despite being free (as in beer, as well as speech) is, or
 can be, a viable business. To return to the hat class, we can assume
 that while I could have come up with my own `hat
-pattern <http://tychoish.com/rhizome/pattern-fine-gauge-knitted-beanie-style-hatcap/>`__,
+pattern <http://tychoish.com/posts/pattern-fine-gauge-knitted-beanie-style-hatcap/>`__,
 the class is probably better for my using of the open hat pattern,
 because it's been vetted my loads of other knitters, and hopefully my
 contributions to the project was useful; but if I'm going to be

@@ -6,7 +6,7 @@ Writing and Producing Hyper(digital)text
    :author: tychoish
 
 I realized that my `schpeal last
-time <http://tychoish.com/rhizome/reading-and-consuming-hyperdigitaltext/>`__
+time <http://tychoish.com/posts/reading-and-consuming-hyperdigitaltext/>`__
 on reading hypertext sounded more like a complaint than an endorsement
 of a way of writing, but I don't mean to come off like that. While I
 think it's true that the advancement of technology: better portable text

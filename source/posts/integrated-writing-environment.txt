@@ -7,7 +7,7 @@ Integrated Writing Environment
    :tags: programming, writing, cyborg, technology
 
 My `post about information
-buckets <http://tychoish.com/rhizome/information-buckets/>`__ got me
+buckets <http://tychoish.com/posts/information-buckets/>`__ got me
 thinking, thanks to some other things that have filtered through my
 awareness in the last few weeks, about integrated development
 environments.

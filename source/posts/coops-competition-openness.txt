@@ -6,7 +6,7 @@ Cooperatives, Competition, Openness
    :author: tychoish
    :tags: economics, open-source
 
-`I've been thinking <http://tychoish.com/rhizome/post-bar-camp/>`__, in
+`I've been thinking <http://tychoish.com/posts/post-bar-camp/>`__, in
 light of the Oracle purchase of Sun Microsystems, about the role of big
 companies in our economy, the role of competition, and what open source
 business models look like. This is a huge mess of thoughts and trains

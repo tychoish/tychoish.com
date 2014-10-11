@@ -35,7 +35,7 @@ into Women's Studies and I don't regret it for an instant.
 --------------
 
 While I `don't tend to buy into the
-software-is-freedom <http://tychoish.com/rhizome/open-source-freedom/>`__
+software-is-freedom <http://tychoish.com/posts/open-source-freedom/>`__
 argument, [2]_ I think there is something very *freeing* about open
 source in the same way that I found Women's Studies so academically
 freeing. The invitation to participate in the software development

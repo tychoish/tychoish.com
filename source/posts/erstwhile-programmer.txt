@@ -18,7 +18,7 @@ Evidence
 download-mail
 ~~~~~~~~~~~~~
 
-I have this :doc:`somewhat peculiar method of downloading email </rhizome/git-mail-3>` that **I** think works *great*. A few weeks
+I have this :doc:`somewhat peculiar method of downloading email </posts/git-mail-3>` that **I** think works *great*. A few weeks
 ago, however, I was trying to compress things in "hot storage," and
 realized that I had a problem.
 
@@ -39,7 +39,7 @@ See the revised code here: :doc:`/code/download-mail`
 ikiwiki-tasklist
 ~~~~~~~~~~~~~~~~
 
-I've written about this before in my post on :doc:`my new personal organization stuff </rhizome/back-to-basics-tasklist-and-organization>`, but it's
+I've written about this before in my post on :doc:`my new personal organization stuff </posts/back-to-basics-tasklist-and-organization>`, but it's
 no great announcement that I'm moving away from working in `emacs'
 org-mode <http://orgmode.org/>`__ and doing more work with
 `ikiwiki <http://ikiwiki.info>`__ and some hand-rolled scripts. I think

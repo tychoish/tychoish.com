@@ -7,7 +7,7 @@ Systems Review
    :tags: cyborg, organization, file-systems
 
 I wrote in my post on `the one true
-system <http://tychoish.com/rhizome/one-true-system>`__ about the
+system <http://tychoish.com/posts/one-true-system>`__ about the
 informal systems that we use to interface the way we interact with
 knowledge and information in the "real world" with the way we represent
 that information on our computers. Exploring these systems lay at the

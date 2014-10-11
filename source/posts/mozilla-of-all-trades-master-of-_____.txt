@@ -6,7 +6,7 @@ Mozilla of All Trades
    :author: tychoish
 
 In my `post about calendar
-programs <http://tychoish.com/rhizome/calendar-ing/>`__ a number of
+programs <http://tychoish.com/posts/calendar-ing/>`__ a number of
 `great <http://www.thelinuxblog.com/>`__
 `readers <http://ciarang.com/>`__ suggested that I should try
 "Lightning" or "Sunbird" which are part of the `Mozilla Calendar

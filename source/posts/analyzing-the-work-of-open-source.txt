@@ -63,9 +63,9 @@ understand the technology itself.
 I clearly need to work a bit more to develop this idea, but I think it
 connects with a couple of previous arguments that I've put forth in
 these pages one regarding `Whorfism in
-Programming <http://tychoish.com/rhizome/sapir-whorf-hypothesis-and-computer-programing/>`__,
+Programming <http://tychoish.com/posts/sapir-whorf-hypothesis-and-computer-programing/>`__,
 and also in `constructing rich
-arguments <http://tychoish.com/rhizome/building-the-argument/>`__.
+arguments <http://tychoish.com/posts/building-the-argument/>`__.
 
 I look forward to your input as I develop this project. Onward and
 Upward!

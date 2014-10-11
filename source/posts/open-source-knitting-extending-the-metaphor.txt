@@ -6,13 +6,13 @@ Open Source Knitting: Extending the Metaphor
    :author: tychoish
 
 I had so much fun `last
-time <http://tychoish.com/rhizome/osk-open-knitting/>`__ talking--and
+time <http://tychoish.com/posts/osk-open-knitting/>`__ talking--and
 thinking--about the connections between "open source," (software) and
 knitting, in terms of what happened in the knitting world a few months
 ago (actually, it's probably longer now), that I wanted to continue to
 think and write about these subjects. I've been listening to `FLOSS
 Weekley <http://www.twit.tv/FLOSS>`__ and also `thinking a
-lot <http://tychoish.com/rhizome/being-an-artist-and-paying-the-bills/>`__
+lot <http://tychoish.com/posts/being-an-artist-and-paying-the-bills/>`__
 about the way that creative types can afford to be creative, that I
 think this is a good little project for us to consider for a while.
 Also, I hope that it will provide a chance for a lot of the ideas that

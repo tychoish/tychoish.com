@@ -85,7 +85,7 @@ I've used to help explore the topic:
   different kinds of programming problems, with greater and lesser
   success.
 
-  Buildcloth, which :doc:`is pretty cool and needs more work <//rhizome/buildcloth-v03-planning>` but I fear may be too
+  Buildcloth, which :doc:`is pretty cool and needs more work <//posts/buildcloth-v03-planning>` but I fear may be too
   complicated for the use-case.
 
   `csc <http://cyborginstitute.org/projects/csc>`__, which isn't fully off

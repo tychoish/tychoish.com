@@ -19,7 +19,7 @@ to pull apart the contemporary modifications for open source software.
 One obvious answer to this question is, "freedom:" that open source
 software provides its users an non-tangible freedom and power over their
 interactions with technology. I've `posted about why I think this is
-imprecise <http://tychoish.com/rhizome/open-source-freedom/>`__ and
+imprecise <http://tychoish.com/posts/open-source-freedom/>`__ and
 while I need to spend time developing this argument further, there's
 some merit.
 

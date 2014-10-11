@@ -7,7 +7,7 @@ How I'd Like to Be Notified
    :tags: cyborg
 
 In my `last post on this
-topic <http://tychoish.com/rhizome/notifications-and-computing-contexts/>`__
+topic <http://tychoish.com/posts/notifications-and-computing-contexts/>`__
 I tried to avoid talking too much about the actual details of an
 implementation of what my ideal notification system would look like. In
 part because I think that the problem of staying on top of our digital

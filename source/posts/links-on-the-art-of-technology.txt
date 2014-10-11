@@ -108,7 +108,7 @@ is incredibly important.
 In the piece on Cyborg Anthropology, Amber Case discusses looks at the
 Singularity from a much less technical perspective. In a lot of ways
 this reminds me of my post on `the Dark
-Singularity <http://tychoish.com/rhizome/the-dark-singularity/>`__ from
+Singularity <http://tychoish.com/posts/the-dark-singularity/>`__ from
 a few months back. The singularity is, of course ultimately a cyborg
 problem.
 

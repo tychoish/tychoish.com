@@ -30,7 +30,7 @@ really neither of these solutions really work for what I'm doing.
 
 Ultimately this returns to a theme that I've been struggling from the
 `very beginning of
-TealArt <http://tychoish.com/rhizome/perfect-notebook-bliss/>`__, back
+TealArt <http://tychoish.com/posts/perfect-notebook-bliss/>`__, back
 in 2002, where I talked about my struggle for good notebooks. With
 Moleskine's these days, I've basically found the analog solution, but I
 need something that will work digitally, particularly for the *Station

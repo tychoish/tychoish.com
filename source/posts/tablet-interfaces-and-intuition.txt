@@ -32,8 +32,8 @@ economy of application market places does not create incentives for
 developers to build tools with enduring functionality. The ``.epub``
 reader I mentioned above is actually free software. [1]_ I write a
 couple of posts a while back on innovation
-(:doc:`one </rhizome/where-innovation-happens-part-one>` and
-:doc:`two </rhizome/where-innovation-happens-part-two>`) that address the
+(:doc:`one </posts/where-innovation-happens-part-one>` and
+:doc:`two </posts/where-innovation-happens-part-two>`) that address the
 relationship between free software and technological development but
 that's beside the point.
 
@@ -47,7 +47,7 @@ part of this, but I think there are more.
 
 2. There will be general purpose systems for tablets that partially or
 wholly expect a keyboard, and then some sort of key-command system
-will emerge. This follows from my thoughts in the ":doc:`Is Android the Future of Linux </rhizome/is-android-the-future-of-linux>`?" post.
+will emerge. This follows from my thoughts in the ":doc:`Is Android the Future of Linux </posts/is-android-the-future-of-linux>`?" post.
 
 I fully expect that both lines of development can expand in parallel.
 

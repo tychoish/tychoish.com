@@ -6,7 +6,7 @@ Git Mail #3
    :author: tychoish
 
 I posted `a while
-ago <http://tychoish.com/rhizome/rethinking-git-mail/>`__ about redoing
+ago <http://tychoish.com/posts/rethinking-git-mail/>`__ about redoing
 my `assbackards <http://tychoish.com/2008/08/git-mail/>`__ email
 downloading system. I finally did it. And it works great (and runs a
 bunch faster). The main sacrifice is that I now have to store two copies
@@ -38,7 +38,7 @@ You need:
 
 Inside of the repository is a great place to keep your scripts (and
 indeed all `settings for mail-related
-programs <http://tychoish.com/rhizome/work-mode-for-mutt/>`__.) The two
+programs <http://tychoish.com/posts/work-mode-for-mutt/>`__.) The two
 scripts you need are:
 
 syncserver:

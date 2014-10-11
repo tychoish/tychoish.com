@@ -10,9 +10,9 @@ I ran across this `smear piece with regards to Ubuntu users from the
 perspective of a seasoned Linux
 user <http://ubuntusyndrome.wordpress.com/2009/04/23/linux-users-ar-to-ubuntu-users-what-men-are-to/>`__,
 which I think resonates both with the problem of `treating your users
-like idiots <http://tychoish.com/rhizome/idiot-users/>`__ and
+like idiots <http://tychoish.com/posts/idiot-users/>`__ and
 differently with the kerfuffle over `ubuntu
-one <http://tychoish.com/rhizome/freedom-and-ubuntu-one/>`__, though
+one <http://tychoish.com/posts/freedom-and-ubuntu-one/>`__, though
 this post is a direct sequel to neither post.
 
 The article in question makes critique (sort of) that a little bit of
@@ -94,5 +94,5 @@ being supplanted by things-that-aren't editors, say, is something that
 isn't too difficult to imagine.
 
 If the `singularity doesn't come
-first <http://tychoish.com/rhizome/the-dark-singularity/>`__, that is.
+first <http://tychoish.com/posts/the-dark-singularity/>`__, that is.
 

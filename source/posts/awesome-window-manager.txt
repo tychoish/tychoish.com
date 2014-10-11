@@ -7,7 +7,7 @@ Awesome Window Manager
    :tags: cyborg, technology, productivity, open-source
 
 Aside from doing
-`semi-perverse <http://tychoish.com/rhizome/git-mail/>`__ things with my
+`semi-perverse <http://tychoish.com/posts/git-mail/>`__ things with my
 email retrieval system, one of my most recent technical/digital
 obsessions has been with a X11-based window manager called
 `awesome <http://awesome.naquadah.org>`__. It's a tiling window manager,

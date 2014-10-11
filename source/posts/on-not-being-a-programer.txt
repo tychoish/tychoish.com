@@ -29,7 +29,7 @@ I think so, and it seems like other people think so as well.
 
 And more than just success doing the kind of work that I find myself
 doing right now, my
-`ongoing <http://tychoish.com/rhizome/keeping-time/>`__ academic
+`ongoing <http://tychoish.com/posts/keeping-time/>`__ academic
 projects tap into a similar superpower. I'm trying, on some level, to
 figure out what--if anything--is so unique about open source development
 practices, and how do these practices effect the way that the rest of us

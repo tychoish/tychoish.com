@@ -6,7 +6,7 @@ moleskining
    :author: tychoish
 
 I seem to have abanded the way that I do "have-done" lists. Read `this
-tealart entry <http://tychoish.com/rhizome/productivity-reports/>`__ for
+tealart entry <http://tychoish.com/posts/productivity-reports/>`__ for
 more on this. I've started writing this kind of thing out in the
 notebook but I'm not sure that this is the long term sort of solution.
 What I really want is some way of tracking word-counts in an effective

@@ -65,7 +65,7 @@ of the non-mac people used `Zend Studio <http://www.zend.com/>`__ or
 surprising thing, was the shear number of people who I saw using gmail
 and Firefox. Gmail is ok I guess, but it isn't brilliant and it isn't
 mutt, and surely I'm not the only one with `a gripe about
-firefox <http://tychoish.com/rhizome/mozilla-of-all-trades-master-of-_____/>`__.
+firefox <http://tychoish.com/posts/mozilla-of-all-trades-master-of-_____/>`__.
 
 Sorry for such an odd analysis of Drupal Camp Chicago 2008. I'm going to
 be working on some more... Drupalish for work, but while I'm a huge

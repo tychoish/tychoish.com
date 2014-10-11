@@ -20,7 +20,7 @@ runs in the terminal is fair game. That means `mutt for
 email <http://www.mutt.org/>`_, `vimperator for
 firefox <http://vimperator.mozdev.org/>`_, `mcabber for
 jabber <http://www.lilotux.net/~mikael/mcabber/>`_ (but there are `some
-issues here <http://tychoish.com/rhizome/the-mutt-of-im/>`_).
+issues here <http://tychoish.com/posts/the-mutt-of-im/>`_).
 `Terminator <http://www.ubuntugeek.com/terminator-multiple-gnome-terminals-in-one-window.html>`_
 is my favorite terminal/console program.
 `Irssi <http://www.irssi.org/>`_ for IRC. `Vim <http://www.vim.org/>`_

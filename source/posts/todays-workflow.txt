@@ -59,7 +59,7 @@ Zoe which I cary around with me almost all the time.
 4. `Quicksilver <http://quiksilver.blacktree.com/>`__
 
    This is *the* killer app, and I think that I've written `enough
-   <http://tychoish.com/rhizome/whining-about-command-lines/>`__ about
+   <http://tychoish.com/posts/whining-about-command-lines/>`__ about
    it here already. I use QS to do everything from updating my
    `twitter <http://www.twitter.com/tychoish/>`__, to organizing my
    files, to appending text files, to powering a host of quick

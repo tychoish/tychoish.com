@@ -13,8 +13,8 @@ First up, jfm and I have been continuing the discussion we had
 about task lists in a new
 discussion of the
 :doc:`/posts/mobile-productivity-challenges`. I've also imported some
-:doc:`:conversation from facebook </rhizome/cyborg-analysis-and-technology-policy/discourse>`
-following up on the :doc:`:Cyborg Analysis and Technology Policy </rhizome/cyborg-analysis-and-technology-policy>` post that I made
+:doc:`:conversation from facebook </posts/cyborg-analysis-and-technology-policy/discourse>`
+following up on the :doc:`:Cyborg Analysis and Technology Policy </posts/cyborg-analysis-and-technology-policy>` post that I made
 this last week. I'm really *really* proud of the extent to which the
 comments and edits that I've gotten have made my writing and thinking
 clearer on these subjects.
@@ -24,7 +24,7 @@ correct stupid typos. Sorry to have caused the trouble, and I'm
 eternally grateful for the helping hand.
 
 Next up, I wrote a :doc:`document </documentation>` for a reader who
-commented in the :doc:`Make Emacs Better </rhizome/make-emacs-better>` thread.
+commented in the :doc:`Make Emacs Better </posts/make-emacs-better>` thread.
 The question addressed how to load optional functionality and
 "contributed" lisp code in emacs, and I wrote 
 :doc:`a little tutorial on how to load .el files in emacs </documentation/managing-emacs-configuraiton-and-lisp-systems>`. 

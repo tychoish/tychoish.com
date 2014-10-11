@@ -5,7 +5,7 @@ Hard is Good
 .. post:: 2013-08-04
    :author: tychoish
 
-In :doc:`the hard part of software </rhizome/the-hard-part-of-software>` you
+In :doc:`the hard part of software </posts/the-hard-part-of-software>` you
 could easily chose to read the word "hard" as "sucky," which makes it
 seem like a big whine on the topic of "polishing your work is hard and
 annoying," but really, that's unfair.

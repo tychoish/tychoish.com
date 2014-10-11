@@ -6,9 +6,9 @@ Content Management Beyond Wordpress
    :author: Sam Kleinman
 
 As a follow up to my, surprisingly popular post on the `Limitations of
-Wordpress <http://tychoish.com/rhizome/wordpress-limitations/>`__, and
+Wordpress <http://tychoish.com/posts/wordpress-limitations/>`__, and
 also I suppose my post on `the current status of
-tumblelogs <http://tychoish.com/rhizome/tumblr-killed-the-tumblelog-star/>`__,
+tumblelogs <http://tychoish.com/posts/tumblr-killed-the-tumblelog-star/>`__,
 I wanted to ruminate on "where Wordpress" is as a piece of software (and
 a platform,) and what the whole content management *space* looks like
 today.

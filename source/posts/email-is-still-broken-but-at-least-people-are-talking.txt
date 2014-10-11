@@ -73,9 +73,9 @@ I don't think there are good answers yet, at all, and I look forward to
 continuing to thing about these issues in a *big* way.
 
 .. [1] I think this might tie back to my `posts
-   on <http://tychoish.com/rhizome/notifications-and-computing-contexts>`__
+   on <http://tychoish.com/posts/notifications-and-computing-contexts>`__
    `notification
-   systems <http://tychoish.com/rhizome/how-id-like-to-be-notified>`__,
+   systems <http://tychoish.com/posts/how-id-like-to-be-notified>`__,
    but more along the lines of what we currently use SMS for (say,) but
    I'm not sure what this looks like in a personal (much less
    interpersonal) method. Lots and lots of whitelisting, that's for

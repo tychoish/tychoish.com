@@ -70,7 +70,7 @@ will avoid it and run the build less frequently, and on the whole the
 development effort looses important feedback and data.
 
 Continuous integration systems help with this, but they require
-significant resources, are :doc:`clumsy solutions <//rhizome/cron-is-the-wrong-solution>`, and above all, CI
+significant resources, are :doc:`clumsy solutions <//posts/cron-is-the-wrong-solution>`, and above all, CI
 attempts to solve a slightly different problem.
 
 Optimizing Builds

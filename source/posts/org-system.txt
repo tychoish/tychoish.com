@@ -7,11 +7,11 @@ org system
    :tags: org-mode, emacs, cyborg
 
 The `last time I talked about org-mode, I covered a number of my
-"beginner mistakes," <http://tychoish.com/rhizome/org-mode/>`__, this
+"beginner mistakes," <http://tychoish.com/posts/org-mode/>`__, this
 time I think it'd be a bit more productive to explain how I'm actually
 using `org-mode <http://www.orgmode.org/>`__. For those of you playing
 at home this is one of those `systems I talked
-about <http://tychoish.com/rhizome/of-the-system/>`__.
+about <http://tychoish.com/posts/of-the-system/>`__.
 
 I'm going to try and avoid including bits of code/lisp in this post, as
 I don't want to confuse "what I'm doing," with "how I'm doing it." We'll

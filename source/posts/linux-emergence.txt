@@ -8,7 +8,7 @@ Linux Emergence
 
 *Here's a little bit about emergence/systems theory and open source, as
 promised in my `change
-process <http://tychoish.com/rhizome/theories-of-change>`__ post a while
+process <http://tychoish.com/posts/theories-of-change>`__ post a while
 back.*
 
 I was reading `this

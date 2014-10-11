@@ -7,7 +7,7 @@ Linux UI Tweaking
 
 I've written here a little about the problems I have with the options
 for `user interfaces in
-linux <http://tychoish.com/rhizome/production-ready/>`__, and while *for
+linux <http://tychoish.com/posts/production-ready/>`__, and while *for
 me* Awesome goes a long way toward s fixing these issues,
 particularly/even on smaller screens, but I continue to think that
 paying more attention to user interface issues will be a very good thing

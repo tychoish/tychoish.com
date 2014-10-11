@@ -7,7 +7,7 @@ Whiteness and Diversity
    :tags: literature, philosophy, politics
 
 This post is a follow up to my earlier :doc:`post on diversity and
-representation </rhizome/representation-and-race-futurism>`. In short,
+representation </posts/representation-and-race-futurism>`. In short,
 while I think it's great that we're beginning to talk and write about
 race and representation in our fiction and field, I think we [1]_ need
 to expand our analysis of whiteness.

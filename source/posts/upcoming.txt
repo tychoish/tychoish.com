@@ -52,7 +52,7 @@ not interesting. So I'll probably continue to blog about producivity,
 but much less than I have been.
 
 I'm interested in writing more about open source stuff. `My post about
-drupal <http://tychoish.com/rhizome/on-drupal-and-product-design/>`__
+drupal <http://tychoish.com/posts/on-drupal-and-product-design/>`__
 was a lot of fun, and I've had some other thoughts which will
 (hopefully) germinate into full grown posts in the next couple of weeks.
 

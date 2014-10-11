@@ -59,7 +59,7 @@ class tomorrow.
 
 - Randal Schwartz, one of the hosts behind the open source podcast
   (FLOSS "Weekly") I `mentioned
-  yesterday <http://tychoish.com/rhizome/drive-brain/>`__, saw the
+  yesterday <http://tychoish.com/posts/drive-brain/>`__, saw the
   google juice and commented (woot! auto-notifiers, I suppose; not
   linking to it in this post for that reason I guess.) It's not
   actually a weekly, which is fine by me, because I am all sorts of

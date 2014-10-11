@@ -22,7 +22,7 @@ probably tell from my use of verb tenses here, I haven't done this yet.
 That's because I was working on this "open source knitting" project that
 I've been milling over for a few days now. I wrote a series of five
 TealArt style posts, `outlined
-here <http://tychoish.com/rhizome/open-source-knitting/>`__ that I think
+here <http://tychoish.com/posts/open-source-knitting/>`__ that I think
 lays down some good framework for my work in the future on creating some
 documentation for knitting in an open-source framework. The first of
 these essays will go up this week, but I don't think it would be right

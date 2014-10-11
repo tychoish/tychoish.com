@@ -17,15 +17,15 @@ slowly.
 
 I've posted a number of new rhizomes in the last week. They are:
 
-- :doc:`Security isn't A Technological Problem </rhizome/security-isnt-a-technological-problem>`, A post in
+- :doc:`Security isn't A Technological Problem </posts/security-isnt-a-technological-problem>`, A post in
   my series about addressing problems in IT as human-issue, that need
   documentation and training rather than more software.
 
-- :doc:`These Shoes Were Made for Cyborgs </rhizome/these-shoes-were-made-for-cyborgs>`, which attempts
+- :doc:`These Shoes Were Made for Cyborgs </posts/these-shoes-were-made-for-cyborgs>`, which attempts
   to limit the potential for overly expansive theorizing of "the
   cyborg," in a common but not overly productive manner.
 
-- :doc:`Little Goals and Big Projects </rhizome/little-goals-and-big-projects>`, a list of projects
+- :doc:`Little Goals and Big Projects </posts/little-goals-and-big-projects>`, a list of projects
   that I want to work on. Think mid-year resolutions meet five-year
   plan, meet time management review.
 
@@ -33,14 +33,14 @@ I've posted a number of new rhizomes in the last week. They are:
   edited the following pages:
 
 - I imported some comments from Facebook regarding my
-  :doc:`intellectual-practice </rhizome/intellectual-practice>` post onto
-  the :doc:`discourse </rhizome/intellectual-practice/discourse>` page.
+  :doc:`intellectual-practice </posts/intellectual-practice>` post onto
+  the :doc:`discourse </posts/intellectual-practice/discourse>` page.
   These comments are pretty valuable and I've found the conversation
   useful, hopefully you will too. Feel free to add your own comments
   there.
 
-- Similarly, I imported some comments onto the :doc:`discourse page </rhizome/career-pathways/discourse>`
-  for the :doc:`Career Pathways </rhizome/career-pathways>` post.
+- Similarly, I imported some comments onto the :doc:`discourse page </posts/career-pathways/discourse>`
+  for the :doc:`Career Pathways </posts/career-pathways>` post.
 
 - In response to one of the comments the Intellectual Practice
   post, I put together a pedagogy page, including some *very* rough

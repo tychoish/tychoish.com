@@ -8,7 +8,7 @@ Awesome Projects
 This is part three, in my ongoing series on the `Awesome window
 manager <http://awesome.naquadah.com/>`_. For an `introduction to what
 Awesome is, read part one <http://tychoish.com/cyborg/awesome-article>`_, and for some of my `complaints/gripes
-about Awesome <http;//tychoish.com/rhizome/awesome-problems>`_. This post is more a collection of "things that
+about Awesome <http;//tychoish.com/posts/awesome-problems>`_. This post is more a collection of "things that
 should be done about awesome."
 
 In a lot of ways this post brings up a number of points that aren't

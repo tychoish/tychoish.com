@@ -7,7 +7,7 @@ mcabber and IM
    :tags: technology, internet, infrastructure
 
 I've always rather enjoyed `this
-post <http://tychoish.com/rhizome/the-mutt-of-im/>`__ that I wrote about
+post <http://tychoish.com/posts/the-mutt-of-im/>`__ that I wrote about
 instant messaging programs. My issue is that I use IM a lot. A lot. I
 communicate with colleagues, friends, and frankly, if you want to get a
 hold of me, IM is often the best way to do this, and frankly for a lot

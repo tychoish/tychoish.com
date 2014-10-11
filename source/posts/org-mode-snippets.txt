@@ -8,7 +8,7 @@ org-mode snippets
 
 I promised that I'd post some of the stuff from my .emacs file that
 makes my `org-mode <http://www.orgmode.org>`__
-`system <http://tychoish.com/rhizome/org-mode/>`__ work. Here we are.
+`system <http://tychoish.com/posts/org-mode/>`__ work. Here we are.
 
 There are some basic settings that I use on all major modes that I use
 in emacs. Basically, I want to attach the spell checker (the minor

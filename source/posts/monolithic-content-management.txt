@@ -6,7 +6,7 @@ Monolithic Content Management
    :author: tychoish
 
 When I was writing about `the redesign of
-tychoish.com <http://tychoish.com/rhizome/blog-refresh/>`__, I mentioned
+tychoish.com <http://tychoish.com/posts/blog-refresh/>`__, I mentioned
 that I needed to write an essay here about "monolithic vs. micro
 (kernel) approaches to content management." Referencing an old (and
 mostly settled) debate in operating system design [1]_, think it might

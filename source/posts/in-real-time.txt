@@ -13,7 +13,7 @@ lot of data pretty close to real time), and then there's
 `tweet.im <http://www.tweet.im/>`__ which *finally* brings something
 approaching real time twitter interaction back to those of us who have
 `been begging for a real time/xmpp twitter interface for a
-while <http://tychoish.com/rhizome/micro-jabbering/>`__.
+while <http://tychoish.com/posts/micro-jabbering/>`__.
 
 Though to be honest, I think that the lag is a bit more than 30 seconds,
 but I'm not sure and I'm not going to quibble for now. Actually I'm not

@@ -20,7 +20,7 @@ encyclopedias need to minimize this for the sake of their projects. But
 this is a criticism of encyclopedias in general, not specifically of
 wikipedia or wiki-style encyclopedic project. And I think I should be
 quick to reiterate a point that I've `made
-before <http://tychoish.com/rhizome/wiki-hyperdigitaltext/>`__ that the
+before <http://tychoish.com/posts/wiki-hyperdigitaltext/>`__ that the
 wiki format should not really be defined by the encyclopedic structure
 despite the success of wikipedia.
 
@@ -74,7 +74,7 @@ This isn't to draw attention or notice away from Sarah Bradburry's
 is a great project, but I think there are some serious reasons to
 consider a more GPL/GFDL like approach. This fits in line with my
 earlier discussion about `monitizing
-creativity <http://tychoish.com/rhizome/being-an-artist-and-paying-the-bills/>`__,
+creativity <http://tychoish.com/posts/being-an-artist-and-paying-the-bills/>`__,
 and also I think it would be worthwhile to reconsider the analogy
 between open source software and knitting, because it seems to me that
 if open source is such good idea for software (and I think it is in the

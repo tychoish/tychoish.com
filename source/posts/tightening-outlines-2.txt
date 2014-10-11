@@ -7,7 +7,7 @@ tightening outlines #2
    :tags: writing
 
 I'm a big fan of outlines. I wrote `this post about tightening
-outlines <http://tychoish.com/rhizome/tightening-outlinestightening-outlines>`__
+outlines <http://tychoish.com/posts/tightening-outlinestightening-outlines>`__
 about my approach to *making outlines better* that I've been using most
 recently. This post, in turn is more about execution.
 

@@ -140,8 +140,8 @@ Above all, I can't wait to see what happens.
 
 .. [2] I wrote a series of posts a few weeks ago on the subject in
    three parts: `one
-   <http://tychoish.com/rhizome/technology-as-infrastructure-act-one>`__,
+   <http://tychoish.com/posts/technology-as-infrastructure-act-one>`__,
    `two
-   <http://tychoish.com/rhizome/technology-as-infrastructure-act-two>`__,
+   <http://tychoish.com/posts/technology-as-infrastructure-act-two>`__,
    and `three
-   <http://tychoish.com/rhizome/technology-as-infrastructure-act-three>`__
+   <http://tychoish.com/posts/technology-as-infrastructure-act-three>`__

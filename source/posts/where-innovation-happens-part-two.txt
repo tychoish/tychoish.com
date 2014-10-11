@@ -7,7 +7,7 @@ Where Innovation Happens, Part Two
    :tags: economics
 
 In my `post against the venture capital
-model <http://tychoish.com/rhizome/venture-capital-and-software/>`__ I
+model <http://tychoish.com/posts/venture-capital-and-software/>`__ I
 think one key question that I think I failed to answer is "If we do away
 with venture capital, where does innovation happen?" This post locates a
 number of potentials answers to this question.

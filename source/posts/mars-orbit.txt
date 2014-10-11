@@ -20,7 +20,7 @@ transit times into my plots and stuff like that, so that there's at
 least some sense of a "price" for technologies that seem too good to be
 true. And I think in some ways this connects to some sort of notion of
 `constrained
-creativity <http://tychoish.com/rhizome/constrained-creativity/>`__ and
+creativity <http://tychoish.com/posts/constrained-creativity/>`__ and
 particularly in fiction this is what makes stories interesting
 
 So, in pursuit of making this work I occasionally find myself looking up

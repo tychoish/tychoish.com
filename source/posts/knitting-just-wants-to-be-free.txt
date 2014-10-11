@@ -6,7 +6,7 @@ knitting just wants to be free
    :author: tychoish
 
 `Open Source Knitting: Part
-1 <http://tychoish.com/rhizome/osk-open-knitting/>`__
+1 <http://tychoish.com/posts/osk-open-knitting/>`__
 
 This is the first installment in a new series for TealArt that I wrote
 about knitting and the knitting community, and it's connections to the

@@ -92,7 +92,7 @@ is the way to go:
   by all of the different widgets. The only way to ensure that this is
   the case is to use open and standard data formats. This is good for
   the user and good for the programer as a `creative
-  constraint <http://tychoish.com/rhizome/constrained-creativity/>`__.
+  constraint <http://tychoish.com/posts/constrained-creativity/>`__.
 
 - This model more closely reflects *the way we actually think*. Our
   minds are made up of a bunch of smaller abilities. The ability to

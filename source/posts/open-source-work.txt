@@ -7,7 +7,7 @@ Open Source Work
    :tags: cyborg, open-source, free-software
 
 So I may have my `beef
-with <http://tychoish.com/rhizome/open-source-freedom/>`__ with the
+with <http://tychoish.com/posts/open-source-freedom/>`__ with the
 software *as* freedom, [1]_ none the less I think we can learn some
 pretty interesting things about freedom and politics from thinking about
 what open source means. In this vein recently, I've been thinking more
@@ -17,7 +17,7 @@ in unique and special ways. Here's some thoughts on the
 "politics/economy of work in open source."
 
 On some deep level open source software resists the traditional
-`scarcity <http://tychoish.com/rhizome/on-scarcity/>`__ economic model.
+`scarcity <http://tychoish.com/posts/on-scarcity/>`__ economic model.
 There is no property, intellectual or otherwise, that you *can* exchange
 for money in a way resembling the normal way. With that option off of
 the table the open source community has to come up with other ways of

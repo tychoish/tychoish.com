@@ -9,7 +9,7 @@ Ok, I've stayed off the tech post topic for a while, and now I have a
 question.
 
 This post follows, to my mind, an `earlier
-one <http://tychoish.com/rhizome/markers-of-progress/>`__ I made about
+one <http://tychoish.com/posts/markers-of-progress/>`__ I made about
 subversion and using version control commits as a way to track
 productivity. Or at least that's what I was thinking about. There's also
 been `a post about version control on 43

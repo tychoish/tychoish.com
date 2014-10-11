@@ -59,7 +59,7 @@ redundancy, which aren't exactly the makings for a good progress
 narrative.
 
 `Netbooks also represent the failure of the technological progress
-narrative <http://tychoish.com/rhizome/netbooks/>`__ as they aren't so
+narrative <http://tychoish.com/posts/netbooks/>`__ as they aren't so
 much bigger/better/faster as they are a recomercialized version of the
 very best of laptop technology circa 1998. This isn't to say that the
 march of technology hasn't made netbooks possible, because that's a

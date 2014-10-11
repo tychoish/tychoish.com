@@ -5,7 +5,7 @@ Not Writing
 .. post:: 2008-11-25
    :author: tychoish
 
-I've had `one hell of a week <http://tychoish.com/rhizome/so-tired/>`__,
+I've had `one hell of a week <http://tychoish.com/posts/so-tired/>`__,
 and at least somewhat understandably, I haven't been writing very much
 this past week. Which is really odd for me because I'm *always* writing.
 While the cause of this vacation from writing was acute and

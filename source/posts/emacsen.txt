@@ -19,7 +19,7 @@ Emacs was always that overly complicated editor that did too much, and
 vim's modal [1]_ design is kinda brilliant, and I was taken.
 
 But as I've `said
-before <http://tychoish.com/rhizome/editor-crisis/>`__, vim is great,
+before <http://tychoish.com/posts/editor-crisis/>`__, vim is great,
 but it's not perfect for what I'm doing. My MO in TextMate has been to
 use it to do as many things as I can. Which is more inline with the way
 that people tend to use emacs. So I switched (haven't started to use it

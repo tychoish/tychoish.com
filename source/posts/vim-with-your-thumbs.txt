@@ -6,7 +6,7 @@ vim with your thumbs!
    :author: tychoish
 
 News flash it turns out that the `n800 does have
-VIM <http://tychoish.com/rhizome/new-computer/>`__. And nano, if you
+VIM <http://tychoish.com/posts/new-computer/>`__. And nano, if you
 want it. Frankly, I think that's pretty darn swell, and I think running
 nano with your thumbs would be a lot easier and more desireable than
 learning vim, though I could see the appeal, if you had

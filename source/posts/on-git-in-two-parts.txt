@@ -20,7 +20,7 @@ notice <http://identi.ca/notice/4289351>`__:
 server + usb drive solution. My git repos breed like rabbits!
 
 Which basically sums up `my opinion on
-ubuntuone <http://tychoish.com/rhizome/freedom-and-ubuntu-one/>`__. But
+ubuntuone <http://tychoish.com/posts/freedom-and-ubuntu-one/>`__. But
 I thought that the "my git repos breed like rabbits" was both accurate
 (git repositories are designed to be replicated in their entirety), and
 a sort of funny way to put it. And being the kind of person that I am, I
@@ -61,7 +61,7 @@ programming.
 So aside from storing my writing projects, and my
 `orgmode <http://www.orgmode.org>`__, `I do things like store all of my
 mail directories in git. Which you might think is kind of
-weird <http://tychoish.com/rhizome/git-mail-3/>`__, but the truth is
+weird <http://tychoish.com/posts/git-mail-3/>`__, but the truth is
 that it makes keeping lots of computers in sync a rather simple
 proposition, and its damn fast.
 
@@ -71,7 +71,7 @@ non-mail related scripts, various configuration files. and so forth. It
 started out as a backup and workspace for smaller projects, but it's
 since morphed into "that one thing I need to have of my computer in
 order to actually work." When I was `setting up the
-server <http://tychoish.com/rhizome/adventures-in-systems-administration>`__
+server <http://tychoish.com/posts/adventures-in-systems-administration>`__
 it took a thousand things that might have been huge headaches and made
 them non-issues. Here's what this repo looks like:
 

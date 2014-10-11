@@ -6,7 +6,7 @@ On Jabber/XMPP
    :author: tychoish
 
 I've posted a bit a while back about Jabber and my trials with `finding
-a good client <http://tychoish.com/rhizome/the-mutt-of-im/>`__, and how
+a good client <http://tychoish.com/posts/the-mutt-of-im/>`__, and how
 `I think that jabber is the
 key <http://tychoish.com/2008/09/micro-jabbering/>`__ to making
 `microblogging <http://www.identi.ca/tychoish>`__ really work. As I've

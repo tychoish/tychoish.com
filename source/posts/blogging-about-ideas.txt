@@ -41,7 +41,7 @@ I'd like to put out 4 *general* theories for your consideration about
 
 4. Blog posts need to be short. (Guilty as charged!) Blogs are meant to
    be read in concert with other blogs, and time is
-   `scarce <http://tychoish.com/rhizome/on-scarcity/>`__. Also attention
+   `scarce <http://tychoish.com/posts/on-scarcity/>`__. Also attention
    is scarce. And really if you're only talking about one idea, getting
    it into ~400 words is hard, but it's something to aim for.
 

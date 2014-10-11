@@ -6,11 +6,11 @@ Don't Get it Right, Get it Read
    :author: tychoish
 
 This post is mostly about things I've `read/am
-reading <http://tychoish.com/rhizome/new-year/>`__, but I have a few
+reading <http://tychoish.com/posts/new-year/>`__, but I have a few
 administrative issues to get out of the way first.
 
 I'm `still up in the air about the new name or tagline for
-tychoish <http://tychoish.com/rhizome/naming/>`__. I learned that I was
+tychoish <http://tychoish.com/posts/naming/>`__. I learned that I was
 misremembering the "early days of a better nation quote," which make it
 difficult to serve as a new blog title. "Work as if you were living--"
 is kinda dumb, even if you modify it to "think" or "write." And I think
@@ -71,7 +71,7 @@ Anyway, that's all I have on that. I'll be in touch.
 
 Onward and Upward!
 
-.. [1] I (`automatically <http://tychoish.com/rhizome/wordpress-livejournal-crossposting/>`__)
+.. [1] I (`automatically <http://tychoish.com/posts/wordpress-livejournal-crossposting/>`__)
    cross-post the content of this blog to a similarly titled live
    journal, and the comments over there are open, so sometimes
    discussions pop up over there. This is perhaps not ideal from the

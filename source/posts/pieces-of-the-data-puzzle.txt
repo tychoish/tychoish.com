@@ -7,7 +7,7 @@ Pieces of the Data Puzzle
 
 I'd like to talk a bit about what I've come up with in terms of data
 management/research organizational tools. So in my `last post on this
-subject <http://tychoish.com/rhizome/data-management/>`__ I mentioned
+subject <http://tychoish.com/posts/data-management/>`__ I mentioned
 that I had hacked together a shell script that did a lot of what I
 needed. Rather than look for the "one right" OS X tool (which I don't
 think really exists at this point,) I've worked on collecting extant

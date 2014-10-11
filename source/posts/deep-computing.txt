@@ -6,7 +6,7 @@ Deep Computing
    :author: tychoish
 
 So here's another `report on my
-Linux <http://tychoish.com/rhizome/linuxing/>`__ usage:
+Linux <http://tychoish.com/posts/linuxing/>`__ usage:
 
 For some unknown reason I tried to upgrade to Ubuntu Intrepid (8.10)
 last weekend. Which failed epically. So I reinstalled, which has gone...
@@ -37,7 +37,7 @@ totally absorbed yet.
 
 My current conclusion is that I'm going to have to find some sort of
 `new way of managing and interacting with my text
-editors <http://tychoish.com/rhizome/linux-switching-and-editors/>`__.
+editors <http://tychoish.com/posts/linux-switching-and-editors/>`__.
 Rather than have a bunch of different instances of the editor open (as I
 might do with vim or TextMate) I'll probably figure out some way to work
 with two instances of emacs open, one for each screen and just move

@@ -19,7 +19,7 @@ willing to sacrifice [1]_ some raw power for this.
 So here I was with a dual head setup, and a sort of lackluster idea of
 how to use all this new space, aside from the visceral knowledge that
 needed *more room*. I've tried `a few
-things <http://tychoish.com/rhizome/n-plus-one/>`__ to try and use the
+things <http://tychoish.com/posts/n-plus-one/>`__ to try and use the
 space, but I continue to feel as if I haven't found the *right* way to
 use this space.
 

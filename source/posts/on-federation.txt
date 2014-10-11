@@ -5,7 +5,7 @@ On Federation
 .. post:: 2008-09-16
    :author: tychoish
 
-In my post on `Open ID <http://tychoish.com/rhizome/open-id/>`__ I said
+In my post on `Open ID <http://tychoish.com/posts/open-id/>`__ I said
 that I'd continue that train of thought with a post about federation, so
 here we are. This post starts, however, a bit before that one ends,
 somewhere a little different. Stick with me though:
@@ -14,7 +14,7 @@ The greatest thing about
 `Unix-like <http://en.wikipedia.org/wiki/Unix-like>`__ operating systems
 (at least conceptually, to me) is the concept of the pipe. This isn't
 new of course, but the pipe is the tool by which the output of the small
-`widget like <http://tychoish.com/rhizome/open-source-freedom/>`__ unix
+`widget like <http://tychoish.com/posts/open-source-freedom/>`__ unix
 programs can be "piped" into another application. The pipe works on
 anything in a plain text format (basically) and takes what would
 otherwise be a really fragmented computing enviroment and turns it into

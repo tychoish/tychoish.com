@@ -18,7 +18,7 @@ Discussion of Rhizomes
 ----------------------
 
 jfm and I had a good exchange about an old post
-:doc:`/rhizome/ideology-and-systems-administration/discourse`.
+:doc:`/posts/ideology-and-systems-administration/discourse`.
 Basically the posts says, "systems administrators have a unique
 approach to solving technological problems," and discussed the
 implications of systems administrators background on technology
@@ -26,10 +26,10 @@ development. I think our clarifications were useful.
 
 There are a couple of comments on my recent series on a
 productivity. First, I wrote a post about 
-:doc:`task planning and creating task items </rhizome/create-better-task-items>`,
+:doc:`task planning and creating task items </posts/create-better-task-items>`,
 and Matt posted a comment.
 Second, a number of us had an ongoing conversation on mobile
-productivity in response to the ":doc:`Mobile Productivity Challenges </rhizome/mobile-productivity-challenges>`" post
+productivity in response to the ":doc:`Mobile Productivity Challenges </posts/mobile-productivity-challenges>`" post
 that touched on emacs (of course!) input, and context switching.
 
 Site Tweaks
@@ -48,7 +48,7 @@ subject might be good.
 Critical Futures and Wiki Fiction
 ---------------------------------
 
-As a build on top of my":doc:`Wiki Fiction </rhizome/wiki-fiction>`" post,
+As a build on top of my":doc:`Wiki Fiction </posts/wiki-fiction>`" post,
 I've moved the pages that had been located on the :doc:`/critical-futures`
 page to :doc:`previous/critical-futures </previous/critical-futures>`.
 Eventually the story will move to the *Critical Futures* domain, but
@@ -64,7 +64,7 @@ External Links
 
 I came across a blog from the
 comment on the 
-:doc:`make emacs better </rhizome/make-emacs-better>` post that I wanted to offer as a
+:doc:`make emacs better </posts/make-emacs-better>` post that I wanted to offer as a
 link `The Babbage Files <http://babbagefiles.blogspot.com/>`__ is a
 great cyborg/emacs/free software blog.
 

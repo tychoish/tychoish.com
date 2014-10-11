@@ -24,7 +24,7 @@ Hopefully these will get included in relevant planets soon for your
 reading pleasure.
 
 There's also been some :doc:`discussion </bad-org-mode-habits/discourse>` on
-the ":doc:`Bad Org Mode Habits </rhizome/bad-org-mode-habits>`" post. You may be
+the ":doc:`Bad Org Mode Habits </posts/bad-org-mode-habits>`" post. You may be
 interested.
 
 As an aside: the astute among you will notice that Matt Lundin

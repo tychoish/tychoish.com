@@ -13,7 +13,7 @@ classic sense.
 --------------
 
 So I posted a while back about how there seems to be an `application
-development trend <http://tychoish.com/rhizome/browseros/>`__ away from
+development trend <http://tychoish.com/posts/browseros/>`__ away from
 desktop operating systems and towards developing applications that can
 be used online in a web browser.
 

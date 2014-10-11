@@ -52,7 +52,7 @@ notion that I've been toting for months. Thus,
 
   One part of my own thinking on this issue has revolved around looking
   for `mechanisms that produce
-  change <http://tychoish.com/rhizome/revolutionary-communities>`__ and I
+  change <http://tychoish.com/posts/revolutionary-communities>`__ and I
   think Praxis is particularly interesting from a mechanistic perspective.
 
 - Praxis presents a case of a revolutionary-scale change, with

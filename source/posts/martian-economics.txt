@@ -28,10 +28,10 @@ One of the things that I've really enjoyed thinking about while reading
 *Green* and *Blue Mars* is that Robinson does a lot of economic
 theorizing and imagination. I find this an interesting playground as a
 `lesson from
-fiction <http://tychoish.com/rhizome/lessons-from-fiction>`__, and also
+fiction <http://tychoish.com/posts/lessons-from-fiction>`__, and also
 as a productive consideration of the issues I began to talk about in my
 `essay on co-ops, competition, and
-openness <http://tychoish.com/rhizome/coops-competition-openness>`__.
+openness <http://tychoish.com/posts/coops-competition-openness>`__.
 
 So read the book, particularly if you haven't or if you're interested in
 thinking about economic systems and potentials, but the current economy
@@ -48,7 +48,7 @@ here is that--on Mars--there's no countryside, and that farming (because
 it's attached to cities because of the Atmosphere issue). While this is
 a vast oversimplification--of course--he's right: `new age hacker-type
 economic
-models <http://tychoish.com/rhizome/coops-competition-openness>`__ need
+models <http://tychoish.com/posts/coops-competition-openness>`__ need
 to consider "industries" like materials engineering and food production
 more than they currently do.
 

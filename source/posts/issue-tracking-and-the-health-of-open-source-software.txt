@@ -35,7 +35,7 @@ As a starting point, I'd like to offer two conjectures:
   since these kinds or projects lack formal procedures and designated
   roles to do this kind of organizational work.
 
-While the overriding goal of :doc:`personal task management </rhizome/better-task-lists>` 
+While the overriding goal of :doc:`personal task management </posts/better-task-lists>` 
 is to break things into the smallest manageable work units, the
 overriding goal of issue tracking systems is to track the most
 intellectually discrete issues within a single project through the

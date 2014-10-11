@@ -6,7 +6,7 @@ still trying
    :author: tychoish
 
 I futzed around with `this
-idea <http://tychoish.com/rhizome/someone-make-this-work/>`__ for a bit
+idea <http://tychoish.com/posts/someone-make-this-work/>`__ for a bit
 using php bloxsom, and well, I got it to handle markdown the way I want
 it to, and the page header stuff. but other than that. not so much.
 sigh. well what's time anyway.

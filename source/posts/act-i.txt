@@ -15,7 +15,7 @@ games <http://www.bit-tech.net/gaming/2007/10/08/how_to_write_an_adventure_game/
 which I'm going to be reading in more depth as I plan the second part. I
 can feel it starting to get together, so that's good. I've talked before
 about my trials with
-"`research <http://tychoish.com/rhizome/what-does-research-mean/>`__\ "
+"`research <http://tychoish.com/posts/what-does-research-mean/>`__\ "
 in the context of my writing, and I think I'm doing better with this,
 and won't bore you with the details.
 

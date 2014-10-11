@@ -6,8 +6,8 @@ On Pseudonymity
    :author: tychoish
 
 I've written before about `why I use a
-pseudonym <http://tychoish.com/rhizome/pseudonym/>`__ and about the
-`importance of naming <http://tychoish.com/rhizome/naming/>`__, but
+pseudonym <http://tychoish.com/posts/pseudonym/>`__ and about the
+`importance of naming <http://tychoish.com/posts/naming/>`__, but
 there one aspect of this whole "being tycho" thing that I've never
 really articulated, mostly because I think they're hard to explain.
 

@@ -14,7 +14,7 @@ Better Living Through Regular Expressions #3
 **G:** Remember last week?
 
 **H:** what with the [[^\\n\\t][^\\W\\w]]
-`here <http://tychoish.com/rhizome/better-living-through-regexp-a-day-in-the-land-of-gh/>`__
+`here <http://tychoish.com/posts/better-living-through-regexp-a-day-in-the-land-of-gh/>`__
 
 **G:** yeah
 

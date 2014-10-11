@@ -48,7 +48,7 @@ A lot of my problems with this set up could surely be solved by using
 POP rather than IMAP, but after a year or so with IMAP (and gmail) I
 feel like the combination of the back up and having this account be
 useable and web-accessible is really ideal. `I
-promised <http://tychoish.com/rhizome/long-hands>`__ a post here on
+promised <http://tychoish.com/posts/long-hands>`__ a post here on
 backup, and while I also can't get into this here, I'm *through* with
 having my own machine be the only copy of important emails.
 

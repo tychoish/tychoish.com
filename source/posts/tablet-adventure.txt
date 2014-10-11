@@ -6,7 +6,7 @@ Tablet Adventure
    :author: tychoish
 
 So, after all my talk the other week about
-`netbooks <http://tychoish.com/rhizome/netbooks/>`__ and such things, I
+`netbooks <http://tychoish.com/posts/netbooks/>`__ and such things, I
 broke down and got a new computer. Which wasn't exactly needful, but
 it's quite nice, and I think it'll feature rather heavily in m posts
 this week. Sorry if this is too far afield for some. I hope suspect that
@@ -37,7 +37,7 @@ on. And it helps that this model has some other features that I think
 are nifty. Like it doesn't have a touch pad (opting for the "nipple"
 button between the 'g' and 'h' keys) and it's a Tablet, which makes it
 ideal for `reading
-things <http://tychoish.com/rhizome/reading-stuff/>`__
+things <http://tychoish.com/posts/reading-stuff/>`__
 
 One thing that I had been really worried about before hand was the ease
 of getting linux onto this system. Laptops are fineky, or they can be

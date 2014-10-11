@@ -7,7 +7,7 @@ gentoo/vms suck
 
 Ok, so I really want to like Gentoo Linux. Really, rather a lot. And I
 even `wrote a post about how awesome VMs
-were <http://tychoish.com/rhizome/vms-for-all/>`__. But here's the issue
+were <http://tychoish.com/posts/vms-for-all/>`__. But here's the issue
 of the hour.
 
 I wanted to try gentoo, because I was kind of sick of having to fight

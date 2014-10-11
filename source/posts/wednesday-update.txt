@@ -21,7 +21,7 @@ is the last scene in this chapter, and I'll post it in three chapters.
 After that, we're going to get PDFs of Chapters 4-6, and I'll be posting
 more about that in time. Thanks to `everyone's replies to my post about
 my emacs
-process <http://tychoish.com/rhizome/things-to-learn-in-emacs/>`__, both
+process <http://tychoish.com/posts/things-to-learn-in-emacs/>`__, both
 on the thread and on `identi.ca <http://identi.ca/tychoish/replies>`__.
 I'm much impressed with all of your wisdom, and assistance. I didn't
 know about wdired-mode which I shall explore, and while I did know about

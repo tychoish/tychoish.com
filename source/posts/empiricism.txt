@@ -16,7 +16,7 @@ Yesterday I wrote the begining of a 2,000 word essay/concept paper for a
 structured hypertext system that I'm trying to get
 `Chris <http://www.cgkreality.com/>`__ to collaborate with me on. This
 was the other result of `this
-conversation <http://tychoish.com/rhizome/audience-and-community/>`__,
+conversation <http://tychoish.com/posts/audience-and-community/>`__,
 and even if nothing comes of this project, I'm pleased that I was able
 to write something like this. It was the closest I've gotten to writing
 a real academic-ish essay in months.

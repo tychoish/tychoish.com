@@ -6,7 +6,7 @@ Rethinking git-mail
    :author: tychoish
 
 Last month I told you all about `this funky new
-way <http://tychoish.com/rhizome/git-mail/>`__ way I've been downloading
+way <http://tychoish.com/posts/git-mail/>`__ way I've been downloading
 email, using the `git <http://git.or.cz/>`__ version control system,
 rather than traditional POP or IMAP. I wanted to write a post with an
 update to how this system works and how I've changed the system and how
@@ -49,7 +49,7 @@ Here's how the sync sequence goes. Though I could probably wire
 something up with git hooks (is there even a pre-pull hook?), I'm not
 sure that that gains us anything in particular for this setup, so I'll
 just assume that v.2 of git-mail will work the same as
-`v.1 <http://tychoish.com/rhizome/git-mail/>`__, and live in a shell
+`v.1 <http://tychoish.com/posts/git-mail/>`__, and live in a shell
 script that:
 
 1. Pull from ``domain.com/git/mail.git/``

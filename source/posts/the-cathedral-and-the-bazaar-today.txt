@@ -52,7 +52,7 @@ be distributed (like the Kernel and many smaller projects.)
 3. Think about modular design and extensibility. I had a conversation
 with `Dan <http://www.brickswithoutclay.com/>`__ in the comments of
 my essay on
-`innovation <http://tychoish.com/rhizome/where-innovation-happens/>`__,
+`innovation <http://tychoish.com/posts/where-innovation-happens/>`__,
 and he brought up extensibility, which is worth bringing up again in
 a new context. Though its not a new idea, it's possible to write
 software so that nearly all of the customizations that a user might

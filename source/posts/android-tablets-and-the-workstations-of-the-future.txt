@@ -20,7 +20,7 @@ Prediction: in the next decade, we'll see embeded tablet-like devices
 begin to replace desktops computers for some classes of use and users.
 General web surfing, reading, quick email, and watching videos on
 YouTube seem like the obvious niche for now. I started to explore this
-in ":doc:`Is Android the Future of Linux </rhizome/is-android-the-future-of-linux>`,"
+in ":doc:`Is Android the Future of Linux </posts/is-android-the-future-of-linux>`,"
 but it's not abusrd to suggest that Android or iOS like devices might
 begin to address more "general purpose desktop computing."
 
@@ -30,7 +30,7 @@ basis. This is mostly an application/software problem. As applications
 evolve and as more functionality moves to remote systems anyway (this is
 the "cloud," we've heard so much about,) tablet operating systems will
 seem much more capable for general purpose work. Better
-:doc:`mobile productivity </rhizome/mobile-productivity-challenges>` software will
+:doc:`mobile productivity </posts/mobile-productivity-challenges>` software will
 help as well. Eventually, I think Android and similar platforms will
 have a shot at the desktop market for most usage because:
 
@@ -58,7 +58,7 @@ have a shot at the desktop market for most usage because:
   some fundamental developments in the technology that need to transpire
   before "desktop tablets" happen, including:
 
-- More :doc:`power user-type interface features </rhizome/tablet-interfaces-and-intuition>`.
+- More :doc:`power user-type interface features </posts/tablet-interfaces-and-intuition>`.
 
 - Split screen operation. There are enough "common tasks" that require
   looking at two different pieces of information at the same time that

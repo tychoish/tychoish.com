@@ -43,7 +43,7 @@ sandboxed [4]_ but can't/won't use google chrome, and you don't really
 need or want all of the browser-centric interface crap. SSBs basically
 raise a website to the level of an application just like all your other
 applications. And it's sandboxed. Besides finding `alternatives to
-web-based applications <http://tychoish.com/rhizome/git-mail/>`__, this
+web-based applications <http://tychoish.com/posts/git-mail/>`__, this
 is totally the best option around. Fluid has a lot of nifty features
 like control over what kind of URLs it'll open or send to your browser,
 and what it does when you "close" a window, and special/custom key

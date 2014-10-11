@@ -7,7 +7,7 @@ One True System
    :tags: cyborg, productivity
 
 So I've been `posting about cyborg
-systems <http://tychoish.com/rhizome/of-the-system/>`__ on tychoish,
+systems <http://tychoish.com/posts/of-the-system/>`__ on tychoish,
 about the informal logical systems we use to interface our
 lives/reality/thoughts/work into digital systems to organize what we
 accomplish with our computers. It's a topic of some interesting to me,

@@ -7,7 +7,7 @@ Jekyll Publishing
    :tags: software, code, automation
 
 I wrote about my efforts to `automate my publishing
-workflow <http://tychoish.com/rhizome/jekyll-and-automation/>`__ a
+workflow <http://tychoish.com/posts/jekyll-and-automation/>`__ a
 couple of weeks ago, (egad!) and I wanted to follow that up with a
 somewhat more useful elucidation of how all of the gears work around
 here.

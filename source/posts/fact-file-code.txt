@@ -7,7 +7,7 @@ Fact File Code
    :tags: emacs, org-mode, cyborg, research
 
 In my post about my `fact
-file <http://tychoish.com/rhizome/fact-file-and-orbital-mechanics/>`__ I
+file <http://tychoish.com/posts/fact-file-and-orbital-mechanics/>`__ I
 said that I was going to "try things out and see how it goes" before I
 posted code to see how things work in the system. Well, I think things
 are pretty stable (I haven't tweaked much), so I'm going to post my

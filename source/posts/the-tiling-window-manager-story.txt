@@ -7,7 +7,7 @@ The Tiling Window Manager Story
    :tags: cyborg, open-source, history
 
 As I said in "`The Odd Cyborg
-Out <http://tychoish.com/rhizome/lisp-and-the-odd-one-out/>`__," I'm
+Out <http://tychoish.com/posts/lisp-and-the-odd-one-out/>`__," I'm
 thinking of giving StumpWM a run. So I did some musing about tiling
 window managers, because I am who I am. Here goes,
 

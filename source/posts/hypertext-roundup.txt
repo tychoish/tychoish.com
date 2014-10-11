@@ -26,17 +26,17 @@ a sort of directory of the hypertext posts on Tealart for your
 referencing pleasures.
 
 - `Wiki
-  Hyper(digital)text <http://tychoish.com/rhizome/wiki-hyperdigitaltext/>`__
+  Hyper(digital)text <http://tychoish.com/posts/wiki-hyperdigitaltext/>`__
 - `Hyper(digital)book
-  Futures <http://tychoish.com/rhizome/hyperdigitalbook-futures/>`__
+  Futures <http://tychoish.com/posts/hyperdigitalbook-futures/>`__
 - `Publishing
-  Hyper(digital)text <http://tychoish.com/rhizome/publishing-hyperdigitaltext/>`__
+  Hyper(digital)text <http://tychoish.com/posts/publishing-hyperdigitaltext/>`__
 - `Writing and Producing
-  Hyper(digital)text <http://tychoish.com/rhizome/writing-and-producing-hyperdigitaltext/>`__
+  Hyper(digital)text <http://tychoish.com/posts/writing-and-producing-hyperdigitaltext/>`__
 - `Reading And Consuming
-  Hyper(digital)text <http://tychoish.com/rhizome/reading-and-consuming-hyperdigitaltext/>`__
+  Hyper(digital)text <http://tychoish.com/posts/reading-and-consuming-hyperdigitaltext/>`__
 - `Intro to
-  HyperText <http://tychoish.com/rhizome/intro-to-hypertext/>`__
+  HyperText <http://tychoish.com/posts/intro-to-hypertext/>`__
 
 I'll be back next week with the introduction to the next Friday series!
 

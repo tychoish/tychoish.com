@@ -10,7 +10,7 @@ I was talking to my grandmother (Hi!) last week, as I do most weeks, and
 we discussed the blog. She's been a regular reader of the site for many
 years, and lately, we've enjoyed digging a little deeper into some of
 the things that I've written about here. She said, I think of the
-`Owning Bits <http://tychoish.com/rhizome/owning-bits/>`__, and I agree,
+`Owning Bits <http://tychoish.com/posts/owning-bits/>`__, and I agree,
 that it sort of seemed that I was building something... *more*.
 
 But of course.
@@ -99,7 +99,7 @@ is incredibly important.
   `link <http://tychoish.com/archive/new-media/>`__
 
 I've been blogging for a long time. And I'm a
-`writer <http://tychoish.com/rhizome/i-am-a-writer/>`__. And I want to
+`writer <http://tychoish.com/posts/i-am-a-writer/>`__. And I want to
 write and publish fiction as a part of my "career," such as it is. As
 you might imagine these factors make me incredibly interested in the
 future of publishing of "content," and of the entire nexus of issues

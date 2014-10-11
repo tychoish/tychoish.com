@@ -12,7 +12,7 @@ with me about writing, or written in collaboration with me is probably
 nodding in understanding (or yelling "that's an understatement" and
 flipping the bird to the monitor). This probably explains my interest in
 things like LaTeX and Markdown, and the reason that `wiki's have been
-frustrating for me <http://tychoish.com/rhizome/wiki-completion/>`__,
+frustrating for me <http://tychoish.com/posts/wiki-completion/>`__,
 and the reason that I can pull my distractable attention span together
 enough to be able write long form projects. I mean, I even managed that
 as a teenager, which continues to impress *me* at least.

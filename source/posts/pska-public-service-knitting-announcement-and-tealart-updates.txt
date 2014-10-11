@@ -10,7 +10,7 @@ celebrate(d) it. The house didn't explode on the account of the
 neighbor's fireworks, which I think meets criteria for a good holiday.
 
 I hope you also enjoyed the `holiday
-edition <http://tychoish.com/rhizome/station-keeping-the-historical-moment/>`__
+edition <http://tychoish.com/posts/station-keeping-the-historical-moment/>`__
 (ha!) of `Station Keeping <http://tychoish.com/hanm/>`__. It was a fun
 one, so please do enjoy. Sorry about the wacky schedule this week.
 
@@ -27,7 +27,7 @@ Maybe. I dunno, I'll talk more about that in a bit.
 
 The real reason I'm writing this post is because over on `the other
 blog <http://tychoish.com/>`__ I've posted about `a nifty sweater I
-knit <http://tychoish.com/rhizome/sirmr-henry/>`__, and thought that you
+knit <http://tychoish.com/posts/sirmr-henry/>`__, and thought that you
 might be interested in that.
 
 Next time I have a saturday afternoon to blow on coding, I'll set

@@ -6,7 +6,7 @@ Markers of Progress
    :author: tychoish
 
 In the end, I think my `last
-post <http://tychoish.com/rhizome/rhythm/>`__ begins to ask "at what
+post <http://tychoish.com/posts/rhythm/>`__ begins to ask "at what
 point do we say 'I've made progress on this project'," is it when you've
 written a given number of words or pages? Is progress measured by units
 of meaning (ie. paragraphs, chapters, or sections)?

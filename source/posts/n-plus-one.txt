@@ -6,7 +6,7 @@ N Plus One
    :author: tychoish
 
 I'm finally getting my `list of things to do with
-linux <http://tychoish.com/rhizome/production-ready/>`__ that I've
+linux <http://tychoish.com/posts/production-ready/>`__ that I've
 heretofore done with OS X down to only a few items. I need to set up
 `xampp <http://www.apachefriends.org/en/xampp.html>`__ for the web
 development work I use and for hosting my local wiki, and I need to sort

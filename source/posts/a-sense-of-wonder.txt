@@ -5,7 +5,7 @@ A Sense of Wonder
 .. post:: 2007-12-31
    :author: tychoish
 
-As my `previous post <http://tychoish.com/rhizome/wolf-424/>`__ probably
+As my `previous post <http://tychoish.com/posts/wolf-424/>`__ probably
 indicates, I've been reading wikipedia recently about fairly elementary
 astronomical concepts and facts. While this is an enjoyable project all
 by itself, it's clearly in service of the fiction I'm writing.
@@ -13,7 +13,7 @@ by itself, it's clearly in service of the fiction I'm writing.
 I'd also take a moment to note that in the biggest web traffic I've
 gotten in a month or more due to a post I made on
 `zimmermania <http://zimermaniacs.blogspot.com/>`__, and the `pictures I
-posted yesterday <http://tychoish.com/rhizome/casbah/>`__, I'm going to
+posted yesterday <http://tychoish.com/posts/casbah/>`__, I'm going to
 have a post about science fiction and near-Earth star systems. *Sigh*
 
 Anyway back to Wolf 424. All this is all well and good, but the truth
@@ -24,7 +24,7 @@ inspiring for my writing.
 
 I think because thinking about `Barnard's
 Star <http://en.wikipedia.com/>`__, or `Wolf
-424 <http://tychoish.com/rhizome/wolf-424/>`__, `Epsilon
+424 <http://tychoish.com/posts/wolf-424/>`__, `Epsilon
 Eridani <http://en.wikipedia.com/>`__ is about leaning into a sort of
 existential sense of wonder and amazement. I mean. Wolf 424 is
 moving--relative to the solar system--at hundreds of miles a second. I

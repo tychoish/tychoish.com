@@ -13,7 +13,7 @@ years, and it's interesting to have a colleague, as it were, to bounce
 ideas off of and think about these things as I attempt to build this
 blog and and myself as a better blogger. This follows loosely from my
 post `on the future of
-tealart <http://tychoish.com/rhizome/long-live-tealart/>`__.
+tealart <http://tychoish.com/posts/long-live-tealart/>`__.
 
 My first, and even recent, attempts at blogging on TealArt have failed
 because I would blather on about something that interested me, and there

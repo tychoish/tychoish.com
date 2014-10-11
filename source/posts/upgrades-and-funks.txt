@@ -7,7 +7,7 @@ upgrades and funks
 
 Though you probably won't notice it I upgraded the software that runs
 this blog last night, as part of my `perverse geeky mission of this past
-sunday <http://tychoish.com/rhizome/geek-speak/>`__, and I think I've
+sunday <http://tychoish.com/posts/geek-speak/>`__, and I think I've
 finally ironed out all of the kinks. The only evidence of this is the
 fact that I've removed categories from the sidebar, largely because they
 don't exist anymore. Wordpress' latest coup is that they have baked in

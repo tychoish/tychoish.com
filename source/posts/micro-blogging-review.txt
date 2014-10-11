@@ -19,8 +19,8 @@ Basically micro-blogging is a short, 140 character, "blog/messaging
 service" which combines the best parts of group chat and
 
 And as you might know from your own experience or from my
-`previous <http://tychoish.com/rhizome/sadiavt-microblogging/>`__
-`posts <http://tychoish.com/rhizome/micro-jabbering/>`__, I've tried a
+`previous <http://tychoish.com/posts/sadiavt-microblogging/>`__
+`posts <http://tychoish.com/posts/micro-jabbering/>`__, I've tried a
 lot of services and have a few opinions about what makes a service
 better or worse. I can hear you saying, "What tycho opinionated?" but
 suspend your shock, and hang with me.

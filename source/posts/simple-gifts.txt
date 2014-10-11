@@ -12,7 +12,7 @@ posts should be functional and descriptive: google won't enjoy or take
 pleasure in your puns. Nevertheless...
 
 I've been working on something of binge of blog posts to prevent
-`this <http://tychoish.com/rhizome/status-update>`__ from happening
+`this <http://tychoish.com/posts/status-update>`__ from happening
 again any time soon, and I've noticed something: my posts aren't nearly
 as epic as they used to be. Nothing that I have in my drafts folder is
 longer than 750 words, and most of the posts are under 650.

@@ -8,7 +8,7 @@ fact files
 
 I `wrote a while back about wanting to develop a "fact file" or some way
 of creating a database of notes and
-clippings <http://tychoish.com/rhizome/fact-file-and-orbital-mechanics/>`__
+clippings <http://tychoish.com/posts/fact-file-and-orbital-mechanics/>`__
 that wouldn't (need to be) project specific research, but that I would
 none the less like the keep track of. Part of the notion was that I felt
 like I was gathering lots of information and reading lots of stuff, that

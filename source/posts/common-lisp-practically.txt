@@ -78,7 +78,7 @@ facilities <http://common-lisp.net/project/parenscript/>`__ which might
 not be incredibly enticing, but all the parts are there.
 
 I mean, having said that, `I'm not a web
-developer <http;//tychoish.com/rhizome/thinking-like-a-web-developer>`__,
+developer <http;//tychoish.com/posts/thinking-like-a-web-developer>`__,
 or really much of a developer in general, but it's fun to think about,
 and even if I only use Lisp to hack on various things here and there,
 I'm still learning a bunch from the book and that seems more than

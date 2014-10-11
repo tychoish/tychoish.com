@@ -7,7 +7,7 @@ Software as app Store
    :tags: cyborg, software
 
 This post represents two major ideas, first of "`app
-stores <http://tychoish.com/rhizome/package-mangement-and-why-your-platform-needs-an-app-store/>`__,"
+stores <http://tychoish.com/posts/package-mangement-and-why-your-platform-needs-an-app-store/>`__,"
 and second of "Sass" or "software as a service," which seems to be the
 prevailing business model for contemporary technology companies that
 aren't stuck in the 80s. With reflection on free software, open source,
@@ -78,15 +78,15 @@ Despite my (potential) lack of clarity at the moment, I think the
 following posts reflect some of my earlier thoughts on this subject.
 
 - `Package Management and why your Platform Needs and App
-  Store <http://tychoish.com/rhizome/package-mangement-and-why-your-platform-needs-an-app-store/>`__
+  Store <http://tychoish.com/posts/package-mangement-and-why-your-platform-needs-an-app-store/>`__
 
 - `iPad
   Reactions <http://criticalfutures.com/2010/02/ipad-reactions/>`__
 
 - `Free Network
-  Businesses <http://tychoish.com/rhizome/free-network-businesses/>`__
+  Businesses <http://tychoish.com/posts/free-network-businesses/>`__
 
 - `There's a Widget for
   that <http://criticalfutures.com/2010/02/theres-a-widget-for-that/>`__
 
-- `Owning Bits <http://tychoish.com/rhizome/owning-bits/>`__
+- `Owning Bits <http://tychoish.com/posts/owning-bits/>`__

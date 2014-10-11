@@ -11,7 +11,7 @@ bunch. I think a lot of this is because hackers what other people to use
 the software that they spend their time working on, and of course some
 of this is because of the `ethical systems that pervade the free
 software
-movement <http://tychoish.com/rhizome/ethics-of-free-software/>`__. And
+movement <http://tychoish.com/posts/ethics-of-free-software/>`__. And
 of course we want to both expand the user base of certain pieces of
 software within the open source world (eg. getting vim users to use
 emacs) as well as getting people using proprietary systems (like
@@ -19,7 +19,7 @@ Windows/OS X/Microsoft Office) to use free/open systems (like
 Linux/BSD/emacs).
 
 The biggest challenge in the second project is
-`usability <http://tychoish.com/rhizome/where-innovation-happens/>`__,
+`usability <http://tychoish.com/posts/where-innovation-happens/>`__,
 and I think both prospective users and developers (and people like me)
 often wonder "Is open source usable for non-technical users?" This is a
 question that I don't have an answer for. On the one hand, yes,

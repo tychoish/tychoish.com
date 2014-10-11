@@ -9,7 +9,7 @@ So despite being a huge geek and pretty technically savvy, I'm not much
 of a gadget person. I have a cellphone--but who doesn't these days, and
 mine's 3 years old and seems to only barely have an address book--and an
 iPod, but it's old reliable and not sexy. The `iPod
-touch <http://tychoish.com/rhizome/ipod-touch-review/>`__ that I got as
+touch <http://tychoish.com/posts/ipod-touch-review/>`__ that I got as
 part of a promotion when I got my new computer sits unused most of the
 time.
 
@@ -20,7 +20,7 @@ be a good idea to get started now. It's of particular interest because
 my phone usage has changed dramatically recently. I've gone from using
 it a few times a month to being on the phone for an hour or two most
 days (and sometimes more.) And since I even have a
-`calendar <http://tychoish.com/rhizome/calendar-ing/>`__ now, I think
+`calendar <http://tychoish.com/posts/calendar-ing/>`__ now, I think
 something more robust is in order. Basically this boils down to
 `iPhone <http://www.apple.com/iphone/>`__ or
 `BlackBerry <http://www.blackberry.com/blackberrybold/>`__ (or `Google

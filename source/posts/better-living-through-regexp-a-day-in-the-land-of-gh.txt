@@ -6,7 +6,7 @@ Better Living through Regexp: A day in the land of ^[GH]:
    :author: tychoish
 
 This is part two of the monster that was begun with
-`this <http://tychoish.com/rhizome/better-living-through-regular-expressions-a-dramatic-work/>`__.
+`this <http://tychoish.com/posts/better-living-through-regular-expressions-a-dramatic-work/>`__.
 Enjoy!
 
 **G:** Why do you always talk so much... and say so little?
