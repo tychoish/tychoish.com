@@ -28,21 +28,21 @@ for general purpose scripting:
 
 1. Global state can get messy.
 
-This isn't only an issue with Fabric, but I think the *fab* solution
-isn't great here. Fabric has this ``envy`` object that you can import
-and then use to track the settings or set custom "global" data values.
-It's better than having actual global data, maybe, but you end up having
-to use it too much, particularly it for communication between different
-related operations and you end up using tasks and global state to
-run-time configuration.
+   This isn't only an issue with Fabric, but I think the *fab* solution
+   isn't great here. Fabric has this ``envy`` object that you can import
+   and then use to track the settings or set custom "global" data values.
+   It's better than having actual global data, maybe, but you end up having
+   to use it too much, particularly it for communication between different
+   related operations and you end up using tasks and global state to
+   run-time configuration.
 
 2. There's no real overriding abstraction to guide code organization.
 
-In a lot of ways ``fab`` scripts are just a way of writing a large
-number of scripts within a single code base and a command line interface
-for specifying different entry points. It would be nice to be able to
-express relationships between tasks, or centralize the registry of tasks
-in some of non-adhoc.
+   In a lot of ways ``fab`` scripts are just a way of writing a large
+   number of scripts within a single code base and a command line interface
+   for specifying different entry points. It would be nice to be able to
+   express relationships between tasks, or centralize the registry of tasks
+   in some of non-adhoc.
 
 I actually don't think that these are problems with fabric, itself, but
 I think it's probably the case that we need a few different kinds of

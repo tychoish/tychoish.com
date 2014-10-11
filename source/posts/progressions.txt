@@ -35,8 +35,8 @@ up to date. It's a struggle.
 I've also been doing some wiki work around these parts, mostly in the
 :doc:`technical writing </technical-writing>` section, including new pages
 about :doc:`:/technical-writing/atomicity`, :doc:`/technical-writing/automation`,
-:doc:`:/technical-writing/compilation`, :doc:`/technical-writing/dexy`, and
-:doc:`:/technical-writing/filters`. I'm also working on ways of marrying this
+:doc:`/technical-writing/compilation`, :doc:`/technical-writing/dexy`, and
+:doc:`/technical-writing/filters`. I'm also working on ways of marrying this
 wiki with `Critical Futures <http://criticalfutures.com/>`__, by way of
 the critical futures section. It's in progress, of course but
 there's a blurb at the bottom of all CF posts that says:

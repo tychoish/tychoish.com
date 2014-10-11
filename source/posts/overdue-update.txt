@@ -74,7 +74,7 @@ working on:
   on some other sites as well.
 
 The coolest part about this is that some of you have helped to build a
-page of :doc:`/posts/ssh-tricks`` on the wiki that go above and beyond the little
+page of :doc:`/posts/ssh-tricks` on the wiki that go above and beyond the little
 tricks that I use.
 
 And finally,I 'd like to welcome Kevin Grande, who made a new
