@@ -3,3 +3,9 @@ Tychoish
 ========
 
 .. postlist:: 59
+
+.. toctree:: 
+   :titlesonly:
+   :hidden:
+
+   /technical-writing

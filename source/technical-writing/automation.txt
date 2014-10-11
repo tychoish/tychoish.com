@@ -4,8 +4,6 @@ Automation and Technical Writing
 
 In response to :doc:`/post/technical-writing-appreciation`:
 
-.. blockquote:: 
-
    Back in the 70s and 80s -- and maybe still, but I doubt it -- there
    were consulting companies that would approach large companies (like
    Wang, which I worked for at the time and which was a very large
