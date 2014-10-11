@@ -11,7 +11,7 @@ A week ago, I quit my job.
 For a number of reasons this shouldn't come as a huge surprise: I'd been
 burning out on a 2-hour each way commute from Philadelphia where I
 live(d), nominally. The
-:doc:`boyfriend </essay/its-a-great-time-to-be-alive>` in New York City,
+:doc:`boyfriend </posts/its-a-great-time-to-be-alive>` in New York City,
 didn't make things easier. And while, I really liked a *lot* of things
 about my job, I knew that it was getting to be time to move on. My last
 day was Friday.

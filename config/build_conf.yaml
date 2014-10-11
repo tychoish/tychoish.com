@@ -34,7 +34,7 @@ paths:
   includes: 'source/includes'
   images: 'source/images'
   tools: 'bin'
-  buildsystem: 'build/docs-tools'
+  buildsystem: 'build/institute-tools'
   builddata: 'config'
   locale: 'locale'
 ...

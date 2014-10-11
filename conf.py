@@ -27,15 +27,16 @@ needs_sphinx = '1.0'
 extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.todo',
-    'ablog',
-    'directives',
-    'intermanual',
+    'ablog'
 ]
+
+import ablog 
 
 locale_dirs = [ os.path.join(conf.paths.projectroot, conf.paths.locale) ]
 gettext_compact = False
 
-templates_path = ['.templates']
+templates_path = ['.templates', ablog.get_html_templates_path() ]
+
 exclude_patterns = []
 
 source_suffix = '.txt'

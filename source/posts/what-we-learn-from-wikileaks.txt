@@ -34,7 +34,7 @@ a domain and site off the Internet at a single point. That's a very
 scary proposition. While information survives, I think many people
 thought that "you couldn't effectively censor the Internet," and
 Wikileaks says "yes you can, and here's how."
-(`cite <ttp://www.teknerve.com/2010/12/getting-uncomfortable-with-the-us-reaction-to-wikileaks/>`__)
+(`cite <http://www.teknerve.com/2010/12/getting-uncomfortable-with-the-us-reaction-to-wikileaks/>`__)
 
 In response I think people have started to think about the shape and
 structure of the network itself. The Internet is designed to be

@@ -41,7 +41,7 @@ particular order:
   purchase of an apartment.
 
 - I worked too much. But I think I accomplished
-  `cool <HTTP://docs.mongodb.org/manual>`__
+  `cool <http://docs.mongodb.org/manual>`__
   `things <http://github.com/mongodb/docs-tools/>`__. In most ways, I
   think we're doing some really innovative things with documentation
   and documentation processes (and writing strong documentation for a

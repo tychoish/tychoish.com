@@ -27,8 +27,8 @@ couple of little pages and snippets that I've been hanging onto for a
 while, and a number of pages that I think I'd like to write wiki pages
 on. These include three major issues in technical writing and the tools
 used to build documentation resources that build tools that yesterday's
-addresses. They are: :doc:`:/technical-writing/atomicity` or smaller "atomic"
-units of documentation, :doc:`:/technical-writing/compilation` or generating
+addresses. They are: :doc:`/technical-writing/atomicity` or smaller "atomic"
+units of documentation, :doc:`/technical-writing/compilation` or generating
 documentation statically before publication rather than dynamically on
 view, and :doc:`flitering </technical-writing/filters>` as an approach to
 document generation.

@@ -49,7 +49,7 @@ list is as follows:
   however you like. While this may be a burden to some, I'm somewhat
   controlling when it comes to data storage and preservation, and I
   think email archives are incredibly important. And I'm a `weirdo
-  about email storage </essay/git-mail-3/>`__.
+  about email storage </posts/git-mail-3/>`__.
 
 - Mutt's "sidebar patch" isn't even a part of the core of the software,
   but it's absolutely crucial to my experience of the software.

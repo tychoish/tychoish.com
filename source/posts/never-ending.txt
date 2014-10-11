@@ -33,13 +33,12 @@ I've posted a number of new rhizomes in the last week. They are:
   edited the following pages:
 
 - I imported some comments from Facebook regarding my
-  :doc:`intellectual-practice </posts/intellectual-practice>` post onto
-  the :doc:`discourse </posts/intellectual-practice/discourse>` page.
-  These comments are pretty valuable and I've found the conversation
-  useful, hopefully you will too. Feel free to add your own comments
-  there.
+  :doc:`intellectual-practice </posts/intellectual-practice>` post
+  onto the discussion page.  These comments are pretty valuable and
+  I've found the conversation useful, hopefully you will too. Feel
+  free to add your own comments there.
 
-- Similarly, I imported some comments onto the :doc:`discourse page </posts/career-pathways/discourse>`
+- Similarly, I imported some comments onto the discussion 
   for the :doc:`Career Pathways </posts/career-pathways>` post.
 
 - In response to one of the comments the Intellectual Practice

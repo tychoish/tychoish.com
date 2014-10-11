@@ -11,7 +11,7 @@ awesome SSH is, and how it's probably one of the most crucial pieces of
 technology that I use every single day. Here's a list of 10 things that
 I think are particularly awesome and perhaps a bit off the beaten path.
 
-**Update:** (*2011-09-19*) There are some user-submitted :post:`/posts/ssh-tricks`
+**Update:** (*2011-09-19*) There are some user-submitted :doc:`/posts/ssh-tricks`
 on the wiki now! Please feel free to add your favorites. Also the
 `hacker news thread <http://news.ycombinator.com/item?id=3011947>`__
 might be helpful for some.

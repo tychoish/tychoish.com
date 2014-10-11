@@ -6,7 +6,7 @@
    :author: tychoish
    :tags: linux, software, lists
 
-A couple of years ago I wrote ":doc:`Why Arch Linux Rocks </posts/why-arch-Linux-rocks>`" 
+A couple of years ago I wrote ":doc:`Why Arch Linux Rocks </posts/why-arch-linux-rocks>`" 
 and ":doc:`Getting the most from Arch Linux </posts/getting-the-most-from-arch-linux>`." I've made a number
 of attempts to get more involved in the Arch project and community, but
 mostly I've been too busy working and using Arch to do actual work. Then

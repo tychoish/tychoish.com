@@ -13,7 +13,7 @@ how my work has changed in recent months.
 
 A couple of weeks ago, I finally posted all of the content that I've
 been working on for the new, revived `Cyborg
-Institute <HTTP://cyborginstitute.org/>`__. While the `book on systems
+Institute <http://cyborginstitute.org/>`__. While the `book on systems
 administration <http://cyborginstitute.org/projects/administration>`__
 itself had been mostly done for a while, I'd delayed for two reasons:
 

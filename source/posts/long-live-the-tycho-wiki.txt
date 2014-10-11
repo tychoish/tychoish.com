@@ -19,7 +19,7 @@ callously dropped all comments [1]_, I think the move is one of general
 and overall improvement.
 
 At the same time, I think there are challenges. Rather than comment
-pages, there's now a "*discourse" link at the top left of the pages,
+pages, there's now a "*discourse*" link at the top left of the pages,
 which lets you sign in and create a new page for discussion related to
 the page you're currently viewing. I liked the name "discourse" rather
 than "discussion," but I fear there may be some confusion. I can change

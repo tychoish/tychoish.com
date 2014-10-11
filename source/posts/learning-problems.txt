@@ -42,7 +42,7 @@ to have a good story to tell;" when I think about learning to program I
 think the first step *has* to be a need to automate something on a
 computer.
 
-I've even :doc:`started a wiki page on the topic <//technical-literacy/teaching-programming>`.
+I've even :doc:`started a wiki page on the topic </technical-literacy/teaching-programming>`.
 
 Hackers describe this as the "scratch your own itch" method (from
 `CatB <http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html>`__
@@ -85,7 +85,7 @@ I've used to help explore the topic:
   different kinds of programming problems, with greater and lesser
   success.
 
-  Buildcloth, which :doc:`is pretty cool and needs more work <//posts/buildcloth-v03-planning>` but I fear may be too
+  Buildcloth, which :doc:`is pretty cool and needs more work </posts/buildcloth-v03-planning>` but I fear may be too
   complicated for the use-case.
 
   `csc <http://cyborginstitute.org/projects/csc>`__, which isn't fully off

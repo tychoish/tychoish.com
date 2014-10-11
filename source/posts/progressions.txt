@@ -11,7 +11,7 @@ merits an update post.
 
 I've posted two new things to `Critical
 Futures <http://criticalfutures.com/>`__, my final post--for now--about
-:doc:`:/technical-writing/dexy`, called `make all
+:doc:`/technical-writing/dexy`, called `make all
 dexy <http://criticalfutures.com/2011/02/make-all-dexy>`__. and a post
 about `new media <http://criticalfutures.com/archive/new-media>`__ on
 `What we Learn from
@@ -34,7 +34,7 @@ up to date. It's a struggle.
 
 I've also been doing some wiki work around these parts, mostly in the
 :doc:`technical writing </technical-writing>` section, including new pages
-about :doc:`:/technical-writing/atomicity`, :doc:`/technical-writing/automation`,
+about :doc:`/technical-writing/atomicity`, :doc:`/technical-writing/automation`,
 :doc:`/technical-writing/compilation`, :doc:`/technical-writing/dexy`, and
 :doc:`/technical-writing/filters`. I'm also working on ways of marrying this
 wiki with `Critical Futures <http://criticalfutures.com/>`__, by way of

@@ -8,7 +8,7 @@ Stability is a Crutch
 I don't think the tension between having good, robust, and bug-free
 software and having software with new features and capabilities is
 solvable in the macro case. What follows is a musing on this subject,
-related in my mind to the :doc:`On Installing Linux <//posts/installing-linux-the-hard-way>` post.
+related in my mind to the :doc:`On Installing Linux </posts/installing-linux-the-hard-way>` post.
 
 --------------
 

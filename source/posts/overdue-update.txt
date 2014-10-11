@@ -26,7 +26,7 @@ working on:
 
 - I added a page to the technical writing section on ":doc:`Why the Documentation Sucks </technical-writing/documentation-sucks>`," and
   I've done some additional editing and revising of this section of the
-  wiki. The :doc:`:/technical-writing/documentation-sucks` page has also
+  wiki. The :doc:`/technical-writing/documentation-sucks` page has also
   served as the foundation of my post about
   :doc:`documentation publishing systems </posts/publishing-system-requirements>`.
 
@@ -48,17 +48,7 @@ working on:
   - :doc:`Android Tablets and the Workstations of the Future </posts/android-tablets-and-the-workstations-of-the-future>`
 
 - There has also been some discussions of new and old rhizomes on the
-  discourse pages. These are:
-
-  - :doc:`:Discussion of Android and the Future of Linux </posts/is-android-the-future-of-linux/discourse>`
-
-  - :doc:`Git Mail Discussion </posts/git-mail/discourse>`
-
-  - :doc:`Tablet Discussion </posts/and-then-i-broke-down-and-got-a-tablet/discourse>`
-
-  - :doc:`:Create Better Task Items </posts/create-better-task-items/discourse>`
-
-  - :doc:`:Writing Software Requirements Discussions </posts/writing-software-beyond-emacs/discourse>`
+  discourse pages.
 
 - A few weeks ago I posted a few new scripts in the code section.
   Tell me what you think:

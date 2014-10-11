@@ -6,7 +6,7 @@ Git Sync
    :author: tychoish
    :tags: cyborg, code
 
-With the new `laptop </essay/new-technology/>`__, I once again have more
+With the new `laptop </posts/new-technology/>`__, I once again have more
 than one computer, and with it a need to synchronize the current state
 of my work. This is a crucial function, and pretty difficult to *do
 right*: I've had multiple systems before and condensed everything into

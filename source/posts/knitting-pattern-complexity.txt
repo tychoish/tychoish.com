@@ -6,7 +6,7 @@ Knitting Pattern Complexity
    :author: tychoish
 
 I've been writing a series of terribly self indulgent posts about
-:doc:`thinking about creative projects as work </post/art-work>` and about the
+:doc:`thinking about creative projects as work </posts/art-work>` and about the
 habit and rhythm that I've been using to :doc:`get work done, even under adverse circumstances </posts/specific-rhythms>`. As exciting as the increased
 blogging and progress on fiction projects is, I'm just as excited about
 figuring out how to squeeze in knitting and reading time into my days.

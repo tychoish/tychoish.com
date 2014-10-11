@@ -17,8 +17,8 @@ I'd like to share. Here we go:
 Discussion of Rhizomes
 ----------------------
 
-jfm and I had a good exchange about an old post
-:doc:`/posts/ideology-and-systems-administration/discourse`.
+jfm and I had a good exchange about an old post,
+:doc:`/posts/ideology-and-systems-administration`.
 Basically the posts says, "systems administrators have a unique
 approach to solving technological problems," and discussed the
 implications of systems administrators background on technology

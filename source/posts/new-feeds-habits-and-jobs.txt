@@ -23,7 +23,7 @@ I have new full-text feeds for posts about org-mode and emacs.
 Hopefully these will get included in relevant planets soon for your
 reading pleasure.
 
-There's also been some :doc:`discussion </bad-org-mode-habits/discourse>` on
+There's also been some :discussion on
 the ":doc:`Bad Org Mode Habits </posts/bad-org-mode-habits>`" post. You may be
 interested.
 

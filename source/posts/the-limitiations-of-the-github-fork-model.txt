@@ -18,7 +18,7 @@ Assumption:
    enough structure to be practically useful. As a result providers
    like `GitHub <http://githb.com>`__ (and `BitBucket
    <http://bitbucket.org>`__ and `gitorious
-   <HTTP://gitorious.org/>`__) offer a valuable service that makes it
+   <http://gitorious.org/>`__) offer a valuable service that makes it
    easier--or even possible--for people to use git.
 
 Caveats:

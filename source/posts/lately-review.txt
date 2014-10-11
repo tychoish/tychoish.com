@@ -13,7 +13,7 @@ First up, jfm and I have been continuing the discussion we had
 about task lists in a new
 discussion of the
 :doc:`/posts/mobile-productivity-challenges`. I've also imported some
-:doc:`:conversation from facebook </posts/cyborg-analysis-and-technology-policy/discourse>`
+conversation from facebook (to a discourse page, since removed)
 following up on the :doc:`:Cyborg Analysis and Technology Policy </posts/cyborg-analysis-and-technology-policy>` post that I made
 this last week. I'm really *really* proud of the extent to which the
 comments and edits that I've gotten have made my writing and thinking

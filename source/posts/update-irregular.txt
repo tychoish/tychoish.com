@@ -14,19 +14,6 @@ table of contents:
 
 Ok, so it's not much, but lets get started.
 
-Discussions, Ongoing
---------------------
-
-There's been discussion, and largely discussion that I've not attended
-to as well as I would have liked. If you commented on any of these
-posts, I've tried to respond in someway:
-
-- :doc:`pedagogy discussion </pedagogy/discourse>`
-- :doc:`:writing teaching discussion </posts/teaching-writing-skills/discourse>`
-- :doc:`:dropbox-replacements discussion </posts/is-dropbox-the-mobile-file-system-standard/discourse>`
-- :doc:`wiki and collaborative fiction discussion </posts/wiki-fiction>`
-- :doc:`:vpn discussion </posts/remote-accessibility-reverse-tunneling-super-dynamic-dns/discourse>`
-
 New Posts
 ---------
 
