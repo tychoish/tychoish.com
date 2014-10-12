@@ -18,7 +18,7 @@ Advantages of Compiled Documentation
 
 - Editors, writers, and subject matter experts can review
   documentation as a gestalt, prior to publication. If
-  such resources are :doc:`atomic|atomicity`, this is incredibly
+  such resources are :doc:`atomic <atomicity>`, this is incredibly
   important: in a more dynamic model, it's difficult to update a
   number of documents at a time. Compilation solves this.
 

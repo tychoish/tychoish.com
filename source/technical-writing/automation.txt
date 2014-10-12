@@ -2,7 +2,7 @@
 Automation and Technical Writing
 ================================
 
-In response to :doc:`/post/technical-writing-appreciation`:
+In response to :doc:`/posts/technical-writing-appreciation`:
 
    Back in the 70s and 80s -- and maybe still, but I doubt it -- there
    were consulting companies that would approach large companies (like

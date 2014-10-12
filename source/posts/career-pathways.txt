@@ -60,7 +60,7 @@ figured some of these things out earlier. I know that we don't always
 find clear and definitive answers to these problems and that solutions
 come in pieces and very slowly.
 
-This :doc:`series </career>` is about thinking about these issues to increase
+This series is about thinking about these issues to increase
 the possibility of intentionally and to document my process so that
 people can provide feedback. With luck, this will also help form a model
 for people who want to think about ways of contributing to scholarly

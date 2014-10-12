@@ -5,6 +5,6 @@ Technical Writing Resources
 `Wiki Based Software Documentation
 <http://www.wikisym.org/ws2005/wiki/space/Wiki-based+Software+Documentation/>`_,
 discusses software documentation in wikis, as counter to :doc:`Wikis
-are Not Documentation </rhizome/wikis-are-not-documentation>`.
+are Not Documentation </posts/wikis-are-not-documentation>`.
 
 ... and more to come. 

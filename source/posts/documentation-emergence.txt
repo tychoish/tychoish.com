@@ -60,12 +60,12 @@ two main user needs:
 I think it's feasible to do both kinds of documentation within a single
 resource, but the struggle then revolves around making sure that the
 right kind of users find the content they need. That's a problem of
-:doc:`documentation usability </technical-writing/usability>` and structure.
+*documentation usability* and structure.
 But it's not without challenges, lets think about those in the
 comments.
 
 I also find myself thinking a bit about the differences between
 web-based documentation resources and conventional manuals in PDF or
-dead-tree editions. (See, :doc:`/technical-writing/web-based-documentation`
-eventually.) I'm not sure how to resolve these challenges, or even what
-the right answers are, but I think the questions are very much open.
+dead-tree editions. I'm not sure how to resolve these challenges, or
+even what the right answers are, but I think the questions are very
+much open.

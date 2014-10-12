@@ -20,7 +20,7 @@ The information debt problem is very real with documents:
   difficult to clearly determine which documents are canonical.
 
 - Search tools for documents are sub par, because
-  :doc:`metadata projects|taxonomy` are irregular and often incomplete.
+  :doc:`metadata projects <taxonomy>` are irregular and often incomplete.
 
 - Document content is always growing and must always be growing.
 
@@ -114,7 +114,7 @@ remarkably similar to conventional documentation:
   (i.e. topic-centered). Use good build tools to amalgamate
   information atoms.
 
-- Use coherent :doc:`indexing` strategies.
+- Use coherent indexing strategies.
 
 - Separate source formats from output formats.
 

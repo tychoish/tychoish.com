@@ -7,13 +7,15 @@ Mutt Sucks Less
    :tags: email, cyborg, productivity
 
 I use a mail client called `mutt <http://mutt.org>`__. The quality of
-this software may largely explain my opinion :doc:`this post on the continued relevance of email </posts/email-matters>`.
+this software may largely explain my opinion :doc:`this post on the
+continued relevance of email </posts/why-email-still-matters>`.
 
 I think mutt warrants a bit of extra attention for two reasons. First,
 because I think there are enough people out there who *don't* use mutt
 who could and perhaps should, and I'd like to do a little encouraging;
-and second,like all fundamentally :doc:`wonderful pieces of software </posts/great-software>`, mutt can teach us something important about
-what makes technology great and pleasurable to use.
+and second,like all fundamentally wonderful pieces of software, mutt
+can teach us something important about what makes technology great and
+pleasurable to use.
 
 Working with any new kind of software is always a challenge. It is
 unfortunate that "features" and "functions" are the currency by which we

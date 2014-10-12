@@ -31,12 +31,11 @@ raising, IPOs, big acquisition deals, to realize the multitude of people
 who are making a few to several tens of thousands of dollars doing much
 smaller amounts of work.
 
-I suppose I could write a whole post on 
-:doc:`good enough economics </posts/good-enough-economics>` in the vein of `this post on
-patronage from
-JamesGovernor <http://www.redmonk.com/jgovernor/2007/01/04/on-jon-udell-freedom-talent-management-and-the-new-patronage-economy/>`__
-but I'll just leave a place holder link to a wiki page, in case someone
-else wants to fill things in.
+I suppose I could write a whole post on *good enough economics* in the
+vein of `this post on patronage from JamesGovernor
+<http://www.redmonk.com/jgovernor/2007/01/04/on-jon-udell-freedom-talent-management-and-the-new-patronage-economy/>`__
+but I'll just leave a place holder link to a wiki page, in case
+someone else wants to fill things in.
 
 Thoughts:
 

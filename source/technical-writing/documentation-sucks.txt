@@ -1,5 +1,6 @@
-:doc:`!meta title="Why the Documentation Sucks"`
-:doc:`!tag technical-writing`
+===========================
+Why the Documentation Sucks
+===========================
 
 For many software projects and products, the documentation sucks.  The
 resources are incomplete, out of date, hard to understand, or don't
@@ -12,7 +13,8 @@ documentation.
 This page collects a number of recurring problems with documentation,
 and presents tactics for improving documentation.
 
-## Problems with Documentation
+Problems with Documentation
+---------------------------
 
 - Documentation resources and manuals are often **disorganized.** The
   organization that makes sense for a documentation resource at the
@@ -57,7 +59,8 @@ and presents tactics for improving documentation.
   that make it possible to test documents in an automatic way, but
   this has its challenges as well. 
 
-## Making Documentation Better
+Making Documentation Better
+---------------------------
 
 Some solutions to tactical problems presented above are addressed
 inline. Other, more global ways to address these issues include: 

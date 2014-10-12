@@ -3,7 +3,7 @@ Static Analysis of Text
 =======================
 
 *This page is part of a series on documentation tooling, see the*
-:doc:`documentation tooling </rhizome/documentation-tooling>` *rhizome, and*
+:doc:`documentation tooling </posts/documentation-tooling>` *rhizome, and*
 *the* :doc:`documentation and technical writing </technical-writing>` *section
 of the wiki for more information and related content.*
 

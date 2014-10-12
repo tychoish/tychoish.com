@@ -28,7 +28,7 @@ sites:
   history of computing. I replied to him with `Code Quarterly Interview
   with Hal Abelson <http://www.codequarterly.com/2011/hal-abelson/>`__.
 
-- I've also collected a few :doc:`LaTeX System links </latex-system/links>`,
+- I've also collected a few LaTeX System links,
   of related projects, ideas and collaborators. I've also had a few
   conversations that I need to transcribe into the wiki. Watch this
   space.

@@ -121,7 +121,7 @@ reference material and API-like documentation.
 Topic-based Authoring
 ~~~~~~~~~~~~~~~~~~~~~
 
-The :doc:`techincal-writing` section of this wiki approaches topic-based
+The :doc:`/technical-writing` section of this wiki approaches topic-based
 authoring in the :doc:`atomicity` page, but there are taxonomic
 implications of topic-based systems.
 

@@ -16,8 +16,8 @@ a wiki after all!
 Pages
 -----
 
-- :doc:`tag/technical-writing/information-debt` a special tag for pages
-  and :doc:`rhizome` posts on the topic of information debt.
+- :doc:`/technical-writing/information-debt` a special tag for pages
+  and posts on the topic of information debt.
 
 - :doc:`books` a page that addresses the relative organizational
   limitations of books and digital resources relative
@@ -41,9 +41,9 @@ Pages
 (the follwoing pages are forth coming, my thoughts on their general
 topics follow.)
 
-- :doc:`indexing` how indexing strategies makes documents more or less
+- *indexing* how indexing strategies makes documents more or less
   useable, and maintainable. How the lack of good indexing (and good
   indexing tools,) is a frequent source of technical debt.
 
-- :doc:`bucketing` and using organizational buckets as a strategy for
+- *bucketing* and using organizational buckets as a strategy for
   mangaging large information resources.

@@ -20,7 +20,7 @@ The leading problem in most :doc:`wiki` systems and resources is that
 resource, then no one *must*, and the documents will tend to drift
 away from reality and the state of the art. The same principal is true
 of overall organization. If keeping documents properly
-:doc:`indexed|indexing]] and [[bucketed|bucketing` is the responsibility
+indexing and bucketing is the responsibility
 of no one person, then documents will become disorganized over time
 and more difficult to locate and update.
 

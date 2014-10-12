@@ -5,7 +5,7 @@ Topic Based Authoring Failure
 .. post:: 2013-07-21
    :author: tychoish
 
-I wrote a long time ago, about :doc:`/technical-writing/atomic`` which (more or less) is the
+I wrote a long time ago, about :doc:`/technical-writing/atomicity` which (more or less) is the
 same as *topic based authoring*. Both describe the process of breaking
 information into the smallest coherent blocks and then using the
 documentation toolkit to compile the kind resource.

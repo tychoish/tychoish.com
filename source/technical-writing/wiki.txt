@@ -7,8 +7,8 @@ Wiki Method and Information Debt
 Overview
 --------
 
-This page builds on a :doc:`rhizome` from 2010 called
-":doc:`/rhizome/wikis-are-not-documentation/`," but discusses the use of
+This page builds on a post from 2010 called
+":doc:`/posts/wikis-are-not-documentation/`," but discusses the use of
 wiki(s) in two contexts:
 
 1. a method for producing documentation and other information
@@ -76,7 +76,7 @@ Pages in an information resource often need to be "living:" updated
 regularly, changed to reflect changes in the topic matter, product, or
 the state of the art. 
 
-If pages are not reasonably :doc:`atomic|atomicity`, it's possible for
+If pages are not reasonably :doc:`atomic <atomicity>`, it's possible for
 the information to "rot," where it looses internal consistency and
 where revisions--even major revisions--must happen in a rolling
 fashion. Combined with the diffusion of responsibility and the general
@@ -95,7 +95,7 @@ Strategy, Direction, and Wikipedia
 
 (*`I've written about wikis a bunch on tychoish <http://tychoish.com/ikiwiki.cgi?P=wiki>`_
 before, and most of the posts address some aspect of this problem. In
-truth, I think my earlier have been a bit scattered.*--:doc:`tychoish`)
+truth, I think my earlier have been a bit scattered.*--sam)
  
 Too often people link two facts to each other: first that Wikipedia is
 wildly successful, and second that Wikipedia is a wiki. To compound
@@ -125,7 +125,7 @@ Solutions
   I think it's important to separate the methodology from the actual
   software. Both have their flaws and disadvantages, but there are
   some cases where wikis make good publishing systems
-  (i.e. :doc:`tychoish.com|index` is a wiki.) Furthermore, the core of
+  (i.e. :doc:`/index` is a wiki.) Furthermore, the core of
   the wiki method (i.e.e "get everyone in a project involved in
   authorship,") has merit, even if the actual implementation in wiki
   software isn't often productive.
@@ -136,5 +136,5 @@ Solutions
 
 - Approach information resources systemically and holistically.
 
-- Use appropriate :doc:`bucketing` to provide good, manageable
+- Use appropriate *bucketing* to provide good, manageable
   organization of pages.  

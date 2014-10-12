@@ -12,7 +12,7 @@ remember that you're actually doing something. Here's what I've been
 working on:
 
 - **isd**" is a developing page of material for my
-  ongoing :doc:`story project </critical-futures>`. I've written it in my
+  ongoing story project. I've written it in my
   ":doc:`Wiki Fiction </posts/wiki-fiction>`" post. This particular page
   is basically sysadminning-punk, if I may be so bold. The story as a
   whole is largely a future history of human's expansion into the solar
@@ -64,7 +64,7 @@ working on:
   on some other sites as well.
 
 The coolest part about this is that some of you have helped to build a
-page of :doc:`/posts/ssh-tricks` on the wiki that go above and beyond the little
+page of ssh tricks on the wiki that go above and beyond the little
 tricks that I use.
 
 And finally,I 'd like to welcome Kevin Grande, who made a new

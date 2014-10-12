@@ -33,7 +33,7 @@ attempt to catalog some of the work I (and others) have been doing that
   straggling blog posts, and a clean up of the existing content to
   match my current projects and work.
 
-- The :doc:`/knitting` page or blog, which is collected separately from
+- The :ref:`tag-knitting` posts, which is collected separately from
   rhizome posts is in full swing, and I hope to be able to post a
   few things there every now and then.
 

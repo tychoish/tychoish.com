@@ -46,10 +46,6 @@ I've posted a number of new rhizomes in the last week. They are:
   descriptions of "writing classes I wish I'd taken and would love to
   teach."
 
-- I also dumped a :doc:`technical writing link </technical-writing/links>`
-  on a new page, that I might start using for collecting some content
-  that might (or not)
-
 - Not strictly tychoish related, but I revised my personal profile at
   `tychogaren.com <http://tychogaren.com/>`__ to be a bit more up to
   date and generally less weird/awkward.
