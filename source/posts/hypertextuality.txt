@@ -6,13 +6,14 @@ Hypertextuality
    :author: tychoish
    :tags: science-fiction, writing, new-media
 
-I recently took some of my writing time to create a makefile
-(:doc:`/code/novel-makefile`) to manage work I hope to be doing on a new
-novel project. I've started outlining and researching the story in
-earnest after having spent the past few couple of years talking about
-it, and I think writing will commence soon. In another post I'd like to
-write up some thoughts on the tooling and technology of writing
-non-technical/non-manual long-form.
+I recently took some of my writing time to create a makefile (`Novel
+Makefile <https://gist.github.com/tychoish/33ba7a20c97ae9c228e0>`_) to
+manage work I hope to be doing on a new novel project. I've started
+outlining and researching the story in earnest after having spent the
+past few couple of years talking about it, and I think writing will
+commence soon. In another post I'd like to write up some thoughts on
+the tooling and technology of writing non-technical/non-manual
+long-form.
 
 *This post*, drawing from the spending some time buried deep in
 production is about the state of (conceptually) longer form work in

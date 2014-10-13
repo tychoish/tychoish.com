@@ -67,11 +67,13 @@ much everything. That is:
   have this setup, and there's a central remote to keep both (all?)
   machines in sync.
 
-- I'm using :doc:`/code/ikiwiki-tasklist` to basically replicate the
-  functions of ``org-agenda``. Basically this crawls the entire wiki
-  looking for lines that begin with certain keywords and generates a
-  "todo" page based on these notes. Really simple, incredibly useful
-  and it solves much of my aggregation needs.
+- I'm using `ikiwiki tasklist
+  <https://gist.github.com/tychoish/e2cbc994ce922f4fa6d4>`_ to
+  basically replicate the functions of ``org-agenda``. Basically this
+  crawls the entire wiki looking for lines that begin with certain
+  keywords and generates a "todo" page based on these notes. Really
+  simple, incredibly useful and it solves much of my aggregation
+  needs.
 
 - I still have some stuff in org-mode: notes for the nearly-finished
   novel, lots of random old (legacy) data, 12 various open tasks, and

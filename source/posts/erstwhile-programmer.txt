@@ -34,7 +34,7 @@ time, particularly given I/O limitations. So I gave up, started from
 (relative) scratch, and rewrote the scripts to be a little bit more
 smart... You know in an afternoon.
 
-See the revised code here: :doc:`/code/download-mail`
+See the revised code here: `download mail <https://gist.github.com/tychoish/06a0d123cffd188abc21>`_
 
 ikiwiki-tasklist
 ~~~~~~~~~~~~~~~~
@@ -46,13 +46,15 @@ org-mode <http://orgmode.org/>`__ and doing more work with
 org-mode is great, it just ended up getting in my way a bit and I think
 I can get more of what I need to get done in other ways.
 
-I have learned a great deal from org-mode. I made the biggest leap away
-from org-mode when I wrote :doc:`/code/ikiwiki-tasklist`, which does all of
-the things I had been using org-mode's agenda for. It's not a
+I have learned a great deal from org-mode. I made the biggest leap
+away from org-mode when I wrote `ikiwiki tasklist
+<https://gist.github.com/tychoish/e2cbc994ce922f4fa6d4>`_, which does
+all of the things I had been using org-mode's agenda for. It's not a
 complicated at all: look in some files for some lines that begin with
-specific strings and put them into a page that is the perfect task list.
+specific strings and put them into a page that is the perfect task
+list.
 
-See the code here: :doc:`/code/ikiwiki-tasklist`
+See the code here: `ikiwiki tasklist <https://gist.github.com/tychoish/e2cbc994ce922f4fa6d4>`_.
 
 Common Lisp Weenie
 ~~~~~~~~~~~~~~~~~~

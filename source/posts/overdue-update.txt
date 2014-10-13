@@ -53,9 +53,9 @@ working on:
 - A few weeks ago I posted a few new scripts in the code section.
   Tell me what you think:
 
-  - :doc:`/code/ikiwiki-tasklist`
+  - `ikiwiki tasklist <https://gist.github.com/tychoish/e2cbc994ce922f4fa6d4>`_
 
-  - :doc:`/code/download-mail`
+  - `download mail <https://gist.github.com/tychoish/06a0d123cffd188abc21>`_
 
 - My post, :doc:`9 Awesome SSH Tricks </posts/9-awesome-ssh-tricks>` from
   March 2011, spent a number of hours on the front page of hacker new.

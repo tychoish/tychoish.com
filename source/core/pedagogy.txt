@@ -2,9 +2,8 @@
 Pedagogy
 ========
 
-
 In the comments to my :doc:`career pathways
-</rhizome/career-pathways>`, Bruce drew out the connection between
+</posts/career-pathways>`, Bruce drew out the connection between
 teaching and scholarship (or intellectual practice.) I would like to
 explore pedagogy in more depth, both as part of the series on
 scholarship on the :ref:`blog-posts` and independently on the

@@ -39,16 +39,16 @@ may be able to use. No promises, and feel free stash content here as
 well. It's all gravy.
 
 Speaking of the code section, I wrote a little script that I use as
-``dbl``, that I describe in the :doc:`Epistle Linker </code/epistle-linker>`.
+``dbl``, that I describe in the `Epistle Linker <https://gist.github.com/tychoish/7b07a4dd6fe250bc2b7d>`_.
 Basically this little function goes through a directory and creates
 symbolic links to that directory in a specified directory and mangles
 the names of the file (prepends a few charters and changes the
-extension.) :doc:`Read the code </code/epistle-linker>`, but it makes it
+extension.) You an read the code, but it makes it
 possible to use a service like Dropbox without disrupting your local git
 setup and file organization. There's a known issue with Dropbox that
 makes it slightly less than ideal, but what can you do.
 
-When I was posting :doc:`/code/epistle-linker`, I realized that I had
+When I was posting the epistle-linker, I realized that I had
 probably forgotten to mention the fact that I have this nifty little bit
 of glue that uses a procmail filter (you *do* use procmail, don't you?)
 to deposit note to a particular email address (configurable) into an

@@ -45,7 +45,7 @@ I do have some links and notes for you.
 
 - I spent some time this morning working on a system to capture notes
   into org-mode using procmail and my cellphone's email client. See
-  that :doc:`here </code/org-mail>`.
+  that `here <https://gist.github.com/tychoish/0961420916239d4ac367>`_.
 
 - Most of this post, excluding the links, was written on the
   aforementioned cell phone. It's still not quite the same as writing
