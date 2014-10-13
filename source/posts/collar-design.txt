@@ -1,0 +1,119 @@
+=============
+Collar Design
+=============
+
+.. post:: 2012-06-27
+   :author: tychoish
+
+The success or failure of the collar of a sweater determines the
+success or failure of an entire sweater. This post provides an
+overview of my basic: "how to knit a collar" system that *usually*
+works for me and some thoughts on why collars are so important.
+
+The hard part of collars is that on the whole, collar shaping accounts
+for five or ten percent of the knitting, but weeks or months worth of
+work hangs in the balance. The collar affects both the overall style
+of the sweater and has a great impact on how you will feel about the
+sweater when you wear it. A collar that doesn't hang right, or is too
+narrow or too wide is *the worst*: the right collar can also make a
+sweater that is otherwise too light feel just warm enough and more
+importantly the sweater that's too heavy not feel oppressively warm.
+
+So how do you knit a collar?
+
+Easy. 
+
+*The fine print*: These instructions assume that
+you're knitting the sweater in the round.</small> 
+
+*For a basic, round, crew neck...*
+
+Figure out how long your sweater will be from the top of the shoulder
+seam to the bottom hem. Typically this is the length measurement in
+the pattern and you can measure it easily yourself. 
+
+Figure out how many stitches around your collar *opening* needs to be
+at the very end, but the width of the hole at the top seam. Because
+you're shaping the collar, the number of stitches on the collar *as
+you knit it* will be slightly higher because of the angles/sloped
+edges. Typically this is 13-16 inches for most people. 
+
+Elizabeth Zimmerman would figure 1/3rd of K, which is a good starting
+point, but if your sweater has too much ease or if your making a
+sweater in excess of 40 inches (which isn't too big,) I think you'll
+end up with neck openings that are a little too wide. 
+
+Before you start, compute the following values: 
+
+- Half of the total collar width. This is the total number of stitches
+  that you need to set aside or decrease by the time you get to the
+  shoulder seam *on the front and the back*.
+  
+- About half of this number or a quarter of the total (or a bit less,
+  round down here, if need be) to set aside at the base of the neck.
+  
+- The total number of stitches minus the actual number of stitches set
+  aside at the bottom of the neck, if your math is fuzzy. This is the
+  number of stitches that you have to decrease on either side of the
+  neck. *This number must be even.* 
+  
+- The distance between the bottom of the neck and the top of the
+  shoulder. This is almost always within a half an inch of 3
+  inches. Also record the number of rows.
+
+With these numbers in hand, do the following. 
+
+**Three** (3) inches before this length, begin the collar
+shaping. (Change depth as needed.)
+
+Set aside stitches at the bottom of the neck. 
+
+Decrease on either side of the neck opening (possibly using a steek,)
+every row until you have decreased half of the number of stitches that
+you need to decrease. Typically this should take about an inch and a
+half of knitting, or half of the total collar depth to accomplish. 
+
+After you've knitted half of the total collar depth, figure out how
+many stitches you've decreased at this point. Set this number of
+stitches aside in the middle of the back of the sweater. 
+
+*Meanwhile:* Create a new steak or begin decreasing at the back of the
+neck at the same rate as you decrease at the front.
+
+Now decrease at *half* the rate (e.g. every other row) for the
+remainder of the depth of your collar opening. Bind off. You've made a
+sweater.
+
+If you time it right, and your stitches are not too short and wide,
+this basically works out to: set aside stitches at the front, decrease
+every row for an inch and a half, set aside stitches at the back,
+decrease every other row for an inch and a half. Bind off for
+shoulders. 
+
+Variants: 
+
+- Knit more on the front so that the shoulder seam is actually at the
+  top of the back, and the front of the sweater extends over the top
+  of the shoulder.
+
+- Use shoulder saddles or straps to increase the depth of the
+  neck. This is a perpendicular strip of knitting that starts at the
+  side of the neck and extends across the shoulders and forms the top
+  part of the sleeve. 
+  
+  In this case, subtract half of the width of the saddle/strap from
+  the depth of the collar opening, and twice the width from the
+  opening. Adjust accordingly: typically the best thing to do is
+  figure out how much additional depth you need to decrease, figure
+  out how many rows that will be, and plan to decrease on every row and
+  set aside the remainder. Depending on the depth you may need to
+  "fill in" or shape some of the depth on the back of the neck.
+  
+- If your shoulders slope downward, consider short rows across one or
+  both of the sides, to make the top of the sweater a bit more
+  conical. 
+
+- I often make Henly-style sweaters by setting aside a single stitch
+  (and knitting a steek) 3-5 inches bellow the bottom of the
+  collar. This keeps sweaters from becoming too warm.
+  

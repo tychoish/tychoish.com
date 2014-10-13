@@ -1,0 +1,91 @@
+============================
+Knitting in Three Dimensions
+============================
+
+.. post:: 2011-11-23
+   :author: tychoish
+
+It's relatively straight forward to think about knitting in terms of
+creating two dimensional shapes. Most of us start by knitting
+something "easy" [#scarf-knitting]_ like a scarf. From there it's easy
+enough to teach knitters to create a never ending variety of
+polygons. This, however, misses what I think of as the really cool
+part of knitting. I think the way to understand how knitting works, to
+be able to knit things that more closely resemble what you want, and
+to *have the most fun knitting* is to always think about knitting as
+three dimensional.
+
+This isn't an elaborate argument in favor of circular knitting: that
+argument has been fairly well made and I'll recount my favorite points
+on request, but circular knitting is a great technique
+and knitting in three dimensions is an entire practice.
+
+.. [#scarf-knitting] Scarf knitting seems so easy and mechanically it is:
+   knit the same number of stitches row after row after row. But there
+   are issues. First, garter stitch to the uninitiated doesn't look like
+   "knitting," and with a high rows per inch ratio these scarves take
+   forever to knit. Such projects are always discouraging.
+
+Knitting Gestalts / Knitting Shapes
+-----------------------------------
+
+I've written about this before but one of the best parts about sweater
+knitting is thinking about how the sweater--the whole object--comes
+together into a garment. Rather than knitting a collection of flat
+pieces that can be sewn into a garment (tailoring) knitting lets you
+build and shape garments with various seamless and nearly-seamless
+methods.
+
+I sometimes describe this kind of knitting as "architectural," but the
+key (for me) is thinking about the entire object as a whole. There's
+something that's nearly magical that happens when you can take a few
+rows curled up on a circular needle and see in your mind fits into the
+object that you're knitting. The process of using knitting stitches,
+increases and decreases to get from the former to the later is
+relatively trivial if have can think about the entire object (a
+"knitting gestalt") in three dimensions in your mind.
+
+Knitting Mechanics
+------------------
+
+If "knitting gestalts" provide a top-down perspective on knitting, I
+think there's a "bottom up" three dimensional perspective that is
+important when thinking about how stitches fit together. While a big
+part of knitting has to do wit the shapes and forms, the textures,
+drape and "hand" of the fabric all have a lot to do with the final
+evaluation of the object. To understand drape and texture, it's
+important to consider the properties of individual knitting stitches
+and the effects of yarn weight/texture, needle size, and personality
+of the knitter. The second part (yarn type, needle size, knitting
+style) is pretty common, the first (knitting stitch) is less so.
+
+I have a favorite example of this kind of thinking. I'm not sure where
+I learned this but it's suck with me:
+
+Knitted fabric typically curls. This happens because the "purl side"
+of the knitted stitch has a greater surface area than the "knit side,"
+which causes unaltered stocking stitch to roll up. At the same time,
+the "knit" side of the stitch is a little bit wider than the "purl"
+side of the stitch, so the edges will curl in. The way to counteract
+this, is to mix knit-and-purl stitches on the same row to balance the
+surface areas out and thus counteract the effects. Think about ribbing
+and seed stitch... Think about knit and purl patterns and how they
+change the tendency of the fabric to roll. Think about the path of the
+yarn through a knitting stitch.
+
+See? Isn't is cool?
+
+In Conclusion
+-------------
+
+Whatever kind of knitting you want to do is fine with me: I don't care
+to tell anyone that the way they knit is *wrong*. At the same time, I
+don't think there's any sense in being afraid of your knitting:
+knitting is great fun and I think once you know the basics most
+knitters can knit just about everything. So my goal in this post, and
+in all of my :ref:`tag-knitting` posts, is to share my own process and
+encourage you (all) to branch out in your own work.
+
+Have fun!
+
+Onward and Upward!

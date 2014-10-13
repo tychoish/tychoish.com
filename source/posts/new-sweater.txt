@@ -1,0 +1,123 @@
+===========
+New Sweater
+===========
+
+.. post:: 2011-08-23
+   :author: tychoish
+
+This post comes in two parts: an update on the current knitting
+project and an introduction to a new sweater that I've started
+recently. See the :doc:`Ideal Sweater </posts/ideal-sweater>` and
+:doc:`Sweater Stories </posts/sweater-stories>` posts for more
+information on my current thinking about knitting and writing.
+
+Current Sweater: Gray and Black
+-------------------------------
+
+I've been trying to write an update on my current knitting, but to be
+honest I'd rather be knitting than writing little updates and taking
+picture of the thing that I'm knitting. Also, while there's something
+engaging and captivating about the long slog from the hem to the
+shoulder during the knitting, even though progress is always apparent,
+there's not a lot to talk about for weeks and weeks while the piece
+grows. 
+
+I think it's going to be a great sweater, and while it's not the first
+thing I've really knit recently, I think it's the first that I care to
+finish. There are a lot of great things about this sweater: the
+pattern is fun to knit, it's the perfect size, it matches the cats,
+and it's visually interesting without being *busy*. Also, I used
+Shetland yarn, and it's really impossible to say enough about how much
+little things like that matter. 
+
+I'm not yet done with the sweater. As I draft this post, I've knit the
+body and the collar, and just have sleeves left to do. I knit sleeves
+from the top-down, and am three inches or so past the shoulder. The
+sleeves will be pretty straight forward and are just a matter of
+spending some time. 
+
+The problem with knitting sleeves from the top down is that you have
+to have a full sweater on your lap. In the summer this means
+overheating with a pound of wool on your lap or knitting at a
+table. Neither of which is terribly ideal. As a result I've started
+the next sweater. I'll try and post something about the sweater as a
+whole when its done but in the mean time I'd like to collect a few
+thoughts and lessons learned so far.
+
+- I think the neck opening is a bit too wide. I have a crew-neck
+  formula that I've been using for a while that might need to be
+  tweaked. 
+  
+  Basically three inches before the shoulder, decrease every row on
+  both sides of the neck for an inch and a half, decrease every other
+  row for the last inch and a half. Create a steek over the back of
+  the neck after the first inch and a half and decrease both the front
+  and the back at the same rate. Start at the bottom of the front
+  steek with half the number of stitches you'll eventually decrease
+  (from the front.) 
+
+  In [EPS](http://en.wikipedia.org/wiki/Elizabeth_Zimmermann#EPS_system)
+  terms, the total neck opening should consume a third of the total
+  number of stitches and one sixth of the total number of stitches
+  three inches before the shoulder seam. But divide everything in half
+  for the front and back to get a usable number.
+
+- I think my gauge has changed noticeably in the last 4 years, but
+  only the row gauge. I for one find this strange, though there's not
+  much I can do with it except deal with it. 
+
+- This sweater has a number of turned hems, and I've realized a two
+  important facts about knitting turned hems: 
+
+  - The conventional instructions say: knit a facing, knit a round of
+    Purl stitches to "turn the hem" and then knit on. (Can be done in
+    reverse, depending on which direction your going.) Don't. Knit
+    *two* rounds of purl stitches. The turn is much more sharp. 
+
+  - Knit the hem facing on *two* needle sizes smaller than the actual
+    knitting. If you can knit the facing on 80-90% of the number of
+    stitches as well (in some situations this isn't feasible.) 
+
+  - Knit the purl stitches with the smaller needle rather than
+    switching to the smaller needle to knit the facing. 
+
+  - Knit one more round before joining the hem in than you think you
+    need. 
+
+ - If you're knitting with Shetland and not planning to treat your
+   steaks to secure them, steam the steek before cutting. Also, an
+   extra couple of stitches wouldn't hurt. Tragedy was averted, but it
+   was closer than I'd like.
+
+I'll get more notes out (and perhaps elaborations of these points? If
+there's interest.) after I finish.
+
+New Sweater: Blue and Blue 
+--------------------------
+
+I started a new sweater because the existing sweater was a bit to
+heavy and too warm. And I had yarn in the closet that was begging to
+be knit. This won't be the first sweater I started knitting in August
+for this reason. 
+
+Also, I had the plan for the new sweater all developed and I wanted to
+get started: I'm an adult and I can do that.
+
+The yarn is Shetland. Harrisville Designs "Midnight," is the darker
+color, and I'm using some light blue-gray that I got from Webs a few
+years ago for the contrasting color. Probably the last great mill end
+from webs. The lighter color came in a 3 pound cone, and I've already
+made a sweater (a flop) out of the yarn and didn't seem to make much
+of a dent.
+
+The pattern itself is built around the same snowflake pattern that
+I've been using (this makes sweater number 4 with the same pattern,)
+but is the most reminiscent of the first sweater in the series, with
+some improvements for greater knitability. The effect, I hope, will
+be reminiscent of cables. 
+
+At the time of drafting, I've not yet joined the hem facing and the
+lower edge. I'll probably post again about this one again after it
+starts looking like a sweater but before the long slog starts.
+
+Onward and Upward!

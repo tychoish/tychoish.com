@@ -12,10 +12,10 @@ sidebars:
   '**':
     - 'localtoc.html'
     - 'relations.html'
-    # - 'sourcelink.html'
-    # - 'postcard.html'
-    # - 'recentposts.html'
+    - 'postcard.html'
+    - 'recentposts.html'
     # - 'tagcloud.html'
-    # - 'categories.html'
-    # - 'archives.html'
+    - 'categories.html'
+    - 'archives.html'
+    - 'sourcelink.html'
 ...

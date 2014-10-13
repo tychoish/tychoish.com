@@ -1,0 +1,98 @@
+===============
+The Perfect Rib
+===============
+
+.. post:: 2014-01-18
+   :author: tychoish
+
+I knit socks on four (5 inch) double pointed needles, these days from
+the cuff down, and I enjoy socks with some amount of ribbing at the
+cuff.
+
+Seems reasonable. I also tend to have two other restrictions:
+
+1. Each needle should have the same number of stitches.
+
+2. In the ribbing, each needle should begin with a knit stitch and
+   end with a purl stitch.
+
+This somewhat constrains the possibilities. Also given a preference
+for rubbings that are biased towards knit stitches, I tend to veto
+options that might otherwise be workable. Here's a quick cheat sheet
+of compliant patterns. Patterns are for one needle, repeat for each
+
+- **12 stitches** (48):
+
+  - Knit 2, purl 2 till end.
+
+  - Knit 3, purl 1 till end.
+
+- **13 stitches** (52): Knit 3, purl 2 twice; then knit 2, purl 1.
+
+- **14 stitches** (56): Knit 3, purl 2 twice; then knit 3, purl 1.
+
+- **15 stitches** (60):
+
+  - Knit 3, purl 2 till end.
+
+  - Knit 2, purl 1 till end.
+
+- **16 stitches** (64):
+
+  - Knit 2, purl 2 till end.
+
+  - Knit 3, purl 1 till end.
+
+- **17 stitches** (68): Knit 2, purl 2 twice; then knit 2, purl 1 three times.
+
+- **18 stitches** (72):
+
+  - Knit 2, purl 1 till end.
+
+  - Knit 3, purl 2 three times; then knit 2, purl 1.
+
+- **19 stitches** (76): Knit 3, purl 2 three times; then knit 3, purl 1.
+
+- **20 stitches** (80):
+
+  - Knit 2, purl 2 till end.
+
+  - Knit 3, purl 1 till end.
+
+  - Knit 2, purl 1 till end.
+
+  - Knit 3, purl 2 three times; then knit 2, purl 1.
+
+- **21 stitches** (84):
+
+  - Knit 2, purl 1 till end.
+
+  - Knit 3, purl 2 three times; then knit 2, purl 2.
+
+- **22 stitches** (88):
+
+  - Knit 2, purl 1 six times, then knit 2, purl 2.
+
+  - Knit 3, purl 3; then, knit 2, purl 2 till end..
+
+- **23 stitches** (92):
+
+  - Knit 2, purl 2 five times; then knit 2, purl 1
+
+  - Knit 3, purl 1 five times; then knit 2, purl 1
+
+  - Knit 3, purl 2 four times; then knit 2, purl 1
+
+- **24 stitches** (96):
+
+  - Knit 2, purl 2 till end.
+
+  - Knit 3, purl 1 till end.
+
+  - Knit 2, purl 1 till end.
+
+  - Knit 3, purl 2 three times; then knit 2, purl 1.
+
+- **25 stitches** (100):
+
+  - Knit 3, purl 2 till end.

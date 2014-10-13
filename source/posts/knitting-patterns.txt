@@ -1,0 +1,85 @@
+=================
+Knitting Patterns
+=================
+
+.. post:: 2012-06-22
+   :author: tychoish
+
+In the course of writing a computer program, engineers typically face
+the same kinds problems again and again. As a result programmers have
+developed a way of thinking about different kinds of solutions and
+situations as "patterns," which provide generalized ways of talking
+about common problems and strategies.
+
+> **See:** `Portland Pattern Repository <http://c2.com/ppr/>`_ for an
+> example catalog of programming patterns.
+
+When I opened the editor to write this post, I wanted to write
+something to connect this idea of a "pattern" with a knitting
+pattern, which I think is (or could be) a very related concept.
+
+Rather thank think about knitting designs as these static
+instructions for constructing a single kind of garment, I think it
+might be cool to think of knitting patterns in the sense that
+programmers use the word: as a set of generalized responses to
+various states and situations.
+
+This isn't revolutionary. If you've been knitting seriously for more
+than a couple of years, you probably already think about knitting in
+this way. At the same time, knitting publishers organize information
+in other ways: knitting "content" is either *design* and object
+centric (how to knit a "thing,") or it's technique centric (how to
+make a specific kind of "stitch" or "how to execute a specific kind of
+operation.")
+
+Patterns are good because they are guides to become more creative and
+more resourceful knitters. Patterns help us understand how to
+effectively use resources, to execute the objects that we want to
+without dithering, and how to fix mistakes in our knitting when we
+make them. Focusing on knitting "patterns," is not only important
+because knitters will find them useful, but because it will advance
+the state of the craft.
+
+Patterns also help resolve an ongoing "problem" in the knitting world:
+an online, `free culture <http://en.wikipedia.org/wiki/Free_culture_movement>`_
+repository of information about knitting.
+
+In the decade or so, I've watched a number of knitters attempt to
+create online information resources that serve as a free culture
+repository for knitting. Nothing has been particularly successful, and
+there's not a lot of "knitting free culture" out there.
+
+While the lack of knitting free culture is due to a large number of
+factors, the fact that knitting content has always centered on
+"objects" and "techniques" is almost certainly a factor:
+
+- objects are difficult to design, represent professional designer's
+  only real way of generating a reputation and income, and it's
+  difficult to divide the work of writing instructions for creating
+  objects.
+
+- there are a few (3-5) really, *really* good knitting techniques
+  compendiums, and while new techniques emerge every now and then the
+  books from 1938 (Mary Thomas') are as good as any of the more recent
+  examples.
+
+Patterns in this sense might be the best way to build an online
+knitting resource.  Rather than store indexes upon indexes of cast on
+methods, full patterns for garments, and stitch patterns, we could
+create an index of knitting patterns, generated and indexed by
+situation and purpose. Example patterns might include:
+
+- Heels for Light Weight socks.
+- Heels for thick socks.
+- Crew neck collars.
+- How to knit sweaters in the round when you don't want to steek.
+- How to secure a steek if the yarn isn't wool.
+- Knitting socks for high arches.
+
+*And so forth...*
+
+I'm going to use my (admittedly sporadic) knitting blogging to begin
+capturing some of these knitting patterns. Then, if there's interest,
+we can convert these into a more robust form.
+
+Anyone interested?

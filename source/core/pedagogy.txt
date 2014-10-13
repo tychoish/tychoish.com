@@ -1,0 +1,150 @@
+========
+Pedagogy
+========
+
+
+In the comments to my :doc:`career pathways
+</rhizome/career-pathways>`, Bruce drew out the connection between
+teaching and scholarship (or intellectual practice.) I would like to
+explore pedagogy in more depth, both as part of the series on
+scholarship on the :ref:`blog-posts` and independently on the
+wiki. This page may move around on the wiki.
+
+.. contents::
+
+Formal Classes
+--------------
+
+I'm interested in teaching formal writing classes. While I don't
+really want to teach freshman writing to anyone, I think it would be
+pretty interesting to help train professional writers. The basic
+descriptions of the course, goals, and inspiration for the ideas
+follow.
+
+If anyone is interested in taking one of the classes described below
+or finding a way to get me in front of actual students, I'd love some
+help and support here. Be in touch. Also remember that this is a
+wiki. I'm aware that these thoughts are pretty rough on my initial
+pass, so please do edit.
+
+Blogging Intensive Workshop
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I'm convinced that the thing that made it possible for me to "be a
+writer" is my blog. a practice of writing regular posts for a few
+years taught me how to take any morsel of an idea and write a few
+paragraphs on the topic. Blogging taught me how to sense audience,
+even if I haven't responded well to that audience. 
+
+I think it would have been great if I had a class in college that
+said: write 3 or 4 posts in a blog a week (which is a lot,) about
+various topics (some of your choosing, some not.) Do that for four
+months. Get the content out onto the internet, lead discussion
+threads, and just see what happens. Students would, by the end:
+
+- Have experience with voice. The only way to be able to write clearly
+  and effectively as *yourself* without becoming bogged down in
+  affected prose is by a lot of practice.
+
+- Write more clearly and more concisely. Shorter, clearer blog posts
+  are more successful than longer ones. That's a huge part of the
+  form, and four months and ten or twenty thousand words to learn this
+  seems pretty speedy. Having to write regularly, and at volume, makes
+  it easier to figure out how to improve core communication skills.
+  
+- Learn how to edit and polish your own writing, *sufficiently* to
+  avoid distracting from what you're saying (one of my biggest
+  challenges,) without developing an obsessive complex. 
+  
+- Reflexively communicate an idea in a brief essay or note, without
+  second thought. There's a difference between being able to have a
+  conversation about an idea or taking some ideas and build an essay
+  (eventually) and "real writing." Turning conversations into
+  arguments and ideas automatically is really key. 
+
+Long Form Text and Collaboration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In college, I learned a lot about how to write a lot of different
+kinds of papers. I can probably still auto-pilot thought anything from
+"about a page" to about 10-20 pages. And maybe I wrote a paper
+something that was 30 pages on a single project. But I never wrote
+anything longer than that in school. As a result I never really
+learned how to write and manage longer structured texts, and these are
+exactly the kind of texts that are the core of professional writing,
+and arguably good academic writing as well. I was also unprepared for
+working as/with an Editor in realistic situations.
+
+The basic plan for the class is to present an outline of a book on
+day-one, and have the class develop a method and a plan to complete
+the book by the end of the semester. The course would spend a few
+weeks covering the material for the book and talking about the
+research process. But after a week or two (at most,) I'd turn into a
+project manager for the rest of the term to help them write and edit a
+manuscript. The learning objectives/major writing lessons:
+
+- How to think about writing as a top-down process (moving from
+  chapters to collections of sections and paragraphs) rather than
+  bottom-up (moving from words, to sentences, to paragraphs.)
+
+- How to edit other people's work. I think of this as "caring about
+  sentences."
+
+- How to let other people rewrite your work and learn from the
+  experience. There's a lot of effort and work that goes into
+  preventing cheating in academic writing. The end result is to
+  enshrine the right of the author to have full control of their text,
+  which isn't realistic or particularly productive.
+
+- How to draft effectively so that other people can build on your
+  work. Drafts can and should have notes to yourself to "write more
+  about a particular idea," they can have unfinished sections, and
+  they can have sections that get left on the cutting room
+  floor. Drafts can have sections that are just collections of quotes
+  and links. Drafts aren't just fully written versions in need of a
+  little polish. 
+  
+  While I like the idea of "turning in a draft," to a professor as a
+  way of ensuring that students have some sort of writing process, I
+  think the truth is that most drafts don't look enough like a paper
+  for this to be a useful exercise. 
+
+Writing as Teaching
+-------------------
+
+Another thought, separate from teaching formally, is that much of
+writing I'm doing contributing to tychoish.com is pedagogical
+itself. While it's not always been intentional, a great part of my
+writing here attempts to explain topics, draw connections and ask
+leading questions. After all, that is basically what the best seminars
+do anyway.
+
+Technical Writing as Pedagogy
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Technical writing is largely a pedagogical practice. The overlap
+between good rhetorical and technical skills is not as uncommon as
+good technical writing skills. While being able to communicate
+technical concepts is a challenge, the "magic" lies in being able to
+understand your audience and tailor documentation and resources to
+their needs. That is at it's core a pedagogical exercise.
+
+And that's just in "conventional" technical writing (comprehensive
+manuals, specifications, API reference materials, release notes.) I'm
+increasingly convinced that most of the words spilled by technical
+writers are actually far *more* pedagogical: training materials,
+procedural guides, technology overviews, white papers, and so
+forth. It's all teaching people about something. 
+
+Blogging as a Teaching Tool
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+My blog posts: present an idea, (hopefully!), a little background or
+context, a few resources as links, and a whole slew of
+questions. That also describes many college lectures, or at least the
+best ones
+
+So maybe, following from Bruce's comments the teaching element of my
+:doc:`intellectual practice </posts/intellectual-practice>` is already
+established. I still want to explore it more, but it's a starting
+point.

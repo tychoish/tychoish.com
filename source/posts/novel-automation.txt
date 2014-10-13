@@ -7,7 +7,7 @@ Novel Automation
    :tags: programming, software-development
 
 *This post is a follow up to the interlude in the*
-:doc:`/programming-tutorials` *post, which part of an ongoing series
+:doc:`/posts/programming-tutorials` *post, which part of an ongoing series
 of posts on programmer training and related issues in technological
 literacy and education.*
 

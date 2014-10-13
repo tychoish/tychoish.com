@@ -24,7 +24,7 @@ sites:
   a post that made the rounds a few weeks ago: `Lets Just Use
   Emacs <http://beastwithin.org/users/wwwwolf/fantasy/avarthrel/blog/2011/05/lets-just-use-emacs.html>`__
 
-- :doc:`Cyborg History </cyborg/history>` - a link from my father on the
+- A link from my father on the
   history of computing. I replied to him with `Code Quarterly Interview
   with Hal Abelson <http://www.codequarterly.com/2011/hal-abelson/>`__.
 

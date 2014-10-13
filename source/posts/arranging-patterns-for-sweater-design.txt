@@ -1,0 +1,62 @@
+=====================================
+Arranging Patterns for Sweater Design
+=====================================
+
+.. post:: 2011-11-08
+   :author: tychoish
+
+There are two major problems in sweater making (design.) First, figure
+out how to make the shape you want out of knitting, and second to
+place some sort of ornamental feature (pattern) in the knitting
+without disrupting the shape.
+
+Shaping isn't easy, but it's solvable. Once you figure out how to make
+the shapes you want, it's just a matter of implementing a known
+process. Shaping becomes trivial.
+
+The second problem, the design, is the really clever part.
+
+Fitting patterns and embellishments onto a shape, just isn't solvable,
+and never becomes trivial. There are tricks, and practices makes it
+easier, but the possibilities are truly endless and there's no
+reason to make any two sweaters exactly the same. [#exception]_
+
+The patterns and embellishments can be pretty broadly defined: cables,
+colorowork, other texture patterns, and so forth.
+
+In my own knitting, I have taken to focusing almost entirely on the
+second problem. I have a basic sweater form that works really well for
+me, and each sweater explores a different combination of patterns.
+
+My approach is as follows:
+
+- Divide the sweater into quadrants and plan a single quadrant of the
+  sweater. Repeat this pattern over the entire sweater. This
+  automatically centers the pattern on the sweater.
+
+- Be flexible with the number of stitches but not too flexible. Also
+  remember to account for a "middle" and "end" stitch which may not be
+  repeated on every quarter.
+
+- Think of birds eye view of the design. This means thinking about
+  sweater design as a collection of pattern columns.
+
+- Use patterns at either side of the sweater both for a nice effect
+  *and* to "bound" the patterns. This can be helpful in controlling the
+  number of stitches.
+
+- Unless you plan to knit your sweater horizontally, plan your sweater
+  virtually even if you have horizontal patterns. It's crucial to
+  center patterns that run horizontally across the sweater. Thinking
+  vertically is the easiest way to do this visually for all kinds of
+  patterns.
+
+  If you're using only one pattern that's fewer than 10-15 stitches,
+  you may be able to just make sure that your pattern divides in the
+  total number of stitches in the sweater, but that's a much less
+  common problem.
+
+Beyond that, it's all trial, error, and practice. Onward and Upward!
+
+.. [#exception] There may be some exceptions, but generally.
+
