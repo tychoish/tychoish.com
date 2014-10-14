@@ -35,11 +35,12 @@ sure it can do everything I want or need it to for a while, and the
 worst case scenario is that the skills will be transferable if I need to
 change later.
 
-My first "project," I think is to rewrite :doc:`/code/build-novel` to
-Python. I get what needs to happen, and it mostly just mangles some text
-files into a number of other files to keep source and publication
-versions of `Knowing Mars <http://tychogaren.com/mars>`__ in step with
-each other. The hope being that the script will be a bit more resilient,
+My first "project," I think is to rewrite `build novel
+<https://gist.github.com/tychoish/48f0ab67541fd7e62a17>`_ to Python. I
+get what needs to happen, and it mostly just mangles some text files
+into a number of other files to keep source and publication versions
+of `Knowing Mars <http://tychogaren.com/mars>`__ in step with each
+other. The hope being that the script will be a bit more resilient,
 and also be more easily generalized to publishing other projects as I
 have them to publish.
 

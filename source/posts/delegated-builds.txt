@@ -47,7 +47,7 @@ code, but is really awesome:
 The Code
 --------
 
-See the :doc:`code page </code/delegated-builds>` for a basic overview, and
+See the `gist <https://gist.github.com/tychoish/bd822864d70412fe58f1>`_ for a basic overview, and
 keep your eyes on the repositories:
 
 - `cyborg institute delegated-build

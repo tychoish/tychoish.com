@@ -42,7 +42,8 @@ to have a good story to tell;" when I think about learning to program I
 think the first step *has* to be a need to automate something on a
 computer.
 
-I've even :doc:`started a wiki page on the topic </technical-literacy/teaching-programming>`.
+I've even :doc:`written up something on the topic
+</core/teaching-programming>`.
 
 Hackers describe this as the "scratch your own itch" method (from
 `CatB <http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html>`__

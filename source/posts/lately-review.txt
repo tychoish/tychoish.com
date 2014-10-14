@@ -23,11 +23,11 @@ Also, a thanks to the people who have done things like fix links and
 correct stupid typos. Sorry to have caused the trouble, and I'm
 eternally grateful for the helping hand.
 
-Next up, I wrote a :doc:`document </documentation>` for a reader who
+Next up, I wrote a tutorial for a reader who
 commented in the :doc:`Make Emacs Better </posts/make-emacs-better>` thread.
 The question addressed how to load optional functionality and
 "contributed" lisp code in emacs, and I wrote 
-:doc:`a little tutorial on how to load .el files in emacs </documentation/managing-emacs-configuraiton-and-lisp-systems>`. 
+:doc:`a little tutorial on how to load .el files in emacs </posts/managing-emacs-configuraiton-and-lisp-systems>`. 
 I think of this as a very basic and straightforward piece of customizing
 emacs; but it's sufficiently complicated and counter-intuitive enough
 that I think a little bit of documentation is in order.

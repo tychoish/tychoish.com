@@ -1,0 +1,184 @@
+Managing Emacs Configuration and Lisp Systems
+=============================================
+
+.. post:: 2011-08-05
+   :author: tychoish
+   :tags: emacs, documentation, lisp
+
+This document outlines the use of emacs' ``require`` and ``provide``
+functions to help new users understand how to better configure the
+text editor. While there are a number of different strategies for
+organizing emacs configuration files and lisp systems and there is no
+single dominant best practice, consider this document if you find your
+``.emacs`` or `init.el`` file growing out of control. 
+
+Background and Overview
+-----------------------
+
+
+After using emacs for any period of time, one begins to develop a
+rather extensive emacs configuration. Emacs comes with very little
+default configuration and large number of configuration
+possibilities. Because writers, programmers, and researchers of all
+persuasions and backgrounds use emacs for a larger array of tasks and
+work profiles, the need for customization is often quite high. 
+n
+Rather than have a massive emacs configuration with thousands of
+lines, I've broken the configuration into a number of files that are
+easier to manage, easier to troubleshoot, and easier to make sense
+of. These files are then linked together and loaded using emacs'
+native ``require`` function. This document explains that organizational
+principal and provides the code needed to duplicate my configuration. 
+
+I store all of my emacs configuration in a folder that I will refer to
+as ``~/emacs/``, in actuality this is a sub-folder within a git
+repository that I use to store all of my configuration folders, and
+you should modify this location to suit your own needs. Additionally,
+I have the habit of prepending the characters ``tycho-`` to every
+function and emacs file name that are my own writing. This namespace
+trick helps keep my customization separate from emacs' own functions
+or the functions of loaded packages and prevents unintended
+consequences in most cases. You might want to consider a similar
+practice. 
+
+Configuring .emacs
+------------------
+
+My ``.emacs`` file is really a symbolic link to the
+``~/emacs/config/$HOSTNAME.el`` file. This allows the contents of
+.emacs to be in version control and if you have your emacs
+configuration on multiple machines to use the same basic configuration
+on multiple machines with whatever machine specific configuration you
+require. To create this symlink, issue the following command: ::
+
+     ln -s ~/emacs/config/$HOSTNAME.el ~/.emacs
+     
+Make sure that all required files and directories exist. My ``.emacs``
+file is, regardless of it's actual location, is very minimal because
+the meat of the configuration is in ``~/emacs/tycho-init.el``. Take the
+following skeleton for ``~/.emacs``: ::
+
+     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+     ;; 
+     ;; Startup and Behavior Controls 
+     ;;
+     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+     
+     (setq load-path (cons "~/emacs" load-path)) 
+     
+     (setq custom-file "~/emacs/custom.el")
+     (add-to-list 'load-path "~/emacs/snippet/")
+     (add-to-list 'load-path "/usr/share/emacs/site-lisp/slime/")
+          
+     (require 'tycho-display) 
+     
+     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+     ;; 
+     ;; Machine Specific Configuration Section
+     ;; 
+     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+     
+     (tycho-font-medium)
+     (setq bookmark-default-file "~/garen/emacs/bookmarks/arendt"
+           w3m-session-file "~/garen/emacs/bookmarks/w3m-session-arendt"
+           bookmark-save-flag 1)
+     
+     (if (file-directory-p "~/garen/emacs/backup")
+         (setq backup-directory-alist '(("." . "~/garen/emacs/backup")))
+       (message "Directory does not exist: ~/garen/emacs/backup"))
+     
+     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+     ;; 
+     ;; Load the real init
+     ;; 
+     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+     
+     (require 'tycho-init)
+
+     (menu-bar-mode -1)
+
+The first ``seq`` defines the load path. Like other configuration paths,
+this is the directory that emacs will look for files to load when you
+use ``require`` later. ``load-path`` does not crawl a directory hierarchy,
+so if you store emacs lisp within ``~/emacs/``, you'll need to add those
+directories here. To see the value of the ``load-path`` use "``C-h v``" in
+emacs. I then define "``custom.el``" as it's own file to prevent
+``customize`` from saving configuration in my init file. Then I use
+``require`` to load a number of display-related functions (from the file
+``~/emacs/tycho-display.el``,) including the ``tycho-font-medium``
+function.
+
+Then I have a number of machine-specific configuration opens set,
+mostly to keep multiple machines from overwriting state files. 
+
+Finally, I load the file with the real configuration with the
+``(require 'tycho-init)`` sexp. The configuration is located in the
+``~/emacs/tycho-init.el`` file. The file closes with the ``(menu-bar-mode
+-1)`` sexp, which is the last part of the configuration to evaluate and
+ensures that there isn't a menu-bar at all. 
+
+Require and Provide
+-------------------
+
+``require``, however, does not simply load ``.el`` files in the load
+path. Rather, the file needs to be announced to emacs. Accomplish this
+with ``provide`` functions in the file. For ``~/emacs/tycho-display.el``
+the relevant parts are as follows: ::
+
+     (provide 'tycho-display) 
+
+     (defun tycho-font-medium ()
+       (interactive)
+       (setq default-frame-alist '((font-backend . "xft")
+                                   (font . "Inconsolata-13") 
+                                   (vertical-scroll-bars . 0)
+                                   (menu-bar-lines . 0) 
+                                   (tool-bar-lines . 0)
+                                   (alpha 86 84)))
+       (tool-bar-mode -1)
+       (scroll-bar-mode -1))
+
+     (global-set-key (kbd "C-c f m") 'tychoish-font-medium)
+
+     (setq-default inhibit-startup-message 't
+                   initial-scratch-message 'nil
+                   save-place t
+                   scroll-bar-mode nil
+                   tool-bar-mode nil
+                   menu-bar-mode nil
+                   scroll-margin 0                  
+                   indent-tabs-mode nil
+                   flyspell-issue-message-flag 'nil
+                   size-indication-mode t
+                   scroll-conservatively 25
+                   scroll-preserve-screen-position 1
+                   cursor-in-non-selected-windows nil)
+
+The ``provide`` call, identifies this file as the location of the
+tycho-display functionality. ``tycho-font-medium`` describes the font
+and display parameters that I called in the ``.emacs`` file. And the
+file ends with a keybiding to call that function and a number of
+default settings. 
+
+Init and Conclusion
+-------------------
+
+While the ``tycho-init.el`` file holds all of the interesting
+configuration options, functions and settings, it's mostly beyond the
+scope of this file. When you download contributed emacs.lisp files
+from `emacswiki <http://emacswiki.org/>`_, put them in ``~/emacs/`` and
+put the ``require`` call in ``tycho-init.el``. By convention ``provide``
+names map to file names but be sure to check files to ensure that this
+is the case. 
+
+Using this setup as a framework, you can create--without confusion--a
+number of configuration files to properly collect and organize your
+settings, emacs modes, and other emacs code and functions that you've
+gotten from other users. Good luck!
+
+You may also be interested in a couple other tutorials I've collected on emacs,
+notably: 
+
+- :doc:`/posts/running-multiple-emacs-daemons-on-a-single-system`
+
+- :doc:`/posts/decreasing-emacs-start-times`

@@ -1,0 +1,156 @@
+=======================
+Python Concurrency Rant
+=======================
+
+.. post:: 2014-02-21
+   :author: tychoish
+
+What and Why
+------------
+
+Concurrency is the term we use to think about operations that can
+happen at the same time. A computer program is just a list of
+operations that have some sort of ordering. If you run those operation
+in the order the programmer wrote them in, and the programmer wrote
+the right code, everything should work fine: If operation B depends on
+the outcome of operation A, then you just have to make sure that
+operation A happens before B. 
+
+There are two kinds of problems that this kind of model doesn't
+address well: 
+
+1. Programs that respond to user or environmental interactions. 
+
+   Many programs don't actually have a linear procedure, and depend on
+   user input (e.g. a word processor or text editor must wait for you
+   to type text). 
+
+   Let's call these "event driven" programs. 
+
+2. Programs may consist of operations that don't depend on each other.
+
+   Consider a program that has operations A, B, C, and D. Sometimes,
+   you may have to run D after C and C after B, and B after A; but
+   sometimes B, C, and D are totally (or mostly) independent of each
+   other and can run in any order. 
+   
+   Let's call these "potentially parallel workloads." 
+   
+While both of these kinds of models help us to think about ways that
+software can reflect and respond to operations happening at the same
+time, concurrency is more subtle than "parallelism." Concurrency is
+about modeling the dependencies and relationships between operations,
+parallelism is really just an implementation detail.
+
+Parallelism requires concurrency; but you can execute concurrent
+designs in parallel or not as needed or desired.
+
+There are caveats both during development and at runtime:
+
+- Concurrency makes some aspects of programming harder because if the
+  order and timing of operations changes, the possibilities for
+  conflicts and errors grows. It also makes it harder to follow the
+  (possible) chain of operations.
+
+- At runtime, if you use parallelism to execute a concurrent program,
+  there's an amount of overhead spent managing the more complex
+  execution model. 
+
+Reference: <http://blog.golang.org/concurrency-is-not-parallelism>
+
+Implementation Details (Python)
+-------------------------------
+
+A single Python process does not support parallel execution: only one
+operation can execute at a time. Sort of. The rule is more complex: 
+
+- Python operations in Python code. 
+
+  This covers all Python code you write and depend on, and much of the
+  standard library.
+
+- (some) Python operations implemented in C.
+
+  This covers some operations like computing hashes and reading and
+  writing to files or network connections. 
+
+- Operations that run external processes. (e.g. "run this shell
+  command")
+
+The second two operations can run in parallel with each other and with
+execution of Python code (i.e. these operations are "yielding"). These
+yielding operations typically account for the operations that take the
+most amount of time. The downside is that yielding operations account
+for a small percentage of the *number* of operations in a Python
+program. 
+
+Python provides two (native) parallelism metaphors: threads and
+processes. 
+
+- Threads are lightweight, have low start-up costs, and have
+  access to the shared state of the master process. The downsides is
+  that only yielding operations can actually run in
+  parallel. Otherwise only one Python operation can run at
+  once. Except that operations will interleave at some level, which
+  means you can get some kinds of concurrency bugs (deadlocks/races)
+  even though there's limited parallel operation.
+ 
+- Processes are less lightweight, have slightly higher start-up costs,
+  but can all execute Python code at the same time. They also don't
+  have access to shared state, which means there are more costs
+  associated with copying memory to-and-from the process. While there
+  are more limitations on what can run in processes, because there's
+  isolation and no shared state, its more safe.
+  
+The best part is that the interfaces for working with threads and
+processes are the same, which makes testing easier. 
+
+The Rant
+--------
+
+The problem isn't that Python doesn't have concurrency tools, it's
+that no one started writing Python with the idea that parallelism and
+concurrency would be a defining element of *most* systems that people
+would need or want to write. 
+
+The result is that while it's theoretically possible to modify Python
+itself to be more concurrent, one of the two things happen:
+
+- Everything breaks. There's a lot of Python that depends on the
+  current behavior and concurrency semantics. The Python Standard
+  Library is big. The ecosystem of software written in Python is even
+  bigger and everything would break.
+  
+- In order to prevent everything from breaking, to make the changes
+  required to support more intrinsic parallelism you actually
+  end up slowing-down the arguably more common non-parallel
+  operation.
+  
+The work on this is ongoing, of course, and eventually I suspect there
+will be some solution, but the change is unlikely to be
+revolutionary. In the mean time, it's awkward and sometimes awful: 
+
+- You can write concurrent code, which is nice, but there is some
+  awkwardness around these expression: calling lots of functions
+  inside of `multiprocessing.Pool.apply_async()` (or something
+  similar) is pain; callbacks and passing passing function pointers
+  around is awkward and prone to error.
+  
+- Because so little of the Python tooling expects thing to be running
+  in parallel, there are huge warts: error handling blows; the
+  documentation doesn't really cover what yields or doesn't, and what
+  can or will block.
+
+- In some situations, you can get pretty good parallel
+  performance. This feels great, but often doesn't feel predictable or
+  reproducible.
+
+What would make this better?
+
+- There should be standard ways to express concurrency that feels less
+  like a hack. This is a syntax/library deficiency. 
+  
+- Errors in processes should bubble up more forcefully. 
+
+- Documentation of Python APIs should affirmatively describe the
+  concurrency semantics of all operations.

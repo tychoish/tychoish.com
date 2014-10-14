@@ -65,7 +65,7 @@ How to Teach People to Code
 ---------------------------
 
 (*This section of the post derives from and summaries the*
-":doc:`How to Teach People to Program </technical-literacy/teaching-programming>`"
+":doc:`How to Teach People to Program </core/teaching-programming>`"
 *wiki page.*)
 
 Most of the way that programming books and courses teach programming are

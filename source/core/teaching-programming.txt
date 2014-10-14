@@ -1,0 +1,83 @@
+==============================
+How to Teach People to Program
+==============================
+
+.. post:: 2012-07-01
+   :author: tychoish
+
+Have you ever tried to learn how to code? More importantly, have you
+ever read materials or writing that has attempted to teach you how to
+code? It's pretty dire, but in my estimation:
+
+- The examples are pretty dumb. While it's important to have
+  "practical" examples that demonstrate core concepts and don't take
+  too long to explain, given a limitation in space and attention
+  space, the end result is that if you're not already familiar with the
+  large concepts the practical examples don't seem that practical.
+
+  Digital publication and distribution means that space isn't so much
+  a problem, but I think the attempt to make everything self contained
+  and make examples grokable in and of themselves, ends up making
+  programming seem harder than it is.
+
+- Basic computer science/engineering knowledge (i.e. data structures,
+  compilation, object orientation, data typing, etc.) is fundamental
+  to the way that accomplished programmers think about programming but
+  aren't really needed to teach people how to program.
+
+  Sure, knowing about how data structures work or about type systems
+  will make you a better programmer, but it's hard to *not* learn
+  about these concepts if you do any real amount of programming.
+
+- Syntax isn't that important, but you can't ignore it either.
+
+  Teaching people syntax, ways of expressing ideas and processes in a
+  programming language is difficult: People learn new syntax pretty
+  quickly given appropriate reference material and sufficient
+  exposure, particularly when they're familiar with the underlying
+  concepts. In light of this most attempts to teach programming either
+  focus too much on the underlying concepts *or* present syntax
+  without explaining what's happening.
+
+- Slow reveals are really frustrating.
+
+  I've read the first few hundred pages of *Learning Python* a couple
+  of times, and it's always frustrating because it takes hundreds of
+  pages to get to the point where you're writing even very simple
+  scripts.
+
+  In any kind of writing on technical subjects, it's important to
+  avoid playing your cards too close to your chest: there should be no
+  surprises, and your readers should always be able to figure out
+  what's coming next and be able to understand why they're
+  reading/doing whatever they're doing. It sounds simple but, lots of
+  great programming books don't do a great job of this.
+
+- The kinds of programs you end up writing when you're trying to learn
+  how to program have very little to do with the kinds of programs
+  that you write when you're actually doing things that require that
+  you write code.
+
+  Practical examples, shouldn't just seem like they're grounded in
+  reality, but they should outline examples that a programmer might
+  actually encounter.
+
+The solutions to these problems are complex and there are many
+possible solutions. As a starting point:
+
+- Separate the way you present core concepts (i.e. data structures,
+  typing, functions, classes, etc.) from actual code examples and from
+  actual explanations of the syntax.
+
+  Interlink/cross reference everything, but if you give people the
+  tools to answer their own questions they'll learn what they actually
+  need to know, and you can then do a better job of explaining the
+  syntax, basic concepts, and practical examples.
+
+- Provide longer examples that aren't contrived.
+
+  Examples don't need to start from first principals, and don't need
+  to be entirely self contained. Programming work rarely starts from
+  first principals (relative,) and is rarely actually self
+  contained. It's foolish, then to use these sorts of pedagogical
+  tools.

@@ -57,7 +57,10 @@ Insert the following line into your ``.zshrc``:
 
    source /path/to/git-sync-lib
 
-Then configure the beginning of the :doc:`git-sync-lib </code/git-sync-lib>`
+
+
+Then configure the beginning of the `git-sync-lib
+<https://gist.github.com/tychoish/f73efe9825dd691369b9>`_
 file with references to your git repositories. When complete, you will
 have access to the following functions in your shell: ``gss`` (provides
 a system-wide git status,) ``autoci`` (automatically pulls new content
