@@ -1,10 +1,15 @@
-========
-Tychoish
-========
+========================================
+``tychoish`` -- Visits, Modes, and Forms
+========================================
 
-.. postlist:: 59
+*tychoish* is an eclectic collection of posts on programming,
+documentation, software development, folk dance, science fiction
+literature, cyborgs, political economy, emacs, Python, Go, shape note
+singing, and hand knitting.
 
-.. toctree:: 
+.. postlist:: 30
+
+.. toctree::
    :titlesonly:
    :hidden:
 

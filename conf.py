@@ -9,6 +9,7 @@ import sys
 import os
 import datetime
 import logging
+import random
 
 from giza.config.runtime import RuntimeStateConfig
 from giza.config.helper import fetch_config, get_versions
@@ -27,10 +28,17 @@ needs_sphinx = '1.0'
 extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.todo',
-    'ablog'
+    'ablog',
+    'alabaster',
 ]
 
-import ablog 
+import ablog
+import alabaster
+
+blog_baseurl = 'http://tychoish.com/'
+blog_feed_archives = True
+blog_feed_fulltext = True
+fontawesome_link_cdn = True
 
 locale_dirs = [ os.path.join(conf.paths.projectroot, conf.paths.locale) ]
 gettext_compact = False
@@ -44,15 +52,20 @@ source_suffix = '.txt'
 master_doc = sconf.master_doc
 language = 'en'
 project = sconf.project
-copyright = u'2002-{0}'.format(datetime.date.today().year)
+copyright = u'2002-{0} tycho garen'.format(datetime.date.today().year)
 version = conf.version.branch
 release = conf.version.release
 
+taglines = [
+    'Uncertain Seas',
+    'Visits, Modes, and Forms',
+    'Fly from my Thoughts',
+]
 rst_epilog = '\n'.join([
     '.. |branch| replace:: ``{0}``'.format(conf.git.branches.current),
     '.. |copy| unicode:: U+000A9',
     '.. |year| replace:: {0}'.format(datetime.date.today().year),
-    '.. |hardlink| replace:: {0}/{1}'.format(conf.project.url, conf.git.branches.current)
+    '.. |hardlink| replace:: {0}/{1}'.format(conf.project.url, conf.git.branches.current),
 ])
 
 pygments_style = 'sphinx'
@@ -72,7 +85,7 @@ for i in conf.system.files.data.intersphinx:
 # -- Options for HTML output ---------------------------------------------------
 
 html_theme = sconf.theme.name
-html_theme_path = [ os.path.join(conf.paths.output, 'institute-tools', 'themes') ]
+html_theme_path = [ os.path.join(conf.paths.output, 'institute-tools', 'themes'), alabaster.get_path() ]
 html_title = conf.project.title
 htmlhelp_basename = 'MongoDB'
 
@@ -90,7 +103,7 @@ html_show_copyright = True
 
 html_theme_options = {
     # 'google_analytics': sconf.theme.google_analytics,
-    'project': sconf.theme.project,
+    # 'project': sconf.theme.project,
 }
 
 html_sidebars = sconf.sidebars

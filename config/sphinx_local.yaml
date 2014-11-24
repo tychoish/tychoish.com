@@ -4,18 +4,19 @@ logo: ".static/logo.png"
 paths:
   static: ['source/.static']
 theme:
-  name: 'cyborg'
+  name: 'alabaster'
   project: 'tychoish'
   google_analytics: 'UA-0000000-0'
-
 sidebars:
   '**':
     - 'localtoc.html'
-    - 'relations.html'
+    # - 'relations.html'
     - 'postcard.html'
     - 'recentposts.html'
     # - 'tagcloud.html'
+    - 'about.html'
     - 'categories.html'
     - 'archives.html'
-    - 'sourcelink.html'
+    # - 'page_meta.html' 
+    # - 'gittip.html'
 ...

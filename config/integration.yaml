@@ -11,14 +11,14 @@ it:
 base:
   links: []
   targets:
-    - 'latex'
-    - 'json'
-    - 'singlehtml'
+    # - 'latex'
+    # - 'json'
+    # - 'singlehtml'
     - 'html'
-    - 'man'
-    - 'epub'
+    # - 'man'
+    # - 'epub'
     - 'dirhtml'
-  doc-root:
-    - 'sitemap.xml'
-    - 'osd.xml'
+  doc-root: []
+    # - 'sitemap.xml'
+    # - 'osd.xml'
   branch-root: null
