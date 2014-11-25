@@ -5,7 +5,7 @@ As You Mean to Go On
 .. post:: 2014-11-24
    :author: tychoish
    :category: announcements
-   :tag: meta, journal
+   :tags: meta, journal
    :location: Brooklyn
 
 I've not posted for a long time. A lot of things have changed since I
