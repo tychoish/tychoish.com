@@ -6,7 +6,7 @@ paths:
 theme:
   name: 'alabaster'
   project: 'tychoish'
-  google_analytics: 'UA-0000000-0'
+  google_analytics: 'UA-2505694-6'
 sidebars:
   '**':
     - 'localtoc.html'
@@ -17,6 +17,6 @@ sidebars:
     - 'about.html'
     - 'categories.html'
     - 'archives.html'
-    # - 'page_meta.html' 
+    # - 'page_meta.html'
     # - 'gittip.html'
 ...

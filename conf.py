@@ -102,8 +102,7 @@ html_show_sphinx = True
 html_show_copyright = True
 
 html_theme_options = {
-    # 'google_analytics': sconf.theme.google_analytics,
-    # 'project': sconf.theme.project,
+    'analytics_id': sconf.theme.google_analytics,
 }
 
 html_sidebars = sconf.sidebars
