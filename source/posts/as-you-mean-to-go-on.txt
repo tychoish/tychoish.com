@@ -10,36 +10,32 @@ As You Mean to Go On
 
 I've not posted for a long time. A lot of things have changed since I
 last wrote, and this post is probably not the best place to recount
-all of them. Indeed in most respects many things haven't changed. Some
-have...
+all of them. Indeed many things haven't changed, but the highlights..
 
 I'm still living in New York, but I bought a coop in Brooklyn and
-moved, which has been great. I'm surprised at how quickly I feel at
+moved, which has been great. I'm surprised at how quickly I have felt at
 home and rooted. The sequence of changes in my life that brought me
-there are simple, really, but difficult to make sense of. I was there
-throughout the entire process and my understanding continues to
-develop. The fact that I am aware of this development is both a great
-comfort and has made it difficult to write about the things going on
-in my life with confidence.
+there are simple, really, but I've struggled to make sense of things
+even so. The fact that I am aware of *development* is both a great
+comfort, but it has been hard to write about my life with confidence.
 
-I replaced my tea habit with a coffee habit. I still attend yoga
-classes regularly, and sing Sacred Harp (and sometimes other shaped
+I replaced my tea habit with a coffee habit. I attend yoga
+classes regularly. I sing Sacred Harp (and sometimes other shaped
 notes). I Morris dance with the Bowery Boys, the Men's team in New
 York City, and continue to dance with Braintrust Morris, an *kind of
 butch* Morris team with a spiritual center in the Midwest.
 
-
 I'm still working on the same kinds of developer documentation, build
 systems, and software development projects for the same company as
-before. I still think open source software is important, and am really
+before. I still think open source software is important. I am really
 interested in helping people develop technological literacy and
-understanding as well as improving developer infrastructure. I use
-Linux extensively, write a lot of Python, tinker with Go and Common
-Lisp, and live and breathe in Emacs.
+understanding. I want to work on improving infrastructure for
+developers and development. I use Linux extensively, write a lot of
+Python, tinker with Go and Common Lisp, and live and breathe in Emacs.
 
 Life is good. Life is difficult. Life is.
 
-I look forward to sharing it with you.
+I look forward to writing about it here.
 
 -----
 
@@ -47,7 +43,7 @@ So the blog looks different. I changed some things:
 
 I switched from using `ikiwiki <http://ikiwiki.info>`_ to using
 `Sphinx <http://sphinx-doc.org>`_ and an extension called `ablog
-<http://ablog.readthedocs.org/>`_. This is because: I wanted to use
+<http://ablog.readthedocs.org/>`_. I wanted to use
 a system that I was familiar with and could hack on (that's Sphinx,
 which is the core of the tool chain I use at work.) Also, I wanted
 to use reStructuredText, which I prefer.
@@ -55,17 +51,17 @@ to use reStructuredText, which I prefer.
 Ikiwiki is great software, and I quite enjoy it's architecture and
 use. The problem is that it's not in particularly active development,
 the code base is in Perl (which I don't know, and except for ikiwiki,
-have no reason to learn,) the project has probably peaked in terms of
-its adoption curve, and my goals and user story aren't totally inline
-it's goals and user stories.
+have no reason to learn,) and the project has probably peaked in terms
+of its adoption curve. To boot, my goals and user story aren't totally
+inline it's goals and user stories.
 
 Sphinx isn't totally right for a blogging engine either, but it's
-solid, and I am actively developing and maintaining tools around
-Sphinx. Indeed, I was able to make some small changes in ablog that
-shaved about a third of the time off of the total build time.
+solid. I actively develop and maintain tools around Sphinx. Indeed, I
+was able to make some small changes in ablog that shaved about a third
+of the time off of the total build time. Not bad.
 
 It took a lot of time to convert all the posts to the new format, but
-now that everything is in order and the tools are usable its time to
+now that everything is in order and the tools are usable it is time to
 start writing again.
 
 -----
