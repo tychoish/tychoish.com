@@ -4,7 +4,6 @@ As You Mean to Go On
 
 .. post:: 2014-11-24
    :author: tychoish
-   :category: announcements
    :tags: meta, journal
    :location: Brooklyn
 
