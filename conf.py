@@ -40,6 +40,9 @@ blog_feed_archives = True
 blog_feed_fulltext = True
 fontawesome_link_cdn = True
 
+disqus_shortname = 'tychoish'
+disqus_pages = False
+
 locale_dirs = [ os.path.join(conf.paths.projectroot, conf.paths.locale) ]
 gettext_compact = False
 
