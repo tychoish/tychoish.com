@@ -21,7 +21,7 @@ the blog structure and `giza <https://pypi.python.org/pypi/giza>`_ to
 automate the build and deployment process. Installing ``ablog`` and
 ``giza`` will install all other required dependencies: ::
 
-   pip install giza ablog
+   pip install giza ablog alabaster
 
 Build the Site
 --------------
