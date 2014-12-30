@@ -1,0 +1,55 @@
+===============
+Deep Dark Piles
+===============
+
+.. post:: 2014-12-30
+   :author: tychoish
+            
+For the last 9 years or so, I've kept a copy of a novel that I wrote
+during my junior year of high school. It's so crappy, I haven't
+brought myself to even unzip the binder that it's printed. I think I
+have a Word 95 file of it somewhere, but it mainly exists in paper
+form. 
+
+It's so bad folks. So bad. A few years back I reread the prologue,
+because of course it had a prologue, in order to rip off a few things
+for a different, only slightly less terrible story. Other than that
+I've basically been unable to bring myself to even read the damn
+thing. The plotting isn't particularly inventive, the characters are
+juvenile, and the settings are bland.
+
+I realized the other day that it's like all of those shell scripts
+that I wrote when I was learning to program that are hundreds of lines
+long, that intermingle argument parsing with actual logic, with
+horrible no-abstracted data structures and access patterns, and
+implementations that are neither clear nor efficient.
+
+There's also the two hundred thousand words of total crap that I wrote
+for my last job. And another couple of un-salvageable fiction projects
+that I didn't even bother to print. Even with my current job, I
+sometimes come across awful paragraphs that I know that I must have
+written a few years ago, but completely fail to understand what I was
+thinking.
+
+We all, probably (hopefully!) have things like this in our own
+lives. I spent a long time feeling like these concrete examples of my
+ineptitude were a burden, a body of work that I had to revise before
+I could make progress on new projects.
+
+Untrue. 
+
+I learned a lot from writing these crappy pieces of code, the failed
+stories, and terrible pieces of work product. Furthermore all of the
+work I've done in these areas since producing the terrible dark piles,
+has been better, and continues to get better. 
+
+Embedded in the idea that these dark piles are a burden is the idea
+that the production of text, of code is difficult, challenging, and
+the majority work. But this isn't true. The work is in figuring out
+the interfaces, the implementation, figuring out the structure and
+flow of ideas through a system of functions or paragraphs. Typing it
+all out is the easy and fun part. It is, of course, important to
+revise and polish work, but sometimes it's enough to learn from your
+mistakes, to remind ourselves of our progress, and move on.
+
+More than anything, I am thankful.
