@@ -6,23 +6,23 @@ Deep Dark Piles
    :author: tychoish
             
 For the last 9 years or so, I've kept a copy of a novel that I wrote
-during my junior year of high school. It's so crappy, I haven't
-brought myself to even unzip the binder that it's printed. I think I
-have a Word 95 file of it somewhere, but it mainly exists in paper
-form. 
+during my junior year of high school. It's so crappy: I think I have a
+Word 95 file of it somewhere, but it mainly exists in this binder,
+which turns out to be just the right height to use as a foot rest, to
+keep my feet planted on the floor while I sit up at my desk.
 
-It's so bad folks. So bad. A few years back I reread the prologue,
-because of course it had a prologue, in order to rip off a few things
-for a different, only slightly less terrible story. Other than that
-I've basically been unable to bring myself to even read the damn
-thing. The plotting isn't particularly inventive, the characters are
-juvenile, and the settings are bland.
+It's so bad folks. So bad. A few years back I reread the prologue in
+order to rip off a few things for a different, only slightly less
+terrible story. The plotting isn't particularly inventive, the
+characters are juvenile, and the settings are bland.
 
 I realized the other day that it's like all of those shell scripts
 that I wrote when I was learning to program that are hundreds of lines
 long, that intermingle argument parsing with actual logic, with
-horrible no-abstracted data structures and access patterns, and
-implementations that are neither clear nor efficient.
+horrible unabstracted data structures and access patterns, and
+implementations that are neither clear nor efficient. Those same
+scripts that I run a few dozen times a day because they just work, and
+if I don't think about it too hard, it doesn't matter much.
 
 There's also the two hundred thousand words of total crap that I wrote
 for my last job. And another couple of un-salvageable fiction projects
@@ -31,10 +31,10 @@ sometimes come across awful paragraphs that I know that I must have
 written a few years ago, but completely fail to understand what I was
 thinking.
 
-We all, probably (hopefully!) have things like this in our own
-lives. I spent a long time feeling like these concrete examples of my
-ineptitude were a burden, a body of work that I had to revise before
-I could make progress on new projects.
+We all, probably have our own examples of the detritus of our past
+efforts. I spent a long time feeling like these concrete examples of
+my ineptitude were a burden, a body of work that I had to revise
+before I could start working on new projects.
 
 Untrue. 
 
@@ -43,13 +43,17 @@ stories, and terrible pieces of work product. Furthermore all of the
 work I've done in these areas since producing the terrible dark piles,
 has been better, and continues to get better. 
 
-Embedded in the idea that these dark piles are a burden is the idea
+Embedded in the idea that these dark piles are a burden is the notion
 that the production of text, of code is difficult, challenging, and
-the majority work. But this isn't true. The work is in figuring out
-the interfaces, the implementation, figuring out the structure and
-flow of ideas through a system of functions or paragraphs. Typing it
-all out is the easy and fun part. It is, of course, important to
-revise and polish work, but sometimes it's enough to learn from your
-mistakes, to remind ourselves of our progress, and move on.
+the majority of the work in creation. But this isn't true. The work is
+in figuring out the interfaces, the implementation, figuring out the
+structure and flow of ideas through a system of functions or
+paragraphs. Typing it all out is the easy and fun part. It is, of
+course, important to revise and polish work, but sometimes it's enough
+to learn from your mistakes, to remind ourselves of our progress, and
+move on.
+
+Every time I sit down to write, I put my feet on this binder and
+remember how far I've come.
 
 More than anything, I am thankful.
