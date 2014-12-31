@@ -14,7 +14,7 @@ sidebars:
     - 'postcard.html'
     - 'recentposts.html'
     - 'about.html'
-    - 'tagcloud.html'
+    # - 'tagcloud.html'
     # - 'categories.html'
     - 'archives.html'
     # - 'page_meta.html'
