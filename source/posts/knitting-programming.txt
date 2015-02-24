@@ -1,0 +1,80 @@
+========================
+Knitting and Programming
+========================
+
+.. post:: 2015-02-24
+   :author: tychoish
+   :location: Brooklyn, NY
+              
+For 2013 and some of 2012 and 2014, I mostly stopped knitting and
+spent the time teaching myself how to *really* make software. It
+wasn't exactly that intentional in the moment, but time is finite and
+both knitting and coding require similar kinds of attention and
+thought. In retrospect this is what happened. 
+
+I've started knitting again, not as much or in the same ways that I
+used to, but there's a bit more space in my brain for additional
+projects. I've thought often about writing about similarities between
+knitting and programming.
+
+.. raw:: html
+
+   <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/zZ-iK1L-sT/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">A sweater ontology</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Sam Kleinman (@tychoish) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-02-22T13:55:34+00:00">Feb 22, 2015 at 5:55am PST</time></p></div></blockquote>
+   <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>'
+
+The two activities have much in common. Code and knitting are both
+highly structured activities, with a reasonably finite syntax of
+possible component operations. Most programming languages have a few
+dozen keywords, fundamental types, and built in operations that give
+rise to all programs (more or less,) and knitting similarly provides a
+small number of operations (knit, purl, increase, decrease, slip) that
+you can combine and alter to produce pretty much any kind of fabric. 
+
+Knitting patterns are procedural (like programs, generally) and have a
+standard syntax that shares a number of common elements with
+contemporary programming languages, including loops, conditionals,
+`map <http://en.wikipedia.org/wiki/Map_%28higher-order_function%29>`_ 
+(functional) operations, as well as some non-trivial concurrency. 
+
+While each knitting stitch depends on the stitches that happen before
+and after it, they are all reasonably atomic within the knitted
+object. At the same time, many knitting projects have lots other
+objects that happen at the same time, along different dimensions:
+shaping, stitch patterns, short rows, sleeves/gloves as well as
+parallel objects like socks. Knitters routinely track multiple things
+happening at the same time, with some success: a task that many
+programmers struggle with.
+
+The connection between knitting and programming isn't terribly
+surprising or novel: indeed there's a long history between the
+development of textile production and technology more broadly, but
+hand knitting is sort of a technological oddity, so the connections
+don't have the same history that you'd have in weaving (say.) 
+
+-----
+
+I've struggled to write this post for a while and have always
+had a hard time figuring out what the conclusion is or should be. I
+think I've felt like there should be some potential for synthesis,
+some way to take the things I've learned about software and use that
+to write programs to support knitting or design work, or vice
+versa. Increasingly, I think that this is the *anti-conclusion*.
+
+Sure you can represent knitting patterns using formal languages (such
+as programming languages,) and it wouldn't be *that* hard to write
+software that converted a pattern, or validated the math, but the math
+is really the easy part of knitting.
+
+The hard part about knitting things is not figuring out how many
+stitches you need to knit an object that's the right size, but rather
+figuring out what the right size is. It's easy to know how many
+stitches you need, and hard to decide how big or small a thing should
+be. It's also true that actually knitting things takes the largest
+amount of time; figuring out the math and making the design decisions
+are comparatively quick for most projects. 
+
+Computers wouldn't be able to tell how long we should knit the cuffs
+of our socks or the sleeves of our sweaters, no matter how much code
+we write.
+
+In any case, I'll be over here, knitting away at my sweater.
