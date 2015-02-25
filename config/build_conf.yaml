@@ -1,6 +1,6 @@
 git:
   remote:
-    upstream: 'tychoish/rhizome'
+    upstream: 'tychoish/tychoish.com'
     tools: 'cyborgisntitute/institute-tools'
 project:
   name: 'tychoish'

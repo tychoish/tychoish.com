@@ -93,7 +93,7 @@ for i in conf.system.files.data.intersphinx:
 html_theme = sconf.theme.name
 html_theme_path = [ os.path.join(conf.paths.output, 'institute-tools', 'themes'), alabaster.get_path() ]
 html_title = conf.project.title
-htmlhelp_basename = 'MongoDB'
+htmlhelp_basename = 'rhizome'
 
 html_logo = None
 html_static_path = sconf.paths.static
