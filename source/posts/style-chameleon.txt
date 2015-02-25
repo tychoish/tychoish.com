@@ -1,0 +1,88 @@
+================
+Style Chameleon
+================
+
+.. post:: 2015-02-25
+   :author: tychoish
+   :location: Brooklyn, NY
+
+When I started my current job there were three major problems with the
+documentation:
+
+- There was too much duplicated content, so it was difficult to know
+  where to point people.
+
+- Given that there were always multiple versions of the product in
+  use, it was hard to figure out which paragraph refereed to which
+  version, particularly as the product changed.
+
+- Each page felt like it was written by someone else (it was!) and the
+  reading experience could be quite jarring.
+
+The first two were huge tasks, but the  solutions were pretty straight
+forward: build system for documentation that was structured such that
+it could theoretically hold all the information (replace lots of
+information repositories with a single information repository) and
+then use maintenance branches in a version control system to snapshot
+and fork off old branches as they're released.
+
+Done.
+
+The last problem is harder. Much harder.
+
+I did a pretty good job, at first, of just writing everything myself,
+which meant that the first drafts all sounded like they were written
+by one person: because they were. This doesn't scale. The next step
+was to edit the hell out of all contributions that weren't by me.
+
+This also doesn't scale.
+
+There are some canonical solutions: write a long style guide and try
+to get people to comply with it; use templates and standard formats
+for documents so that everything uses common structure and forms. It's
+still hard to enforce, but it's something.
+
+I put a lot of time into content reuse systems that had
+additional structure. It helps, and reduces some editorial overhead,
+but has the same weak points as the conventional solution.
+
+At some point, you need actual humans to edit and make sure things are
+clear and consistent across the entire corpus. If you don't have the
+resources for good editors, then either writers have to spend a
+significant amount of time editing, which is a huge time suck (and
+slows progress,) or you start to get drift.
+
+I'm not sure that we have a good answer yet. In the mean time
+
+Appendices
+----------
+
+Style in Group Processes
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. As you innovate and improve it's *really* hard to resist the
+   impulse to go back to older pieces to revise them. You should make
+   passes through all your content on some sort of schedule, but you
+   have to give yourself permission and allowance to go back and fix
+   style later.
+
+2. Common style is less about "being right," and more about figuring
+   out the kind of communication that's appropriate for the target
+   audience(s) and using effective structure to support them. In
+   short: compromise.
+
+3. Style is about the entire reading expenses, not just the syntax, or
+   the typesetting: it is both of these things as well as others. For
+   some kinds of texts, the trick is to often to write as few words as
+   possible, and to make it so that people can scan through documents
+   as quickly as possible while only reading the sections that are
+   relevant to them.
+
+Personal Observations
+~~~~~~~~~~~~~~~~~~~~~
+
+It's actually interesting to write blogs again, as I'm
+(re?)discovering a style of writing that I have been very comfortable
+with in the past but haven't really exercised recently. It's also
+interesting to see how my own writing and writing process has changed
+as a result of writing so much technical material.
