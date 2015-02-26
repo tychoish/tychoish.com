@@ -12,11 +12,11 @@ sidebars:
     - 'localtoc.html'
     # - 'relations.html'
     - 'postcard.html'
-    - 'recentposts.html'
+    - 'twitter.html'
     - 'about.html'
+    - 'recentposts.html'
     # - 'tagcloud.html'
     # - 'categories.html'
     - 'archives.html'
     # - 'page_meta.html'
     # - 'gittip.html'
-...
