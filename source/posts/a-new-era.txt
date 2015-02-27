@@ -1,0 +1,95 @@
+=========
+A New Era
+=========
+
+.. post:: 2015-02-26
+   :author: tychoish
+   :location: Cork, Ireland
+
+I'm writing the draft of this from an airplane bound for Ireland for a
+week of singing. I travel often: taking weekend jaunts to go to folk
+festivals, singing conventions, Morris dancing tours, *and* so forth,
+I don't really vacation often. I find travel and managing the
+logistics of being in unfamiliar places stressful,
+and my idea of a good time has a lot to do with sipping a cup of
+coffee [#coffee]_ writing something, and reading a book.
+
+Even though I love spending time at home, it's still important to
+(sometimes) leave, try new things, and *exist* somewhere differently
+for a little while to reset and reflect a bit. With luck, this
+vacation thing will become something I feel comfortable doing, at
+least occasionally.
+
+While it certainly wasn't part of the initial plan, it turns out that
+this trip is pretty well timed both as denotes a relatively
+significant change in my life, and I think is a fitting celebration of
+a period of large changes in my life.
+
+----
+
+I am no longer a technical writer. 
+
+When I return to work, I'm joining the core engineering team to work
+on build infrastructure and systems projects. I'll be working on
+automating our release process, maintaining continuous integration
+systems, along with an eclectic set of other projects (some of which
+may involve some of technical writing. There are somethings
+that you can never escape.) 
+
+The truth though, is that this change has been a long time coming: it
+feels pretty natural. I've been working on the documentation build
+system for a while, and that's increasingly been the most *fun* part
+of my job, so it'll be good to spend more time doing that kind of work
+and learn from folks who know more about this kind of thing. Also,
+build infrastructure and packaging is incredibly important to how
+people use software and how engineers work, which have been consistent
+interests of mine for years.
+
+Also, through the last release process, I've also found that I'm
+burning out on writing documentation. I can do it, and I'm not bad at
+it. After writing, editing and shepherding, more than a million
+words of documentation (over several thousand pages,) I sometimes feel
+like I've seen it all. I'm interested in seeing the new ideas and
+perspectives that will prosper in my absence. I'm also eager to see
+how the foundation I've built stands up without me around. *It was
+time*.
+
+----
+
+The decision to change jobs happened rather suddenly. While I've built
+a narrative (see above), in reality, something clicked and I realized
+it was time. Ten days later there was a plan. I said to myself, "*Shit
+I thought I was done with major life changes for a while.*"
+
+In the last year, I've bought an apartment and moved to Brooklyn and
+reorganized my local family grouping: [#euphemism]_ The good news is
+that I find my self in a good state, and 'there's nothing left to
+change. [#parts]_
+
+It's been a rocky year, nothing is going to change that. Even if in
+retrospect I find myself satisfied with my actions and decisions, and
+even if I come out the other end better for my struggle, this is a
+year I wouldn't care to repeat.
+
+And even so, I'm excited about the future, about continuing to do
+interesting work professionally, about enjoying my city and local
+geography, to surround myself with top notch humans, and to make cool
+things.
+
+These are early days, and there's work to do. 
+
+----
+
+In the mean time, I'll be over here, enjoying something different for
+a little while.
+
+.. [#coffee] Astute readers of the blog will note that I am
+   historically a tea drinker. I changed to coffee in late June 2014:
+   I discovered that I didn't mind the taste as much as I thought, and
+   I like a slightly more potent caffeine delivery system.
+
+.. [#euphemism] Break ups suck, each in its own special fucked up
+   way. 
+
+.. [#parts] I've started singing more tenor, I guess, so maybe there's
+   more to change after all.
