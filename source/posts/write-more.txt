@@ -1,0 +1,71 @@
+==========
+Write More
+==========
+
+.. post:: 2015-07-19
+   :author: tychoish
+   :location: Brooklyn, NY
+
+I keep pretty busy: in many ways too busy, which his compounded by the
+fact that I'm working on a lot of different projects: a few writing
+projects, some programming projects, not to mention a handful of
+related work projects.
+
+It's probably too much, and I'm very aware of two effects that I'm
+keen to manage and deal with.
+
+#. Context switching is expensive and every time you switch focus or
+   projects there are associated costs of the context switch.
+
+#. If you don't dedicate time and energy to a project on a regular
+   basis, the cost of the context switching is harder, and more
+   expensive, because you have to figure out all of your earlier
+   decisions.
+
+The conclusion then is, "dedicate large blocks of time to your
+projects, and make sure that you regularly spend a little time on any
+project that you want to make progress on." That's hard.
+
+Software developers think a lot about how to manage this problem, and
+as I attempt to restart a bunch of my personal projects, and focus on
+making things outside of work again, I've been thinking about how to
+extrapolate these lessons to my own personal projects and avoid losing
+all of my time to context switching, and make sure that I'm making
+progress.
+
+While the last year has been relatively light with regards to personal
+projects, I've been working on one or two things pretty consistently
+since high school. I haven't, however, written fiction in 4 years or
+so, despite an attempt about 3.5 years ago to outline and begin
+writing a new novel. There are a lot of reasons--different goals,
+priorities, and life events, all contributed--in the end I still have
+to re-teach myself how to write.
+
+Not, exactly, how to write or tell stories, but how to manage a
+writing project and how to fit writing.
+
+I've begun writing, longhand, notes for a story. Really the same story
+I wanted to write 3.5 years ago, and I really enjoy many aspects of
+the story and it's good to re-explore these ideas with a more fresh
+perspective. I'm pleasantly startled by the extent to which writing a
+(small) page of notes every day lets me keep the story fresh and make
+progress on story development: even though the progress and time spent
+are small, the small amounts of progress and opportunity to focus on
+the story for a few moments every day has been grand. It's like a
+mindfulness exercise and in that delightful.
+
+Context switching is still hard. I'm working on the following
+approaches:
+
+- Dedicating some time to project planning and identifying descried
+  tasks make it easier to make small accomplishments.
+
+- Breaking up context switches with some sort of physical
+  activity. Rather than trying and bounce directly between tasks,
+  moving around and doing something simple makes it easy to focus on
+  the next step and make the most of a limited task.
+
+- Explicitly schedule research and other open ended tasks to avoid
+  excessive rabbit holes and distraction.
+
+Other lessons forthcoming.

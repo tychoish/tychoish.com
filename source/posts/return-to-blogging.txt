@@ -1,0 +1,102 @@
+==================
+Return to Blogging
+==================
+
+.. post:: 2015-07-19
+   :author: tychoish
+   :location: Brooklyn, NY
+
+And then I forgot to blog for 5 months.
+
+It's not like nothing's happened on the one hand, or like I've failed
+to keep busy, but I haven't been in the habit of writing blog entries.
+
+That's not entirely true.
+
+I've drafted, or started to draft a lot of posts, but haven't gotten
+around to post them, or haven't really felt like I had a sense of
+where they fit in to a larger story, or how writing blog posts
+contributed to other personal goals or projects.
+
+I'm not entirely sure, still.
+
+It's also totally true that personal blogs are a much different thing
+in 2015 as they were in 2000, and with things like `twitter
+<http://twitter.com/tychoish>`_, there's a lot of ways in which the
+trivial record of my day to day, isn't something I feel like I get a
+lot of chance to explore elsewhere.
+
+Writing, Then and Now
+---------------------
+
+For a long time, I identified my profession as writing, and indeed,
+writing this blog was definitely a part of how I sold myself to
+potential employers, and it mostly work. While I'm still *a writer*,
+it's a much smaller part of my professional work now, and I think a
+smaller part of my work in general. I'm not sure where blogging fits
+into that.
+
+I'm also not particularly, sure that I want to have this blog track
+the shift in my professional work to begin talking about software
+development and related issues. I know a number of people who blog
+extensively about technology and a nexus of cultural and social issues
+around the use and development of technology and software.
+
+I think these folks are doing great work, and I may be interested in
+contributing from time to time, but my perspective on technology and
+software is pretty niche, and I think the most successful technology
+bloggers, even folks who tend to focus on the human and culture side,
+often have a large background on . I don't really want to write posts
+that explain how technology works, not because I'm incapable, but
+because I have a really niche perspective and I'm kind of burnt out on
+that kind of writing. Maybe someday.
+
+I'll definitely write something about technology from time to time,
+and will report on various projects from time to time, but it's been
+interesting to observe a change in what I'm spending my time and
+energy on without feeling a corresponding interest in writing about
+that here.
+
+I've also been contemplating what it means to be "a person with a
+blog" particularly with regards to career and avocational projects as
+I think about what those projects are.
+
+Work: Career and Projects 
+-------------------------
+
+I think it's important to be clear to not overemphasize the boundary
+between "day-job work" and personal projects. There was a long time,
+when I thought that the only way to have day-job-work that was deeply
+satisfying and intellectually fulfilling and impactful was to be an
+academic. That's simply not true, and while every profession is
+different, I'm quite lucky to have a profession where the can be a lot
+of bleed-over and cross pollination between work-work and
+personal-work.
+
+Having said that, I've definitely had fewer active personal projects
+recently: I've not written fiction since 2011, I've not really
+blogged, I've not really written software that I thought would be
+useful to anyone other than myself (or work) in a long time. I'm left
+both with the problem of needing to figure out how to prioritize and
+focus on new projects (or revive old projects,) as well as needing to
+figure out how working on making things, outside of work fits into my
+goals.
+
+Or even, what those larger goals are.
+
+I don't have answers now, of course, but I do have some general
+themes.
+
+- I want to write science fiction stories, and use this blog as a
+  space to discuss the writing process as well as the things I'm
+  reading.
+
+- I want to blog more regularly, potentially writing about more
+  personal topics possibly on another site, disconnected from this
+  site.
+
+- I'd like to be in the habit of making the code I write sufficiently
+  polished and *designed* to make it sensible for me to share with
+  other people, and I think it'd be fun to discuss those projects.
+
+We'll see how it goes!
