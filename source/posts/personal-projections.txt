@@ -1,6 +1,6 @@
-==========
-Write More
-==========
+====================
+Personal Projections
+====================
 
 .. post:: 2015-07-19
    :author: tychoish
