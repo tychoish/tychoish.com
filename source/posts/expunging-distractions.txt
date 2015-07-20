@@ -1,0 +1,71 @@
+======================
+Expunging Distractions
+======================
+
+.. post:: 2015-07-20
+   :author: tychoish
+   :location: Brooklyn, NY
+
+Context switching is hard. Focusing on a bunch of different tasks in a
+short period of time is quite inefficient because you loose a lot of
+time and energy switching between tasks. While the problem is obvious,
+the solution or solutions aren't always particularly easy to implement
+in your own life.
+
+I've been thinking a lot about this as part of my attempt to
+:doc:`return to blogging </posts/return-to-blogging>` and
+
+Common solutions are to the context switching include:
+
+- front loading organizational and project planning work so that you
+  can work on a sequence of related tasks without needing to switch
+  between the modes of "doing thigns," and "planning to do the next
+  thing."
+
+- Schedule and time-box tasks so that you have have "scared time and
+  space" to work on projects without needing to context switch.
+
+- Remove periodic and open ended tasks from interrupt based work
+  habits. Don't let things like "email" or "incoming work queues"
+  become an excuse to lose focus or switch contexts too much.
+
+But sometimes it's actually hard to do this. Really hard. And not just
+sometimes. Often. And it's compounded by the fact that common
+distractions force context switches *and* we tend to habitually do
+things that are distracting during context switches, which only
+increases the costs.
+
+While I'm keen on doing things like prioritizing and scheduling time
+to do specific work on a project, I'm also interested in reducing
+the things that are distracting and attempting to make the context
+switches as inexpensive as possible. This includes projects like:
+
+- writing long hand in situations where I can type longer than I can
+  write so that I don't context switch after every thought and can let
+  my mind do creative work while my hands and eyes are engaged with
+  writing.
+
+- reducing the overall time that I spend in web browsers, which I find
+  too tempting. This means only really using social networking on my
+  phone, making sure that I can do email and chat outside of
+  browsers. and packaging up reference materials in ways that are
+  easily accessible from my coding environment.
+
+- provide good notification collectors for myself so that I can more
+  passively monitor things I care about (e.g. email, twitter, messages
+  from friends,) and only really deal with the issues that seem
+  critical at the time.
+
+- do things that require movement in between tasks or projects. This
+  is both good for the body and mind (generally) and useful for
+  providing a non
+
+It doesn't work all the time, of course, and I've found it interesting
+to watch the kinds of things that distract me and find ways to reduce
+their impact or
+
+But these are the things *I* do, in order to improve the way that I
+work. I think the general approach is good, but the specific
+implementations will vary per person.
+
+*Your mileage will vary.*
