@@ -13,7 +13,6 @@ import random
 
 from giza.config.runtime import RuntimeStateConfig
 from giza.config.helper import fetch_config, get_versions
-from giza.tools.strings import dot_concat
 
 logging.basicConfig(level=logging.INFO)
 conf = fetch_config(RuntimeStateConfig())
