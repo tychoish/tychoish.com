@@ -22,7 +22,7 @@ Common solutions are to the context switching include:
   between the modes of "doing thigns," and "planning to do the next
   thing."
 
-- Schedule and time-box tasks so that you have have "scared time and
+- Schedule and time-box tasks so that you have "sacred time and
   space" to work on projects without needing to context switch.
 
 - Remove periodic and open ended tasks from interrupt based work

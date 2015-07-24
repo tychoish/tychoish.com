@@ -38,7 +38,6 @@ blog_baseurl = 'http://tychoish.com/'
 blog_feed_archives = True
 blog_feed_fulltext = True
 blog_archive_titles = True
-
 fontawesome_link_cdn = True
 
 
