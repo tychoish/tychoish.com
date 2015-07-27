@@ -1,0 +1,133 @@
+==========================================
+Have a Gimlet: A Go JSON/HTTP API Toolkit
+==========================================
+
+.. post:: 
+   :author: tychoish
+   :location: Brooklyn, NY
+
+Look folks, I made a thing!
+
+It's called `gimlet <https://github.com/tychoish/gimlet>`_, and it's a
+Go(lang) tool for making JSON/HTTP APIs (i.e. REST with JSON). Give it
+a whirl! 
+
+It's actually even less a tool, and more of a toolkit or just "a place
+to put all of the annoying infrastructure that you'll inevitably need
+when you want to build an JSON/HTTP interface, but that have nothing
+to do what *whatever* your API/application does: routing, serializing
+and serializing JSON. 
+
+Nothing hard, nothing terribly interesting, and certainly not anything
+you couldn't do another way, but, it's almost certainly true that this
+layer of application infrastructure is totally orthogonal to whatever
+you application is actually doing, so you should focus on that, and
+probaly use something like Gimliet.
+
+Background
+----------
+
+I'm using the term HTTP/JSON APIs for services where you send and
+recive JSON data over HTTP. Sometimes people call these REST APIs, and
+that's not inaccurate, but I think REST is a bit more complicated, and
+not exactly the core paradigm that I'm pursuing with Gimlet. 
+
+Sending and reviving JSON over HTTP makes a lot of sense: there are
+great tools for parsing JSON and HTTP is a decent high level protocol
+for interprocess communication between simple data applications. Look
+up "microservices" at your leisure. 
+
+Go is a great language for this it has a lot of tooling that
+anticipates these kinds of applications, and the deployment model is
+really friendly to operations teams and systems. Also the static
+
+typing and reasonable separation of private and public interfaces is
+particularly lovely. 
+
+So it should be no surprise that there are a lot tools for building
+stweb applications, frameworks even. They're great, things like `gorilla
+<http://www.gorillatoolkit.org/>`_ and `negroni
+<https://github.com/codegangsta/negroni>`_ are great and provide a
+very useful set of tools for building Go web apps. Indeed even Gimlet
+uses components of each of these tools. 
+
+The issue, and reason for Gimlet, is that all of these tools assume
+that you're building a web application, with web pages, static
+resources, form handling, session state handling, and other things
+that are totally irrelevant to writing JSON/HTTP interfaces. 
+
+So  then, Gimlet is a tool to build these kinds of APIs: simple, uses
+Negroni and Gorilla's ``mux``, and does pretty much everything you
+need except actually write your code. 
+
+Example
+-------
+
+Set up the app with some basic configuration: :: 
+
+   import "github.com/tychoish/gimlet"
+
+   app := gimlet.NewApp()
+   app.SetPort(9001)
+   app.SetDefaultVersion(1)
+   
+This sets which port the HTTP server is going to listen for requests
+and configures the default version of the API. You do want all of your
+endpoints prefixed with "``/v<number>``"  right? The default version
+of the API is also avalible without the prefix, or if the version of
+the route is ``0``. If you don't set it to ``0``. 
+
+Then register some routes: :: 
+
+   app.AddRoute("/<path>").Version(<int>).Get().Handler(http.HandlerFunc)
+   app.AddRoute("/<path>").Version(<int>).Post().Handler(http.HandlerFunc)
+
+``app.AddRoute`` returns an API route object with a set of chainable
+methods for defining the routes. If you add multiple HTTP methods
+(``GET`` ``POST`` and the like,) then Gimlet automatically defines
+multiple routes with the same handler for each method.
+
+For handlers, I typically just write functions that take arguments
+from the top level context (database connections, application
+configuration, etc) and return``http.HandlerFunc`` objects. For
+example:  :: 
+
+   func helloWorld(config *Configuration) http.HandlerFunc {
+        return func(w http.ResponseWriter, r *http.Request) {
+             input := make(map[string]interface{})
+             response := make(map[string]interface{})            
+
+             err := gimlet.GetJSON(input)
+
+             // do stuff here
+             
+             gimlet.WriteJSON(w, response)
+        }
+   }
+
+Gimlet has the following functions that parse JSON out of the body of
+a request, or add JSON output to the body of a response, they are: 
+
+- ``WriteJSONResponse(w http.ResponseWrite, code int, data interface{})``
+- ``GetJSON(r *http.Request, data interface)``
+
+Which read or write data into the ``interface{}`` object (typically a
+``struct``.) The following three provide consistent response writers
+for common exit codes: 
+
+- ``WriteJSON(w http.ResponseWriter, data interface{}) // 200`` 
+- ``WriteErrorJSON(w http.ResponseWriter, data interface{}) // 400`` 
+- ``WriteInternalErrorJSON(w http.ResponseWriter, data interface{}) // 500`` 
+
+Finally, when you've written your app, kick it all off, with the
+following: :: 
+
+   err := app.Run()
+   if err != nil {
+      fmt.Println(err)
+      os.Exit(1)
+   }
+
+And that's it. Enjoy, tell me in the comments or on the `issues feed
+<https://github.com/tychoish/gimlet/issues>`_ if you find something
+broken or confusing. Contribution welcome, of course.
