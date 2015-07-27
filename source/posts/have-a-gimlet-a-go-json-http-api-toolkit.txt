@@ -2,7 +2,7 @@
 Have a Gimlet: A Go JSON/HTTP API Toolkit
 ==========================================
 
-.. post:: 
+.. post:: 2015-07-26
    :author: tychoish
    :location: Brooklyn, NY
 
