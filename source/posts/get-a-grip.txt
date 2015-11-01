@@ -1,0 +1,42 @@
+===========
+Get a Grip!
+===========
+
+.. post:: 2015-11-01
+   :author: tychoish
+   :location: Brooklyn, NY
+
+I made another Go(lang) thing. `Grip
+<https://github.com/tychoish/grip>`_ is a set of logging tools modeled
+on Go's standard logging system, with some additional (related)
+features, including:
+
+- level-based logging, with the ability to set a minimum threshold to
+  exclude log messages based on priority (i.e. debugging.)
+
+- Error capture/logging, to log Go ``error`` objects.
+
+- Error aggregation, in continue-on-error situations, where you want
+  to perform a bunch of operations and then return any errors if *any*
+  of them returned an error but don't want to return an error after
+  the first operation fails.
+
+- Logging to the ``systemd`` journal with fallback to standard library
+  logging to standard output.
+
+There are helper functions for logging using different kinds of
+default string formatting, as well as functions that take error
+objects, and a "lazy" logging method that take a simple interface for
+building log messages at log-time rather than at operation time.
+
+None of these features are terribly exciting, and the ``systemd``
+library wraps the ``systemd`` library from CoreOS. I'm a big fan of
+log levels and priority filtering, so it's nice to have a tool for
+that. 
+
+In the future, I'd like to add more generic syslog support if that's
+useful, and potentially tools for better categorical logging. There's
+also a good deal of repeated code and it might be nice to us this as
+an excuse to write a code-generator using ``go tool``.
+
+Pull requests and feedback are, of course, welcome.
