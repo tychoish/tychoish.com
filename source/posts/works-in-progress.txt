@@ -1,0 +1,184 @@
+=================
+Works In Progress
+=================
+
+.. post:: 2015-11-08
+   :author: tychoish
+   :location: Brooklyn, NY
+
+I've posed about some of these projects before, and I used to
+regularly post little overviews of the things that I'm working on. But
+I've not done a lot of this recently. Time to do some back fill.
+
+I think it's probably good to take a step back from time to time and
+inventory and evaluate the priorities of various projects. Not to
+mention the fact that I usually say "I'm not really doing much these
+days," when this isn't really true. Here goes:
+
+Mango
+-----
+
+This is a project that is private, at the moment, because its mostly
+useful as an experimental piece of testing infrastructure for
+work. The idea is to use the same underlying infrastructure to start,
+stop, and configure processes, but provide REST and command line
+interfaces for all of these operations.
+
+We have a lot of distinct software that does this internally and it's
+always fragile and limited. While grand discussions of code reuse are
+sort of silly, in this case, it's a bit annoying that we've reinvented
+this wheel a dozen times... And have to make different changes to a
+dozen tools as configurations change.
+
+This was also my first project written in Go, which means its been a
+great learning experience *and* the place where a number of other Go
+packages that have become useful in their own right.
+
+Future work:
+
+- Write all the tests.
+
+- Make the REST interface feature compatible with one of the legacy
+  tools it aims to supplant.
+
+- Make a new REST interface that's more sensible and might be easier
+  to use in more circumstances.
+
+- Figure out better ways to block for the appearance of synchronous
+  operations, despite the fact that internally the operations are
+  non-blocking.
+
+Gimlet
+------
+
+`Gimlet Blog Post
+<http://www.tychoish.com/posts/have-a-gimlet-a-go-json-http-api-toolkit/>`_
+
+`Gimlet Github <https://github.com/tychoish/gimlet>`_
+
+This is really just some convenience work to make it easy to build
+REST interfaces in Go, without needing to suffer through tools that
+are designed to support complete "full-stack" web applications. It's
+built on the same Negroni/Gorilla Mux stack that I think everyone
+uses, and it's very ``net/http`` compliant, but with an API that makes
+it easy (even fun,) to provide high quality JSON+HTTP interfaces.
+
+It struck me, when working on part of Mango, that this chunk of the
+code didn't have anything to do with the actual core application and
+was all about getting a REST-like application to happen. So I split
+that out, for everyone's pleasure/suffering.
+
+Future work:
+
+- Documentation.
+
+- More tests.
+
+- Exposed API stabilization and versioning.
+
+- Develop story for authentication, sessions and SSL termination.
+
+Grip
+----
+
+`Grip Blog Post <http://tychoish.com/posts/get-a-grip/>`_
+
+`Grip Github <https://github.com/tychoish/grip>`_
+
+Grip is a logging package for Go that attempts to resolve my constant
+feelings of "I miss *x* feature of the Python logging package." It's
+not feature comparable with Python logging (but that's ok,) and since
+I was working on writing a logging package, I got to add some nifty
+features.
+
+Future Work:
+
+- More documentation.
+
+- Better examples, and potentially support for "print this message
+  ``x``\ % of the time."
+
+- Support for logging to conventional ``syslog`` sources in addition to
+  systemd's logging.
+
+Archer/Dropkick
+---------------
+
+I've wanted to work on a tool to unify a number of personal operations
+and scripts in a single system and tool. The problem that I'm trying
+to solve is that I have a number of different computers that I use
+with some frequency, including laptops, desktops, and a number of
+servers, and test systems, and I want to be able to describe their
+configuration, and synchronize files and ``git`` data between
+machines with ease.
+
+My first approach was getting a bunch of random system setup scripts
+out of a makefile and into a configuration file that a Go program knew
+how to read and process, and then to expand from there.
+
+I haven't gotten to the git repository management stuff, because I was
+working on the *Gitgone* project.
+
+Future Work:
+
+- add better support for creating and managing containers and images
+  using ``systemd-nspawn`` and ``docker``.
+
+- support for setting up git repositories
+
+- support for syncing automatically (i.e. dropox-like functional it -> *dropkick*).
+
+- report status of repositories via a REST API
+
+- triggering syncs on remote systems.
+
+Gitgone
+-------
+
+`Gitgone Github <https://github.com/tychoish/git gone>`_
+
+The idea here is to provide a consistent and full featured way to
+access and interact with git repositories from Go without needing to
+wrap the ``git`` command yourself (or worse, learn the ins and outs of
+the `git2go <https://github.com/libgit2/git2go>`_). This is largely
+modeled off of a similar project I did as part of `libgiza
+<https://github.com/tychoish/libgiza>`_ that does the same sort of
+thing for Python repositories.
+
+The cool thing about this project is its build abstractly so that you
+can use one interface and switch between a `libgit2
+<https://libgit2.github.com/>`_ implementation and one that wraps the
+``git`` command itself.
+
+Future Work:
+
+- complete implementation using libgit2
+
+- write more extensive tests.
+
+- add support for creating repository tags.
+
+- provide access to the log.
+
+Novel Project
+-------------
+
+I've been, sporadically, working on notes for writing a new
+novel. It's not going anywhere fast, and I'm not even to the point.
+where I'm outling plot.
+
+I'm trying to tell a story about urban development and how smaller
+local communities/groups participate in larger communities/groups. How
+does urban development in place a, impact nation building more
+globally, and what does this all look like to people as they get to
+work in the morning, and have to build neighborhood institutions like
+gyms and restaurants and grocery stores.
+
+But there's a lot of work to do, and while thinking about the project
+is fun, there's a *lot* of work, and I feel like I'm not ready to
+commit to a writing project of this scope *and*, I'm not sure how
+publishable this project will be (and furthermore, even if its'
+publishable, will I be willing to do all of that work.)
+
+Software projects are much harder to justify and prioritize than
+writing projects.
