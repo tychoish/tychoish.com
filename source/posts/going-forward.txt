@@ -1,0 +1,103 @@
+=============
+Going Forward
+=============
+
+.. post:: 2016-07-24
+   :author: tychoish
+   :location: Brooklyn, NY
+
+I wrote :doc:`a post about moving on from being a technical writer
+</posts/a-new-era/>`, and I've definitely written some since then
+about programming and various side projects, but I haven't really done
+the kind of public reflection on this topic that I've done
+historically about, many other things.
+
+When I switched to a programming team, I knew some things about
+computers, and I was a decent Python programmer. The goal, then was to
+teach myself a second programming language (Go,) and learn how to make
+"real" software with other people, or on teams with other people. Both
+of those projects are going well: I think I've become pretty solid as
+a Go programmer, although, it's hard to say what "real" software is,
+or if I'm good at making it, but all indications are positive.
+
+This weekend, for various reasons, I've been reviving a project that I
+did some work on this fall and winter, that I've abandoned for about 6
+months. It's been both troubling (there are parts that are truly
+terrible,) and kind of rewarding to see how much I've grown as a
+programmer just from looking at the code.
+
+Queue then, I guess, the self reflective interlude.
+
+My reason for wanting to learn--really learn--a second programming
+language, was to make sure that all the things I knew about system
+design, algorithms, and data structures was generalizable, and not
+rooted in the semantics of a specific language or even implementation
+of that language. I was also interested in learning more about the
+process of learning new programming languages so that I had some
+experience with the learning process, which may come in handy in the
+future.
+
+Learning Go, I think helped me achieve or realize these goals. While I
+haven't really set out to learn a *third* language yet, it feels
+tractable. I've also noticed some changes and differences in some
+other aspects of my interests.
+
+I used to be really interested in programming qua programming, and I
+thought a lot about programming languages. While I still can evaluate
+programming languages, and have my own share of opinions about "the
+way things work," I'm less concerned with the specific syntax or
+implementation. I think a lot about build tools, platform support,
+deployment models, and distributing methods and stories, rather than
+what it can do or how you have to write it. Or, *how you make it ship
+it and run it*.
+
+I've also gotten less interested in UNIX-esque systems administration
+and operations, which is historically a thing I've been quite
+interested in. These days, I find myself thinking more about the
+following kinds of problems:
+
+- build systems, the tools building software from source files, (and
+  sometimes testing it!) and the ways to do this super efficiently and
+  sensibly. Build systems are *quite* hard because in a lot of ways
+  they're the point through which your software (as software)
+  interacts with all of the platforms it runs on. Efficient build
+  systems have a huge impact on developer productivity, which is a big
+  interest.
+
+- developer productivity, this is a big catch all category, but it's
+  almost always true that people are more expensive than computers, so
+  working on tools and features (like better build systems, or
+  automating various aspects of the development process,)
+
+- continuous integration and deployment, again connected to developer
+  productivity, but taking the "automate building and testing," story
+  to its logical conclusion. CD environments mean you deploy changes
+  much more often, but you also require and force yourself to trust
+  the automated systems and make sure that project leadership and
+  management is just as automated as the development experience.
+
+- internal infrastructure, as in "internal services and tools that all
+  applications need," like logging, queuing systems, abstractions for
+  persistence, deployment systems, testing, and exposed interfaces
+  (e.g. RPC systems, REST/HTTP, or command line option option
+  parsing). Having good tools for these generic aspects of the
+  application make writing *actual features* for users easier. I'm
+  also increasingly convinced that the way to improve applications and
+  systems is to improve these lower level components and their
+  interfaces.
+
+Free Software and open source are still important, as is UNIX, but
+these kinds of developer productivity and automation issues are a
+level above that. I've changed in the last 5 years, software has
+changed in the last five years, the way we run software on systems has
+changed in the last 5 years. I'm super excited to see what kinds of
+things I can do in this space, and where I end up in 5 years.
+
+I'm also interested in thinking about ways to write about this. I'd
+written drafts of a number of posts that were about learning how to
+program, about systems administration, and now that I'm finding and
+making more time for writing, one of the things I don't really know
+about is what kind of writing on these topics I'm interested in doing,
+or how to do it in a way that *anyone* would be interested in reading.
+
+We shall see. Regardless, I hope that I'm back, now.
